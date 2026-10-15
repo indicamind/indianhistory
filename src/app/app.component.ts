@@ -7,7 +7,7 @@ import { BookSidebarComponent } from './components/book-sidebar/book-sidebar.com
 import { ArticleService } from './services/article.service';
 import { RecommendedBook } from './models/book.model';
 import { getPageBookRecommendations } from './utils/book-recommendations';
-import { recommendedBooks } from './data/recommended-books';
+import { booksForMode } from './data/recommended-books';
 import { LocaleService } from './i18n/locale.service';
 import { DevModeService } from './services/dev-mode.service';
 import { PeriodsService } from './services/periods.service';
@@ -39,7 +39,16 @@ export class AppComponent implements AfterViewInit {
   private placementVersion = 0;
   readonly menuOpen = signal(false);
   readonly highlightedBook = signal<RecommendedBook | null>(null);
-  readonly excludedBookIsbns = signal<string[]>([]);
+  private readonly storyBookIsbns = signal<string[]>([]);
+  readonly displayedBook = computed(() => {
+    const book = this.highlightedBook();
+    if (this.devMode.isDevMode() || book?.affiliateUrl) return book;
+    return booksForMode(false).find(candidate => !this.storyBookIsbns().includes(candidate.isbn10)) ?? null;
+  });
+  readonly excludedBookIsbns = computed(() => {
+    const displayed = this.displayedBook();
+    return [...new Set([...this.storyBookIsbns(), ...(displayed ? [displayed.isbn10] : [])])];
+  });
   readonly isBookLibrary = signal(false);
 
   constructor() {
@@ -91,22 +100,21 @@ export class AppComponent implements AfterViewInit {
       await this.articles.whenReady();
       if (version !== this.placementVersion) return;
       const article = this.articles.getBySlug(decodeURIComponent(articleMatch[1])) ?? null;
-      storyRecommendations = getPageBookRecommendations(article).below.map(book => book.isbn10);
+      storyRecommendations = getPageBookRecommendations(article, this.devMode.isDevMode()).below.map(book => book.isbn10);
     }
 
     const nextBook = this.pickRandomBook(storyRecommendations);
     this.highlightedBook.set(nextBook);
-    this.excludedBookIsbns.set(
-      [...new Set([...storyRecommendations, ...(nextBook ? [nextBook.isbn10] : [])])]
-    );
+    this.storyBookIsbns.set(storyRecommendations);
   }
 
   private pickRandomBook(excludedIsbns: string[]): RecommendedBook | null {
     const previousIsbn = this.highlightedBook()?.isbn10;
     const excluded = new Set([...excludedIsbns, ...(previousIsbn ? [previousIsbn] : [])]);
-    const choices = recommendedBooks.filter(book => !excluded.has(book.isbn10));
+    const availableBooks = booksForMode(this.devMode.isDevMode());
+    const choices = availableBooks.filter(book => !excluded.has(book.isbn10));
     if (choices.length) return choices[Math.floor(Math.random() * choices.length)];
-    return recommendedBooks.find(book => !excludedIsbns.includes(book.isbn10)) ?? null;
+    return availableBooks.find(book => !excludedIsbns.includes(book.isbn10)) ?? null;
   }
 
   toggleMenu(): void {

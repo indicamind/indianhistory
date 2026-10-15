@@ -156,3 +156,7 @@ export const recommendedBooks: RecommendedBook[] = [
   ...amazonHistoryBooks,
   ...worldHistoryBooks,
 ];
+
+export function booksForMode(isDevMode: boolean): RecommendedBook[] {
+  return isDevMode ? recommendedBooks : recommendedBooks.filter(book => !!book.affiliateUrl);
+}

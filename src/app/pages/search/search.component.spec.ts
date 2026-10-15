@@ -1,4 +1,4 @@
-import { DestroyRef, Injector, runInInjectionContext } from '@angular/core';
+import { DestroyRef, Injector, runInInjectionContext, signal } from '@angular/core';
 import { ActivatedRoute, Router } from '@angular/router';
 import { SearchComponent } from './search.component';
 import { ArticleService } from '../../services/article.service';
@@ -9,8 +9,10 @@ import { SearchResult } from '../../models/article.model';
 
 describe('SearchComponent', () => {
   let component: SearchComponent;
+  let isDevMode: ReturnType<typeof signal<boolean>>;
 
   beforeEach(() => {
+    isDevMode = signal(false);
     const mockArticles = {
       whenReady: async () => {},
       allArticles: () => [],
@@ -50,7 +52,7 @@ describe('SearchComponent', () => {
         { provide: ArticleService, useValue: mockArticles },
         { provide: PeriodsService, useValue: mockPeriods },
         { provide: LocaleService, useValue: mockLocale },
-        { provide: DevModeService, useValue: { isDevMode: () => false } },
+        { provide: DevModeService, useValue: { isDevMode } },
         { provide: ActivatedRoute, useValue: mockRoute },
         { provide: Router, useValue: mockRouter },
         { provide: DestroyRef, useValue: mockDestroyRef },
@@ -64,6 +66,14 @@ describe('SearchComponent', () => {
     expect(component.query).toBe('');
     expect(component.activeFilter()).toBe('all');
     expect(component.loading()).toBeTruthy();
+  });
+
+  it('hides stale pending book results when dev mode is switched off', () => {
+    component.results.set([{ kind: 'book', slug: 'pending', title: 'Pending', excerpt: '', kindLabel: 'Book', externalUrl: 'https://www.amazon.in/dp/pending', affiliatePending: true }]);
+    isDevMode.set(true);
+    expect(component.filteredResults().length).toBe(1);
+    isDevMode.set(false);
+    expect(component.filteredResults().length).toBe(0);
   });
 
   it('should match results correctly with active filters', () => {

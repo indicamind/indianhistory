@@ -2,6 +2,7 @@ import { Injector, runInInjectionContext, signal } from '@angular/core';
 import { MustReadComponent } from './must-read.component';
 import { LocaleService } from '../../i18n/locale.service';
 import { DevModeService } from '../../services/dev-mode.service';
+import { recommendedBooks } from '../../data/recommended-books';
 
 describe('MustReadComponent', () => {
   let component: MustReadComponent;
@@ -35,6 +36,7 @@ describe('MustReadComponent', () => {
   });
 
   it('should update query filter and reset visible count', () => {
+    isDevMode.set(true);
     component.loadMore();
     expect(component.visibleCount()).toBe(48);
 
@@ -65,6 +67,7 @@ describe('MustReadComponent', () => {
   });
 
   it('should load more books when loadMore is called', () => {
+    isDevMode.set(true);
     const initialVisible = component.visibleBooks().length;
     component.loadMore();
     expect(component.visibleCount()).toBe(48);
@@ -77,11 +80,14 @@ describe('MustReadComponent', () => {
     }
   });
 
-  it('does not filter regular book results by affiliate status', () => {
-    const allBooks = component.filteredBooks().length;
+  it('shows only affiliated books publicly and includes pending books in dev mode', () => {
+    expect(component.catalogueBooks().every(book => !!book.affiliateUrl)).toBeTruthy();
+    const publicCount = component.catalogueBooks().length;
     component.linkFilter.set('pending');
-    expect(component.filteredBooks().length).toBe(allBooks);
+    expect(component.filteredBooks().length).toBe(publicCount);
     isDevMode.set(true);
-    expect(component.filteredBooks().length).toBeLessThan(allBooks);
+    expect(component.catalogueBooks().length).toBe(recommendedBooks.length);
+    expect(component.filteredBooks().length).toBeGreaterThan(0);
+    expect(component.filteredBooks().every(book => !book.affiliateUrl)).toBeTruthy();
   });
 });

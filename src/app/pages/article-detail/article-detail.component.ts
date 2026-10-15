@@ -1,10 +1,9 @@
 import { DatePipe } from '@angular/common';
-import { Component, inject, OnInit, signal } from '@angular/core';
+import { Component, computed, inject, OnInit, signal } from '@angular/core';
 import { DomSanitizer, SafeHtml } from '@angular/platform-browser';
 import { ActivatedRoute, RouterLink } from '@angular/router';
 import { LazyImageDirective } from '../../directives/lazy-image.directive';
 import { Article } from '../../models/article.model';
-import { RecommendedBook } from '../../models/book.model';
 import { ArticleService } from '../../services/article.service';
 import { PeriodsService } from '../../services/periods.service';
 import { getPageBookRecommendations } from '../../utils/book-recommendations';
@@ -26,9 +25,8 @@ export class ArticleDetailComponent implements OnInit {
   readonly devMode = inject(DevModeService);
   readonly article = signal<Article | null>(null);
   readonly html = signal<SafeHtml | null>(null);
-  readonly relatedBooks = signal<RecommendedBook[]>([]);
-  readonly suggestedBook = signal<RecommendedBook | null>(null);
-  readonly bottomBooks = signal<RecommendedBook[]>([]);
+  readonly bookRecommendations = computed(() => getPageBookRecommendations(this.article(), this.devMode.isDevMode()));
+  readonly bottomBooks = computed(() => this.bookRecommendations().below);
   readonly loading = signal(true);
   readonly backLink = signal<string>('/');
   readonly backText = signal<string>(this.locale.translate('← Back to home'));
@@ -37,11 +35,7 @@ export class ArticleDetailComponent implements OnInit {
     await this.articles.whenReady();
     const slug = this.route.snapshot.paramMap.get('slug') ?? '';
     const found = await this.articles.getArticle(slug).catch(() => null) ?? null;
-    const picks = getPageBookRecommendations(found);
     this.article.set(found);
-    this.relatedBooks.set(picks.related);
-    this.suggestedBook.set(picks.highlighted);
-    this.bottomBooks.set(picks.below);
     this.html.set(
       found ? this.sanitizer.bypassSecurityTrustHtml(found.html) : null
     );

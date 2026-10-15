@@ -1,5 +1,5 @@
 import { AfterViewInit, Component, ElementRef, OnDestroy, ViewChild, computed, inject, input, signal } from '@angular/core';
-import { recommendedBooks } from '../../data/recommended-books';
+import { booksForMode, recommendedBooks } from '../../data/recommended-books';
 import { LazyImageDirective } from '../../directives/lazy-image.directive';
 import { filterBooks } from '../../utils/book-catalogue';
 import { LocaleService } from '../../i18n/locale.service';
@@ -16,17 +16,16 @@ export class MustReadComponent implements AfterViewInit, OnDestroy {
   readonly devMode = inject(DevModeService);
   readonly presentation = input<'full' | 'bottom'>('full');
   readonly excludeIsbns = input<string[]>(recommendedBooks[0] ? [recommendedBooks[0].isbn10] : []);
-  readonly books = recommendedBooks;
   readonly query = signal('');
   readonly linkFilter = signal('all');
   readonly category = signal('all');
   readonly visibleCount = signal(24);
   readonly catalogueBooks = computed(() => {
     const excluded = this.presentation() === 'bottom' ? new Set(this.excludeIsbns()) : new Set<string>();
-    return this.books.filter(book => !excluded.has(book.isbn10));
+    return booksForMode(this.devMode.isDevMode()).filter(book => !excluded.has(book.isbn10));
   });
   readonly pendingCount = computed(() => this.catalogueBooks().filter(book => !book.affiliateUrl).length);
-  readonly categories = [...new Set(this.books.map(book => book.category).filter((category): category is string => !!category))].sort();
+  readonly categories = computed(() => [...new Set(this.catalogueBooks().map(book => book.category).filter((category): category is string => !!category))].sort());
   readonly filteredBooks = computed(() => filterBooks(this.catalogueBooks(), {
     query: this.query(), category: this.category(), linkStatus: this.devMode.isDevMode() ? this.linkFilter() : 'all',
   }));

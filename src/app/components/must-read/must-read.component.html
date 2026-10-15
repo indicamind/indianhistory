@@ -15,7 +15,7 @@
     <label>Topic
       <select [value]="category()" (change)="updateFilter('category', $any($event.target).value)">
         <option value="all">All topics</option>
-        @for (topic of categories; track topic) { <option [value]="topic">{{ locale.translate(topic) }}</option> }
+        @for (topic of categories(); track topic) { <option [value]="topic">{{ locale.translate(topic) }}</option> }
       </select>
     </label>
     @if (devMode.isDevMode()) {

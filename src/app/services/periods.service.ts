@@ -1,6 +1,6 @@
 import { Injectable, inject } from '@angular/core';
 import { ArticleSummary, SearchResult, SearchResultKind } from '../models/article.model';
-import { recommendedBooks } from '../data/recommended-books';
+import { booksForMode } from '../data/recommended-books';
 import { ArticleService } from './article.service';
 import { LocaleService } from '../i18n/locale.service';
 import { DevModeService } from './dev-mode.service';
@@ -343,7 +343,7 @@ export class PeriodsService {
     }
 
     // Recommended books
-    for (const book of recommendedBooks) {
+    for (const book of booksForMode(this.devMode.isDevMode())) {
       const haystack = `${book.title} ${book.author} ${book.description} ${book.category ?? ''} ${book.publisher ?? ''} ${book.format} ${book.publicationDate ?? ''} ${book.isbn10} ${book.isbn13 ?? ''}`.toLowerCase();
       if (haystack.includes(q)) {
         results.push({

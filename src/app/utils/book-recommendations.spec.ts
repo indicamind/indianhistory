@@ -4,7 +4,7 @@ import { recommendedBooks } from '../data/recommended-books';
 
 describe('BookRecommendations Utils - getPageBookRecommendations', () => {
   it('should return default recommendations when article is null', () => {
-    const recs = getPageBookRecommendations(null);
+    const recs = getPageBookRecommendations(null, true);
     expect(recs.related.length).toBe(0);
     expect(recs.highlighted).toBe(recommendedBooks[0]);
     expect(recs.below.length).toBe(2);
@@ -25,7 +25,7 @@ describe('BookRecommendations Utils - getPageBookRecommendations', () => {
       books: [firstBook.isbn10, secondBook.isbn10],
     };
 
-    const recs = getPageBookRecommendations(article);
+    const recs = getPageBookRecommendations(article, true);
     expect(recs.related.length).toBe(2);
     expect(recs.related[0].isbn10).toBe(firstBook.isbn10);
     expect(recs.related[1].isbn10).toBe(secondBook.isbn10);
@@ -45,9 +45,19 @@ describe('BookRecommendations Utils - getPageBookRecommendations', () => {
       books: [],
     };
 
-    const recs = getPageBookRecommendations(article);
+    const recs = getPageBookRecommendations(article, true);
     expect(recs.related.length).toBe(0);
     expect(recs.highlighted?.isbn10).toBe(recommendedBooks[0].isbn10);
     expect(recs.below.length).toBe(2);
+  });
+
+  it('uses affiliated fallback books when an article only recommends a pending book publicly', () => {
+    const pending = recommendedBooks.find(book => !book.affiliateUrl)!;
+    const article = { slug: 'test', title: 'Test', excerpt: '', tags: [], books: [pending.isbn10] } as Article;
+    const publicPicks = getPageBookRecommendations(article, false);
+    expect(publicPicks.related.length).toBe(0);
+    expect(publicPicks.highlighted?.affiliateUrl).toBeDefined();
+    expect(publicPicks.below.every(book => !!book.affiliateUrl)).toBeTruthy();
+    expect(getPageBookRecommendations(article, true).related[0].isbn10).toBe(pending.isbn10);
   });
 });

@@ -55,7 +55,9 @@ export class SearchComponent implements OnInit {
   })));
   readonly activeFilter = signal<SearchFilter>('all');
   readonly results = signal<SearchResult[]>([]);
-  readonly filteredResults = computed(() => this.results().filter((result) => this.matchesFilter(result)));
+  readonly filteredResults = computed(() => this.results().filter(result =>
+    (this.devMode.isDevMode() || result.kind !== 'book' || !result.affiliatePending) && this.matchesFilter(result)
+  ));
   readonly loading = signal(true);
   readonly searched = signal(false);
 

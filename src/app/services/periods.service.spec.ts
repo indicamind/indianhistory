@@ -3,6 +3,7 @@ import { PeriodsService } from './periods.service';
 import { ArticleService } from './article.service';
 import { LocaleService } from '../i18n/locale.service';
 import { DevModeService } from './dev-mode.service';
+import { recommendedBooks } from '../data/recommended-books';
 
 describe('PeriodsService', () => {
   let service: PeriodsService;
@@ -88,6 +89,15 @@ describe('PeriodsService', () => {
     isDevMode.set(true);
     const dev = await service.searchAll('Maurya');
     expect(dev.some(result => result.kind === 'period' || result.kind === 'polity')).toBeTruthy();
+  });
+
+  it('keeps books without affiliate links out of public search', async () => {
+    const pending = recommendedBooks.find(book => !book.affiliateUrl)!;
+    const publicResults = await service.searchAll(pending.isbn10);
+    expect(publicResults.some(result => result.kind === 'book' && result.slug === pending.isbn10)).toBeFalsy();
+    isDevMode.set(true);
+    const devResults = await service.searchAll(pending.isbn10);
+    expect(devResults.some(result => result.kind === 'book' && result.slug === pending.isbn10)).toBeTruthy();
   });
 
   it('hides empty categories, keeps ancestor periods, and reveals all in dev mode', () => {

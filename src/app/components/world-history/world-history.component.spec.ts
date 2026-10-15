@@ -23,4 +23,12 @@ describe('WorldHistoryComponent', () => {
     expect(component.events.length).toBeGreaterThan(0);
     expect(component.events[0].title.startsWith('[TR] ')).toBeTruthy();
   });
+
+  it('shows four events initially and all events when expanded', () => {
+    expect(component.visibleEvents().length).toBe(4);
+    component.expanded.set(true);
+    expect(component.visibleEvents().length).toBe(component.events.length);
+    component.expanded.set(false);
+    expect(component.visibleEvents().length).toBe(4);
+  });
 });

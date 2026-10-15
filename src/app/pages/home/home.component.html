@@ -68,13 +68,13 @@
 
 @if (visibleThemes().length) {
 <section id="themes" class="polities-section">
-  <h2>Themes</h2>
+  <h2 id="themes-heading">Themes</h2>
   <p class="polities-intro">
     Follow cross-period subjects that run across dynasties, regions, and eras. Articles can belong to a period, a specific empire or kingdom, and multiple themes.
   </p>
 
-  <div class="polity-grid">
-    @for (theme of visibleThemes(); track theme.slug) {
+  <div id="themes-list" class="polity-grid">
+    @for (theme of shownThemes(); track theme.slug) {
       <a class="card polity-card" [routerLink]="['/theme', theme.slug]">
         <div class="polity-head">
           <h3>{{ theme.name }}</h3>
@@ -88,18 +88,23 @@
       </a>
     }
   </div>
+  @if (visibleThemes().length > initialSectionItems) {
+    <button type="button" class="btn btn-secondary section-toggle" aria-controls="themes-list" [attr.aria-expanded]="expandedThemes()" aria-labelledby="themes-toggle-label themes-heading" (click)="expandedThemes.set(!expandedThemes())">
+      <span id="themes-toggle-label">{{ locale.translate(expandedThemes() ? 'Show fewer' : 'Show all') }}</span>
+    </button>
+  }
 </section>
 }
 
 @if (visibleEmpires().length) {
 <section id="empires" class="polities-section">
-  <h2>Empires</h2>
+  <h2 id="empires-heading">Empires</h2>
   <p class="polities-intro">
     Deep-dive into the major empires of Indian history. These powers at their height unified vast territories, built enduring administrations, and facilitated large-scale cultural and economic exchange. An article can belong to both a broad period above <em>and</em> a specific empire here.
   </p>
 
-  <div class="polity-grid">
-    @for (polity of visibleEmpires(); track polity.slug) {
+  <div id="empires-list" class="polity-grid">
+    @for (polity of shownEmpires(); track polity.slug) {
       <a class="card polity-card" [routerLink]="['/polity', polity.slug]">
         <div class="polity-head">
           <h3>{{ polity.name }}</h3>
@@ -113,18 +118,23 @@
       </a>
     }
   </div>
+  @if (visibleEmpires().length > initialSectionItems) {
+    <button type="button" class="btn btn-secondary section-toggle" aria-controls="empires-list" [attr.aria-expanded]="expandedEmpires()" aria-labelledby="empires-toggle-label empires-heading" (click)="expandedEmpires.set(!expandedEmpires())">
+      <span id="empires-toggle-label">{{ locale.translate(expandedEmpires() ? 'Show fewer' : 'Show all') }}</span>
+    </button>
+  }
 </section>
 }
 
 @if (visibleRegionalKingdoms().length) {
 <section id="regional-kingdoms" class="polities-section">
-  <h2>Regional Kingdoms</h2>
+  <h2 id="regional-kingdoms-heading">Regional Kingdoms</h2>
   <p class="polities-intro">
     Deep-dive into important regional kingdoms, sultanates, and powers that shaped specific regions and eras. These polities left lasting legacies in art, architecture, governance, and local cultures. An article can belong to both a broad period above <em>and</em> a specific regional kingdom here.
   </p>
 
-  <div class="polity-grid">
-    @for (polity of visibleRegionalKingdoms(); track polity.slug) {
+  <div id="regional-kingdoms-list" class="polity-grid">
+    @for (polity of shownRegionalKingdoms(); track polity.slug) {
       <a class="card polity-card" [routerLink]="['/polity', polity.slug]">
         <div class="polity-head">
           <h3>{{ polity.name }}</h3>
@@ -138,18 +148,23 @@
       </a>
     }
   </div>
+  @if (visibleRegionalKingdoms().length > initialSectionItems) {
+    <button type="button" class="btn btn-secondary section-toggle" aria-controls="regional-kingdoms-list" [attr.aria-expanded]="expandedRegionalKingdoms()" aria-labelledby="regional-kingdoms-toggle-label regional-kingdoms-heading" (click)="expandedRegionalKingdoms.set(!expandedRegionalKingdoms())">
+      <span id="regional-kingdoms-toggle-label">{{ locale.translate(expandedRegionalKingdoms() ? 'Show fewer' : 'Show all') }}</span>
+    </button>
+  }
 </section>
 }
 
 @if (visiblePersonalities().length) {
 <section id="personalities" class="polities-section">
-  <h2>Personalities</h2>
+  <h2 id="personalities-heading">Personalities</h2>
   <p class="polities-intro">
     Deep-dive into influential historical figures, their eras, actions, ideas, and legacies. Articles can connect to multiple personalities.
   </p>
 
-  <div class="personality-list">
-    @for (personality of visiblePersonalities(); track personality.slug) {
+  <div id="personalities-list" class="personality-list">
+    @for (personality of shownPersonalities(); track personality.slug) {
       <a class="personality-item" [routerLink]="['/personality', personality.slug]">
         <div class="personality-head">
           <h3>{{ personality.name }}</h3>
@@ -160,6 +175,11 @@
       </a>
     }
   </div>
+  @if (visiblePersonalities().length > initialSectionItems) {
+    <button type="button" class="btn btn-secondary section-toggle" aria-controls="personalities-list" [attr.aria-expanded]="expandedPersonalities()" aria-labelledby="personalities-toggle-label personalities-heading" (click)="expandedPersonalities.set(!expandedPersonalities())">
+      <span id="personalities-toggle-label">{{ locale.translate(expandedPersonalities() ? 'Show fewer' : 'Show all') }}</span>
+    </button>
+  }
 </section>
 }
 

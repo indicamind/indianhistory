@@ -5,8 +5,8 @@
     A selective timeline of major turning points across the world. These events provide context for Indian history and will grow as the site expands.
   </p>
 
-  <ol class="world-history-list">
-    @for (event of events; track event.title) {
+  <ol id="world-history-list" class="world-history-list">
+    @for (event of visibleEvents(); track event.title) {
       <li class="card world-history-event">
         <p class="world-history-date">{{ event.date }}</p>
         <h3>{{ event.title }}</h3>
@@ -14,4 +14,9 @@
       </li>
     }
   </ol>
+  @if (events.length > initialEventCount) {
+    <button type="button" class="btn btn-secondary section-toggle" aria-controls="world-history-list" [attr.aria-expanded]="expanded()" aria-labelledby="world-history-toggle-label world-history-title" (click)="expanded.set(!expanded())">
+      <span id="world-history-toggle-label">{{ locale.translate(expanded() ? 'Show fewer' : 'Show all') }}</span>
+    </button>
+  }
 </section>

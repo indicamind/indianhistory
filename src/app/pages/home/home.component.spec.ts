@@ -7,6 +7,7 @@ import { PeriodsService } from '../../services/periods.service';
 import { LocaleService } from '../../i18n/locale.service';
 import { ArticleSummary } from '../../models/article.model';
 import { DevModeService } from '../../services/dev-mode.service';
+import { personalities, polities, themes } from '../../data/periods';
 
 describe('HomeComponent', () => {
   let component: HomeComponent;
@@ -68,6 +69,30 @@ describe('HomeComponent', () => {
     expect(component.visibleTimelinePeriods().map(period => period.slug)).toEqual(['prehistory']);
     devMode.set(true);
     expect(component.visibleTimelinePeriods().map(period => period.slug)).toEqual(['prehistory', 'medieval']);
+  });
+
+  it('shows a few items in each section until it is expanded', () => {
+    component.themes.set(themes.slice(0, 4).map(item => ({ ...item, articleCount: 1 })));
+    component.empires.set(polities.filter(item => item.kind === 'empire').slice(0, 4).map(item => ({ ...item, articleCount: 1 })));
+    component.regionalKingdoms.set(polities.filter(item => item.kind === 'regional-kingdom').slice(0, 4).map(item => ({ ...item, articleCount: 1 })));
+    component.personalities.set(personalities.slice(0, 4).map(item => ({ ...item, articleCount: 1 })));
+
+    expect(component.shownThemes().length).toBe(3);
+    expect(component.shownEmpires().length).toBe(3);
+    expect(component.shownRegionalKingdoms().length).toBe(3);
+    expect(component.shownPersonalities().length).toBe(3);
+
+    component.expandedThemes.set(true);
+    component.expandedEmpires.set(true);
+    component.expandedRegionalKingdoms.set(true);
+    component.expandedPersonalities.set(true);
+    expect(component.shownThemes().length).toBe(4);
+    expect(component.shownEmpires().length).toBe(4);
+    expect(component.shownRegionalKingdoms().length).toBe(4);
+    expect(component.shownPersonalities().length).toBe(4);
+
+    component.expandedThemes.set(false);
+    expect(component.shownThemes().length).toBe(3);
   });
 
   it('should use the generated thumbnail metadata', () => {

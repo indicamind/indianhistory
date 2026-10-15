@@ -41,6 +41,7 @@ interface StoryThumbnail {
 }
 
 let featuredArticleSlug: string | null = null;
+const INITIAL_SECTION_ITEMS = 3;
 
 @Component({
   selector: 'app-home',
@@ -69,6 +70,15 @@ export class HomeComponent implements OnInit {
   readonly visiblePersonalities = computed(() => this.visible(this.personalities()));
   readonly visibleEmpires = computed(() => this.visible(this.empires()));
   readonly visibleRegionalKingdoms = computed(() => this.visible(this.regionalKingdoms()));
+  readonly expandedThemes = signal(false);
+  readonly expandedEmpires = signal(false);
+  readonly expandedRegionalKingdoms = signal(false);
+  readonly expandedPersonalities = signal(false);
+  readonly shownThemes = computed(() => this.expandedThemes() ? this.visibleThemes() : this.visibleThemes().slice(0, INITIAL_SECTION_ITEMS));
+  readonly shownEmpires = computed(() => this.expandedEmpires() ? this.visibleEmpires() : this.visibleEmpires().slice(0, INITIAL_SECTION_ITEMS));
+  readonly shownRegionalKingdoms = computed(() => this.expandedRegionalKingdoms() ? this.visibleRegionalKingdoms() : this.visibleRegionalKingdoms().slice(0, INITIAL_SECTION_ITEMS));
+  readonly shownPersonalities = computed(() => this.expandedPersonalities() ? this.visiblePersonalities() : this.visiblePersonalities().slice(0, INITIAL_SECTION_ITEMS));
+  readonly initialSectionItems = INITIAL_SECTION_ITEMS;
 
   private visible<T extends { articleCount: number }>(items: T[]): T[] {
     return this.devMode.isDevMode() ? items : items.filter(item => item.articleCount > 0);

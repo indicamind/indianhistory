@@ -361,5 +361,7 @@
   "{count} articles across this {kind}": "اس {kind} میں {count} مضامین",
   "{count} articles across this {kind} and its sub-periods": "اس {kind} اور اس کے ذیلی ادوار میں {count} مضامین",
   "No articles yet for this {kind}. More stories are being added.": "اس {kind} کے لیے ابھی کوئی مضمون نہیں۔ مزید کہانیاں شامل کی جا رہی ہیں۔",
-  "No results for “{query}”.": "“{query}” کے لیے کوئی نتیجہ نہیں ملا۔"
+  "No results for “{query}”.": "“{query}” کے لیے کوئی نتیجہ نہیں ملا۔",
+  "Full article": "مکمل مضمون",
+  "No articles yet for this event.": "اس واقعے کے بارے میں ابھی کوئی مضمون نہیں ہے۔"
 }

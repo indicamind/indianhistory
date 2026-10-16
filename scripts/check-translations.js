@@ -8,7 +8,7 @@ const ts = require('typescript');
 
 const ROOT = path.join(__dirname, '..');
 const LANGUAGES = ['hi', 'bn', 'ta', 'te', 'mr', 'ur', 'gu', 'kn', 'ml', 'pa', 'es', 'fr', 'ar', 'zh', 'pt'];
-const SOURCE_FILES = ['src/app/data/periods.ts', 'src/app/data/world-history.ts'];
+const SOURCE_FILES = ['src/app/data/periods.ts'];
 const VISIBLE_FIELDS = new Set(['name', 'range', 'shortDescription', 'description', 'date', 'title', 'summary']);
 const DYNAMIC_COPY = [
   'All', 'Stories', 'Periods', 'Story', 'Period', 'Empire', 'Regional Kingdom', 'Theme', 'Personality', 'Book',
@@ -66,6 +66,10 @@ function collectSiteStrings() {
       ts.forEachChild(node, visit);
     }
     visit(source);
+  }
+  for (const name of sourceFiles('articles')) {
+    const { data } = matter(fs.readFileSync(path.join(ROOT, 'content', 'articles', name), 'utf8'));
+    if (typeof data.eventDate === 'string') STRINGS.add(data.eventDate);
   }
   for (const value of DYNAMIC_COPY) STRINGS.add(value);
   return [...STRINGS].filter(value => /\p{L}/u.test(value));

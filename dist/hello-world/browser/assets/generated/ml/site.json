@@ -361,5 +361,7 @@
   "{count} articles across this {kind}": "ഈ {kind} സംബന്ധിച്ച {count} ലേഖനങ്ങൾ",
   "{count} articles across this {kind} and its sub-periods": "ഈ {kind} സംബന്ധിച്ചും അതിന്റെ ഉപകാലഘട്ടങ്ങൾ സംബന്ധിച്ചും {count} ലേഖനങ്ങൾ",
   "No articles yet for this {kind}. More stories are being added.": "ഈ {kind} സംബന്ധിച്ച് ഇനിയും ലേഖനങ്ങളില്ല. കൂടുതൽ കഥകൾ ചേർത്തുകൊണ്ടിരിക്കുന്നു.",
-  "No results for “{query}”.": "“{query}” എന്നതിനായി ഫലങ്ങളൊന്നും ലഭിച്ചില്ല."
+  "No results for “{query}”.": "“{query}” എന്നതിനായി ഫലങ്ങളൊന്നും ലഭിച്ചില്ല.",
+  "Full article": "മുഴുവൻ ലേഖനം",
+  "No articles yet for this event.": "ഈ സംഭവത്തെക്കുറിച്ച് ഇതുവരെ ലേഖനങ്ങളില്ല."
 }

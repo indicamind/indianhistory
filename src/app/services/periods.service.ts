@@ -4,6 +4,7 @@ import { booksForMode } from '../data/recommended-books';
 import { ArticleService } from './article.service';
 import { LocaleService } from '../i18n/locale.service';
 import { DevModeService } from './dev-mode.service';
+import { articleRoute } from '../utils/article-route';
 import {
   Period,
   Personality,
@@ -264,12 +265,13 @@ export class PeriodsService {
     // Articles via the existing pre-built index (includes full body text)
     const articleHits = await this.articlesService.search(query);
     for (const a of articleHits) {
+      const summary = this.articlesService.getBySlug(a.slug);
       results.push({
         kind: 'article',
         slug: a.slug,
         title: a.title,
         excerpt: a.excerpt,
-        routerLink: ['/article', a.slug],
+        routerLink: summary ? articleRoute(summary) : ['/article', a.slug],
         queryParams: { fromSearch: true },
         kindLabel: this.locale.translate('Story'),
       });

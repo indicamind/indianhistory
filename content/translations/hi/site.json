@@ -361,5 +361,7 @@
   "{count} articles across this {kind}": "इस {kind} में {count} लेख",
   "{count} articles across this {kind} and its sub-periods": "इस {kind} और इसके उपकालों में {count} लेख",
   "No articles yet for this {kind}. More stories are being added.": "इस {kind} में अभी कोई लेख नहीं है। और कहानियाँ जोड़ी जा रही हैं।",
-  "No results for “{query}”.": "“{query}” के लिए कोई परिणाम नहीं मिला।"
+  "No results for “{query}”.": "“{query}” के लिए कोई परिणाम नहीं मिला।",
+  "Full article": "पूरा लेख",
+  "No articles yet for this event.": "इस घटना पर अभी कोई लेख नहीं है।"
 }

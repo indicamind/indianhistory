@@ -179,6 +179,9 @@ function build() {
       themes: Array.isArray(data.themes) ? data.themes : [],
       personalities: Array.isArray(data.personalities) ? data.personalities : [],
       books: Array.isArray(data.books) ? data.books.map(String) : [],
+      eventDate: typeof data.eventDate === 'string' ? data.eventDate : undefined,
+      timelineOrder: typeof data.timelineOrder === 'number' ? data.timelineOrder : undefined,
+      relatedTo: typeof data.relatedTo === 'string' ? data.relatedTo : undefined,
     };
   });
 

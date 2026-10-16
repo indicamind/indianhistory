@@ -11,6 +11,9 @@ export interface ArticleSummary {
   themes: string[]; // slugs of cross-period themes (e.g. 'rise-of-buddhism-jainism')
   personalities: string[]; // slugs of historical people (e.g. 'ashoka')
   books: string[]; // ISBN-10 values for related recommended books
+  eventDate?: string; // Display date for a world history timeline story
+  timelineOrder?: number; // Explicit order for the world history timeline
+  relatedTo?: string; // Parent article slug for related stories
 }
 
 export interface Article extends ArticleSummary {

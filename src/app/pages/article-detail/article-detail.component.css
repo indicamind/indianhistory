@@ -35,6 +35,24 @@
   font-size: 0.9rem;
 }
 
+.event-date {
+  margin: -0.35rem 0 1rem;
+  color: var(--accent);
+  font-weight: 700;
+}
+
+.article-intro {
+  margin: 0;
+  font-size: 1.05rem;
+  line-height: 1.75;
+}
+
+.article-content {
+  margin-top: 2rem;
+  padding-top: 1.5rem;
+  border-top: 1px solid var(--border);
+}
+
 .article-body :deep(p) {
   margin: 0 0 1rem;
   line-height: 1.75;
@@ -148,6 +166,69 @@
 
 .article-book-card h3 a:hover {
   color: var(--accent);
+}
+
+.article-entries {
+  margin-top: 2rem;
+  padding-top: 1.5rem;
+  border-top: 1px solid var(--border);
+}
+
+.article-entries h2 {
+  margin: 0 0 1rem;
+  font-family: var(--font-display);
+  font-size: 1.35rem;
+}
+
+.article-entry-list {
+  display: grid;
+  gap: 0.85rem;
+}
+
+.article-entry-card {
+  padding: 1rem;
+  border: 1px solid var(--border);
+  border-radius: 0.5rem;
+  background: var(--surface);
+}
+
+.article-entry-card h3 {
+  margin: 0 0 0.5rem;
+  font-family: var(--font-display);
+}
+
+.article-entry-card h3 a {
+  color: inherit;
+  text-decoration: none;
+}
+
+.article-entry-card h3 a:hover {
+  color: var(--accent);
+}
+
+.article-entry-card p {
+  margin: 0 0 0.75rem;
+  line-height: 1.6;
+}
+
+.article-entries-empty {
+  margin: 0;
+  color: var(--muted);
+}
+
+.article-entry-card .article-open {
+  display: inline-flex;
+  margin-top: 0.2rem;
+}
+
+.article-content > .eyebrow {
+  margin: 0 0 0.75rem;
+}
+
+.article-return {
+  margin: 2rem 0 0;
+  padding-top: 1.25rem;
+  border-top: 1px solid var(--border);
 }
 
 .empty h1 {

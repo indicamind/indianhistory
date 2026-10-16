@@ -361,5 +361,7 @@
   "{count} articles across this {kind}": "这个{kind}涵盖{count}篇文章",
   "{count} articles across this {kind} and its sub-periods": "这个{kind}及其子时期涵盖{count}篇文章",
   "No articles yet for this {kind}. More stories are being added.": "这个{kind}还没有文章。更多故事正在添加。",
-  "No results for “{query}”.": "“{query}”没有搜索结果。"
+  "No results for “{query}”.": "“{query}”没有搜索结果。",
+  "Full article": "全文",
+  "No articles yet for this event.": "尚无关于这一事件的文章。"
 }

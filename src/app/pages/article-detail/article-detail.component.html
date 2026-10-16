@@ -20,6 +20,9 @@
         }
       </p>
       <h1>{{ article()!.title }}</h1>
+      @if (article()!.eventDate) {
+        <p class="event-date">{{ locale.translate(article()!.eventDate!) }}</p>
+      }
       @if (article()!.tags.length) {
         <ul class="tags">
           @for (tag of article()!.tags; track tag) {
@@ -27,9 +30,11 @@
           }
         </ul>
       }
-      <div class="article-body" [innerHTML]="html()"></div>
+      @if (!article()!.relatedTo) {
+        <p class="article-intro">{{ article()!.excerpt }}</p>
+      }
 
-      @if (bottomBooks().length) {
+      @if (article()!.period !== 'world-history' && bottomBooks().length) {
         <section class="article-books" aria-labelledby="article-books-title">
           <p class="eyebrow">More books</p>
           <h2 id="article-books-title">Books for further reading</h2>
@@ -51,6 +56,35 @@
               </article>
             }
           </div>
+        </section>
+      }
+
+      @if (isWorldHistoryOverview()) {
+        <section class="article-entries" aria-labelledby="article-entries-title">
+          <h2 id="article-entries-title">{{ locale.translate('Articles') }}</h2>
+          @if (relatedArticles().length) {
+            <div class="article-entry-list">
+              @for (entry of relatedArticles(); track entry.slug) {
+                <article class="article-entry-card">
+                  <h3><a [routerLink]="articleRoute(entry)">{{ entry.title }}</a></h3>
+                  <p>{{ entry.excerpt }}</p>
+                  <a class="btn btn-primary article-open" [routerLink]="articleRoute(entry)">{{ locale.translate('Read full story →') }}</a>
+                </article>
+              }
+            </div>
+          } @else {
+            <p class="article-entries-empty">{{ locale.translate('No articles yet for this event.') }}</p>
+          }
+        </section>
+      } @else {
+        <section class="article-content" [attr.aria-label]="article()!.title">
+          @if (article()!.relatedTo) {
+            <p class="eyebrow">{{ locale.translate('Full article') }}</p>
+          }
+          <div class="article-body" [innerHTML]="html()"></div>
+          @if (article()!.relatedTo) {
+            <p class="article-return"><a [routerLink]="backLink()">{{ backText() }}</a></p>
+          }
         </section>
       }
     </article>

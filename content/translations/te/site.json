@@ -361,5 +361,7 @@
   "{count} articles across this {kind}": "ఈ {kind} అంతటా {count} వ్యాసాలు",
   "{count} articles across this {kind} and its sub-periods": "ఈ {kind}, దాని ఉపకాలాల్లో {count} వ్యాసాలు",
   "No articles yet for this {kind}. More stories are being added.": "ఈ {kind} కోసం ఇంకా వ్యాసాలు లేవు. మరిన్ని కథనాలు జోడిస్తున్నారు.",
-  "No results for “{query}”.": "“{query}” కోసం ఫలితాలు దొరకలేదు."
+  "No results for “{query}”.": "“{query}” కోసం ఫలితాలు దొరకలేదు.",
+  "Full article": "పూర్తి వ్యాసం",
+  "No articles yet for this event.": "ఈ సంఘటనపై ఇంకా వ్యాసాలు లేవు."
 }

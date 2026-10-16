@@ -6,15 +6,15 @@
   </p>
 
   <ol id="world-history-list" class="world-history-list">
-    @for (event of visibleEvents(); track event.title) {
+    @for (event of visibleEvents(); track event.slug) {
       <li class="card world-history-event">
-        <p class="world-history-date">{{ event.date }}</p>
-        <h3>{{ event.title }}</h3>
-        <p>{{ event.summary }}</p>
+        <p class="world-history-date">{{ locale.translate(event.eventDate!) }}</p>
+        <h3><a [routerLink]="articleRoute(event)">{{ event.title }}</a></h3>
+        <p>{{ event.excerpt }}</p>
       </li>
     }
   </ol>
-  @if (events.length > initialEventCount) {
+  @if (events().length > initialEventCount) {
     <button type="button" class="btn btn-secondary section-toggle" aria-controls="world-history-list" [attr.aria-expanded]="expanded()" aria-labelledby="world-history-toggle-label world-history-title" (click)="expanded.set(!expanded())">
       <span id="world-history-toggle-label">{{ locale.translate(expanded() ? 'Show fewer' : 'Show all') }}</span>
     </button>

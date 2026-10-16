@@ -7,6 +7,7 @@ import { ArticleService } from '../../services/article.service';
 import { PeriodsService } from '../../services/periods.service';
 import { Period, Personality, Polity, Theme } from '../../data/periods';
 import { LocaleService } from '../../i18n/locale.service';
+import { articleRoute } from '../../utils/article-route';
 
 @Component({
   selector: 'app-period-detail',
@@ -19,6 +20,7 @@ export class PeriodDetailComponent implements OnInit {
   private readonly periodsService = inject(PeriodsService);
   private readonly articlesService = inject(ArticleService);
   readonly locale = inject(LocaleService);
+  readonly articleRoute = articleRoute;
   private readonly destroyRef = inject(DestroyRef);
 
   readonly period = signal<Period | null>(null);

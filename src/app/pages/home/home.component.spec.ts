@@ -12,12 +12,14 @@ import { personalities, polities, themes } from '../../data/periods';
 describe('HomeComponent', () => {
   let component: HomeComponent;
   let devMode: ReturnType<typeof signal<boolean>>;
+  let articles: ReturnType<typeof signal<ArticleSummary[]>>;
 
   beforeEach(() => {
     devMode = signal(false);
+    articles = signal<ArticleSummary[]>([]);
     const mockArticlesSvc = {
       whenReady: async () => {},
-      allArticles: () => [],
+      allArticles: articles.asReadonly(),
       hasWorldHistoryStories: () => false,
     };
     const mockPeriodsSvc = {
@@ -59,6 +61,24 @@ describe('HomeComponent', () => {
     expect(component.list().length).toBe(0);
     expect(component.timelinePeriods().length).toBe(0);
     expect(component.empires().length).toBe(0);
+  });
+
+  it('features a World History article rather than its event overview', async () => {
+    const base = {
+      publishedAt: '2026-10-16',
+      updatedAt: '2026-10-16',
+      tags: [],
+      themes: [],
+      personalities: [],
+      books: [],
+    };
+    articles.set([
+      { ...base, slug: 'agriculture', title: 'Agriculture', excerpt: 'Event', period: 'world-history' },
+      { ...base, slug: 'farming-life', title: 'Farming life', excerpt: 'Article', period: 'world-history', relatedTo: 'agriculture' },
+    ]);
+
+    await component.ngOnInit();
+    expect(component.list().map(article => article.slug)).toEqual(['farming-life']);
   });
 
   it('shows empty section cards only in dev mode', () => {

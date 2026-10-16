@@ -361,5 +361,7 @@
   "{count} articles across this {kind} and its sub-periods": "{count} artigos sobre este {kind} e seus subperíodos",
   "No articles yet for this {kind}. More stories are being added.": "Ainda não há artigos sobre este {kind}. Mais histórias estão sendo adicionadas.",
   "No results for “{query}”.": "Nenhum resultado para “{query}”.",
-  "by": "por"
+  "by": "por",
+  "Full article": "Artigo completo",
+  "No articles yet for this event.": "Ainda não há artigos sobre este acontecimento."
 }

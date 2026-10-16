@@ -361,5 +361,7 @@
   "{count} articles across this {kind}": "{count} مقالات ضمن هذا {kind}",
   "{count} articles across this {kind} and its sub-periods": "{count} مقالات ضمن هذا {kind} وفتراته الفرعية",
   "No articles yet for this {kind}. More stories are being added.": "لا توجد مقالات عن هذا {kind} بعد. ستُضاف قصص أخرى.",
-  "No results for “{query}”.": "لا توجد نتائج عن «{query}»."
+  "No results for “{query}”.": "لا توجد نتائج عن «{query}».",
+  "Full article": "المقال الكامل",
+  "No articles yet for this event.": "لا توجد مقالات عن هذا الحدث بعد."
 }

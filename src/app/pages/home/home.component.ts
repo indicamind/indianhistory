@@ -8,6 +8,7 @@ import { Period, Personality, Polity, PolityKind, Theme } from '../../data/perio
 import { WorldHistoryComponent } from '../../components/world-history/world-history.component';
 import { LocaleService } from '../../i18n/locale.service';
 import { DevModeService } from '../../services/dev-mode.service';
+import { articleRoute } from '../../utils/article-route';
 
 interface TimelinePeriod {
   slug: string;
@@ -56,6 +57,7 @@ export class HomeComponent implements OnInit {
   private readonly viewportScroller = inject(ViewportScroller);
   readonly locale = inject(LocaleService);
   readonly devMode = inject(DevModeService);
+  readonly articleRoute = articleRoute;
   readonly showWorldHistory = computed(() => this.devMode.isDevMode() || this.articlesSvc.hasWorldHistoryStories());
 
   readonly list = signal<ArticleSummary[]>([]);
@@ -174,16 +176,17 @@ export class HomeComponent implements OnInit {
   }
 
   private pickFeaturedArticle(articles: ArticleSummary[]): ArticleSummary[] {
-    if (articles.length === 0) {
+    const candidates = articles.filter(article => article.period !== 'world-history' || !!article.relatedTo);
+    if (candidates.length === 0) {
       return [];
     }
 
-    const cachedArticle = featuredArticleSlug ? articles.find((article) => article.slug === featuredArticleSlug) : null;
+    const cachedArticle = featuredArticleSlug ? candidates.find((article) => article.slug === featuredArticleSlug) : null;
     if (cachedArticle) {
       return [cachedArticle];
     }
 
-    const article = articles[Math.floor(Math.random() * articles.length)];
+    const article = candidates[Math.floor(Math.random() * candidates.length)];
     featuredArticleSlug = article.slug;
     return [article];
   }

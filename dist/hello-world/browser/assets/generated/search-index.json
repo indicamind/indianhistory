@@ -1,5 +1,113 @@
 [
   {
+    "title": "A gradual transition",
+    "slug": "a-gradual-transition-to-agriculture",
+    "excerpt": "Agriculture began at different times in different parts of the world. People cultivated plants and managed animals while many communities continued to rely on hunting and gathering.",
+    "text": "A gradual transition Agriculture began at different times in different parts of the world. People cultivated plants and managed animals while many communities continued to rely on hunting and gathering. Agriculture began at different times in different parts of the world. People cultivated plants and managed animals while many communities continued to rely on hunting and gathering. Where food production took hold, it supported more permanent settlements and new patterns of work. The crops, animals, and pace of change varied by region; there was no single route into farming."
+  },
+  {
+    "title": "A wave of decolonization",
+    "slug": "a-wave-of-decolonization",
+    "excerpt": "Independence movements ended many colonial empires and brought dozens of new states into world politics.",
+    "text": "A wave of decolonization Independence movements ended many colonial empires and brought dozens of new states into world politics. Independence movements ended many colonial empires and brought dozens of new states into world politics."
+  },
+  {
+    "title": "Atlantic revolutions",
+    "slug": "atlantic-revolutions",
+    "excerpt": "Revolutions in North America, France, and Haiti challenged imperial rule and older ideas about political rights.",
+    "text": "Atlantic revolutions Revolutions in North America, France, and Haiti challenged imperial rule and older ideas about political rights. Revolutions in North America, France, and Haiti challenged imperial rule and older ideas about political rights."
+  },
+  {
+    "title": "Atlantic voyages and the Columbian Exchange",
+    "slug": "atlantic-voyages-and-the-columbian-exchange",
+    "excerpt": "European expansion connected the Americas with Afro-Eurasia, moving crops, people, diseases, and wealth.",
+    "text": "Atlantic voyages and the Columbian Exchange European expansion connected the Americas with Afro-Eurasia, moving crops, people, diseases, and wealth. European expansion connected the Americas with Afro-Eurasia, moving crops, people, diseases, and wealth."
+  },
+  {
+    "title": "Classical empires and ideas",
+    "slug": "classical-empires-and-ideas",
+    "excerpt": "Large states and influential traditions took shape across the Mediterranean, West Asia, India, and China.",
+    "text": "Classical empires and ideas Large states and influential traditions took shape across the Mediterranean, West Asia, India, and China. Large states and influential traditions took shape across the Mediterranean, West Asia, India, and China."
+  },
+  {
+    "title": "Industrialization",
+    "slug": "industrialization",
+    "excerpt": "Mechanized production spread from Britain to other regions, changing work, energy use, and global power.",
+    "text": "Industrialization Mechanized production spread from Britain to other regions, changing work, energy use, and global power. Mechanized production spread from Britain to other regions, changing work, energy use, and global power."
+  },
+  {
+    "title": "Life in early farming communities",
+    "slug": "life-in-early-farming-communities",
+    "excerpt": "Early farming communities combined food production with other ways of finding food, and their daily lives varied by place.",
+    "text": "Life in early farming communities Early farming communities combined food production with other ways of finding food, and their daily lives varied by place. More than one way to farm Early farming communities did not all live in the same way. Some grew crops and cared for animals while still hunting, fishing, or gathering wild foods. Local plants, animals, and environments shaped the choices available to each community. Traces of daily life Archaeologists study seeds, animal bones, tools, and remains of buildings to understand how people produced food and lived together. The evidence differs from one site to another, so the history of farming is reconstructed region by region."
+  },
+  {
+    "title": "Printing expands in Europe",
+    "slug": "printing-expands-in-europe",
+    "excerpt": "Movable-type printing accelerated the circulation of books and ideas in Europe, building on older Asian traditions.",
+    "text": "Printing expands in Europe Movable-type printing accelerated the circulation of books and ideas in Europe, building on older Asian traditions. Movable-type printing accelerated the circulation of books and ideas in Europe, building on older Asian traditions."
+  },
+  {
+    "title": "Silk Roads connect Eurasia",
+    "slug": "silk-roads-connect-eurasia",
+    "excerpt": "Overland and maritime networks carried goods, beliefs, technologies, and people across continents.",
+    "text": "Silk Roads connect Eurasia Overland and maritime networks carried goods, beliefs, technologies, and people across continents. Overland and maritime networks carried goods, beliefs, technologies, and people across continents."
+  },
+  {
+    "title": "The beginnings of agriculture",
+    "slug": "the-beginnings-of-agriculture",
+    "excerpt": "Farming developed independently in several regions, supporting larger settlements and new ways of life.",
+    "text": "The beginnings of agriculture Farming developed independently in several regions, supporting larger settlements and new ways of life. Farming developed independently in several regions, supporting larger settlements and new ways of life."
+  },
+  {
+    "title": "The Black Death",
+    "slug": "the-black-death",
+    "excerpt": "A devastating plague pandemic transformed populations, economies, and societies across Eurasia and North Africa.",
+    "text": "The Black Death A devastating plague pandemic transformed populations, economies, and societies across Eurasia and North Africa. A devastating plague pandemic transformed populations, economies, and societies across Eurasia and North Africa."
+  },
+  {
+    "title": "The Cold War",
+    "slug": "the-cold-war",
+    "excerpt": "Rival blocs competed through diplomacy, arms races, and proxy wars, while newly independent states pursued their own paths.",
+    "text": "The Cold War Rival blocs competed through diplomacy, arms races, and proxy wars, while newly independent states pursued their own paths. Rival blocs competed through diplomacy, arms races, and proxy wars, while newly independent states pursued their own paths."
+  },
+  {
+    "title": "The digital age",
+    "slug": "the-digital-age",
+    "excerpt": "Computing and the internet transformed communication, commerce, research, and everyday life worldwide.",
+    "text": "The digital age Computing and the internet transformed communication, commerce, research, and everyday life worldwide. Computing and the internet transformed communication, commerce, research, and everyday life worldwide."
+  },
+  {
+    "title": "The first cities and writing systems",
+    "slug": "the-first-cities-and-writing-systems",
+    "excerpt": "Urban societies and early writing in Mesopotamia and Egypt changed trade, government, and record-keeping.",
+    "text": "The first cities and writing systems Urban societies and early writing in Mesopotamia and Egypt changed trade, government, and record-keeping. Urban societies and early writing in Mesopotamia and Egypt changed trade, government, and record-keeping."
+  },
+  {
+    "title": "The First World War",
+    "slug": "the-first-world-war",
+    "excerpt": "A global conflict ended empires, redrew borders, and shaped the political crises that followed.",
+    "text": "The First World War A global conflict ended empires, redrew borders, and shaped the political crises that followed. A global conflict ended empires, redrew borders, and shaped the political crises that followed."
+  },
+  {
+    "title": "The Mongol Empire",
+    "slug": "the-mongol-empire",
+    "excerpt": "Mongol conquests created the largest contiguous land empire and reshaped exchange across Eurasia.",
+    "text": "The Mongol Empire Mongol conquests created the largest contiguous land empire and reshaped exchange across Eurasia. Mongol conquests created the largest contiguous land empire and reshaped exchange across Eurasia."
+  },
+  {
+    "title": "The rise and spread of Islam",
+    "slug": "the-rise-and-spread-of-islam",
+    "excerpt": "Islam emerged in Arabia and spread through expanding states and trade networks across Afro-Eurasia.",
+    "text": "The rise and spread of Islam Islam emerged in Arabia and spread through expanding states and trade networks across Afro-Eurasia. Islam emerged in Arabia and spread through expanding states and trade networks across Afro-Eurasia."
+  },
+  {
+    "title": "The Second World War",
+    "slug": "the-second-world-war",
+    "excerpt": "War across Europe, Africa, Asia, and the Pacific caused immense loss and remade the international order.",
+    "text": "The Second World War War across Europe, Africa, Asia, and the Pacific caused immense loss and remade the international order. War across Europe, Africa, Asia, and the Pacific caused immense loss and remade the international order."
+  },
+  {
     "title": "Was There a Port off Poompuhar 15,000 Years Ago?",
     "slug": "poompuhar-15000-year-old-port-claim",
     "excerpt": "Sonar surveys have revealed harbour-like forms beneath the Bay of Bengal, but the claim that they are a 15,000-year-old port remains unproven.",

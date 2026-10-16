@@ -9,6 +9,7 @@ import { PeriodsService } from '../../services/periods.service';
 import { getPageBookRecommendations } from '../../utils/book-recommendations';
 import { LocaleService } from '../../i18n/locale.service';
 import { DevModeService } from '../../services/dev-mode.service';
+import { articleRoute } from '../../utils/article-route';
 
 @Component({
   selector: 'app-article-detail',
@@ -23,10 +24,19 @@ export class ArticleDetailComponent implements OnInit {
   private readonly sanitizer = inject(DomSanitizer);
   readonly locale = inject(LocaleService);
   readonly devMode = inject(DevModeService);
+  readonly articleRoute = articleRoute;
   readonly article = signal<Article | null>(null);
   readonly html = signal<SafeHtml | null>(null);
   readonly bookRecommendations = computed(() => getPageBookRecommendations(this.article(), this.devMode.isDevMode()));
   readonly bottomBooks = computed(() => this.bookRecommendations().below);
+  readonly isWorldHistoryOverview = computed(() => {
+    const article = this.article();
+    return article?.period === 'world-history' && !article.relatedTo;
+  });
+  readonly relatedArticles = computed(() => {
+    const article = this.article();
+    return article ? this.articles.allArticles().filter(candidate => candidate.relatedTo === article.slug) : [];
+  });
   readonly loading = signal(true);
   readonly backLink = signal<string>('/');
   readonly backText = signal<string>(this.locale.translate('← Back to home'));
@@ -34,7 +44,13 @@ export class ArticleDetailComponent implements OnInit {
   async ngOnInit(): Promise<void> {
     await this.articles.whenReady();
     const slug = this.route.snapshot.paramMap.get('slug') ?? '';
-    const found = await this.articles.getArticle(slug).catch(() => null) ?? null;
+    const loaded = await this.articles.getArticle(slug).catch(() => null) ?? null;
+    const eventSlug = this.route.snapshot.paramMap.get('eventSlug');
+    const isWorldHistoryRoute = this.route.snapshot.routeConfig?.path?.startsWith('worldhistory/') ?? false;
+    const found = isWorldHistoryRoute && (
+      loaded?.period !== 'world-history' ||
+      (eventSlug ? loaded.relatedTo !== eventSlug : !!loaded.relatedTo)
+    ) ? null : loaded;
     this.article.set(found);
     this.html.set(
       found ? this.sanitizer.bypassSecurityTrustHtml(found.html) : null
@@ -85,6 +101,10 @@ export class ArticleDetailComponent implements OnInit {
     } else if (fromSearch) {
       this.backLink.set('/search');
       this.backText.set(this.locale.translate('← Back to search'));
+    } else if (found?.relatedTo) {
+      const parent = this.articles.getBySlug(found.relatedTo);
+      this.backLink.set(parent ? articleRoute(parent).join('/') : '/');
+      this.backText.set(parent ? `${this.locale.translate('← Back to')} ${parent.title}` : this.locale.translate('← Back to home'));
     } else {
       this.backLink.set('/');
       this.backText.set(this.locale.translate('← Back to home'));

@@ -64,7 +64,7 @@
           <article class="card article-item">
             <p class="meta">{{ article.publishedAt | date: 'mediumDate' }}</p>
             <h3>
-              <a [routerLink]="['/article', article.slug]" [queryParams]="isPol ? { fromPolity: ent.slug } : isTh ? { fromTheme: ent.slug } : isPerson ? { fromPersonality: ent.slug } : { fromPeriod: ent.slug }">{{ article.title }}</a>
+              <a [routerLink]="articleRoute(article)" [queryParams]="isPol ? { fromPolity: ent.slug } : isTh ? { fromTheme: ent.slug } : isPerson ? { fromPersonality: ent.slug } : { fromPeriod: ent.slug }">{{ article.title }}</a>
             </h3>
             <p class="excerpt">{{ article.excerpt }}</p>
             @if (article.tags.length) {
@@ -74,7 +74,7 @@
                 }
               </ul>
             }
-            <a [routerLink]="['/article', article.slug]" [queryParams]="isPol ? { fromPolity: ent.slug } : isTh ? { fromTheme: ent.slug } : isPerson ? { fromPersonality: ent.slug } : { fromPeriod: ent.slug }" class="read-more">Read full story →</a>
+            <a [routerLink]="articleRoute(article)" [queryParams]="isPol ? { fromPolity: ent.slug } : isTh ? { fromTheme: ent.slug } : isPerson ? { fromPersonality: ent.slug } : { fromPeriod: ent.slug }" class="read-more">Read full story →</a>
           </article>
         }
       </div>

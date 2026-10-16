@@ -1,5 +1,113 @@
 [
   {
+    "title": "Une transition progressive",
+    "slug": "a-gradual-transition-to-agriculture",
+    "excerpt": "L’agriculture a commencé à des époques différentes selon les régions du monde. Les populations cultivaient des plantes et élevaient des animaux, tandis que de nombreuses communautés continuaient aussi à pratiquer la chasse et la cueillette.",
+    "text": "Une transition progressive L’agriculture a commencé à des époques différentes selon les régions du monde. Les populations cultivaient des plantes et élevaient des animaux, tandis que de nombreuses communautés continuaient aussi à pratiquer la chasse et la cueillette. L’agriculture a commencé à des époques différentes selon les régions du monde. Les populations cultivaient des plantes et élevaient des animaux, tandis que de nombreuses communautés continuaient aussi à pratiquer la chasse et la cueillette. Là où la production alimentaire s’est implantée, elle a favorisé des établissements plus permanents et de nouvelles formes de travail. Les cultures, les animaux et le rythme du changement variaient selon les régions ; il n’y a pas eu de voie unique vers l’agriculture."
+  },
+  {
+    "title": "Une vague de décolonisation",
+    "slug": "a-wave-of-decolonization",
+    "excerpt": "Les mouvements d’indépendance mirent fin à de nombreux empires coloniaux et firent entrer des dizaines de nouveaux États dans la politique mondiale.",
+    "text": "Une vague de décolonisation Les mouvements d’indépendance mirent fin à de nombreux empires coloniaux et firent entrer des dizaines de nouveaux États dans la politique mondiale. Les mouvements d’indépendance mirent fin à de nombreux empires coloniaux et firent entrer des dizaines de nouveaux États dans la politique mondiale."
+  },
+  {
+    "title": "Révolutions atlantiques",
+    "slug": "atlantic-revolutions",
+    "excerpt": "Les révolutions d’Amérique du Nord, de France et d’Haïti remirent en cause la domination impériale et les anciennes conceptions des droits politiques.",
+    "text": "Révolutions atlantiques Les révolutions d’Amérique du Nord, de France et d’Haïti remirent en cause la domination impériale et les anciennes conceptions des droits politiques. Les révolutions d’Amérique du Nord, de France et d’Haïti remirent en cause la domination impériale et les anciennes conceptions des droits politiques."
+  },
+  {
+    "title": "Voyages atlantiques et échange colombien",
+    "slug": "atlantic-voyages-and-the-columbian-exchange",
+    "excerpt": "L’expansion européenne relia les Amériques à l’Afro-Eurasie et fit circuler cultures agricoles, populations, maladies et richesses.",
+    "text": "Voyages atlantiques et échange colombien L’expansion européenne relia les Amériques à l’Afro-Eurasie et fit circuler cultures agricoles, populations, maladies et richesses. L’expansion européenne relia les Amériques à l’Afro-Eurasie et fit circuler cultures agricoles, populations, maladies et richesses."
+  },
+  {
+    "title": "Empires et idées de l’Antiquité classique",
+    "slug": "classical-empires-and-ideas",
+    "excerpt": "De grands États et des traditions influentes prirent forme autour de la Méditerranée, en Asie occidentale, en Inde et en Chine.",
+    "text": "Empires et idées de l’Antiquité classique De grands États et des traditions influentes prirent forme autour de la Méditerranée, en Asie occidentale, en Inde et en Chine. De grands États et des traditions influentes prirent forme autour de la Méditerranée, en Asie occidentale, en Inde et en Chine."
+  },
+  {
+    "title": "Industrialisation",
+    "slug": "industrialization",
+    "excerpt": "La production mécanisée se répandit depuis la Grande-Bretagne vers d’autres régions, transformant le travail, l’usage de l’énergie et les rapports de puissance mondiaux.",
+    "text": "Industrialisation La production mécanisée se répandit depuis la Grande-Bretagne vers d’autres régions, transformant le travail, l’usage de l’énergie et les rapports de puissance mondiaux. La production mécanisée se répandit depuis la Grande-Bretagne vers d’autres régions, transformant le travail, l’usage de l’énergie et les rapports de puissance mondiaux."
+  },
+  {
+    "title": "La vie dans les premières communautés agricoles",
+    "slug": "life-in-early-farming-communities",
+    "excerpt": "Les premières communautés agricoles associaient la production alimentaire à d’autres moyens de se nourrir, et leur vie quotidienne variait selon les lieux.",
+    "text": "La vie dans les premières communautés agricoles Les premières communautés agricoles associaient la production alimentaire à d’autres moyens de se nourrir, et leur vie quotidienne variait selon les lieux. Plusieurs façons de pratiquer l’agriculture Les premières communautés agricoles ne vivaient pas toutes de la même manière. Certaines cultivaient des plantes et s’occupaient d’animaux tout en continuant à chasser, à pêcher ou à cueillir des aliments sauvages. Les plantes, les animaux et les milieux locaux influençaient les choix possibles pour chaque communauté. Traces de la vie quotidienne Les archéologues étudient les graines, les os d’animaux, les outils et les vestiges de bâtiments pour comprendre comment les populations produisaient leur nourriture et vivaient ensemble. Les indices varient d’un site à l’autre ; l’histoire de l’agriculture se reconstitue donc région par région."
+  },
+  {
+    "title": "L’imprimerie se développe en Europe",
+    "slug": "printing-expands-in-europe",
+    "excerpt": "L’imprimerie à caractères mobiles accéléra la circulation des livres et des idées en Europe, en s’appuyant sur des traditions asiatiques plus anciennes.",
+    "text": "L’imprimerie se développe en Europe L’imprimerie à caractères mobiles accéléra la circulation des livres et des idées en Europe, en s’appuyant sur des traditions asiatiques plus anciennes. L’imprimerie à caractères mobiles accéléra la circulation des livres et des idées en Europe, en s’appuyant sur des traditions asiatiques plus anciennes."
+  },
+  {
+    "title": "Les routes de la soie relient l’Eurasie",
+    "slug": "silk-roads-connect-eurasia",
+    "excerpt": "Les réseaux terrestres et maritimes transportaient marchandises, croyances, techniques et personnes d’un continent à l’autre.",
+    "text": "Les routes de la soie relient l’Eurasie Les réseaux terrestres et maritimes transportaient marchandises, croyances, techniques et personnes d’un continent à l’autre. Les réseaux terrestres et maritimes transportaient marchandises, croyances, techniques et personnes d’un continent à l’autre."
+  },
+  {
+    "title": "Les débuts de l’agriculture",
+    "slug": "the-beginnings-of-agriculture",
+    "excerpt": "L’agriculture se développa indépendamment dans plusieurs régions, favorisant de plus grandes communautés sédentaires et de nouveaux modes de vie.",
+    "text": "Les débuts de l’agriculture L’agriculture se développa indépendamment dans plusieurs régions, favorisant de plus grandes communautés sédentaires et de nouveaux modes de vie. L’agriculture se développa indépendamment dans plusieurs régions, favorisant de plus grandes communautés sédentaires et de nouveaux modes de vie."
+  },
+  {
+    "title": "La peste noire",
+    "slug": "the-black-death",
+    "excerpt": "Une pandémie de peste dévastatrice transforma les populations, les économies et les sociétés de l’Eurasie et de l’Afrique du Nord.",
+    "text": "La peste noire Une pandémie de peste dévastatrice transforma les populations, les économies et les sociétés de l’Eurasie et de l’Afrique du Nord. Une pandémie de peste dévastatrice transforma les populations, les économies et les sociétés de l’Eurasie et de l’Afrique du Nord."
+  },
+  {
+    "title": "La guerre froide",
+    "slug": "the-cold-war",
+    "excerpt": "Des blocs rivaux s’affrontèrent par la diplomatie, les courses aux armements et les guerres par procuration, tandis que les États nouvellement indépendants suivirent leurs propres voies.",
+    "text": "La guerre froide Des blocs rivaux s’affrontèrent par la diplomatie, les courses aux armements et les guerres par procuration, tandis que les États nouvellement indépendants suivirent leurs propres voies. Des blocs rivaux s’affrontèrent par la diplomatie, les courses aux armements et les guerres par procuration, tandis que les États nouvellement indépendants suivirent leurs propres voies."
+  },
+  {
+    "title": "L’ère numérique",
+    "slug": "the-digital-age",
+    "excerpt": "L’informatique et Internet ont transformé la communication, le commerce, la recherche et la vie quotidienne dans le monde entier.",
+    "text": "L’ère numérique L’informatique et Internet ont transformé la communication, le commerce, la recherche et la vie quotidienne dans le monde entier. L’informatique et Internet ont transformé la communication, le commerce, la recherche et la vie quotidienne dans le monde entier."
+  },
+  {
+    "title": "Les premières villes et écritures",
+    "slug": "the-first-cities-and-writing-systems",
+    "excerpt": "Les sociétés urbaines et les premières écritures de Mésopotamie et d’Égypte transformèrent le commerce, le gouvernement et la tenue des archives.",
+    "text": "Les premières villes et écritures Les sociétés urbaines et les premières écritures de Mésopotamie et d’Égypte transformèrent le commerce, le gouvernement et la tenue des archives. Les sociétés urbaines et les premières écritures de Mésopotamie et d’Égypte transformèrent le commerce, le gouvernement et la tenue des archives."
+  },
+  {
+    "title": "La Première Guerre mondiale",
+    "slug": "the-first-world-war",
+    "excerpt": "Un conflit mondial mit fin à des empires, redessina les frontières et façonna les crises politiques qui suivirent.",
+    "text": "La Première Guerre mondiale Un conflit mondial mit fin à des empires, redessina les frontières et façonna les crises politiques qui suivirent. Un conflit mondial mit fin à des empires, redessina les frontières et façonna les crises politiques qui suivirent."
+  },
+  {
+    "title": "L’Empire mongol",
+    "slug": "the-mongol-empire",
+    "excerpt": "Les conquêtes mongoles créèrent le plus vaste empire terrestre d’un seul tenant et transformèrent les échanges en Eurasie.",
+    "text": "L’Empire mongol Les conquêtes mongoles créèrent le plus vaste empire terrestre d’un seul tenant et transformèrent les échanges en Eurasie. Les conquêtes mongoles créèrent le plus vaste empire terrestre d’un seul tenant et transformèrent les échanges en Eurasie."
+  },
+  {
+    "title": "L’essor et la diffusion de l’islam",
+    "slug": "the-rise-and-spread-of-islam",
+    "excerpt": "L’islam apparut en Arabie et se diffusa grâce à l’expansion des États et des réseaux commerciaux en Afro-Eurasie.",
+    "text": "L’essor et la diffusion de l’islam L’islam apparut en Arabie et se diffusa grâce à l’expansion des États et des réseaux commerciaux en Afro-Eurasie. L’islam apparut en Arabie et se diffusa grâce à l’expansion des États et des réseaux commerciaux en Afro-Eurasie."
+  },
+  {
+    "title": "La Seconde Guerre mondiale",
+    "slug": "the-second-world-war",
+    "excerpt": "La guerre en Europe, en Afrique, en Asie et dans le Pacifique causa d’immenses pertes et remodela l’ordre international.",
+    "text": "La Seconde Guerre mondiale La guerre en Europe, en Afrique, en Asie et dans le Pacifique causa d’immenses pertes et remodela l’ordre international. La guerre en Europe, en Afrique, en Asie et dans le Pacifique causa d’immenses pertes et remodela l’ordre international."
+  },
+  {
     "title": "Un port existait-il au large de Poompuhar il y a 15 000 ans ?",
     "slug": "poompuhar-15000-year-old-port-claim",
     "excerpt": "Des relevés sonar ont révélé des formes évoquant un port sous le golfe du Bengale, mais l’hypothèse d’un port vieux de 15 000 ans demeure non démontrée.",

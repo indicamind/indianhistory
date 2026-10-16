@@ -361,5 +361,7 @@
   "{count} articles across this {kind}": "এই {kind}-এ {count}টি নিবন্ধ",
   "{count} articles across this {kind} and its sub-periods": "এই {kind} এবং এর উপযুগগুলিতে {count}টি নিবন্ধ",
   "No articles yet for this {kind}. More stories are being added.": "এই {kind}-এ এখনও কোনো নিবন্ধ নেই। আরও গল্প যোগ করা হচ্ছে।",
-  "No results for “{query}”.": "“{query}”-এর জন্য কোনো ফলাফল পাওয়া যায়নি।"
+  "No results for “{query}”.": "“{query}”-এর জন্য কোনো ফলাফল পাওয়া যায়নি।",
+  "Full article": "সম্পূর্ণ প্রবন্ধ",
+  "No articles yet for this event.": "এই ঘটনার জন্য এখনো কোনো প্রবন্ধ নেই।"
 }

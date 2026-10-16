@@ -361,5 +361,7 @@
   "{count} articles across this {kind}": "ಈ {kind}ನಲ್ಲಿ {count} ಲೇಖನಗಳು",
   "{count} articles across this {kind} and its sub-periods": "ಈ {kind} ಮತ್ತು ಅದರ ಉಪಕಾಲಗಳಲ್ಲಿ {count} ಲೇಖನಗಳು",
   "No articles yet for this {kind}. More stories are being added.": "ಈ {kind}ಗೆ ಇನ್ನೂ ಲೇಖನಗಳಿಲ್ಲ. ಇನ್ನಷ್ಟು ಕಥೆಗಳನ್ನು ಸೇರಿಸಲಾಗುತ್ತಿದೆ.",
-  "No results for “{query}”.": "“{query}”ಗೆ ಯಾವುದೇ ಫಲಿತಾಂಶ ಸಿಗಲಿಲ್ಲ."
+  "No results for “{query}”.": "“{query}”ಗೆ ಯಾವುದೇ ಫಲಿತಾಂಶ ಸಿಗಲಿಲ್ಲ.",
+  "Full article": "ಪೂರ್ಣ ಲೇಖನ",
+  "No articles yet for this event.": "ಈ ಘಟನೆಯ ಬಗ್ಗೆ ಇನ್ನೂ ಲೇಖನಗಳಿಲ್ಲ."
 }

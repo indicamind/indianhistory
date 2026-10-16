@@ -95,7 +95,8 @@ export class AppComponent implements AfterViewInit {
     const path = url.split('?')[0].split('#')[0];
     this.isBookLibrary.set(path === '/books');
     let storyRecommendations: string[] = [];
-    const articleMatch = path.match(/^\/article\/([^/]+)$/);
+    const articleMatch = path.match(/^\/article\/([^/]+)$/)
+      ?? path.match(/^\/worldhistory\/(?:[^/]+\/)?([^/]+)$/);
     if (articleMatch) {
       await this.articles.whenReady();
       if (version !== this.placementVersion) return;

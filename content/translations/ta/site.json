@@ -361,5 +361,7 @@
   "{count} articles across this {kind}": "இந்த {kind} முழுவதும் {count} கட்டுரைகள்",
   "{count} articles across this {kind} and its sub-periods": "இந்த {kind} மற்றும் அதன் துணைக் காலங்கள் முழுவதும் {count} கட்டுரைகள்",
   "No articles yet for this {kind}. More stories are being added.": "இந்த {kind} குறித்த கட்டுரைகள் இன்னும் இல்லை. மேலும் கதைகள் சேர்க்கப்படுகின்றன.",
-  "No results for “{query}”.": "“{query}” என்பதற்கான முடிவுகள் இல்லை."
+  "No results for “{query}”.": "“{query}” என்பதற்கான முடிவுகள் இல்லை.",
+  "Full article": "முழுக் கட்டுரை",
+  "No articles yet for this event.": "இந்த நிகழ்வைப் பற்றிய கட்டுரைகள் இன்னும் இல்லை."
 }

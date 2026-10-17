@@ -3,13 +3,38 @@
     "About this edict": "এই শিলালিপি সম্পর্কে",
     "About this inscription": "এই অভিলেখ সম্পর্কে",
     "Original script": "মূল লিপি",
+    "Original scripts": "মূল লিপিগুলি",
     "Roman transliteration": "রোমান হরফে প্রতিবর্ণীকরণ",
     "localTranslationHeading": "বাংলা অনুবাদ",
+    "English translation of the Greek": "গ্রিক পাঠের বাংলা অনুবাদ",
+    "English translation of the Aramaic": "আরামীয় পাঠের বাংলা অনুবাদ",
+    "Greek": "গ্রিক",
+    "Aramaic": "আরামীয়",
     "Sources": "উৎস",
     "volumeOne": "প্রথম খণ্ড",
     "polyglottaEdition": "বিবলিওথেকা পলিগ্লোটা সংস্করণ",
     "universityOfOslo": "অসলো বিশ্ববিদ্যালয়",
-    "translationBasisNote": "এই অনুবাদটি গিরনারের পাঠের ই. হুল্টশের ১৯২৫ সালের ইংরেজি অনুবাদের ভিত্তিতে করা হয়েছে। এর শব্দচয়ন সেই ঐতিহাসিক সংস্করণ অনুসরণ করে।"
+    "translationBasisNote": "এই বাংলা অনুবাদটি নিচে উদ্ধৃত সংস্করণের ইংরেজি অনুবাদের ভিত্তিতে করা হয়েছে। ক্ষতিগ্রস্ত ও অনিশ্চিত অংশগুলি সেই ঐতিহাসিক সংস্করণ অনুসারে চিহ্নিত।",
+    "sourceNote": "মাগধী প্রতিবর্ণীকরণ, ইংরেজি অনুবাদ ও অভিলেখের প্রতিলিপি",
+    "siteNames": {
+      "Bairat": "বৈরাট", "Lumbini": "লুম্বিনী", "Delhi–Topra": "দিল্লি–টোপরা", "Girnar": "গিরনার", "Kalsi": "কালসি", "Rūpnāth": "রূপনাথ", "Brahmagiri": "ব্রহ্মগিরি", "Nigali Sagar": "নিগালি সাগর", "Allahabad–Kauśāmbī": "এলাহাবাদ–কৌশাম্বী", "Sarnath": "সারনাথ", "Dhauli": "ধৌলি"
+    },
+    "siteAltTemplate": "হুল্টশের ১৯২৫ সালের সংস্করণে {site}-এর ব্রাহ্মী অভিলেখের প্রতিলিপি",
+    "siteCaptionTemplate": "{site}-এর অভিলেখের প্রতিলিপি। ই. হুল্টশ, <em>Inscriptions of Asoka</em> (1925), পাবলিক ডোমেইন।",
+    "siteTransliterationTemplate": "নিচের পাঠটি হুল্টশের সংস্করণে {site}-এর পাঠ অনুসরণ করে। বর্গবন্ধনী পুনর্গঠিত বা অনিশ্চিত অক্ষর বোঝায়; বিন্দু ক্ষতিগ্রস্ত বা হারানো পাঠ বোঝায়। টিকে থাকা অন্য অনুলিপিগুলির পাঠ আলাদা হতে পারে।",
+    "imageAltTranslations": {
+      "Brahmi facsimiles of the three Barabar cave inscriptions in Hultzsch’s 1925 edition; Karna Chaupar is third": "হুল্টশের ১৯২৫ সালের সংস্করণে বরাবর গুহার তিনটি ব্রাহ্মী অভিলেখের প্রতিলিপি; কর্ণ চৌপরের পাঠটি তৃতীয়",
+      "Brahmi facsimiles of the three Barabar cave inscriptions in Hultzsch’s 1925 edition; Sudama is first": "হুল্টশের ১৯২৫ সালের সংস্করণে বরাবর গুহার তিনটি ব্রাহ্মী অভিলেখের প্রতিলিপি; সুদামার পাঠটি প্রথম",
+      "Brahmi facsimiles of the three Barabar cave inscriptions in Hultzsch’s 1925 edition; Visvakarma is second": "হুল্টশের ১৯২৫ সালের সংস্করণে বরাবর গুহার তিনটি ব্রাহ্মী অভিলেখের প্রতিলিপি; বিশ্বকর্মার পাঠটি দ্বিতীয়"
+    },
+    "imageCaptionTranslations": {
+      "Barabar cave inscription facsimiles. E. Hultzsch, <em>Inscriptions of Asoka</em> (1925), public domain.": "বরাবর গুহার অভিলেখগুলির প্রতিলিপি। ই. হুল্টশ, <em>Inscriptions of Asoka</em> (1925), পাবলিক ডোমেইন।"
+    },
+    "transliterationNotes": {
+      "The text below follows Hultzsch’s edition of the Karna Chaupar inscription. Square brackets mark restored or uncertain letters; dots mark a missing passage.": "নিচের পাঠ হুল্টশের কর্ণ চৌপর অভিলেখের সংস্করণ অনুসরণ করে। বর্গবন্ধনী পুনর্গঠিত বা অনিশ্চিত অক্ষর এবং বিন্দু হারানো অংশ বোঝায়।",
+      "The text below follows Hultzsch’s edition of the Sudama inscription. Square brackets mark restored or uncertain letters.": "নিচের পাঠ হুল্টশের সুদামা অভিলেখের সংস্করণ অনুসরণ করে। বর্গবন্ধনী পুনর্গঠিত বা অনিশ্চিত অক্ষর বোঝায়।",
+      "The text below follows Hultzsch’s edition of the Visvakarma inscription. Square brackets mark restored or uncertain letters.": "নিচের পাঠ হুল্টশের বিশ্বকর্মা অভিলেখের সংস্করণ অনুসরণ করে। বর্গবন্ধনী পুনর্গঠিত বা অনিশ্চিত অক্ষর বোঝায়।"
+    }
   },
   "articles": {
     "ashoka-major-rock-edict-1": {

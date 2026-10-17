@@ -64,8 +64,12 @@ function articleBody(source, localized, common, language) {
   const imageCount = [...figures.matchAll(/<figure\b/g)].length;
   const sourceAlts = [...figures.matchAll(/<img[^>]+alt="([^"]+)"/g)].map(match => match[1]);
   const sourceCaptions = [...figures.matchAll(/<figcaption>([\s\S]*?)<\/figcaption>/g)].map(match => match[1]);
-  const alts = localized.imageAlts || sourceAlts.map(value => common.imageAltTranslations?.[value]);
-  const captions = localized.imageCaptions || sourceCaptions.map(value => common.imageCaptionTranslations?.[value]);
+  const siteFrom = (value, pattern) => common.siteNames?.[value.match(pattern)?.[1]];
+  const applySite = (template, site) => template && site ? template.replace('{site}', site) : undefined;
+  const alts = localized.imageAlts || sourceAlts.map(value => common.imageAltTranslations?.[value] ||
+    applySite(common.siteAltTemplate, siteFrom(value, /^Brahmi inscription facsimile from (.+?) in Hultzsch/)));
+  const captions = localized.imageCaptions || sourceCaptions.map(value => common.imageCaptionTranslations?.[value] ||
+    applySite(common.siteCaptionTemplate, siteFrom(value, /^(.+?) inscription facsimile\. E\. Hultzsch/)));
   if (!Array.isArray(alts) || !Array.isArray(captions) || alts.length !== imageCount || captions.length !== imageCount ||
       alts.some(value => !value) || captions.some(value => !value)) {
     throw new Error(`${source.data.slug}: expected ${imageCount} translated image alt(s) and caption(s)`);
@@ -80,7 +84,8 @@ function articleBody(source, localized, common, language) {
   const transliteration = section(body, 'Roman transliteration', 'English translation').match(/<p class="inscription-transliteration"[\s\S]*?<\/p>/)?.[0];
   if (!transliteration) throw new Error(`${source.data.slug}: missing transliteration`);
   const sourceTransliterationNote = section(body, 'Roman transliteration', 'English translation').split('\n\n')[0];
-  const transliterationNote = localized.transliterationNote || common.transliterationNotes?.[sourceTransliterationNote];
+  const transliterationNote = localized.transliterationNote || common.transliterationNotes?.[sourceTransliterationNote] ||
+    applySite(common.siteTransliterationTemplate, siteFrom(sourceTransliterationNote, /^The text below follows the (.+?) version in Hultzsch/));
   const sourceNote = localized.sourceNote || common.sourceNote;
   const englishSection = section(body, 'English translation', 'Sources');
   const englishQuote = englishSection.slice(englishSection.indexOf('\n\n>') + 2).trim();
@@ -116,14 +121,14 @@ function blockTranslatedBody(source, localized, common) {
   const headings = {
     '## About this inscription': `## ${common['About this inscription']}`,
     '## Original script': `## ${common['Original script']}`,
-    '## Original scripts': '## मूल लिपियाँ',
+    '## Original scripts': `## ${common['Original scripts'] || 'मूल लिपियाँ'}`,
     '## Roman transliteration': `## ${common['Roman transliteration']}`,
     '## English translation': `## ${common.localTranslationHeading}`,
-    '## English translation of the Greek': '## यूनानी पाठ का हिंदी अनुवाद',
-    '## English translation of the Aramaic': '## अरामाई पाठ का हिंदी अनुवाद',
+    '## English translation of the Greek': `## ${common['English translation of the Greek'] || 'यूनानी पाठ का हिंदी अनुवाद'}`,
+    '## English translation of the Aramaic': `## ${common['English translation of the Aramaic'] || 'अरामाई पाठ का हिंदी अनुवाद'}`,
     '## Sources': `## ${common.Sources}`,
-    '### Greek': '### यूनानी',
-    '### Aramaic': '### अरामाई',
+    '### Greek': `### ${common.Greek || 'यूनानी'}`,
+    '### Aramaic': `### ${common.Aramaic || 'अरामाई'}`,
   };
   let figureIndex = 0;
   let inRomanSection = false;
@@ -142,7 +147,7 @@ function blockTranslatedBody(source, localized, common) {
     }
     if (block.startsWith('<p class="inscription-transliteration"')) return block;
     if (inRomanSection && (block.startsWith('Greek: *') || block.startsWith('Aramaic: *'))) {
-      return block.replace(/^Greek:/, 'यूनानी:').replace(/^Aramaic:/, 'अरामाई:');
+      return block.replace(/^Greek:/, `${common.Greek || 'यूनानी'}:`).replace(/^Aramaic:/, `${common.Aramaic || 'अरामाई'}:`);
     }
     const replacement = localized.blocks[String(index)];
     if (!replacement) throw new Error(`${source.data.slug}: missing Hindi body block ${index}`);
@@ -165,6 +170,10 @@ function buildLanguage(language) {
   const file = path.join(localeDir, `${language}.json`);
   if (!fs.existsSync(file)) throw new Error(`Missing human-authored ${file}`);
   const localized = JSON.parse(fs.readFileSync(file, 'utf8'));
+  const collectionFile = path.join(localeDir, language, 'standard.json');
+  const collection = fs.existsSync(collectionFile)
+    ? JSON.parse(fs.readFileSync(collectionFile, 'utf8')).articles || {}
+    : {};
   const files = fs.readdirSync(sourceDir).filter(name =>
     name.startsWith('ashoka-') && name.endsWith('.md') && (!onlySlug || name === `${onlySlug}.md`)
   );
@@ -178,7 +187,7 @@ function buildLanguage(language) {
     const individualFile = path.join(localeDir, language, `${source.data.slug}.json`);
     const entry = fs.existsSync(individualFile)
       ? JSON.parse(fs.readFileSync(individualFile, 'utf8'))
-      : localized.articles?.[source.data.slug];
+      : localized.articles?.[source.data.slug] || collection[source.data.slug];
     if (!entry) throw new Error(`${language}: missing ${source.data.slug}`);
     const body = articleBody(source, entry, localized.common, language);
     const fm = frontmatter(source, entry, hash(source.data, source.content));

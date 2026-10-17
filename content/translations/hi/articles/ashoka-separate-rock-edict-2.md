@@ -1,0 +1,60 @@
+---
+title: "पृथक शिलादेश II: सीमांत लोगों का विश्वास"
+slug: ashoka-separate-rock-edict-2
+previewOnly: true
+excerpt: "अशोक कलिंग के अधिकारियों से सीमा के पार रहने वालों को आश्वस्त करने और धैर्य से शासन करने को कहते हैं।"
+publishedAt: 2026-10-16T00:00:00.000Z
+updatedAt: 2026-10-16T00:00:00.000Z
+period: mauryan
+polity: maurya
+personalities: [ashoka]
+relatedTo: ashoka-edicts
+tags: ["अशोक","शिलादेश","पृथक शिलादेश"]
+themes: []
+books: []
+sourceHash: 074108640470a9f296668e9fc9d0a95fa851f23c70333689cead65fb7b63d70a
+---
+
+## इस शिलादेश के बारे में
+
+दूसरा पृथक शिलादेश अधिकारियों से अभी न जीते गए पड़ोसियों का विश्वास जीतने को कहता है। राजा स्वयं को प्रजा का पिता बताते हैं, पर इस कथन को विश्वसनीय बनाने के लिए अधिकारियों पर निर्भर भी हैं।
+
+## मूल लिपि
+
+<figure class="article-figure inscription-plate">
+  <img src="/assets/media/images/ashoka-plate-1405671324.jpg" alt="हुल्त्श के 1925 के संस्करण में धौली के ब्राह्मी अभिलेख की प्रतिकृति" loading="lazy" decoding="async" />
+  <figcaption>धौली अभिलेख की प्रतिकृति। ई. हुल्त्श, <em>Inscriptions of Asoka</em> (1925), सार्वजनिक डोमेन।</figcaption>
+</figure>
+
+## रोमन लिप्यंतरण
+
+नीचे का पाठ हुल्त्श के संस्करण में धौली वाले पाठ का अनुसरण करता है। वर्ग कोष्ठक पुनर्स्थापित या अनिश्चित अक्षर दर्शाते हैं; बिंदु क्षतिग्रस्त या लुप्त पाठ दर्शाते हैं। अन्य उपलब्ध प्रतियाँ अलग हो सकती हैं।
+
+<p class="inscription-transliteration" lang="pra-Latn">(A) 1 Devānaṃpiyas[a] vacanena Tosaliyaṃ kumāle mahāmātā ca vataviya (B) aṃ kichi dakhām[i] h[akaṃ taṃ i] .......... 2 duvālate ca ālabhehaṃ (C) esa ca me mokhya-mata duvālā etasi aṭhasi aṃ tuphe[s]u .......... mama (D) ... (E) 3 ath[a] pajāye ichāmi hakaṃ ki[ṃ]ti savena hi[ta-sukhe]na hidalokikapālalokikāye yujevū ti h[e]v[aṃ] .......... (F) 4 siyā aṃtānaṃ avijitānaṃ ki-cha[ṃde] su lāja [aphesu] .. (G) ..... m[a]va icha mama aṃtesu ... i [p]ā[p]unevu te iti Devānaṃp[iy] ....... [anu]v[i]g[ina] mamāye 5 huvevū ti asvasevu ca sukhaṃmeva lahevu mamat[e] no dukha[ṃ] h[e]va[ṃ] … un[e]vū iti khamisati ne Devānaṃpiye [aph]ākā ti e cakiye khamitave mama nimitaṃ [va] ca dhaṃmaṃ calevū 6 hidaloka palaloka[ṃ] ca āladhayevū (H) etasi aṭhasi haka[ṃ] anusāsāmi tuphe ana[n]e [e]takena hakaṃ anusāsitu chaṃdaṃ cā veditu ā [hi] dhi[t]i paṭiṃñā ca mamā 7 [ajalā (I) s[e] hevaṃ kaṭu kaṃme cal[i]t[a]v[i]ye asv[āsa] ..... i [ca] tāni ena pāpunevū iti atha pitā tatha Devānaṃpiy[e] aphāka athā ca atānaṃ hevaṃ Devānaṃpiye [a]nukaṃpati aphe 8 athā ca pajā hevaṃ may[e] D[e]vānaṃpiyasa (J) se hakaṃ anusāsitu [cha]ṃda[m] c[a veditu tu]phāk[a] desāvutike hosāmi etāye aṭhāye (K) paṭibalā hi tuph[e] asvāsanāye hita-sukhāye ca [tesa] 9 hidalokika-pālalo[ki]kāye (L) hevaṃ ca kalaṃtam tuphe svagam ālādha[yi]satha mama c[a] ānaniyam ehatha (M) etāye ca aṭhāye iyaṃ lipi likhitā hida e[na ma]hāmātā svasata[ṃ sa]ma 10 yujisaṃti as[vā]s[a]nāye dhaṃma-cala[n]āye ca tes[a] aṃtānaṃ (N) iyaṃ ca lipi [anu]cātuṃmāsaṃ tisena nakhatena sotaviyā (O) kāmaṃ cu [kha]ṇas[i] khanasi aṃtalā pi tisena ekena [p]i 11 [so]taviya (P) hevaṃ kala[ṃ]taṃ [t]uphe caghatha saṃpaṭipādayitave</p>
+
+## हिंदी अनुवाद
+
+यह हिंदी अनुवाद नीचे उद्धृत संस्करण के अंग्रेज़ी अनुवाद पर आधारित है। क्षतिग्रस्त और अनिश्चित अंश उस ऐतिहासिक संस्करण के अनुसार चिह्नित हैं।
+
+> (A) देवानांप्रिय की ओर से तोसली के राजकुमार शासक और महामात्रों से यह कहा जाए।
+> (B) जिसे मैं सही समझता हूँ, उसे .......... और विभिन्न उपायों से पूरा करना चाहता हूँ।
+> (C) इस लक्ष्य का मुख्य साधन मैं .......... तुम्हें मानता हूँ।
+> (D) .......... मेरा .....
+> (E) जैसे अपनी संतान के लिए मैं इस लोक और परलोक में पूर्ण कल्याण और सुख चाहता हूँ, वैसे ही ..........
+> (F) मेरी सीमा के उस पार रहने वाले, अभी न जीते गए लोग पूछ सकते हैं: ‘राजा हमसे क्या चाहता है?’
+> (G) सीमांत लोगों के लिए मेरी [यही] इच्छा है कि वे जानें देवानांप्रिय ..........; वे मुझसे डरें नहीं, बल्कि मुझ पर भरोसा रखें; उन्हें मुझसे केवल सुख मिले, दुख नहीं; वे [जानें] कि देवानांप्रिय क्षमा योग्य बातों को क्षमा करेंगे; वे मेरे कहने पर धम्म का पालन करें और इस लोक तथा परलोक में सुख पाएँ।
+> (H) मैं तुम्हें इसलिए निर्देश देता हूँ कि तुम्हें निर्देश देकर और अपनी अटल प्रतिज्ञा तथा इच्छा बताकर उनके प्रति अपना ऋण चुका सकूँ।
+> (I) इसलिए अपना कर्तव्य निभाओ और उनमें विश्वास जगाओ, ताकि वे जानें कि देवानांप्रिय उनके लिए पिता समान हैं, उनसे अपने जैसा प्रेम करते हैं और वे उनकी अपनी संतान समान हैं।
+> (J) तुम्हें निर्देश और अपनी इच्छा बताने के बाद मैं इसी उद्देश्य से सभी प्रांतों में अधिकारी रखूँगा।
+> (K) तुम उन सीमांत लोगों में विश्वास जगा सकते हो और इस लोक तथा परलोक में उनका कल्याण और सुख सुनिश्चित कर सकते हो।
+> (L) ऐसा करोगे तो स्वर्ग पाओगे और मेरे प्रति अपना ऋण चुकाओगे।
+> (M) यह आदेश इसलिए लिखा गया है कि महामात्र हर समय मेरे सीमांत लोगों का विश्वास जीतने और उन्हें धम्म का पालन कराने का प्रयास करें।
+> (N) हर चार महीने पर तिष्य नक्षत्र के दिन यह आदेश सबको सुनाया जाए।
+> (O) इच्छा हो तो तिष्य के बीच अन्य अवसरों पर एक अकेला व्यक्ति भी इसे सुन सकता है।
+> (P) ऐसा करोगे तो मेरे आदेश पूरे कर सकोगे।
+
+## स्रोत
+
+- E. Hultzsch, [*Inscriptions of Asoka* (1925)](https://archive.org/details/InscriptionsOfAsoka.NewEditionByE.Hultzsch), *Corpus Inscriptionum Indicarum*, खंड 1.
+
+- [बिब्लियोथेका पॉलीग्लोटा संस्करण](https://www2.hf.uio.no/polyglotta/index.php?mid=0&page=fulltext&vid=364&view=fulltext), ओस्लो विश्वविद्यालय (मागधी लिप्यंतरण, अंग्रेज़ी अनुवाद और अभिलेख की प्रतिकृतियाँ).

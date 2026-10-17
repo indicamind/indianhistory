@@ -1,0 +1,47 @@
+---
+title: "रानी का आदेश: करुवाकी के दान"
+slug: ashoka-queens-edict
+previewOnly: true
+excerpt: "अशोक आदेश देते हैं कि रानी करुवाकी के दान उनके नाम से दर्ज किए जाएँ।"
+publishedAt: 2026-10-16T00:00:00.000Z
+updatedAt: 2026-10-16T00:00:00.000Z
+period: mauryan
+polity: maurya
+personalities: [ashoka]
+relatedTo: ashoka-edicts
+tags: ["अशोक","शिलादेश","स्तंभादेश"]
+themes: []
+books: []
+sourceHash: bcf9de7dabb687028dfb5106db35c9ad12dc134063942905408ebf3300e6a0b8
+---
+
+## इस शिलादेश के बारे में
+
+इलाहाबाद–कौशाम्बी स्तंभ पर रानी का यह आदेश करुवाकी को तीवल की माता बताता है। यह उन दुर्लभ अभिलेखों में है जो किसी मौर्य राजपरिवार की महिला का नाम दर्ज करते हैं।
+
+## मूल लिपि
+
+<figure class="article-figure inscription-plate">
+  <img src="/assets/media/images/ashoka-queen-edict.jpg" alt="हुल्त्श के 1925 के संस्करण में इलाहाबाद–कौशाम्बी के ब्राह्मी अभिलेख की प्रतिकृति" loading="lazy" decoding="async" />
+  <figcaption>इलाहाबाद–कौशाम्बी अभिलेख की प्रतिकृति। ई. हुल्त्श, <em>Inscriptions of Asoka</em> (1925), सार्वजनिक डोमेन।</figcaption>
+</figure>
+
+## रोमन लिप्यंतरण
+
+नीचे का पाठ हुल्त्श के संस्करण में इलाहाबाद–कौशाम्बी वाले पाठ का अनुसरण करता है। वर्ग कोष्ठक पुनर्स्थापित या अनिश्चित अक्षर दर्शाते हैं; बिंदु क्षतिग्रस्त या लुप्त पाठ दर्शाते हैं। अन्य उपलब्ध प्रतियाँ अलग हो सकती हैं।
+
+<p class="inscription-transliteration" lang="pra-Latn">(A) 1 Devānāṃpiyaṣā v[a]canenā savata mahamatā 2 vataviyā (B) e hetā dutiyāye devīye dāne 3 aṃba-vaḍikā vā ālame va dāna-[gah]e [va e vā pi a]ṃne 4 kīchi ganīyati tāye deviye ṣe nāni (C) [he]vaṃ .. [na] .. 5 dutīyaye deviye ti Tīvala-mātu Kāluvākiye</p>
+
+## हिंदी अनुवाद
+
+यह हिंदी अनुवाद नीचे उद्धृत संस्करण के अंग्रेज़ी अनुवाद पर आधारित है। क्षतिग्रस्त और अनिश्चित अंश उस ऐतिहासिक संस्करण के अनुसार चिह्नित हैं।
+
+> (A) देवानांप्रिय के आदेश से हर जगह के महामात्रों को यह बताया जाए।
+> (B) दूसरी रानी ने यहाँ जो भी दान किए हैं—चाहे आम के बाग हों, उद्यान हों, दानशालाएँ हों या कुछ और—वे उसी रानी के नाम से दर्ज किए जाएँ।
+> (C) यह दूसरी रानी, तीवल की माता कलुवाकी की [प्रार्थना] है।
+
+## स्रोत
+
+- E. Hultzsch, [*Inscriptions of Asoka* (1925)](https://archive.org/details/InscriptionsOfAsoka.NewEditionByE.Hultzsch), *Corpus Inscriptionum Indicarum*, खंड 1.
+
+- [बिब्लियोथेका पॉलीग्लोटा संस्करण](https://www2.hf.uio.no/polyglotta/index.php?mid=0&page=fulltext&vid=375&view=fulltext), ओस्लो विश्वविद्यालय (मागधी लिप्यंतरण, अंग्रेज़ी अनुवाद और अभिलेख की प्रतिकृतियाँ).

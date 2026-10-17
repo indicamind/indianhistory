@@ -4,6 +4,12 @@ Images in `content/media/images/` are copied to `public/assets/media/images/` wh
 
 Each image should have a matching `*.license.json` file with source, author, and license details.
 
+## Ashoka inscription facsimiles
+
+The `ashoka-plate-*.jpg` files reproduce facsimile plates edited by E. Hultzsch in [*Inscriptions of Asoka* (1925)](https://archive.org/details/InscriptionsOfAsoka.NewEditionByE.Hultzsch). The plate images were obtained through the [University of Oslo’s Bibliotheca Polyglotta Ashoka Library](https://www2.hf.uio.no/polyglotta/index.php?bid=14&page=library) and resized for the site. The Bairat and Queen’s Edict facsimiles reproduce plates from the same publication through Wikimedia Commons. The 1925 plates are public domain; each image has its own `.license.json` with its source page and modifications.
+
+The Kandahar bilingual and Greek fragment photographs, the Laghman I image, and the Taxila photograph come from Wikimedia Commons under the licenses recorded in their `.license.json` files. `ashoka-kandahar-aramaic.jpg` and `ashoka-pul-i-darunta.jpg` are modern **line tracings** by Pataliputra, licensed CC BY-SA 4.0; their articles identify them as tracings rather than photographs of the stones.
+
 ## acheulean-handaxes-comparative.jpg
 
 | Field | Value |

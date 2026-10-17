@@ -363,5 +363,6 @@
   "No articles yet for this {kind}. More stories are being added.": "இந்த {kind} குறித்த கட்டுரைகள் இன்னும் இல்லை. மேலும் கதைகள் சேர்க்கப்படுகின்றன.",
   "No results for “{query}”.": "“{query}” என்பதற்கான முடிவுகள் இல்லை.",
   "Full article": "முழுக் கட்டுரை",
-  "No articles yet for this event.": "இந்த நிகழ்வைப் பற்றிய கட்டுரைகள் இன்னும் இல்லை."
+  "No articles yet for this event.": "இந்த நிகழ்வைப் பற்றிய கட்டுரைகள் இன்னும் இல்லை.",
+  "English preview · Translations in progress": "ஆங்கில முன்னோட்டம் · மொழிபெயர்ப்புகள் நடைபெறுகின்றன"
 }

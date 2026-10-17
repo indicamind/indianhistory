@@ -363,5 +363,6 @@
   "No articles yet for this {kind}. More stories are being added.": "ഈ {kind} സംബന്ധിച്ച് ഇനിയും ലേഖനങ്ങളില്ല. കൂടുതൽ കഥകൾ ചേർത്തുകൊണ്ടിരിക്കുന്നു.",
   "No results for “{query}”.": "“{query}” എന്നതിനായി ഫലങ്ങളൊന്നും ലഭിച്ചില്ല.",
   "Full article": "മുഴുവൻ ലേഖനം",
-  "No articles yet for this event.": "ഈ സംഭവത്തെക്കുറിച്ച് ഇതുവരെ ലേഖനങ്ങളില്ല."
+  "No articles yet for this event.": "ഈ സംഭവത്തെക്കുറിച്ച് ഇതുവരെ ലേഖനങ്ങളില്ല.",
+  "English preview · Translations in progress": "ഇംഗ്ലീഷ് പ്രിവ്യൂ · വിവർത്തനങ്ങൾ പുരോഗമിക്കുന്നു"
 }

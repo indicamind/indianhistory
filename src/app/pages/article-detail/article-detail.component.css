@@ -105,6 +105,33 @@
   color: var(--accent);
 }
 
+.article-body :deep(.inscription-plate) {
+  width: min(100%, 55rem);
+}
+
+.article-body :deep(.inscription-plate img) {
+  aspect-ratio: auto;
+}
+
+.article-body :deep(.inscription-transliteration) {
+  padding: 1rem;
+  border: 1px solid var(--border);
+  border-radius: 0.5rem;
+  background: var(--surface);
+  overflow-wrap: anywhere;
+  font-size: 0.95rem;
+}
+
+.article-body :deep(blockquote) {
+  margin: 0 0 1.5rem;
+  padding: 0 0 0 1.25rem;
+  border-left: 3px solid var(--accent);
+}
+
+.article-body :deep(blockquote p) {
+  margin: 0 0 0.75rem;
+}
+
 .article-books {
   margin-top: 2rem;
   padding-top: 1.25rem;

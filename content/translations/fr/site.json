@@ -363,5 +363,6 @@
   "No articles yet for this {kind}. More stories are being added.": "Aucun article pour cette catégorie ({kind}) pour le moment. D’autres récits seront ajoutés.",
   "No results for “{query}”.": "Aucun résultat pour « {query} ».",
   "Full article": "Article complet",
-  "No articles yet for this event.": "Il n’y a pas encore d’articles sur cet événement."
+  "No articles yet for this event.": "Il n’y a pas encore d’articles sur cet événement.",
+  "English preview · Translations in progress": "Aperçu en anglais · Traductions en cours"
 }

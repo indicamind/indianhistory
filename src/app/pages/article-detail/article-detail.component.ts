@@ -1,7 +1,9 @@
 import { DatePipe } from '@angular/common';
-import { Component, computed, inject, OnInit, signal } from '@angular/core';
+import { Component, computed, DestroyRef, inject, OnInit, signal } from '@angular/core';
+import { takeUntilDestroyed } from '@angular/core/rxjs-interop';
 import { DomSanitizer, SafeHtml } from '@angular/platform-browser';
-import { ActivatedRoute, RouterLink } from '@angular/router';
+import { ActivatedRoute, ParamMap, RouterLink } from '@angular/router';
+import { combineLatest } from 'rxjs';
 import { LazyImageDirective } from '../../directives/lazy-image.directive';
 import { Article } from '../../models/article.model';
 import { ArticleService } from '../../services/article.service';
@@ -19,6 +21,7 @@ import { articleRoute } from '../../utils/article-route';
 })
 export class ArticleDetailComponent implements OnInit {
   private readonly route = inject(ActivatedRoute);
+  private readonly destroyRef = inject(DestroyRef);
   private readonly articles = inject(ArticleService);
   private readonly periodsService = inject(PeriodsService);
   private readonly sanitizer = inject(DomSanitizer);
@@ -33,19 +36,65 @@ export class ArticleDetailComponent implements OnInit {
     const article = this.article();
     return article?.period === 'world-history' && !article.relatedTo;
   });
+  readonly isEdictIndex = computed(() => this.article()?.slug === 'ashoka-edicts');
   readonly relatedArticles = computed(() => {
     const article = this.article();
-    return article ? this.articles.allArticles().filter(candidate => candidate.relatedTo === article.slug) : [];
+    if (!article) return [];
+    const entries = this.articles.allArticles().filter(candidate => candidate.relatedTo === article.slug);
+    if (article.slug !== 'ashoka-edicts') return entries;
+    const order = (slug: string): number => {
+      const numbered = slug.match(/^ashoka-(major-rock|separate-rock|major-pillar|minor-rock)-edict-(\d+)$/);
+      if (numbered) {
+        const start: Record<string, number> = {
+          'major-rock': 0,
+          'separate-rock': 14,
+          'major-pillar': 16,
+          'minor-rock': 23,
+        };
+        return start[numbered[1]] + Number(numbered[2]);
+      }
+      return ({
+        'ashoka-bairat-edict': 26,
+        'ashoka-schism-edict': 27,
+        'ashoka-queens-edict': 28,
+        'ashoka-lumbini-edict': 29,
+        'ashoka-nigali-sagar-edict': 30,
+        'ashoka-sudama-cave-inscription': 31,
+        'ashoka-visvakarma-cave-inscription': 32,
+        'ashoka-karna-chaupar-cave-inscription': 33,
+        'ashoka-kandahar-bilingual-inscription': 34,
+        'ashoka-kandahar-greek-inscription': 35,
+        'ashoka-kandahar-aramaic-inscription': 36,
+        'ashoka-laghman-i-inscription': 37,
+        'ashoka-laghman-ii-inscription': 38,
+        'ashoka-taxila-aramaic-inscription': 39,
+        'ashoka-pul-i-darunta-inscription': 40,
+      } as Record<string, number>)[slug] ?? 100;
+    };
+    return [...entries].sort((a, b) => order(a.slug) - order(b.slug));
   });
   readonly loading = signal(true);
   readonly backLink = signal<string>('/');
   readonly backText = signal<string>(this.locale.translate('← Back to home'));
+  private requestId = 0;
 
-  async ngOnInit(): Promise<void> {
+  ngOnInit(): void {
+    combineLatest([this.route.paramMap, this.route.queryParamMap])
+      .pipe(takeUntilDestroyed(this.destroyRef))
+      .subscribe(([params, queryParams]) => {
+        void this.loadArticle(params, queryParams);
+      });
+  }
+
+  private async loadArticle(params: ParamMap, queryParams: ParamMap): Promise<void> {
+    const requestId = ++this.requestId;
+    this.loading.set(true);
     await this.articles.whenReady();
-    const slug = this.route.snapshot.paramMap.get('slug') ?? '';
+    if (requestId !== this.requestId) return;
+    const slug = params.get('slug') ?? '';
     const loaded = await this.articles.getArticle(slug).catch(() => null) ?? null;
-    const eventSlug = this.route.snapshot.paramMap.get('eventSlug');
+    if (requestId !== this.requestId) return;
+    const eventSlug = params.get('eventSlug');
     const isWorldHistoryRoute = this.route.snapshot.routeConfig?.path?.startsWith('worldhistory/') ?? false;
     const found = isWorldHistoryRoute && (
       loaded?.period !== 'world-history' ||
@@ -57,11 +106,11 @@ export class ArticleDetailComponent implements OnInit {
     );
 
     // Context-aware back navigation
-    const fromPeriodSlug = this.route.snapshot.queryParamMap.get('fromPeriod');
-    const fromPolitySlug = this.route.snapshot.queryParamMap.get('fromPolity');
-    const fromThemeSlug = this.route.snapshot.queryParamMap.get('fromTheme');
-    const fromPersonalitySlug = this.route.snapshot.queryParamMap.get('fromPersonality');
-    const fromSearch = this.route.snapshot.queryParamMap.get('fromSearch');
+    const fromPeriodSlug = queryParams.get('fromPeriod');
+    const fromPolitySlug = queryParams.get('fromPolity');
+    const fromThemeSlug = queryParams.get('fromTheme');
+    const fromPersonalitySlug = queryParams.get('fromPersonality');
+    const fromSearch = queryParams.get('fromSearch');
     if (fromPolitySlug) {
       const pol = this.periodsService.getPolityBySlug(fromPolitySlug);
       if (pol) {

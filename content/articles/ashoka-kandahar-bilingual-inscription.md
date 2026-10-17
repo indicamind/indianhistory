@@ -1,0 +1,58 @@
+---
+title: "Kandahar bilingual inscription: Piety and truth"
+slug: ashoka-kandahar-bilingual-inscription
+previewOnly: true
+excerpt: "A Greek and Aramaic proclamation from Kandahar links the king’s moral policy with restraint, protection of living beings, and respect for parents."
+publishedAt: 2026-10-16T00:00:00.000Z
+updatedAt: 2026-10-16T00:00:00.000Z
+period: mauryan
+polity: maurya
+personalities: [ashoka]
+relatedTo: ashoka-edicts
+tags: [Ashoka, inscriptions, Greek, Aramaic]
+themes: []
+books: []
+---
+
+## About this inscription
+
+This rock inscription near Kandahar has a Greek text above an Aramaic text. Both associate King Priyadarśin with a change in moral conduct, fewer animals killed, and respect for parents and elders. They are parallel versions, not word-for-word copies. The Greek opening is damaged and its restoration is disputed; the English renderings below therefore keep the uncertainty visible.
+
+## Original scripts
+
+<figure class="article-figure inscription-plate">
+  <img src="/assets/media/images/ashoka-kandahar-bilingual.jpg" alt="Kandahar rock inscription with Greek lines above Aramaic lines" loading="lazy" decoding="async" />
+  <figcaption>Greek and Aramaic inscription at Kandahar. Image via Wikimedia Commons, public domain.</figcaption>
+</figure>
+
+### Greek
+
+<p class="inscription-transliteration" lang="grc">Δέκα ἐτῶν πλήρη[ς ἁγν]ῶν βασιλεὺς Πιοδάσσης εὐσέβεια[ν ἔδ]ε[ι]ξεν τοῖς ἀνϑρώποις, καὶ ἀπὸ τούτου εὐσεβεστέρους τοὺς ἀνϑρώπους ἐποίησεν καὶ πάντα εὐϑηνεῖ κατὰ πᾶσαν γῆν. Καὶ ἀπέχεται βασιλεὺς τῶν ἐμψύχων, καὶ οἱ λοιποὶ δὲ ἄνϑρωποι· καὶ ὅσοι ϑηρευταὶ ἢ ἁλιεῖς βασιλέως πέπαυνϑαι ϑηρεύοντες· καὶ εἴ τινες ἀκρατεῖς πέπαυνται τῆς ἀκρασίας κατὰ δύναμιν. Καὶ ἐνήκοοι πατρὶ καὶ μητρὶ καὶ τῶν πρεσβυτέρων παρὰ τὰ πρότερον καὶ τοῦ λοιποῦ, λῶιον καὶ ἄμεινον κατὰ πάντα, ταῦτα ποιοῦντες, διάξουσιν.</p>
+
+### Aramaic
+
+<p class="inscription-transliteration" lang="arc" dir="rtl">𐡔𐡍𐡍 𐡉 𐡐𐡕𐡉𐡕𐡅 𐡏𐡁𐡉𐡃 𐡆𐡉 𐡌𐡓𐡀𐡍 𐡐𐡓𐡉𐡃𐡀𐡓𐡔 𐡌𐡋𐡊𐡀 𐡒𐡔𐡉𐡈𐡀 𐡌𐡄𐡒𐡔𐡈 𐡌𐡍 𐡀𐡃𐡉𐡍 𐡆𐡏𐡉𐡓 𐡌𐡓𐡏𐡀 𐡋𐡊𐡋𐡄𐡌 𐡀𐡍𐡔𐡍 𐡅𐡊𐡋𐡄𐡌 𐡀𐡃𐡅𐡔𐡉𐡀 𐡄𐡅𐡁𐡃 𐡅𐡁𐡊𐡋 𐡀𐡓𐡒𐡀 𐡓𐡀𐡌 𐡔𐡕𐡉 𐡅𐡀𐡐 𐡆𐡉 𐡆𐡍𐡄 𐡊𐡌𐡀𐡊𐡋𐡀 𐡋𐡌𐡓𐡀𐡍 𐡌𐡋𐡊𐡀 𐡆𐡏𐡉𐡓 𐡒𐡈𐡋𐡍 𐡆𐡍𐡄 𐡋𐡌𐡇𐡆𐡄 𐡊𐡋𐡄𐡌 𐡀𐡍𐡔𐡍 𐡀𐡕𐡄𐡇𐡎𐡉𐡍𐡍 𐡀𐡆𐡉 𐡍𐡅𐡍𐡉𐡀 𐡀𐡇𐡃𐡍 𐡀𐡋𐡊 𐡀𐡍𐡔𐡍 𐡐𐡕𐡉𐡆𐡁𐡕 𐡊𐡍𐡌 𐡆𐡉 𐡐𐡓𐡁𐡎𐡕 𐡄𐡅𐡉𐡍 𐡀𐡋𐡊 𐡀𐡕𐡄𐡇𐡎𐡉𐡍𐡍 𐡌𐡍 𐡐𐡓𐡁𐡎𐡕𐡉 𐡅𐡄𐡅𐡐𐡕𐡉𐡎𐡕𐡉 𐡋𐡀𐡌𐡅𐡄𐡉 𐡅𐡋𐡀𐡁𐡅𐡄𐡉 𐡅𐡋𐡌𐡆𐡉𐡔𐡕𐡉𐡀 𐡀𐡍𐡎𐡍 𐡀𐡉𐡊 𐡀𐡎𐡓𐡄𐡉 𐡇𐡋𐡒𐡅𐡕𐡀 𐡅𐡋𐡀 𐡀𐡉𐡕𐡉 𐡃𐡉𐡍𐡀 𐡋𐡊𐡋𐡄𐡌 𐡀𐡍𐡔𐡉𐡀 𐡇𐡎𐡉𐡍 𐡆𐡍𐡄 𐡄𐡅𐡕𐡉𐡓 𐡋𐡊𐡋𐡄𐡌 𐡀𐡍𐡔𐡍 𐡅𐡀𐡅𐡎𐡐 𐡉𐡄𐡅𐡕𐡓</p>
+
+## Roman transliteration
+
+Greek: *Déka etôn plḗrē[s hagn]ôn basileùs Piodássēs eusébeian édeixen toîs anthrṓpois, kaì apò toútou eusebestérous toùs anthrṓpous epoíēsen kaì pánta euthēneî katà pâsan gên. Kaì apéchetai basileùs tôn empsýchōn, kaì hoi loipoì dè ánthrōpoi; kaì hósoi thēreutaì ē halieîs basiléōs pépauntai thēreúontes; kaì eí tines akrateîs pépauntai tês akrasías katà dýnamin. Kaì enḗkooi patrì kaì mētrì kaì tôn presbytérōn parà tà próteron kaì toû loipoû, lṓion kaì ámeinon katà pánta, taûta poioûntes, diáxousin.*
+
+Aramaic: *šnn y ptytw ʿbyd zy mrʾn prydʾrš mlkʾ qšyṭʾ mhqšṭ mn ʾdyn zʿyr mrʿʾ lklhm ʾnšn wklhm ʾdwšyʾ hwbd wbkl ʾrqʾ rʾm šty wʾp zy znh kmʾklʾ lmrʾn mlkʾ zʿyr qṭln znh lmḥzh klhm ʾnšn ʾthhsynn ʾzy nwnyʾ ʾḥdn ʾlk ʾnšn ptyzbt knm zy prbst hwyn ʾlk ʾthḥsynn mn prbsty whwptysty lʾmwhy wlʾbwhy wlmzyštyʾ ʾnsn ʾyk ʾsrhy ḥlqwtʾ wlʾ ʾyty dynʾ lklhm ʾnšyʾ ḥsyn znh hwtyr lklhm ʾnšn wʾwsp yhwtr.*
+
+## English translation of the Greek
+
+The beginning contains an uncertain restoration. This translation follows the surviving words and the reading discussed by Francesco Maniscalco.
+
+> After ten years [the opening phrase is damaged], King Piodasses made piety known to people. From then on he made them more pious, and things prosper everywhere. The king refrains from killing living beings; other people do so as well. The king’s hunters and fishers have stopped hunting. Those who lacked restraint have given up that behavior as far as they can. By obeying father, mother, and elders, now and in the future, people who follow these practices will live better in every respect.
+
+## English translation of the Aramaic
+
+The Aramaic is a parallel version with different wording. Its reading includes disputed words, especially near the beginning and end.
+
+> In year ten, our lord King Priyadarśin established truth. Thereafter evil among people diminished and their troubles were removed; peace and well-being spread through the land. As for food, only a few animals are killed for the king. Seeing this, people stopped killing, and fishers too came under the restriction. People without restraint abandoned that conduct. They obey mother, father, and elders according to their obligations. For the righteous there is no judgment [the sense is disputed]. This has benefited everyone and will benefit them still more.
+
+## Sources
+
+- Francesco Maniscalco, [“A New Interpretation of the Edicts of Aśoka from Kandahar” (2018)](https://doi.org/10.30687/AnnOr/2385-3042/2018/01/011), *Annali di Ca’ Foscari. Serie orientale* 54, pp. 239–264 (Greek text, translation, and discussion; CC BY 4.0).
+- Harry Falk, [*Aśokan Sites and Artefacts* (2006)](https://dokumen.pub/aokan-sites-and-artefacts-1nbsped-3805337124.html), pp. 241–243 (site, image, and bibliography of Aramaic editions).
+- [Image record](https://commons.wikimedia.org/wiki/File:AsokaKandahar.jpg), Wikimedia Commons (public domain).

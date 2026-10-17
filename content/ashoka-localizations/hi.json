@@ -1,0 +1,92 @@
+{
+  "common": {
+    "About this edict": "इस शिलादेश के बारे में",
+    "About this inscription": "इस अभिलेख के बारे में",
+    "Original script": "मूल लिपि",
+    "Roman transliteration": "रोमन लिप्यंतरण",
+    "localTranslationHeading": "हिंदी अनुवाद",
+    "Sources": "स्रोत",
+    "volumeOne": "खंड 1",
+    "polyglottaEdition": "बिब्लियोथेका पॉलीग्लोटा संस्करण",
+    "universityOfOslo": "ओस्लो विश्वविद्यालय",
+    "translationBasisNote": "यह हिंदी अनुवाद नीचे उद्धृत संस्करण के अंग्रेज़ी अनुवाद पर आधारित है। क्षतिग्रस्त और अनिश्चित अंश उस ऐतिहासिक संस्करण के अनुसार चिह्नित हैं।",
+    "sourceNote": "मागधी लिप्यंतरण, अंग्रेज़ी अनुवाद और अभिलेख की प्रतिकृतियाँ",
+    "imageAltTranslations": {
+      "Brahmi inscription facsimile from Girnar in Hultzsch’s 1925 edition": "हुल्त्श के 1925 के संस्करण में गिरनार के ब्राह्मी अभिलेख की प्रतिकृति",
+      "Brahmi inscription facsimile from Bairat in Hultzsch’s 1925 edition": "हुल्त्श के 1925 के संस्करण में बैराट के ब्राह्मी अभिलेख की प्रतिकृति",
+      "Brahmi inscription facsimile from Lumbini in Hultzsch’s 1925 edition": "हुल्त्श के 1925 के संस्करण में लुम्बिनी के ब्राह्मी अभिलेख की प्रतिकृति",
+      "Brahmi inscription facsimile from Delhi–Topra in Hultzsch’s 1925 edition": "हुल्त्श के 1925 के संस्करण में दिल्ली–टोपरा के ब्राह्मी अभिलेख की प्रतिकृति",
+      "Brahmi inscription facsimile from Kalsi in Hultzsch’s 1925 edition": "हुल्त्श के 1925 के संस्करण में कालसी के ब्राह्मी अभिलेख की प्रतिकृति",
+      "Brahmi inscription facsimile from Rūpnāth in Hultzsch’s 1925 edition": "हुल्त्श के 1925 के संस्करण में रूपनाथ के ब्राह्मी अभिलेख की प्रतिकृति",
+      "Brahmi inscription facsimile from Brahmagiri in Hultzsch’s 1925 edition": "हुल्त्श के 1925 के संस्करण में ब्रह्मगिरि के ब्राह्मी अभिलेख की प्रतिकृति",
+      "Brahmi inscription facsimile from Nigali Sagar in Hultzsch’s 1925 edition": "हुल्त्श के 1925 के संस्करण में निगाली सागर के ब्राह्मी अभिलेख की प्रतिकृति",
+      "Brahmi inscription facsimile from Allahabad–Kauśāmbī in Hultzsch’s 1925 edition": "हुल्त्श के 1925 के संस्करण में इलाहाबाद–कौशाम्बी के ब्राह्मी अभिलेख की प्रतिकृति",
+      "Brahmi inscription facsimile from Sarnath in Hultzsch’s 1925 edition": "हुल्त्श के 1925 के संस्करण में सारनाथ के ब्राह्मी अभिलेख की प्रतिकृति",
+      "Brahmi inscription facsimile from Dhauli in Hultzsch’s 1925 edition": "हुल्त्श के 1925 के संस्करण में धौली के ब्राह्मी अभिलेख की प्रतिकृति",
+      "Brahmi facsimiles of the three Barabar cave inscriptions in Hultzsch’s 1925 edition; Sudama is first": "हुल्त्श के 1925 के संस्करण में बराबर की तीन गुफ़ाओं के ब्राह्मी अभिलेखों की प्रतिकृतियाँ; सुदामा का पाठ पहला है",
+      "Brahmi facsimiles of the three Barabar cave inscriptions in Hultzsch’s 1925 edition; Visvakarma is second": "हुल्त्श के 1925 के संस्करण में बराबर की तीन गुफ़ाओं के ब्राह्मी अभिलेखों की प्रतिकृतियाँ; विश्वकर्मा का पाठ दूसरा है",
+      "Brahmi facsimiles of the three Barabar cave inscriptions in Hultzsch’s 1925 edition; Karna Chaupar is third": "हुल्त्श के 1925 के संस्करण में बराबर की तीन गुफ़ाओं के ब्राह्मी अभिलेखों की प्रतिकृतियाँ; कर्ण चौपड़ का पाठ तीसरा है"
+    },
+    "imageCaptionTranslations": {
+      "Girnar inscription facsimile. E. Hultzsch, <em>Inscriptions of Asoka</em> (1925), public domain.": "गिरनार अभिलेख की प्रतिकृति। ई. हुल्त्श, <em>Inscriptions of Asoka</em> (1925), सार्वजनिक डोमेन।",
+      "Bairat inscription facsimile. E. Hultzsch, <em>Inscriptions of Asoka</em> (1925), public domain.": "बैराट अभिलेख की प्रतिकृति। ई. हुल्त्श, <em>Inscriptions of Asoka</em> (1925), सार्वजनिक डोमेन।",
+      "Lumbini inscription facsimile. E. Hultzsch, <em>Inscriptions of Asoka</em> (1925), public domain.": "लुम्बिनी अभिलेख की प्रतिकृति। ई. हुल्त्श, <em>Inscriptions of Asoka</em> (1925), सार्वजनिक डोमेन।",
+      "Delhi–Topra inscription facsimile. E. Hultzsch, <em>Inscriptions of Asoka</em> (1925), public domain.": "दिल्ली–टोपरा अभिलेख की प्रतिकृति। ई. हुल्त्श, <em>Inscriptions of Asoka</em> (1925), सार्वजनिक डोमेन।",
+      "Kalsi inscription facsimile. E. Hultzsch, <em>Inscriptions of Asoka</em> (1925), public domain.": "कालसी अभिलेख की प्रतिकृति। ई. हुल्त्श, <em>Inscriptions of Asoka</em> (1925), सार्वजनिक डोमेन।",
+      "Rūpnāth inscription facsimile. E. Hultzsch, <em>Inscriptions of Asoka</em> (1925), public domain.": "रूपनाथ अभिलेख की प्रतिकृति। ई. हुल्त्श, <em>Inscriptions of Asoka</em> (1925), सार्वजनिक डोमेन।",
+      "Brahmagiri inscription facsimile. E. Hultzsch, <em>Inscriptions of Asoka</em> (1925), public domain.": "ब्रह्मगिरि अभिलेख की प्रतिकृति। ई. हुल्त्श, <em>Inscriptions of Asoka</em> (1925), सार्वजनिक डोमेन।",
+      "Nigali Sagar inscription facsimile. E. Hultzsch, <em>Inscriptions of Asoka</em> (1925), public domain.": "निगाली सागर अभिलेख की प्रतिकृति। ई. हुल्त्श, <em>Inscriptions of Asoka</em> (1925), सार्वजनिक डोमेन।",
+      "Allahabad–Kauśāmbī inscription facsimile. E. Hultzsch, <em>Inscriptions of Asoka</em> (1925), public domain.": "इलाहाबाद–कौशाम्बी अभिलेख की प्रतिकृति। ई. हुल्त्श, <em>Inscriptions of Asoka</em> (1925), सार्वजनिक डोमेन।",
+      "Sarnath inscription facsimile. E. Hultzsch, <em>Inscriptions of Asoka</em> (1925), public domain.": "सारनाथ अभिलेख की प्रतिकृति। ई. हुल्त्श, <em>Inscriptions of Asoka</em> (1925), सार्वजनिक डोमेन।",
+      "Dhauli inscription facsimile. E. Hultzsch, <em>Inscriptions of Asoka</em> (1925), public domain.": "धौली अभिलेख की प्रतिकृति। ई. हुल्त्श, <em>Inscriptions of Asoka</em> (1925), सार्वजनिक डोमेन।",
+      "Barabar cave inscription facsimiles. E. Hultzsch, <em>Inscriptions of Asoka</em> (1925), public domain.": "बराबर गुफ़ा अभिलेखों की प्रतिकृतियाँ। ई. हुल्त्श, <em>Inscriptions of Asoka</em> (1925), सार्वजनिक डोमेन।"
+    },
+    "transliterationNotes": {
+      "The text below follows the Girnar version in Hultzsch’s edition. Square brackets show restored or uncertain letters; dots mark damaged or missing text. Other surviving copies can differ.": "नीचे का पाठ हुल्त्श के संस्करण में गिरनार वाले पाठ का अनुसरण करता है। वर्ग कोष्ठक पुनर्स्थापित या अनिश्चित अक्षर दर्शाते हैं; बिंदु क्षतिग्रस्त या लुप्त पाठ दर्शाते हैं। अन्य उपलब्ध प्रतियाँ अलग हो सकती हैं।",
+      "The text below follows the Bairat version in Hultzsch’s edition. Square brackets show restored or uncertain letters; dots mark damaged or missing text. Other surviving copies can differ.": "नीचे का पाठ हुल्त्श के संस्करण में बैराट वाले पाठ का अनुसरण करता है। वर्ग कोष्ठक पुनर्स्थापित या अनिश्चित अक्षर दर्शाते हैं; बिंदु क्षतिग्रस्त या लुप्त पाठ दर्शाते हैं। अन्य उपलब्ध प्रतियाँ अलग हो सकती हैं।",
+      "The text below follows the Lumbini version in Hultzsch’s edition. Square brackets show restored or uncertain letters; dots mark damaged or missing text. Other surviving copies can differ.": "नीचे का पाठ हुल्त्श के संस्करण में लुम्बिनी वाले पाठ का अनुसरण करता है। वर्ग कोष्ठक पुनर्स्थापित या अनिश्चित अक्षर दर्शाते हैं; बिंदु क्षतिग्रस्त या लुप्त पाठ दर्शाते हैं। अन्य उपलब्ध प्रतियाँ अलग हो सकती हैं।",
+      "The text below follows the Delhi–Topra version in Hultzsch’s edition. Square brackets show restored or uncertain letters; dots mark damaged or missing text. Other surviving copies can differ.": "नीचे का पाठ हुल्त्श के संस्करण में दिल्ली–टोपरा वाले पाठ का अनुसरण करता है। वर्ग कोष्ठक पुनर्स्थापित या अनिश्चित अक्षर दर्शाते हैं; बिंदु क्षतिग्रस्त या लुप्त पाठ दर्शाते हैं। अन्य उपलब्ध प्रतियाँ अलग हो सकती हैं।",
+      "The text below follows the Kalsi version in Hultzsch’s edition. Square brackets show restored or uncertain letters; dots mark damaged or missing text. Other surviving copies can differ.": "नीचे का पाठ हुल्त्श के संस्करण में कालसी वाले पाठ का अनुसरण करता है। वर्ग कोष्ठक पुनर्स्थापित या अनिश्चित अक्षर दर्शाते हैं; बिंदु क्षतिग्रस्त या लुप्त पाठ दर्शाते हैं। अन्य उपलब्ध प्रतियाँ अलग हो सकती हैं।",
+      "The text below follows the Rūpnāth version in Hultzsch’s edition. Square brackets show restored or uncertain letters; dots mark damaged or missing text. Other surviving copies can differ.": "नीचे का पाठ हुल्त्श के संस्करण में रूपनाथ वाले पाठ का अनुसरण करता है। वर्ग कोष्ठक पुनर्स्थापित या अनिश्चित अक्षर दर्शाते हैं; बिंदु क्षतिग्रस्त या लुप्त पाठ दर्शाते हैं। अन्य उपलब्ध प्रतियाँ अलग हो सकती हैं।",
+      "The text below follows the Brahmagiri version in Hultzsch’s edition. Square brackets show restored or uncertain letters; dots mark damaged or missing text. Other surviving copies can differ.": "नीचे का पाठ हुल्त्श के संस्करण में ब्रह्मगिरि वाले पाठ का अनुसरण करता है। वर्ग कोष्ठक पुनर्स्थापित या अनिश्चित अक्षर दर्शाते हैं; बिंदु क्षतिग्रस्त या लुप्त पाठ दर्शाते हैं। अन्य उपलब्ध प्रतियाँ अलग हो सकती हैं।",
+      "The text below follows the Nigali Sagar version in Hultzsch’s edition. Square brackets show restored or uncertain letters; dots mark damaged or missing text. Other surviving copies can differ.": "नीचे का पाठ हुल्त्श के संस्करण में निगाली सागर वाले पाठ का अनुसरण करता है। वर्ग कोष्ठक पुनर्स्थापित या अनिश्चित अक्षर दर्शाते हैं; बिंदु क्षतिग्रस्त या लुप्त पाठ दर्शाते हैं। अन्य उपलब्ध प्रतियाँ अलग हो सकती हैं।",
+      "The text below follows the Allahabad–Kauśāmbī version in Hultzsch’s edition. Square brackets show restored or uncertain letters; dots mark damaged or missing text. Other surviving copies can differ.": "नीचे का पाठ हुल्त्श के संस्करण में इलाहाबाद–कौशाम्बी वाले पाठ का अनुसरण करता है। वर्ग कोष्ठक पुनर्स्थापित या अनिश्चित अक्षर दर्शाते हैं; बिंदु क्षतिग्रस्त या लुप्त पाठ दर्शाते हैं। अन्य उपलब्ध प्रतियाँ अलग हो सकती हैं।",
+      "The text below follows the Sarnath version in Hultzsch’s edition. Square brackets show restored or uncertain letters; dots mark damaged or missing text. Other surviving copies can differ.": "नीचे का पाठ हुल्त्श के संस्करण में सारनाथ वाले पाठ का अनुसरण करता है। वर्ग कोष्ठक पुनर्स्थापित या अनिश्चित अक्षर दर्शाते हैं; बिंदु क्षतिग्रस्त या लुप्त पाठ दर्शाते हैं। अन्य उपलब्ध प्रतियाँ अलग हो सकती हैं।",
+      "The text below follows the Dhauli version in Hultzsch’s edition. Square brackets show restored or uncertain letters; dots mark damaged or missing text. Other surviving copies can differ.": "नीचे का पाठ हुल्त्श के संस्करण में धौली वाले पाठ का अनुसरण करता है। वर्ग कोष्ठक पुनर्स्थापित या अनिश्चित अक्षर दर्शाते हैं; बिंदु क्षतिग्रस्त या लुप्त पाठ दर्शाते हैं। अन्य उपलब्ध प्रतियाँ अलग हो सकती हैं।",
+      "The text below follows Hultzsch’s edition of the Sudama inscription. Square brackets mark restored or uncertain letters.": "नीचे का पाठ हुल्त्श के सुदामा अभिलेख वाले संस्करण का अनुसरण करता है। वर्ग कोष्ठक पुनर्स्थापित या अनिश्चित अक्षर दर्शाते हैं।",
+      "The text below follows Hultzsch’s edition of the Visvakarma inscription. Square brackets mark restored or uncertain letters.": "नीचे का पाठ हुल्त्श के विश्वकर्मा अभिलेख वाले संस्करण का अनुसरण करता है। वर्ग कोष्ठक पुनर्स्थापित या अनिश्चित अक्षर दर्शाते हैं।",
+      "The text below follows Hultzsch’s edition of the Karna Chaupar inscription. Square brackets mark restored or uncertain letters; dots mark a missing passage.": "नीचे का पाठ हुल्त्श के कर्ण चौपड़ अभिलेख वाले संस्करण का अनुसरण करता है। वर्ग कोष्ठक पुनर्स्थापित या अनिश्चित अक्षर दर्शाते हैं। बिंदु लुप्त पाठ दर्शाते हैं।"
+    }
+  },
+  "articles": {
+    "ashoka-edicts": {
+      "title": "अशोक के शिलादेश और अभिलेख: उपलब्ध पाठों की मार्गदर्शिका",
+      "excerpt": "अशोक के शिला, स्तंभ, गुफ़ा, यूनानी और अरामाई अभिलेख देखें। प्रत्येक अलग पाठ के लिए चित्र, लिप्यंतरण, अनुवाद और परिचय वाला लेख है।",
+      "tags": [
+        "अशोक",
+        "शिलादेश",
+        "अभिलेख"
+      ],
+      "body": "अशोक के अभिलेख कई स्थानों पर अलग-अलग प्रतियों में बचे हैं। नीचे की सूची में हर **अलग शिलादेश पाठ** का एक लेख है, हर पत्थर का अलग लेख नहीं। क्रमांकित प्राकृत लेखों में मूल लिपि का प्रतिरूप, किसी नामित स्थल के पाठ का रोमन लिप्यंतरण, ई. हुल्त्श के 1925 के संस्करण के आधार पर पूरे बचे हुए पाठ का अनुवाद, और संक्षिप्त परिचय दिया गया है। स्थानीय भाषा वाले लेखों में अनुवाद उसी लेख की भाषा में दिया जाता है। खंडित अंश संस्करण के अनुसार चिह्नित हैं। यूनानी और अरामाई लेख अपने-अपने उद्धृत विद्वत्तापूर्ण संस्करणों पर आधारित हैं।\n\nचौदह प्रमुख शिलादेश और सात प्रमुख स्तंभादेश आधुनिक अध्ययन में क्रमांकित हैं। अलग कलिंग शिलादेश, छोटे शिला और स्तंभ संदेश, तथा बराबर गुफ़ाओं के दान-अभिलेख अपने प्रचलित नामों से दिए गए हैं। किसी लेख का चित्र उसी पत्थर या पट्टिका पर मौजूद आसपास के पाठ भी दिखा सकता है।\n\n## अभिलेख कैसे पढ़ें\n\nअशोक प्रायः स्वयं को देवानांप्रिय प्रियदर्शी (\"देवताओं का प्रिय, प्रियदर्शी\") कहते हैं। उपलब्ध पाठ मुख्यतः प्राकृत के क्षेत्रीय रूपों में हैं। उत्तर-पश्चिमी प्रतियों में खरोष्ठी लिपि है, जबकि कई अन्य प्रतियों में ब्राह्मी है। वर्तनी, क्षतिग्रस्त अंश और कभी-कभी शब्दावली भी एक स्थल से दूसरे स्थल पर बदलती है। प्रत्येक लेख का लिप्यंतरण और अनुवाद उसमें बताए गए संस्करण का अनुसरण करता है।\n\nबराबर की तीन गुफ़ाओं के पाठ गुफ़ाएँ दान किए जाने का अभिलेख हैं। उत्तर-पश्चिम के यूनानी और अरामाई अभिलेख प्राकृत शिलादेशों से भिन्न रूपों में बचे हैं। वे नीचे अपने स्रोतों और पाठ-पद्धतियों के साथ अलग दिए गए हैं। कंधार का यूनानी खंड शिलादेश XII और XIII के कुछ हिस्से समेटता है, जबकि कंधार का अरामाई खंड स्तंभादेश VII से मिलता-जुलता है। उनके लेख उन भाषाओं के अलग पाठ सुरक्षित रखते हैं और पत्थर से खो चुके हिस्सों को साफ़ चिह्नित करते हैं।\n\nराजा प्रियदर्शी का नाम लेने वाले उत्तर-पश्चिम के कई पाठों को भी \"अशोक के शिलादेश\" कहा गया है। लघमान I और II, पुल-इ-दरुंतह और तक्षशिला के पाठों की व्याख्या और अशोक से संबद्धता विवादित है। लघमान I, पुल-इ-दरुंतह और तक्षशिला के पाठ नीचे **संबद्ध अभिलेख** के रूप में हैं, ताकि पाठक साक्ष्य देख सकें और हर अभिलेख को निश्चित राजकीय घोषणा न मानें। लघमान II के पाठ का प्रकाशित लिप्यंतरण अभी जाँचा जा रहा है; उसका अलग लेख अभी शामिल नहीं है। विशेष रूप से हैरी फ़ाल्क का तर्क है कि लघमान के दोनों अभिलेख प्रियदर्शी के शासनकाल में दिनांकित कानूनी या प्रशासनिक पाठ हो सकते हैं, और तक्षशिला का खंड अपने आप राजकीय लेखन सिद्ध नहीं करता।\n\n## स्रोत\n\n- ई. हुल्त्श, [*Inscriptions of Asoka* (1925)](https://archive.org/details/InscriptionsOfAsoka.NewEditionByE.Hultzsch), *Corpus Inscriptionum Indicarum*, खंड 1।\n- ओस्लो विश्वविद्यालय, [बिब्लियोथेका पॉलीग्लोटा अशोक पुस्तकालय](https://www2.hf.uio.no/polyglotta/index.php?bid=14&page=library), हुल्त्श के पाठों और अनुवादों पर आधारित संस्करण।\n- हैरी फ़ाल्क, [*Aśokan Sites and Artefacts* (2006)](https://dokumen.pub/aokan-sites-and-artefacts-1nbsped-3805337124.html), पृ. 241–253 (यूनानी और अरामाई अभिलेख तथा विवादित संबद्धताएँ)।"
+    },
+    "ashoka-major-rock-edict-1": {
+      "title": "प्रमुख शिलादेश I: पशुबलि और राजकीय रसोई",
+      "excerpt": "अशोक पशुबलि पर रोक लगाते हैं और बताते हैं कि राजकीय रसोई में पशुओं का वध बहुत घट गया है।",
+      "tags": [
+        "अशोक",
+        "शिलादेश",
+        "प्रमुख शिलादेश"
+      ],
+      "about": "पहला प्रमुख शिलादेश सार्वजनिक अनुष्ठानों को राजा की अपनी रसोई से जोड़ता है। इसमें भोजन के लिए मारे जाने वाले पशुओं की संख्या घटने का उल्लेख है और शेष वध भी समाप्त करने का वादा किया गया है।",
+      "imageAlts": [
+        "हुल्त्श के 1925 के संस्करण में गिरनार के ब्राह्मी अभिलेख का प्रतिरूप"
+      ],
+      "imageCaptions": [
+        "गिरनार अभिलेख का प्रतिरूप। ई. हुल्त्श, <em>Inscriptions of Asoka</em> (1925), सार्वजनिक डोमेन।"
+      ],
+      "transliterationNote": "नीचे का पाठ हुल्त्श के संस्करण में गिरनार वाले पाठ का अनुसरण करता है। वर्ग कोष्ठक पुनर्स्थापित या अनिश्चित अक्षर दर्शाते हैं; बिंदु क्षतिग्रस्त या लुप्त पाठ दर्शाते हैं। अन्य उपलब्ध प्रतियाँ अलग हो सकती हैं।",
+      "translation": "> (A) राजा देवानांप्रिय प्रियदर्शी ने धर्म के विषय में यह आदेश लिखवाया है।\n> (B) यहाँ किसी भी जीव को मारकर बलि नहीं चढ़ाना चाहिए।\n> (C) और उत्सव की सभा नहीं करनी चाहिए।\n> (D) क्योंकि राजा देवानांप्रिय प्रियदर्शी को उत्सव की सभाओं में बहुत दोष दिखाई देता है।\n> (E) लेकिन कुछ उत्सव की सभाएँ ऐसी भी हैं जिन्हें राजा देवानांप्रिय प्रियदर्शी पुण्यकारी मानते हैं।\n> (F) पहले राजा देवानांप्रिय प्रियदर्शी की रसोई में प्रतिदिन करी बनाने के लिए कई लाख पशु मारे जाते थे।\n> (G) लेकिन अब, जब धर्म के विषय में यह आदेश लिखा जा रहा है, प्रतिदिन करी बनाने के लिए केवल तीन पशु मारे जा रहे हैं: दो मोर और एक हिरण; वह हिरण भी नियमित रूप से नहीं।\n> (H) भविष्य में ये तीन पशु भी नहीं मारे जाएँगे।",
+      "sourceNote": "मागधी लिप्यंतरण, अंग्रेज़ी अनुवाद और अभिलेख की प्रतिकृतियाँ"
+    }
+  }
+}

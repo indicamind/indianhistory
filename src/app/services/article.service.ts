@@ -50,12 +50,11 @@ export class ArticleService {
   }
 
   hasWorldHistoryStories(): boolean {
-    const worldHistoryTags = new Set(['world history', this.locale.navigation.worldHistory.toLocaleLowerCase(this.locale.language)]);
-    return this.articles().some(article =>
-      article.period === 'world-history' ||
-      article.themes?.includes('world-history') ||
-      article.tags?.some(tag => worldHistoryTags.has(tag.toLocaleLowerCase(this.locale.language)))
-    );
+    const articles = this.articles();
+    const worldHistoryEvents = new Set(articles
+      .filter(article => article.period === 'world-history' && article.eventDate && article.timelineOrder !== undefined)
+      .map(article => article.slug));
+    return articles.some(article => article.relatedTo && worldHistoryEvents.has(article.relatedTo));
   }
 
   async search(query: string): Promise<SearchEntry[]> {

@@ -1,0 +1,51 @@
+---
+title: "ಮೊದಲ ಪ್ರಮುಖ ಶಿಲಾಶಾಸನ: ಪ್ರಾಣಿಬಲಿ ಮತ್ತು ಅರಮನೆಯ ಅಡುಗೆಮನೆ"
+slug: ashoka-major-rock-edict-1
+excerpt: "ಅಶೋಕನು ಪ್ರಾಣಿಬಲಿಯನ್ನು ನಿರ್ಬಂಧಿಸಿ, ಅರಮನೆಯ ಅಡುಗೆಮನೆಯಲ್ಲಿ ಪ್ರಾಣಿಗಳ ವಧೆ ಬಹಳ ಕಡಿಮೆಯಾಗಿದೆ ಎಂದು ಹೇಳುತ್ತಾನೆ."
+publishedAt: 2026-10-16T00:00:00.000Z
+updatedAt: 2026-10-16T00:00:00.000Z
+period: mauryan
+polity: maurya
+personalities: [ashoka]
+relatedTo: ashoka-edicts
+tags: ["ಅಶೋಕ","ಶಾಸನಗಳು","ಪ್ರಮುಖ ಶಿಲಾಶಾಸನ"]
+themes: []
+books: []
+sourceHash: 40dbe071152968dd2f0669005b6e0376b070df4f3c598c3899ea85541d9849bb
+---
+
+## ಈ ಶಾಸನದ ಕುರಿತು
+
+ಮೊದಲ ಪ್ರಮುಖ ಶಿಲಾಶಾಸನವು ಸಾರ್ವಜನಿಕ ಆಚರಣೆಗಳನ್ನು ರಾಜನ ಸ್ವಂತ ಅಡುಗೆಮನೆಯೊಂದಿಗೆ ಸಂಬಂಧಿಸುತ್ತದೆ. ಆಹಾರಕ್ಕಾಗಿ ಕೊಲ್ಲುತ್ತಿದ್ದ ಪ್ರಾಣಿಗಳ ಸಂಖ್ಯೆ ಕಡಿಮೆಯಾಗಿರುವುದನ್ನು ದಾಖಲಿಸಿ, ಉಳಿದ ವಧೆಯನ್ನೂ ನಿಲ್ಲಿಸುವ ಭರವಸೆ ನೀಡುತ್ತದೆ.
+
+## ಮೂಲ ಲಿಪಿ
+
+<figure class="article-figure inscription-plate">
+  <img src="/assets/media/images/ashoka-plate-1405441576.jpg" alt="ಹುಲ್ಟ್ಶ್ ಅವರ 1925ರ ಆವೃತ್ತಿಯಲ್ಲಿ ಗಿರ್ನಾರ್‌ನ ಬ್ರಾಹ್ಮೀ ಲಿಪಿಯ ಶಾಸನದ ನಕಲು" loading="lazy" decoding="async" />
+  <figcaption>ಗಿರ್ನಾರ್ ಶಾಸನದ ನಕಲು. ಇ. ಹುಲ್ಟ್ಶ್, <em>Inscriptions of Asoka</em> (1925), ಸಾರ್ವಜನಿಕ ಸ್ವತ್ತು.</figcaption>
+</figure>
+
+## ರೋಮನ್ ಲಿಪ್ಯಂತರ
+
+ಕೆಳಗಿನ ಪಾಠವು ಹುಲ್ಟ್ಶ್ ಅವರ ಆವೃತ್ತಿಯ ಗಿರ್ನಾರ್ ಪಾಠವನ್ನು ಅನುಸರಿಸುತ್ತದೆ. ಚೌಕಕಂಸಗಳು ಪುನಃಸ್ಥಾಪಿತ ಅಥವಾ ಅನುಮಾನಾಸ್ಪದ ಅಕ್ಷರಗಳನ್ನು ಸೂಚಿಸುತ್ತವೆ; ಚುಕ್ಕೆಗಳು ಹಾನಿಗೊಂಡ ಅಥವಾ ಕಾಣೆಯಾದ ಪಾಠವನ್ನು ಸೂಚಿಸುತ್ತವೆ. ಉಳಿದುಕೊಂಡಿರುವ ಇತರ ಪ್ರತಿಗಳು ಭಿನ್ನವಾಗಿರಬಹುದು.
+
+<p class="inscription-transliteration" lang="pra-Latn">(A) 1 iy[aṃ] dhaṃma-lipī Devānaṃpriyena 2 Priyadasinā rāña lekh[ā]pitā (B) [i]dha na kiṃ3ci jīvaṃ ārabhitpā prajūhitavyaṃ (C) 4 na ca samājo katavyo (D) bahukaṃ hi dosaṃ 5 samājamhi pasati Devānaṃpriyo Priyadasi rājā (E) 6 asti pi tu ekacā samājā sādhu-matā Devānaṃ7priyasa Priyadasino rāño (F) pura mahānas[amhi] 8 Devānaṃpriyasa Priy[a]dasino rāño anudivasaṃ ba9hūni prāṇa-sata-sahasrāni ārabhisu sūpāthāya (G) 10 se aja yadā ayaṃ dha[ṃ]ma-lip[ī] likhitā tī eva prā11ṇā ārabhare sūpāthāya dvo morā eko mago so pi 12 mago na dhruvo (H) ete pi trī prāṇā pachā na ārabhisare</p>
+
+## ಕನ್ನಡ ಅನುವಾದ
+
+ಈ ಅನುವಾದವು ಗಿರ್ನಾರ್ ಪಾಠದ ಇ. ಹುಲ್ಟ್ಶ್ ಅವರ 1925ರ ಇಂಗ್ಲಿಷ್ ಅನುವಾದವನ್ನು ಆಧರಿಸಿದೆ. ಇದರ ಪದಪ್ರಯೋಗ ಆ ಐತಿಹಾಸಿಕ ಆವೃತ್ತಿಯನ್ನು ಅನುಸರಿಸುತ್ತದೆ.
+
+> (A) ದೇವಾನಾಂಪ್ರಿಯ ಪ್ರಿಯದರ್ಶಿ ರಾಜನು ನೈತಿಕ ನಡವಳಿಕೆಯ ಕುರಿತ ಈ ಆಜ್ಞೆಯನ್ನು ಬರೆಯಿಸಿದ್ದಾನೆ.
+> (B) ಇಲ್ಲಿ ಯಾವುದೇ ಜೀವಿಯನ್ನು ಕೊಂದು ಬಲಿ ಕೊಡಬಾರದು.
+> (C) ಹಬ್ಬದ ಸಭೆಯನ್ನೂ ನಡೆಸಬಾರದು.
+> (D) ಏಕೆಂದರೆ ದೇವಾನಾಂಪ್ರಿಯ ಪ್ರಿಯದರ್ಶಿ ರಾಜನಿಗೆ ಹಬ್ಬದ ಸಭೆಗಳಲ್ಲಿ ಅನೇಕ ಕೆಡುಕುಗಳು ಕಾಣುತ್ತವೆ.
+> (E) ಆದರೆ ದೇವಾನಾಂಪ್ರಿಯ ಪ್ರಿಯದರ್ಶಿ ರಾಜನು ಪುಣ್ಯಕರವೆಂದು ಪರಿಗಣಿಸುವ ಕೆಲವು ಹಬ್ಬದ ಸಭೆಗಳೂ ಇವೆ.
+> (F) ಹಿಂದೆ ದೇವಾನಾಂಪ್ರಿಯ ಪ್ರಿಯದರ್ಶಿ ರಾಜನ ಅಡುಗೆಮನೆಯಲ್ಲಿ ಕರಿ ತಯಾರಿಸಲು ಪ್ರತಿದಿನ ಅನೇಕ ಲಕ್ಷ ಪ್ರಾಣಿಗಳನ್ನು ಕೊಲ್ಲಲಾಗುತ್ತಿತ್ತು.
+> (G) ಆದರೆ ಈಗ, ನೈತಿಕ ನಡವಳಿಕೆಯ ಕುರಿತ ಈ ಆಜ್ಞೆಯನ್ನು ಬರೆಯುವಾಗ, ಕರಿ ತಯಾರಿಸಲು ಪ್ರತಿದಿನ ಕೇವಲ ಮೂರು ಪ್ರಾಣಿಗಳನ್ನು ಕೊಲ್ಲಲಾಗುತ್ತಿದೆ: ಎರಡು ನವಿಲುಗಳು ಮತ್ತು ಒಂದು ಜಿಂಕೆ; ಆ ಜಿಂಕೆಯನ್ನೂ ನಿಯಮಿತವಾಗಿ ಕೊಲ್ಲುವುದಿಲ್ಲ.
+> (H) ಮುಂದೆ ಈ ಮೂರು ಪ್ರಾಣಿಗಳನ್ನೂ ಕೊಲ್ಲಲಾಗುವುದಿಲ್ಲ.
+
+## ಮೂಲಗಳು
+
+- E. Hultzsch, [*Inscriptions of Asoka* (1925)](https://archive.org/details/InscriptionsOfAsoka.NewEditionByE.Hultzsch), *Corpus Inscriptionum Indicarum*, ಸಂಪುಟ I.
+
+- [ಬಿಬ್ಲಿಯೊಥೆಕಾ ಪಾಲಿಗ್ಲೊಟ್ಟಾ ಆವೃತ್ತಿ](https://www2.hf.uio.no/polyglotta/index.php?mid=0&page=fulltext&vid=362&view=fulltext), ಒಸ್ಲೊ ವಿಶ್ವವಿದ್ಯಾಲಯ (ಮಾಗಧಿ ಲಿಪ್ಯಂತರ, ಇಂಗ್ಲಿಷ್ ಅನುವಾದ ಮತ್ತು ಶಾಸನದ ಪ್ರತಿಕೃತಿಗಳು).

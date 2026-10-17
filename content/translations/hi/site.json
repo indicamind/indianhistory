@@ -363,5 +363,6 @@
   "No articles yet for this {kind}. More stories are being added.": "इस {kind} में अभी कोई लेख नहीं है। और कहानियाँ जोड़ी जा रही हैं।",
   "No results for “{query}”.": "“{query}” के लिए कोई परिणाम नहीं मिला।",
   "Full article": "पूरा लेख",
-  "No articles yet for this event.": "इस घटना पर अभी कोई लेख नहीं है।"
+  "No articles yet for this event.": "इस घटना पर अभी कोई लेख नहीं है।",
+  "English preview · Translations in progress": "अंग्रेज़ी पूर्वावलोकन · अनुवाद जारी हैं"
 }

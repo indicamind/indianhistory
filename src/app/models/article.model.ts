@@ -14,6 +14,7 @@ export interface ArticleSummary {
   eventDate?: string; // Display date for a world history timeline story
   timelineOrder?: number; // Explicit order for the world history timeline
   relatedTo?: string; // Parent article slug for related stories
+  previewOnly?: boolean; // English preview while localized editions are in progress
 }
 
 export interface Article extends ArticleSummary {

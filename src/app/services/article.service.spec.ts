@@ -160,10 +160,17 @@ describe('ArticleService', () => {
     ]);
   });
 
-  it('reveals world history when a story is assigned to it', async () => {
+  it('reveals world history only when an event has a detailed article', async () => {
     await service.whenReady();
     expect(service.hasWorldHistoryStories()).toBeFalsy();
-    (service as any).articles.set([{ ...mockArticles[0], themes: ['world-history'] }]);
+    (service as any).articles.set([
+      { ...mockArticles[0], slug: 'agriculture', period: 'world-history', eventDate: '10,000 BCE', timelineOrder: 1 },
+    ]);
+    expect(service.hasWorldHistoryStories()).toBeFalsy();
+    (service as any).articles.set([
+      { ...mockArticles[0], slug: 'agriculture', period: 'world-history', eventDate: '10,000 BCE', timelineOrder: 1 },
+      { ...mockArticles[0], slug: 'farming-life', relatedTo: 'agriculture' },
+    ]);
     expect(service.hasWorldHistoryStories()).toBeTruthy();
   });
 });

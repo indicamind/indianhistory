@@ -107,7 +107,7 @@ export class PeriodsService {
 
     const allowedSlugs = new Set(getSubtreeSlugs(p));
 
-    return all.filter((a) => {
+    return this.sortArticlesForListing(all.filter((a) => {
       if (a.period) return allowedSlugs.has(a.period);
       // Older stories without period metadata can still be found by a specific tag.
       const lowerTags = a.tags.map((t) => t.toLowerCase());
@@ -117,7 +117,7 @@ export class PeriodsService {
         return lowerTags.includes('indus') || lowerTags.includes('harappan') || lowerTags.includes('sindhu') || lowerTags.includes('saraswati');
       }
       return false;
-    });
+    }));
   }
 
   /** Count of articles under a period (including subtree) */
@@ -183,12 +183,12 @@ export class PeriodsService {
     const polity = this.getPolityBySlug(slug);
     if (!polity) return [];
 
-    return all.filter((a) => {
+    return this.sortArticlesForListing(all.filter((a) => {
       if (a.polity) return a.polity === slug;
       // Match only the named polity for older stories without polity metadata.
       const lowerTags = a.tags.map((t) => t.toLowerCase());
       return lowerTags.includes(slug) || (slug === 'maurya' && lowerTags.includes('mauryan'));
-    });
+    }));
   }
 
   /** Count of articles for a specific polity */
@@ -214,7 +214,7 @@ export class PeriodsService {
     const theme = this.getThemeBySlug(slug);
     if (!theme) return [];
 
-    return all.filter((a) => a.themes.includes(slug));
+    return all.filter((a) => !a.relatedTo && a.themes.includes(slug));
   }
 
   /** Count of articles for a specific theme */
@@ -238,7 +238,14 @@ export class PeriodsService {
     const personality = this.getPersonalityBySlug(slug);
     if (!personality) return [];
 
-    return all.filter((a) => a.personalities.includes(slug));
+    return this.sortArticlesForListing(all.filter((a) => a.personalities.includes(slug)));
+  }
+
+  private sortArticlesForListing(entries: ArticleSummary[]): ArticleSummary[] {
+    const bySlug = new Intl.Collator('en', { numeric: true });
+    return entries.sort((a, b) =>
+      Number(!!a.relatedTo) - Number(!!b.relatedTo) || bySlug.compare(a.slug, b.slug)
+    );
   }
 
   /** Count of articles for a specific personality */

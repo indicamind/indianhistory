@@ -103,6 +103,7 @@ function translatedEntries(kind, language, entries) {
 function writeLocalizedContent(articles, blogs) {
   const requiredSiteStrings = collectSiteStrings();
   const available = ['en'];
+  const previewArticles = articles.filter(entry => entry.previewOnly);
   for (const language of LANGUAGES) {
     const directory = path.join(OUT_DIR, language);
     fs.mkdirSync(directory, { recursive: true });
@@ -123,7 +124,15 @@ function writeLocalizedContent(articles, blogs) {
     } else {
       console.warn(`${language}: missing site.json`);
     }
-    const localizedArticles = translatedEntries('articles', language, articles);
+    // Use complete preview translations where available; keep only unfinished
+    // previews in English so changing language never hides a page.
+    const localizedPreviews = translatedEntries('articles', language, previewArticles);
+    const localizedArticles = [
+      ...translatedEntries('articles', language, articles.filter(entry => !entry.previewOnly)),
+      ...previewArticles.map((entry, index) => localizedPreviews[index]
+        ? { ...localizedPreviews[index], previewOnly: false }
+        : entry),
+    ];
     const localizedBlogs = translatedEntries('blogs', language, blogs);
     if (!siteComplete || localizedArticles.some(entry => !entry) || localizedBlogs.some(entry => !entry)) {
       console.warn(`${language}: incomplete translations in content/translations/${language}/`);
@@ -182,6 +191,7 @@ function build() {
       eventDate: typeof data.eventDate === 'string' ? data.eventDate : undefined,
       timelineOrder: typeof data.timelineOrder === 'number' ? data.timelineOrder : undefined,
       relatedTo: typeof data.relatedTo === 'string' ? data.relatedTo : undefined,
+      previewOnly: data.previewOnly === true,
     };
   });
 

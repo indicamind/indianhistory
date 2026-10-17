@@ -1,0 +1,56 @@
+---
+title: "Major Rock Edict IX: Rituals and moral practice"
+slug: ashoka-major-rock-edict-9
+previewOnly: true
+excerpt: "The king questions customary ceremonies and recommends the continuing practice of dhamma instead."
+publishedAt: 2026-10-16T00:00:00.000Z
+updatedAt: 2026-10-16T00:00:00.000Z
+period: mauryan
+polity: maurya
+personalities: [ashoka]
+relatedTo: ashoka-edicts
+tags: [Ashoka, edicts, "major rock edict"]
+themes: []
+books: []
+---
+
+## About this edict
+
+This edict discusses rites associated with illness, marriage, birth, and travel. It argues that conduct toward servants, teachers, and living beings is a more lasting ceremony than occasional ritual.
+
+## Original script
+
+<figure class="article-figure inscription-plate">
+  <img src="/assets/media/images/ashoka-plate-1405552832.jpg" alt="Brahmi inscription facsimile from Kalsi in Hultzsch’s 1925 edition" loading="lazy" decoding="async" />
+  <figcaption>Kalsi inscription facsimile. E. Hultzsch, <em>Inscriptions of Asoka</em> (1925), public domain.</figcaption>
+</figure>
+
+## Roman transliteration
+
+The text below follows the Kalsi version in Hultzsch’s edition. Square brackets show restored or uncertain letters; dots mark damaged or missing text. Other surviving copies can differ.
+
+<p class="inscription-transliteration" lang="pra-Latn">(A) 24 Devānaṃpiye Piy[a]da[s]i lā[jā] āhā (B) jan[e] uc[āv]ucaṃ maṃgalaṃ ka[l]eti ābādhasi av[āha]si vivāhasi pajopadāne pavāsasi e[tā]ye aṃnaye cā edisāye jane bahu magala[ṃ] k[a]leti (C) heta [eh]u abaka-jani[yo] bahu ca bahuvidhaṃ ca khuda [eh]a nilathiya 2 ca magalaṃ ka[la]ṃti (D) 25 se katavi ceva kho maṃgale (E) apa-phale [c]u kho [e]s[e] (F) [i]yaṃ cu kho mah[ā]ph[a]le ye dhaṃma-magale (G) he[tā] iyaṃ dāsa-bhaṭakasi s[a]myāpaṭip[a]ti gulunā apaciti [p]ā[n]ān[aṃ] saṃyame s[a]man[a]-baṃbhanānaṃ dāne ese aṃne cā heḍise dhaṃma-magale nāmā (H) se vata[v]iye pitinā pi putena pi bh[ā]tinā pi suvāmiken[a] pi mita-saṃthuten[ā] ava paṭivesiyenā [p]i 26 iyaṃ sādhu iyaṃ kataviye [ma]g[a]le āva [ta]sā athasā ni[v]utiyā imaṃ kachāmi ti (I) e hi i[ta]le magale sa[ṃ]sayikye se (J) siya vā taṃ aṭhaṃ nivatey[ā] siyā punā no (K) hi[da]lokike cev(a] se (L) iyaṃ punā dhaṃma-magale akāliky[e] (M) haṃce pi taṃ aṭhaṃ no niṭeti hida aṭhaṃ palata anaṃtaṃ punā pavasati (N) haṃce puna taṃ aṭhaṃ nivateti hidā tato ubhaye[sa]ṃ ladhe hoti hida cā se aṭhe palata cā anaṃtaṃ punā pasavati tenā dhaṃmamagalen[ā]</p>
+
+## English translation
+
+This is E. Hultzsch’s 1925 translation of the same version. Its terminology and bracketed restorations reflect that historical edition.
+
+> (A) King Devānāṁpriya Priyadarśin speaks (thus).
+> (B) Men are practising various ceremonies during illness, at the marriage of a son or a daughter, at the birth of a child, (and) when setting out on a journey; on these and other such (occasions) men are practising many ceremonies.
+> (C) But in such (cases) mothers and wives are practising many and various vulgar and useless ceremonies.
+> (D) Now, ceremonies should certainly be practised.
+> (E) But these (ceremonies) bear little fruit indeed.
+> (F) But the following bears much fruit indeed, viz. the practice of morality.
+> (G) Herein the following (are comprised), (viz.) proper courtesy to slaves and servants, reverence to elders, gentleness to animals, (and) liberality to Śramaṇas and Brāhmaṇas; these and other such (virtues) are called the practice of morality.
+> (H) Therefore a father, or a son, or a brother, or a master, (or) a friend or an acquaintance, or even a (mere) neighbour ought to say:–‘This is meritorious. This practice should be observed until the (desired) object is attained, (thinking): ‘I shall observe this’.
+> (I) For other 2 ceremonies are of doubtful (effect).
+> (J) One may attain his object (by them), but he may not (do so).
+> (K) And they (bear fruit) in this world only.
+> (L) But that practice of morality is not restricted to time.
+> (M) Even if one does not attain (by it) his object in this (world), then endless merit is produced in the other (world).
+> (N) But if one attains (by it) his object in this (world), the gain of both (results) arises from it; (viz.) the (desired) object (is attained) in this (world), and endless merit is produced in the other (world) by that practice of morality.
+
+## Sources
+
+- E. Hultzsch, [*Inscriptions of Asoka* (1925)](https://archive.org/details/InscriptionsOfAsoka.NewEditionByE.Hultzsch), *Corpus Inscriptionum Indicarum*, volume I.
+- [Bibliotheca Polyglotta edition](https://www2.hf.uio.no/polyglotta/index.php?mid=0&page=fulltext&vid=362&view=fulltext), University of Oslo (Magadhi transliteration, English translation, and inscription facsimiles).

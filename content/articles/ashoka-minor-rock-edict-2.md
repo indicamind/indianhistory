@@ -1,0 +1,48 @@
+---
+title: "Minor Rock Edict II: Everyday duties"
+slug: ashoka-minor-rock-edict-2
+previewOnly: true
+excerpt: "The king urges obedience to parents and elders, truthfulness, and gentle treatment of living beings."
+publishedAt: 2026-10-16T00:00:00.000Z
+updatedAt: 2026-10-16T00:00:00.000Z
+period: mauryan
+polity: maurya
+personalities: [ashoka]
+relatedTo: ashoka-edicts
+tags: [Ashoka, edicts, "minor rock edict"]
+themes: []
+books: []
+---
+
+## About this edict
+
+This brief companion to Minor Rock Edict I appears in southern inscriptions. The Brahmagiri version closes with an instruction to continue these moral practices.
+
+## Original script
+
+<figure class="article-figure inscription-plate">
+  <img src="/assets/media/images/ashoka-plate-1405686323.jpg" alt="Brahmi inscription facsimile from Brahmagiri in Hultzsch’s 1925 edition" loading="lazy" decoding="async" />
+  <figcaption>Brahmagiri inscription facsimile. E. Hultzsch, <em>Inscriptions of Asoka</em> (1925), public domain.</figcaption>
+</figure>
+
+## Roman transliteration
+
+The text below follows the Brahmagiri version in Hultzsch’s edition. Square brackets show restored or uncertain letters; dots mark damaged or missing text. Other surviving copies can differ.
+
+<p class="inscription-transliteration" lang="pra-Latn">(M) se hevaṃ Devāṃpiye 9 āha (N) mātā-pitisu susūs[i]taviye hemeva garu[su] prāṇesu drahyitavyaṃ sacaṃ 10 vataviyaṃ se ime dhaṃma-guṇā pavatitatiyā (O) hemeva aṃtevāsinā 11 ācariye apacāyitaviye ñātikesu ca [ka]ṃ ya .. rahaṃ pavatitaviye (P) 12 esā porā[ṇ]ā pa[k]itī d[īgh]āvuse ca esa (Q) hevaṃ esa kaṭiviye (R) 13 capaḍena likhite li[pi]kareṇa</p>
+
+## English translation
+
+This is E. Hultzsch’s 1925 translation of the same version. Its terminology and bracketed restorations reflect that historical edition.
+
+> (M) Moreover, Devānāṁpriya speaks thus.
+> (N) Obedience must be rendered to mother and father, likewise to elders; firmness (of compassion) must be shown towards animals; the truth must be spoken: these same moral virtues must be practised.
+> (O) In the same way the pupil must show reverence to the master, and one must behave in a suitable manner towards relatives.
+> (P) This is an ancient rule, and this conduces to long life.
+> (Q) Thus one must act.
+> (R) Written by Chapaḍa the writer.
+
+## Sources
+
+- E. Hultzsch, [*Inscriptions of Asoka* (1925)](https://archive.org/details/InscriptionsOfAsoka.NewEditionByE.Hultzsch), *Corpus Inscriptionum Indicarum*, volume I.
+- [Bibliotheca Polyglotta edition](https://www2.hf.uio.no/polyglotta/index.php?mid=0&page=fulltext&vid=400&view=fulltext), University of Oslo (Magadhi transliteration, English translation, and inscription facsimiles).

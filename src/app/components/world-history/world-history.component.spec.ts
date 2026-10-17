@@ -2,15 +2,19 @@ import { Injector, runInInjectionContext, signal } from '@angular/core';
 import { WorldHistoryComponent } from './world-history.component';
 import { LocaleService } from '../../i18n/locale.service';
 import { ArticleService } from '../../services/article.service';
+import { DevModeService } from '../../services/dev-mode.service';
 
 describe('WorldHistoryComponent', () => {
   let component: WorldHistoryComponent;
+  let devMode: ReturnType<typeof signal<boolean>>;
+  let articles: ReturnType<typeof signal<any[]>>;
 
   beforeEach(() => {
     const mockLocale = {
       translate: (s: string) => `[TR] ${s}`,
     };
-    const articles = signal([
+    devMode = signal(true);
+    articles = signal([
       { slug: 'second', period: 'world-history', eventDate: '2000', timelineOrder: 2, title: 'Second', excerpt: 'Second summary' },
       { slug: 'indian', period: 'modern', eventDate: undefined, timelineOrder: undefined, title: 'Indian', excerpt: 'Indian summary' },
       { slug: 'first', period: 'world-history', eventDate: '1000', timelineOrder: 1, title: 'First', excerpt: 'First summary' },
@@ -23,6 +27,7 @@ describe('WorldHistoryComponent', () => {
       providers: [
         { provide: LocaleService, useValue: mockLocale },
         { provide: ArticleService, useValue: { allArticles: articles.asReadonly() } },
+        { provide: DevModeService, useValue: { isDevMode: devMode } },
       ],
     });
 
@@ -39,5 +44,11 @@ describe('WorldHistoryComponent', () => {
     expect(component.visibleEvents().length).toBe(component.events().length);
     component.expanded.set(false);
     expect(component.visibleEvents().length).toBe(4);
+  });
+
+  it('hides events without detailed articles outside dev mode', () => {
+    articles.set([...articles(), { slug: 'first-story', relatedTo: 'first' }]);
+    devMode.set(false);
+    expect(component.events().map(event => event.slug)).toEqual(['first']);
   });
 });

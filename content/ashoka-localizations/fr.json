@@ -1,0 +1,35 @@
+{
+  "common": {
+    "About this edict": "À propos de cet édit",
+    "About this inscription": "À propos de cette inscription",
+    "Original script": "Écriture originale",
+    "Roman transliteration": "Translittération en caractères latins",
+    "localTranslationHeading": "Traduction française",
+    "Sources": "Sources",
+    "volumeOne": "volume I",
+    "polyglottaEdition": "édition de la Bibliotheca Polyglotta",
+    "universityOfOslo": "Université d’Oslo",
+    "translationBasisNote": "Cette traduction repose sur la version anglaise de 1925 par E. Hultzsch du texte de Girnar. Sa terminologie suit cette édition historique."
+  },
+  "articles": {
+    "ashoka-major-rock-edict-1": {
+      "title": "Édit majeur sur roche I : les sacrifices d’animaux et la cuisine royale",
+      "excerpt": "Ashoka restreint les sacrifices d’animaux et affirme que les abattages dans la cuisine royale ont fortement diminué.",
+      "tags": [
+        "Ashoka",
+        "édits",
+        "édit majeur sur roche"
+      ],
+      "about": "Le premier édit majeur sur roche relie les rites publics à la cuisine du roi lui-même. Il constate une diminution du nombre d’animaux tués pour la nourriture et promet de mettre fin même aux abattages qui subsistent.",
+      "imageAlts": [
+        "Fac-similé d’une inscription en écriture brahmi de Girnar dans l’édition de Hultzsch de 1925"
+      ],
+      "imageCaptions": [
+        "Fac-similé de l’inscription de Girnar. E. Hultzsch, <em>Inscriptions of Asoka</em> (1925), domaine public."
+      ],
+      "transliterationNote": "Le texte ci-dessous suit la version de Girnar dans l’édition de Hultzsch. Les crochets indiquent des lettres restituées ou incertaines ; les points signalent un texte endommagé ou manquant. Les autres copies conservées peuvent différer.",
+      "translation": "> (A) Le roi Devānāṁpriya Priyadarśin a fait rédiger cet édit sur la conduite morale.\n> (B) Ici, aucun être vivant ne doit être tué ni sacrifié.\n> (C) Et aucune réunion festive ne doit être organisée.\n> (D) Car le roi Devānāṁpriya Priyadarśin voit beaucoup de mal dans les réunions festives.\n> (E) Il existe toutefois certaines réunions festives que le roi Devānāṁpriya Priyadarśin juge méritoires.\n> (F) Autrefois, dans la cuisine du roi Devānāṁpriya Priyadarśin, des centaines de milliers d’animaux étaient tués chaque jour pour préparer du curry.\n> (G) Mais maintenant, au moment où cet édit sur la conduite morale est rédigé, seuls trois animaux sont tués chaque jour pour préparer du curry : deux paons et un cerf ; et ce cerf ne l’est même pas régulièrement.\n> (H) À l’avenir, ces trois animaux ne seront plus tués non plus.",
+      "sourceNote": "translittération du magadhi, traduction anglaise et fac-similés de l’inscription"
+    }
+  }
+}

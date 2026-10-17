@@ -27,6 +27,7 @@ const DYNAMIC_COPY = [
   '{count} articles across this {kind} and its sub-periods',
   'No articles yet for this {kind}. More stories are being added.',
   'No results for “{query}”.',
+  'English preview · Translations in progress',
 ];
 const STRINGS = new Set();
 
@@ -102,7 +103,7 @@ function checkContent(kind, language) {
     const source = matter(fs.readFileSync(path.join(ROOT, 'content', kind, name), 'utf8'));
     const translatedFile = path.join(ROOT, 'content', 'translations', language, kind, name);
     if (!fs.existsSync(translatedFile)) {
-      problems.push(`${kind}/${name}: missing`);
+      if (source.data.previewOnly !== true) problems.push(`${kind}/${name}: missing`);
       continue;
     }
     const translation = matter(fs.readFileSync(translatedFile, 'utf8'));
@@ -123,6 +124,10 @@ module.exports = { collectSiteStrings };
 
 if (require.main === module) {
   const siteStrings = collectSiteStrings();
+  const previewFiles = sourceFiles('articles').filter(name => {
+    const { data } = matter(fs.readFileSync(path.join(ROOT, 'content', 'articles', name), 'utf8'));
+    return data.previewOnly === true;
+  });
   let failed = false;
   for (const language of LANGUAGES) {
     const problems = [...checkContent('articles', language), ...checkContent('blogs', language)];
@@ -136,7 +141,8 @@ if (require.main === module) {
       const mismatched = siteStrings.filter(value => copy[value] && placeholders(value) !== placeholders(copy[value]));
       if (mismatched.length) problems.push(`site.json: ${mismatched.length} placeholder mismatch(es)`);
     }
-    console.log(`${language}: ${problems.length ? problems.join('; ') : 'complete'}`);
+    const previewCount = previewFiles.filter(name => !fs.existsSync(path.join(ROOT, 'content', 'translations', language, 'articles', name))).length;
+    console.log(`${language}: ${problems.length ? problems.join('; ') : `released content complete; ${previewCount} English preview(s)`}`);
     if (problems.length) failed = true;
   }
   if (failed) process.exitCode = 1;

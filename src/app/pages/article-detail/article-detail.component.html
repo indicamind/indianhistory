@@ -1,5 +1,5 @@
 <p class="back">
-  <a [routerLink]="backLink()">{{ backText() }}</a>
+  <a [routerLink]="backLink()" [queryParams]="{lang: locale.language}">{{ backText() }}</a>
 </p>
 
 @if (loading()) {
@@ -8,7 +8,7 @@
   <div class="card empty">
     <h1>Article not found</h1>
     <p>Check the slug or run <code>npm run build-content</code> after adding markdown.</p>
-    <a [routerLink]="backLink()" class="btn btn-primary">{{ backText() }}</a>
+    <a [routerLink]="backLink()" [queryParams]="{lang: locale.language}" class="btn btn-primary">{{ backText() }}</a>
   </div>
 } @else {
   <div class="article-layout">
@@ -19,6 +19,9 @@
           · {{ locale.translate('Updated') }} {{ article()!.updatedAt | date: 'longDate' }}
         }
       </p>
+      @if (article()!.previewOnly) {
+        <p class="eyebrow">{{ locale.translate('English preview · Translations in progress') }}</p>
+      }
       <h1>{{ article()!.title }}</h1>
       @if (article()!.eventDate) {
         <p class="event-date">{{ locale.translate(article()!.eventDate!) }}</p>
@@ -34,7 +37,7 @@
         <p class="article-intro">{{ article()!.excerpt }}</p>
       }
 
-      @if (article()!.period !== 'world-history' && bottomBooks().length) {
+      @if (article()!.period !== 'world-history' && article()!.books.length && bottomBooks().length) {
         <section class="article-books" aria-labelledby="article-books-title">
           <p class="eyebrow">More books</p>
           <h2 id="article-books-title">Books for further reading</h2>
@@ -66,9 +69,9 @@
             <div class="article-entry-list">
               @for (entry of relatedArticles(); track entry.slug) {
                 <article class="article-entry-card">
-                  <h3><a [routerLink]="articleRoute(entry)">{{ entry.title }}</a></h3>
+                  <h3><a [routerLink]="articleRoute(entry)" [queryParams]="{lang: locale.language}">{{ entry.title }}</a></h3>
                   <p>{{ entry.excerpt }}</p>
-                  <a class="btn btn-primary article-open" [routerLink]="articleRoute(entry)">{{ locale.translate('Read full story →') }}</a>
+                  <a class="btn btn-primary article-open" [routerLink]="articleRoute(entry)" [queryParams]="{lang: locale.language}">{{ locale.translate('Read full story →') }}</a>
                 </article>
               }
             </div>
@@ -82,8 +85,22 @@
             <p class="eyebrow">{{ locale.translate('Full article') }}</p>
           }
           <div class="article-body" [innerHTML]="html()"></div>
+          @if (isEdictIndex()) {
+            <section class="article-entries" aria-labelledby="edict-entries-title">
+              <h2 id="edict-entries-title">{{ locale.translate('Articles') }}</h2>
+              <div class="article-entry-list">
+                @for (entry of relatedArticles(); track entry.slug) {
+                  <article class="article-entry-card">
+                    <h3><a [routerLink]="articleRoute(entry)" [queryParams]="{lang: locale.language}">{{ entry.title }}</a></h3>
+                    <p>{{ entry.excerpt }}</p>
+                    <a class="btn btn-primary article-open" [routerLink]="articleRoute(entry)" [queryParams]="{lang: locale.language}">{{ locale.translate('Read full story →') }}</a>
+                  </article>
+                }
+              </div>
+            </section>
+          }
           @if (article()!.relatedTo) {
-            <p class="article-return"><a [routerLink]="backLink()">{{ backText() }}</a></p>
+            <p class="article-return"><a [routerLink]="backLink()" [queryParams]="{lang: locale.language}">{{ backText() }}</a></p>
           }
         </section>
       }

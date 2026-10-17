@@ -1,0 +1,58 @@
+---
+title: "प्रमुख शिलादेश IX: अनुष्ठान और नैतिक आचरण"
+slug: ashoka-major-rock-edict-9
+previewOnly: true
+excerpt: "राजा प्रचलित समारोहों पर सवाल उठाते हैं और उनके स्थान पर निरंतर धम्म आचरण की सलाह देते हैं।"
+publishedAt: 2026-10-16T00:00:00.000Z
+updatedAt: 2026-10-16T00:00:00.000Z
+period: mauryan
+polity: maurya
+personalities: [ashoka]
+relatedTo: ashoka-edicts
+tags: ["अशोक","शिलादेश","प्रमुख शिलादेश"]
+themes: []
+books: []
+sourceHash: 645f0aba46822ec73817fbbb0e3d25e607171825ea2945e64f4f0032b932b1b9
+---
+
+## इस शिलादेश के बारे में
+
+यह शिलादेश बीमारी, विवाह, जन्म और यात्रा से जुड़े अनुष्ठानों पर चर्चा करता है। इसके अनुसार सेवकों, बड़ों और जीवों के प्रति उचित आचरण कभी-कभार किए जाने वाले अनुष्ठान से अधिक स्थायी है।
+
+## मूल लिपि
+
+<figure class="article-figure inscription-plate">
+  <img src="/assets/media/images/ashoka-plate-1405552832.jpg" alt="हुल्त्श के 1925 के संस्करण में कालसी के ब्राह्मी अभिलेख की प्रतिकृति" loading="lazy" decoding="async" />
+  <figcaption>कालसी अभिलेख की प्रतिकृति। ई. हुल्त्श, <em>Inscriptions of Asoka</em> (1925), सार्वजनिक डोमेन।</figcaption>
+</figure>
+
+## रोमन लिप्यंतरण
+
+नीचे का पाठ हुल्त्श के संस्करण में कालसी वाले पाठ का अनुसरण करता है। वर्ग कोष्ठक पुनर्स्थापित या अनिश्चित अक्षर दर्शाते हैं; बिंदु क्षतिग्रस्त या लुप्त पाठ दर्शाते हैं। अन्य उपलब्ध प्रतियाँ अलग हो सकती हैं।
+
+<p class="inscription-transliteration" lang="pra-Latn">(A) 24 Devānaṃpiye Piy[a]da[s]i lā[jā] āhā (B) jan[e] uc[āv]ucaṃ maṃgalaṃ ka[l]eti ābādhasi av[āha]si vivāhasi pajopadāne pavāsasi e[tā]ye aṃnaye cā edisāye jane bahu magala[ṃ] k[a]leti (C) heta [eh]u abaka-jani[yo] bahu ca bahuvidhaṃ ca khuda [eh]a nilathiya 2 ca magalaṃ ka[la]ṃti (D) 25 se katavi ceva kho maṃgale (E) apa-phale [c]u kho [e]s[e] (F) [i]yaṃ cu kho mah[ā]ph[a]le ye dhaṃma-magale (G) he[tā] iyaṃ dāsa-bhaṭakasi s[a]myāpaṭip[a]ti gulunā apaciti [p]ā[n]ān[aṃ] saṃyame s[a]man[a]-baṃbhanānaṃ dāne ese aṃne cā heḍise dhaṃma-magale nāmā (H) se vata[v]iye pitinā pi putena pi bh[ā]tinā pi suvāmiken[a] pi mita-saṃthuten[ā] ava paṭivesiyenā [p]i 26 iyaṃ sādhu iyaṃ kataviye [ma]g[a]le āva [ta]sā athasā ni[v]utiyā imaṃ kachāmi ti (I) e hi i[ta]le magale sa[ṃ]sayikye se (J) siya vā taṃ aṭhaṃ nivatey[ā] siyā punā no (K) hi[da]lokike cev(a] se (L) iyaṃ punā dhaṃma-magale akāliky[e] (M) haṃce pi taṃ aṭhaṃ no niṭeti hida aṭhaṃ palata anaṃtaṃ punā pavasati (N) haṃce puna taṃ aṭhaṃ nivateti hidā tato ubhaye[sa]ṃ ladhe hoti hida cā se aṭhe palata cā anaṃtaṃ punā pasavati tenā dhaṃmamagalen[ā]</p>
+
+## हिंदी अनुवाद
+
+यह हिंदी अनुवाद नीचे उद्धृत संस्करण के अंग्रेज़ी अनुवाद पर आधारित है। क्षतिग्रस्त और अनिश्चित अंश उस ऐतिहासिक संस्करण के अनुसार चिह्नित हैं।
+
+> (A) राजा देवानांप्रिय प्रियदर्शी इस प्रकार कहते हैं।
+> (B) बीमारी में, बेटे या बेटी के विवाह पर, बच्चे के जन्म पर और यात्रा पर निकलते समय लोग तरह-तरह के अनुष्ठान करते हैं; इन और ऐसे अन्य अवसरों पर बहुत से अनुष्ठान होते हैं।
+> (C) किंतु ऐसे अवसरों पर माताएँ और पत्नियाँ अनेक प्रकार के साधारण और निष्फल अनुष्ठान करती हैं।
+> (D) अनुष्ठान अवश्य करने चाहिए।
+> (E) लेकिन इनसे बहुत कम फल मिलता है।
+> (F) धम्म का आचरण अधिक फलदायी है।
+> (G) इसमें दासों और सेवकों के प्रति उचित शिष्टाचार, बड़ों का आदर, पशुओं के प्रति कोमलता और श्रमणों तथा ब्राह्मणों के प्रति उदारता शामिल है; ये और ऐसे गुण धम्म का आचरण कहलाते हैं।
+> (H) इसलिए पिता, पुत्र, भाई, स्वामी, मित्र, परिचित या पड़ोसी को भी कहना चाहिए: ‘यह पुण्यकारी है। इच्छित लक्ष्य मिलने तक यह आचरण करना चाहिए’, और सोचना चाहिए, ‘मैं इसका पालन करूँगा।’
+> (I) क्योंकि अन्य अनुष्ठानों का फल अनिश्चित है।
+> (J) उनसे लक्ष्य मिल भी सकता है और नहीं भी।
+> (K) उनका फल केवल इसी लोक में मिलता है।
+> (L) लेकिन धम्म का आचरण किसी समय तक सीमित नहीं है।
+> (M) उससे इस लोक में लक्ष्य न भी मिले तो परलोक में असीम पुण्य उत्पन्न होता है।
+> (N) और यदि इस लोक में लक्ष्य मिल जाए तो दोनों लाभ होते हैं—इस लोक में इच्छित लक्ष्य और परलोक में असीम पुण्य।
+
+## स्रोत
+
+- E. Hultzsch, [*Inscriptions of Asoka* (1925)](https://archive.org/details/InscriptionsOfAsoka.NewEditionByE.Hultzsch), *Corpus Inscriptionum Indicarum*, खंड 1.
+
+- [बिब्लियोथेका पॉलीग्लोटा संस्करण](https://www2.hf.uio.no/polyglotta/index.php?mid=0&page=fulltext&vid=362&view=fulltext), ओस्लो विश्वविद्यालय (मागधी लिप्यंतरण, अंग्रेज़ी अनुवाद और अभिलेख की प्रतिकृतियाँ).

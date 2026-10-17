@@ -119,4 +119,39 @@ describe('PeriodsService', () => {
     expect(service.isVisiblePolity('mughal')).toBeTruthy();
     expect(service.isVisiblePolity('maurya')).toBeFalsy();
   });
+
+  it('lists Ashoka’s guide and individual edicts on his personality page', async () => {
+    articles = [
+      { slug: 'ashoka-major-rock-edict-10', relatedTo: 'ashoka-edicts', personalities: ['ashoka'] },
+      { slug: 'unrelated-edict', relatedTo: 'other-guide', personalities: ['other'] },
+      { slug: 'ashoka-major-rock-edict-2', relatedTo: 'ashoka-edicts', personalities: ['ashoka'] },
+      { slug: 'ashoka-edicts', personalities: ['ashoka'] },
+      { slug: 'ashoka-major-rock-edict-1', relatedTo: 'ashoka-edicts', personalities: ['ashoka'] },
+    ];
+
+    const result = await service.getArticlesForPersonality('ashoka');
+    expect(result.map(article => article.slug)).toEqual([
+      'ashoka-edicts',
+      'ashoka-major-rock-edict-1',
+      'ashoka-major-rock-edict-2',
+      'ashoka-major-rock-edict-10',
+    ]);
+    expect(await service.getArticleCountForPersonality('ashoka')).toBe(4);
+  });
+
+  it('lists Ashoka’s guide and edicts under the Mauryan period and polity', async () => {
+    articles = [
+      { slug: 'ashoka-major-rock-edict-2', period: 'mauryan', polity: 'maurya', relatedTo: 'ashoka-edicts', tags: [] },
+      { slug: 'unrelated', period: 'classical', polity: 'gupta', tags: [] },
+      { slug: 'ashoka-edicts', period: 'mauryan', polity: 'maurya', tags: [] },
+      { slug: 'ashoka-major-rock-edict-1', period: 'mauryan', polity: 'maurya', relatedTo: 'ashoka-edicts', tags: [] },
+    ];
+    const expected = ['ashoka-edicts', 'ashoka-major-rock-edict-1', 'ashoka-major-rock-edict-2'];
+
+    expect((await service.getArticlesForPeriod('mauryan')).map(article => article.slug)).toEqual(expected);
+    expect((await service.getArticlesForPeriod('early-historic')).map(article => article.slug)).toEqual(expected);
+    expect((await service.getArticlesForPolity('maurya')).map(article => article.slug)).toEqual(expected);
+    expect(await service.getArticleCount('mauryan')).toBe(3);
+    expect(await service.getArticleCountForPolity('maurya')).toBe(3);
+  });
 });

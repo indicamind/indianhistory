@@ -1,0 +1,35 @@
+{
+  "common": {
+    "About this edict": "Sobre este édito",
+    "About this inscription": "Sobre esta inscrição",
+    "Original script": "Escrita original",
+    "Roman transliteration": "Transliteração em caracteres latinos",
+    "localTranslationHeading": "Tradução em português",
+    "Sources": "Fontes",
+    "volumeOne": "volume I",
+    "polyglottaEdition": "edição da Bibliotheca Polyglotta",
+    "universityOfOslo": "Universidade de Oslo",
+    "translationBasisNote": "Esta tradução baseia-se na versão inglesa de E. Hultzsch, de 1925, do texto de Girnar. A terminologia segue essa edição histórica."
+  },
+  "articles": {
+    "ashoka-major-rock-edict-1": {
+      "title": "Édito maior em rocha I: sacrifício de animais e cozinha real",
+      "excerpt": "Ashoka restringe o sacrifício de animais e afirma que o abate na cozinha real diminuiu acentuadamente.",
+      "tags": [
+        "Ashoka",
+        "éditos",
+        "édito maior em rocha"
+      ],
+      "about": "O primeiro édito maior em rocha relaciona os rituais públicos com a própria cozinha do rei. Registra uma redução no número de animais mortos para alimentação e promete pôr fim até ao abate que ainda ocorre.",
+      "imageAlts": [
+        "Fac-símile de uma inscrição em escrita brāhmī de Girnar na edição de Hultzsch de 1925"
+      ],
+      "imageCaptions": [
+        "Fac-símile da inscrição de Girnar. E. Hultzsch, <em>Inscriptions of Asoka</em> (1925), domínio público."
+      ],
+      "transliterationNote": "O texto abaixo segue a versão de Girnar na edição de Hultzsch. Os colchetes indicam letras restauradas ou incertas; os pontos assinalam trechos danificados ou ausentes. Outras cópias preservadas podem diferir.",
+      "translation": "> (A) O rei Devānāṁpriya Priyadarśin mandou escrever este édito sobre a conduta moral.\n> (B) Aqui, nenhum ser vivo deve ser morto nem sacrificado.\n> (C) E nenhuma reunião festiva deve ser realizada.\n> (D) Pois o rei Devānāṁpriya Priyadarśin vê muitos males nas reuniões festivas.\n> (E) Contudo, há algumas reuniões festivas que o rei Devānāṁpriya Priyadarśin considera meritórias.\n> (F) Antigamente, na cozinha do rei Devānāṁpriya Priyadarśin, muitas centenas de milhares de animais eram mortos diariamente para preparar caril.\n> (G) Mas agora, quando este édito sobre a conduta moral é escrito, apenas três animais são mortos diariamente para preparar caril: dois pavões e um cervo; e nem mesmo esse cervo é morto regularmente.\n> (H) No futuro, nem mesmo esses três animais serão mortos.",
+      "sourceNote": "transliteração do magadhi, tradução inglesa e fac-símiles da inscrição"
+    }
+  }
+}

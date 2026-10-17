@@ -15,10 +15,13 @@ const canonicalArticleGuard: CanActivateFn = async route => {
   const router = inject(Router);
   await articles.whenReady();
   const article = articles.getBySlug(route.paramMap.get('slug') ?? '');
-  return article?.period === 'world-history'
+  return article?.period === 'world-history' && !article.relatedTo
     ? router.createUrlTree(articleRoute(article), { queryParams: route.queryParams })
     : true;
 };
+
+const nestedWorldHistoryGuard: CanActivateFn = route =>
+  inject(Router).createUrlTree(['/article', route.paramMap.get('slug')], { queryParams: route.queryParams });
 
 export const routes: Routes = [
   { path: '', component: HomeComponent },
@@ -26,7 +29,7 @@ export const routes: Routes = [
   { path: 'blogs/:slug', component: BlogDetailComponent },
   { path: 'books', component: MustReadComponent },
   { path: 'search', component: SearchComponent },
-  { path: 'worldhistory/:eventSlug/:slug', component: ArticleDetailComponent },
+  { path: 'worldhistory/:eventSlug/:slug', component: ArticleDetailComponent, canActivate: [nestedWorldHistoryGuard] },
   { path: 'worldhistory/:slug', component: ArticleDetailComponent },
   { path: 'article/:slug', component: ArticleDetailComponent, canActivate: [canonicalArticleGuard] },
   { path: 'post/:slug', redirectTo: 'article/:slug', pathMatch: 'full' },

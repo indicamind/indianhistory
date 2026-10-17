@@ -55,8 +55,8 @@
 
     @if (articles().length === 0) {
       <div class="card empty">
-        <p>{{ locale.format('No articles yet for this {kind}. More stories are being added.', { kind: kindLabel() }) }}</p>
-        <a routerLink="/search" class="btn btn-secondary">Search all stories</a>
+        <p>{{ locale.format('No articles yet for this {kind}. More articles are being added.', { kind: kindLabel() }) }}</p>
+        <a routerLink="/search" class="btn btn-secondary">Search all articles</a>
       </div>
     } @else {
       <div class="article-list">
@@ -74,7 +74,7 @@
                 }
               </ul>
             }
-            <a [routerLink]="articleRoute(article)" [queryParams]="isPol ? { fromPolity: ent.slug } : isTh ? { fromTheme: ent.slug } : isPerson ? { fromPersonality: ent.slug } : { fromPeriod: ent.slug }" class="read-more">Read full story →</a>
+            <a [routerLink]="articleRoute(article)" [queryParams]="isPol ? { fromPolity: ent.slug } : isTh ? { fromTheme: ent.slug } : isPerson ? { fromPersonality: ent.slug } : { fromPeriod: ent.slug }" class="read-more">Read full article →</a>
           </article>
         }
       </div>

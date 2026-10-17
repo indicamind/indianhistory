@@ -280,7 +280,7 @@ export class PeriodsService {
         excerpt: a.excerpt,
         routerLink: summary ? articleRoute(summary) : ['/article', a.slug],
         queryParams: { fromSearch: true },
-        kindLabel: this.locale.translate('Story'),
+        kindLabel: this.locale.translate('Article'),
       });
     }
 

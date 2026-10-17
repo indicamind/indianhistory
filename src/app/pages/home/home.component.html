@@ -1,6 +1,6 @@
 <div class="home-lead">
 @if (loading()) {
-  <p class="status">Loading stories…</p>
+  <p class="status">Loading articles…</p>
 } @else if (list().length === 0) {
   <div class="card empty">
     <p>No articles yet. Add a <code>.md</code> file and run <code>npm run build-content</code>.</p>
@@ -29,7 +29,7 @@
               }
             </ul>
           }
-          <a [routerLink]="articleRoute(article)" class="read-more">Read story →</a>
+          <a [routerLink]="articleRoute(article)" class="read-more">Read article →</a>
         </div>
       </article>
     </section>
@@ -50,7 +50,7 @@
         <div class="timeline-content">
           <div class="period-head">
             <span class="period-range">{{ p.range }}</span>
-            <span class="article-badge">{{ locale.format('{count} stories', { count: p.articleCount }) }}</span>
+            <span class="article-badge">{{ locale.format('{count} articles', { count: p.articleCount }) }}</span>
           </div>
           <h3 class="period-name">{{ p.name }} <span class="drill">→</span></h3>
           <p class="period-desc">{{ p.description }}</p>
@@ -82,7 +82,7 @@
         </div>
         <p class="polity-desc">{{ theme.shortDescription }}</p>
         <div class="polity-footer">
-          <span class="article-badge">{{ locale.format('{count} stories', { count: theme.articleCount }) }}</span>
+          <span class="article-badge">{{ locale.format('{count} articles', { count: theme.articleCount }) }}</span>
           <span class="drill">Explore →</span>
         </div>
       </a>
@@ -112,7 +112,7 @@
         </div>
         <p class="polity-desc">{{ polity.description }}</p>
         <div class="polity-footer">
-          <span class="article-badge">{{ locale.format('{count} stories', { count: polity.articleCount }) }}</span>
+          <span class="article-badge">{{ locale.format('{count} articles', { count: polity.articleCount }) }}</span>
           <span class="drill">Explore →</span>
         </div>
       </a>
@@ -142,7 +142,7 @@
         </div>
         <p class="polity-desc">{{ polity.description }}</p>
         <div class="polity-footer">
-          <span class="article-badge">{{ locale.format('{count} stories', { count: polity.articleCount }) }}</span>
+          <span class="article-badge">{{ locale.format('{count} articles', { count: polity.articleCount }) }}</span>
           <span class="drill">Explore →</span>
         </div>
       </a>
@@ -169,7 +169,7 @@
         <div class="personality-head">
           <h3>{{ personality.name }}</h3>
           <span class="personality-meta">{{ personality.range }}</span>
-          <span class="article-badge">{{ locale.format('{count} stories', { count: personality.articleCount }) }}</span>
+          <span class="article-badge">{{ locale.format('{count} articles', { count: personality.articleCount }) }}</span>
         </div>
         <p>{{ personality.shortDescription }}</p>
       </a>

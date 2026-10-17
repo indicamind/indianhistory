@@ -21,7 +21,7 @@ interface SearchFilterOption {
 
 const FILTER_OPTIONS: SearchFilterOption[] = [
   { label: 'All', value: 'all' },
-  { label: 'Stories', value: 'article' },
+  { label: 'Articles', value: 'article' },
   { label: 'Books', value: 'book' },
   { label: 'Periods', value: 'period' },
   { label: 'Themes', value: 'theme' },

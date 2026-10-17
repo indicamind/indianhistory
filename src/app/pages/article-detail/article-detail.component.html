@@ -71,7 +71,7 @@
                 <article class="article-entry-card">
                   <h3><a [routerLink]="articleRoute(entry)" [queryParams]="{lang: locale.language}">{{ entry.title }}</a></h3>
                   <p>{{ entry.excerpt }}</p>
-                  <a class="btn btn-primary article-open" [routerLink]="articleRoute(entry)" [queryParams]="{lang: locale.language}">{{ locale.translate('Read full story →') }}</a>
+                  <a class="btn btn-primary article-open" [routerLink]="articleRoute(entry)" [queryParams]="{lang: locale.language}">{{ locale.translate('Read full article →') }}</a>
                 </article>
               }
             </div>
@@ -93,7 +93,7 @@
                   <article class="article-entry-card">
                     <h3><a [routerLink]="articleRoute(entry)" [queryParams]="{lang: locale.language}">{{ entry.title }}</a></h3>
                     <p>{{ entry.excerpt }}</p>
-                    <a class="btn btn-primary article-open" [routerLink]="articleRoute(entry)" [queryParams]="{lang: locale.language}">{{ locale.translate('Read full story →') }}</a>
+                    <a class="btn btn-primary article-open" [routerLink]="articleRoute(entry)" [queryParams]="{lang: locale.language}">{{ locale.translate('Read full article →') }}</a>
                   </article>
                 }
               </div>

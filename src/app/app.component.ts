@@ -32,7 +32,7 @@ export class AppComponent implements AfterViewInit {
   readonly showEmpires = computed(() => this.periods.getEmpires().some(polity => this.periods.isVisiblePolity(polity.slug)));
   readonly showKingdoms = computed(() => this.periods.getRegionalKingdoms().some(polity => this.periods.isVisiblePolity(polity.slug)));
   readonly showPersonalities = computed(() => this.periods.getPersonalities().some(person => this.periods.isVisiblePersonality(person.slug)));
-  readonly showWorldHistory = computed(() => this.devMode.isDevMode() || this.articles.hasWorldHistoryStories());
+  readonly showWorldHistory = computed(() => this.articles.hasWorldHistoryStories());
   readonly showBlogs = computed(() => this.devMode.isDevMode() || this.blogs.allPosts().length > 0);
   private readonly homeSections = new Set(['timeline', 'themes', 'empires', 'regional-kingdoms', 'personalities', 'world-history']);
   private lastPlacementUrl: string | null = null;

@@ -58,7 +58,7 @@ export class HomeComponent implements OnInit {
   readonly locale = inject(LocaleService);
   readonly devMode = inject(DevModeService);
   readonly articleRoute = articleRoute;
-  readonly showWorldHistory = computed(() => this.devMode.isDevMode() || this.articlesSvc.hasWorldHistoryStories());
+  readonly showWorldHistory = computed(() => this.articlesSvc.hasWorldHistoryStories());
 
   readonly list = signal<ArticleSummary[]>([]);
   readonly loading = signal(true);

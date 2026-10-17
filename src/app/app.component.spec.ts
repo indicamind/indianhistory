@@ -58,6 +58,11 @@ describe('AppComponent', () => {
     expect(component.menuOpen()).toBeFalsy();
   });
 
+  it('hides World History navigation when there are no articles, including in dev mode', () => {
+    isDevMode.set(true);
+    expect(component.showWorldHistory()).toBeFalsy();
+  });
+
   it('should toggle menu open and closed', () => {
     component.toggleMenu();
     expect(component.menuOpen()).toBeTruthy();

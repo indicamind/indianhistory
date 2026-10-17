@@ -63,6 +63,11 @@ describe('HomeComponent', () => {
     expect(component.empires().length).toBe(0);
   });
 
+  it('hides the empty World History section in dev mode', () => {
+    devMode.set(true);
+    expect(component.showWorldHistory()).toBeFalsy();
+  });
+
   it('features a World History article rather than its event overview', async () => {
     const base = {
       publishedAt: '2026-10-16',

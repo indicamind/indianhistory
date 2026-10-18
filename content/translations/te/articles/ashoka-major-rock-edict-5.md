@@ -1,0 +1,59 @@
+---
+title: "ఐదవ ప్రధాన శిలాశాసనం: ధర్మమహామాత్రులు"
+slug: ashoka-major-rock-edict-5
+previewOnly: true
+excerpt: "అనేక మతసమూహాల్లోనూ సహాయం అవసరమైనవారి మధ్యనూ పనిచేయడానికి ధర్మమహామాత్రులను నియమించినట్లు అశోకుడు చెబుతాడు."
+publishedAt: 2026-10-16T00:00:00.000Z
+updatedAt: 2026-10-16T00:00:00.000Z
+period: mauryan
+polity: maurya
+personalities: [ashoka]
+relatedTo: ashoka-edicts
+tags: ["అశోకుడు","శాసనాలు","ప్రధాన శిలాశాసనం"]
+themes: []
+books: []
+sourceHash: b3867ef514a64c93608104798dfd368ed66fd2a736cdb61810320e331022937f
+---
+
+## ఈ శాసనం గురించి
+
+ధర్మ పరిపాలన గురించి ఈ శాసనం నేరుగా మాట్లాడుతుంది. అనేక సమూహాలకు సేవ చేయడం, ఖైదీలకూ కష్టాల్లో ఉన్నవారికీ సహాయపడడం అధికారుల పనులుగా పేర్కొంటుంది.
+
+## మూల లిపి
+
+<figure class="article-figure inscription-plate">
+  <img src="/assets/media/images/ashoka-plate-1405552832.jpg" alt="హుల్ట్ష్ 1925 సంచికలోని కాల్సీ బ్రాహ్మీ శాసన ప్రతిరూపం" loading="lazy" decoding="async" />
+  <figcaption>కాల్సీ శాసన ప్రతిరూపం. ఇ. హుల్ట్ష్, <em>Inscriptions of Asoka</em> (1925), ప్రజా వినియోగంలో ఉంది.</figcaption>
+</figure>
+
+## రోమన్ లిప్యంతరీకరణ
+
+క్రింది పాఠం హుల్ట్ష్ సంచికలోని కాల్సీ పాఠాన్ని అనుసరిస్తుంది. చతురస్ర కుండలీకరణలు పునర్నిర్మించిన లేదా అనిశ్చిత అక్షరాలను సూచిస్తాయి; చుక్కలు దెబ్బతిన్న లేదా లేని పాఠాన్ని సూచిస్తాయి. మిగిలిన ప్రతులు భిన్నంగా ఉండవచ్చు.
+
+<p class="inscription-transliteration" lang="pra-Latn">(A) 13 Devānaṃpiye Piyadasi lājā ahā (B) kayāne dukale (C) e ādikale kay[ā]nasā se dukalaṃ kaleti (D) se mamayā bahu kayāne kaṭ[e] (E) t[ā ma]m[ā putā] c[ā] nat[āle cā] 14 palaṃ [cā] tehi [ye] apatiye [m]e āva-kapaṃ tathā anuvaṭisa[ṃ]ti s[e] s[u]kataṃ kachaṃ[t]i (F) e cu het[ā] desaṃ pi hāpa[y]i[sat]i s[e] dukaṭam kachati (G) p[ā]pe hi nāmā supadālaye (H) se atikamtam aṃtalam no huta-puluva dhaṃ[ma]-mahāmatā nāma (I) t[e]dasa-vasābh[i]sitena mamayā dhaṃmamahāmāt[ā ka]ṭ[ā] (J) [te] sav[a]-pāsam[ḍe]su viyā[pa]ṭā 15 dhaṃ[m]ādhithā[nāye c]ā dhaṃma-vaḍhiya hi[da]-sukhāye vā dhamm[a]-yutas[ā] Yona-Kaṃb[o]ja-Gaṃdhālānaṃ e vā [pi] aṃne apalaṃtā (K) bhaṭamayesu baṃbhanibhesu anathesu [v]udhesu hida-sukhāye dhaṃma-yutāye apalibodhāye viyapaṭā te (L) baṃdha[na-badha]sā paṭividhānāy[e] apalibodhāye mokh[ā]ye cā eyaṃ anubadh[ā] pajāva ti v[ā] 16 [kaṭābhikā]le ti vā m[ah]ā[la]ke ti v[ā] viy[ā]paṭā te (M) hid[ā] bā[h]ilesu cā naga[l]esu s[a]ves[u olodha]n[esu] bhā[tina]ṃ ca ne bh[agi]ni[nā] e vā [pi] aṃn[e] nātikye savatā viyā[pa]ṭā (N) e iyaṃ dhaṃma-nisite ti vā dāna-suyute ti [v]ā sav[a]tā v[i]jtas[i] mamā [dha]ṃma-yutasi viyāpaṭā te dhaṃmam[a]hām[a]ta (0) etāye aṭhāye 17 [i]yaṃ dhaṃma-lipi lekhitā ci[la]-thitikyā hotu [tathā] ca me [pa]jā [a]nuva[ta]tu</p>
+
+## తెలుగు అనువాదం
+
+ఈ తెలుగు అనువాదం క్రింద పేర్కొన్న సంచికలోని ఆంగ్ల అనువాదంపై ఆధారపడింది. దెబ్బతిన్న లేదా అనిశ్చిత భాగాలు ఆ చారిత్రక సంచికలో ఉన్నట్టే సూచించబడ్డాయి.
+
+> (A) దేవానాంప్రియ ప్రియదర్శి రాజు ఇలా చెబుతున్నాడు.
+> (B) మంచి పనులు చేయడం కష్టం.
+> (C) మంచి పనులు చేయడం మొదలుపెట్టేవాడు కష్టమైన పనినే చేపడుతున్నాడు.
+> (D) నేను అనేక మంచి పనులు చేశాను.
+> (E) కాబట్టి నా కుమారులు, మనుమలు, వారి తరువాతి వారసులు ప్రపంచ వినాశన కాలం వరకు ఈ కర్తవ్యాన్ని అనుసరిస్తే మంచి పనులు చేసినవారవుతారు.
+> (F) కానీ ఇందులో కొంతైనా నిర్లక్ష్యం చేసేవాడు చెడు పని చేసినవాడవుతాడు.
+> (G) ఎందుకంటే పాపం త్వరగా ప్రవేశిస్తుంది.
+> (H) గతంలో ధర్మమహామాత్రులు అనే అధికారులు లేరు.
+> (I) నాకు పట్టాభిషేకం జరిగి పదమూడేళ్లయినప్పుడు ధర్మమహామాత్రులను నియమించాను.
+> (J) వారు అన్ని మతసమూహాల్లో ధర్మాన్ని స్థాపించడానికీ పెంపొందించడానికీ, యవనులు, కాంబోజులు, గాంధారులు, ఇతర పశ్చిమ సరిహద్దు ప్రజల్లో ధర్మనిష్ఠుల సంక్షేమం, సుఖం కోసం పనిచేస్తున్నారు.
+> (K) సేవకులు, యజమానులు, బ్రాహ్మణులు, ఇభ్యులు, నిరుపేదలు, వృద్ధుల మధ్య కూడా ధర్మనిష్ఠుల సంక్షేమం, సుఖం కోసం, వారిని బంధనాల నుంచి విడిపించేందుకు పనిచేస్తున్నారు.
+> (L) పిల్లలున్నవారికి, ఆవేశానికి లోనైనవారికి లేదా వృద్ధులకు తగిన సందర్భాల్లో ఖైదీలకు ఆర్థిక సహాయం చేయడం, సంకెళ్లు తొలగించడం, విడుదల చేయడం వారి పనుల్లో ఉన్నాయి.
+> (M) వారు ఇక్కడా అన్ని బయటి పట్టణాల్లోనూ, నా సోదరులు, సోదరీమణులు, ఇతర బంధువుల అంతఃపురాల్లోనూ పనిచేస్తున్నారు.
+> (N) నా రాజ్యమంతటా ధర్మనిష్ఠులలో ఎవరికి ధర్మం పట్ల ఉత్సాహం ఉందో, ఎవరికి దాతృత్వం పట్ల నిజమైన నిబద్ధత ఉందో తెలుసుకోవడానికి ఈ ధర్మమహామాత్రులు పనిచేస్తున్నారు.
+> (O) ఈ ధర్మశాసనం చిరకాలం నిలిచి నా వారసులు దీనిని అనుసరించాలనే ఉద్దేశంతో రాయించాను.
+
+## మూలాలు
+
+- E. Hultzsch, [*Inscriptions of Asoka* (1925)](https://archive.org/details/InscriptionsOfAsoka.NewEditionByE.Hultzsch), *Corpus Inscriptionum Indicarum*, సంపుటం I.
+
+- [బిబ్లియోథెకా పాలిగ్లాటా సంచిక](https://www2.hf.uio.no/polyglotta/index.php?mid=0&page=fulltext&vid=362&view=fulltext), ఓస్లో విశ్వవిద్యాలయం (మాగధీ లిప్యంతరీకరణ, ఆంగ్ల అనువాదం, శాసన ప్రతిరూపాలు).

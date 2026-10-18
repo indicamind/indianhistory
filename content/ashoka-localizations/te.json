@@ -3,13 +3,48 @@
     "About this edict": "ఈ శాసనం గురించి",
     "About this inscription": "ఈ లిఖితం గురించి",
     "Original script": "మూల లిపి",
+    "Original scripts": "మూల లిపులు",
     "Roman transliteration": "రోమన్ లిప్యంతరీకరణ",
     "localTranslationHeading": "తెలుగు అనువాదం",
+    "English translation of the Greek": "గ్రీకు పాఠానికి తెలుగు అనువాదం",
+    "English translation of the Aramaic": "అరామేయ పాఠానికి తెలుగు అనువాదం",
+    "Greek": "గ్రీకు",
+    "Aramaic": "అరామేయం",
     "Sources": "మూలాలు",
     "volumeOne": "సంపుటం I",
     "polyglottaEdition": "బిబ్లియోథెకా పాలిగ్లాటా సంచిక",
     "universityOfOslo": "ఓస్లో విశ్వవిద్యాలయం",
-    "translationBasisNote": "ఈ అనువాదం గిర్నార్ పాఠానికి ఇ. హుల్ట్ష్ 1925లో ఇచ్చిన ఆంగ్ల అనువాదంపై ఆధారపడింది. ఇందులోని పదప్రయోగం ఆ చారిత్రక సంచికను అనుసరిస్తుంది."
+    "translationBasisNote": "ఈ తెలుగు అనువాదం క్రింద పేర్కొన్న సంచికలోని ఆంగ్ల అనువాదంపై ఆధారపడింది. దెబ్బతిన్న లేదా అనిశ్చిత భాగాలు ఆ చారిత్రక సంచికలో ఉన్నట్టే సూచించబడ్డాయి.",
+    "sourceNote": "మాగధీ లిప్యంతరీకరణ, ఆంగ్ల అనువాదం, శాసన ప్రతిరూపాలు",
+    "siteNames": {
+      "Bairat": "బైరాట్",
+      "Lumbini": "లుంబినీ",
+      "Delhi–Topra": "ఢిల్లీ–తోప్రా",
+      "Girnar": "గిర్నార్",
+      "Kalsi": "కాల్సీ",
+      "Rūpnāth": "రూప్‌నాథ్",
+      "Brahmagiri": "బ్రహ్మగిరి",
+      "Nigali Sagar": "నిగలీ సాగర్",
+      "Allahabad–Kauśāmbī": "అలహాబాద్–కౌశాంబీ",
+      "Sarnath": "సారనాథ్",
+      "Dhauli": "ధౌలి"
+    },
+    "siteAltTemplate": "హుల్ట్ష్ 1925 సంచికలోని {site} బ్రాహ్మీ శాసన ప్రతిరూపం",
+    "siteCaptionTemplate": "{site} శాసన ప్రతిరూపం. ఇ. హుల్ట్ష్, <em>Inscriptions of Asoka</em> (1925), ప్రజా వినియోగంలో ఉంది.",
+    "siteTransliterationTemplate": "క్రింది పాఠం హుల్ట్ష్ సంచికలోని {site} పాఠాన్ని అనుసరిస్తుంది. చతురస్ర కుండలీకరణలు పునర్నిర్మించిన లేదా అనిశ్చిత అక్షరాలను సూచిస్తాయి; చుక్కలు దెబ్బతిన్న లేదా లేని పాఠాన్ని సూచిస్తాయి. మిగిలిన ప్రతులు భిన్నంగా ఉండవచ్చు.",
+    "imageAltTranslations": {
+      "Brahmi facsimiles of the three Barabar cave inscriptions in Hultzsch’s 1925 edition; Karna Chaupar is third": "హుల్ట్ష్ 1925 సంచికలోని మూడు బరాబర్ గుహల బ్రాహ్మీ శాసన ప్రతిరూపాలు; కర్ణ చౌపర్ మూడవది",
+      "Brahmi facsimiles of the three Barabar cave inscriptions in Hultzsch’s 1925 edition; Sudama is first": "హుల్ట్ష్ 1925 సంచికలోని మూడు బరాబర్ గుహల బ్రాహ్మీ శాసన ప్రతిరూపాలు; సుదామా మొదటిది",
+      "Brahmi facsimiles of the three Barabar cave inscriptions in Hultzsch’s 1925 edition; Visvakarma is second": "హుల్ట్ష్ 1925 సంచికలోని మూడు బరాబర్ గుహల బ్రాహ్మీ శాసన ప్రతిరూపాలు; విశ్వకర్మ రెండవది"
+    },
+    "imageCaptionTranslations": {
+      "Barabar cave inscription facsimiles. E. Hultzsch, <em>Inscriptions of Asoka</em> (1925), public domain.": "బరాబర్ గుహల శాసన ప్రతిరూపాలు. ఇ. హుల్ట్ష్, <em>Inscriptions of Asoka</em> (1925), ప్రజా వినియోగంలో ఉంది."
+    },
+    "transliterationNotes": {
+      "The text below follows Hultzsch’s edition of the Karna Chaupar inscription. Square brackets mark restored or uncertain letters; dots mark a missing passage.": "క్రింది పాఠం హుల్ట్ష్ ప్రచురించిన కర్ణ చౌపర్ శాసనాన్ని అనుసరిస్తుంది. చతురస్ర కుండలీకరణలు పునర్నిర్మించిన లేదా అనిశ్చిత అక్షరాలను, చుక్కలు లేని భాగాన్ని సూచిస్తాయి.",
+      "The text below follows Hultzsch’s edition of the Sudama inscription. Square brackets mark restored or uncertain letters.": "క్రింది పాఠం హుల్ట్ష్ ప్రచురించిన సుదామా శాసనాన్ని అనుసరిస్తుంది. చతురస్ర కుండలీకరణలు పునర్నిర్మించిన లేదా అనిశ్చిత అక్షరాలను సూచిస్తాయి.",
+      "The text below follows Hultzsch’s edition of the Visvakarma inscription. Square brackets mark restored or uncertain letters.": "క్రింది పాఠం హుల్ట్ష్ ప్రచురించిన విశ్వకర్మ శాసనాన్ని అనుసరిస్తుంది. చతురస్ర కుండలీకరణలు పునర్నిర్మించిన లేదా అనిశ్చిత అక్షరాలను సూచిస్తాయి."
+    }
   },
   "articles": {
     "ashoka-major-rock-edict-1": {

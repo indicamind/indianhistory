@@ -1,0 +1,72 @@
+---
+title: "పదమూడవ ప్రధాన శిలాశాసనం: కళింగ విజయం తరువాత"
+slug: ashoka-major-rock-edict-13
+previewOnly: true
+excerpt: "కళింగ యుద్ధం కలిగించిన దుఃఖాన్ని అశోకుడు చెబుతూ, ధర్మవిజయాన్ని ప్రశంసిస్తాడు."
+publishedAt: 2026-10-16T00:00:00.000Z
+updatedAt: 2026-10-16T00:00:00.000Z
+period: mauryan
+polity: maurya
+personalities: [ashoka]
+relatedTo: ashoka-edicts
+tags: ["అశోకుడు","శాసనాలు","ప్రధాన శిలాశాసనం"]
+themes: []
+books: []
+sourceHash: bfa9171853dc53805b78da6a59488e622016b95f88d42609c309ca4065d85d15
+---
+
+## ఈ శాసనం గురించి
+
+కళింగం గురించిన ముఖ్యమైన ఆధారం పదమూడవ శాసనం. హత్యలు, దేశ బహిష్కరణ, దుఃఖాన్ని ఇది నమోదు చేస్తుంది. తరువాత సైనిక విజయంకన్నా ధర్మ ప్రభావాన్ని ఉన్నతంగా చెబుతుంది; అయినప్పటికీ సరిహద్దు ప్రజలకు రాజశక్తిని గుర్తుచేస్తుంది.
+
+## మూల లిపి
+
+<figure class="article-figure inscription-plate">
+  <img src="/assets/media/images/ashoka-plate-1405552832.jpg" alt="హుల్ట్ష్ 1925 సంచికలోని కాల్సీ బ్రాహ్మీ శాసన ప్రతిరూపం" loading="lazy" decoding="async" />
+  <figcaption>కాల్సీ శాసన ప్రతిరూపం. ఇ. హుల్ట్ష్, <em>Inscriptions of Asoka</em> (1925), ప్రజా వినియోగంలో ఉంది.</figcaption>
+</figure>
+<figure class="article-figure inscription-plate">
+  <img src="/assets/media/images/ashoka-plate-1405553660.jpg" alt="హుల్ట్ష్ 1925 సంచికలోని కాల్సీ బ్రాహ్మీ శాసన ప్రతిరూపం" loading="lazy" decoding="async" />
+  <figcaption>కాల్సీ శాసన ప్రతిరూపం. ఇ. హుల్ట్ష్, <em>Inscriptions of Asoka</em> (1925), ప్రజా వినియోగంలో ఉంది.</figcaption>
+</figure>
+
+## రోమన్ లిప్యంతరీకరణ
+
+క్రింది పాఠం హుల్ట్ష్ సంచికలోని కాల్సీ పాఠాన్ని అనుసరిస్తుంది. చతురస్ర కుండలీకరణలు పునర్నిర్మించిన లేదా అనిశ్చిత అక్షరాలను సూచిస్తాయి; చుక్కలు దెబ్బతిన్న లేదా లేని పాఠాన్ని సూచిస్తాయి. మిగిలిన ప్రతులు భిన్నంగా ఉండవచ్చు.
+
+<p class="inscription-transliteration" lang="pra-Latn">(A) aṭha-[va]śā- | bhiśita- | śā [De]vānaṃpiyaśa Piyadaśine | lājine | Kaligyā vijitā | (B) diyaḍha-mite | pāna-śat[a]śaha[ś]e | ye [ta]phā apavuḍhe [| śa)ta-[śa]haśa-mite | tata hate | bahu-tāvatake | vā maṭe (C) tat[o pa]chā | adhunā ladheśa | Kaligyeśu | tive | dhaṃma[vāy]e 36 dhaṃma-k[ā]matā | dhaṃmānuśathi cā | Devānaṃpiyaśā | (D) ś[e] athi anuśaye | Devānampiya[ś]ā | vijin[i]tu | Kaligyāni | (E) avijitaṃ hi | vijinamane | e tatā | vadha vā | malane vā | apavahe [vā] | jan[a]śā | [ś]e bāḍha | vedaniya-mute | g[u]l[u]-mut[e] cā | Devānaṃ[pi]yaśā | (F) iyaṃ pi cu | tato | galu-matatale | D[e]vānaṃpiyaśā (G) 37 [ya] tatā vaśati b[ā]bhanā va śama 12 vā ane vā pāsaṃḍa gṃ[i]tha va yesu vṃita [e]ś[a] a[gabhu Jt[i}śuśuśā m[ā]ta-piti-śuśuśā galu-śuśā mita-śaṃthuta-śahāya-nātikeśu dāśa-bha[ṭa]kaś[i śa]m[y]ā-paṭipati diḍhabhatitā teśaṃ tatā hoti [upa]ghāte vā vadhe vā abhilatānaṃ vā vinikhamane (H) 38 yeśaṃ vā pi śuvihi[t]ānaṃ śinehe avipahine e tānaṃ mita-śaṃth[u]taśa[h]āya-[nā]tikya viyaśanaṃ pāpunāta tata śe [p]i t[ā]namev[ā] upaghāt[e] hoti (I) paṭibhāge cā eś[a] ś[a]va-manu[śāna]ṃ gul[u]-m[a]te cā Devāna[ṃ]piyaśā (J) n[a]thi cā śe jan[a]pade yatā nathi ime nikāyā ānatā Y[o]neś[u] 39 baṃhmane c[ā] śamane cā nathi cā kuvāpi jan[a]padaśi [ya]tā n[a]thi m[a]nuśān[a] | ekatalaś[i p]i | pāśaḍaśi | no n[ā]ma paśāde | (K) śe ava[ta]ke jane | t[a]dā Kali[ṃ]geśu | [ladheśu ha]te c[ā] maṭ[e] cā | [apavuḍhe cā |] tato śat[e] bhāge vā | śah[a]śa-bhāge vā | aja gulu-mate vā | Devāna[ṃ]piyaśā (B.– South Face of Kālsī Rock) 1 .......... 2 .......... 3 .......... [ney]u icha .......... 4 śa[va-bhu] .......... [śayama śamaca]liya[ṃ] madava ti (P) iyaṃ vu mu .......... 5 Devānaṃpiyeśā ye dha[ṃ]ma-vijaye (Q) ś[e] ca punā ladhe Devāna[ṃp]i .......... ca 6 śaveśu ca ateśu a śaśu pi [yo]jana-śateśu at[a] Atiyoge nām[a] Yo[nalā] . . [pa]laṃ cā tenā 7 A[ṃ]tiyogena catāli 4 lajāne Tulamaye [nā]m[a] Aṃteki[ne nā]ma Makā nā8ma Alikyaśudale nāma nicaṃ Coḍa-Paṃḍiya avaṃ Taṃbapaṃniyā hevamev[ā] (R) hevameva [hi]dā lā[ja]-viśavaśi Yona-Kaṃbojeśu Nābhak[a]-Nābhapaṃtiśu BhojaPitinikye[ś]u 10 [Adha]-P[ā]lade[ś]u [śa]vatā [D]evā[na]ṃpi[ya]śā dhaṃmānu[śa]thi anuvataṃti (S) y[a]ta pi dutā Devāna[ṃp]iyasā no yaṃti t[e] pi sutu Dev[āna]ṃp[i]naṃya dh[aṃma]-vutaṃ v[i]dh[a]na[ṃ] 12 dhaṃmānusa[th]i dha[ṃ]ma[ṃ] anuvidhiyaṃa [a]nuvidhiyisaṃa [c]ā (T) ye se [la]dhe 13 etakenā hoti savatā vi[ja]ye piti-lase se (U) gadhā sā hoti piti piti dhaṃm[a]vijaya14śi (V) lahukā v[u] kho sā piti (W) pālaṃtikyameve maha-phalā maṃnaṃ[ti] Dev[e]naṃ[pi]ne (X) 15 eta ye ca aṭhāye iyaṃ dha[ṃ]ma-lipi likhitā kiti putā papotā me a[su] 16 nava[m] vijay[a] ma vijayataviya maniśu śayakaśi no vi[ja]yaśi khaṃti cā la | hu17daṃḍatā [cā] locetu tameva cā vijayaṃ manatu ye dhaṃma-vijaye (Y) śe hidalokikya palalo18kiye (Z) śavā ca ka nilati hot[u] uyāma-lati śā hi hi[da]lokika pa[la]lokikya</p>
+
+## తెలుగు అనువాదం
+
+ఈ తెలుగు అనువాదం క్రింద పేర్కొన్న సంచికలోని ఆంగ్ల అనువాదంపై ఆధారపడింది. దెబ్బతిన్న లేదా అనిశ్చిత భాగాలు ఆ చారిత్రక సంచికలో ఉన్నట్టే సూచించబడ్డాయి.
+
+> (A) దేవానాంప్రియ ప్రియదర్శి రాజుకు పట్టాభిషేకం జరిగి ఎనిమిదేళ్లయినప్పుడు కళింగ దేశాన్ని జయించాడు.
+> (B) అక్కడి నుంచి లక్షా యాభై వేల మందిని దేశం విడిచి పంపారు; లక్ష మందిని చంపారు; అంతకన్నా ఎన్నో రెట్లు ఎక్కువ మంది మరణించారు.
+> (C) కళింగం జయించిన తరువాత దేవానాంప్రియుడు ధర్మాన్ని శ్రద్ధగా అధ్యయనం చేయడం, ప్రేమించడం, ప్రజలకు బోధించడం మొదలుపెట్టాడు.
+> (D) కళింగ విజయం కారణంగా దేవానాంప్రియునికి కలిగిన పశ్చాత్తాపం ఇది.
+> (E) ఇంతకు ముందు జయించని దేశాన్ని జయించేటప్పుడు అక్కడ వధ, మరణం, ప్రజల దేశ బహిష్కరణ జరగడం దేవానాంప్రియునికి ఎంతో బాధాకరంగా, విచారకరంగా అనిపిస్తుంది.
+> (F) అయితే ఆయనకు దీన్నికంటే మరింత విచారకరమైనది ఇంకొకటి ఉంది.
+> (G) అక్కడ బ్రాహ్మణులు, శ్రమణులు, ఇతర మతసమూహాలవారు, గృహస్థులు ఉన్నారు; వారిలో ఉన్నతాధికారులకు, తల్లిదండ్రులకు, పెద్దలకు విధేయత చూపేవారు, మిత్రులు, పరిచయస్తులు, సహచరులు, బంధువులు, బానిసలు, సేవకుల పట్ల తగిన మర్యాదతో, దృఢ నిబద్ధతతో ఉండేవారు ఉన్నారు. అలాంటి వారికి గాయాలు, మరణం, దేశ బహిష్కరణ సంభవించాయి; లేదా వారి ఆప్తులకు అవి సంభవించాయి.
+> (H) తమకు లోటు లేకపోయినా, తమకు ఎంతో ప్రియమైన మిత్రులు, పరిచయస్తులు, సహచరులు, బంధువులు కష్టాలు పడితే వారి దుస్థితి వీరినీ గాయపరుస్తుంది.
+> (I) ఈ బాధను అందరూ పంచుకుంటారు; దేవానాంప్రియుడు దానిని విచారకరంగా భావిస్తాడు.
+> (J) యవనుల ప్రాంతం తప్ప బ్రాహ్మణులు, శ్రమణులు లేని దేశం లేదు; ఏ దేశంలోనూ ఏదో ఒక మతానికి చెందినవారు లేని చోటు లేదు.
+> (K) కాబట్టి కళింగ విజయంలో చంపబడిన, మరణించిన, దేశం విడిచి పంపబడిన వారిలో నూరవ వంతు గానీ వెయ్యవ వంతు గానీ ఇప్పుడు దేవానాంప్రియునికి ఎంతో విచారకరం. ...
+> (O) .......... సకల జీవుల పట్ల కోరేది .......... ఆత్మనిగ్రహం, నిష్పక్షపాతం, దయ.
+> (P) కానీ దేవానాంప్రియుడు కోరే ఈ .......... ధర్మవిజయం.
+> (Q) ఈ విజయం దేవానాంప్రియునికి [ఇక్కడ] తన సరిహద్దులన్నిటిలోనూ, ఆరు వందల యోజనాల దూరంలో ఉన్న అంతియోగ అనే యవన రాజు వరకు, అతనికి అవతల తులమయ, అంతెకిన, మకా, అలిక్యశుదల అనే నలుగురు రాజుల వరకు, దక్షిణాన చోడులు, పాండ్యులు పాలించే ప్రాంతాల నుంచి తామ్రపర్ణి వరకు పదేపదే లభించింది.
+> (R) రాజు పాలించే భూభాగంలో యవనులు, కాంబోజులు, నాభకులు, నాభపంక్తులు, భోజులు, పితినిక్యులు, ఆంధ్రులు, పాలదులు—అన్నిచోట్లా ప్రజలు దేవానాంప్రియుని ధర్మబోధనను అనుసరిస్తున్నారు.
+> (S) దేవానాంప్రియుని దూతలు వెళ్లని చోట్ల కూడా ప్రజలు ఆయన ధర్మ కర్తవ్యాలు, ఆజ్ఞలు, బోధన విని ధర్మాన్ని అనుసరిస్తున్నారు; భవిష్యత్తులోనూ అనుసరిస్తారు.
+> (T) అన్నిచోట్ల సాధించిన ఈ విజయం సంతృప్తిని కలిగిస్తుంది.
+> (U) ధర్మవిజయంలోని ఆ సంతృప్తి దృఢంగా నిలుస్తుంది.
+> (V) అయితే ఆ సంతృప్తికి నిజానికి తక్కువ ప్రాధాన్యం ఉంది.
+> (W) పరలోక ఫలితాలకే గొప్ప విలువ ఉందని దేవానాంప్రియుడు భావిస్తాడు.
+> (X) నా కుమారులూ మునిమనుమలూ కొత్త భూవిజయం చేయాలని భావించకూడదని, వారికి విజయం నచ్చితే కరుణతోనూ స్వల్ప శిక్షలతోనూ ఆనందించాలని, ధర్మవిజయమే నిజమైన విజయమని భావించాలని ఈ ధర్మశాసనాన్ని రాయించాను.
+> (Y) ఈ విజయం ఈ లోకంలోనూ పరలోకంలోనూ ఫలిస్తుంది.
+> (Z) వారి ఆనందమంతా కృషిలోనే ఉండాలి.
+> (AA) ఎందుకంటే ఇది ఈ లోకంలోనూ పరలోకంలోనూ ఫలిస్తుంది.
+
+## మూలాలు
+
+- E. Hultzsch, [*Inscriptions of Asoka* (1925)](https://archive.org/details/InscriptionsOfAsoka.NewEditionByE.Hultzsch), *Corpus Inscriptionum Indicarum*, సంపుటం I.
+
+- [బిబ్లియోథెకా పాలిగ్లాటా సంచిక](https://www2.hf.uio.no/polyglotta/index.php?mid=0&page=fulltext&vid=362&view=fulltext), ఓస్లో విశ్వవిద్యాలయం (మాగధీ లిప్యంతరీకరణ, ఆంగ్ల అనువాదం, శాసన ప్రతిరూపాలు).

@@ -1,0 +1,89 @@
+---
+title: "ఏడవ ప్రధాన స్తంభశాసనం: రాజు ధర్మ విధాన సమీక్ష"
+slug: ashoka-major-pillar-edict-7
+previewOnly: true
+excerpt: "ప్రజా సంక్షేమం, మతసమూహాలకు గౌరవం, అధికారులు, ప్రజాపనులు, ధర్మబోధనలను అశోకుడు సమీక్షిస్తాడు."
+publishedAt: 2026-10-16T00:00:00.000Z
+updatedAt: 2026-10-16T00:00:00.000Z
+period: mauryan
+polity: maurya
+personalities: [ashoka]
+relatedTo: ashoka-edicts
+tags: ["అశోకుడు","శాసనాలు","ప్రధాన స్తంభశాసనం"]
+themes: []
+books: []
+sourceHash: 2b13ff2551c02c0d39f123abfad9d906cc1b9469f009363ac8b8608b0c0f343e
+---
+
+## ఈ శాసనం గురించి
+
+అతి పొడవైన ఈ స్తంభశాసనం మునుపటి విధానాలను తిరిగి వివరిస్తుంది. బావులు, నీడనిచ్చే చెట్లు, విశ్రాంతి స్థలాలు, అధికారులు, దానాల గురించి చెబుతూ నైతిక పురోగతి ఎక్కువగా ప్రజల మనస్సు మార్చడం ద్వారానే వస్తుందని రాజు అంటాడు.
+
+## మూల లిపి
+
+<figure class="article-figure inscription-plate">
+  <img src="/assets/media/images/ashoka-plate-1405674260.jpg" alt="హుల్ట్ష్ 1925 సంచికలోని ఢిల్లీ–తోప్రా బ్రాహ్మీ శాసన ప్రతిరూపం" loading="lazy" decoding="async" />
+  <figcaption>ఢిల్లీ–తోప్రా శాసన ప్రతిరూపం. ఇ. హుల్ట్ష్, <em>Inscriptions of Asoka</em> (1925), ప్రజా వినియోగంలో ఉంది.</figcaption>
+</figure>
+
+## రోమన్ లిప్యంతరీకరణ
+
+క్రింది పాఠం హుల్ట్ష్ సంచికలోని ఢిల్లీ–తోప్రా పాఠాన్ని అనుసరిస్తుంది. చతురస్ర కుండలీకరణలు పునర్నిర్మించిన లేదా అనిశ్చిత అక్షరాలను సూచిస్తాయి; చుక్కలు దెబ్బతిన్న లేదా లేని పాఠాన్ని సూచిస్తాయి. మిగిలిన ప్రతులు భిన్నంగా ఉండవచ్చు.
+
+<p class="inscription-transliteration" lang="pra-Latn">A.–East Face of Pillar. (A) 11 Devānaṃpiye Piyadasi lājā hevaṃ āhā (B) ye atikaṃtaṃ 12 aṃtalaṃ lājāne husu hevaṃ ichisu kathaṃ jane 13 dhaṃma-vaḍhiyā vaḍheyā no cu jane anulupāyā dhaṃma-vaḍhiyā 14 vaḍhithā (C) etaṃ Devānaṃpiye Piyadasi lājā hevaṃ āhā (D) esa me 15 huthā (E) atikaṃtaṃ ca aṃtaṃl[a]ṃ hevaṃ ichisu lājāne kathaṃ jane 16 anulupāyā dhaṃma-vaḍhiyā vaḍheyā ti no ca jane anulupāyā 17 dhaṃma-vaḍhiyā vaḍhithā (F) se kinasu jane anu[pa]ṭipajeyā (G) 18 kinasu jane anulupāyā dhaṃma-vaḍhiyā vaḍheyā ti (H) k[i]nasu kāni 19 abhyuṃnāmayehaṃ dhaṃma-vaḍhiyā ti (I) etaṃ Devānaṃpiye Piyadasi lājā hevaṃ 20 āhā (J) esa me huthā (K) dhaṃma-sāvanāni sāvāpayāmi dhaṃmānusathini 21 anus[ā]sāmi (L) etaṃ jane sutu anupaṭīpajīsati abhyuṃnamisati B.–Round the Pillar. 22 dhaṃma-vaḍhiya ca baḍhaṃ vaḍhisat[i] (M) etāye me aṭhāye dhaṃma-sāvanāni sāvāpitāni dhaṃmānusathini vividhāni ānapitāni [ya] ..... [is]ā pi bahune janasi āyatā e te paliyovadisaṃti pi pavithalisaṃti pi (N) lajūkā pi bahukesu pāna-sata-sahasesu āyatā te pi me ānapitā hevaṃ ca hevaṃ ca paliyovadātha 23 janaṃ dhaṃma-yu[ta]ṃ (O) [Dev]ānampiye Piyadasi hevaṃ āhā (P) etameva me anuvekhamāne dhaṃma-thaṃbhāni kaṭāni dhaṃma-mahāmātā kaṭā dhaṃ[ma] . ā ... e kaṭe (Q) Devānaṃpiye Piyadasi lājā hevaṃ āhā (R) magesu pi me nigohāni lopāpitāni chāyopagāni hosaṃti pasu-munisānaṃ aṃbā-vaḍikyā lopāpitā (S) aḍha-[kos]ikyāni pi me udupānāni 24 khānāpāpitāni niṃsi[ḍha]yā ca kālāpitā (T) āpānāni me ba[h]ukāni tata tata k[ā]lāpitāni paṭībhogāye p[a]su-munisānaṃ (U) [la] ...... esa paṭībhoge nāma (V) vividhāyā hi sukhāyanāyā pulimehi pi lājīhi mamayā ca sukhayite loke (W) imaṃ cu dhaṃmānupaṭīpatī anupaṭīpajaṃtu ti etadathā me 25 esa kaṭe (X) Devānaṃpiye Piyadasi hevaṃ āhā (Y) dhamṃa-mahāmātā pi me te bahuvidhesu aṭhesu ānugahikesu viyāpaṭāse pavajītānaṃ ceva gihithānaṃ ca sava . . . . [ḍ]esu pi ca viyāpaṭāse (Z) saṃghaṭhasi pi me kaṭe ime viyāpaṭā hohaṃti ti hemeva bābhanesu ā[j]īvikesu pi me kaṭe 26 ime viyāpaṭā hohaṃti ti nigaṃṭhesu pi me kaṭe ime viyāpaṭā hohaṃti nānā-pāsaṃḍesu pi me [ka]ṭe ime viyāpaṭā hohaṃti ti paṭivisiṭhaṃ paṭīvisiṭhaṃ tesu tesu [te] ...... mātā (AA) dhaṃma-mahāmātā cu me etesu ceva viyā[pa]ṭā savesu ca aṃnesu pāsaṃḍesu (BB) Devānaṃpiye Piyadasi lājā hevaṃ āhā (CC) 27 ete ca aṃne ca bahukā mukhā dāna-visagasi viyāpaṭāse mama ceva devinaṃ ca savasi ca me olodhanasi te bahuvidhena ā[kā]lena tāni tāni tuṭhāyatan[ā]ni paṭī ........ hida ceva disāsu ca (DD) dālakānaṃ pi ca me kaṭe aṃnānaṃ ca devi-kumālānaṃ ime dāna-visagesu viyāpaṭā hohaṃti ti 28 dhaṃmāpadānaṭhāye dhaṃmānupaṭipatiye (EE) esa hi dhaṃmāpadāne dhaṃmapaṭīpati ca yā iyaṃ dayā dāne sace socave madave sādha[v]e ca lokasa hevaṃ vaḍhisati ti (FF) Devānaṃpiye [P ..... s . l]ājā hevaṃ āhā (GG) yāni hi [k]ānici mamiyā sādhavāni kaṭāni taṃ loke anūp[a]ṭīpaṃne taṃ ca anuvidhiyaṃti (HH) tena vaḍhitā ca 29 vaḍhisaṃti ca mātā-pit[i]su sususāyā gulusu sususāyā vayo-mahālakānaṃ anupaṭīpatiyā bābhana-samanesu kapana-valākesu āva dāsa-bhaṭakesu saṃpaṭīpatiya (II) Devānaṃp[iy . . . ya]dasi lājā hevaṃ āhā (JJ) munisānaṃ cu yā iyaṃ dhaṃma-vaḍhi vaḍhitā duvehi yeva ākālehi dhaṃmaniyamena ca a nijhatiyā [ca] (KK) 30 tata cu lahu se dhaṃma-niyame nijhatiyā va bhuye (LL) dhaṃma-niyame cu kho esa ye me iyaṃ kaṭe imāni ca imāni jātāni avadhiyāni (MM) aṃnāni pi cu bahu[k] ... dhaṃma-niyamāni yāni me kaṭāni (NN) nijhatiyā vā cu bhuye munisānaṃ dhaṃma-vaḍhi vaḍhitā avihiṃsaye bhutānaṃ 31 analaṃbhāye pānānaṃ (OO) se etāye a[th]āye iyaṃ kaṭe putā-papotike caṃdama-suliyike hotu ti tathā ca anupaṭīpajaṃtu ti (PP) hevaṃ hi anupaṭīpajaṃtaṃ hi[da]ta-[pāla]te āladhe hoti (QQ) satavisati-vasābhis[i]tena me iyaṃ dhaṃma-libi likhāpāpitā ti (RR) etaṃ Devānaṃpiye āhā (SS) iyaṃ 32 dhaṃma-libi ata athi silā-thaṃbhāni vā silā-phalakāni vā tata kaṭaviyā ena esa cila-ṭhitike siyā</p>
+
+## తెలుగు అనువాదం
+
+ఈ తెలుగు అనువాదం క్రింద పేర్కొన్న సంచికలోని ఆంగ్ల అనువాదంపై ఆధారపడింది. దెబ్బతిన్న లేదా అనిశ్చిత భాగాలు ఆ చారిత్రక సంచికలో ఉన్నట్టే సూచించబడ్డాయి.
+
+> (A) దేవానాంప్రియ ప్రియదర్శి రాజు ఇలా చెబుతున్నాడు.
+> (B) గతంలోని రాజులు ధర్మాన్ని పెంపొందించడం ద్వారా ప్రజలు పురోగమించాలని కోరుకున్నారు; అయితే ధర్మాన్ని తగినంతగా పెంపొందించడం ద్వారా ప్రజలు పురోగమించలేదు.
+> (C) ఈ విషయం గురించి దేవానాంప్రియ ప్రియదర్శి రాజు ఇలా చెబుతున్నాడు.
+> (D) నాకు ఈ ఆలోచన కలిగింది.
+> (E) ఒకవైపు గత రాజులు ధర్మాన్ని తగినంతగా పెంపొందించి ప్రజలను ముందుకు నడపాలనుకున్నారు; మరోవైపు ప్రజల్లో తగినంత పురోగతి కలగలేదు.
+> (F) మరి ప్రజలు ధర్మాన్ని ఎలా అనుసరిస్తారు?
+> (G) ధర్మాన్ని తగినంతగా పెంపొందించి వారు ఎలా పురోగమిస్తారు?
+> (H) ధర్మాన్ని పెంపొందించి నేను వారిని ఎలా ఉన్నత స్థితికి తీసుకెళ్లగలను?
+> (I) ఈ విషయం గురించి దేవానాంప్రియ ప్రియదర్శి రాజు ఇలా చెబుతున్నాడు.
+> (J) నాకు ఈ ఆలోచన కలిగింది.
+> (K) నేను ధర్మంపై ప్రకటనలు జారీ చేసి, ధర్మబోధన ఇవ్వమని ఆదేశిస్తాను.
+> (L) వాటిని విని ప్రజలు ధర్మాన్ని అనుసరిస్తారు, ఉన్నత స్థితికి చేరతారు, ధర్మంలో ఎంతో పురోగమిస్తారు.
+> (M) ఈ ఉద్దేశంతో ధర్మ ప్రకటనలు జారీ చేసి, అనేక విధాలుగా ధర్మబోధన చేయించాను; ఎంతోమంది ప్రజలతో పనిచేసే [నా అధికారులు] కూడా వారిని ప్రోత్సహించి ధర్మాన్ని వివరంగా చెప్పాలని కోరుకున్నాను.
+> (N) అనేక లక్షల మంది ప్రజల వ్యవహారాలను చూసే రాజూకులను కూడా ‘ధర్మనిష్ఠులైన ప్రజలను ఈ విధంగా ప్రోత్సహించండి’ అని ఆదేశించాను.
+> (O) దేవానాంప్రియ ప్రియదర్శి ఇలా చెబుతున్నాడు.
+> (P) ఈ విషయాన్ని దృష్టిలో ఉంచుకొని ధర్మస్తంభాలు నిలబెట్టాను, ధర్మమహామాత్రులను నియమించాను, ధర్మంపై [ప్రకటనలు] జారీ చేశాను.
+> (Q) దేవానాంప్రియ ప్రియదర్శి రాజు ఇలా చెబుతున్నాడు.
+> (R) పశువులకూ మనుషులకూ నీడనివ్వాలని రహదారుల వెంట మర్రిచెట్లు, మామిడి తోటలు నాటించాను.
+> (S) ప్రతి ఎనిమిది కోసుల దూరంలో బావులు తవ్వించి, నీటిలోకి దిగేందుకు మెట్లు నిర్మించాను.
+> (T) పశువులూ మనుషులూ ఉపయోగించేందుకు అనేక చోట్ల తాగునీటి కేంద్రాలు ఏర్పాటు చేయించాను.
+> (U) [అయితే] ఈ సౌకర్యాల ద్వారా కలిగే సుఖానికి [తక్కువ ప్రాధాన్యం ఉంది].
+> (V) గత రాజులూ నేనూ ప్రజలకు అనేక సౌకర్యాలు కల్పించాము.
+> (W) అయితే ప్రజలు ధర్మాచరణను అనుసరించాలనే ఉద్దేశంతోనే నేను ఇవి చేశాను.
+> (X) దేవానాంప్రియ ప్రియదర్శి ఇలా చెబుతున్నాడు.
+> (Y) నా ధర్మమహామాత్రులు సన్యాసులకూ గృహస్థులకూ మేలు చేసే అనేక వ్యవహారాల్లో, అన్ని మతసమూహాల వ్యవహారాల్లో పనిచేస్తున్నారు.
+> (Z) కొందరిని సంఘం వ్యవహారాల కోసం, మరికొందరిని బ్రాహ్మణులు, ఆజీవికుల కోసం, ఇంకొందరిని నిర్గ్రంథుల కోసం, ఇతరులను ఇతర మతసమూహాల కోసం నియమించాను; వేర్వేరు మహామాత్రులు వేర్వేరు సమూహాలపై ప్రత్యేకంగా పనిచేస్తున్నారు.
+> (AA) నా ధర్మమహామాత్రులు వీటితో పాటు ఇతర మతసమూహాలన్నిటితోనూ పనిచేస్తున్నారు.
+> (BB) దేవానాంప్రియ ప్రియదర్శి రాజు ఇలా చెబుతున్నాడు.
+> (CC) వీరూ ఇతర ప్రధాన అధికారులూ నేను, రాణులు ఇచ్చే దానాలను పంచుతున్నారు; ఇక్కడా ప్రావిన్సుల్లోనూ నా అంతఃపురం అంతటా దానం పొందడానికి తగినవారి వివరాలను [నివేదిస్తున్నారు].
+> (DD) నా కుమారులు, ఇతర రాణుల కుమారులు ఇచ్చే దానాల పంపిణీతోనూ కొందరు అధికారులను నియమించాను; ఇది ధర్మానికి చెందిన గొప్ప పనులనూ ధర్మాచరణనూ పెంపొందిస్తుంది.
+> (EE) కరుణ, దాతృత్వం, నిజాయితీ, స్వచ్ఛత, మృదుత్వం, మంచితనం ప్రజల్లో పెరగడమే గొప్ప ధర్మపనులు, ధర్మాచరణ.
+> (FF) దేవానాంప్రియ ప్రియదర్శి రాజు ఇలా చెబుతున్నాడు.
+> (GG) నేను చేసిన మంచి పనులను ప్రజలు అనుకరించి వాటి ప్రకారం నడుచుకుంటున్నారు.
+> (HH) దానివల్ల వారు తల్లిదండ్రులకు, పెద్దలకు విధేయతలో, వృద్ధులకు, బ్రాహ్మణులు, శ్రమణులు, నిరుపేదలు, కష్టాల్లో ఉన్నవారు, బానిసలు, సేవకుల పట్ల మర్యాదలో పురోగమించారు; ఇంకా పురోగమిస్తారు.
+> (II) దేవానాంప్రియ ప్రియదర్శి రాజు ఇలా చెబుతున్నాడు.
+> (JJ) ప్రజల్లో ఈ ధర్మ పురోగతిని నేను రెండు మార్గాల్లో ప్రోత్సహించాను: నైతిక ఆంక్షల ద్వారా, మనోమార్పు ద్వారా.
+> (KK) వీటిలో నైతిక ఆంక్షల ప్రభావం తక్కువ; మనోమార్పు ద్వారా ధర్మం మరింతగా పెరుగుతుంది.
+> (LL) కొన్ని జంతువులను చంపరాదని నేను ఆదేశించడం నైతిక ఆంక్షకు ఒక ఉదాహరణ.
+> (MM) ఇంకా అనేక నైతిక ఆంక్షలు కూడా విధించాను.
+> (NN) అయితే మనోమార్పు వల్ల జీవులకు హాని చేయకుండా, జంతువులను చంపకుండా ఉండటం ద్వారా ప్రజల్లో ధర్మం మరింతగా పెరిగింది.
+> (OO) నా కుమారులు, మునిమనుమలు పాలించేంతకాలం, సూర్యచంద్రులు వెలిగేంతకాలం ఇది నిలిచి ప్రజలు దీనిని అనుసరించాలని ఈ ఆజ్ఞ ఇచ్చాను.
+> (PP) దీనిని అనుసరిస్తే ఈ లోకంలోనూ పరలోకంలోనూ సుఖం లభిస్తుంది.
+> (QQ) నాకు పట్టాభిషేకం జరిగి ఇరవై ఏడేళ్లయినప్పుడు ఈ ధర్మశాసనాన్ని రాయించాను.
+> (RR) ఈ విషయం గురించి దేవానాంప్రియుడు చెబుతున్నాడు.
+> (SS) ఇది చిరకాలం నిలవడానికి రాతి స్తంభాలు లేదా రాతి పలకలు ఉన్నచోట ఈ ధర్మశాసనాన్ని చెక్కించాలి.
+
+## మూలాలు
+
+- E. Hultzsch, [*Inscriptions of Asoka* (1925)](https://archive.org/details/InscriptionsOfAsoka.NewEditionByE.Hultzsch), *Corpus Inscriptionum Indicarum*, సంపుటం I.
+
+- [బిబ్లియోథెకా పాలిగ్లాటా సంచిక](https://www2.hf.uio.no/polyglotta/index.php?mid=0&page=fulltext&vid=370&view=fulltext), ఓస్లో విశ్వవిద్యాలయం (మాగధీ లిప్యంతరీకరణ, ఆంగ్ల అనువాదం, శాసన ప్రతిరూపాలు).

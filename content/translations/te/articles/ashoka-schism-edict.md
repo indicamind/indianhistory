@@ -1,0 +1,54 @@
+---
+title: "సంఘభేద శాసనం: బౌద్ధ సంఘ ఐక్యత"
+slug: ashoka-schism-edict
+previewOnly: true
+excerpt: "బౌద్ధ సంఘాన్ని చీల్చే భిక్షువు లేదా భిక్షుణిపై చర్య తీసుకోవాలని అశోకుడు అధికారులను ఆదేశిస్తాడు."
+publishedAt: 2026-10-16T00:00:00.000Z
+updatedAt: 2026-10-16T00:00:00.000Z
+period: mauryan
+polity: maurya
+personalities: [ashoka]
+relatedTo: ashoka-edicts
+tags: ["అశోకుడు","శాసనాలు","చిన్న స్తంభశాసనం"]
+themes: []
+books: []
+sourceHash: 14bc2aa219f9dd451224a299e9098bed21aaf1e646c0ed0ce2c560663702661b
+---
+
+## ఈ శాసనం గురించి
+
+ఈ చిన్న స్తంభశాసనం ప్రతులు సారనాథ్, సాంచీ, కౌశాంబీలలో లభించాయి. ఇక్కడ ఉపయోగించిన తులనాత్మకంగా పూర్తిగా ఉన్న సారనాథ్ పాఠం, ఆజ్ఞను సంఘంలోని భిక్షు, భిక్షుణులకూ గృహస్థ అనుచరులకూ తెలియజేయాలని చెబుతుంది.
+
+## మూల లిపి
+
+<figure class="article-figure inscription-plate">
+  <img src="/assets/media/images/ashoka-plate-1405684950.jpg" alt="హుల్ట్ష్ 1925 సంచికలోని సారనాథ్ బ్రాహ్మీ శాసన ప్రతిరూపం" loading="lazy" decoding="async" />
+  <figcaption>సారనాథ్ శాసన ప్రతిరూపం. ఇ. హుల్ట్ష్, <em>Inscriptions of Asoka</em> (1925), ప్రజా వినియోగంలో ఉంది.</figcaption>
+</figure>
+
+## రోమన్ లిప్యంతరీకరణ
+
+క్రింది పాఠం హుల్ట్ష్ సంచికలోని సారనాథ్ పాఠాన్ని అనుసరిస్తుంది. చతురస్ర కుండలీకరణలు పునర్నిర్మించిన లేదా అనిశ్చిత అక్షరాలను సూచిస్తాయి; చుక్కలు దెబ్బతిన్న లేదా లేని పాఠాన్ని సూచిస్తాయి. మిగిలిన ప్రతులు భిన్నంగా ఉండవచ్చు.
+
+<p class="inscription-transliteration" lang="pra-Latn">(A) 1 Devā .......... 2 e l .......... (B) .......... Pāṭa .......... (C) ye kenapi saṃghe bhetave ... ... (D) e cuṃ kho [bhikh]ū [va bhikh]uni vā saṃghaṃ bh[ākha]t[i] s[e] odātāni dus[ān]i [sa]ṃnaṃdhāpayiyā ānāvāsasi āvāsayiye (E) hevaṃ iyaṃ sāsane bhikhu-saṃghasi ca bhikhuni-saṃghasi ca viṃnapayitaviye (F) hevaṃ Devānaṃpiye āhā (G) hedisā ca ikā lipī tuphākaṃtikaṃ huvāti saṃsalanasi nikhitā ikaṃ ca lipiṃ hedisameva upāsakānaṃtikaṃ nikhipātha (H) te pi ca upāsakā anuposathaṃ yāvu etameva sāsanaṃ visvaṃsayitave anuposathaṃ ca dhuvāye ikike mahāmāte posathāye 9 yāti etameva sāsanaṃ visvaṃsayitave ājānitave ca (I) āvate ca tuphākaṃ āhāle 10 savata vivāsayātha tuphe etena viyaṃjanena (J) hemeva savesu koṭapviṣavesu etena 11 viyaṃjanena vivāsāpayāthā</p>
+
+## తెలుగు అనువాదం
+
+ఈ తెలుగు అనువాదం క్రింద పేర్కొన్న సంచికలోని ఆంగ్ల అనువాదంపై ఆధారపడింది. దెబ్బతిన్న లేదా అనిశ్చిత భాగాలు ఆ చారిత్రక సంచికలో ఉన్నట్టే సూచించబడ్డాయి.
+
+> (A) దేవా[నాంప్రియ] ..........
+> (B) .......... పాట[లీపుత్ర] ..........
+> (C) ..... సంఘాన్ని ఎవ్వరూ [విభజించకూడదు]. ... ...
+> (D) సంఘాన్ని చీల్చే భిక్షువు లేదా భిక్షుణి తెల్లని వస్త్రాలు ధరించి, సంఘ నివాసం కాని చోట నివసించేలా చేయాలి.
+> (E) ఈ ఆజ్ఞను భిక్షువుల సంఘానికీ భిక్షుణుల సంఘానికీ అందజేయాలి.
+> (F) దేవానాంప్రియుడు ఇలా చెబుతున్నాడు:
+> (G) ఈ ఆజ్ఞ ఒక ప్రతిని మీ కార్యాలయంలో ఉంచండి; మరొక ప్రతిని గృహస్థ ఉపాసకుల వద్ద ఉంచండి.
+> (H) ఆ గృహస్థ ఉపాసకులు ప్రతి ఉపోసథ దినాన వచ్చి ఈ ఆజ్ఞపై విశ్వాసం పొందవచ్చు; ప్రతి మహామాత్రుడు కూడా ప్రతి ఉపోసథ దినాన వచ్చి దీనిని తెలుసుకొని విశ్వాసం పొందాలి.
+> (I) మీ జిల్లా పరిధి అంతటా ఈ ఆజ్ఞ ప్రకారం అధికారిని పంపండి.
+> (J) అలాగే కోటల చుట్టుపక్కల ప్రాంతాలన్నిటికీ ఈ ఆజ్ఞ ప్రకారం అధికారిని పంపేలా మీ కిందివారిని ఆదేశించండి.
+
+## మూలాలు
+
+- E. Hultzsch, [*Inscriptions of Asoka* (1925)](https://archive.org/details/InscriptionsOfAsoka.NewEditionByE.Hultzsch), *Corpus Inscriptionum Indicarum*, సంపుటం I.
+
+- [బిబ్లియోథెకా పాలిగ్లాటా సంచిక](https://www2.hf.uio.no/polyglotta/index.php?mid=0&page=fulltext&vid=377&view=fulltext), ఓస్లో విశ్వవిద్యాలయం (మాగధీ లిప్యంతరీకరణ, ఆంగ్ల అనువాదం, శాసన ప్రతిరూపాలు).

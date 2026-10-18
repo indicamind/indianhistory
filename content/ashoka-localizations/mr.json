@@ -3,13 +3,48 @@
     "About this edict": "या शिलालेखाविषयी",
     "About this inscription": "या अभिलेखाविषयी",
     "Original script": "मूळ लिपी",
+    "Original scripts": "मूळ लिप्या",
     "Roman transliteration": "रोमन लिप्यंतरण",
     "localTranslationHeading": "मराठी अनुवाद",
+    "English translation of the Greek": "ग्रीक मजकुराचा मराठी अनुवाद",
+    "English translation of the Aramaic": "अरामाई मजकुराचा मराठी अनुवाद",
+    "Greek": "ग्रीक",
+    "Aramaic": "अरामाई",
     "Sources": "स्रोत",
     "volumeOne": "खंड १",
     "polyglottaEdition": "बिब्लिओथेका पॉलिग्लॉटा आवृत्ती",
     "universityOfOslo": "ओस्लो विद्यापीठ",
-    "translationBasisNote": "हा अनुवाद गिरनारच्या पाठासाठी ई. हल्ट्श यांनी १९२५ मध्ये केलेल्या इंग्रजी अनुवादावर आधारित आहे. त्यातील शब्दप्रयोग त्या ऐतिहासिक आवृत्तीचे अनुसरण करतात."
+    "translationBasisNote": "हा मराठी अनुवाद खाली उद्धृत केलेल्या आवृत्तीतील इंग्रजी अनुवादावर आधारित आहे. खराब झालेले किंवा अनिश्चित भाग त्या ऐतिहासिक आवृत्तीनुसार दर्शवले आहेत.",
+    "sourceNote": "प्राकृत लिप्यंतरण, इंग्रजी अनुवाद आणि अभिलेखांच्या प्रतिकृती",
+    "siteNames": {
+      "Bairat": "बैराट",
+      "Lumbini": "लुंबिनी",
+      "Delhi–Topra": "दिल्ली–तोपरा",
+      "Girnar": "गिरनार",
+      "Kalsi": "कालसी",
+      "Rūpnāth": "रूपनाथ",
+      "Brahmagiri": "ब्रह्मगिरी",
+      "Nigali Sagar": "निगली सागर",
+      "Allahabad–Kauśāmbī": "अलाहाबाद–कौशांबी",
+      "Sarnath": "सारनाथ",
+      "Dhauli": "धौली"
+    },
+    "siteAltTemplate": "हल्ट्श यांच्या १९२५ च्या आवृत्तीतील {site} येथील ब्राह्मी अभिलेखाची प्रतिकृती",
+    "siteCaptionTemplate": "{site} अभिलेखाची प्रतिकृती. ई. हल्ट्श, <em>Inscriptions of Asoka</em> (1925), सार्वजनिक मालकीत.",
+    "siteTransliterationTemplate": "खालील मजकूर हल्ट्श यांच्या आवृत्तीतील {site} येथील पाठानुसार आहे. चौकोनी कंस पुनर्रचित किंवा अनिश्चित अक्षरे दर्शवतात; बिंदू खराब झालेला किंवा हरवलेला मजकूर दर्शवतात. इतर उपलब्ध प्रती वेगळ्या असू शकतात.",
+    "imageAltTranslations": {
+      "Brahmi facsimiles of the three Barabar cave inscriptions in Hultzsch’s 1925 edition; Karna Chaupar is third": "हल्ट्श यांच्या १९२५ च्या आवृत्तीतील बराबर लेण्यांच्या तीन ब्राह्मी अभिलेखांच्या प्रतिकृती; कर्ण चौपार तिसरा आहे",
+      "Brahmi facsimiles of the three Barabar cave inscriptions in Hultzsch’s 1925 edition; Sudama is first": "हल्ट्श यांच्या १९२५ च्या आवृत्तीतील बराबर लेण्यांच्या तीन ब्राह्मी अभिलेखांच्या प्रतिकृती; सुदामा पहिला आहे",
+      "Brahmi facsimiles of the three Barabar cave inscriptions in Hultzsch’s 1925 edition; Visvakarma is second": "हल्ट्श यांच्या १९२५ च्या आवृत्तीतील बराबर लेण्यांच्या तीन ब्राह्मी अभिलेखांच्या प्रतिकृती; विश्वकर्मा दुसरा आहे"
+    },
+    "imageCaptionTranslations": {
+      "Barabar cave inscription facsimiles. E. Hultzsch, <em>Inscriptions of Asoka</em> (1925), public domain.": "बराबर लेण्यांतील अभिलेखांच्या प्रतिकृती. ई. हल्ट्श, <em>Inscriptions of Asoka</em> (1925), सार्वजनिक मालकीत."
+    },
+    "transliterationNotes": {
+      "The text below follows Hultzsch’s edition of the Karna Chaupar inscription. Square brackets mark restored or uncertain letters; dots mark a missing passage.": "खालील मजकूर हल्ट्श यांच्या कर्ण चौपार अभिलेखाच्या आवृत्तीनुसार आहे. चौकोनी कंस पुनर्रचित किंवा अनिश्चित अक्षरे, तर बिंदू हरवलेला भाग दर्शवतात.",
+      "The text below follows Hultzsch’s edition of the Sudama inscription. Square brackets mark restored or uncertain letters.": "खालील मजकूर हल्ट्श यांच्या सुदामा अभिलेखाच्या आवृत्तीनुसार आहे. चौकोनी कंस पुनर्रचित किंवा अनिश्चित अक्षरे दर्शवतात.",
+      "The text below follows Hultzsch’s edition of the Visvakarma inscription. Square brackets mark restored or uncertain letters.": "खालील मजकूर हल्ट्श यांच्या विश्वकर्मा अभिलेखाच्या आवृत्तीनुसार आहे. चौकोनी कंस पुनर्रचित किंवा अनिश्चित अक्षरे दर्शवतात."
+    }
   },
   "articles": {
     "ashoka-major-rock-edict-1": {
@@ -29,7 +64,7 @@
       ],
       "transliterationNote": "खालील पाठ हल्ट्श यांच्या आवृत्तीतील गिरनारच्या पाठावर आधारित आहे. चौकोनी कंस पुनर्रचित किंवा अनिश्चित अक्षरे दर्शवतात; बिंदू खराब झालेले किंवा हरवलेले अक्षर दर्शवतात. उपलब्ध इतर प्रतींमध्ये फरक असू शकतो.",
       "translation": "> (A) राजा देवानंप्रिय प्रियदर्शी यांनी नैतिक आचरणाविषयी हा आदेश लिहवून घेतला आहे.\n> (B) येथे कोणत्याही सजीवाला मारून बळी देऊ नये.\n> (C) तसेच उत्सवाची सभा भरवू नये.\n> (D) कारण राजा देवानंप्रिय प्रियदर्शी यांना उत्सवाच्या सभांमध्ये अनेक दोष दिसतात.\n> (E) मात्र काही उत्सवाच्या सभा राजा देवानंप्रिय प्रियदर्शी यांना पुण्यकारक वाटतात.\n> (F) पूर्वी राजा देवानंप्रिय प्रियदर्शी यांच्या स्वयंपाकघरात करी बनवण्यासाठी दररोज अनेक लाख प्राणी मारले जात.\n> (G) पण आता, नैतिक आचरणाविषयी हा आदेश लिहिला जात असताना, करी बनवण्यासाठी दररोज फक्त तीन प्राणी मारले जातात: दोन मोर आणि एक हरिण; ते हरिणही नियमितपणे मारले जात नाही.\n> (H) भविष्यात हे तीन प्राणीही मारले जाणार नाहीत.",
-      "sourceNote": "मागधी लिप्यंतरण, इंग्रजी अनुवाद आणि अभिलेखांच्या प्रतिकृती"
+      "sourceNote": "प्राकृत लिप्यंतरण, इंग्रजी अनुवाद आणि अभिलेखांच्या प्रतिकृती"
     }
   }
 }

@@ -1,0 +1,51 @@
+---
+title: "बैराट लेख: बौद्ध संघाला अशोकाचा संदेश"
+slug: ashoka-bairat-edict
+previewOnly: true
+excerpt: "बुद्ध, धम्म आणि संघ यांच्याविषयीचा विश्वास व्यक्त करून राजा काही बौद्ध शिकवणी वारंवार ऐकण्याचे आवाहन करतो."
+publishedAt: 2026-10-16T00:00:00.000Z
+updatedAt: 2026-10-16T00:00:00.000Z
+period: mauryan
+polity: maurya
+personalities: [ashoka]
+relatedTo: ashoka-edicts
+tags: ["अशोक","शिलालेख","लघु शिलालेख"]
+themes: []
+books: []
+sourceHash: d1c1db7570a726315a8d628b0b902f74d87c959dcc20e4c2934c19883bb75a5e
+---
+
+## या शिलालेखाविषयी
+
+बैराट लेख हा संघाला उद्देशून दिलेला राजाचा संदेश आहे. बुद्ध, धम्म आणि संघ यांच्याविषयी आदर व्यक्त करून तो भिक्षू, भिक्षुणी आणि गृहस्थांनी काही विशिष्ट शिकवणी वारंवार ऐकाव्यात असे म्हणतो. ग्रंथांची प्राचीन नावे येथे तशीच ठेवली आहेत.
+
+## मूळ लिपी
+
+<figure class="article-figure inscription-plate">
+  <img src="/assets/media/images/ashoka-bairat-edict.jpg" alt="हल्ट्श यांच्या १९२५ च्या आवृत्तीतील बैराट येथील ब्राह्मी अभिलेखाची प्रतिकृती" loading="lazy" decoding="async" />
+  <figcaption>बैराट अभिलेखाची प्रतिकृती. ई. हल्ट्श, <em>Inscriptions of Asoka</em> (1925), सार्वजनिक मालकीत.</figcaption>
+</figure>
+
+## रोमन लिप्यंतरण
+
+खालील मजकूर हल्ट्श यांच्या आवृत्तीतील बैराट येथील पाठानुसार आहे. चौकोनी कंस पुनर्रचित किंवा अनिश्चित अक्षरे दर्शवतात; बिंदू खराब झालेला किंवा हरवलेला मजकूर दर्शवतात. इतर उपलब्ध प्रती वेगळ्या असू शकतात.
+
+<p class="inscription-transliteration" lang="pra-Latn">(A) 1 Pr[i]yadas[i] l[ā]jā Māgadhe saṃghaṃ abhivāde[tū]naṃ āhā ap[ā]bādhataṃ ca phāsu-vihālataṃ cā (B) 2 vidite v[e] bhaṃte āvatake h[a]mā Budhasi dhaṃmasi saṃghasī ti gālave caṃ prasāde ca (C) e keci bhaṃte 3 bhagavatā Budhe[na] bhāsite sarve se subhāsite vā (D) e cu kho bhamte hamiyāye diseyā hevaṃ sadhamme 4 cil[a-ṭhi]tāke hosatī ti alahāmi hakaṃ ta[ṃ] v[ā]tave (E) imāni bhaṃt[e dha]mma-paliyāyani Vinaya-samukase 5 Aliya-vasāṇi Anāgata-bhayāni Muni-gāthā Moneya-sūte Upaṭisa-pasine e cā Laghulo-6vāde musā-vādaṃ adhigicya bhagavatā Budhena bhāsite etāni bhaṃte dhaṃma-paliyāyāni ichāmi 7 kiṃti bahuke bhikhu-[p]āye cā bhikhuniye c[ā] abhikhinaṃ sun[e]yu cā upadhāl[a]yeyū cā (F) 8 hevaṃmeva upāsakā cā upāsikā cā (G) eteni bhaṃte imaṃ likhā[pa]yāmi abhipretaṃ me jānaṃtū ti.</p>
+
+## मराठी अनुवाद
+
+हा मराठी अनुवाद खाली उद्धृत केलेल्या आवृत्तीतील इंग्रजी अनुवादावर आधारित आहे. खराब झालेले किंवा अनिश्चित भाग त्या ऐतिहासिक आवृत्तीनुसार दर्शवले आहेत.
+
+> (A) मगधचा राजा प्रियदर्शी संघाला वंदन करून सर्वजण सुखरूप आणि स्वस्थ असतील अशी आशा व्यक्त करतो.
+> (B) महोदयहो, बुद्ध, धर्म आणि संघ यांच्याबद्दल मला किती मोठा आदर व विश्वास आहे, हे तुम्हाला ठाऊक आहे.
+> (C) महोदयहो, भगवंत बुद्धांनी जे काही सांगितले ते सर्व उत्तम सांगितले आहे.
+> (D) पण ‘अशा रीतीने सद्धर्म दीर्घकाळ टिकेल’ या ग्रंथवचनांशी संबंधित मला जे वाटते, ते सांगणे मी आपले कर्तव्य मानतो.
+> (E) महोदयहो, पुढील धर्मोपदेश—(१) विनय-समुकस, (२) अलिय-वासस, (३) अनागत-भयस, (४) मुनि-गाथा, (५) मोनेय-सूत, (६) उपतिस-पसिन आणि (७) असत्याविषयी भगवंत बुद्धांनी सांगितलेला लाघुलोवाद—अनेक भिक्षू व भिक्षुणींनी वारंवार ऐकावेत आणि त्यांवर चिंतन करावे, अशी माझी इच्छा आहे.
+> (F) त्याचप्रमाणे उपासक व उपासिकांनीही करावे.
+> (G) माझा हेतू त्यांना कळावा म्हणून मी हे लिहवून घेत आहे.
+
+## स्रोत
+
+- E. Hultzsch, [*Inscriptions of Asoka* (1925)](https://archive.org/details/InscriptionsOfAsoka.NewEditionByE.Hultzsch), *Corpus Inscriptionum Indicarum*, खंड १.
+
+- [बिब्लिओथेका पॉलिग्लॉटा आवृत्ती](https://www2.hf.uio.no/polyglotta/index.php?mid=0&page=fulltext&vid=383&view=fulltext), ओस्लो विद्यापीठ (प्राकृत लिप्यंतरण, इंग्रजी अनुवाद आणि अभिलेखांच्या प्रतिकृती).

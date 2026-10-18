@@ -1,0 +1,73 @@
+---
+title: "முதலாம் தனிப் பாறைக் கல்வெட்டு: கலிங்கத்தில் நீதி"
+slug: ashoka-separate-rock-edict-1
+previewOnly: true
+excerpt: "அண்மையில் வெல்லப்பட்ட கலிங்கத்தில் அதிகாரிகள் அநியாயத் தண்டனையைத் தவிர்த்து மக்களிடம் நீதியுடன் நடக்குமாறு அசோகர் கூறுகிறார்."
+publishedAt: 2026-10-16T00:00:00.000Z
+updatedAt: 2026-10-16T00:00:00.000Z
+period: mauryan
+polity: maurya
+personalities: [ashoka]
+relatedTo: ashoka-edicts
+tags: ["அசோகர்","கல்வெட்டுகள்","தனிப் பாறைக் கல்வெட்டு"]
+themes: []
+books: []
+sourceHash: cf9e79e47f2f44909e082b805d1a567a418039c67c2e2d94d12906c008071803
+---
+
+## இந்தக் கல்வெட்டைப் பற்றி
+
+தோசலியின் அதிகாரிகளுக்கான இந்தத் தனிக் கல்வெட்டு கலிங்க வெற்றிக்குப் பிறகு நடுநிலையான நீதி வழங்குவதையும் வழக்கமான ஆய்வுகளையும் வலியுறுத்துகிறது. தௌலி, ஜௌகடா வாசகங்களில் உள்ளூர் அழைப்பு வேறுபடுகிறது.
+
+## மூல எழுத்து வடிவம்
+
+<figure class="article-figure inscription-plate">
+  <img src="/assets/media/images/ashoka-plate-1405670299.jpg" alt="ஹுல்ட்ஷின் 1925 பதிப்பில் தௌலி-ஐச் சேர்ந்த பிராமி எழுத்துப் பொறிப்பின் நகல்" loading="lazy" decoding="async" />
+  <figcaption>தௌலி கல்வெட்டின் நகல். ஈ. ஹுல்ட்ஷ், <em>Inscriptions of Asoka</em> (1925), பொதுச் சொத்து.</figcaption>
+</figure>
+
+## ரோமானிய எழுத்துப் பெயர்ப்பு
+
+கீழுள்ள உரை ஹுல்ட்ஷின் பதிப்பிலுள்ள தௌலி வாசகத்தைப் பின்பற்றுகிறது. சதுர அடைப்புக்குறிகள் மீட்டுருவாக்கப்பட்ட அல்லது உறுதியற்ற எழுத்துகளைக் குறிக்கின்றன; புள்ளிகள் சேதமடைந்த அல்லது காணாமல் போன உரையைக் குறிக்கின்றன. எஞ்சியுள்ள பிற பிரதிகள் வேறுபடலாம்.
+
+<p class="inscription-transliteration" lang="pra-Latn">(A) 1 [Devāna]ṃ[pi]y[asa vaca]nena Tosaliyaṃ ma[hā]mata [naga]la[v]i[yo]hālak[ā] 2 [va]taviya (B) [aṃ kichi dakha]mi hakam taṃ ichāmi k[i]ṃ[t]i kaṃ[mana pa]ṭi[pāda y]ehaṃ 3 duvālate ca ālabheham (C) esa ca me mokhya-mata duva[la etasi aṭha]si aṃ tuph[esu] 4 anusathi (D) tuphe hi bahūsu pāna-sahasesuṃ ā[yata] p[a]na[yaṃ ga]ch[e]ma su munisānam (E) save 5 munise pajā mama (F) ath[ā] pajāye ichāmi h[a]ka[m kiṃti sa]ve[na hi]ta-sukhena hidalo[kika]6palalokike[na] y[ūjev]ū [t]i [tathā .... muni]sesu pi [i]chāmi [ha]ka[ṃ] (G) no ca pāpunātha āv[a]-ga-7[m]u[k]e [iyaṃ aṭhe] (H) [k]e[cha] v[a] eka-puli[se] .... nāti e[ta]ṃ se pi desaṃ no savaṃ (I) de[kha]t[a hi t]u[phe] etaṃ 8 suvi[hi]tā pi (J) [n]itiyaṃ eka-pulise [pi athi] y[e] baṃdhanaṃ vā p[a]likilesaṃ vā papunati (K) tata hoti 9 akasmā tena badhana[ṃ]tik[a] aṃne ca ...... hu jane da[v]iye dukhīyati (L) tata ichitaviye 10 tuphehi kiṃti m[a]jhath paṭipādayema ti (M) imeh[i] cu [jāteh]i no saṃpaṭipajati isāya āsulopena 11 ni[ṭhū]liyena tūlanā[ya] anāvūtiya ālasiyena k[i]lamathena (N) se ichitaviye kitiṃ ete 12 [jātā no] huvevu ma[m]ā ti (O) etasa ca sava[sa] mūle anāsulope a[tū]l[a]nā ca (P) niti[ya]ṃ e kilaṃte siyā 13 [na] te uga[cha] saṃcalitaviy[e] tu va[ṭ]ita[v]iy[e] etaviye vā (Q) hevaṃmeva e da[kheya] t[u]phāk[a] tena vataviye 14 ānaṃne dekhata hevaṃ ca hev[a]ṃ ca [D]evānaṃpiyasa anusathi (R) se mah[a-pha]le [e] t[a]sa [saṃpa]tipada 15 mahā-apāye asaṃpaṭipati (S) [vi]pat[i]pādayamīne hi etaṃ nathi svagasa [ā]l[a]dhi no lāj[ā]la[dh]i (T) 16 duā[ha]le hi i[ma]sa kaṃm[asa] m[e] kute man[o]-atileke (U) sa[ṃ]paṭipajam[ī]n[e] cu [etaṃ] svaga[ṃ] 17 ālādha[yi]sa[tha mama ca ā]naniyaṃ ehatha (V) 18 iyaṃ ca l[i]p[i] t[i]sana[kha]tena so[ta]viy[ā] (W) aṃta[l]ā [p]i ca [t]ī[s]e[na kha]nasi kha[nas]i ekena pi sotaviya (X) hevaṃ ca kalaṃtaṃ tuphe 19 caghatha saṃpa[ṭi]pād[a]y[i]tave (Y) [e]t[a]ye athāye 13 iya[ṃ l]i[p]i likhit[a h]ida ena 20 nagala-vi[y]o[hā]lakā sas[v]ataṃ samayaṃ yūjevū t[i] ...... [na]sa akasmā [pa]libodhe va 21 (a) k(a) smā paliki[l]e[s]e va no siya ti (Z) etāye ca aṭhāye haka[ṃ] .... mate p[a]ṃcasu paṃcasu [va]se22su [n]i[khā]may[i]sāmi e akhakhase a[caṃ]ḍ[e] s[a]khinālaṃbhe hosati etaṃ aṭhaṃ jānitu . . . . . . [ta]thā 23 kala[ṃ]ti atha mama anusathī ti (AA) Ujenite pi cu kumāle etāye v[a] aṭhāye [ni]khāma[yisa] . . . . . . 24 hedisameva vagaṃ no ca atikāmayisati tiṃni vasāni (BB) hemeva T[a]kha[s]ilāte pi (CC) [a]dā ...... 25 te mahāmātā nikhamisaṃti anusayānaṃ tadā ahāpayitu atane kaṃmaṃ etaṃ pi jānisaṃti 26 taṃ pi ta[th]ā kalaṃti lājine anusathī</p>
+
+## தமிழ் மொழிபெயர்ப்பு
+
+இந்தத் தமிழ் மொழிபெயர்ப்பு கீழே சுட்டப்பட்ட பதிப்பின் ஆங்கில மொழிபெயர்ப்பை அடிப்படையாகக் கொண்டது. சேதமடைந்த அல்லது உறுதியற்ற பகுதிகள் அந்த வரலாற்றுப் பதிப்பில் உள்ளபடி குறிக்கப்பட்டுள்ளன.
+
+> (A) தேவானாம்பிரியரின் சார்பில் தோசலியின் நகர நீதிப் பொறுப்பிலுள்ள மகாமாத்திரர்களிடம் இவ்வாறு சொல்லப்படட்டும்.
+> (B) சரி என்று நான் அறிந்ததைச் செயலாலும் பல வழிகளாலும் நிறைவேற்ற முயல்கிறேன்.
+> (C) இந்த இலக்கிற்காக உங்களுக்கு அறிவுறுத்துவதே முதன்மையான வழி எனக் கருதுகிறேன்.
+> (D) நீங்கள் ஆயிரக்கணக்கான மக்களின் பணிகளைக் கவனிக்கிறீர்கள்; அவர்களின் அன்பைப் பெற முயலுங்கள்.
+> (E) எல்லா மக்களும் என் பிள்ளைகள்.
+> (F) என் பிள்ளைகளுக்கு இம்மையிலும் மறுமையிலும் முழு நலனும் இன்பமும் வேண்டுவது போல [எல்லா] மக்களுக்கும் அதை விரும்புகிறேன்.
+> (G) இந்த என் நோக்கத்தின் முழு அளவை நீங்கள் புரிந்துகொள்ளவில்லை.
+> (H) சிலர் ஓரளவு புரிந்துகொள்கிறார்கள்; முழுமையாக அல்ல.
+> (I) உங்களுக்குப் போதிய வசதிகள் இருந்தாலும் இதற்கு மனம் செலுத்துங்கள்.
+> (J) நீதித் தீர்ப்பில் சில நேரங்களில் ஒருவர் சிறை அல்லது கடுமையான நடத்தையை அனுபவிக்கிறார்.
+> (K) தற்செயலாக அவரது சிறைத் தண்டனையை நீக்கும் ஆணை வருகிறது; ஆனால் [பல] பிறர் துன்புறுகிறார்கள்.
+> (L) அத்தகைய சூழலில் அனைவரிடமும் நடுநிலையாக நடக்க முயலுங்கள்.
+> (M) பொறாமை, கோபம், கொடுமை, அவசரம், பயிற்சியின்மை, சோம்பல், சோர்வு ஆகியவற்றால் மக்கள் இதில் தவறுகிறார்கள்.
+> (N) இந்தப் பழக்கங்கள் உங்களுக்குள் எழாமல் இருக்க முயலுங்கள்.
+> (O) எல்லாவற்றுக்கும் அடிப்படை கோபத்தைத் தவிர்ப்பதும் அவசரப்படாதிருப்பதும் ஆகும்.
+> (P) நீதிப் பணியில் சோர்ந்தவன் எழுந்து செயல்படுவதில்லை; ஆனால் சுறுசுறுப்பாக முன்னேற வேண்டும்.
+> (Q) இதற்கு மனம் செலுத்துபவன், ‘அரசரிடம் உள்ள கடனைத் தீருங்கள்; இதுவே தேவானாம்பிரியரின் ஆணை’ என்று உங்களிடம் கூறுவான்.
+> (R) இதைப் பின்பற்றினால் பெரும் பலன்; பின்பற்றாவிட்டால் பெரும் தீங்கு.
+> (S) பின்பற்றாவிட்டால் விண்ணுலகம் கிடைக்காது; அரசரும் மகிழமாட்டார்.
+> (T) கடமையை மோசமாகச் செய்தால் நான் எப்படி மகிழ்வேன்?
+> (U) ஆனால் பின்பற்றினால் விண்ணுலகமும் எனக்குள்ள கடனைத் தீர்ப்பதும் ஆகிய இரண்டும் கிடைக்கும்.
+> (V) ஒவ்வொரு திஷ்ய நட்சத்திர நாளிலும் அனைவருக்கும் இந்த ஆணை வாசித்துக் காட்டப்பட வேண்டும்.
+> (W) திஷ்ய நாள்களுக்கிடையிலுள்ள பிற நாளிலும் ஒருவர் தனியாக இதைக் கேட்கலாம்.
+> (X) இவ்வாறு செயல்பட்டால் கடமையை நிறைவேற்ற முடியும்.
+> (Y) நகர நீதியாளர்கள் [மக்களை] காரணமின்றிச் சிறையிடவோ கடுமையாக நடத்தவோ செய்யாமல் எப்போதும் முயல வேண்டும் என்பதற்காக இங்கே இந்த ஆணை எழுதப்பட்டது.
+> (Z) ஐந்தாண்டுகளுக்கு ஒருமுறை [ஒரு மகாமாத்திரரை] அனுப்புவேன்; அவர் கடுமையோ மூர்க்கமோ இல்லாமல் மென்மையாக இருப்பார். நீதியாளர்கள் என் ஆணையின்படி இந்த நோக்கத்தை நினைவில் வைத்து ..... செயல்படுகிறார்களா என்று அவர் பார்ப்பார்.
+> (AA) உஜ்ஜயினியிலுள்ள அரச குமார ஆளுநரும் இதற்காக ..... அத்தகைய ஒருவரை அனுப்பி, இரு பயணங்களுக்கிடையில் மூன்றாண்டுகளுக்கு மேல் செல்ல விடமாட்டார்.
+> (BB) தக்ஷசீலத்திலிருந்தும் அவ்வாறே அதிகாரிகள் அனுப்பப்படுவார்கள்.
+> (CC) ..... இந்த மகாமாத்திரர்கள் பயணம் செய்யும்போது தங்கள் கடமைகளைச் செய்வதோடு [நீதியாளர்கள்] அரச ஆணைப்படி இப்பணியைச் செய்கிறார்களா என்றும் பார்ப்பார்கள்.
+
+## ஆதாரங்கள்
+
+- E. Hultzsch, [*Inscriptions of Asoka* (1925)](https://archive.org/details/InscriptionsOfAsoka.NewEditionByE.Hultzsch), *Corpus Inscriptionum Indicarum*, தொகுதி I.
+
+- [பிப்லியோதேகா பாலிக்ளாட்டா பதிப்பு](https://www2.hf.uio.no/polyglotta/index.php?mid=0&page=fulltext&vid=364&view=fulltext), ஒஸ்லோ பல்கலைக்கழகம் (மாகதி எழுத்துப் பெயர்ப்பு, ஆங்கில மொழிபெயர்ப்பு மற்றும் கல்வெட்டு நகல்கள்).

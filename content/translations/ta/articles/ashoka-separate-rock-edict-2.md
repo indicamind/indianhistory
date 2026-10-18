@@ -1,0 +1,60 @@
+---
+title: "இரண்டாம் தனிப் பாறைக் கல்வெட்டு: எல்லைப்புற மக்களின் நம்பிக்கை"
+slug: ashoka-separate-rock-edict-2
+previewOnly: true
+excerpt: "எல்லைக்கு அப்பால் வாழ்வோருக்கு நம்பிக்கை அளித்து பொறுமையுடன் ஆட்சி செய்யுமாறு கலிங்க அதிகாரிகளுக்கு அசோகர் கூறுகிறார்."
+publishedAt: 2026-10-16T00:00:00.000Z
+updatedAt: 2026-10-16T00:00:00.000Z
+period: mauryan
+polity: maurya
+personalities: [ashoka]
+relatedTo: ashoka-edicts
+tags: ["அசோகர்","கல்வெட்டுகள்","தனிப் பாறைக் கல்வெட்டு"]
+themes: []
+books: []
+sourceHash: 074108640470a9f296668e9fc9d0a95fa851f23c70333689cead65fb7b63d70a
+---
+
+## இந்தக் கல்வெட்டைப் பற்றி
+
+இரண்டாம் தனிக் கல்வெட்டு இன்னும் வெல்லப்படாத அண்டை மக்களின் நம்பிக்கையைப் பெறுமாறு கூறுகிறது. தன்னை மக்களின் தந்தை என அரசர் அழைக்கிறார்; இந்தக் கூற்று நம்பத்தகுந்ததாக அமைய அதிகாரிகளையும் நம்புகிறார்.
+
+## மூல எழுத்து வடிவம்
+
+<figure class="article-figure inscription-plate">
+  <img src="/assets/media/images/ashoka-plate-1405671324.jpg" alt="ஹுல்ட்ஷின் 1925 பதிப்பில் தௌலி-ஐச் சேர்ந்த பிராமி எழுத்துப் பொறிப்பின் நகல்" loading="lazy" decoding="async" />
+  <figcaption>தௌலி கல்வெட்டின் நகல். ஈ. ஹுல்ட்ஷ், <em>Inscriptions of Asoka</em> (1925), பொதுச் சொத்து.</figcaption>
+</figure>
+
+## ரோமானிய எழுத்துப் பெயர்ப்பு
+
+கீழுள்ள உரை ஹுல்ட்ஷின் பதிப்பிலுள்ள தௌலி வாசகத்தைப் பின்பற்றுகிறது. சதுர அடைப்புக்குறிகள் மீட்டுருவாக்கப்பட்ட அல்லது உறுதியற்ற எழுத்துகளைக் குறிக்கின்றன; புள்ளிகள் சேதமடைந்த அல்லது காணாமல் போன உரையைக் குறிக்கின்றன. எஞ்சியுள்ள பிற பிரதிகள் வேறுபடலாம்.
+
+<p class="inscription-transliteration" lang="pra-Latn">(A) 1 Devānaṃpiyas[a] vacanena Tosaliyaṃ kumāle mahāmātā ca vataviya (B) aṃ kichi dakhām[i] h[akaṃ taṃ i] .......... 2 duvālate ca ālabhehaṃ (C) esa ca me mokhya-mata duvālā etasi aṭhasi aṃ tuphe[s]u .......... mama (D) ... (E) 3 ath[a] pajāye ichāmi hakaṃ ki[ṃ]ti savena hi[ta-sukhe]na hidalokikapālalokikāye yujevū ti h[e]v[aṃ] .......... (F) 4 siyā aṃtānaṃ avijitānaṃ ki-cha[ṃde] su lāja [aphesu] .. (G) ..... m[a]va icha mama aṃtesu ... i [p]ā[p]unevu te iti Devānaṃp[iy] ....... [anu]v[i]g[ina] mamāye 5 huvevū ti asvasevu ca sukhaṃmeva lahevu mamat[e] no dukha[ṃ] h[e]va[ṃ] … un[e]vū iti khamisati ne Devānaṃpiye [aph]ākā ti e cakiye khamitave mama nimitaṃ [va] ca dhaṃmaṃ calevū 6 hidaloka palaloka[ṃ] ca āladhayevū (H) etasi aṭhasi haka[ṃ] anusāsāmi tuphe ana[n]e [e]takena hakaṃ anusāsitu chaṃdaṃ cā veditu ā [hi] dhi[t]i paṭiṃñā ca mamā 7 [ajalā (I) s[e] hevaṃ kaṭu kaṃme cal[i]t[a]v[i]ye asv[āsa] ..... i [ca] tāni ena pāpunevū iti atha pitā tatha Devānaṃpiy[e] aphāka athā ca atānaṃ hevaṃ Devānaṃpiye [a]nukaṃpati aphe 8 athā ca pajā hevaṃ may[e] D[e]vānaṃpiyasa (J) se hakaṃ anusāsitu [cha]ṃda[m] c[a veditu tu]phāk[a] desāvutike hosāmi etāye aṭhāye (K) paṭibalā hi tuph[e] asvāsanāye hita-sukhāye ca [tesa] 9 hidalokika-pālalo[ki]kāye (L) hevaṃ ca kalaṃtam tuphe svagam ālādha[yi]satha mama c[a] ānaniyam ehatha (M) etāye ca aṭhāye iyaṃ lipi likhitā hida e[na ma]hāmātā svasata[ṃ sa]ma 10 yujisaṃti as[vā]s[a]nāye dhaṃma-cala[n]āye ca tes[a] aṃtānaṃ (N) iyaṃ ca lipi [anu]cātuṃmāsaṃ tisena nakhatena sotaviyā (O) kāmaṃ cu [kha]ṇas[i] khanasi aṃtalā pi tisena ekena [p]i 11 [so]taviya (P) hevaṃ kala[ṃ]taṃ [t]uphe caghatha saṃpaṭipādayitave</p>
+
+## தமிழ் மொழிபெயர்ப்பு
+
+இந்தத் தமிழ் மொழிபெயர்ப்பு கீழே சுட்டப்பட்ட பதிப்பின் ஆங்கில மொழிபெயர்ப்பை அடிப்படையாகக் கொண்டது. சேதமடைந்த அல்லது உறுதியற்ற பகுதிகள் அந்த வரலாற்றுப் பதிப்பில் உள்ளபடி குறிக்கப்பட்டுள்ளன.
+
+> (A) தேவானாம்பிரியரின் சார்பில் தோசலியின் அரச குமார ஆளுநருக்கும் மகாமாத்திரர்களுக்கும் இவ்வாறு சொல்லப்படட்டும்.
+> (B) சரி என்று நான் அறிந்ததை .......... பல வழிகளாலும் நிறைவேற்ற விரும்புகிறேன்.
+> (C) இந்த இலக்கிற்கான முதன்மை வழியாக .......... உங்களைக் கருதுகிறேன்.
+> (D) .......... என் .....
+> (E) என் பிள்ளைகளுக்கு இம்மையிலும் மறுமையிலும் முழு நலனும் இன்பமும் வேண்டுவது போலவே ..........
+> (F) எல்லைக்கு அப்பால் உள்ள இன்னும் வெல்லப்படாத மக்கள், ‘அரசர் எங்களிடம் என்ன விரும்புகிறார்?’ என்று கேட்கலாம்.
+> (G) எல்லைப்புற மக்களுக்கான என் [இந்த] விருப்பம்: தேவானாம்பிரியர் .......... என்பதை அவர்கள் அறியட்டும்; என்னைக் கண்டு அஞ்சாமல் நம்பிக்கை கொள்ளட்டும்; என்னிடமிருந்து துன்பமின்றி இன்பம் மட்டுமே பெறட்டும்; மன்னிக்கத்தக்கவற்றை தேவானாம்பிரியர் மன்னிப்பார் என்று [அறியட்டும்]; என் அழைப்பால் ஒழுக்கநெறியைப் பின்பற்றி இம்மையிலும் மறுமையிலும் இன்பம் அடையட்டும்.
+> (H) உங்களுக்கு அறிவுறுத்தி, என் உறுதியான முடிவையும் நோக்கத்தையும் அறிவித்து அவர்களிடம் உள்ள என் கடனைத் தீர்க்க விரும்புகிறேன்; அதற்காக உங்களுக்குப் போதிக்கிறேன்.
+> (I) ஆகவே கடமையைச் செய்து அவர்களிடம் நம்பிக்கை ஏற்படுத்துங்கள்; தேவானாம்பிரியர் அவர்களுக்குத் தந்தை போன்றவர், தம்மைப் போலவே அவர்களை நேசிக்கிறார், அவர்கள் அவருடைய பிள்ளைகள் போன்றவர்கள் என்பதை அவர்கள் அறியட்டும்.
+> (J) என் நோக்கத்தை உங்களுக்குத் தெரிவித்து, இதற்காக எல்லா மாகாணங்களிலும் அதிகாரிகளை வைத்திருப்பேன்.
+> (K) எல்லைப்புற மக்களின் நம்பிக்கையைப் பெற்று இம்மையிலும் மறுமையிலும் அவர்களின் நலனையும் இன்பத்தையும் உறுதி செய்ய உங்களால் முடியும்.
+> (L) இவ்வாறு செய்தால் விண்ணுலகம் அடைந்து என்னிடமுள்ள கடனைத் தீர்ப்பீர்கள்.
+> (M) மகாமாத்திரர்கள் எல்லைப்புற மக்களின் நம்பிக்கையைப் பெற்று அவர்களை ஒழுக்கநெறியில் நடத்த எப்போதும் முயல வேண்டும் என்பதற்காக இங்கே இந்த ஆணை எழுதப்பட்டது.
+> (N) நான்கு மாதங்களுக்கு ஒருமுறை திஷ்ய நட்சத்திர நாளில் அனைவருக்கும் இந்த ஆணை வாசித்துக் காட்டப்பட வேண்டும்.
+> (O) விரும்பினால் திஷ்ய நாள்களுக்கிடையிலுள்ள பிற நாளிலும் ஒருவர் தனியாக இதைக் கேட்கலாம்.
+> (P) இவ்வாறு செய்தால் என் ஆணையை நிறைவேற்ற முடியும்.
+
+## ஆதாரங்கள்
+
+- E. Hultzsch, [*Inscriptions of Asoka* (1925)](https://archive.org/details/InscriptionsOfAsoka.NewEditionByE.Hultzsch), *Corpus Inscriptionum Indicarum*, தொகுதி I.
+
+- [பிப்லியோதேகா பாலிக்ளாட்டா பதிப்பு](https://www2.hf.uio.no/polyglotta/index.php?mid=0&page=fulltext&vid=364&view=fulltext), ஒஸ்லோ பல்கலைக்கழகம் (மாகதி எழுத்துப் பெயர்ப்பு, ஆங்கில மொழிபெயர்ப்பு மற்றும் கல்வெட்டு நகல்கள்).

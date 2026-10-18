@@ -3,13 +3,48 @@
     "About this edict": "இந்தக் கல்வெட்டைப் பற்றி",
     "About this inscription": "இந்தப் பொறிப்பைப் பற்றி",
     "Original script": "மூல எழுத்து வடிவம்",
+    "Original scripts": "மூல எழுத்து வடிவங்கள்",
     "Roman transliteration": "ரோமானிய எழுத்துப் பெயர்ப்பு",
     "localTranslationHeading": "தமிழ் மொழிபெயர்ப்பு",
+    "English translation of the Greek": "கிரேக்க உரையின் தமிழ் மொழிபெயர்ப்பு",
+    "English translation of the Aramaic": "அராமிய உரையின் தமிழ் மொழிபெயர்ப்பு",
+    "Greek": "கிரேக்கம்",
+    "Aramaic": "அராமியம்",
     "Sources": "ஆதாரங்கள்",
     "volumeOne": "தொகுதி I",
     "polyglottaEdition": "பிப்லியோதேகா பாலிக்ளாட்டா பதிப்பு",
     "universityOfOslo": "ஒஸ்லோ பல்கலைக்கழகம்",
-    "translationBasisNote": "இந்த மொழிபெயர்ப்பு கிர்நார் வாசகத்திற்கு ஈ. ஹுல்ட்ஷ் 1925-இல் அளித்த ஆங்கில மொழிபெயர்ப்பை அடிப்படையாகக் கொண்டது. இதன் சொல்லாட்சி அந்த வரலாற்றுப் பதிப்பைப் பின்பற்றுகிறது."
+    "translationBasisNote": "இந்தத் தமிழ் மொழிபெயர்ப்பு கீழே சுட்டப்பட்ட பதிப்பின் ஆங்கில மொழிபெயர்ப்பை அடிப்படையாகக் கொண்டது. சேதமடைந்த அல்லது உறுதியற்ற பகுதிகள் அந்த வரலாற்றுப் பதிப்பில் உள்ளபடி குறிக்கப்பட்டுள்ளன.",
+    "sourceNote": "மாகதி எழுத்துப் பெயர்ப்பு, ஆங்கில மொழிபெயர்ப்பு மற்றும் கல்வெட்டு நகல்கள்",
+    "siteNames": {
+      "Bairat": "பைராட்",
+      "Lumbini": "லும்பினி",
+      "Delhi–Topra": "டெல்லி–தோப்ரா",
+      "Girnar": "கிர்நார்",
+      "Kalsi": "கால்சி",
+      "Rūpnāth": "ரூப்நாத்",
+      "Brahmagiri": "பிரம்மகிரி",
+      "Nigali Sagar": "நிகலி சாகர்",
+      "Allahabad–Kauśāmbī": "அலகாபாத்–கௌசாம்பி",
+      "Sarnath": "சார்நாத்",
+      "Dhauli": "தௌலி"
+    },
+    "siteAltTemplate": "ஹுல்ட்ஷின் 1925 பதிப்பில் {site}-ஐச் சேர்ந்த பிராமி எழுத்துப் பொறிப்பின் நகல்",
+    "siteCaptionTemplate": "{site} கல்வெட்டின் நகல். ஈ. ஹுல்ட்ஷ், <em>Inscriptions of Asoka</em> (1925), பொதுச் சொத்து.",
+    "siteTransliterationTemplate": "கீழுள்ள உரை ஹுல்ட்ஷின் பதிப்பிலுள்ள {site} வாசகத்தைப் பின்பற்றுகிறது. சதுர அடைப்புக்குறிகள் மீட்டுருவாக்கப்பட்ட அல்லது உறுதியற்ற எழுத்துகளைக் குறிக்கின்றன; புள்ளிகள் சேதமடைந்த அல்லது காணாமல் போன உரையைக் குறிக்கின்றன. எஞ்சியுள்ள பிற பிரதிகள் வேறுபடலாம்.",
+    "imageAltTranslations": {
+      "Brahmi facsimiles of the three Barabar cave inscriptions in Hultzsch’s 1925 edition; Karna Chaupar is third": "ஹுல்ட்ஷின் 1925 பதிப்பிலுள்ள பராபர் குகைகளின் மூன்று பிராமி கல்வெட்டு நகல்கள்; கர்ண சௌபர் மூன்றாவது",
+      "Brahmi facsimiles of the three Barabar cave inscriptions in Hultzsch’s 1925 edition; Sudama is first": "ஹுல்ட்ஷின் 1925 பதிப்பிலுள்ள பராபர் குகைகளின் மூன்று பிராமி கல்வெட்டு நகல்கள்; சுதாமா முதலாவது",
+      "Brahmi facsimiles of the three Barabar cave inscriptions in Hultzsch’s 1925 edition; Visvakarma is second": "ஹுல்ட்ஷின் 1925 பதிப்பிலுள்ள பராபர் குகைகளின் மூன்று பிராமி கல்வெட்டு நகல்கள்; விசுவகர்மா இரண்டாவது"
+    },
+    "imageCaptionTranslations": {
+      "Barabar cave inscription facsimiles. E. Hultzsch, <em>Inscriptions of Asoka</em> (1925), public domain.": "பராபர் குகைக் கல்வெட்டுகளின் நகல்கள். ஈ. ஹுல்ட்ஷ், <em>Inscriptions of Asoka</em> (1925), பொதுச் சொத்து."
+    },
+    "transliterationNotes": {
+      "The text below follows Hultzsch’s edition of the Karna Chaupar inscription. Square brackets mark restored or uncertain letters; dots mark a missing passage.": "கீழுள்ள உரை ஹுல்ட்ஷின் கர்ண சௌபர் கல்வெட்டுப் பதிப்பைப் பின்பற்றுகிறது. சதுர அடைப்புக்குறிகள் மீட்டுருவாக்கப்பட்ட அல்லது உறுதியற்ற எழுத்துகளையும் புள்ளிகள் காணாமற்போன பகுதியையும் குறிக்கின்றன.",
+      "The text below follows Hultzsch’s edition of the Sudama inscription. Square brackets mark restored or uncertain letters.": "கீழுள்ள உரை ஹுல்ட்ஷின் சுதாமா கல்வெட்டுப் பதிப்பைப் பின்பற்றுகிறது. சதுர அடைப்புக்குறிகள் மீட்டுருவாக்கப்பட்ட அல்லது உறுதியற்ற எழுத்துகளைக் குறிக்கின்றன.",
+      "The text below follows Hultzsch’s edition of the Visvakarma inscription. Square brackets mark restored or uncertain letters.": "கீழுள்ள உரை ஹுல்ட்ஷின் விசுவகர்மா கல்வெட்டுப் பதிப்பைப் பின்பற்றுகிறது. சதுர அடைப்புக்குறிகள் மீட்டுருவாக்கப்பட்ட அல்லது உறுதியற்ற எழுத்துகளைக் குறிக்கின்றன."
+    }
   },
   "articles": {
     "ashoka-major-rock-edict-1": {

@@ -1,0 +1,58 @@
+---
+title: "ಪ್ರಮುಖ ಶಿಲಾಶಾಸನ ೯: ವಿಧಿಗಳು ಮತ್ತು ನೈತಿಕ ಆಚರಣೆ"
+slug: ashoka-major-rock-edict-9
+previewOnly: true
+excerpt: "ರಾಜನು ರೂಢಿಯ ವಿಧಿಗಳನ್ನು ಪ್ರಶ್ನಿಸಿ, ಧಮ್ಮವನ್ನು ನಿರಂತರವಾಗಿ ಆಚರಿಸಲು ಶಿಫಾರಸು ಮಾಡುತ್ತಾನೆ."
+publishedAt: 2026-10-16T00:00:00.000Z
+updatedAt: 2026-10-16T00:00:00.000Z
+period: mauryan
+polity: maurya
+personalities: [ashoka]
+relatedTo: ashoka-edicts
+tags: ["ಅಶೋಕ","ಶಾಸನಗಳು","ಪ್ರಮುಖ ಶಿಲಾಶಾಸನ"]
+themes: []
+books: []
+sourceHash: 645f0aba46822ec73817fbbb0e3d25e607171825ea2945e64f4f0032b932b1b9
+---
+
+## ಈ ಶಾಸನದ ಕುರಿತು
+
+ಈ ಶಾಸನವು ಅನಾರೋಗ್ಯ, ಮದುವೆ, ಜನನ ಮತ್ತು ಪ್ರಯಾಣದ ಸಂದರ್ಭಗಳ ವಿಧಿಗಳನ್ನು ಚರ್ಚಿಸುತ್ತದೆ. ಸೇವಕರು, ಗುರುಹಿರಿಯರು ಮತ್ತು ಜೀವಿಗಳ ಕಡೆಗಿನ ನಡವಳಿಕೆಯು ಸಂದರ್ಭಕ್ಕೊಮ್ಮೆ ಮಾಡುವ ವಿಧಿಗಳಿಗಿಂತ ಹೆಚ್ಚು ಶಾಶ್ವತವಾದ ಆಚರಣೆ ಎನ್ನುತ್ತದೆ.
+
+## ಮೂಲ ಲಿಪಿ
+
+<figure class="article-figure inscription-plate">
+  <img src="/assets/media/images/ashoka-plate-1405552832.jpg" alt="ಹುಲ್ಟ್ಶ್ ಅವರ 1925ರ ಆವೃತ್ತಿಯಲ್ಲಿರುವ ಕಾಲ್ಸಿ ಬ್ರಾಹ್ಮೀ ಶಾಸನದ ಪ್ರತಿಕೃತಿ" loading="lazy" decoding="async" />
+  <figcaption>ಕಾಲ್ಸಿ ಶಾಸನದ ಪ್ರತಿಕೃತಿ. ಇ. ಹುಲ್ಟ್ಶ್, <em>Inscriptions of Asoka</em> (1925), ಸಾರ್ವಜನಿಕ ಸ್ವತ್ತು.</figcaption>
+</figure>
+
+## ರೋಮನ್ ಲಿಪ್ಯಂತರ
+
+ಕೆಳಗಿನ ಪಾಠವು ಹುಲ್ಟ್ಶ್ ಅವರ ಆವೃತ್ತಿಯ ಕಾಲ್ಸಿ ಪ್ರತಿಯನ್ನು ಅನುಸರಿಸುತ್ತದೆ. ಚೌಕಕಂಸಗಳು ಪುನಃಸ್ಥಾಪಿಸಿದ ಅಥವಾ ಅನಿಶ್ಚಿತ ಅಕ್ಷರಗಳನ್ನು ಸೂಚಿಸುತ್ತವೆ; ಚುಕ್ಕೆಗಳು ಹಾನಿಗೊಂಡ ಅಥವಾ ಕಾಣೆಯಾದ ಪಾಠವನ್ನು ಸೂಚಿಸುತ್ತವೆ. ಉಳಿದಿರುವ ಇತರ ಪ್ರತಿಗಳು ಭಿನ್ನವಾಗಿರಬಹುದು.
+
+<p class="inscription-transliteration" lang="pra-Latn">(A) 24 Devānaṃpiye Piy[a]da[s]i lā[jā] āhā (B) jan[e] uc[āv]ucaṃ maṃgalaṃ ka[l]eti ābādhasi av[āha]si vivāhasi pajopadāne pavāsasi e[tā]ye aṃnaye cā edisāye jane bahu magala[ṃ] k[a]leti (C) heta [eh]u abaka-jani[yo] bahu ca bahuvidhaṃ ca khuda [eh]a nilathiya 2 ca magalaṃ ka[la]ṃti (D) 25 se katavi ceva kho maṃgale (E) apa-phale [c]u kho [e]s[e] (F) [i]yaṃ cu kho mah[ā]ph[a]le ye dhaṃma-magale (G) he[tā] iyaṃ dāsa-bhaṭakasi s[a]myāpaṭip[a]ti gulunā apaciti [p]ā[n]ān[aṃ] saṃyame s[a]man[a]-baṃbhanānaṃ dāne ese aṃne cā heḍise dhaṃma-magale nāmā (H) se vata[v]iye pitinā pi putena pi bh[ā]tinā pi suvāmiken[a] pi mita-saṃthuten[ā] ava paṭivesiyenā [p]i 26 iyaṃ sādhu iyaṃ kataviye [ma]g[a]le āva [ta]sā athasā ni[v]utiyā imaṃ kachāmi ti (I) e hi i[ta]le magale sa[ṃ]sayikye se (J) siya vā taṃ aṭhaṃ nivatey[ā] siyā punā no (K) hi[da]lokike cev(a] se (L) iyaṃ punā dhaṃma-magale akāliky[e] (M) haṃce pi taṃ aṭhaṃ no niṭeti hida aṭhaṃ palata anaṃtaṃ punā pavasati (N) haṃce puna taṃ aṭhaṃ nivateti hidā tato ubhaye[sa]ṃ ladhe hoti hida cā se aṭhe palata cā anaṃtaṃ punā pasavati tenā dhaṃmamagalen[ā]</p>
+
+## ಕನ್ನಡ ಅನುವಾದ
+
+ಈ ಕನ್ನಡ ಅನುವಾದವು ಕೆಳಗೆ ಉಲ್ಲೇಖಿಸಿದ ಆವೃತ್ತಿಯ ಇಂಗ್ಲಿಷ್ ಅನುವಾದವನ್ನು ಆಧರಿಸಿದೆ. ಹಾನಿಗೊಂಡ ಅಥವಾ ಅನಿಶ್ಚಿತ ಭಾಗಗಳನ್ನು ಆ ಐತಿಹಾಸಿಕ ಆವೃತ್ತಿಯಂತೆ ಗುರುತಿಸಲಾಗಿದೆ.
+
+> (A) ದೇವಾನಾಂಪ್ರಿಯ ಪ್ರಿಯದರ್ಶಿ ರಾಜನು ಹೀಗೆ ಹೇಳುತ್ತಾನೆ.
+> (B) ಅನಾರೋಗ್ಯದ ವೇಳೆ, ಮಗ ಅಥವಾ ಮಗಳ ಮದುವೆಯಲ್ಲಿ, ಮಗುವಿನ ಜನನದಲ್ಲಿ ಮತ್ತು ಪ್ರಯಾಣಕ್ಕೆ ಹೊರಡುವಾಗ ಜನರು ವಿವಿಧ ವಿಧಿಗಳನ್ನು ನಡೆಸುತ್ತಾರೆ; ಇಂತಹ ಇತರ ಸಂದರ್ಭಗಳಲ್ಲಿಯೂ ಅನೇಕ ಆಚರಣೆಗಳನ್ನು ಮಾಡುತ್ತಾರೆ.
+> (C) ಇಂತಹ ಸಂದರ್ಭಗಳಲ್ಲಿ ತಾಯಂದಿರು ಮತ್ತು ಹೆಂಡತಿಯರು ಅನೇಕ ಬಗೆಯ ಕೀಳುಮಟ್ಟದ, ನಿರರ್ಥಕ ವಿಧಿಗಳನ್ನು ಮಾಡುತ್ತಾರೆ.
+> (D) ವಿಧಿಗಳನ್ನು ಖಂಡಿತವಾಗಿಯೂ ಆಚರಿಸಬೇಕು.
+> (E) ಆದರೆ ಇವುಗಳ ಫಲ ಬಹಳ ಕಡಿಮೆ.
+> (F) ಧಮ್ಮದ ಆಚರಣೆ ಬಹಳ ಫಲ ನೀಡುತ್ತದೆ.
+> (G) ದಾಸರು ಮತ್ತು ಸೇವಕರಿಗೆ ಸರಿಯಾದ ಸೌಜನ್ಯ, ಹಿರಿಯರಿಗೆ ಗೌರವ, ಪ್ರಾಣಿಗಳಿಗೆ ಸೌಮ್ಯತೆ, ಶ್ರಮಣರು ಮತ್ತು ಬ್ರಾಹ್ಮಣರಿಗೆ ಉದಾರತೆ ಇವು ಅದರಲ್ಲಿ ಸೇರಿವೆ; ಇಂಥ ಗುಣಗಳನ್ನು ಧಮ್ಮದ ಆಚರಣೆ ಎನ್ನುತ್ತಾರೆ.
+> (H) ಆದ್ದರಿಂದ ತಂದೆ, ಮಗ, ಸಹೋದರ, ಯಜಮಾನ, ಸ್ನೇಹಿತ, ಪರಿಚಿತ ಅಥವಾ ನೆರೆಹೊರೆಯವನೂ ‘ಇದು ಪುಣ್ಯಕರ; ಬಯಸಿದ ಗುರಿ ಸಿಗುವವರೆಗೂ ಇದನ್ನು ಪಾಲಿಸಬೇಕು; ನಾನು ಪಾಲಿಸುತ್ತೇನೆ’ ಎಂದು ಹೇಳಬೇಕು.
+> (I) ಇತರ ವಿಧಿಗಳ ಫಲ ಅನಿಶ್ಚಿತ.
+> (J) ಅವುಗಳಿಂದ ಗುರಿ ಸಿಗಬಹುದು ಅಥವಾ ಸಿಗದಿರಬಹುದು.
+> (K) ಅವುಗಳ ಫಲ ಈ ಲೋಕಕ್ಕೆ ಮಾತ್ರ ಸೀಮಿತ.
+> (L) ಆದರೆ ಧಮ್ಮದ ಆಚರಣೆಗೆ ಕಾಲದ ಮಿತಿಯಿಲ್ಲ.
+> (M) ಅದರಿಂದ ಈ ಲೋಕದಲ್ಲಿ ಗುರಿ ಸಿಗದಿದ್ದರೂ ಪರಲೋಕದಲ್ಲಿ ಅಂತ್ಯವಿಲ್ಲದ ಪುಣ್ಯ ಉಂಟಾಗುತ್ತದೆ.
+> (N) ಈ ಲೋಕದಲ್ಲಿ ಗುರಿ ಸಿಕ್ಕರೆ ಎರಡು ಫಲಗಳೂ ದೊರೆಯುತ್ತವೆ: ಇಲ್ಲಿ ಬಯಸಿದ ಗುರಿ ಸಿಗುತ್ತದೆ ಮತ್ತು ಧಮ್ಮದ ಆಚರಣೆಯಿಂದ ಪರಲೋಕದಲ್ಲಿ ಅಂತ್ಯವಿಲ್ಲದ ಪುಣ್ಯ ಉಂಟಾಗುತ್ತದೆ.
+
+## ಮೂಲಗಳು
+
+- E. Hultzsch, [*Inscriptions of Asoka* (1925)](https://archive.org/details/InscriptionsOfAsoka.NewEditionByE.Hultzsch), *Corpus Inscriptionum Indicarum*, ಸಂಪುಟ I.
+
+- [ಬಿಬ್ಲಿಯೊಥೆಕಾ ಪಾಲಿಗ್ಲೊಟ್ಟಾ ಆವೃತ್ತಿ](https://www2.hf.uio.no/polyglotta/index.php?mid=0&page=fulltext&vid=362&view=fulltext), ಒಸ್ಲೊ ವಿಶ್ವವಿದ್ಯಾಲಯ (ಪ್ರಾಕೃತದ ರೋಮನ್ ಲಿಪ್ಯಂತರ, ಇಂಗ್ಲಿಷ್ ಅನುವಾದ ಮತ್ತು ಶಾಸನಗಳ ಪ್ರತಿಕೃತಿಗಳು).

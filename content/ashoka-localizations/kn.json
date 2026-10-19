@@ -3,13 +3,38 @@
     "About this edict": "ಈ ಶಾಸನದ ಕುರಿತು",
     "About this inscription": "ಈ ಶಿಲಾಲೇಖದ ಕುರಿತು",
     "Original script": "ಮೂಲ ಲಿಪಿ",
+    "Original scripts": "ಮೂಲ ಲಿಪಿಗಳು",
     "Roman transliteration": "ರೋಮನ್ ಲಿಪ್ಯಂತರ",
     "localTranslationHeading": "ಕನ್ನಡ ಅನುವಾದ",
+    "English translation of the Greek": "ಗ್ರೀಕ್ ಪಾಠದ ಕನ್ನಡ ಅನುವಾದ",
+    "English translation of the Aramaic": "ಅರಾಮಿಕ್ ಪಾಠದ ಕನ್ನಡ ಅನುವಾದ",
+    "Greek": "ಗ್ರೀಕ್",
+    "Aramaic": "ಅರಾಮಿಕ್",
     "Sources": "ಮೂಲಗಳು",
     "volumeOne": "ಸಂಪುಟ I",
     "polyglottaEdition": "ಬಿಬ್ಲಿಯೊಥೆಕಾ ಪಾಲಿಗ್ಲೊಟ್ಟಾ ಆವೃತ್ತಿ",
     "universityOfOslo": "ಒಸ್ಲೊ ವಿಶ್ವವಿದ್ಯಾಲಯ",
-    "translationBasisNote": "ಈ ಅನುವಾದವು ಗಿರ್ನಾರ್ ಪಾಠದ ಇ. ಹುಲ್ಟ್ಶ್ ಅವರ 1925ರ ಇಂಗ್ಲಿಷ್ ಅನುವಾದವನ್ನು ಆಧರಿಸಿದೆ. ಇದರ ಪದಪ್ರಯೋಗ ಆ ಐತಿಹಾಸಿಕ ಆವೃತ್ತಿಯನ್ನು ಅನುಸರಿಸುತ್ತದೆ."
+    "translationBasisNote": "ಈ ಕನ್ನಡ ಅನುವಾದವು ಕೆಳಗೆ ಉಲ್ಲೇಖಿಸಿದ ಆವೃತ್ತಿಯ ಇಂಗ್ಲಿಷ್ ಅನುವಾದವನ್ನು ಆಧರಿಸಿದೆ. ಹಾನಿಗೊಂಡ ಅಥವಾ ಅನಿಶ್ಚಿತ ಭಾಗಗಳನ್ನು ಆ ಐತಿಹಾಸಿಕ ಆವೃತ್ತಿಯಂತೆ ಗುರುತಿಸಲಾಗಿದೆ.",
+    "sourceNote": "ಪ್ರಾಕೃತದ ರೋಮನ್ ಲಿಪ್ಯಂತರ, ಇಂಗ್ಲಿಷ್ ಅನುವಾದ ಮತ್ತು ಶಾಸನಗಳ ಪ್ರತಿಕೃತಿಗಳು",
+    "siteNames": {
+      "Bairat": "ಬೈರಾಟ್", "Lumbini": "ಲುಂಬಿನಿ", "Delhi–Topra": "ದೆಹಲಿ–ಟೋಪ್ರಾ", "Girnar": "ಗಿರ್ನಾರ್", "Kalsi": "ಕಾಲ್ಸಿ", "Rūpnāth": "ರೂಪನಾಥ್", "Brahmagiri": "ಬ್ರಹ್ಮಗಿರಿ", "Nigali Sagar": "ನಿಗಲಿ ಸಾಗರ್", "Allahabad–Kauśāmbī": "ಅಲಹಾಬಾದ್–ಕೌಶಾಂಬಿ", "Sarnath": "ಸಾರನಾಥ್", "Dhauli": "ಧೌಲಿ"
+    },
+    "siteAltTemplate": "ಹುಲ್ಟ್ಶ್ ಅವರ 1925ರ ಆವೃತ್ತಿಯಲ್ಲಿರುವ {site} ಬ್ರಾಹ್ಮೀ ಶಾಸನದ ಪ್ರತಿಕೃತಿ",
+    "siteCaptionTemplate": "{site} ಶಾಸನದ ಪ್ರತಿಕೃತಿ. ಇ. ಹುಲ್ಟ್ಶ್, <em>Inscriptions of Asoka</em> (1925), ಸಾರ್ವಜನಿಕ ಸ್ವತ್ತು.",
+    "siteTransliterationTemplate": "ಕೆಳಗಿನ ಪಾಠವು ಹುಲ್ಟ್ಶ್ ಅವರ ಆವೃತ್ತಿಯ {site} ಪ್ರತಿಯನ್ನು ಅನುಸರಿಸುತ್ತದೆ. ಚೌಕಕಂಸಗಳು ಪುನಃಸ್ಥಾಪಿಸಿದ ಅಥವಾ ಅನಿಶ್ಚಿತ ಅಕ್ಷರಗಳನ್ನು ಸೂಚಿಸುತ್ತವೆ; ಚುಕ್ಕೆಗಳು ಹಾನಿಗೊಂಡ ಅಥವಾ ಕಾಣೆಯಾದ ಪಾಠವನ್ನು ಸೂಚಿಸುತ್ತವೆ. ಉಳಿದಿರುವ ಇತರ ಪ್ರತಿಗಳು ಭಿನ್ನವಾಗಿರಬಹುದು.",
+    "imageAltTranslations": {
+      "Brahmi facsimiles of the three Barabar cave inscriptions in Hultzsch’s 1925 edition; Karna Chaupar is third": "ಹುಲ್ಟ್ಶ್ ಅವರ 1925ರ ಆವೃತ್ತಿಯಲ್ಲಿ ಬರಾಬರ್ ಗುಹೆಗಳ ಮೂರು ಬ್ರಾಹ್ಮೀ ಶಾಸನಗಳ ಪ್ರತಿಕೃತಿಗಳು; ಕರ್ಣ ಚೌಪರ್ ಮೂರನೆಯದು",
+      "Brahmi facsimiles of the three Barabar cave inscriptions in Hultzsch’s 1925 edition; Sudama is first": "ಹುಲ್ಟ್ಶ್ ಅವರ 1925ರ ಆವೃತ್ತಿಯಲ್ಲಿ ಬರಾಬರ್ ಗುಹೆಗಳ ಮೂರು ಬ್ರಾಹ್ಮೀ ಶಾಸನಗಳ ಪ್ರತಿಕೃತಿಗಳು; ಸುದಾಮ ಮೊದಲನೆಯದು",
+      "Brahmi facsimiles of the three Barabar cave inscriptions in Hultzsch’s 1925 edition; Visvakarma is second": "ಹುಲ್ಟ್ಶ್ ಅವರ 1925ರ ಆವೃತ್ತಿಯಲ್ಲಿ ಬರಾಬರ್ ಗುಹೆಗಳ ಮೂರು ಬ್ರಾಹ್ಮೀ ಶಾಸನಗಳ ಪ್ರತಿಕೃತಿಗಳು; ವಿಶ್ವಕರ್ಮ ಎರಡನೆಯದು"
+    },
+    "imageCaptionTranslations": {
+      "Barabar cave inscription facsimiles. E. Hultzsch, <em>Inscriptions of Asoka</em> (1925), public domain.": "ಬರಾಬರ್ ಗುಹಾ ಶಾಸನಗಳ ಪ್ರತಿಕೃತಿಗಳು. ಇ. ಹುಲ್ಟ್ಶ್, <em>Inscriptions of Asoka</em> (1925), ಸಾರ್ವಜನಿಕ ಸ್ವತ್ತು."
+    },
+    "transliterationNotes": {
+      "The text below follows Hultzsch’s edition of the Karna Chaupar inscription. Square brackets mark restored or uncertain letters; dots mark a missing passage.": "ಕೆಳಗಿನ ಪಾಠವು ಹುಲ್ಟ್ಶ್ ಅವರ ಕರ್ಣ ಚೌಪರ್ ಶಾಸನದ ಆವೃತ್ತಿಯನ್ನು ಅನುಸರಿಸುತ್ತದೆ. ಚೌಕಕಂಸಗಳು ಪುನಃಸ್ಥಾಪಿಸಿದ ಅಥವಾ ಅನಿಶ್ಚಿತ ಅಕ್ಷರಗಳನ್ನು, ಚುಕ್ಕೆಗಳು ಕಾಣೆಯಾದ ಭಾಗವನ್ನು ಸೂಚಿಸುತ್ತವೆ.",
+      "The text below follows Hultzsch’s edition of the Sudama inscription. Square brackets mark restored or uncertain letters.": "ಕೆಳಗಿನ ಪಾಠವು ಹುಲ್ಟ್ಶ್ ಅವರ ಸುದಾಮ ಶಾಸನದ ಆವೃತ್ತಿಯನ್ನು ಅನುಸರಿಸುತ್ತದೆ. ಚೌಕಕಂಸಗಳು ಪುನಃಸ್ಥಾಪಿಸಿದ ಅಥವಾ ಅನಿಶ್ಚಿತ ಅಕ್ಷರಗಳನ್ನು ಸೂಚಿಸುತ್ತವೆ.",
+      "The text below follows Hultzsch’s edition of the Visvakarma inscription. Square brackets mark restored or uncertain letters.": "ಕೆಳಗಿನ ಪಾಠವು ಹುಲ್ಟ್ಶ್ ಅವರ ವಿಶ್ವಕರ್ಮ ಶಾಸನದ ಆವೃತ್ತಿಯನ್ನು ಅನುಸರಿಸುತ್ತದೆ. ಚೌಕಕಂಸಗಳು ಪುನಃಸ್ಥಾಪಿಸಿದ ಅಥವಾ ಅನಿಶ್ಚಿತ ಅಕ್ಷರಗಳನ್ನು ಸೂಚಿಸುತ್ತವೆ."
+    }
   },
   "articles": {
     "ashoka-major-rock-edict-1": {

@@ -1,0 +1,52 @@
+---
+title: "ಪ್ರಮುಖ ಸ್ತಂಭಶಾಸನ ೩: ನಿಮ್ಮ ತಪ್ಪುಗಳನ್ನು ಪರಿಶೀಲಿಸಿ"
+slug: ashoka-major-pillar-edict-3
+previewOnly: true
+excerpt: "ತಮ್ಮ ಒಳ್ಳೆಯ ಕೆಲಸಗಳ ಜೊತೆಗೆ ಕೋಪ, ಕ್ರೌರ್ಯ, ಗರ್ವ ಮತ್ತು ಅಸೂಯೆಯನ್ನೂ ಗಮನಿಸಲು ಅಶೋಕನು ಜನರನ್ನು ಒತ್ತಾಯಿಸುತ್ತಾನೆ."
+publishedAt: 2026-10-16T00:00:00.000Z
+updatedAt: 2026-10-16T00:00:00.000Z
+period: mauryan
+polity: maurya
+personalities: [ashoka]
+relatedTo: ashoka-edicts
+tags: ["ಅಶೋಕ","ಶಾಸನಗಳು","ಪ್ರಮುಖ ಸ್ತಂಭಶಾಸನ"]
+themes: []
+books: []
+sourceHash: 16cb914009c54560893fc658bf1b328a696fcdb671e8f40708690aeb73e42ea6
+---
+
+## ಈ ಶಾಸನದ ಕುರಿತು
+
+ಮೂರನೆಯ ಸ್ತಂಭಶಾಸನವು ಸಾರ್ವಜನಿಕ ದಾನದಿಂದ ವ್ಯಕ್ತಿಯ ಆತ್ಮಪರಿಶೀಲನೆಯ ಕಡೆ ಗಮನ ಹರಿಸುತ್ತದೆ. ಜನರು ತಮ್ಮ ಸದ್ಗುಣಗಳನ್ನು ನೋಡುತ್ತಾರೆ, ಆದರೆ ತಪ್ಪುಗಳನ್ನು ಕಡೆಗಣಿಸುತ್ತಾರೆ ಎಂದು ರಾಜನು ಎಚ್ಚರಿಸುತ್ತಾನೆ.
+
+## ಮೂಲ ಲಿಪಿ
+
+<figure class="article-figure inscription-plate">
+  <img src="/assets/media/images/ashoka-plate-1405674085.jpg" alt="ಹುಲ್ಟ್ಶ್ ಅವರ 1925ರ ಆವೃತ್ತಿಯಲ್ಲಿರುವ ದೆಹಲಿ–ಟೋಪ್ರಾ ಬ್ರಾಹ್ಮೀ ಶಾಸನದ ಪ್ರತಿಕೃತಿ" loading="lazy" decoding="async" />
+  <figcaption>ದೆಹಲಿ–ಟೋಪ್ರಾ ಶಾಸನದ ಪ್ರತಿಕೃತಿ. ಇ. ಹುಲ್ಟ್ಶ್, <em>Inscriptions of Asoka</em> (1925), ಸಾರ್ವಜನಿಕ ಸ್ವತ್ತು.</figcaption>
+</figure>
+
+## ರೋಮನ್ ಲಿಪ್ಯಂತರ
+
+ಕೆಳಗಿನ ಪಾಠವು ಹುಲ್ಟ್ಶ್ ಅವರ ಆವೃತ್ತಿಯ ದೆಹಲಿ–ಟೋಪ್ರಾ ಪ್ರತಿಯನ್ನು ಅನುಸರಿಸುತ್ತದೆ. ಚೌಕಕಂಸಗಳು ಪುನಃಸ್ಥಾಪಿಸಿದ ಅಥವಾ ಅನಿಶ್ಚಿತ ಅಕ್ಷರಗಳನ್ನು ಸೂಚಿಸುತ್ತವೆ; ಚುಕ್ಕೆಗಳು ಹಾನಿಗೊಂಡ ಅಥವಾ ಕಾಣೆಯಾದ ಪಾಠವನ್ನು ಸೂಚಿಸುತ್ತವೆ. ಉಳಿದಿರುವ ಇತರ ಪ್ರತಿಗಳು ಭಿನ್ನವಾಗಿರಬಹುದು.
+
+<p class="inscription-transliteration" lang="pra-Latn">(A) 17 Devānaṃpiye Piyadasi lāja hevaṃ ahā (B) kayānaṃmeva dekhati iyaṃ me 18 kayāne kaṭe ti (C) no mina pāpaṃ d[e]khati iyaṃ me pāpe kaṭe ti iyaṃ vā āsinave 19 nāmā ti (D) dupaṭivekhe cu kho esā (E) hevaṃ cu kho esa dekhiye (F) imāni 20 āsinava-gāmīni nāma atha caṃḍiye niṭhūliye kodhe māne isyā 21 kālanena va hakaṃ mā palibhasayisaṃ (G) esa bāḍha dekhiye (H) iyaṃ me 22 hidatikāye iyaṃmana me pālatikāye</p>
+
+## ಕನ್ನಡ ಅನುವಾದ
+
+ಈ ಕನ್ನಡ ಅನುವಾದವು ಕೆಳಗೆ ಉಲ್ಲೇಖಿಸಿದ ಆವೃತ್ತಿಯ ಇಂಗ್ಲಿಷ್ ಅನುವಾದವನ್ನು ಆಧರಿಸಿದೆ. ಹಾನಿಗೊಂಡ ಅಥವಾ ಅನಿಶ್ಚಿತ ಭಾಗಗಳನ್ನು ಆ ಐತಿಹಾಸಿಕ ಆವೃತ್ತಿಯಂತೆ ಗುರುತಿಸಲಾಗಿದೆ.
+
+> (A) ದೇವಾನಾಂಪ್ರಿಯ ಪ್ರಿಯದರ್ಶಿ ರಾಜನು ಹೀಗೆ ಹೇಳುತ್ತಾನೆ.
+> (B) ಜನರು ‘ಈ ಸತ್ಕಾರ್ಯವನ್ನು ನಾನು ಮಾಡಿದೆ’ ಎಂದು ತಮ್ಮ ಒಳ್ಳೆಯ ಕೆಲಸಗಳನ್ನಷ್ಟೇ ನೋಡುತ್ತಾರೆ.
+> (C) ‘ಈ ಕೆಟ್ಟ ಕೆಲಸವನ್ನು ನಾನು ಮಾಡಿದೆ; ಇದನ್ನೇ ಪಾಪ ಎನ್ನುತ್ತಾರೆ’ ಎಂದು ತಮ್ಮ ತಪ್ಪುಗಳನ್ನು ನೋಡುತ್ತಲೇ ಇಲ್ಲ.
+> (D) ಇದನ್ನು ಗುರುತಿಸುವುದು ನಿಜಕ್ಕೂ ಕಷ್ಟ.
+> (E) ಆದರೆ ಹೀಗೆ ಯೋಚಿಸಬೇಕು:
+> (F) ‘ಉಗ್ರತೆ, ಕ್ರೌರ್ಯ, ಕೋಪ, ಗರ್ವ ಮತ್ತು ಅಸೂಯೆ ಪಾಪಕರ ಮನೋಭಾವಗಳು. ಇವುಗಳಿಂದ ನನ್ನನ್ನೇ ನಾಶಮಾಡಿಕೊಳ್ಳಬಾರದು.’
+> (G) ವಿಶೇಷವಾಗಿ ಇದನ್ನೂ ಗಮನಿಸಬೇಕು:
+> (H) ‘ಈ ಕಾರ್ಯದಿಂದ ಈ ಲೋಕದಲ್ಲಿ ನನಗೆ ಸುಖ, ಮತ್ತೊಂದು ಕಾರ್ಯದಿಂದ ಪರಲೋಕದಲ್ಲಿ ಸುಖ ದೊರೆಯುತ್ತದೆ.’
+
+## ಮೂಲಗಳು
+
+- E. Hultzsch, [*Inscriptions of Asoka* (1925)](https://archive.org/details/InscriptionsOfAsoka.NewEditionByE.Hultzsch), *Corpus Inscriptionum Indicarum*, ಸಂಪುಟ I.
+
+- [ಬಿಬ್ಲಿಯೊಥೆಕಾ ಪಾಲಿಗ್ಲೊಟ್ಟಾ ಆವೃತ್ತಿ](https://www2.hf.uio.no/polyglotta/index.php?mid=0&page=fulltext&vid=370&view=fulltext), ಒಸ್ಲೊ ವಿಶ್ವವಿದ್ಯಾಲಯ (ಪ್ರಾಕೃತದ ರೋಮನ್ ಲಿಪ್ಯಂತರ, ಇಂಗ್ಲಿಷ್ ಅನುವಾದ ಮತ್ತು ಶಾಸನಗಳ ಪ್ರತಿಕೃತಿಗಳು).

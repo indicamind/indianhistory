@@ -1,0 +1,50 @@
+---
+title: "ಪ್ರಮುಖ ಶಿಲಾಶಾಸನ ೮: ಧಮ್ಮಕ್ಕಾಗಿ ಪ್ರವಾಸಗಳು"
+slug: ashoka-major-rock-edict-8
+previewOnly: true
+excerpt: "ಅಶೋಕನು ರಾಜನ ವಿನೋದಯಾತ್ರೆಗಳಿಗೆ ಬದಲಾಗಿ ದಾನ, ಹಿರಿಯರ ಭೇಟಿ ಮತ್ತು ನೈತಿಕ ಚರ್ಚೆಯಿರುವ ಪ್ರವಾಸಗಳನ್ನು ನಡೆಸುತ್ತಾನೆ."
+publishedAt: 2026-10-16T00:00:00.000Z
+updatedAt: 2026-10-16T00:00:00.000Z
+period: mauryan
+polity: maurya
+personalities: [ashoka]
+relatedTo: ashoka-edicts
+tags: ["ಅಶೋಕ","ಶಾಸನಗಳು","ಪ್ರಮುಖ ಶಿಲಾಶಾಸನ"]
+themes: []
+books: []
+sourceHash: 7ae8eaacb64a395006bb0d399a20b612ad6be8a78bb6812e2024357f06dba9df
+---
+
+## ಈ ಶಾಸನದ ಕುರಿತು
+
+ಈ ಶಾಸನವು ಹಿಂದಿನ ಬೇಟೆಯಾತ್ರೆಗಳನ್ನು ಪಟ್ಟಾಭಿಷೇಕದ ಹತ್ತು ವರ್ಷಗಳ ನಂತರ ಅಶೋಕನು ಸಂಬೋಧಿಗೆ ಹೋದ ಭೇಟಿಯೊಂದಿಗೆ ಹೋಲಿಸುತ್ತದೆ. ಬಳಿಕ ದಾನ ಮತ್ತು ಧಮ್ಮದ ಚರ್ಚೆಗಳನ್ನು ಕೇಂದ್ರವಾಗಿಟ್ಟ ಪ್ರವಾಸಗಳನ್ನು ವಿವರಿಸುತ್ತದೆ.
+
+## ಮೂಲ ಲಿಪಿ
+
+<figure class="article-figure inscription-plate">
+  <img src="/assets/media/images/ashoka-plate-1405541228.jpg" alt="ಹುಲ್ಟ್ಶ್ ಅವರ 1925ರ ಆವೃತ್ತಿಯಲ್ಲಿರುವ ಗಿರ್ನಾರ್ ಬ್ರಾಹ್ಮೀ ಶಾಸನದ ಪ್ರತಿಕೃತಿ" loading="lazy" decoding="async" />
+  <figcaption>ಗಿರ್ನಾರ್ ಶಾಸನದ ಪ್ರತಿಕೃತಿ. ಇ. ಹುಲ್ಟ್ಶ್, <em>Inscriptions of Asoka</em> (1925), ಸಾರ್ವಜನಿಕ ಸ್ವತ್ತು.</figcaption>
+</figure>
+
+## ರೋಮನ್ ಲಿಪ್ಯಂತರ
+
+ಕೆಳಗಿನ ಪಾಠವು ಹುಲ್ಟ್ಶ್ ಅವರ ಆವೃತ್ತಿಯ ಗಿರ್ನಾರ್ ಪ್ರತಿಯನ್ನು ಅನುಸರಿಸುತ್ತದೆ. ಚೌಕಕಂಸಗಳು ಪುನಃಸ್ಥಾಪಿಸಿದ ಅಥವಾ ಅನಿಶ್ಚಿತ ಅಕ್ಷರಗಳನ್ನು ಸೂಚಿಸುತ್ತವೆ; ಚುಕ್ಕೆಗಳು ಹಾನಿಗೊಂಡ ಅಥವಾ ಕಾಣೆಯಾದ ಪಾಠವನ್ನು ಸೂಚಿಸುತ್ತವೆ. ಉಳಿದಿರುವ ಇತರ ಪ್ರತಿಗಳು ಭಿನ್ನವಾಗಿರಬಹುದು.
+
+<p class="inscription-transliteration" lang="pra-Latn">(A) 1 atikātaṃ aṃtaraṃ rājāno vihāra-yātāṃ ñayāsu (B) eta magavyā añāni ca etārisāni 2 abhīramakāni ahuṃsu (C) so Devānaṃpriyo Piyadasi rājā dasa-varsābhisito saṃto ayāya Saṃbodhiṃ (D) 3 tenesā dhaṃma-yātā (E) etayaṃ hoti bāmhaṇa-samaṇānaṃ dasaṇe ca dāne ca thairānaṃ dasaṇe c[a] 4 hiraṃṇa-paṭividhāno ca jānapadasa ca janasa daspanaṃ dhaṃmānus[a]sṭi ca dhama-paripuchā ca 5 tadopayā (F) esā bhuya rati bhavati Devānaṃpiyasa Priyadasino rāño bhā[g]e aṃñe</p>
+
+## ಕನ್ನಡ ಅನುವಾದ
+
+ಈ ಕನ್ನಡ ಅನುವಾದವು ಕೆಳಗೆ ಉಲ್ಲೇಖಿಸಿದ ಆವೃತ್ತಿಯ ಇಂಗ್ಲಿಷ್ ಅನುವಾದವನ್ನು ಆಧರಿಸಿದೆ. ಹಾನಿಗೊಂಡ ಅಥವಾ ಅನಿಶ್ಚಿತ ಭಾಗಗಳನ್ನು ಆ ಐತಿಹಾಸಿಕ ಆವೃತ್ತಿಯಂತೆ ಗುರುತಿಸಲಾಗಿದೆ.
+
+> (A) ಹಿಂದಿನ ಕಾಲದಲ್ಲಿ ರಾಜರು ವಿನೋದಯಾತ್ರೆಗಳಿಗೆ ಹೋಗುತ್ತಿದ್ದರು.
+> (B) ಅಲ್ಲಿ ಬೇಟೆ ಮತ್ತು ಅಂಥ ಇತರ ಮನೋರಂಜನೆಗಳಲ್ಲಿ ತೊಡಗುತ್ತಿದ್ದರು.
+> (C) ಆದರೆ ದೇವಾನಾಂಪ್ರಿಯ ಪ್ರಿಯದರ್ಶಿ ರಾಜನ ಪಟ್ಟಾಭಿಷೇಕವಾಗಿ ಹತ್ತು ವರ್ಷಗಳಾದಾಗ ಅವನು ಸಂಬೋಧಿಗೆ ಹೋದನು.
+> (D) ಹೀಗೆ ಧಮ್ಮಯಾತ್ರೆಗಳು ಆರಂಭವಾದವು.
+> (E) ಈ ಯಾತ್ರೆಗಳಲ್ಲಿ ಬ್ರಾಹ್ಮಣರು ಮತ್ತು ಶ್ರಮಣರನ್ನು ಭೇಟಿಯಾಗಿ ದಾನ ಮಾಡುವುದು, ವೃದ್ಧರನ್ನು ಭೇಟಿಯಾಗಿ ಹಣದಿಂದ ನೆರವಾಗುವುದು, ದೇಶದ ಜನರನ್ನು ಭೇಟಿಯಾಗಿ ಧಮ್ಮ ಬೋಧಿಸುವುದು ಮತ್ತು ಸಂದರ್ಭಕ್ಕೆ ತಕ್ಕಂತೆ ಧಮ್ಮದ ಬಗ್ಗೆ ಪ್ರಶ್ನಿಸುವುದು ನಡೆಯುತ್ತದೆ.
+> (F) ದೇವಾನಾಂಪ್ರಿಯ ಪ್ರಿಯದರ್ಶಿ ರಾಜನ ಆಳ್ವಿಕೆಯ ಈ ನಂತರದ ಅವಧಿ ಹೆಚ್ಚು ಉನ್ನತವಾದ ಆನಂದವನ್ನು ನೀಡುತ್ತದೆ.
+
+## ಮೂಲಗಳು
+
+- E. Hultzsch, [*Inscriptions of Asoka* (1925)](https://archive.org/details/InscriptionsOfAsoka.NewEditionByE.Hultzsch), *Corpus Inscriptionum Indicarum*, ಸಂಪುಟ I.
+
+- [ಬಿಬ್ಲಿಯೊಥೆಕಾ ಪಾಲಿಗ್ಲೊಟ್ಟಾ ಆವೃತ್ತಿ](https://www2.hf.uio.no/polyglotta/index.php?mid=0&page=fulltext&vid=362&view=fulltext), ಒಸ್ಲೊ ವಿಶ್ವವಿದ್ಯಾಲಯ (ಪ್ರಾಕೃತದ ರೋಮನ್ ಲಿಪ್ಯಂತರ, ಇಂಗ್ಲಿಷ್ ಅನುವಾದ ಮತ್ತು ಶಾಸನಗಳ ಪ್ರತಿಕೃತಿಗಳು).

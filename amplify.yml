@@ -1,0 +1,17 @@
+version: 1
+frontend:
+  phases:
+    preBuild:
+      commands:
+        - npm ci
+    build:
+      commands:
+        - npm run build
+        - test -s dist/hello-world/browser/assets/media/images/oit-map.webp
+  artifacts:
+    baseDirectory: dist/hello-world/browser
+    files:
+      - '**/*'
+  cache:
+    paths:
+      - .npm/**/*

@@ -15,7 +15,7 @@
           <a class="post-thumb" [routerLink]="articleRoute(article)" aria-hidden="true" tabindex="-1">
             <picture>
               <source [srcset]="thumb.src | webp" type="image/webp" />
-              <img [src]="thumb.src" [alt]="thumb.alt" loading="lazy" decoding="async" width="800" height="400" />
+              <img appWebpFallback [src]="thumb.src" [alt]="thumb.alt" loading="lazy" decoding="async" width="800" height="400" />
             </picture>
           </a>
         }

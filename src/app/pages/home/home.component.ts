@@ -10,6 +10,7 @@ import { LocaleService } from '../../i18n/locale.service';
 import { DevModeService } from '../../services/dev-mode.service';
 import { articleRoute } from '../../utils/article-route';
 import { WebpPipe } from '../../pipes/webp.pipe';
+import { WebpFallbackDirective } from '../../directives/webp-fallback.directive';
 
 interface TimelinePeriod {
   slug: string;
@@ -47,7 +48,7 @@ const INITIAL_SECTION_ITEMS = 3;
 
 @Component({
   selector: 'app-home',
-  imports: [RouterLink, DatePipe, WorldHistoryComponent, WebpPipe],
+  imports: [RouterLink, DatePipe, WorldHistoryComponent, WebpPipe, WebpFallbackDirective],
   templateUrl: './home.component.html',
   styleUrl: './home.component.css',
 })

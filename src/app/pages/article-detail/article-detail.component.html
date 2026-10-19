@@ -47,7 +47,7 @@
                 <a class="article-book-cover" [href]="book.affiliateUrl || book.amazonUrl" target="_blank" [attr.rel]="book.affiliateUrl ? 'sponsored noopener' : 'noopener'" aria-hidden="true" tabindex="-1">
                   <picture>
                     <source [srcset]="book.imageUrl | webp" type="image/webp" />
-                    <img [src]="book.imageUrl" [alt]="locale.bookCoverAlt(book.title, book.imageAlt)" loading="lazy" decoding="async" width="300" height="440" translate="no" />
+                    <img appWebpFallback [src]="book.imageUrl" [alt]="locale.bookCoverAlt(book.title, book.imageAlt)" loading="lazy" decoding="async" width="300" height="440" translate="no" />
                   </picture>
                 </a>
                 <div class="article-book-copy">

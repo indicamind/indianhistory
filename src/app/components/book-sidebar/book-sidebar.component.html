@@ -7,7 +7,7 @@
     <a class="book-sidebar-cover" [href]="item.affiliateUrl || item.amazonUrl" target="_blank" [attr.rel]="item.affiliateUrl ? 'sponsored noopener' : 'noopener'">
       <picture>
         <source [srcset]="item.imageUrl | webp" type="image/webp" />
-        <img [src]="item.imageUrl" [alt]="locale.bookCoverAlt(item.title, item.imageAlt)" loading="lazy" decoding="async" width="300" height="440" translate="no" />
+        <img appWebpFallback [src]="item.imageUrl" [alt]="locale.bookCoverAlt(item.title, item.imageAlt)" loading="lazy" decoding="async" width="300" height="440" translate="no" />
       </picture>
     </a>
     <p class="book-meta">{{ locale.translate(item.category) }} · {{ locale.translate(item.format) }}</p>

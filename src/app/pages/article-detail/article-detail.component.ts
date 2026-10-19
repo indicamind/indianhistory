@@ -5,6 +5,7 @@ import { DomSanitizer, SafeHtml } from '@angular/platform-browser';
 import { ActivatedRoute, ParamMap, RouterLink } from '@angular/router';
 import { combineLatest } from 'rxjs';
 import { WebpPipe } from '../../pipes/webp.pipe';
+import { WebpFallbackDirective } from '../../directives/webp-fallback.directive';
 import { Article } from '../../models/article.model';
 import { ArticleService } from '../../services/article.service';
 import { PeriodsService } from '../../services/periods.service';
@@ -15,7 +16,7 @@ import { articleRoute } from '../../utils/article-route';
 
 @Component({
   selector: 'app-article-detail',
-  imports: [RouterLink, DatePipe, WebpPipe],
+  imports: [RouterLink, DatePipe, WebpPipe, WebpFallbackDirective],
   templateUrl: './article-detail.component.html',
   styleUrl: './article-detail.component.css',
 })

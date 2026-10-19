@@ -1,12 +1,13 @@
 import { Component, Input, inject } from '@angular/core';
 import { WebpPipe } from '../../pipes/webp.pipe';
+import { WebpFallbackDirective } from '../../directives/webp-fallback.directive';
 import { RecommendedBook } from '../../models/book.model';
 import { LocaleService } from '../../i18n/locale.service';
 import { DevModeService } from '../../services/dev-mode.service';
 
 @Component({
   selector: 'app-book-sidebar',
-  imports: [WebpPipe],
+  imports: [WebpPipe, WebpFallbackDirective],
   templateUrl: './book-sidebar.component.html',
   styleUrl: './book-sidebar.component.css',
 })

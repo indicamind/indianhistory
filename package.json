@@ -5,9 +5,10 @@
     "ng": "ng",
     "build-content": "node scripts/build-content.js",
     "check-translations": "node scripts/check-translations.js",
+    "optimize-images": "node scripts/optimize-images.js",
     "prestart": "npm run build-content",
     "start": "ng serve",
-    "build": "npm run build-content && ng build",
+    "build": "npm run optimize-images && npm run build-content && ng build",
     "watch": "ng build --watch --configuration development",
     "test": "node scripts/run-tests.js"
   },
@@ -31,6 +32,7 @@
     "@angular/compiler-cli": "^19.1.0",
     "gray-matter": "^4.0.3",
     "marked": "^15.0.7",
+    "sharp": "^0.33.0",
     "typescript": "~5.7.2"
   }
 }

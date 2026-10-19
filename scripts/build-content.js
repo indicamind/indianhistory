@@ -254,26 +254,8 @@ function buildBlogs() {
 }
 
 function copyMedia() {
-  if (!fs.existsSync(MEDIA_DIR)) {
-    return;
-  }
-
-  fs.mkdirSync(PUBLIC_MEDIA_DIR, { recursive: true });
-  const entries = fs.readdirSync(MEDIA_DIR);
-  let copied = 0;
-
-  for (const name of entries) {
-    const src = path.join(MEDIA_DIR, name);
-    if (!fs.statSync(src).isFile()) {
-      continue;
-    }
-    fs.copyFileSync(src, path.join(PUBLIC_MEDIA_DIR, name));
-    copied += 1;
-  }
-
-  if (copied > 0) {
-    console.log(`Copied ${copied} media file(s) → public/assets/media/images/`);
-  }
+  // Image processing is now handled by scripts/optimize-images.js.
+  // Run `npm run optimize-images` before build-content.
 }
 
 build();

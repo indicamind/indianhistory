@@ -1,13 +1,13 @@
 import { AfterViewInit, Component, ElementRef, OnDestroy, ViewChild, computed, inject, input, signal } from '@angular/core';
 import { booksForMode, recommendedBooks } from '../../data/recommended-books';
-import { LazyImageDirective } from '../../directives/lazy-image.directive';
+import { WebpPipe } from '../../pipes/webp.pipe';
 import { filterBooks } from '../../utils/book-catalogue';
 import { LocaleService } from '../../i18n/locale.service';
 import { DevModeService } from '../../services/dev-mode.service';
 
 @Component({
   selector: 'app-must-read',
-  imports: [LazyImageDirective],
+  imports: [WebpPipe],
   templateUrl: './must-read.component.html',
   styleUrl: './must-read.component.css',
 })

@@ -41,7 +41,10 @@
     @for (book of visibleBooks(); track book.isbn10) {
       <article class="book-card" [class.affiliate-pending]="devMode.isDevMode() && !book.affiliateUrl">
         <a class="book-cover" [href]="book.affiliateUrl || book.amazonUrl" target="_blank" [attr.rel]="book.affiliateUrl ? 'sponsored noopener' : 'noopener'">
-          <img [appLazyImage]="book.imageUrl" [alt]="locale.bookCoverAlt(book.title, book.imageAlt)" decoding="async" translate="no" />
+          <picture>
+            <source [srcset]="book.imageUrl | webp" type="image/webp" />
+            <img [src]="book.imageUrl" [alt]="locale.bookCoverAlt(book.title, book.imageAlt)" loading="lazy" decoding="async" width="300" height="440" translate="no" />
+          </picture>
         </a>
         <div class="book-copy">
           @if (devMode.isDevMode() && !book.affiliateUrl) { <p class="affiliate-status">Affiliate link pending · Regular Amazon.in link</p> }

@@ -1,12 +1,12 @@
 import { Component, Input, inject } from '@angular/core';
-import { LazyImageDirective } from '../../directives/lazy-image.directive';
+import { WebpPipe } from '../../pipes/webp.pipe';
 import { RecommendedBook } from '../../models/book.model';
 import { LocaleService } from '../../i18n/locale.service';
 import { DevModeService } from '../../services/dev-mode.service';
 
 @Component({
   selector: 'app-book-sidebar',
-  imports: [LazyImageDirective],
+  imports: [WebpPipe],
   templateUrl: './book-sidebar.component.html',
   styleUrl: './book-sidebar.component.css',
 })

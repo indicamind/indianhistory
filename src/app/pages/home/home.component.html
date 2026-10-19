@@ -13,7 +13,10 @@
       <article class="card post-card" [class.has-thumb]="thumbnail(article)">
         @if (thumbnail(article); as thumb) {
           <a class="post-thumb" [routerLink]="articleRoute(article)" aria-hidden="true" tabindex="-1">
-            <img [src]="thumb.src" [alt]="thumb.alt" loading="lazy" decoding="async" />
+            <picture>
+              <source [srcset]="thumb.src | webp" type="image/webp" />
+              <img [src]="thumb.src" [alt]="thumb.alt" loading="lazy" decoding="async" width="800" height="400" />
+            </picture>
           </a>
         }
         <div class="post-copy">

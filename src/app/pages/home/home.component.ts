@@ -9,6 +9,7 @@ import { WorldHistoryComponent } from '../../components/world-history/world-hist
 import { LocaleService } from '../../i18n/locale.service';
 import { DevModeService } from '../../services/dev-mode.service';
 import { articleRoute } from '../../utils/article-route';
+import { WebpPipe } from '../../pipes/webp.pipe';
 
 interface TimelinePeriod {
   slug: string;
@@ -46,7 +47,7 @@ const INITIAL_SECTION_ITEMS = 3;
 
 @Component({
   selector: 'app-home',
-  imports: [RouterLink, DatePipe, WorldHistoryComponent],
+  imports: [RouterLink, DatePipe, WorldHistoryComponent, WebpPipe],
   templateUrl: './home.component.html',
   styleUrl: './home.component.css',
 })

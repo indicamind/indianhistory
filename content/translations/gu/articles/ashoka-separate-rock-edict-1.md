@@ -1,0 +1,73 @@
+---
+title: "અલગ શિલાલેખ ૧: કલિંગમાં ન્યાય"
+slug: ashoka-separate-rock-edict-1
+previewOnly: true
+excerpt: "અશોક નવા જીતેલા કલિંગના અધિકારીઓને મનસ્વી સજા ટાળવા અને લોકો સાથે નિષ્પક્ષ વર્તવા કહે છે."
+publishedAt: 2026-10-16T00:00:00.000Z
+updatedAt: 2026-10-16T00:00:00.000Z
+period: mauryan
+polity: maurya
+personalities: [ashoka]
+relatedTo: ashoka-edicts
+tags: ["અશોક","શિલાલેખો","અલગ શિલાલેખ"]
+themes: []
+books: []
+sourceHash: cf9e79e47f2f44909e082b805d1a567a418039c67c2e2d94d12906c008071803
+---
+
+## આ શિલાલેખ વિશે
+
+તોસલીના અધિકારીઓને સંબોધતો આ અલગ શિલાલેખ કલિંગના વિજય પછી નિષ્પક્ષ ન્યાય અને સમયાંતરે નિરીક્ષણ પર ધ્યાન આપે છે. ધૌલી અને જૌગડાની નકલોમાં સ્થાનિક સંબોધિત લોકો જુદા છે.
+
+## મૂળ લિપિ
+
+<figure class="article-figure inscription-plate">
+  <img src="/assets/media/images/ashoka-plate-1405670299.jpg" alt="હુલ્ટ્શની ૧૯૨૫ની આવૃત્તિમાં ધૌલીના બ્રાહ્મી અભિલેખની પ્રતિકૃતિ" loading="lazy" decoding="async" />
+  <figcaption>ધૌલીના અભિલેખની પ્રતિકૃતિ. ઇ. હુલ્ટ્શ, <em>Inscriptions of Asoka</em> (1925), જાહેર માલિકી.</figcaption>
+</figure>
+
+## રોમન લિપ્યંતરણ
+
+નીચેનો પાઠ હુલ્ટ્શની આવૃત્તિમાં ધૌલીની નકલને અનુસરે છે. ચોરસ કૌંસ પુનઃસ્થાપિત અથવા અનિશ્ચિત અક્ષરો બતાવે છે; ટપકાં નુકસાન પામેલો અથવા ગુમ થયેલો પાઠ દર્શાવે છે. બચેલી બીજી નકલો અલગ હોઈ શકે છે.
+
+<p class="inscription-transliteration" lang="pra-Latn">(A) 1 [Devāna]ṃ[pi]y[asa vaca]nena Tosaliyaṃ ma[hā]mata [naga]la[v]i[yo]hālak[ā] 2 [va]taviya (B) [aṃ kichi dakha]mi hakam taṃ ichāmi k[i]ṃ[t]i kaṃ[mana pa]ṭi[pāda y]ehaṃ 3 duvālate ca ālabheham (C) esa ca me mokhya-mata duva[la etasi aṭha]si aṃ tuph[esu] 4 anusathi (D) tuphe hi bahūsu pāna-sahasesuṃ ā[yata] p[a]na[yaṃ ga]ch[e]ma su munisānam (E) save 5 munise pajā mama (F) ath[ā] pajāye ichāmi h[a]ka[m kiṃti sa]ve[na hi]ta-sukhena hidalo[kika]6palalokike[na] y[ūjev]ū [t]i [tathā .... muni]sesu pi [i]chāmi [ha]ka[ṃ] (G) no ca pāpunātha āv[a]-ga-7[m]u[k]e [iyaṃ aṭhe] (H) [k]e[cha] v[a] eka-puli[se] .... nāti e[ta]ṃ se pi desaṃ no savaṃ (I) de[kha]t[a hi t]u[phe] etaṃ 8 suvi[hi]tā pi (J) [n]itiyaṃ eka-pulise [pi athi] y[e] baṃdhanaṃ vā p[a]likilesaṃ vā papunati (K) tata hoti 9 akasmā tena badhana[ṃ]tik[a] aṃne ca ...... hu jane da[v]iye dukhīyati (L) tata ichitaviye 10 tuphehi kiṃti m[a]jhath paṭipādayema ti (M) imeh[i] cu [jāteh]i no saṃpaṭipajati isāya āsulopena 11 ni[ṭhū]liyena tūlanā[ya] anāvūtiya ālasiyena k[i]lamathena (N) se ichitaviye kitiṃ ete 12 [jātā no] huvevu ma[m]ā ti (O) etasa ca sava[sa] mūle anāsulope a[tū]l[a]nā ca (P) niti[ya]ṃ e kilaṃte siyā 13 [na] te uga[cha] saṃcalitaviy[e] tu va[ṭ]ita[v]iy[e] etaviye vā (Q) hevaṃmeva e da[kheya] t[u]phāk[a] tena vataviye 14 ānaṃne dekhata hevaṃ ca hev[a]ṃ ca [D]evānaṃpiyasa anusathi (R) se mah[a-pha]le [e] t[a]sa [saṃpa]tipada 15 mahā-apāye asaṃpaṭipati (S) [vi]pat[i]pādayamīne hi etaṃ nathi svagasa [ā]l[a]dhi no lāj[ā]la[dh]i (T) 16 duā[ha]le hi i[ma]sa kaṃm[asa] m[e] kute man[o]-atileke (U) sa[ṃ]paṭipajam[ī]n[e] cu [etaṃ] svaga[ṃ] 17 ālādha[yi]sa[tha mama ca ā]naniyaṃ ehatha (V) 18 iyaṃ ca l[i]p[i] t[i]sana[kha]tena so[ta]viy[ā] (W) aṃta[l]ā [p]i ca [t]ī[s]e[na kha]nasi kha[nas]i ekena pi sotaviya (X) hevaṃ ca kalaṃtaṃ tuphe 19 caghatha saṃpa[ṭi]pād[a]y[i]tave (Y) [e]t[a]ye athāye 13 iya[ṃ l]i[p]i likhit[a h]ida ena 20 nagala-vi[y]o[hā]lakā sas[v]ataṃ samayaṃ yūjevū t[i] ...... [na]sa akasmā [pa]libodhe va 21 (a) k(a) smā paliki[l]e[s]e va no siya ti (Z) etāye ca aṭhāye haka[ṃ] .... mate p[a]ṃcasu paṃcasu [va]se22su [n]i[khā]may[i]sāmi e akhakhase a[caṃ]ḍ[e] s[a]khinālaṃbhe hosati etaṃ aṭhaṃ jānitu . . . . . . [ta]thā 23 kala[ṃ]ti atha mama anusathī ti (AA) Ujenite pi cu kumāle etāye v[a] aṭhāye [ni]khāma[yisa] . . . . . . 24 hedisameva vagaṃ no ca atikāmayisati tiṃni vasāni (BB) hemeva T[a]kha[s]ilāte pi (CC) [a]dā ...... 25 te mahāmātā nikhamisaṃti anusayānaṃ tadā ahāpayitu atane kaṃmaṃ etaṃ pi jānisaṃti 26 taṃ pi ta[th]ā kalaṃti lājine anusathī</p>
+
+## ગુજરાતી અનુવાદ
+
+આ ગુજરાતી અનુવાદ નીચે દર્શાવેલી આવૃત્તિના અંગ્રેજી અનુવાદ પર આધારિત છે. ક્ષતિગ્રસ્ત કે અનિશ્ચિત ભાગો એ ઐતિહાસિક આવૃત્તિ મુજબ દર્શાવ્યા છે.
+
+> (A) દેવાનંપ્રિયના આદેશથી તોસલીના નગરના ન્યાયાધિકારી મહામાત્રોને આ વાત કહેવી.
+> (B) જે યોગ્ય છે એમ હું જાણું છું, તેને કામ દ્વારા અને વિવિધ ઉપાયોથી સિદ્ધ કરવા પ્રયત્ન કરું છું.
+> (C) આ માટે તમને ઉપદેશ આપવો એ મુખ્ય ઉપાય છે એમ હું માનું છું.
+> (D) લોકોનો સ્નેહ મેળવવા માટે તમે હજારો લોકોની બાબતો સંભાળો છો.
+> (E) બધા લોકો મારાં સંતાનો છે.
+> (F) જેમ મારાં સંતાનોને આ લોક અને પરલોકમાં સંપૂર્ણ કલ્યાણ અને સુખ મળે એવી મારી ઇચ્છા છે, તેમ [બધા] લોકો માટે પણ છે.
+> (G) મારો આ હેતુ ક્યાં સુધી પહોંચે છે તે તમે સમજતા નથી.
+> (H) ભાગ્યે એકાદ વ્યક્તિ તેનો થોડો ભાગ સમજે છે, સમગ્ર નહીં.
+> (I) તમારી પાસે સગવડો હોવા છતાં તમારે આ તરફ ધ્યાન આપવું જોઈએ.
+> (J) ન્યાયના વહીવટમાં ક્યારેક એક વ્યક્તિને કેદ અથવા કઠોર વર્તન સહન કરવું પડે છે.
+> (K) તેને સંજોગવશાત કેદ રદ કરાવતો આદેશ મળી જાય છે, જ્યારે [ઘણા] બીજા લોકો દુઃખ સહે છે.
+> (L) તેથી બધા સાથે નિષ્પક્ષ વ્યવહાર કરવાનો પ્રયત્ન કરો.
+> (M) ઈર્ષ્યા, ક્રોધ, ક્રૂરતા, ઉતાવળ, અનુભવનો અભાવ, આળસ અને થાકને કારણે માણસ આમ કરવામાં નિષ્ફળ જાય છે.
+> (N) આ વૃત્તિઓ તમારામાં ન ઉદ્ભવે તે માટે પ્રયત્ન કરો.
+> (O) તેનો આધાર ક્રોધ ટાળવો અને ઉતાવળ ન કરવી એ છે.
+> (P) ન્યાય કરતા થાકેલો માણસ આગળ વધતો નથી; તેણે ઊઠવું, ચાલવું અને આગળ વધવું જોઈએ.
+> (Q) આ તરફ ધ્યાન આપનાર તમને કહે: ‘રાજા પ્રત્યેનું તમારું ઋણ ચૂકવો; દેવાનંપ્રિયનો આ ઉપદેશ છે.’
+> (R) તેનું પાલન મોટું ફળ આપે છે; ઉપેક્ષા મોટી અનિષ્ટતા લાવે છે.
+> (S) પાલન ન કરવાથી સ્વર્ગ પણ નહીં મળે અને રાજાને સંતોષ પણ નહીં થાય.
+> (T) તમે ફરજ ખરાબ રીતે બજાવો તો મને સંતોષ કેવી રીતે થાય?
+> (U) પાલન કરશો તો સ્વર્ગ મેળવશો અને મારું ઋણ ચૂકવશો.
+> (V) તિષ્ય નક્ષત્રના દરેક દિવસે આ શિલાલેખ સૌએ સાંભળવો.
+> (W) તિષ્યના દિવસો વચ્ચે બીજા પ્રસંગોએ એક વ્યક્તિ પણ તેને સાંભળી શકે છે.
+> (X) આમ કરશો તો ફરજ બજાવી શકશો.
+> (Y) નગરના ન્યાયાધિકારીઓ સતત પ્રયત્ન કરે કે [લોકોને] અયોગ્ય બેડીઓ કે અયોગ્ય કઠોર વર્તન ન થાય, તે માટે અહીં આ આદેશ લખાયો છે.
+> (Z) આ અધિકારીઓ મારા ઉપદેશ મુજબ વર્તે છે કે નહીં તે તપાસવા હું દર પાંચ વર્ષે કઠોર કે ઉગ્ર નહીં, પણ સૌમ્ય વર્તન કરતો [મહામાત્ર] મોકલીશ; .....
+> (AA) ઉજ્જયિનીનો રાજકુમાર-રાજ્યપાલ પણ એ જ હેતુ માટે ..... એવો જ અધિકારી મોકલશે અને ત્રણ વર્ષથી વધુ સમય પસાર થવા દેશે નહીં.
+> (BB) તક્ષશિલાથી પણ એ જ રીતે અધિકારી મોકલવામાં આવશે.
+> (CC) જ્યારે ..... આ મહામાત્રો પ્રવાસે નીકળશે, ત્યારે પોતાની ફરજો અવગણ્યા વગર નગરના [ન્યાયાધિકારીઓ] રાજાના ઉપદેશ મુજબ કાર્ય કરે છે કે નહીં તે પણ તપાસશે.
+
+## સ્ત્રોતો
+
+- E. Hultzsch, [*Inscriptions of Asoka* (1925)](https://archive.org/details/InscriptionsOfAsoka.NewEditionByE.Hultzsch), *Corpus Inscriptionum Indicarum*, ખંડ ૧.
+
+- [બિબ્લિઓથેકા પોલિગ્લોટા આવૃત્તિ](https://www2.hf.uio.no/polyglotta/index.php?mid=0&page=fulltext&vid=364&view=fulltext), ઓસ્લો યુનિવર્સિટી (પ્રાકૃતનું રોમન લિપ્યંતરણ, અંગ્રેજી અનુવાદ અને અભિલેખોની પ્રતિકૃતિઓ).

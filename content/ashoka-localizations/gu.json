@@ -3,13 +3,38 @@
     "About this edict": "આ શિલાલેખ વિશે",
     "About this inscription": "આ અભિલેખ વિશે",
     "Original script": "મૂળ લિપિ",
+    "Original scripts": "મૂળ લિપિઓ",
     "Roman transliteration": "રોમન લિપ્યંતરણ",
     "localTranslationHeading": "ગુજરાતી અનુવાદ",
+    "English translation of the Greek": "ગ્રીક પાઠનો ગુજરાતી અનુવાદ",
+    "English translation of the Aramaic": "અરામાઇક પાઠનો ગુજરાતી અનુવાદ",
+    "Greek": "ગ્રીક",
+    "Aramaic": "અરામાઇક",
     "Sources": "સ્ત્રોતો",
     "volumeOne": "ખંડ ૧",
     "polyglottaEdition": "બિબ્લિઓથેકા પોલિગ્લોટા આવૃત્તિ",
     "universityOfOslo": "ઓસ્લો યુનિવર્સિટી",
-    "translationBasisNote": "આ અનુવાદ ગિરનારના પાઠ માટે ઇ. હુલ્ટ્શે ૧૯૨૫માં કરેલા અંગ્રેજી અનુવાદ પર આધારિત છે. તેની શબ્દાવલી તે ઐતિહાસિક આવૃત્તિને અનુસરે છે."
+    "translationBasisNote": "આ ગુજરાતી અનુવાદ નીચે દર્શાવેલી આવૃત્તિના અંગ્રેજી અનુવાદ પર આધારિત છે. ક્ષતિગ્રસ્ત કે અનિશ્ચિત ભાગો એ ઐતિહાસિક આવૃત્તિ મુજબ દર્શાવ્યા છે.",
+    "sourceNote": "પ્રાકૃતનું રોમન લિપ્યંતરણ, અંગ્રેજી અનુવાદ અને અભિલેખોની પ્રતિકૃતિઓ",
+    "siteNames": {
+      "Bairat": "બૈરાટ", "Lumbini": "લુમ્બિની", "Delhi–Topra": "દિલ્હી–ટોપરા", "Girnar": "ગિરનાર", "Kalsi": "કાલસી", "Rūpnāth": "રૂપનાથ", "Brahmagiri": "બ્રહ્મગિરિ", "Nigali Sagar": "નિગલી સાગર", "Allahabad–Kauśāmbī": "અલાહાબાદ–કૌશામ્બી", "Sarnath": "સારનાથ", "Dhauli": "ધૌલી"
+    },
+    "siteAltTemplate": "હુલ્ટ્શની ૧૯૨૫ની આવૃત્તિમાં {site}ના બ્રાહ્મી અભિલેખની પ્રતિકૃતિ",
+    "siteCaptionTemplate": "{site}ના અભિલેખની પ્રતિકૃતિ. ઇ. હુલ્ટ્શ, <em>Inscriptions of Asoka</em> (1925), જાહેર માલિકી.",
+    "siteTransliterationTemplate": "નીચેનો પાઠ હુલ્ટ્શની આવૃત્તિમાં {site}ની નકલને અનુસરે છે. ચોરસ કૌંસ પુનઃસ્થાપિત અથવા અનિશ્ચિત અક્ષરો બતાવે છે; ટપકાં નુકસાન પામેલો અથવા ગુમ થયેલો પાઠ દર્શાવે છે. બચેલી બીજી નકલો અલગ હોઈ શકે છે.",
+    "imageAltTranslations": {
+      "Brahmi facsimiles of the three Barabar cave inscriptions in Hultzsch’s 1925 edition; Karna Chaupar is third": "હુલ્ટ્શની ૧૯૨૫ની આવૃત્તિમાં બરાબર ગુફાઓના ત્રણ બ્રાહ્મી અભિલેખોની પ્રતિકૃતિઓ; કર્ણ ચૌપર ત્રીજો છે",
+      "Brahmi facsimiles of the three Barabar cave inscriptions in Hultzsch’s 1925 edition; Sudama is first": "હુલ્ટ્શની ૧૯૨૫ની આવૃત્તિમાં બરાબર ગુફાઓના ત્રણ બ્રાહ્મી અભિલેખોની પ્રતિકૃતિઓ; સુદામા પહેલો છે",
+      "Brahmi facsimiles of the three Barabar cave inscriptions in Hultzsch’s 1925 edition; Visvakarma is second": "હુલ્ટ્શની ૧૯૨૫ની આવૃત્તિમાં બરાબર ગુફાઓના ત્રણ બ્રાહ્મી અભિલેખોની પ્રતિકૃતિઓ; વિશ્વકર્મા બીજો છે"
+    },
+    "imageCaptionTranslations": {
+      "Barabar cave inscription facsimiles. E. Hultzsch, <em>Inscriptions of Asoka</em> (1925), public domain.": "બરાબર ગુફાઓના અભિલેખોની પ્રતિકૃતિઓ. ઇ. હુલ્ટ્શ, <em>Inscriptions of Asoka</em> (1925), જાહેર માલિકી."
+    },
+    "transliterationNotes": {
+      "The text below follows Hultzsch’s edition of the Karna Chaupar inscription. Square brackets mark restored or uncertain letters; dots mark a missing passage.": "નીચેનો પાઠ હુલ્ટ્શની કર્ણ ચૌપર અભિલેખની આવૃત્તિને અનુસરે છે. ચોરસ કૌંસ પુનઃસ્થાપિત કે અનિશ્ચિત અક્ષરો અને ટપકાં ગુમ થયેલો ભાગ દર્શાવે છે.",
+      "The text below follows Hultzsch’s edition of the Sudama inscription. Square brackets mark restored or uncertain letters.": "નીચેનો પાઠ હુલ્ટ્શની સુદામા અભિલેખની આવૃત્તિને અનુસરે છે. ચોરસ કૌંસ પુનઃસ્થાપિત કે અનિશ્ચિત અક્ષરો દર્શાવે છે.",
+      "The text below follows Hultzsch’s edition of the Visvakarma inscription. Square brackets mark restored or uncertain letters.": "નીચેનો પાઠ હુલ્ટ્શની વિશ્વકર્મા અભિલેખની આવૃત્તિને અનુસરે છે. ચોરસ કૌંસ પુનઃસ્થાપિત કે અનિશ્ચિત અક્ષરો દર્શાવે છે."
+    }
   },
   "articles": {
     "ashoka-major-rock-edict-1": {

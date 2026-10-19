@@ -3,13 +3,48 @@
     "About this edict": "اس فرمان کے بارے میں",
     "About this inscription": "اس کتبے کے بارے میں",
     "Original script": "اصل رسم الخط",
+    "Original scripts": "اصل رسم الخط",
     "Roman transliteration": "رومن حروف میں نقل",
     "localTranslationHeading": "اردو ترجمہ",
+    "English translation of the Greek": "یونانی متن کا اردو ترجمہ",
+    "English translation of the Aramaic": "آرامی متن کا اردو ترجمہ",
+    "Greek": "یونانی",
+    "Aramaic": "آرامی",
     "Sources": "مآخذ",
     "volumeOne": "جلد اول",
     "polyglottaEdition": "ببلیوتھیکا پولی گلوٹا کا نسخہ",
     "universityOfOslo": "اوسلو یونیورسٹی",
-    "translationBasisNote": "یہ ترجمہ گرنار کے متن کے ای ہلٹش کے 1925 کے انگریزی ترجمے پر مبنی ہے۔ اس کی اصطلاحات اسی تاریخی اشاعت کے مطابق ہیں۔"
+    "translationBasisNote": "یہ اردو ترجمہ ذیل میں درج اشاعت کے انگریزی ترجمے پر مبنی ہے۔ خراب یا غیر یقینی حصے اسی تاریخی اشاعت کے مطابق دکھائے گئے ہیں۔",
+    "sourceNote": "پراکرت کی رومن نقل، انگریزی ترجمہ اور کتبوں کے عکس",
+    "siteNames": {
+      "Bairat": "بیرات",
+      "Lumbini": "لمبنی",
+      "Delhi–Topra": "دہلی–ٹوپرا",
+      "Girnar": "گرنار",
+      "Kalsi": "کالسی",
+      "Rūpnāth": "روپ ناتھ",
+      "Brahmagiri": "برہم گیری",
+      "Nigali Sagar": "نگلی ساگر",
+      "Allahabad–Kauśāmbī": "الہ آباد–کوشامبی",
+      "Sarnath": "سارناتھ",
+      "Dhauli": "دھولی"
+    },
+    "siteAltTemplate": "ہلٹش کی 1925 کی اشاعت میں {site} کے براہمی کتبے کا عکس",
+    "siteCaptionTemplate": "{site} کے کتبے کا عکس۔ ای ہلٹش، <em>Inscriptions of Asoka</em> (1925)، عوامی ملکیت۔",
+    "siteTransliterationTemplate": "ذیل کا متن ہلٹش کی اشاعت میں {site} کے نسخے کی پیروی کرتا ہے۔ مربع قوسین بحال شدہ یا غیر یقینی حروف دکھاتے ہیں؛ نقطے خراب یا گم شدہ متن کی نشان دہی کرتے ہیں۔ دوسری دستیاب نقلیں مختلف ہو سکتی ہیں۔",
+    "imageAltTranslations": {
+      "Brahmi facsimiles of the three Barabar cave inscriptions in Hultzsch’s 1925 edition; Karna Chaupar is third": "ہلٹش کی 1925 کی اشاعت میں برابر غاروں کے تین براہمی کتبوں کے عکس؛ کرنا چوپار تیسرا ہے",
+      "Brahmi facsimiles of the three Barabar cave inscriptions in Hultzsch’s 1925 edition; Sudama is first": "ہلٹش کی 1925 کی اشاعت میں برابر غاروں کے تین براہمی کتبوں کے عکس؛ سوداما پہلا ہے",
+      "Brahmi facsimiles of the three Barabar cave inscriptions in Hultzsch’s 1925 edition; Visvakarma is second": "ہلٹش کی 1925 کی اشاعت میں برابر غاروں کے تین براہمی کتبوں کے عکس؛ وشوکرما دوسرا ہے"
+    },
+    "imageCaptionTranslations": {
+      "Barabar cave inscription facsimiles. E. Hultzsch, <em>Inscriptions of Asoka</em> (1925), public domain.": "برابر غاروں کے کتبوں کے عکس۔ ای ہلٹش، <em>Inscriptions of Asoka</em> (1925)، عوامی ملکیت۔"
+    },
+    "transliterationNotes": {
+      "The text below follows Hultzsch’s edition of the Karna Chaupar inscription. Square brackets mark restored or uncertain letters; dots mark a missing passage.": "ذیل کا متن ہلٹش کی کرنا چوپار کے کتبے کی اشاعت کی پیروی کرتا ہے۔ مربع قوسین بحال شدہ یا غیر یقینی حروف اور نقطے گم شدہ حصہ دکھاتے ہیں۔",
+      "The text below follows Hultzsch’s edition of the Sudama inscription. Square brackets mark restored or uncertain letters.": "ذیل کا متن ہلٹش کی سوداما کے کتبے کی اشاعت کی پیروی کرتا ہے۔ مربع قوسین بحال شدہ یا غیر یقینی حروف دکھاتے ہیں۔",
+      "The text below follows Hultzsch’s edition of the Visvakarma inscription. Square brackets mark restored or uncertain letters.": "ذیل کا متن ہلٹش کی وشوکرما کے کتبے کی اشاعت کی پیروی کرتا ہے۔ مربع قوسین بحال شدہ یا غیر یقینی حروف دکھاتے ہیں۔"
+    }
   },
   "articles": {
     "ashoka-major-rock-edict-1": {
@@ -29,7 +64,7 @@
       ],
       "transliterationNote": "ذیل کا متن ہلٹش کی اشاعت میں گرنار کے نسخے کی پیروی کرتا ہے۔ مربع قوسین بحال شدہ یا غیر یقینی حروف دکھاتے ہیں؛ نقطے خراب یا گم شدہ متن کی نشان دہی کرتے ہیں۔ باقی بچی ہوئی دوسری نقلیں مختلف ہو سکتی ہیں۔",
       "translation": "> (A) بادشاہ دیوانامپریہ پریادرشن نے اخلاقی طرزِ عمل کے بارے میں یہ فرمان لکھوایا ہے۔\n> (B) یہاں کسی جاندار کو مار کر قربانی کے طور پر پیش نہیں کرنا چاہیے۔\n> (C) اور کوئی تہواری اجتماع منعقد نہیں کرنا چاہیے۔\n> (D) کیونکہ بادشاہ دیوانامپریہ پریادرشن تہواری اجتماعات میں بہت سی برائیاں دیکھتا ہے۔\n> (E) تاہم کچھ تہواری اجتماعات ایسے بھی ہیں جنہیں بادشاہ دیوانامپریہ پریادرشن نیک سمجھتا ہے۔\n> (F) پہلے بادشاہ دیوانامپریہ پریادرشن کے باورچی خانے میں روزانہ سالن پکانے کے لیے کئی لاکھ جانور مارے جاتے تھے۔\n> (G) لیکن اب، جب اخلاقی طرزِ عمل کے بارے میں یہ فرمان لکھا جا رہا ہے، روزانہ سالن پکانے کے لیے صرف تین جانور مارے جاتے ہیں: دو مور اور ایک ہرن؛ وہ ہرن بھی باقاعدگی سے نہیں مارا جاتا۔\n> (H) آئندہ یہ تین جانور بھی نہیں مارے جائیں گے۔",
-      "sourceNote": "ماگدھی نقلِ حروف، انگریزی ترجمہ اور کتبے کے عکس"
+      "sourceNote": "پراکرت کی رومن نقل، انگریزی ترجمہ اور کتبے کے عکس"
     }
   }
 }

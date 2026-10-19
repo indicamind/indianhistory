@@ -33,7 +33,7 @@ sourceHash: 40dbe071152968dd2f0669005b6e0376b070df4f3c598c3899ea85541d9849bb
 
 ## اردو ترجمہ
 
-یہ ترجمہ گرنار کے متن کے ای ہلٹش کے 1925 کے انگریزی ترجمے پر مبنی ہے۔ اس کی اصطلاحات اسی تاریخی اشاعت کے مطابق ہیں۔
+یہ اردو ترجمہ ذیل میں درج اشاعت کے انگریزی ترجمے پر مبنی ہے۔ خراب یا غیر یقینی حصے اسی تاریخی اشاعت کے مطابق دکھائے گئے ہیں۔
 
 > (A) بادشاہ دیوانامپریہ پریادرشن نے اخلاقی طرزِ عمل کے بارے میں یہ فرمان لکھوایا ہے۔
 > (B) یہاں کسی جاندار کو مار کر قربانی کے طور پر پیش نہیں کرنا چاہیے۔
@@ -48,4 +48,4 @@ sourceHash: 40dbe071152968dd2f0669005b6e0376b070df4f3c598c3899ea85541d9849bb
 
 - E. Hultzsch, [*Inscriptions of Asoka* (1925)](https://archive.org/details/InscriptionsOfAsoka.NewEditionByE.Hultzsch), *Corpus Inscriptionum Indicarum*, جلد اول.
 
-- [ببلیوتھیکا پولی گلوٹا کا نسخہ](https://www2.hf.uio.no/polyglotta/index.php?mid=0&page=fulltext&vid=362&view=fulltext), اوسلو یونیورسٹی (ماگدھی نقلِ حروف، انگریزی ترجمہ اور کتبے کے عکس).
+- [ببلیوتھیکا پولی گلوٹا کا نسخہ](https://www2.hf.uio.no/polyglotta/index.php?mid=0&page=fulltext&vid=362&view=fulltext), اوسلو یونیورسٹی (پراکرت کی رومن نقل، انگریزی ترجمہ اور کتبے کے عکس).

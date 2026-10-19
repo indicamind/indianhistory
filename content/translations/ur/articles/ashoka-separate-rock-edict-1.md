@@ -1,0 +1,73 @@
+---
+title: "پہلا جدا سنگی فرمان: کلنگ میں انصاف"
+slug: ashoka-separate-rock-edict-1
+previewOnly: true
+excerpt: "اشوک نئے مفتوحہ کلنگ کے افسروں کو من مانی سزا سے بچنے اور لوگوں کے ساتھ انصاف کرنے کا حکم دیتا ہے۔"
+publishedAt: 2026-10-16T00:00:00.000Z
+updatedAt: 2026-10-16T00:00:00.000Z
+period: mauryan
+polity: maurya
+personalities: [ashoka]
+relatedTo: ashoka-edicts
+tags: ["اشوک","فرمان","جدا سنگی فرمان"]
+themes: []
+books: []
+sourceHash: cf9e79e47f2f44909e082b805d1a567a418039c67c2e2d94d12906c008071803
+---
+
+## اس فرمان کے بارے میں
+
+توسلی کے افسروں کے نام یہ جدا فرمان کلنگ کی فتح کے بعد غیر جانب دار انصاف اور باقاعدہ معائنے پر زور دیتا ہے۔ دھولی اور جوگڑھ کے نسخوں میں مقامی مخاطب مختلف ہیں۔
+
+## اصل رسم الخط
+
+<figure class="article-figure inscription-plate">
+  <img src="/assets/media/images/ashoka-plate-1405670299.jpg" alt="ہلٹش کی 1925 کی اشاعت میں دھولی کے براہمی کتبے کا عکس" loading="lazy" decoding="async" />
+  <figcaption>دھولی کے کتبے کا عکس۔ ای ہلٹش، <em>Inscriptions of Asoka</em> (1925)، عوامی ملکیت۔</figcaption>
+</figure>
+
+## رومن حروف میں نقل
+
+ذیل کا متن ہلٹش کی اشاعت میں دھولی کے نسخے کی پیروی کرتا ہے۔ مربع قوسین بحال شدہ یا غیر یقینی حروف دکھاتے ہیں؛ نقطے خراب یا گم شدہ متن کی نشان دہی کرتے ہیں۔ دوسری دستیاب نقلیں مختلف ہو سکتی ہیں۔
+
+<p class="inscription-transliteration" lang="pra-Latn">(A) 1 [Devāna]ṃ[pi]y[asa vaca]nena Tosaliyaṃ ma[hā]mata [naga]la[v]i[yo]hālak[ā] 2 [va]taviya (B) [aṃ kichi dakha]mi hakam taṃ ichāmi k[i]ṃ[t]i kaṃ[mana pa]ṭi[pāda y]ehaṃ 3 duvālate ca ālabheham (C) esa ca me mokhya-mata duva[la etasi aṭha]si aṃ tuph[esu] 4 anusathi (D) tuphe hi bahūsu pāna-sahasesuṃ ā[yata] p[a]na[yaṃ ga]ch[e]ma su munisānam (E) save 5 munise pajā mama (F) ath[ā] pajāye ichāmi h[a]ka[m kiṃti sa]ve[na hi]ta-sukhena hidalo[kika]6palalokike[na] y[ūjev]ū [t]i [tathā .... muni]sesu pi [i]chāmi [ha]ka[ṃ] (G) no ca pāpunātha āv[a]-ga-7[m]u[k]e [iyaṃ aṭhe] (H) [k]e[cha] v[a] eka-puli[se] .... nāti e[ta]ṃ se pi desaṃ no savaṃ (I) de[kha]t[a hi t]u[phe] etaṃ 8 suvi[hi]tā pi (J) [n]itiyaṃ eka-pulise [pi athi] y[e] baṃdhanaṃ vā p[a]likilesaṃ vā papunati (K) tata hoti 9 akasmā tena badhana[ṃ]tik[a] aṃne ca ...... hu jane da[v]iye dukhīyati (L) tata ichitaviye 10 tuphehi kiṃti m[a]jhath paṭipādayema ti (M) imeh[i] cu [jāteh]i no saṃpaṭipajati isāya āsulopena 11 ni[ṭhū]liyena tūlanā[ya] anāvūtiya ālasiyena k[i]lamathena (N) se ichitaviye kitiṃ ete 12 [jātā no] huvevu ma[m]ā ti (O) etasa ca sava[sa] mūle anāsulope a[tū]l[a]nā ca (P) niti[ya]ṃ e kilaṃte siyā 13 [na] te uga[cha] saṃcalitaviy[e] tu va[ṭ]ita[v]iy[e] etaviye vā (Q) hevaṃmeva e da[kheya] t[u]phāk[a] tena vataviye 14 ānaṃne dekhata hevaṃ ca hev[a]ṃ ca [D]evānaṃpiyasa anusathi (R) se mah[a-pha]le [e] t[a]sa [saṃpa]tipada 15 mahā-apāye asaṃpaṭipati (S) [vi]pat[i]pādayamīne hi etaṃ nathi svagasa [ā]l[a]dhi no lāj[ā]la[dh]i (T) 16 duā[ha]le hi i[ma]sa kaṃm[asa] m[e] kute man[o]-atileke (U) sa[ṃ]paṭipajam[ī]n[e] cu [etaṃ] svaga[ṃ] 17 ālādha[yi]sa[tha mama ca ā]naniyaṃ ehatha (V) 18 iyaṃ ca l[i]p[i] t[i]sana[kha]tena so[ta]viy[ā] (W) aṃta[l]ā [p]i ca [t]ī[s]e[na kha]nasi kha[nas]i ekena pi sotaviya (X) hevaṃ ca kalaṃtaṃ tuphe 19 caghatha saṃpa[ṭi]pād[a]y[i]tave (Y) [e]t[a]ye athāye 13 iya[ṃ l]i[p]i likhit[a h]ida ena 20 nagala-vi[y]o[hā]lakā sas[v]ataṃ samayaṃ yūjevū t[i] ...... [na]sa akasmā [pa]libodhe va 21 (a) k(a) smā paliki[l]e[s]e va no siya ti (Z) etāye ca aṭhāye haka[ṃ] .... mate p[a]ṃcasu paṃcasu [va]se22su [n]i[khā]may[i]sāmi e akhakhase a[caṃ]ḍ[e] s[a]khinālaṃbhe hosati etaṃ aṭhaṃ jānitu . . . . . . [ta]thā 23 kala[ṃ]ti atha mama anusathī ti (AA) Ujenite pi cu kumāle etāye v[a] aṭhāye [ni]khāma[yisa] . . . . . . 24 hedisameva vagaṃ no ca atikāmayisati tiṃni vasāni (BB) hemeva T[a]kha[s]ilāte pi (CC) [a]dā ...... 25 te mahāmātā nikhamisaṃti anusayānaṃ tadā ahāpayitu atane kaṃmaṃ etaṃ pi jānisaṃti 26 taṃ pi ta[th]ā kalaṃti lājine anusathī</p>
+
+## اردو ترجمہ
+
+یہ اردو ترجمہ ذیل میں درج اشاعت کے انگریزی ترجمے پر مبنی ہے۔ خراب یا غیر یقینی حصے اسی تاریخی اشاعت کے مطابق دکھائے گئے ہیں۔
+
+> (A) دیوانامپریہ کے حکم سے توسلی میں شہر کے عدالتی امور کے ذمہ دار مہاماتروں کو یوں بتایا جائے۔
+> (B) جو میں درست سمجھتا ہوں اسے عمل اور مختلف ذرائع سے پورا کرنے کی کوشش کرتا ہوں۔
+> (C) اس مقصد کا سب سے اہم ذریعہ تمہیں ہدایت دینا ہے۔
+> (D) تم ہزاروں لوگوں کے ساتھ ان کی محبت حاصل کرنے کی غرض سے کام کرتے ہو۔
+> (E) تمام انسان میرے بچے ہیں۔
+> (F) جیسے اپنے بچوں کے لیے اس دنیا اور آخرت میں پوری فلاح و خوشی چاہتا ہوں، ویسے ہی [تمام] لوگوں کے لیے چاہتا ہوں۔
+> (G) تم نہیں سمجھتے کہ میری اس خواہش کا دائرہ کتنا وسیع ہے۔
+> (H) شاید کوئی ایک شخص اس کا کچھ حصہ سمجھے، وہ بھی پوری بات نہیں۔
+> (I) اپنی اچھی حالت کے باوجود تمہیں اس پر توجہ دینی چاہیے۔
+> (J) انصاف کے انتظام میں کبھی ایک شخص کو قید یا سخت سلوک جھیلنا پڑتا ہے۔
+> (K) اتفاق سے اس کی قید کا حکم ختم ہو جاتا ہے، جبکہ [بہت سے] دوسرے لوگ تکلیف میں رہتے ہیں۔
+> (L) ایسی صورت میں سب کے ساتھ غیر جانب داری سے پیش آنے کی کوشش کرو۔
+> (M) حسد، غصہ، ظلم، جلد بازی، تجربے کی کمی، سستی اور تھکن کے باعث آدمی ایسا نہیں کر پاتا۔
+> (N) کوشش کرو کہ یہ عادات تم میں پیدا نہ ہوں۔
+> (O) اس سب کی بنیاد غصے سے بچنا اور جلد بازی نہ کرنا ہے۔
+> (P) انصاف کے کام سے تھکا شخص آگے نہیں بڑھے گا؛ لیکن انسان کو حرکت، سفر اور پیش رفت کرنی چاہیے۔
+> (Q) جو اس بات پر توجہ دے، وہ تم سے کہے: ‘بادشاہ کا تم پر جو حق ہے وہ ادا کرو؛ یہ دیوانامپریہ کی ہدایت ہے۔’
+> (R) اس کی پابندی بڑا ثمر دیتی ہے، اس کی خلاف ورزی بڑی برائی ہے۔
+> (S) پابندی نہ ہو تو نہ جنت ملے گی نہ بادشاہ مطمئن ہوگا۔
+> (T) اگر یہ فرض ٹھیک طرح ادا نہ ہو تو میرا دل کیسے خوش ہوگا؟
+> (U) لیکن پابندی کرو گے تو جنت پاؤ گے اور مجھ سے اپنا قرض ادا کرو گے۔
+> (V) یہ فرمان تشیہ ستارے کے ہر دن سب کو سنایا جائے۔
+> (W) تشیہ کے دنوں کے بیچ دوسرے مواقع پر ایک شخص کو بھی بار بار سنایا جا سکتا ہے۔
+> (X) یوں عمل کرو گے تو یہ فرض نبھا سکو گے۔
+> (Y) یہ فرمان اس لیے لکھا گیا ہے کہ شہری عدالتی افسر ہمیشہ کوشش کریں کہ [لوگوں] کو بلا وجہ بیڑیاں یا غیر مستحق سختی نہ سہنی پڑے۔
+> (Z) اس مقصد کے لیے ہر پانچ سال بعد میں [ایک مہاماتر] بھیجوں گا، جو سخت یا تند خو نہیں بلکہ نرم مزاج ہوگا؛ وہ دیکھے گا کہ عدالتی افسر اس بات پر توجہ دے کر ..... میری ہدایت کے مطابق عمل کرتے ہیں یا نہیں۔
+> (AA) اجین کا شہزادہ گورنر بھی اسی مقصد کے لیے ….. اسی قسم کا ایک شخص بھیجے گا اور تین سال سے زیادہ کا وقفہ نہیں ہونے دے گا۔
+> (BB) تکششیلا سے بھی اسی طرح ایک افسر بھیجا جائے گا۔
+> (CC) جب یہ مہاماتر معائنے کے لیے ..... نکلیں گے، تو اپنے کام سے غفلت کیے بغیر یہ بھی جانچیں گے کہ عدالتی افسر بادشاہ کی ہدایت کے مطابق عمل کرتے ہیں یا نہیں۔
+
+## مآخذ
+
+- E. Hultzsch, [*Inscriptions of Asoka* (1925)](https://archive.org/details/InscriptionsOfAsoka.NewEditionByE.Hultzsch), *Corpus Inscriptionum Indicarum*, جلد اول.
+
+- [ببلیوتھیکا پولی گلوٹا کا نسخہ](https://www2.hf.uio.no/polyglotta/index.php?mid=0&page=fulltext&vid=364&view=fulltext), اوسلو یونیورسٹی (پراکرت کی رومن نقل، انگریزی ترجمہ اور کتبوں کے عکس).

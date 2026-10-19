@@ -9,7 +9,42 @@
     "volumeOne": "ഒന്നാം വാല്യം",
     "polyglottaEdition": "ബിബ്ലിയോതെക്ക പോളിഗ്ലോട്ട പതിപ്പ്",
     "universityOfOslo": "ഓസ്ലോ സർവകലാശാല",
-    "translationBasisNote": "ഈ വിവർത്തനം ഗിർനാർ പാഠത്തിന് ഇ. ഹുൾറ്റ്ഷ് 1925-ൽ നൽകിയ ഇംഗ്ലീഷ് വിവർത്തനത്തെ അടിസ്ഥാനമാക്കിയാണ്. ഇതിലെ പദപ്രയോഗം ആ ചരിത്രപതിപ്പിനെ പിന്തുടരുന്നു."
+    "translationBasisNote": "ഈ മലയാളം വിവർത്തനം അതേ പാഠത്തിന് ഇ. ഹുൾറ്റ്ഷ് 1925-ൽ നൽകിയ ഇംഗ്ലീഷ് വിവർത്തനത്തെ അടിസ്ഥാനമാക്കുന്നു. പദപ്രയോഗവും ചതുരക്കൊളുത്തുകളിലെ പുനഃസ്ഥാപനങ്ങളും ആ ചരിത്രപതിപ്പിനെ പിന്തുടരുന്നു.",
+    "Original scripts": "മൂല ലിപികൾ",
+    "English translation of the Greek": "ഗ്രീക്ക് പാഠത്തിന്റെ മലയാളം വിവർത്തനം",
+    "English translation of the Aramaic": "അരമായ പാഠത്തിന്റെ മലയാളം വിവർത്തനം",
+    "Greek": "ഗ്രീക്ക്",
+    "Aramaic": "അരമായ",
+    "sourceNote": "മാഗധി ലിപ്യന്തരണം, ഇംഗ്ലീഷ് വിവർത്തനം, ലിഖിതങ്ങളുടെ പകർപ്പുകൾ",
+    "siteNames": {
+      "Bairat": "ബൈരാട്",
+      "Lumbini": "ലുംബിനി",
+      "Delhi–Topra": "ഡൽഹി–ടോപ്ര",
+      "Girnar": "ഗിർനാർ",
+      "Kalsi": "കാൽസി",
+      "Rūpnāth": "രൂപനാഥ്",
+      "Brahmagiri": "ബ്രഹ്മഗിരി",
+      "Nigali Sagar": "നിഗലി സാഗർ",
+      "Allahabad–Kauśāmbī": "അലഹാബാദ്–കൗശാംബി",
+      "Sarnath": "സാരനാഥ്",
+      "Dhauli": "ധൗലി"
+    },
+    "siteAltTemplate": "ഹുൾറ്റ്ഷിന്റെ 1925-ലെ പതിപ്പിൽ {site}യിലെ ബ്രാഹ്മി ലിഖിതത്തിന്റെ പകർപ്പ്",
+    "siteCaptionTemplate": "{site}യിലെ ലിഖിതത്തിന്റെ പകർപ്പ്. ഇ. ഹുൾറ്റ്ഷ്, <em>Inscriptions of Asoka</em> (1925), പൊതുസഞ്ചയം.",
+    "siteTransliterationTemplate": "താഴെയുള്ള പാഠം ഹുൾറ്റ്ഷിന്റെ പതിപ്പിലെ {site} പകർപ്പിനെ പിന്തുടരുന്നു. ചതുരക്കൊളുത്തുകൾ പുനഃസ്ഥാപിച്ചതോ ഉറപ്പില്ലാത്തതോ ആയ അക്ഷരങ്ങളെ സൂചിപ്പിക്കുന്നു; കുത്തുകൾ കേടായതോ നഷ്ടപ്പെട്ടതോ ആയ പാഠത്തെ സൂചിപ്പിക്കുന്നു. നിലനിൽക്കുന്ന മറ്റു പകർപ്പുകൾ വ്യത്യസ്തമായിരിക്കാം.",
+    "imageAltTranslations": {
+      "Brahmi facsimiles of the three Barabar cave inscriptions in Hultzsch’s 1925 edition; Karna Chaupar is third": "ഹുൾറ്റ്ഷിന്റെ 1925-ലെ പതിപ്പിൽ ബരാബർ ഗുഹകളിലെ മൂന്ന് ബ്രാഹ്മി ലിഖിതങ്ങളുടെ പകർപ്പുകൾ; കർണ ചൗപർ മൂന്നാമത്തേതാണ്",
+      "Brahmi facsimiles of the three Barabar cave inscriptions in Hultzsch’s 1925 edition; Sudama is first": "ഹുൾറ്റ്ഷിന്റെ 1925-ലെ പതിപ്പിൽ ബരാബർ ഗുഹകളിലെ മൂന്ന് ബ്രാഹ്മി ലിഖിതങ്ങളുടെ പകർപ്പുകൾ; സുദാമ ഒന്നാമത്തേതാണ്",
+      "Brahmi facsimiles of the three Barabar cave inscriptions in Hultzsch’s 1925 edition; Visvakarma is second": "ഹുൾറ്റ്ഷിന്റെ 1925-ലെ പതിപ്പിൽ ബരാബർ ഗുഹകളിലെ മൂന്ന് ബ്രാഹ്മി ലിഖിതങ്ങളുടെ പകർപ്പുകൾ; വിശ്വകർമ രണ്ടാമത്തേതാണ്"
+    },
+    "imageCaptionTranslations": {
+      "Barabar cave inscription facsimiles. E. Hultzsch, <em>Inscriptions of Asoka</em> (1925), public domain.": "ബരാബർ ഗുഹാലിഖിതങ്ങളുടെ പകർപ്പുകൾ. ഇ. ഹുൾറ്റ്ഷ്, <em>Inscriptions of Asoka</em> (1925), പൊതുസഞ്ചയം."
+    },
+    "transliterationNotes": {
+      "The text below follows Hultzsch’s edition of the Karna Chaupar inscription. Square brackets mark restored or uncertain letters; dots mark a missing passage.": "താഴെയുള്ള പാഠം ഹുൾറ്റ്ഷിന്റെ കർണ ചൗപർ ലിഖിതപ്പതിപ്പിനെ പിന്തുടരുന്നു. ചതുരക്കൊളുത്തുകൾ പുനഃസ്ഥാപിച്ചതോ ഉറപ്പില്ലാത്തതോ ആയ അക്ഷരങ്ങളെയും കുത്തുകൾ നഷ്ടപ്പെട്ട ഭാഗത്തെയും സൂചിപ്പിക്കുന്നു.",
+      "The text below follows Hultzsch’s edition of the Sudama inscription. Square brackets mark restored or uncertain letters.": "താഴെയുള്ള പാഠം ഹുൾറ്റ്ഷിന്റെ സുദാമ ലിഖിതപ്പതിപ്പിനെ പിന്തുടരുന്നു. ചതുരക്കൊളുത്തുകൾ പുനഃസ്ഥാപിച്ചതോ ഉറപ്പില്ലാത്തതോ ആയ അക്ഷരങ്ങളെ സൂചിപ്പിക്കുന്നു.",
+      "The text below follows Hultzsch’s edition of the Visvakarma inscription. Square brackets mark restored or uncertain letters.": "താഴെയുള്ള പാഠം ഹുൾറ്റ്ഷിന്റെ വിശ്വകർമ ലിഖിതപ്പതിപ്പിനെ പിന്തുടരുന്നു. ചതുരക്കൊളുത്തുകൾ പുനഃസ്ഥാപിച്ചതോ ഉറപ്പില്ലാത്തതോ ആയ അക്ഷരങ്ങളെ സൂചിപ്പിക്കുന്നു."
+    }
   },
   "articles": {
     "ashoka-major-rock-edict-1": {

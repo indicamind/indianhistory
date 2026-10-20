@@ -1,0 +1,14 @@
+{
+  "title": "Laghman I: una inscripción aramea asociada a Priyadarśin",
+  "excerpt": "Una breve inscripción aramea nombra al rey Priyadarśin y ofrece indicaciones y distancias discutidas. Su condición de edicto real sigue siendo incierta.",
+  "tags": ["Ashoka", "inscripciones", "arameo", "Laghman"],
+  "imageAlts": ["Inscripción aramea de seis líneas sobre una roca en Laghman"],
+  "imageCaptions": ["Inscripción de Laghman I. Fotografía de André Dupont-Sommer, a través de Wikimedia Commons."],
+  "blocks": {
+    "1": "Laghman I se encontró en una roca de Afganistán. La primera línea nombra al rey Priyadarśin y la última, a un juez. Las palabras intermedias mencionan medidas o distancias, un topónimo y un camino. André Dupont-Sommer leyó la fecha como año diez y el topónimo *Tdmr* como Tadmor (Palmira), y tradujo el inicio como una orden moral real. Franz Rosenthal leyó, en cambio, año diecisiete y consideró el documento una sentencia jurídica. Tanto la lectura del topónimo como la naturaleza del texto son discutidas. Harry Falk advierte asimismo que no puede establecerse su autoría real. Se incluye aquí como **inscripción asociada**, sin presentarla como un edicto seguro de Ashoka.",
+    "4": "La transcripción siguiente utiliza las letras arameas de la edición de Dupont-Sommer. Las barras verticales separan grupos de la piedra; varias lecturas siguen siendo discutidas.",
+    "9": "Se conservan las seis líneas inscritas, pero su sentido no está resuelto. La versión siguiente sigue a Dupont-Sommer donde las palabras pueden interpretarse y deja sin traducir los grupos oscuros. La fecha y la lectura jurídica de Rosenthal difieren considerablemente.",
+    "10": "> 1. En el año diez [o diecisiete según otra lectura], [la inscripción] nombra al rey Priyadarśin. El resto de la línea es incierto.\n> 2–3. Palabras leídas como una declaración sobre la vanidad, los amigos y la pesca; la sintaxis y el significado son discutidos.\n> 4. Se da una distancia de 200 [unidades], seguida de un lugar escrito *Tdmr* y del nombre de un camino. Se discute si *Tdmr* es Palmira.\n> 5. Se registran más números y distancias; sus unidades y destinos son inciertos.\n> 6. La última línea nombra a Wʾšw, un juez.",
+    "12": "- André Dupont-Sommer, [“Une nouvelle inscription araméenne d’Asoka trouvée dans la vallée du Laghman” (1970)](https://www.persee.fr/doc/crai_0065-0536_1970_num_114_1_12491), *Comptes rendus des séances de l’Académie des Inscriptions et Belles-Lettres* 114(1), pp. 158–173 (texto, imagen e interpretación).\n- Harry Falk, [*Aśokan Sites and Artefacts* (2006)](https://dokumen.pub/aokan-sites-and-artefacts-1nbsped-3805337124.html), pp. 259–262 (lectura alternativa y cautela sobre la atribución).\n- [Ficha de la imagen](https://commons.wikimedia.org/wiki/File:Aramaic_inscription_of_Laghman.jpg), Wikimedia Commons."
+  }
+}

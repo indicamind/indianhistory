@@ -9,7 +9,42 @@
     "volumeOne": "volumen I",
     "polyglottaEdition": "edición de Bibliotheca Polyglotta",
     "universityOfOslo": "Universidad de Oslo",
-    "translationBasisNote": "Esta traducción se basa en la versión inglesa de E. Hultzsch de 1925 del texto de Girnar. Su terminología sigue esa edición histórica."
+    "translationBasisNote": "Esta traducción al español se basa en la traducción inglesa de E. Hultzsch de 1925 de la misma versión. La terminología y las restituciones entre corchetes siguen esa edición histórica.",
+    "Original scripts": "Escrituras originales",
+    "English translation of the Greek": "Traducción al español del griego",
+    "English translation of the Aramaic": "Traducción al español del arameo",
+    "Greek": "Griego",
+    "Aramaic": "Arameo",
+    "sourceNote": "transliteración del magadhi, traducción inglesa y facsímiles de las inscripciones",
+    "siteNames": {
+      "Bairat": "Bairat",
+      "Lumbini": "Lumbini",
+      "Delhi–Topra": "Delhi–Topra",
+      "Girnar": "Girnar",
+      "Kalsi": "Kalsi",
+      "Rūpnāth": "Rūpnāth",
+      "Brahmagiri": "Brahmagiri",
+      "Nigali Sagar": "Nigali Sagar",
+      "Allahabad–Kauśāmbī": "Allahabad–Kauśāmbī",
+      "Sarnath": "Sarnath",
+      "Dhauli": "Dhauli"
+    },
+    "siteAltTemplate": "Facsímil de la inscripción brahmi de {site} en la edición de Hultzsch de 1925",
+    "siteCaptionTemplate": "Facsímil de la inscripción de {site}. E. Hultzsch, <em>Inscriptions of Asoka</em> (1925), dominio público.",
+    "siteTransliterationTemplate": "El texto siguiente sigue la versión de {site} en la edición de Hultzsch. Los corchetes indican letras restituidas o inciertas; los puntos señalan texto dañado o perdido. Otras copias conservadas pueden diferir.",
+    "imageAltTranslations": {
+      "Brahmi facsimiles of the three Barabar cave inscriptions in Hultzsch’s 1925 edition; Karna Chaupar is third": "Facsímiles brahmi de las tres inscripciones de las cuevas de Barabar en la edición de Hultzsch de 1925; Karna Chaupar es la tercera",
+      "Brahmi facsimiles of the three Barabar cave inscriptions in Hultzsch’s 1925 edition; Sudama is first": "Facsímiles brahmi de las tres inscripciones de las cuevas de Barabar en la edición de Hultzsch de 1925; Sudama es la primera",
+      "Brahmi facsimiles of the three Barabar cave inscriptions in Hultzsch’s 1925 edition; Visvakarma is second": "Facsímiles brahmi de las tres inscripciones de las cuevas de Barabar en la edición de Hultzsch de 1925; Visvakarma es la segunda"
+    },
+    "imageCaptionTranslations": {
+      "Barabar cave inscription facsimiles. E. Hultzsch, <em>Inscriptions of Asoka</em> (1925), public domain.": "Facsímiles de las inscripciones de las cuevas de Barabar. E. Hultzsch, <em>Inscriptions of Asoka</em> (1925), dominio público."
+    },
+    "transliterationNotes": {
+      "The text below follows Hultzsch’s edition of the Karna Chaupar inscription. Square brackets mark restored or uncertain letters; dots mark a missing passage.": "El texto siguiente sigue la edición de Hultzsch de la inscripción de Karna Chaupar. Los corchetes indican letras restituidas o inciertas; los puntos señalan un pasaje perdido.",
+      "The text below follows Hultzsch’s edition of the Sudama inscription. Square brackets mark restored or uncertain letters.": "El texto siguiente sigue la edición de Hultzsch de la inscripción de Sudama. Los corchetes indican letras restituidas o inciertas.",
+      "The text below follows Hultzsch’s edition of the Visvakarma inscription. Square brackets mark restored or uncertain letters.": "El texto siguiente sigue la edición de Hultzsch de la inscripción de Visvakarma. Los corchetes indican letras restituidas o inciertas."
+    }
   },
   "articles": {
     "ashoka-major-rock-edict-1": {
@@ -28,7 +63,7 @@
         "Facsímil de la inscripción de Girnar. E. Hultzsch, <em>Inscriptions of Asoka</em> (1925), dominio público."
       ],
       "transliterationNote": "El texto siguiente sigue la versión de Girnar en la edición de Hultzsch. Los corchetes señalan letras restituidas o inciertas; los puntos indican texto dañado o perdido. Otras copias conservadas pueden diferir.",
-      "translation": "> (A) El rey Devānāṁpriya Priyadarśin ha hecho escribir este edicto sobre la conducta moral.\n> (B) Aquí no se debe matar ni sacrificar a ningún ser vivo.\n> (C) Tampoco se deben celebrar reuniones festivas.\n> (D) Pues el rey Devānāṁpriya Priyadarśin ve muchos males en las reuniones festivas.\n> (E) Pero hay también algunas reuniones festivas que el rey Devānāṁpriya Priyadarśin considera meritorias.\n> (F) Antes, en la cocina del rey Devānāṁpriya Priyadarśin se mataban cada día muchos cientos de miles de animales para preparar curry.\n> (G) Ahora, cuando se escribe este edicto sobre la conducta moral, solo se matan tres animales al día para preparar curry: dos pavos reales y un ciervo; y ni siquiera este ciervo se mata regularmente.\n> (H) En el futuro tampoco se matarán estos tres animales.",
+      "translation": "> (A) El rey Devānāṁpriya Priyadarśin ha hecho escribir este edicto sobre la conducta moral.\n> (B) Aquí no se debe matar a ningún ser vivo para ofrecerlo en sacrificio.\n> (C) Tampoco se deben celebrar reuniones festivas.\n> (D) Pues el rey Devānāṁpriya Priyadarśin ve muchos males en las reuniones festivas.\n> (E) Pero hay también algunas reuniones festivas que el rey Devānāṁpriya Priyadarśin considera meritorias.\n> (F) Antes, en la cocina del rey Devānāṁpriya Priyadarśin se mataban cada día muchos cientos de miles de animales para preparar curry.\n> (G) Ahora, cuando se escribe este edicto sobre la conducta moral, solo se matan tres animales al día para preparar curry: dos pavos reales y un ciervo; y ni siquiera este ciervo se mata regularmente.\n> (H) En el futuro tampoco se matarán estos tres animales.",
       "sourceNote": "transliteración del magadhi, traducción inglesa y facsímiles de la inscripción"
     }
   }

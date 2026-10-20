@@ -1,0 +1,15 @@
+{
+  "title": "Inscripción aramea de Taxila: una mención dañada de Priyadarśin",
+  "excerpt": "Una inscripción aramea rota de Taxila menciona dos veces a Priyadarśin, pero el texto perdido deja inciertos su mensaje y su autoría real.",
+  "tags": ["Ashoka", "inscripciones", "arameo", "Taxila"],
+  "imageAlts": ["Escritura aramea dañada en el fragmento de piedra conservado de Taxila"],
+  "imageCaptions": ["Fragmento arameo de Taxila, fotografiado en la publicación de sir John Marshall de 1915; imagen de Wikimedia Commons, dominio público."],
+  "blocks": {
+    "1": "Este fragmento arameo se encontró en Taxila, reutilizado en un muro posterior. Se conservan doce tramos breves de escritura en una piedra rota que antes estuvo pulida. La frase ‘nuestro señor Priyadarśin’ aparece dos veces, pero el texto no dice que el rey ordenara esta inscripción concreta. Los especialistas han propuesto distintas reconstrucciones, incluidos paralelos con los edictos morales de Ashoka. Por ello se presentan los fragmentos como **inscripción asociada**, con una traducción parcial y prudente; las partes perdidas no se han completado silenciosamente con otros edictos.",
+    "4": "Esta transcripción normalizada muestra solo los grupos de letras conservados. Todas las líneas están incompletas y se discute la lectura exacta de algunas letras.",
+    "9": "La piedra está rota y no permite una traducción ininterrumpida. Estos son los fragmentos discernibles, con las palabras discutidas señaladas:",
+    "10": "> 1. … un registro o monumento conmemorativo … [incierto]\n> 2. … para o acerca de … [incierto]\n> 3–4. … daño o no causar daño … [discutido]\n> 5. … y a su padre …\n> 6. … buena obediencia; esto …\n> 7–8. … eso … aumento o buena conducta … [discutido]\n> 9. … nuestro señor Priyadarśin …\n> 10. … ir o conducta … [discutido]\n> 11. … y también su hijo o hijos …\n> 12. … de nuestro señor Priyadarśin …",
+    "11": "La lengua recuerda temas de los edictos de Ashoka, especialmente la obediencia y la conducta. Esos paralelos no demuestran que él mismo encargara esta piedra rota.",
+    "13": "- Sir John Marshall, [“An Aramaic Inscription from Taxila” (1915)](https://archive.org/details/in.ernet.dli.2015.70562), *Journal of the Royal Asiatic Society*, pp. 340–342 (primer informe y fotografía).\n- Harry Falk, [*Aśokan Sites and Artefacts* (2006)](https://dokumen.pub/aokan-sites-and-artefacts-1nbsped-3805337124.html), pp. 252–253 (lugar, lecturas fragmentarias y cautela sobre la atribución).\n- [Ficha de la imagen](https://commons.wikimedia.org/wiki/File:Taxila_aramaic_inscription.jpg), Wikimedia Commons (dominio público)."
+  }
+}

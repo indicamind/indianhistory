@@ -33,10 +33,10 @@ El texto siguiente sigue la versión de Girnar en la edición de Hultzsch. Los c
 
 ## Traducción al español
 
-Esta traducción se basa en la versión inglesa de E. Hultzsch de 1925 del texto de Girnar. Su terminología sigue esa edición histórica.
+Esta traducción al español se basa en la traducción inglesa de E. Hultzsch de 1925 de la misma versión. La terminología y las restituciones entre corchetes siguen esa edición histórica.
 
 > (A) El rey Devānāṁpriya Priyadarśin ha hecho escribir este edicto sobre la conducta moral.
-> (B) Aquí no se debe matar ni sacrificar a ningún ser vivo.
+> (B) Aquí no se debe matar a ningún ser vivo para ofrecerlo en sacrificio.
 > (C) Tampoco se deben celebrar reuniones festivas.
 > (D) Pues el rey Devānāṁpriya Priyadarśin ve muchos males en las reuniones festivas.
 > (E) Pero hay también algunas reuniones festivas que el rey Devānāṁpriya Priyadarśin considera meritorias.

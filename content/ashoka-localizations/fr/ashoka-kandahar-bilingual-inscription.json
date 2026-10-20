@@ -1,0 +1,15 @@
+{
+  "title": "Inscription bilingue de Kandahar : piété et vérité",
+  "excerpt": "Une proclamation en grec et en araméen de Kandahar lie la politique morale du roi à la retenue, à la protection des êtres vivants et au respect des parents.",
+  "tags": ["Ashoka", "inscriptions", "grec", "araméen"],
+  "imageAlts": ["Inscription sur roche de Kandahar présentant des lignes grecques au-dessus de lignes araméennes"],
+  "imageCaptions": ["Inscription grecque et araméenne de Kandahar. Image via Wikimedia Commons, domaine public."],
+  "blocks": {
+    "1": "Cette inscription sur roche près de Kandahar présente un texte grec au-dessus d’un texte araméen. Tous deux associent le roi Priyadarśin à un changement de conduite morale, à une réduction du nombre d’animaux tués et au respect des parents et des anciens. Ce sont des versions parallèles, et non des copies mot à mot. Le début du grec est endommagé et sa restitution est discutée ; les traductions françaises ci-dessous maintiennent donc cette incertitude visible.",
+    "12": "Le début contient une restitution incertaine. Cette traduction suit les mots conservés et la lecture discutée par Francesco Maniscalco.",
+    "13": "> Après dix ans [la formule initiale est endommagée], le roi Piodasses fit connaître la piété aux hommes. Dès lors, il les rendit plus pieux, et les affaires prospèrent partout. Le roi s’abstient de tuer les êtres vivants ; les autres hommes font de même. Les chasseurs et les pêcheurs du roi ont cessé de chasser. Ceux qui manquaient de retenue ont renoncé à ce comportement autant qu’ils le peuvent. En obéissant au père, à la mère et aux anciens, maintenant et à l’avenir, les hommes qui suivent ces pratiques vivront mieux à tous égards.",
+    "15": "L’araméen est une version parallèle dont la formulation diffère. Sa lecture comprend des mots discutés, en particulier près du début et de la fin.",
+    "16": "> Dans la dixième année, notre seigneur le roi Priyadarśin établit la vérité. Dès lors, le mal parmi les hommes diminua et leurs difficultés furent écartées ; la paix et le bien-être se répandirent dans le pays. Pour ce qui est de la nourriture, seuls quelques animaux sont tués pour le roi. Voyant cela, les hommes cessèrent de tuer, et les pêcheurs furent eux aussi soumis à la restriction. Les hommes sans retenue abandonnèrent cette conduite. Ils obéissent à la mère, au père et aux anciens selon leurs obligations. Pour les justes, il n’y a pas de jugement [le sens est discuté]. Cela a été bénéfique pour tous et le sera davantage encore.",
+    "18": "- Francesco Maniscalco, [« A New Interpretation of the Edicts of Aśoka from Kandahar » (2018)](https://doi.org/10.30687/AnnOr/2385-3042/2018/01/011), *Annali di Ca’ Foscari. Serie orientale* 54, pp. 239–264 (texte grec, traduction et discussion ; CC BY 4.0).\n- Harry Falk, [*Aśokan Sites and Artefacts* (2006)](https://dokumen.pub/aokan-sites-and-artefacts-1nbsped-3805337124.html), pp. 241–243 (site, image et bibliographie des éditions araméennes).\n- [Notice de l’image](https://commons.wikimedia.org/wiki/File:AsokaKandahar.jpg), Wikimedia Commons (domaine public)."
+  }
+}

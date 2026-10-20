@@ -33,10 +33,10 @@ Le texte ci-dessous suit la version de Girnar dans l’édition de Hultzsch. Les
 
 ## Traduction française
 
-Cette traduction repose sur la version anglaise de 1925 par E. Hultzsch du texte de Girnar. Sa terminologie suit cette édition historique.
+Cette traduction française repose sur la traduction anglaise donnée par E. Hultzsch en 1925 pour la même version. La terminologie et les restitutions entre crochets suivent cette édition historique.
 
 > (A) Le roi Devānāṁpriya Priyadarśin a fait rédiger cet édit sur la conduite morale.
-> (B) Ici, aucun être vivant ne doit être tué ni sacrifié.
+> (B) Ici, aucun être vivant ne doit être abattu pour être offert en sacrifice.
 > (C) Et aucune réunion festive ne doit être organisée.
 > (D) Car le roi Devānāṁpriya Priyadarśin voit beaucoup de mal dans les réunions festives.
 > (E) Il existe toutefois certaines réunions festives que le roi Devānāṁpriya Priyadarśin juge méritoires.

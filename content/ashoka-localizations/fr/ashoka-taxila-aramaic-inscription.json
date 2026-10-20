@@ -1,0 +1,15 @@
+{
+  "title": "Inscription araméenne de Taxila : une mention endommagée de Priyadarśin",
+  "excerpt": "Une inscription araméenne brisée provenant de Taxila mentionne Priyadarśin à deux reprises, mais ses lacunes laissent son message et son origine royale incertains.",
+  "tags": ["Ashoka", "inscriptions", "araméen", "Taxila"],
+  "imageAlts": ["Écriture araméenne endommagée sur le fragment de pierre conservé à Taxila"],
+  "imageCaptions": ["Le fragment araméen de Taxila, photographié dans la publication de Sir John Marshall de 1915 ; image via Wikimedia Commons, domaine public."],
+  "blocks": {
+    "1": "Ce fragment araméen a été découvert à Taxila, remployé dans un mur plus récent. Douze courtes portions d’écriture sont conservées sur une pierre brisée, autrefois polie. L’expression « notre seigneur Priyadarśin » apparaît deux fois, mais le texte ne dit pas que le roi a commandé cette inscription particulière. Les chercheurs ont proposé différentes restitutions, notamment des parallèles avec les édits moraux d’Ashoka. Les fragments ci-dessous sont donc présentés comme une **inscription associée**, avec une traduction partielle et prudente ; les lacunes n’ont pas été comblées sans le signaler à partir d’autres édits.",
+    "4": "Cette transcription normalisée ne présente que les groupes de lettres conservés. Chaque ligne est incomplète ; la lecture précise de certaines lettres est discutée.",
+    "9": "Aucune traduction continue n’est possible, car la pierre est brisée. Voici les fragments discernables, les mots discutés étant signalés comme tels :",
+    "10": "> 1. … un document ou un mémorial … [incertain]\n> 2. … pour ou concernant … [incertain]\n> 3–4. … le mal ou le fait de ne pas nuire … [discuté]\n> 5. … et à son père …\n> 6. … une bonne obéissance ; ceci …\n> 7–8. … que … l’accroissement ou la bonne conduite … [discuté]\n> 9. … notre seigneur Priyadarśin …\n> 10. … le fait d’aller ou la conduite … [discuté]\n> 11. … et aussi son fils ou ses fils …\n> 12. … de notre seigneur Priyadarśin …",
+    "11": "La langue fait écho à des thèmes présents dans les édits d’Ashoka, notamment l’obéissance et la conduite. Ces parallèles ne permettent pas d’établir qu’il a lui-même commandé cette pierre brisée.",
+    "13": "- Sir John Marshall, [« An Aramaic Inscription from Taxila » (1915)](https://archive.org/details/in.ernet.dli.2015.70562), *Journal of the Royal Asiatic Society*, pp. 340–342 (premier compte rendu et photographie).\n- Harry Falk, [*Aśokan Sites and Artefacts* (2006)](https://dokumen.pub/aokan-sites-and-artefacts-1nbsped-3805337124.html), pp. 252–253 (site, lectures fragmentaires et réserve sur l’attribution).\n- [Notice de l’image](https://commons.wikimedia.org/wiki/File:Taxila_aramaic_inscription.jpg), Wikimedia Commons (domaine public)."
+  }
+}

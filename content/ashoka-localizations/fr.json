@@ -9,7 +9,42 @@
     "volumeOne": "volume I",
     "polyglottaEdition": "édition de la Bibliotheca Polyglotta",
     "universityOfOslo": "Université d’Oslo",
-    "translationBasisNote": "Cette traduction repose sur la version anglaise de 1925 par E. Hultzsch du texte de Girnar. Sa terminologie suit cette édition historique."
+    "translationBasisNote": "Cette traduction française repose sur la traduction anglaise donnée par E. Hultzsch en 1925 pour la même version. La terminologie et les restitutions entre crochets suivent cette édition historique.",
+    "Original scripts": "Écritures originales",
+    "English translation of the Greek": "Traduction française du grec",
+    "English translation of the Aramaic": "Traduction française de l’araméen",
+    "Greek": "Grec",
+    "Aramaic": "Araméen",
+    "sourceNote": "translittération du magadhi, traduction anglaise et fac-similés des inscriptions",
+    "siteNames": {
+      "Bairat": "Bairat",
+      "Lumbini": "Lumbini",
+      "Delhi–Topra": "Delhi–Topra",
+      "Girnar": "Girnar",
+      "Kalsi": "Kalsi",
+      "Rūpnāth": "Rūpnāth",
+      "Brahmagiri": "Brahmagiri",
+      "Nigali Sagar": "Nigali Sagar",
+      "Allahabad–Kauśāmbī": "Allahabad–Kauśāmbī",
+      "Sarnath": "Sarnath",
+      "Dhauli": "Dhauli"
+    },
+    "siteAltTemplate": "Fac-similé de l’inscription brahmi de {site} dans l’édition de Hultzsch de 1925",
+    "siteCaptionTemplate": "Fac-similé de l’inscription de {site}. E. Hultzsch, <em>Inscriptions of Asoka</em> (1925), domaine public.",
+    "siteTransliterationTemplate": "Le texte ci-dessous suit la version de {site} dans l’édition de Hultzsch. Les crochets indiquent des lettres restituées ou incertaines ; les points signalent un texte endommagé ou manquant. Les autres copies conservées peuvent différer.",
+    "imageAltTranslations": {
+      "Brahmi facsimiles of the three Barabar cave inscriptions in Hultzsch’s 1925 edition; Karna Chaupar is third": "Fac-similés brahmi des trois inscriptions des grottes de Barabar dans l’édition de Hultzsch de 1925 ; Karna Chaupar est la troisième",
+      "Brahmi facsimiles of the three Barabar cave inscriptions in Hultzsch’s 1925 edition; Sudama is first": "Fac-similés brahmi des trois inscriptions des grottes de Barabar dans l’édition de Hultzsch de 1925 ; Sudama est la première",
+      "Brahmi facsimiles of the three Barabar cave inscriptions in Hultzsch’s 1925 edition; Visvakarma is second": "Fac-similés brahmi des trois inscriptions des grottes de Barabar dans l’édition de Hultzsch de 1925 ; Visvakarma est la deuxième"
+    },
+    "imageCaptionTranslations": {
+      "Barabar cave inscription facsimiles. E. Hultzsch, <em>Inscriptions of Asoka</em> (1925), public domain.": "Fac-similés des inscriptions des grottes de Barabar. E. Hultzsch, <em>Inscriptions of Asoka</em> (1925), domaine public."
+    },
+    "transliterationNotes": {
+      "The text below follows Hultzsch’s edition of the Karna Chaupar inscription. Square brackets mark restored or uncertain letters; dots mark a missing passage.": "Le texte ci-dessous suit l’édition de Hultzsch de l’inscription de Karna Chaupar. Les crochets indiquent des lettres restituées ou incertaines ; les points signalent un passage manquant.",
+      "The text below follows Hultzsch’s edition of the Sudama inscription. Square brackets mark restored or uncertain letters.": "Le texte ci-dessous suit l’édition de Hultzsch de l’inscription de Sudama. Les crochets indiquent des lettres restituées ou incertaines.",
+      "The text below follows Hultzsch’s edition of the Visvakarma inscription. Square brackets mark restored or uncertain letters.": "Le texte ci-dessous suit l’édition de Hultzsch de l’inscription de Visvakarma. Les crochets indiquent des lettres restituées ou incertaines."
+    }
   },
   "articles": {
     "ashoka-major-rock-edict-1": {
@@ -28,7 +63,7 @@
         "Fac-similé de l’inscription de Girnar. E. Hultzsch, <em>Inscriptions of Asoka</em> (1925), domaine public."
       ],
       "transliterationNote": "Le texte ci-dessous suit la version de Girnar dans l’édition de Hultzsch. Les crochets indiquent des lettres restituées ou incertaines ; les points signalent un texte endommagé ou manquant. Les autres copies conservées peuvent différer.",
-      "translation": "> (A) Le roi Devānāṁpriya Priyadarśin a fait rédiger cet édit sur la conduite morale.\n> (B) Ici, aucun être vivant ne doit être tué ni sacrifié.\n> (C) Et aucune réunion festive ne doit être organisée.\n> (D) Car le roi Devānāṁpriya Priyadarśin voit beaucoup de mal dans les réunions festives.\n> (E) Il existe toutefois certaines réunions festives que le roi Devānāṁpriya Priyadarśin juge méritoires.\n> (F) Autrefois, dans la cuisine du roi Devānāṁpriya Priyadarśin, des centaines de milliers d’animaux étaient tués chaque jour pour préparer du curry.\n> (G) Mais maintenant, au moment où cet édit sur la conduite morale est rédigé, seuls trois animaux sont tués chaque jour pour préparer du curry : deux paons et un cerf ; et ce cerf ne l’est même pas régulièrement.\n> (H) À l’avenir, ces trois animaux ne seront plus tués non plus.",
+      "translation": "> (A) Le roi Devānāṁpriya Priyadarśin a fait rédiger cet édit sur la conduite morale.\n> (B) Ici, aucun être vivant ne doit être abattu pour être offert en sacrifice.\n> (C) Et aucune réunion festive ne doit être organisée.\n> (D) Car le roi Devānāṁpriya Priyadarśin voit beaucoup de mal dans les réunions festives.\n> (E) Il existe toutefois certaines réunions festives que le roi Devānāṁpriya Priyadarśin juge méritoires.\n> (F) Autrefois, dans la cuisine du roi Devānāṁpriya Priyadarśin, des centaines de milliers d’animaux étaient tués chaque jour pour préparer du curry.\n> (G) Mais maintenant, au moment où cet édit sur la conduite morale est rédigé, seuls trois animaux sont tués chaque jour pour préparer du curry : deux paons et un cerf ; et ce cerf ne l’est même pas régulièrement.\n> (H) À l’avenir, ces trois animaux ne seront plus tués non plus.",
       "sourceNote": "translittération du magadhi, traduction anglaise et fac-similés de l’inscription"
     }
   }

@@ -26,6 +26,7 @@
 .book-sidebar h2 a:hover { color: var(--accent); }
 .book-sidebar .book-meta,
 .book-sidebar .book-author { color: var(--muted); font-size: 0.82rem; }
+.book-sidebar .book-author span + span { margin-inline-start: 0.3em; }
 .book-sidebar .read-more { display: inline-block; margin-top: 0.75rem; font-weight: 600; }
 
 @media (max-width: 760px) {
@@ -34,14 +35,15 @@
     display: grid;
     grid-template-columns: 4.5rem minmax(0, 1fr);
     column-gap: 0.85rem;
+    row-gap: 0.5rem;
     align-items: center;
     padding: 0.85rem;
   }
   .book-sidebar .eyebrow,
   .book-sidebar > .affiliate-status { grid-column: 1 / -1; }
-  .book-sidebar .eyebrow { margin-bottom: -0.25rem; }
+  .book-sidebar .eyebrow { margin-bottom: 0.25rem; }
   .book-sidebar-cover { grid-row: span 4; width: 100%; margin: 0; }
-  .book-sidebar h2 { margin: 0; font-size: 1rem; }
+  .book-sidebar h2 { margin: 0; font-size: 1rem; line-height: 1.35; }
   .book-sidebar .book-meta,
   .book-sidebar .book-author,
   .book-sidebar .read-more { margin: 0; }

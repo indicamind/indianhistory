@@ -1,0 +1,49 @@
+---
+title: "ਮੁੱਖ ਪੱਥਰ ਫ਼ਰਮਾਨ 11: ਧੰਮ ਦਾ ਦਾਨ"
+slug: ashoka-major-rock-edict-11
+previewOnly: true
+excerpt: "ਰਾਜਾ ਨੈਤਿਕ ਆਚਰਨ ਨੂੰ ਸਭ ਤੋਂ ਉੱਚਾ ਦਾਨ ਅਤੇ ਸਮਾਜਿਕ ਨਾਤਾ ਕਹਿੰਦਾ ਹੈ।"
+publishedAt: 2026-10-16T00:00:00.000Z
+updatedAt: 2026-10-16T00:00:00.000Z
+period: mauryan
+polity: maurya
+personalities: [ashoka]
+relatedTo: ashoka-edicts
+tags: ["ਅਸ਼ੋਕ","ਫ਼ਰਮਾਨ","ਮੁੱਖ ਪੱਥਰ ਫ਼ਰਮਾਨ"]
+themes: []
+books: []
+sourceHash: 8fad0ce88ff7036325c0132967309f4a832f5636427113501a9348e4fd3f9637
+---
+
+## ਇਸ ਸ਼ਿਲਾਲੇਖ ਬਾਰੇ
+
+ਇਹ ਛੋਟਾ ਅਭਿਲੇਖ ਸੇਵਕਾਂ ਪ੍ਰਤੀ ਸਲੀਕੇ, ਮਾਪਿਆਂ ਦੇ ਆਦਰ, ਉਦਾਰਤਾ ਅਤੇ ਪਸ਼ੂਆਂ ਨੂੰ ਹਾਨੀ ਨਾ ਪਹੁੰਚਾਉਣ ਰਾਹੀਂ ਧੰਮ ਸਮਝਾਉਂਦਾ ਹੈ। ਇਹ ਆਚਰਨ ਇਸ ਲੋਕ ਅਤੇ ਪਰਲੋਕ ਵਿੱਚ ਲਾਭ ਦਿੰਦਾ ਹੈ।
+
+## ਮੂਲ ਲਿਪੀ
+
+<figure class="article-figure inscription-plate">
+  <img src="/assets/media/images/ashoka-plate-1405544759.jpg" alt="ਹੁਲਟਸ਼ ਦੇ 1925 ਦੇ ਸੰਸਕਰਣ ਵਿੱਚ ਗਿਰਨਾਰ ਦੇ ਬ੍ਰਾਹਮੀ ਅਭਿਲੇਖ ਦੀ ਨਕਲ" loading="lazy" decoding="async" />
+  <figcaption>ਗਿਰਨਾਰ ਦੇ ਅਭਿਲੇਖ ਦੀ ਨਕਲ। ਈ. ਹੁਲਟਸ਼, <em>Inscriptions of Asoka</em> (1925), ਜਨਤਕ ਮਲਕੀਅਤ।</figcaption>
+</figure>
+
+## ਰੋਮਨ ਲਿਪੀ ਵਿੱਚ ਲਿਪਿਆਂਤਰਨ
+
+ਹੇਠਾਂ ਦਿੱਤਾ ਪਾਠ ਹੁਲਟਸ਼ ਦੇ ਸੰਸਕਰਣ ਵਿਚਲੇ ਗਿਰਨਾਰ ਦੇ ਪਾਠ ਦੀ ਪਾਲਣਾ ਕਰਦਾ ਹੈ। ਚੌਰਸ ਬਰੈਕਟ ਮੁੜ ਜੋੜੇ ਜਾਂ ਅਣਪੱਕੇ ਅੱਖਰ ਦਰਸਾਉਂਦੇ ਹਨ; ਬਿੰਦੀਆਂ ਨੁਕਸਾਨੇ ਜਾਂ ਗੁੰਮ ਹੋਏ ਪਾਠ ਨੂੰ ਦਰਸਾਉਂਦੀਆਂ ਹਨ। ਬਚੀਆਂ ਹੋਰ ਨਕਲਾਂ ਵੱਖਰੀਆਂ ਹੋ ਸਕਦੀਆਂ ਹਨ।
+
+<p class="inscription-transliteration" lang="pra-Latn">(A) 1 Devinaṃpriyo Piyadasi rājā ev[a]ṃ āha (B) nāsti etārisaṃ dānaṃ yārisaṃ dhaṃma-dānaṃ dhaṃma-saṃstavo vā dhaṃma-saṃvibhāgo [vā] dhaṃmasaṃbadho va (C) 2 tata idaṃ bhavati dāsa-bhatakamhi samya-p[r]atipatī mātari pitara sādhu sus[r]uā mita-[sa]stuta-ñātikānaṃ bāmhaṇa-s[r]amaṇa[naṃ] sādhu dā[naṃ] 3 prāṇānaṃ anāraṃbho sādhu (D) eta vatavyaṃ pitā va putrena va bhāt[ā] va mitasastut[a]-ñāt[i]k[e]na va āva paṭīvesiyehi ida sādhu ida ka[tav]ya[ṃ] (E) 4 so t[a]thā karu ilokacasa āradho hoti parata ca aṃnaṃtaṃ puiñaṃ bhavati tena dhaṃma-dānena</p>
+
+## ਪੰਜਾਬੀ ਅਨੁਵਾਦ
+
+ਇਹ ਪੰਜਾਬੀ ਅਨੁਵਾਦ ਇਸੇ ਪਾਠ ਦੇ ਈ. ਹੁਲਟਸ਼ ਵੱਲੋਂ 1925 ਵਿੱਚ ਕੀਤੇ ਅੰਗਰੇਜ਼ੀ ਅਨੁਵਾਦ ਉੱਤੇ ਆਧਾਰਿਤ ਹੈ। ਸ਼ਬਦਾਵਲੀ ਅਤੇ ਚੌਰਸ ਬਰੈਕਟਾਂ ਵਿਚਲੇ ਮੁੜ ਜੋੜੇ ਹਿੱਸੇ ਉਸ ਇਤਿਹਾਸਕ ਸੰਸਕਰਣ ਦੀ ਪਾਲਣਾ ਕਰਦੇ ਹਨ।
+
+> (A) ਰਾਜਾ ਦੇਵਾਨੰਪ੍ਰਿਯ ਪ੍ਰਿਯਦਰਸ਼ੀ ਇਸ ਤਰ੍ਹਾਂ ਕਹਿੰਦਾ ਹੈ।
+> (B) ਧੰਮ ਦੇ ਦਾਨ ਵਰਗਾ ਕੋਈ ਦਾਨ ਨਹੀਂ; ਧੰਮ ਰਾਹੀਂ ਜਾਣ-ਪਛਾਣ, ਧੰਮ ਦੀ ਵੰਡ ਅਤੇ ਧੰਮ ਰਾਹੀਂ ਰਿਸ਼ਤੇਦਾਰੀ ਵਰਗਾ ਹੋਰ ਕੁਝ ਨਹੀਂ।
+> (C) ਇਸ ਵਿੱਚ ਦਾਸਾਂ ਅਤੇ ਸੇਵਕਾਂ ਨਾਲ ਸਹੀ ਸਲੀਕਾ, ਮਾਂ ਅਤੇ ਪਿਤਾ ਦੀ ਆਗਿਆ, ਦੋਸਤਾਂ, ਜਾਣਕਾਰਾਂ, ਰਿਸ਼ਤੇਦਾਰਾਂ, ਬ੍ਰਾਹਮਣਾਂ ਅਤੇ ਸ਼੍ਰਮਣਾਂ ਪ੍ਰਤੀ ਉਦਾਰਤਾ ਅਤੇ ਪਸ਼ੂਆਂ ਦੀ ਹੱਤਿਆ ਤੋਂ ਪਰਹੇਜ਼ ਸ਼ਾਮਲ ਹਨ।
+> (D) ਇਸ ਬਾਰੇ ਪਿਤਾ, ਪੁੱਤਰ, ਭਰਾ, ਦੋਸਤ, ਜਾਣਕਾਰ, ਰਿਸ਼ਤੇਦਾਰ ਜਾਂ ਗੁਆਂਢੀ ਵੀ ਕਹੇ: ‘ਇਹ ਪੁੰਨ ਹੈ। ਇਹ ਕਰਨਾ ਚਾਹੀਦਾ ਹੈ।’
+> (E) ਇਸ ਤਰ੍ਹਾਂ ਚੱਲਣ ਨਾਲ ਇਸ ਲੋਕ ਵਿੱਚ ਖ਼ੁਸ਼ੀ ਮਿਲਦੀ ਹੈ ਅਤੇ ਧੰਮ ਦੇ ਉਸ ਦਾਨ ਨਾਲ ਪਰਲੋਕ ਵਿੱਚ ਬੇਅੰਤ ਪੁੰਨ ਪੈਦਾ ਹੁੰਦਾ ਹੈ।
+
+## ਸਰੋਤ
+
+- E. Hultzsch, [*Inscriptions of Asoka* (1925)](https://archive.org/details/InscriptionsOfAsoka.NewEditionByE.Hultzsch), *Corpus Inscriptionum Indicarum*, ਜਿਲਦ 1.
+
+- [ਬਿਬਲੀਓਥੇਕਾ ਪੋਲੀਗਲੋਟਾ ਸੰਸਕਰਣ](https://www2.hf.uio.no/polyglotta/index.php?mid=0&page=fulltext&vid=362&view=fulltext), ਓਸਲੋ ਯੂਨੀਵਰਸਿਟੀ (ਮਾਗਧੀ ਲਿਪਿਆਂਤਰਨ, ਅੰਗਰੇਜ਼ੀ ਅਨੁਵਾਦ ਅਤੇ ਅਭਿਲੇਖਾਂ ਦੀਆਂ ਨਕਲਾਂ).

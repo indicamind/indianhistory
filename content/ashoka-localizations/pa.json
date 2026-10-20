@@ -9,12 +9,47 @@
     "volumeOne": "ਜਿਲਦ 1",
     "polyglottaEdition": "ਬਿਬਲੀਓਥੇਕਾ ਪੋਲੀਗਲੋਟਾ ਸੰਸਕਰਣ",
     "universityOfOslo": "ਓਸਲੋ ਯੂਨੀਵਰਸਿਟੀ",
-    "translationBasisNote": "ਇਹ ਅਨੁਵਾਦ ਗਿਰਨਾਰ ਦੇ ਪਾਠ ਲਈ ਈ. ਹੁਲਟਸ਼ ਦੇ 1925 ਦੇ ਅੰਗਰੇਜ਼ੀ ਅਨੁਵਾਦ ਉੱਤੇ ਆਧਾਰਿਤ ਹੈ। ਇਸ ਦੀ ਸ਼ਬਦਾਵਲੀ ਉਸ ਇਤਿਹਾਸਕ ਸੰਸਕਰਣ ਦੇ ਅਨੁਸਾਰ ਹੈ।"
+    "translationBasisNote": "ਇਹ ਪੰਜਾਬੀ ਅਨੁਵਾਦ ਇਸੇ ਪਾਠ ਦੇ ਈ. ਹੁਲਟਸ਼ ਵੱਲੋਂ 1925 ਵਿੱਚ ਕੀਤੇ ਅੰਗਰੇਜ਼ੀ ਅਨੁਵਾਦ ਉੱਤੇ ਆਧਾਰਿਤ ਹੈ। ਸ਼ਬਦਾਵਲੀ ਅਤੇ ਚੌਰਸ ਬਰੈਕਟਾਂ ਵਿਚਲੇ ਮੁੜ ਜੋੜੇ ਹਿੱਸੇ ਉਸ ਇਤਿਹਾਸਕ ਸੰਸਕਰਣ ਦੀ ਪਾਲਣਾ ਕਰਦੇ ਹਨ।",
+    "Original scripts": "ਮੂਲ ਲਿਪੀਆਂ",
+    "English translation of the Greek": "ਯੂਨਾਨੀ ਪਾਠ ਦਾ ਪੰਜਾਬੀ ਅਨੁਵਾਦ",
+    "English translation of the Aramaic": "ਅਰਾਮੀ ਪਾਠ ਦਾ ਪੰਜਾਬੀ ਅਨੁਵਾਦ",
+    "Greek": "ਯੂਨਾਨੀ",
+    "Aramaic": "ਅਰਾਮੀ",
+    "sourceNote": "ਮਾਗਧੀ ਲਿਪਿਆਂਤਰਨ, ਅੰਗਰੇਜ਼ੀ ਅਨੁਵਾਦ ਅਤੇ ਅਭਿਲੇਖਾਂ ਦੀਆਂ ਨਕਲਾਂ",
+    "siteNames": {
+      "Bairat": "ਬੈਰਾਟ",
+      "Lumbini": "ਲੁੰਬਿਨੀ",
+      "Delhi–Topra": "ਦਿੱਲੀ–ਟੋਪਰਾ",
+      "Girnar": "ਗਿਰਨਾਰ",
+      "Kalsi": "ਕਾਲਸੀ",
+      "Rūpnāth": "ਰੂਪਨਾਥ",
+      "Brahmagiri": "ਬ੍ਰਹਮਗਿਰੀ",
+      "Nigali Sagar": "ਨਿਗਲੀ ਸਾਗਰ",
+      "Allahabad–Kauśāmbī": "ਅਲਾਹਾਬਾਦ–ਕੌਸ਼ਾਂਬੀ",
+      "Sarnath": "ਸਾਰਨਾਥ",
+      "Dhauli": "ਧੌਲੀ"
+    },
+    "siteAltTemplate": "ਹੁਲਟਸ਼ ਦੇ 1925 ਦੇ ਸੰਸਕਰਣ ਵਿੱਚ {site} ਦੇ ਬ੍ਰਾਹਮੀ ਅਭਿਲੇਖ ਦੀ ਨਕਲ",
+    "siteCaptionTemplate": "{site} ਦੇ ਅਭਿਲੇਖ ਦੀ ਨਕਲ। ਈ. ਹੁਲਟਸ਼, <em>Inscriptions of Asoka</em> (1925), ਜਨਤਕ ਮਲਕੀਅਤ।",
+    "siteTransliterationTemplate": "ਹੇਠਾਂ ਦਿੱਤਾ ਪਾਠ ਹੁਲਟਸ਼ ਦੇ ਸੰਸਕਰਣ ਵਿਚਲੇ {site} ਦੇ ਪਾਠ ਦੀ ਪਾਲਣਾ ਕਰਦਾ ਹੈ। ਚੌਰਸ ਬਰੈਕਟ ਮੁੜ ਜੋੜੇ ਜਾਂ ਅਣਪੱਕੇ ਅੱਖਰ ਦਰਸਾਉਂਦੇ ਹਨ; ਬਿੰਦੀਆਂ ਨੁਕਸਾਨੇ ਜਾਂ ਗੁੰਮ ਹੋਏ ਪਾਠ ਨੂੰ ਦਰਸਾਉਂਦੀਆਂ ਹਨ। ਬਚੀਆਂ ਹੋਰ ਨਕਲਾਂ ਵੱਖਰੀਆਂ ਹੋ ਸਕਦੀਆਂ ਹਨ।",
+    "imageAltTranslations": {
+      "Brahmi facsimiles of the three Barabar cave inscriptions in Hultzsch’s 1925 edition; Karna Chaupar is third": "ਹੁਲਟਸ਼ ਦੇ 1925 ਦੇ ਸੰਸਕਰਣ ਵਿੱਚ ਬਰਾਬਰ ਗੁਫ਼ਾਵਾਂ ਦੇ ਤਿੰਨ ਬ੍ਰਾਹਮੀ ਅਭਿਲੇਖਾਂ ਦੀਆਂ ਨਕਲਾਂ; ਕਰਨ ਚੌਪਰ ਤੀਜਾ ਹੈ",
+      "Brahmi facsimiles of the three Barabar cave inscriptions in Hultzsch’s 1925 edition; Sudama is first": "ਹੁਲਟਸ਼ ਦੇ 1925 ਦੇ ਸੰਸਕਰਣ ਵਿੱਚ ਬਰਾਬਰ ਗੁਫ਼ਾਵਾਂ ਦੇ ਤਿੰਨ ਬ੍ਰਾਹਮੀ ਅਭਿਲੇਖਾਂ ਦੀਆਂ ਨਕਲਾਂ; ਸੁਦਾਮਾ ਪਹਿਲਾ ਹੈ",
+      "Brahmi facsimiles of the three Barabar cave inscriptions in Hultzsch’s 1925 edition; Visvakarma is second": "ਹੁਲਟਸ਼ ਦੇ 1925 ਦੇ ਸੰਸਕਰਣ ਵਿੱਚ ਬਰਾਬਰ ਗੁਫ਼ਾਵਾਂ ਦੇ ਤਿੰਨ ਬ੍ਰਾਹਮੀ ਅਭਿਲੇਖਾਂ ਦੀਆਂ ਨਕਲਾਂ; ਵਿਸ਼ਵਕਰਮਾ ਦੂਜਾ ਹੈ"
+    },
+    "imageCaptionTranslations": {
+      "Barabar cave inscription facsimiles. E. Hultzsch, <em>Inscriptions of Asoka</em> (1925), public domain.": "ਬਰਾਬਰ ਗੁਫ਼ਾਵਾਂ ਦੇ ਅਭਿਲੇਖਾਂ ਦੀਆਂ ਨਕਲਾਂ। ਈ. ਹੁਲਟਸ਼, <em>Inscriptions of Asoka</em> (1925), ਜਨਤਕ ਮਲਕੀਅਤ।"
+    },
+    "transliterationNotes": {
+      "The text below follows Hultzsch’s edition of the Karna Chaupar inscription. Square brackets mark restored or uncertain letters; dots mark a missing passage.": "ਹੇਠਾਂ ਦਿੱਤਾ ਪਾਠ ਹੁਲਟਸ਼ ਦੇ ਕਰਨ ਚੌਪਰ ਅਭਿਲੇਖ ਦੇ ਸੰਸਕਰਣ ਦੀ ਪਾਲਣਾ ਕਰਦਾ ਹੈ। ਚੌਰਸ ਬਰੈਕਟ ਮੁੜ ਜੋੜੇ ਜਾਂ ਅਣਪੱਕੇ ਅੱਖਰ ਅਤੇ ਬਿੰਦੀਆਂ ਗੁੰਮ ਹੋਇਆ ਹਿੱਸਾ ਦਰਸਾਉਂਦੀਆਂ ਹਨ।",
+      "The text below follows Hultzsch’s edition of the Sudama inscription. Square brackets mark restored or uncertain letters.": "ਹੇਠਾਂ ਦਿੱਤਾ ਪਾਠ ਹੁਲਟਸ਼ ਦੇ ਸੁਦਾਮਾ ਅਭਿਲੇਖ ਦੇ ਸੰਸਕਰਣ ਦੀ ਪਾਲਣਾ ਕਰਦਾ ਹੈ। ਚੌਰਸ ਬਰੈਕਟ ਮੁੜ ਜੋੜੇ ਜਾਂ ਅਣਪੱਕੇ ਅੱਖਰ ਦਰਸਾਉਂਦੇ ਹਨ।",
+      "The text below follows Hultzsch’s edition of the Visvakarma inscription. Square brackets mark restored or uncertain letters.": "ਹੇਠਾਂ ਦਿੱਤਾ ਪਾਠ ਹੁਲਟਸ਼ ਦੇ ਵਿਸ਼ਵਕਰਮਾ ਅਭਿਲੇਖ ਦੇ ਸੰਸਕਰਣ ਦੀ ਪਾਲਣਾ ਕਰਦਾ ਹੈ। ਚੌਰਸ ਬਰੈਕਟ ਮੁੜ ਜੋੜੇ ਜਾਂ ਅਣਪੱਕੇ ਅੱਖਰ ਦਰਸਾਉਂਦੇ ਹਨ।"
+    }
   },
   "articles": {
     "ashoka-major-rock-edict-1": {
       "title": "ਪਹਿਲਾ ਮੁੱਖ ਪੱਥਰ ਫ਼ਰਮਾਨ: ਪਸ਼ੂ ਬਲੀ ਅਤੇ ਸ਼ਾਹੀ ਰਸੋਈ",
-      "excerpt": "ਅਸ਼ੋਕ ਪਸ਼ੂ ਬਲੀ ਉੱਤੇ ਸੀਮਿਤ ਕਰਦਾ ਹੈ ਅਤੇ ਦੱਸਦਾ ਹੈ ਕਿ ਸ਼ਾਹੀ ਰਸੋਈ ਵਿੱਚ ਪਸ਼ੂਆਂ ਦੀ ਹੱਤਿਆ ਬਹੁਤ ਘੱਟ ਹੋ ਗਈ ਹੈ।",
+      "excerpt": "ਅਸ਼ੋਕ ਪਸ਼ੂ ਬਲੀ ਨੂੰ ਸੀਮਿਤ ਕਰਦਾ ਹੈ ਅਤੇ ਦੱਸਦਾ ਹੈ ਕਿ ਸ਼ਾਹੀ ਰਸੋਈ ਵਿੱਚ ਪਸ਼ੂਆਂ ਦੀ ਹੱਤਿਆ ਬਹੁਤ ਘੱਟ ਹੋ ਗਈ ਹੈ।",
       "tags": [
         "ਅਸ਼ੋਕ",
         "ਫ਼ਰਮਾਨ",

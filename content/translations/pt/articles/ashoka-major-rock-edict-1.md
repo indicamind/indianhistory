@@ -33,10 +33,10 @@ O texto abaixo segue a versão de Girnar na edição de Hultzsch. Os colchetes i
 
 ## Tradução em português
 
-Esta tradução baseia-se na versão inglesa de E. Hultzsch, de 1925, do texto de Girnar. A terminologia segue essa edição histórica.
+Esta tradução em português baseia-se na tradução inglesa de E. Hultzsch, de 1925, para a mesma versão. A terminologia e as restaurações entre colchetes seguem essa edição histórica.
 
 > (A) O rei Devānāṁpriya Priyadarśin mandou escrever este édito sobre a conduta moral.
-> (B) Aqui, nenhum ser vivo deve ser morto nem sacrificado.
+> (B) Aqui, nenhum ser vivo deve ser morto para ser oferecido em sacrifício.
 > (C) E nenhuma reunião festiva deve ser realizada.
 > (D) Pois o rei Devānāṁpriya Priyadarśin vê muitos males nas reuniões festivas.
 > (E) Contudo, há algumas reuniões festivas que o rei Devānāṁpriya Priyadarśin considera meritórias.

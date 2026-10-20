@@ -1,0 +1,59 @@
+---
+title: "Édito maior em pilar IV: a justiça e os rajukas"
+slug: ashoka-major-pillar-edict-4
+previewOnly: true
+excerpt: "O rei concede autoridade aos funcionários locais, pedindo que administrem a justiça com equidade e contenção."
+publishedAt: 2026-10-16T00:00:00.000Z
+updatedAt: 2026-10-16T00:00:00.000Z
+period: mauryan
+polity: maurya
+personalities: [ashoka]
+relatedTo: ashoka-edicts
+tags: ["Ashoka","éditos","édito maior em pilar"]
+themes: []
+books: []
+sourceHash: add5b322da0d995a65d1cdf9352963a7f852adbaaf0c5f5039b8dfe057d9f1a9
+---
+
+## Sobre este édito
+
+Este édito trata dos rajukas, funcionários responsáveis por muitas pessoas. Discute a discricionariedade nas recompensas e punições e um adiamento de três dias antes de uma execução, mostrando que o programa moral de Ashoka ainda funcionava dentro de um Estado com um sistema penal.
+
+## Escrita original
+
+<figure class="article-figure inscription-plate">
+  <img src="/assets/media/images/ashoka-plate-1405674156.jpg" alt="Fac-símile da inscrição brāhmī de Delhi–Topra na edição de Hultzsch de 1925" loading="lazy" decoding="async" />
+  <figcaption>Fac-símile da inscrição de Delhi–Topra. E. Hultzsch, <em>Inscriptions of Asoka</em> (1925), domínio público.</figcaption>
+</figure>
+
+## Transliteração em caracteres latinos
+
+O texto abaixo segue a versão de Delhi–Topra na edição de Hultzsch. Os colchetes indicam letras restauradas ou incertas; os pontos assinalam trechos danificados ou ausentes. Outras cópias preservadas podem diferir.
+
+<p class="inscription-transliteration" lang="pra-Latn">West Face of Pillar. (A) 1 Devānaṃpiye Piyadasi l[ā]ja hevaṃ āhā (B) saḍuvīsati-vasa-2abhisitena me iyaṃ dhaṃma-lipi likhāpitā (C) lajūkā me 3 bahūsu pāna-sata-sahasesu janasi āyatā (D) tesaṃ ye abhihāle vā 4 daṃḍe vā ata-patiye me kaṭe kiṃti lajūkā asvatha abhītā 5 kaṃmāni pavatayevū janasa jānapadasā hita-sukhaṃ upadahevū 6 anugahinevu cā (E) sukhīyana-dukhīyanam jānisaṃti dhaṃma-yutena ca 7 viyovadisaṃti janaṃ jānapadaṃ kiṃti hidataṃ ca pālataṃ ca 8 ālādhayevā ti (F) lajūkā pi laghaṃti paṭicalitave maṃ (G) pulisāni pi me 9 chaṃdaṃnāni paṭicalisaṃti (H) te pi ca kāni viyovadisaṃti yena maṃ lajūkā 10 caghaṃti ālādhayitave (I) athā hi pajaṃ viyatāye dhātiye nisijitu 11 asvathe hoti viyata dhāti caghati me pajaṃ sukhaṃ palihaṭave 12 hevaṃ mamā lajūkā kaṭā jānapadasa hita-sukhāye (J) yena ete abhītā 13 asvatha saṃtaṃ avimanā kaṃmāni payatayevū ti etena me lajūkānaṃ 14 abh[i]hāle vāa daṃḍe vā ata-patiye kaṭe (K) ichitaviye [h]i esa kiṃti 15 viyohāla-samatā ca siya daṃḍa-samatā cā (L) ava ite pi ca me āvuti 16 baṃdhana-badhānaṃ munisānaṃ tīl[i]ta-daṃḍānaṃ pata-vadhānaṃ tiṃni divasā[n]i me 17 yote diṃne (M) nātikā va kāni nijhapayisaṃti jīvitāye tānaṃ 18 nāsaṃtaṃ vā nijhapayitā dānaṃ dāhaṃti pālatikaṃ upavāsaṃ va kachaṃti (N) 19 ichā hi me hevaṃ niludhasi pi kālasi pālataṃ ālādhayevū ti (O) janasa ca 20 vaḍhati vividhe dhaṃma-calane saṃyame dāna-savibhāge ti</p>
+
+## Tradução em português
+
+Esta tradução em português baseia-se na tradução inglesa de E. Hultzsch, de 1925, para a mesma versão. A terminologia e as restaurações entre colchetes seguem essa edição histórica.
+
+> (A) O rei Devānāṃpriya Priyadarśin diz o seguinte.
+> (B) Mandei escrever este édito sobre a conduta moral quando havia vinte e seis anos que eu fora consagrado.
+> (C) Os meus Lajūkas cuidam da população, de muitas centenas de milhares de pessoas.
+> (D) Ordenei que as recompensas e punições ficassem ao seu critério, para que os Lajūkas cumprissem os seus deveres com confiança e sem medo, proporcionassem bem-estar e felicidade à população do país e lhe concedessem benefícios.
+> (E) Saberão como causar-lhes prazer ou dor e exortarão a população por intermédio dos devotados à conduta moral, para que obtenha felicidade neste mundo e no outro.
+> (F) Os Lajūkas também devem obedecer-me.
+> (G) Obedecerão também aos agentes que conhecem os meus desejos.
+> (H) Esses agentes também exortarão as pessoas, para que os Lajūkas possam agradar-me.
+> (I) Assim como alguém se sente seguro depois de confiar o seu filho a uma ama inteligente, pensando ‘a ama inteligente saberá cuidar bem do meu filho’, nomeei os Lajūkas para o bem-estar e a felicidade da população do país.
+> (J) Para que cumprissem os seus deveres sem medo, com confiança e sem perturbação, ordenei que as recompensas e punições ficassem ao critério dos Lajūkas.
+> (K) Pois o que se deseja é tanto imparcialidade nos processos judiciais como imparcialidade nas punições.
+> (L) A minha ordem chega a conceder um prazo de três dias às pessoas presas que já foram sentenciadas e condenadas à morte.
+> (M) Dessa forma, os seus parentes poderão persuadir os Lajūkas a conceder-lhes a vida; ou, se não houver quem interceda, os presos poderão oferecer dádivas ou jejuar para obter felicidade no outro mundo.
+> (N) Pois desejo que, mesmo depois de terminado o prazo, obtenham felicidade no outro mundo.
+> (O) Assim se promovem entre a população diversas práticas morais, o autocontrole e a distribuição de dádivas.
+
+## Fontes
+
+- E. Hultzsch, [*Inscriptions of Asoka* (1925)](https://archive.org/details/InscriptionsOfAsoka.NewEditionByE.Hultzsch), *Corpus Inscriptionum Indicarum*, volume I.
+
+- [edição da Bibliotheca Polyglotta](https://www2.hf.uio.no/polyglotta/index.php?mid=0&page=fulltext&vid=370&view=fulltext), Universidade de Oslo (transliteração do magadhi, tradução inglesa e fac-símiles das inscrições).

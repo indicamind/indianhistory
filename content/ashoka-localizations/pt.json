@@ -9,7 +9,42 @@
     "volumeOne": "volume I",
     "polyglottaEdition": "edição da Bibliotheca Polyglotta",
     "universityOfOslo": "Universidade de Oslo",
-    "translationBasisNote": "Esta tradução baseia-se na versão inglesa de E. Hultzsch, de 1925, do texto de Girnar. A terminologia segue essa edição histórica."
+    "translationBasisNote": "Esta tradução em português baseia-se na tradução inglesa de E. Hultzsch, de 1925, para a mesma versão. A terminologia e as restaurações entre colchetes seguem essa edição histórica.",
+    "Original scripts": "Escritas originais",
+    "English translation of the Greek": "Tradução do grego para português",
+    "English translation of the Aramaic": "Tradução do aramaico para português",
+    "Greek": "Grego",
+    "Aramaic": "Aramaico",
+    "sourceNote": "transliteração do magadhi, tradução inglesa e fac-símiles das inscrições",
+    "siteAltTemplate": "Fac-símile da inscrição brāhmī de {site} na edição de Hultzsch de 1925",
+    "siteCaptionTemplate": "Fac-símile da inscrição de {site}. E. Hultzsch, <em>Inscriptions of Asoka</em> (1925), domínio público.",
+    "siteTransliterationTemplate": "O texto abaixo segue a versão de {site} na edição de Hultzsch. Os colchetes indicam letras restauradas ou incertas; os pontos assinalam trechos danificados ou ausentes. Outras cópias preservadas podem diferir.",
+    "siteNames": {
+      "Bairat": "Bairat",
+      "Lumbini": "Lumbini",
+      "Delhi–Topra": "Delhi–Topra",
+      "Girnar": "Girnar",
+      "Kalsi": "Kalsi",
+      "Rūpnāth": "Rūpnāth",
+      "Brahmagiri": "Brahmagiri",
+      "Nigali Sagar": "Nigali Sagar",
+      "Allahabad–Kauśāmbī": "Allahabad–Kauśāmbī",
+      "Sarnath": "Sarnath",
+      "Dhauli": "Dhauli"
+    },
+    "imageAltTranslations": {
+      "Brahmi facsimiles of the three Barabar cave inscriptions in Hultzsch’s 1925 edition; Karna Chaupar is third": "Fac-símiles brāhmī das três inscrições das cavernas de Barabar na edição de Hultzsch de 1925; Karna Chaupar é a terceira",
+      "Brahmi facsimiles of the three Barabar cave inscriptions in Hultzsch’s 1925 edition; Sudama is first": "Fac-símiles brāhmī das três inscrições das cavernas de Barabar na edição de Hultzsch de 1925; Sudama é a primeira",
+      "Brahmi facsimiles of the three Barabar cave inscriptions in Hultzsch’s 1925 edition; Visvakarma is second": "Fac-símiles brāhmī das três inscrições das cavernas de Barabar na edição de Hultzsch de 1925; Visvakarma é a segunda"
+    },
+    "imageCaptionTranslations": {
+      "Barabar cave inscription facsimiles. E. Hultzsch, <em>Inscriptions of Asoka</em> (1925), public domain.": "Fac-símiles das inscrições das cavernas de Barabar. E. Hultzsch, <em>Inscriptions of Asoka</em> (1925), domínio público."
+    },
+    "transliterationNotes": {
+      "The text below follows Hultzsch’s edition of the Karna Chaupar inscription. Square brackets mark restored or uncertain letters; dots mark a missing passage.": "O texto abaixo segue a edição de Hultzsch da inscrição de Karna Chaupar. Os colchetes indicam letras restauradas ou incertas; os pontos assinalam um trecho ausente.",
+      "The text below follows Hultzsch’s edition of the Sudama inscription. Square brackets mark restored or uncertain letters.": "O texto abaixo segue a edição de Hultzsch da inscrição de Sudama. Os colchetes indicam letras restauradas ou incertas.",
+      "The text below follows Hultzsch’s edition of the Visvakarma inscription. Square brackets mark restored or uncertain letters.": "O texto abaixo segue a edição de Hultzsch da inscrição de Visvakarma. Os colchetes indicam letras restauradas ou incertas."
+    }
   },
   "articles": {
     "ashoka-major-rock-edict-1": {
@@ -28,7 +63,7 @@
         "Fac-símile da inscrição de Girnar. E. Hultzsch, <em>Inscriptions of Asoka</em> (1925), domínio público."
       ],
       "transliterationNote": "O texto abaixo segue a versão de Girnar na edição de Hultzsch. Os colchetes indicam letras restauradas ou incertas; os pontos assinalam trechos danificados ou ausentes. Outras cópias preservadas podem diferir.",
-      "translation": "> (A) O rei Devānāṁpriya Priyadarśin mandou escrever este édito sobre a conduta moral.\n> (B) Aqui, nenhum ser vivo deve ser morto nem sacrificado.\n> (C) E nenhuma reunião festiva deve ser realizada.\n> (D) Pois o rei Devānāṁpriya Priyadarśin vê muitos males nas reuniões festivas.\n> (E) Contudo, há algumas reuniões festivas que o rei Devānāṁpriya Priyadarśin considera meritórias.\n> (F) Antigamente, na cozinha do rei Devānāṁpriya Priyadarśin, muitas centenas de milhares de animais eram mortos diariamente para preparar caril.\n> (G) Mas agora, quando este édito sobre a conduta moral é escrito, apenas três animais são mortos diariamente para preparar caril: dois pavões e um cervo; e nem mesmo esse cervo é morto regularmente.\n> (H) No futuro, nem mesmo esses três animais serão mortos.",
+      "translation": "> (A) O rei Devānāṁpriya Priyadarśin mandou escrever este édito sobre a conduta moral.\n> (B) Aqui, nenhum ser vivo deve ser morto para ser oferecido em sacrifício.\n> (C) E nenhuma reunião festiva deve ser realizada.\n> (D) Pois o rei Devānāṁpriya Priyadarśin vê muitos males nas reuniões festivas.\n> (E) Contudo, há algumas reuniões festivas que o rei Devānāṁpriya Priyadarśin considera meritórias.\n> (F) Antigamente, na cozinha do rei Devānāṁpriya Priyadarśin, muitas centenas de milhares de animais eram mortos diariamente para preparar caril.\n> (G) Mas agora, quando este édito sobre a conduta moral é escrito, apenas três animais são mortos diariamente para preparar caril: dois pavões e um cervo; e nem mesmo esse cervo é morto regularmente.\n> (H) No futuro, nem mesmo esses três animais serão mortos.",
       "sourceNote": "transliteração do magadhi, tradução inglesa e fac-símiles da inscrição"
     }
   }

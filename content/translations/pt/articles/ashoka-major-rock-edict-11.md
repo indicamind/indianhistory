@@ -1,0 +1,49 @@
+---
+title: "Édito maior em rocha XI: a dádiva do dhamma"
+slug: ashoka-major-rock-edict-11
+previewOnly: true
+excerpt: "O rei considera a conduta ética a forma mais elevada de dádiva e de vínculo social."
+publishedAt: 2026-10-16T00:00:00.000Z
+updatedAt: 2026-10-16T00:00:00.000Z
+period: mauryan
+polity: maurya
+personalities: [ashoka]
+relatedTo: ashoka-edicts
+tags: ["Ashoka","éditos","édito maior em rocha"]
+themes: []
+books: []
+sourceHash: 8fad0ce88ff7036325c0132967309f4a832f5636427113501a9348e4fd3f9637
+---
+
+## Sobre este édito
+
+Esta breve inscrição explica o dhamma pela cortesia para com os servos, pelo respeito aos pais, pela generosidade e por evitar ferir os animais. Afirma que essas práticas trazem benefícios nesta vida e além dela.
+
+## Escrita original
+
+<figure class="article-figure inscription-plate">
+  <img src="/assets/media/images/ashoka-plate-1405544759.jpg" alt="Fac-símile da inscrição brāhmī de Girnar na edição de Hultzsch de 1925" loading="lazy" decoding="async" />
+  <figcaption>Fac-símile da inscrição de Girnar. E. Hultzsch, <em>Inscriptions of Asoka</em> (1925), domínio público.</figcaption>
+</figure>
+
+## Transliteração em caracteres latinos
+
+O texto abaixo segue a versão de Girnar na edição de Hultzsch. Os colchetes indicam letras restauradas ou incertas; os pontos assinalam trechos danificados ou ausentes. Outras cópias preservadas podem diferir.
+
+<p class="inscription-transliteration" lang="pra-Latn">(A) 1 Devinaṃpriyo Piyadasi rājā ev[a]ṃ āha (B) nāsti etārisaṃ dānaṃ yārisaṃ dhaṃma-dānaṃ dhaṃma-saṃstavo vā dhaṃma-saṃvibhāgo [vā] dhaṃmasaṃbadho va (C) 2 tata idaṃ bhavati dāsa-bhatakamhi samya-p[r]atipatī mātari pitara sādhu sus[r]uā mita-[sa]stuta-ñātikānaṃ bāmhaṇa-s[r]amaṇa[naṃ] sādhu dā[naṃ] 3 prāṇānaṃ anāraṃbho sādhu (D) eta vatavyaṃ pitā va putrena va bhāt[ā] va mitasastut[a]-ñāt[i]k[e]na va āva paṭīvesiyehi ida sādhu ida ka[tav]ya[ṃ] (E) 4 so t[a]thā karu ilokacasa āradho hoti parata ca aṃnaṃtaṃ puiñaṃ bhavati tena dhaṃma-dānena</p>
+
+## Tradução em português
+
+Esta tradução em português baseia-se na tradução inglesa de E. Hultzsch, de 1925, para a mesma versão. A terminologia e as restaurações entre colchetes seguem essa edição histórica.
+
+> (A) O rei Devānāṁpriya Priyadarśin diz o seguinte.
+> (B) Não há dádiva como a dádiva da conduta moral, nem conhecimento mútuo como aquele que ela cria, nem distribuição como a sua distribuição, nem parentesco como aquele que ela estabelece.
+> (C) Isso inclui a devida cortesia para com escravos e servos, a obediência à mãe e ao pai, a generosidade para com amigos, conhecidos, parentes, brâmanes e śramaṇas, e a abstenção de matar animais.
+> (D) A esse respeito, um pai, um filho, um irmão, um amigo, um conhecido, um parente ou até meros vizinhos deveriam dizer: ‘Isto é meritório. Isto deve ser feito.’
+> (E) Agindo assim, assegura-se a felicidade neste mundo, e essa dádiva da conduta moral produz mérito infinito no outro mundo.
+
+## Fontes
+
+- E. Hultzsch, [*Inscriptions of Asoka* (1925)](https://archive.org/details/InscriptionsOfAsoka.NewEditionByE.Hultzsch), *Corpus Inscriptionum Indicarum*, volume I.
+
+- [edição da Bibliotheca Polyglotta](https://www2.hf.uio.no/polyglotta/index.php?mid=0&page=fulltext&vid=362&view=fulltext), Universidade de Oslo (transliteração do magadhi, tradução inglesa e fac-símiles das inscrições).

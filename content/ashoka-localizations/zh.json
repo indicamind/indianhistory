@@ -9,7 +9,42 @@
     "volumeOne": "第一卷",
     "polyglottaEdition": "Bibliotheca Polyglotta 版本",
     "universityOfOslo": "奥斯陆大学",
-    "translationBasisNote": "本译文依据 E. Hultzsch 于 1925 年为吉尔纳尔文本所作的英文译本，措辞遵循该历史版本。"
+    "translationBasisNote": "本中文译文依据 E. Hultzsch 于 1925 年为同一地点版本所作的英文译文。术语和方括号内的补文遵循该历史版本。",
+    "Original scripts": "原文字形",
+    "English translation of the Greek": "希腊文的中文译文",
+    "English translation of the Aramaic": "阿拉米文的中文译文",
+    "Greek": "希腊文",
+    "Aramaic": "阿拉米文",
+    "sourceNote": "摩揭陀语转写、英文译文和铭文摹本",
+    "siteAltTemplate": "赫尔奇 1925 年版本中{site}婆罗米文铭刻的摹本",
+    "siteCaptionTemplate": "{site}铭刻摹本。E. Hultzsch，<em>Inscriptions of Asoka</em>（1925），公有领域。",
+    "siteTransliterationTemplate": "下文依据赫尔奇版本中的{site}文本。方括号表示补写或存疑的字母；圆点表示受损或缺失的文字。其他留存的副本可能有所不同。",
+    "siteNames": {
+      "Bairat": "拜拉特",
+      "Lumbini": "蓝毗尼",
+      "Delhi–Topra": "德里—托普拉",
+      "Girnar": "吉尔纳尔",
+      "Kalsi": "卡尔西",
+      "Rūpnāth": "鲁普纳特",
+      "Brahmagiri": "婆罗摩耆厘",
+      "Nigali Sagar": "尼加利萨加尔",
+      "Allahabad–Kauśāmbī": "阿拉哈巴德—憍赏弥",
+      "Sarnath": "鹿野苑",
+      "Dhauli": "道利"
+    },
+    "imageAltTranslations": {
+      "Brahmi facsimiles of the three Barabar cave inscriptions in Hultzsch’s 1925 edition; Karna Chaupar is third": "赫尔奇 1925 年版本中巴拉巴尔三篇洞窟铭文的婆罗米文摹本；卡尔纳乔帕尔为第三篇",
+      "Brahmi facsimiles of the three Barabar cave inscriptions in Hultzsch’s 1925 edition; Sudama is first": "赫尔奇 1925 年版本中巴拉巴尔三篇洞窟铭文的婆罗米文摹本；苏达摩为第一篇",
+      "Brahmi facsimiles of the three Barabar cave inscriptions in Hultzsch’s 1925 edition; Visvakarma is second": "赫尔奇 1925 年版本中巴拉巴尔三篇洞窟铭文的婆罗米文摹本；毗首羯磨为第二篇"
+    },
+    "imageCaptionTranslations": {
+      "Barabar cave inscription facsimiles. E. Hultzsch, <em>Inscriptions of Asoka</em> (1925), public domain.": "巴拉巴尔洞窟铭文摹本。E. Hultzsch，<em>Inscriptions of Asoka</em>（1925），公有领域。"
+    },
+    "transliterationNotes": {
+      "The text below follows Hultzsch’s edition of the Karna Chaupar inscription. Square brackets mark restored or uncertain letters; dots mark a missing passage.": "下文依据赫尔奇的卡尔纳乔帕尔铭文版本。方括号表示补写或存疑的字母；圆点表示缺失的段落。",
+      "The text below follows Hultzsch’s edition of the Sudama inscription. Square brackets mark restored or uncertain letters.": "下文依据赫尔奇的苏达摩铭文版本。方括号表示补写或存疑的字母。",
+      "The text below follows Hultzsch’s edition of the Visvakarma inscription. Square brackets mark restored or uncertain letters.": "下文依据赫尔奇的毗首羯磨铭文版本。方括号表示补写或存疑的字母。"
+    }
   },
   "articles": {
     "ashoka-major-rock-edict-1": {
@@ -28,7 +63,7 @@
         "吉尔纳尔铭刻摹本。E. Hultzsch，<em>Inscriptions of Asoka</em>（1925），公有领域。"
       ],
       "transliterationNote": "下文依据赫尔奇版本中的吉尔纳尔文本。方括号表示补写或存疑的字母；圆点表示受损或缺失的文字。其他留存的副本可能有所不同。",
-      "translation": "> (A) 天爱见喜王 命人写下这篇关于道德的敕文。\n> (B) 在这里，不得杀害任何生灵以作祭品。\n> (C) 也不得举行节庆集会。\n> (D) 因为天爱见喜王 认为节庆集会有许多弊端。\n> (E) 不过，也有一些节庆集会被天爱见喜王 视为有功德。\n> (F) 从前，在天爱见喜王 的厨房里，每天有数十万只动物被宰杀，用来制作咖喱。\n> (G) 但现在，写下这篇关于道德的敕文时，每天为制作咖喱而宰杀的动物只有三只：两只孔雀和一只鹿；这只鹿也并非每天都被宰杀。\n> (H) 将来连这三只动物也不再宰杀。",
+      "translation": "> (A) 天爱见喜王命人写下这篇关于道德的敕文。\n> (B) 在这里，不得杀害任何生灵以作祭品。\n> (C) 也不得举行节庆集会。\n> (D) 因为天爱见喜王认为节庆集会有许多弊端。\n> (E) 不过，也有一些节庆集会被天爱见喜王视为有功德。\n> (F) 从前，在天爱见喜王的厨房里，每天有数十万只动物被宰杀，用来制作咖喱。\n> (G) 但现在，写下这篇关于道德的敕文时，每天为制作咖喱而宰杀的动物只有三只：两只孔雀和一只鹿；这只鹿也并非每天都被宰杀。\n> (H) 将来连这三只动物也不再宰杀。",
       "sourceNote": "摩揭陀语转写、英文译文和铭文摹本"
     }
   }

@@ -1,7 +1,6 @@
 ---
 title: "Édito maior em pilar II: o significado do dhamma"
 slug: ashoka-major-pillar-edict-2
-previewOnly: true
 excerpt: "O rei define o dhamma pela compaixão, generosidade, veracidade, pureza e abstenção de más ações."
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

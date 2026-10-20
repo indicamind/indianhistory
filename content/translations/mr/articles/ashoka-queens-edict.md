@@ -1,7 +1,6 @@
 ---
 title: "राणीचा आदेश: कालुवाकीची दाने"
 slug: ashoka-queens-edict
-previewOnly: true
 excerpt: "राणी कालुवाकीची दाने तिच्याच नावाने नोंदली जावीत, असा अशोकाचा आदेश आहे."
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

@@ -1,7 +1,6 @@
 ---
 title: "Pul-i Darunta: una inscripción en arameo y prácrito"
 slug: ashoka-pul-i-darunta-inscription
-previewOnly: true
 excerpt: "Un fragmento de ocho líneas hallado cerca de Laghman combina frases indoarias medias con explicaciones arameas y remite a varios edictos de Ashoka."
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

@@ -1,7 +1,6 @@
 ---
 title: "Separate Rock Edict II: Trust on the frontier"
 slug: ashoka-separate-rock-edict-2
-previewOnly: true
 excerpt: "Ashoka tells Kalinga’s officials to reassure people beyond the border and govern with patience."
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

@@ -1,7 +1,6 @@
 ---
 title: "ಪ್ರಮುಖ ಶಿಲಾಶಾಸನ ೧೧: ಧಮ್ಮದ ದಾನ"
 slug: ashoka-major-rock-edict-11
-previewOnly: true
 excerpt: "ನೈತಿಕ ನಡವಳಿಕೆಯನ್ನು ರಾಜನು ಅತ್ಯುತ್ತಮ ದಾನ ಮತ್ತು ಸಾಮಾಜಿಕ ಬಂಧವೆಂದು ಕರೆಯುತ್ತಾನೆ."
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

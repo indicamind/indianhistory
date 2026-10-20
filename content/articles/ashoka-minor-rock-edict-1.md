@@ -1,7 +1,6 @@
 ---
 title: "Minor Rock Edict I: Ashoka’s effort"
 slug: ashoka-minor-rock-edict-1
-previewOnly: true
 excerpt: "Ashoka describes his commitment as a Buddhist lay follower and urges people of every rank to work earnestly."
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

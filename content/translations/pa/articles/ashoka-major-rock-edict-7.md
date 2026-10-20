@@ -1,7 +1,6 @@
 ---
 title: "ਮੁੱਖ ਪੱਥਰ ਫ਼ਰਮਾਨ 7: ਸਾਰੇ ਧਾਰਮਿਕ ਸਮੂਹ"
 slug: ashoka-major-rock-edict-7
-previewOnly: true
 excerpt: "ਰਾਜਾ ਕਹਿੰਦਾ ਹੈ ਕਿ ਸਾਰੇ ਧਾਰਮਿਕ ਸਮੂਹਾਂ ਦੇ ਲੋਕ ਉਸ ਦੇ ਰਾਜ ਵਿੱਚ ਹਰ ਥਾਂ ਰਹਿ ਸਕਣ।"
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

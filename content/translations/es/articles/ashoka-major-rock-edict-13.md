@@ -1,7 +1,6 @@
 ---
 title: "Edicto mayor en roca XIII: después de la conquista de Kalinga"
 slug: ashoka-major-rock-edict-13
-previewOnly: true
 excerpt: "Ashoka describe el sufrimiento causado por la conquista de Kalinga y elogia la conquista mediante el dhamma."
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

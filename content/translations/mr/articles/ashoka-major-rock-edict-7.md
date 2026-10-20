@@ -1,7 +1,6 @@
 ---
 title: "प्रमुख शिलालेख ७: सर्व पंथांना स्थान"
 slug: ashoka-major-rock-edict-7
-previewOnly: true
 excerpt: "सर्व पंथांचे लोक आपल्या राज्यात सर्वत्र राहावेत, अशी राजाची इच्छा आहे."
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

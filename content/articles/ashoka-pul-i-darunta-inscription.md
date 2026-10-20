@@ -1,7 +1,6 @@
 ---
 title: "Pul-i Darunta: An Aramaic and Prakrit inscription"
 slug: ashoka-pul-i-darunta-inscription
-previewOnly: true
 excerpt: "An eight-line fragment from near Laghman combines Middle Indian phrases with Aramaic explanations and refers to several of Ashoka’s edicts."
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

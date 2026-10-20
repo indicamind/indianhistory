@@ -1,7 +1,6 @@
 ---
 title: "प्रमुख शिलादेश VII: सभी धार्मिक समुदाय"
 slug: ashoka-major-rock-edict-7
-previewOnly: true
 excerpt: "राजा कहते हैं कि सभी धार्मिक समुदायों के सदस्य उनके राज्य में हर जगह रह सकें।"
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

@@ -1,7 +1,6 @@
 ---
 title: "Inscrição bilíngue de Kandahar: piedade e verdade"
 slug: ashoka-kandahar-bilingual-inscription
-previewOnly: true
 excerpt: "Uma proclamação em grego e aramaico de Kandahar relaciona a política moral do rei com a contenção, a proteção dos seres vivos e o respeito aos pais."
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

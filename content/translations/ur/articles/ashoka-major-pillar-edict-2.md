@@ -1,7 +1,6 @@
 ---
 title: "دوسرا بڑا ستونی فرمان: دھم کا مطلب"
 slug: ashoka-major-pillar-edict-2
-previewOnly: true
 excerpt: "بادشاہ دھم کو رحم، فیاضی، سچائی، پاکیزگی اور بدی سے بچنے کے ذریعے بیان کرتا ہے۔"
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

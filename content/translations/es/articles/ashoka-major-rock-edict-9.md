@@ -1,7 +1,6 @@
 ---
 title: "Edicto mayor en roca IX: rituales y práctica moral"
 slug: ashoka-major-rock-edict-9
-previewOnly: true
 excerpt: "El rey cuestiona las ceremonias habituales y recomienda la práctica continuada del dhamma."
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

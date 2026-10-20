@@ -1,7 +1,6 @@
 ---
 title: "વિશ્વકર્મા ગુફાનો અભિલેખ: આજીવિકોને બીજું દાન"
 slug: ashoka-visvakarma-cave-inscription
-previewOnly: true
 excerpt: "અશોક શાસનના બારમા વર્ષે ખલતિક પર્વતની ગુફા આજીવિકોને અર્પે છે."
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

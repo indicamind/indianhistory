@@ -1,7 +1,6 @@
 ---
 title: "ਰਾਣੀ ਦਾ ਫ਼ਰਮਾਨ: ਕਾਰੁਵਾਕੀ ਦੇ ਦਾਨ"
 slug: ashoka-queens-edict
-previewOnly: true
 excerpt: "ਅਸ਼ੋਕ ਰਾਣੀ ਕਾਰੁਵਾਕੀ ਦੇ ਦਿੱਤੇ ਦਾਨ ਉਸ ਦੇ ਨਾਂ ਦਰਜ ਕਰਨ ਦਾ ਹੁਕਮ ਦਿੰਦਾ ਹੈ।"
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

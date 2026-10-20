@@ -1,7 +1,6 @@
 ---
 title: "Edicto mayor en pilar IV: la justicia y los rajukas"
 slug: ashoka-major-pillar-edict-4
-previewOnly: true
 excerpt: "El rey concede autoridad a los funcionarios locales y les exige administrar justicia con equidad y moderación."
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

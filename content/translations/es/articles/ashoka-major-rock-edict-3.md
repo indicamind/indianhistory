@@ -1,7 +1,6 @@
 ---
 title: "Edicto mayor en roca III: giras de instrucción cada cinco años"
 slug: ashoka-major-rock-edict-3
-previewOnly: true
 excerpt: "Los funcionarios deben viajar cada cinco años y enseñar cómo comportarse con los padres, otras personas y los seres vivos."
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

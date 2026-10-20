@@ -1,7 +1,6 @@
 ---
 title: "Édit majeur sur roche V : les fonctionnaires du dhamma"
 slug: ashoka-major-rock-edict-5
-previewOnly: true
 excerpt: "Ashoka décrit la nomination de dhamma-mahamatras chargés des groupes religieux et des personnes vulnérables."
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

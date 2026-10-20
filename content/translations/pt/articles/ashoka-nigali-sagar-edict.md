@@ -1,7 +1,6 @@
 ---
 title: "Édito do pilar de Nigali Sagar: a estupa de Konakamana"
 slug: ashoka-nigali-sagar-edict
-previewOnly: true
 excerpt: "Ashoka registra a ampliação de uma estupa do Buda Konakamana e uma visita posterior ao local."
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

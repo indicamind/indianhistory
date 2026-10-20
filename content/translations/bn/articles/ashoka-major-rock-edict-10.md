@@ -1,7 +1,6 @@
 ---
 title: "প্রধান শিলালিপি X: খ্যাতিই সব নয়"
 slug: ashoka-major-rock-edict-10
-previewOnly: true
 excerpt: "অশোক বলেন, খ্যাতি তখনই মূল্যবান যখন তা মানুষকে ধম্ম পালন করতে সাহায্য করে।"
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

@@ -1,7 +1,6 @@
 ---
 title: "المرسوم الصخري الكبير الرابع: صوت الدهاما"
 slug: ashoka-major-rock-edict-4
-previewOnly: true
 excerpt: "يقارن أشوكا بين العنف وطبول الحرب القديمة وبين نشر الدهاما بين الناس."
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

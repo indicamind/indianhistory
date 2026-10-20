@@ -1,7 +1,6 @@
 ---
 title: "Édit majeur sur roche VII : tous les groupes religieux"
 slug: ashoka-major-rock-edict-7
-previewOnly: true
 excerpt: "Le roi affirme que les membres de tous les groupes religieux doivent pouvoir résider dans tout son royaume."
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

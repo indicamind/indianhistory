@@ -1,7 +1,6 @@
 ---
 title: "سوداما غار کا کتبہ: آجیوکوں کو عطیہ"
 slug: ashoka-sudama-cave-inscription
-previewOnly: true
 excerpt: "اپنے عہد کے بارہویں سال اشوک برابر کی برگد والی غار آجیوکوں کے نام کرتا ہے۔"
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

@@ -1,7 +1,6 @@
 ---
 title: "第十一号大石敕：正法之施"
 slug: ashoka-major-rock-edict-11
-previewOnly: true
 excerpt: "国王称道德行为是最高的施舍和社会纽带。"
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

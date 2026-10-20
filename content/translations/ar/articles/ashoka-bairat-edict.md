@@ -1,7 +1,6 @@
 ---
 title: "مرسوم بايرات: نصوص للجماعة البوذية"
 slug: ashoka-bairat-edict
-previewOnly: true
 excerpt: "يوصي أشوكا الرهبان والراهبات والأتباع العلمانيين بتعاليم بوذية مسماة."
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

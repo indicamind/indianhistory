@@ -1,7 +1,6 @@
 ---
 title: "Édit majeur sur pilier VII : bilan royal du dhamma"
 slug: ashoka-major-pillar-edict-7
-previewOnly: true
 excerpt: "Ashoka passe en revue ses politiques de bien-être, de respect religieux, de fonctionnaires, de travaux publics et de persuasion."
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

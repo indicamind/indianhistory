@@ -1,7 +1,6 @@
 ---
 title: "破僧敕文：僧团的团结"
 slug: ashoka-schism-edict
-previewOnly: true
 excerpt: "阿育王命官员处置分裂佛教僧团的比丘或比丘尼。"
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

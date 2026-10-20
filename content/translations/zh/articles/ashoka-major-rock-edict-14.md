@@ -1,7 +1,6 @@
 ---
 title: "第十四号大石敕：敕文为何不同"
 slug: ashoka-major-rock-edict-14
-previewOnly: true
 excerpt: "国王解释各地铭文的篇幅和措辞为何有所差异。"
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

@@ -1,7 +1,6 @@
 ---
 title: "প্রধান শিলালিপি XI: ধম্মের দান"
 slug: ashoka-major-rock-edict-11
-previewOnly: true
 excerpt: "রাজা নৈতিক আচরণকে সর্বোত্তম দান ও সামাজিক বন্ধন বলেন।"
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

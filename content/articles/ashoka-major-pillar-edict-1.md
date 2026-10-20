@@ -1,7 +1,6 @@
 ---
 title: "Major Pillar Edict I: The rule of dhamma"
 slug: ashoka-major-pillar-edict-1
-previewOnly: true
 excerpt: "Ashoka says moral rule requires effort, self-examination, and concern for this life and the next."
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

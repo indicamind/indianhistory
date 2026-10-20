@@ -1,7 +1,6 @@
 ---
 title: "ਮੁੱਖ ਸਤੰਭ ਫ਼ਰਮਾਨ 3: ਆਪਣੇ ਦੋਸ਼ ਪਰਖੋ"
 slug: ashoka-major-pillar-edict-3
-previewOnly: true
 excerpt: "ਅਸ਼ੋਕ ਲੋਕਾਂ ਨੂੰ ਆਪਣੇ ਚੰਗੇ ਕੰਮਾਂ ਦੇ ਨਾਲ ਗੁੱਸਾ, ਕਠੋਰਤਾ, ਹੰਕਾਰ ਅਤੇ ਈਰਖਾ ਵੀ ਵੇਖਣ ਲਈ ਕਹਿੰਦਾ ਹੈ।"
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

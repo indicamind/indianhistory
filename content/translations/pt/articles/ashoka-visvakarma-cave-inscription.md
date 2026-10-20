@@ -1,7 +1,6 @@
 ---
 title: "Inscrição da caverna Visvakarma: uma segunda dádiva aos Ajivikas"
 slug: ashoka-visvakarma-cave-inscription
-previewOnly: true
 excerpt: "Ashoka dedica uma caverna na montanha Khalatika aos Ajivikas no seu décimo segundo ano de reinado."
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

@@ -1,7 +1,6 @@
 ---
 title: "拜拉特敕文：献给佛教僧团的经文"
 slug: ashoka-bairat-edict
-previewOnly: true
 excerpt: "阿育王向僧、尼和在家信众推荐具名的佛教教导。"
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

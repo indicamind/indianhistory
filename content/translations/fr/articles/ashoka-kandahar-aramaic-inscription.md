@@ -1,7 +1,6 @@
 ---
 title: "Kandahar III : un fragment araméen de l’édit sur pilier VII"
 slug: ashoka-kandahar-aramaic-inscription
-previewOnly: true
 excerpt: "Sept lignes endommagées de Kandahar conservent des expressions indiennes et des explications araméennes correspondant au septième édit majeur sur pilier d’Ashoka."
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

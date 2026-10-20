@@ -1,7 +1,6 @@
 ---
 title: "कंधार III: स्तंभादेश VII का अरामाई खंड"
 slug: ashoka-kandahar-aramaic-inscription
-previewOnly: true
 excerpt: "कंधार की सात क्षतिग्रस्त पंक्तियों में भारतीय वाक्यांश और अरामाई स्पष्टीकरण बचे हैं, जो अशोक के सातवें प्रमुख स्तंभादेश से मिलते हैं।"
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

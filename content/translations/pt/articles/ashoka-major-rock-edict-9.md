@@ -1,7 +1,6 @@
 ---
 title: "Édito maior em rocha IX: rituais e prática moral"
 slug: ashoka-major-rock-edict-9
-previewOnly: true
 excerpt: "O rei questiona as cerimônias costumeiras e recomenda, em seu lugar, a prática contínua do dhamma."
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

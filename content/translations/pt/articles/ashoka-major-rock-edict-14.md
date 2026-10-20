@@ -1,7 +1,6 @@
 ---
 title: "Édito maior em rocha XIV: por que os éditos diferem"
 slug: ashoka-major-rock-edict-14
-previewOnly: true
 excerpt: "O rei explica por que as inscrições variam de extensão e de redação de um lugar para outro."
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

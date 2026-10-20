@@ -1,7 +1,6 @@
 ---
 title: "મુખ્ય શિલાલેખ ૧૪: શિલાલેખો કેમ જુદા છે"
 slug: ashoka-major-rock-edict-14
-previewOnly: true
 excerpt: "રાજા સમજાવે છે કે અલગ અલગ સ્થળે અભિલેખોની લંબાઈ અને શબ્દોમાં ફેરફાર કેમ છે."
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

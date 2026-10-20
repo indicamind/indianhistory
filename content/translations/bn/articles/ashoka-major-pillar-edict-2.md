@@ -1,7 +1,6 @@
 ---
 title: "প্রধান স্তম্ভলিপি II: ধম্মের অর্থ"
 slug: ashoka-major-pillar-edict-2
-previewOnly: true
 excerpt: "রাজা করুণা, উদারতা, সত্য, পবিত্রতা এবং মন্দ কাজ এড়ানোকে ধম্মের বৈশিষ্ট্য বলেন।"
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

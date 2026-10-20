@@ -1,7 +1,6 @@
 ---
 title: "প্রধান স্তম্ভলিপি III: নিজের দোষ চিনুন"
 slug: ashoka-major-pillar-edict-3
-previewOnly: true
 excerpt: "অশোক মানুষকে নিজের ভালো কাজের পাশাপাশি ক্রোধ, নিষ্ঠুরতা, অহংকার ও ঈর্ষাও দেখতে বলেন।"
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

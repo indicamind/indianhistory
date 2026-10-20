@@ -1,7 +1,6 @@
 ---
 title: "Edicto menor en roca II: los deberes cotidianos"
 slug: ashoka-minor-rock-edict-2
-previewOnly: true
 excerpt: "El rey pide obediencia a los padres y mayores, veracidad y un trato amable a los seres vivos."
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

@@ -1,7 +1,6 @@
 ---
 title: "Édit majeur sur roche II : soigner les personnes et les animaux"
 slug: ashoka-major-rock-edict-2
-previewOnly: true
 excerpt: "Le roi décrit les soins médicaux, les plantes utiles, les puits et les arbres le long des routes pour les personnes et les animaux."
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

@@ -1,7 +1,6 @@
 ---
 title: "ਛੋਟਾ ਪੱਥਰ ਫ਼ਰਮਾਨ 2: ਰੋਜ਼ਾਨਾ ਦੇ ਫ਼ਰਜ਼"
 slug: ashoka-minor-rock-edict-2
-previewOnly: true
 excerpt: "ਰਾਜਾ ਮਾਪਿਆਂ ਅਤੇ ਬਜ਼ੁਰਗਾਂ ਦੀ ਆਗਿਆ, ਸੱਚ ਬੋਲਣ ਅਤੇ ਜੀਵਾਂ ਨਾਲ ਨਰਮੀ ਦੀ ਸਿੱਖਿਆ ਦਿੰਦਾ ਹੈ।"
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

@@ -1,7 +1,6 @@
 ---
 title: "第二号小石敕：日常义务"
 slug: ashoka-minor-rock-edict-2
-previewOnly: true
 excerpt: "国王敦促人们孝顺父母、敬从长者、诚实，并温和对待众生。"
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

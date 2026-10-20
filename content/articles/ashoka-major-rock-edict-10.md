@@ -1,7 +1,6 @@
 ---
 title: "Major Rock Edict X: Fame is not enough"
 slug: ashoka-major-rock-edict-10
-previewOnly: true
 excerpt: "Ashoka says renown matters only when it helps people follow dhamma."
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

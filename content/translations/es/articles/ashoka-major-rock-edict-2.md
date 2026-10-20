@@ -1,7 +1,6 @@
 ---
 title: "Edicto mayor en roca II: atención a personas y animales"
 slug: ashoka-major-rock-edict-2
-previewOnly: true
 excerpt: "El rey describe tratamientos médicos, plantas útiles, pozos y árboles junto a los caminos para personas y animales."
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

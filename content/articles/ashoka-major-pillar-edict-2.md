@@ -1,7 +1,6 @@
 ---
 title: "Major Pillar Edict II: What dhamma means"
 slug: ashoka-major-pillar-edict-2
-previewOnly: true
 excerpt: "The king defines dhamma through compassion, generosity, truthfulness, purity, and avoiding wrongdoing."
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

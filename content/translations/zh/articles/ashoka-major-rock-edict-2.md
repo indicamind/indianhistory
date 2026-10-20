@@ -1,7 +1,6 @@
 ---
 title: "第二号大石敕：关怀人与动物"
 slug: ashoka-major-rock-edict-2
-previewOnly: true
 excerpt: "国王叙述为人与动物提供医疗、药草、水井和路旁树木的措施。"
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

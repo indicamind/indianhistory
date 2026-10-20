@@ -1,7 +1,6 @@
 ---
 title: "Major Rock Edict XIII: After the conquest of Kalinga"
 slug: ashoka-major-rock-edict-13
-previewOnly: true
 excerpt: "Ashoka describes the suffering caused by the conquest of Kalinga and praises conquest by dhamma."
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

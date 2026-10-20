@@ -1,7 +1,6 @@
 ---
 title: "Édit majeur sur roche VI : des rapports à toute heure"
 slug: ashoka-major-rock-edict-6
-previewOnly: true
 excerpt: "Ashoka autorise les fonctionnaires à lui rapporter les affaires du peuple où qu’il soit et à toute heure."
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

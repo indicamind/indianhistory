@@ -1,7 +1,6 @@
 ---
 title: "مرسوم الملكة: هبات كاروفاكي"
 slug: ashoka-queens-edict
-previewOnly: true
 excerpt: "يأمر أشوكا بتسجيل تبرعات الملكة كاروفاكي باسمها."
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

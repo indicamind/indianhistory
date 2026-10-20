@@ -1,7 +1,6 @@
 ---
 title: "Inscripción de la cueva de Visvakarma: otra donación a los ajivikas"
 slug: ashoka-visvakarma-cave-inscription
-previewOnly: true
 excerpt: "Ashoka dedica a los ajivikas una cueva de la montaña Khalatika en su duodécimo año de reinado."
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

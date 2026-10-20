@@ -1,7 +1,6 @@
 ---
 title: "প্রধান শিলালিপি VII: সব ধর্মীয় সম্প্রদায়"
 slug: ashoka-major-rock-edict-7
-previewOnly: true
 excerpt: "রাজা চান সব ধর্মীয় সম্প্রদায়ের সদস্যরা তাঁর রাজ্যের সর্বত্র বসবাস করতে পারুন।"
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

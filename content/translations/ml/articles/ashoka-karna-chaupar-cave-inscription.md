@@ -1,7 +1,6 @@
 ---
 title: "കർണ ചൗപർ ഗുഹാലിഖിതം: മഴക്കാലത്തെ അഭയം"
 slug: ashoka-karna-chaupar-cave-inscription
-previewOnly: true
 excerpt: "കേടായ ഒരു ബരാബർ ലിഖിതം അശോകന്റെ പത്തൊമ്പതാം ഭരണവർഷത്തിലെ ഗുഹാദാനം രേഖപ്പെടുത്തുന്നു."
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

@@ -1,7 +1,6 @@
 ---
 title: "Édito separado em rocha II: confiança na fronteira"
 slug: ashoka-separate-rock-edict-2
-previewOnly: true
 excerpt: "Ashoka pede aos funcionários de Kalinga que tranquilizem os povos além da fronteira e governem com paciência."
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

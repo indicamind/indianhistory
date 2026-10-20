@@ -1,7 +1,6 @@
 ---
 title: "મુખ્ય શિલાલેખ ૪: ધમ્મનો નાદ"
 slug: ashoka-major-rock-edict-4
-previewOnly: true
 excerpt: "અશોક હિંસા અને યુદ્ધના જૂના નગારાની તુલના ધમ્મના જાહેર પ્રસાર સાથે કરે છે."
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

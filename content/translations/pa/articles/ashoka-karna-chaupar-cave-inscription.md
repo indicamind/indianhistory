@@ -1,7 +1,6 @@
 ---
 title: "ਕਰਨ ਚੌਪਰ ਗੁਫ਼ਾ ਅਭਿਲੇਖ: ਮੀਂਹ ਦੀ ਰੁੱਤ ਲਈ ਆਸਰਾ"
 slug: ashoka-karna-chaupar-cave-inscription
-previewOnly: true
 excerpt: "ਬਰਾਬਰ ਦਾ ਇੱਕ ਨੁਕਸਾਨਿਆ ਅਭਿਲੇਖ ਅਸ਼ੋਕ ਦੇ ਰਾਜ ਦੇ ਉੱਨੀਵੇਂ ਸਾਲ ਗੁਫ਼ਾ ਦੇ ਦਾਨ ਨੂੰ ਦਰਜ ਕਰਦਾ ਹੈ।"
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

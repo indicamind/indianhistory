@@ -1,7 +1,6 @@
 ---
 title: "విశ్వకర్మ గుహాశాసనం: ఆజీవికులకు రెండవ దానం"
 slug: ashoka-visvakarma-cave-inscription
-previewOnly: true
 excerpt: "పట్టాభిషేకం జరిగిన పన్నెండో సంవత్సరంలో ఖలాతిక పర్వతంలోని ఒక గుహను అశోకుడు ఆజీవికులకు ఇచ్చాడు."
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

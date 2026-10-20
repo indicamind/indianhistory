@@ -1,7 +1,6 @@
 ---
 title: "第二号别石敕：边境的信任"
 slug: ashoka-separate-rock-edict-2
-previewOnly: true
 excerpt: "阿育王要求羯陵伽官员安抚边界之外的人们，并耐心治理。"
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

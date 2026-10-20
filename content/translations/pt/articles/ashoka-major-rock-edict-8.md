@@ -1,7 +1,6 @@
 ---
 title: "Édito maior em rocha VIII: viagens em favor do dhamma"
 slug: ashoka-major-rock-edict-8
-previewOnly: true
 excerpt: "Ashoka substitui as viagens reais de lazer por jornadas com dádivas, visitas aos idosos e discussão moral."
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

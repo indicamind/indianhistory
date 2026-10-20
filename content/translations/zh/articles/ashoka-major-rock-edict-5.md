@@ -1,7 +1,6 @@
 ---
 title: "第五号大石敕：正法官员"
 slug: ashoka-major-rock-edict-5
-previewOnly: true
 excerpt: "阿育王叙述任命正法大官，在宗教群体及弱势人群中开展工作。"
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

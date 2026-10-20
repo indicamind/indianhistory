@@ -1,7 +1,6 @@
 ---
 title: "چوتھا بڑا سنگی فرمان: دھم کی آواز"
 slug: ashoka-major-rock-edict-4
-previewOnly: true
 excerpt: "اشوک جنگ کے پرانے نقارے اور تشدد کا تقابل دھم کے عوامی پھیلاؤ سے کرتا ہے۔"
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

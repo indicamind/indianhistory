@@ -1,7 +1,6 @@
 ---
 title: "विश्वकर्मा गुफ़ा अभिलेख: आजीविकों को दूसरा दान"
 slug: ashoka-visvakarma-cave-inscription
-previewOnly: true
 excerpt: "अशोक अपने शासन के बारहवें वर्ष में खलातिक पर्वत की एक गुफ़ा आजीविकों को दान करते हैं।"
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

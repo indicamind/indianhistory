@@ -1,7 +1,6 @@
 ---
 title: "Kandahar III: um fragmento aramaico do Édito em pilar VII"
 slug: ashoka-kandahar-aramaic-inscription
-previewOnly: true
 excerpt: "Sete linhas danificadas de Kandahar preservam expressões indianas e explicações aramaicas correspondentes ao sétimo édito maior em pilar de Ashoka."
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

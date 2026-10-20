@@ -1,7 +1,6 @@
 ---
 title: "નિગલી સાગર સ્તંભલેખ: કોનાકમનનો સ્તૂપ"
 slug: ashoka-nigali-sagar-edict
-previewOnly: true
 excerpt: "અશોક બુદ્ધ કોનાકમનનો સ્તૂપ મોટો કરાવ્યાની અને પછી સ્થળની મુલાકાત લીધાની નોંધ કરે છે."
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

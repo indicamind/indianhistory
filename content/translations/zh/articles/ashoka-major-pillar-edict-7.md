@@ -1,7 +1,6 @@
 ---
 title: "第七号大柱敕：国王对正法的回顾"
 slug: ashoka-major-pillar-edict-7
-previewOnly: true
 excerpt: "阿育王回顾有关福祉、宗教尊重、官员、公共工程和劝导的政策。"
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

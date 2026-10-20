@@ -1,7 +1,6 @@
 ---
 title: "Major Rock Edict XII: Restraint in religious speech"
 slug: ashoka-major-rock-edict-12
-previewOnly: true
 excerpt: "Ashoka honors different religious groups and urges people to avoid careless attacks on other traditions."
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

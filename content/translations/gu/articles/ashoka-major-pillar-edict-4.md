@@ -1,7 +1,6 @@
 ---
 title: "મુખ્ય સ્તંભલેખ ૪: ન્યાય અને રાજુકો"
 slug: ashoka-major-pillar-edict-4
-previewOnly: true
 excerpt: "રાજા સ્થાનિક અધિકારીઓને સત્તા આપે છે અને ન્યાયમાં નિષ્પક્ષતા તથા સંયમ રાખવા કહે છે."
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

@@ -1,7 +1,6 @@
 ---
 title: "Minor Rock Edict II: Everyday duties"
 slug: ashoka-minor-rock-edict-2
-previewOnly: true
 excerpt: "The king urges obedience to parents and elders, truthfulness, and gentle treatment of living beings."
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

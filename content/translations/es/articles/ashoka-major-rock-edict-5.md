@@ -1,7 +1,6 @@
 ---
 title: "Edicto mayor en roca V: los funcionarios del dhamma"
 slug: ashoka-major-rock-edict-5
-previewOnly: true
 excerpt: "Ashoka describe la designación de dhamma-mahamatras para trabajar entre grupos religiosos y personas vulnerables."
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

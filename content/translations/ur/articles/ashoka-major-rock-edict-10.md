@@ -1,7 +1,6 @@
 ---
 title: "دسواں بڑا سنگی فرمان: شہرت کافی نہیں"
 slug: ashoka-major-rock-edict-10
-previewOnly: true
 excerpt: "اشوک کہتا ہے کہ ناموری صرف اسی وقت اہم ہے جب اس سے لوگ دھم کی پیروی کریں۔"
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

@@ -1,7 +1,6 @@
 ---
 title: "અલગ શિલાલેખ ૨: સરહદ પર વિશ્વાસ"
 slug: ashoka-separate-rock-edict-2
-previewOnly: true
 excerpt: "અશોક કલિંગના અધિકારીઓને સરહદ પારના લોકોને આશ્વાસન આપવા અને ધીરજથી શાસન કરવા કહે છે."
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

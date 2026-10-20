@@ -1,7 +1,6 @@
 ---
 title: "Édito maior em rocha V: funcionários do dhamma"
 slug: ashoka-major-rock-edict-5
-previewOnly: true
 excerpt: "Ashoka descreve a nomeação dos dhamma-mahamatras para atuar entre grupos religiosos e pessoas vulneráveis."
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

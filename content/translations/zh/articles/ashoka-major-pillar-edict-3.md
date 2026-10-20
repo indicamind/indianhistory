@@ -1,7 +1,6 @@
 ---
 title: "第三号大柱敕：省察自己的过错"
 slug: ashoka-major-pillar-edict-3
-previewOnly: true
 excerpt: "阿育王敦促人们既看到自己的善行，也注意自身的愤怒、残酷、傲慢和嫉妒。"
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

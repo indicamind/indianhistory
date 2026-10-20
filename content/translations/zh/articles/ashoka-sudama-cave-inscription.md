@@ -1,7 +1,6 @@
 ---
 title: "苏达摩洞窟铭文：赠予阿耆毗迦派"
 slug: ashoka-sudama-cave-inscription
-previewOnly: true
 excerpt: "阿育王在位第十二年，将巴拉巴尔的榕树洞窟奉献给阿耆毗迦派。"
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

@@ -1,7 +1,6 @@
 ---
 title: "蓝毗尼柱敕：佛陀的诞生地"
 slug: ashoka-lumbini-edict
-previewOnly: true
 excerpt: "阿育王记载访问蓝毗尼，并给予佛陀诞生村落优惠税收待遇。"
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

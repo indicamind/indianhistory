@@ -1,7 +1,6 @@
 ---
 title: "Édit majeur sur roche XIII : après la conquête du Kalinga"
 slug: ashoka-major-rock-edict-13
-previewOnly: true
 excerpt: "Ashoka décrit les souffrances causées par la conquête du Kalinga et fait l’éloge de la conquête par le dhamma."
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

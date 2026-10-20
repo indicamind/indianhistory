@@ -1,7 +1,6 @@
 ---
 title: "Édit majeur sur roche IV : le son du dhamma"
 slug: ashoka-major-rock-edict-4
-previewOnly: true
 excerpt: "Ashoka oppose la violence et l’ancien tambour de guerre à la diffusion publique du dhamma."
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

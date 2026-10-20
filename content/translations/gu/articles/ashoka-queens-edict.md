@@ -1,7 +1,6 @@
 ---
 title: "રાણીનો શિલાલેખ: કારુવાકીનાં દાન"
 slug: ashoka-queens-edict
-previewOnly: true
 excerpt: "અશોક રાણી કારુવાકીનાં દાન તેમના નામે નોંધવાનો આદેશ આપે છે."
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

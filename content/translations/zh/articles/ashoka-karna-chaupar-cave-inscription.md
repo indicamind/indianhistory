@@ -1,7 +1,6 @@
 ---
 title: "卡尔纳乔帕尔洞窟铭文：雨季的庇护所"
 slug: ashoka-karna-chaupar-cave-inscription
-previewOnly: true
 excerpt: "一篇受损的巴拉巴尔铭文记载阿育王在位第十九年的洞窟捐赠。"
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

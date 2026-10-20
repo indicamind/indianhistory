@@ -1,7 +1,6 @@
 ---
 title: "ਮੁੱਖ ਪੱਥਰ ਫ਼ਰਮਾਨ 9: ਰਸਮਾਂ ਅਤੇ ਨੈਤਿਕ ਅਮਲ"
 slug: ashoka-major-rock-edict-9
-previewOnly: true
 excerpt: "ਰਾਜਾ ਰਵਾਇਤੀ ਰਸਮਾਂ ਉੱਤੇ ਸਵਾਲ ਕਰਦਾ ਹੈ ਅਤੇ ਧੰਮ ਦਾ ਲਗਾਤਾਰ ਅਮਲ ਕਰਨ ਦੀ ਸਿਫ਼ਾਰਸ਼ ਕਰਦਾ ਹੈ।"
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

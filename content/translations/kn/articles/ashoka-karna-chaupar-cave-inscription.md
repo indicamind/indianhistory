@@ -1,7 +1,6 @@
 ---
 title: "ಕರ್ಣ ಚೌಪರ್ ಗುಹಾ ಶಾಸನ: ಮಳೆಗಾಲಕ್ಕೆ ಆಶ್ರಯ"
 slug: ashoka-karna-chaupar-cave-inscription
-previewOnly: true
 excerpt: "ಹಾನಿಗೊಂಡ ಬರಾಬರ್ ಶಾಸನವು ಅಶೋಕನ ಆಳ್ವಿಕೆಯ ಹತ್ತೊಂಬತ್ತನೆಯ ವರ್ಷದಲ್ಲಿ ಗುಹೆಯನ್ನು ದಾನ ಮಾಡಿದುದನ್ನು ದಾಖಲಿಸುತ್ತದೆ."
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

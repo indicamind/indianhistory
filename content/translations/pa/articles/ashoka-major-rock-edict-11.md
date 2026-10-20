@@ -1,7 +1,6 @@
 ---
 title: "ਮੁੱਖ ਪੱਥਰ ਫ਼ਰਮਾਨ 11: ਧੰਮ ਦਾ ਦਾਨ"
 slug: ashoka-major-rock-edict-11
-previewOnly: true
 excerpt: "ਰਾਜਾ ਨੈਤਿਕ ਆਚਰਨ ਨੂੰ ਸਭ ਤੋਂ ਉੱਚਾ ਦਾਨ ਅਤੇ ਸਮਾਜਿਕ ਨਾਤਾ ਕਹਿੰਦਾ ਹੈ।"
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

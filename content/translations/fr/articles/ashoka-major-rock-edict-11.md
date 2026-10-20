@@ -1,7 +1,6 @@
 ---
 title: "Édit majeur sur roche XI : le don du dhamma"
 slug: ashoka-major-rock-edict-11
-previewOnly: true
 excerpt: "Le roi présente la conduite éthique comme la plus haute forme de don et de lien social."
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

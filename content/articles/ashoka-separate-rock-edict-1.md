@@ -1,7 +1,6 @@
 ---
 title: "Separate Rock Edict I: Justice in Kalinga"
 slug: ashoka-separate-rock-edict-1
-previewOnly: true
 excerpt: "Ashoka instructs officials in newly conquered Kalinga to avoid arbitrary punishment and treat people fairly."
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

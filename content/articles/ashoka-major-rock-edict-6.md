@@ -1,7 +1,6 @@
 ---
 title: "Major Rock Edict VI: Reports at every hour"
 slug: ashoka-major-rock-edict-6
-previewOnly: true
 excerpt: "Ashoka says officials may report the people’s affairs to him wherever he is and at any time."
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

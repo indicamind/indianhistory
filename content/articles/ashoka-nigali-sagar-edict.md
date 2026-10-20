@@ -1,7 +1,6 @@
 ---
 title: "Nigali Sagar Pillar Edict: The Konakamana stupa"
 slug: ashoka-nigali-sagar-edict
-previewOnly: true
 excerpt: "Ashoka records enlarging a stupa for the Buddha Konakamana and later visiting the site."
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

@@ -1,7 +1,6 @@
 ---
 title: "Inscrição da caverna Karna Chaupar: abrigo na estação chuvosa"
 slug: ashoka-karna-chaupar-cave-inscription
-previewOnly: true
 excerpt: "Uma inscrição danificada de Barabar registra a doação de uma caverna no décimo nono ano de reinado de Ashoka."
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

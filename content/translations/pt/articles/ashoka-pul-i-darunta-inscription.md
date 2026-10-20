@@ -1,7 +1,6 @@
 ---
 title: "Pul-i Darunta: uma inscrição em aramaico e prácrito"
 slug: ashoka-pul-i-darunta-inscription
-previewOnly: true
 excerpt: "Um fragmento de oito linhas encontrado perto de Laghman combina expressões em indo-ariano médio com explicações aramaicas e remete a vários éditos de Ashoka."
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

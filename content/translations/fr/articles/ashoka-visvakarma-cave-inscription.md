@@ -1,7 +1,6 @@
 ---
 title: "Inscription de la grotte de Visvakarma : un deuxième don aux ajivikas"
 slug: ashoka-visvakarma-cave-inscription
-previewOnly: true
 excerpt: "Ashoka dédie une grotte de la montagne Khalatika aux ajivikas durant sa douzième année de règne."
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

@@ -1,7 +1,6 @@
 ---
 title: "Édito de Bairat: textos para a comunidade budista"
 slug: ashoka-bairat-edict
-previewOnly: true
 excerpt: "Ashoka recomenda ensinamentos budistas específicos a monges, monjas e seguidores leigos."
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

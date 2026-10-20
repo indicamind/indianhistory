@@ -1,7 +1,6 @@
 ---
 title: "دوسرا جدا سنگی فرمان: سرحد پر اعتماد"
 slug: ashoka-separate-rock-edict-2
-previewOnly: true
 excerpt: "اشوک کلنگ کے افسروں سے کہتا ہے کہ سرحد پار لوگوں کو اطمینان دلائیں اور صبر سے حکومت کریں۔"
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

@@ -1,7 +1,6 @@
 ---
 title: "কান্দাহারের দ্বিভাষিক অভিলেখ: সদাচরণ ও সত্য"
 slug: ashoka-kandahar-bilingual-inscription
-previewOnly: true
 excerpt: "কান্দাহারের গ্রিক ও আরামীয় ঘোষণা রাজার নৈতিক নীতিকে সংযম, জীবরক্ষা এবং মা-বাবার সম্মানের সঙ্গে যুক্ত করে।"
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

@@ -1,7 +1,6 @@
 ---
 title: "Édit majeur sur roche VIII : les voyages pour le dhamma"
 slug: ashoka-major-rock-edict-8
-previewOnly: true
 excerpt: "Ashoka remplace les excursions royales d’agrément par des voyages consacrés aux dons, aux visites aux anciens et aux échanges moraux."
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

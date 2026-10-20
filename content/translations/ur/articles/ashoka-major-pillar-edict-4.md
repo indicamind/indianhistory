@@ -1,7 +1,6 @@
 ---
 title: "چوتھا بڑا ستونی فرمان: انصاف اور راجوک"
 slug: ashoka-major-pillar-edict-4
-previewOnly: true
 excerpt: "بادشاہ مقامی افسروں کو اختیار دیتا ہے اور ان سے انصاف میں عدل اور ضبط چاہتا ہے۔"
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

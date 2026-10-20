@@ -1,7 +1,6 @@
 ---
 title: "المرسوم الصخري المنفصل الثاني: الثقة على الحدود"
 slug: ashoka-separate-rock-edict-2
-previewOnly: true
 excerpt: "يطلب أشوكا من مسؤولي كالينغا طمأنة الناس وراء الحدود والحكم بصبر."
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

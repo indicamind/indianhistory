@@ -1,7 +1,6 @@
 ---
 title: "Édit majeur sur pilier V : la protection des animaux"
 slug: ashoka-major-pillar-edict-5
-previewOnly: true
 excerpt: "Ashoka nomme les animaux protégés et limite l’abattage, le marquage au fer et la pêche certains jours."
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

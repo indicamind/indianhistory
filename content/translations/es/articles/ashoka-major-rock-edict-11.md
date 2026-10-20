@@ -1,7 +1,6 @@
 ---
 title: "Edicto mayor en roca XI: el don del dhamma"
 slug: ashoka-major-rock-edict-11
-previewOnly: true
 excerpt: "El rey considera la conducta ética la forma más elevada de donación y de vínculo social."
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

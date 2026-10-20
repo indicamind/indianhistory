@@ -1,7 +1,6 @@
 ---
 title: "Major Rock Edict IV: The sound of dhamma"
 slug: ashoka-major-rock-edict-4
-previewOnly: true
 excerpt: "Ashoka contrasts violence and the old drum of war with the public spread of dhamma."
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

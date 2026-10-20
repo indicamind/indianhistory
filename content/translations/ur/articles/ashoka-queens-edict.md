@@ -1,7 +1,6 @@
 ---
 title: "ملکہ کا فرمان: کاروواکی کے عطیات"
 slug: ashoka-queens-edict
-previewOnly: true
 excerpt: "اشوک حکم دیتا ہے کہ ملکہ کاروواکی کے عطیات اس کے نام پر درج کیے جائیں۔"
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

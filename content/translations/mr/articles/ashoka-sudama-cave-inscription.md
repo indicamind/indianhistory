@@ -1,7 +1,6 @@
 ---
 title: "सुदामा गुहालेख: आजीविकांना गुहा दान"
 slug: ashoka-sudama-cave-inscription
-previewOnly: true
 excerpt: "राज्याभिषेकाच्या बाराव्या वर्षी अशोकाने बराबरची वडाची गुहा आजीविकांना दिली."
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

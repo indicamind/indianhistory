@@ -1,7 +1,6 @@
 ---
 title: "塔克西拉阿拉米文铭文：见喜王的残缺记载"
 slug: ashoka-taxila-aramaic-inscription
-previewOnly: true
 excerpt: "塔克西拉一篇破损的阿拉米文铭文两次提及见喜王，但缺文使其主旨和王室归属仍不确定。"
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

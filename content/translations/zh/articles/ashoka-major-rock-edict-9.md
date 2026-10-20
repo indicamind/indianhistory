@@ -1,7 +1,6 @@
 ---
 title: "第九号大石敕：仪式与道德实践"
 slug: ashoka-major-rock-edict-9
-previewOnly: true
 excerpt: "国王质疑习俗仪式，转而推荐持续实践正法。"
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

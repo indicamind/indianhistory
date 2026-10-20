@@ -1,7 +1,6 @@
 ---
 title: "Édito maior em pilar VII: uma revisão real do dhamma"
 slug: ashoka-major-pillar-edict-7
-previewOnly: true
 excerpt: "Ashoka revê as suas políticas de bem-estar, respeito religioso, funcionários, obras públicas e persuasão."
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

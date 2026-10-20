@@ -1,7 +1,6 @@
 ---
 title: "چودھواں بڑا سنگی فرمان: فرمان کیوں مختلف ہیں"
 slug: ashoka-major-rock-edict-14
-previewOnly: true
 excerpt: "بادشاہ بتاتا ہے کہ مختلف جگہوں پر کتبوں کی طوالت اور الفاظ کیوں بدلتے ہیں۔"
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

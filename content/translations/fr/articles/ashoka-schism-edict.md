@@ -1,7 +1,6 @@
 ---
 title: "Édit contre le schisme : l’unité de la Saṃgha"
 slug: ashoka-schism-edict
-previewOnly: true
 excerpt: "Ashoka ordonne aux fonctionnaires d’agir contre les moines ou les moniales qui divisent la communauté bouddhique."
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

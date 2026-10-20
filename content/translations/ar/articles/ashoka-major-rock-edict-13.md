@@ -1,7 +1,6 @@
 ---
 title: "المرسوم الصخري الكبير الثالث عشر: بعد فتح كالينغا"
 slug: ashoka-major-rock-edict-13
-previewOnly: true
 excerpt: "يصف أشوكا المعاناة الناجمة عن فتح كالينغا ويمدح الفتح بالدهاما."
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

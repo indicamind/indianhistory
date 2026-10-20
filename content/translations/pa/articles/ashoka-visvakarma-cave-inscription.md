@@ -1,7 +1,6 @@
 ---
 title: "ਵਿਸ਼ਵਕਰਮਾ ਗੁਫ਼ਾ ਅਭਿਲੇਖ: ਆਜੀਵਿਕਾਂ ਲਈ ਦੂਜਾ ਦਾਨ"
 slug: ashoka-visvakarma-cave-inscription
-previewOnly: true
 excerpt: "ਅਸ਼ੋਕ ਰਾਜ ਦੇ ਬਾਰ੍ਹਵੇਂ ਸਾਲ ਖਲਤਿਕ ਪਹਾੜ ਦੀ ਗੁਫ਼ਾ ਆਜੀਵਿਕਾਂ ਨੂੰ ਦਿੰਦਾ ਹੈ।"
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

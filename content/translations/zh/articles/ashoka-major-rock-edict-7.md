@@ -1,7 +1,6 @@
 ---
 title: "第七号大石敕：所有宗教群体"
 slug: ashoka-major-rock-edict-7
-previewOnly: true
 excerpt: "国王说，所有宗教群体的成员都应能够居住在其王国各处。"
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

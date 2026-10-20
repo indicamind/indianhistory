@@ -1,7 +1,6 @@
 ---
 title: "Edicto mayor en pilar I: el gobierno del dhamma"
 slug: ashoka-major-pillar-edict-1
-previewOnly: true
 excerpt: "Ashoka afirma que el gobierno moral requiere esfuerzo, examen de uno mismo y preocupación por esta vida y la siguiente."
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

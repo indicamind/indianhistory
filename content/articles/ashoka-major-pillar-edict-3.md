@@ -1,7 +1,6 @@
 ---
 title: "Major Pillar Edict III: Examine your own faults"
 slug: ashoka-major-pillar-edict-3
-previewOnly: true
 excerpt: "Ashoka urges people to notice their own anger, cruelty, pride, and envy as well as their good actions."
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

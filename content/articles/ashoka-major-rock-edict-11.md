@@ -1,7 +1,6 @@
 ---
 title: "Major Rock Edict XI: The gift of dhamma"
 slug: ashoka-major-rock-edict-11
-previewOnly: true
 excerpt: "The king calls ethical conduct the highest kind of gift and social bond."
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

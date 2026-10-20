@@ -1,7 +1,6 @@
 ---
 title: "第六号大柱敕：为公共福祉而颁的敕文"
 slug: ashoka-major-pillar-edict-6
-previewOnly: true
 excerpt: "国王回顾早先的铭文，并说应让所有群体了解正法教导。"
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

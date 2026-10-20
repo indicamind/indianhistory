@@ -1,7 +1,6 @@
 ---
 title: "Edicto mayor en roca VI: informes a cualquier hora"
 slug: ashoka-major-rock-edict-6
-previewOnly: true
 excerpt: "Ashoka permite a los funcionarios informarle de los asuntos del pueblo dondequiera que esté y a cualquier hora."
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

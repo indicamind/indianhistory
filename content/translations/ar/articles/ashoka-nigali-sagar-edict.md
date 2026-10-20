@@ -1,7 +1,6 @@
 ---
 title: "مرسوم عمود نيغالي ساغار: ستوبا كوناكامانا"
 slug: ashoka-nigali-sagar-edict
-previewOnly: true
 excerpt: "يسجّل أشوكا توسيع ستوبا للبوذا كوناكامانا ثم زيارته للموقع لاحقًا."
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

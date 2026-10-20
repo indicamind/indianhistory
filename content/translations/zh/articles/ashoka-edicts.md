@@ -1,7 +1,6 @@
 ---
 title: "阿育王敕文与铭文：留存文本指南"
 slug: ashoka-edicts
-previewOnly: true
 excerpt: "浏览阿育王的石敕、柱敕、洞窟铭文以及希腊文和阿拉米文铭文。每一种独立文本都有文章，包含图片、转写、译文和说明。"
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

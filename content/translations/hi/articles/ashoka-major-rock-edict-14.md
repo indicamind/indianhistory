@@ -1,7 +1,6 @@
 ---
 title: "प्रमुख शिलादेश XIV: शिलादेश अलग-अलग क्यों हैं"
 slug: ashoka-major-rock-edict-14
-previewOnly: true
 excerpt: "राजा बताते हैं कि अलग-अलग स्थानों के अभिलेखों की लंबाई और शब्दावली क्यों बदलती है।"
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

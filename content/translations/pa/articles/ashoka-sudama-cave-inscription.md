@@ -1,7 +1,6 @@
 ---
 title: "ਸੁਦਾਮਾ ਗੁਫ਼ਾ ਅਭਿਲੇਖ: ਆਜੀਵਿਕਾਂ ਲਈ ਦਾਨ"
 slug: ashoka-sudama-cave-inscription
-previewOnly: true
 excerpt: "ਰਾਜ ਦੇ ਬਾਰ੍ਹਵੇਂ ਸਾਲ ਅਸ਼ੋਕ ਬਰਾਬਰ ਦੀ ਬੋਹੜ ਗੁਫ਼ਾ ਆਜੀਵਿਕਾਂ ਨੂੰ ਸਮਰਪਿਤ ਕਰਦਾ ਹੈ।"
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

@@ -1,7 +1,6 @@
 ---
 title: "Édito separado em rocha I: justiça em Kalinga"
 slug: ashoka-separate-rock-edict-1
-previewOnly: true
 excerpt: "Ashoka instrui os funcionários de Kalinga, recém-conquistada, a evitar punições arbitrárias e a tratar as pessoas com justiça."
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

@@ -1,7 +1,6 @@
 ---
 title: "坎大哈双语铭文：虔敬与真理"
 slug: ashoka-kandahar-bilingual-inscription
-previewOnly: true
 excerpt: "坎大哈一篇希腊文和阿拉米文公告，将国王的道德政策与克制、保护众生及尊敬父母联系起来。"
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

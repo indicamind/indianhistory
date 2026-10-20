@@ -1,7 +1,6 @@
 ---
 title: "Inscripción bilingüe de Kandahar: piedad y verdad"
 slug: ashoka-kandahar-bilingual-inscription
-previewOnly: true
 excerpt: "Una proclamación griega y aramea de Kandahar relaciona la política moral del rey con la moderación, la protección de los seres vivos y el respeto a los padres."
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

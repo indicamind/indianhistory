@@ -1,7 +1,6 @@
 ---
 title: "قندهار الثالث: قطعة آرامية من مرسوم العمود السابع"
 slug: ashoka-kandahar-aramaic-inscription
-previewOnly: true
 excerpt: "تحفظ سبعة أسطر تالفة من قندهار عبارات هندية وشروحًا آرامية تقابل مرسوم العمود الكبير السابع لأشوكا."
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

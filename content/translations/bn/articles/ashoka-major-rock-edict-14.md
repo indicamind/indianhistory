@@ -1,7 +1,6 @@
 ---
 title: "প্রধান শিলালিপি XIV: শিলালিপিগুলি কেন আলাদা"
 slug: ashoka-major-rock-edict-14
-previewOnly: true
 excerpt: "রাজা ব্যাখ্যা করেন কেন বিভিন্ন স্থানের অভিলেখের দৈর্ঘ্য ও শব্দচয়ন ভিন্ন।"
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

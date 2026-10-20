@@ -1,7 +1,6 @@
 ---
 title: "Laghman I: una inscripción aramea asociada a Priyadarśin"
 slug: ashoka-laghman-i-inscription
-previewOnly: true
 excerpt: "Una breve inscripción aramea nombra al rey Priyadarśin y ofrece indicaciones y distancias discutidas. Su condición de edicto real sigue siendo incierta."
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

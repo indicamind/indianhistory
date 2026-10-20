@@ -1,7 +1,6 @@
 ---
 title: "Édit majeur sur roche X : la renommée ne suffit pas"
 slug: ashoka-major-rock-edict-10
-previewOnly: true
 excerpt: "Ashoka affirme que la renommée n’a de valeur que si elle aide les personnes à suivre le dhamma."
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

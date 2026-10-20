@@ -1,7 +1,6 @@
 ---
 title: "وشوکرما غار کا کتبہ: آجیوکوں کو دوسرا عطیہ"
 slug: ashoka-visvakarma-cave-inscription
-previewOnly: true
 excerpt: "اشوک اپنے عہد کے بارہویں سال کھلاتیک پہاڑ کی ایک غار آجیوکوں کے نام کرتا ہے۔"
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

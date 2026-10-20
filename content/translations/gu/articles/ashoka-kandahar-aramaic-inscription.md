@@ -1,7 +1,6 @@
 ---
 title: "કંદહાર ૩: સ્તંભલેખ ૭નો અરામાઇક ખંડ"
 slug: ashoka-kandahar-aramaic-inscription
-previewOnly: true
 excerpt: "કંદહારની સાત ક્ષતિગ્રસ્ત લીટીઓમાં અશોકના સાતમા મુખ્ય સ્તંભલેખને મળતા ભારતીય વાક્યો અને અરામાઇક સમજૂતીઓ બચી છે."
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

@@ -1,7 +1,6 @@
 ---
 title: "Edicto mayor en pilar VI: edictos para el bienestar público"
 slug: ashoka-major-pillar-edict-6
-previewOnly: true
 excerpt: "El rey revisa inscripciones anteriores y afirma que la enseñanza del dhamma debe darse a conocer a todas las comunidades."
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

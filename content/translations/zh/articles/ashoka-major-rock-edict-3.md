@@ -1,7 +1,6 @@
 ---
 title: "第三号大石敕：每五年的教导巡行"
 slug: ashoka-major-rock-edict-3
-previewOnly: true
 excerpt: "官员奉命每五年巡行一次，教导人们如何对待父母、他人和众生。"
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

@@ -1,7 +1,6 @@
 ---
 title: "نگلی ساگر کا ستونی فرمان: کوناکمن کا استوپا"
 slug: ashoka-nigali-sagar-edict
-previewOnly: true
 excerpt: "اشوک بدھ کوناکمن کے استوپے کی توسیع اور بعد میں اس مقام کے اپنے دورے کو درج کرتا ہے۔"
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

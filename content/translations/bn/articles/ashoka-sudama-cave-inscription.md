@@ -1,7 +1,6 @@
 ---
 title: "সুদামা গুহার অভিলেখ: আজীবিকদের দান"
 slug: ashoka-sudama-cave-inscription
-previewOnly: true
 excerpt: "অভিষেকের দ্বাদশ বছরে অশোক বরাবরের বটবৃক্ষ গুহাটি আজীবিকদের দান করেন।"
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

@@ -1,7 +1,6 @@
 ---
 title: "第四号大柱敕：司法与罗阇迦"
 slug: ashoka-major-pillar-edict-4
-previewOnly: true
 excerpt: "国王授予地方官权力，同时要求他们以公平和克制施行司法。"
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

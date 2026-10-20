@@ -1,7 +1,6 @@
 ---
 title: "坎大哈希腊文铭文：言语、羯陵伽与悔恨"
 slug: ashoka-kandahar-greek-inscription
-previewOnly: true
 excerpt: "一份受损的第十二、十三号大石敕末段希腊文版本，提倡言语克制，并叙述征服羯陵伽所造成的苦难。"
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

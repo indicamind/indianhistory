@@ -1,7 +1,6 @@
 ---
 title: "گیارھواں بڑا سنگی فرمان: دھم کا تحفہ"
 slug: ashoka-major-rock-edict-11
-previewOnly: true
 excerpt: "بادشاہ اخلاقی رویے کو سب سے اعلیٰ عطیہ اور سماجی رشتہ کہتا ہے۔"
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

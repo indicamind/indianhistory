@@ -1,7 +1,6 @@
 ---
 title: "کرنا چوپار غار کا کتبہ: برسات میں پناہ"
 slug: ashoka-karna-chaupar-cave-inscription
-previewOnly: true
 excerpt: "برابر کا ایک خراب شدہ کتبہ اشوک کے عہد کے انیسویں سال میں غار کا عطیہ درج کرتا ہے۔"
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

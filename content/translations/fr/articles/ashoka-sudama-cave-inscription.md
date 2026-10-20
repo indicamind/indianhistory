@@ -1,7 +1,6 @@
 ---
 title: "Inscription de la grotte de Sudama : un don aux ajivikas"
 slug: ashoka-sudama-cave-inscription
-previewOnly: true
 excerpt: "Durant sa douzième année de règne, Ashoka dédie aux ajivikas la grotte du Banyan à Barabar."
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

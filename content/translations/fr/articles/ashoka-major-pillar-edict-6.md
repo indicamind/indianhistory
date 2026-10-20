@@ -1,7 +1,6 @@
 ---
 title: "Édit majeur sur pilier VI : des édits pour le bien-être public"
 slug: ashoka-major-pillar-edict-6
-previewOnly: true
 excerpt: "Le roi revient sur les inscriptions antérieures et demande que les enseignements du dhamma soient connus de toutes les communautés."
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

@@ -1,7 +1,6 @@
 ---
 title: "尼加利萨加尔柱敕：拘那含牟尼佛塔"
 slug: ashoka-nigali-sagar-edict
-previewOnly: true
 excerpt: "阿育王记载扩建拘那含牟尼佛塔，以及后来访问该地。"
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

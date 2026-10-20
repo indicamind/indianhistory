@@ -1,7 +1,6 @@
 ---
 title: "प्रमुख शिलादेश IV: धम्म की ध्वनि"
 slug: ashoka-major-rock-edict-4
-previewOnly: true
 excerpt: "अशोक पुराने युद्ध के नगाड़ों और हिंसा की तुलना धम्म के सार्वजनिक प्रसार से करते हैं।"
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

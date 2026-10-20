@@ -1,7 +1,6 @@
 ---
 title: "Édit majeur sur pilier II : ce que signifie le dhamma"
 slug: ashoka-major-pillar-edict-2
-previewOnly: true
 excerpt: "Le roi définit le dhamma par la compassion, la générosité, la véracité, la pureté et l’évitement du mal."
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

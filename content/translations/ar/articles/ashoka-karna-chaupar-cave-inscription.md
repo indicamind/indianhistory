@@ -1,7 +1,6 @@
 ---
 title: "نقش كهف كارنا تشوبار: مأوى لموسم الأمطار"
 slug: ashoka-karna-chaupar-cave-inscription
-previewOnly: true
 excerpt: "يسجّل نقش تالف في بارابار هبة كهف في السنة التاسعة عشرة من حكم أشوكا."
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

@@ -1,7 +1,6 @@
 ---
 title: "Edicto mayor en roca IV: el sonido del dhamma"
 slug: ashoka-major-rock-edict-4
-previewOnly: true
 excerpt: "Ashoka contrapone la violencia y el antiguo tambor de guerra a la difusión pública del dhamma."
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

@@ -1,7 +1,6 @@
 ---
 title: "Edicto contra el cisma: la unidad de la Saṃgha"
 slug: ashoka-schism-edict
-previewOnly: true
 excerpt: "Ashoka ordena actuar contra los monjes o monjas que dividan la comunidad budista."
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

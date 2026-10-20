@@ -1,7 +1,6 @@
 ---
 title: "Bairat Edict: Texts for the Buddhist community"
 slug: ashoka-bairat-edict
-previewOnly: true
 excerpt: "Ashoka recommends named Buddhist teachings to monks, nuns, and lay followers."
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

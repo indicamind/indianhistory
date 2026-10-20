@@ -1,7 +1,6 @@
 ---
 title: "مرسوم العمود الكبير الثاني: معنى الدهاما"
 slug: ashoka-major-pillar-edict-2
-previewOnly: true
 excerpt: "يعرّف الملك الدهاما بالرحمة والكرم والصدق والطهارة وتجنب الإساءة."
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

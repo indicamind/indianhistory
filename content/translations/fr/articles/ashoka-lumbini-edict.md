@@ -1,7 +1,6 @@
 ---
 title: "Édit du pilier de Lumbini : le lieu de naissance du Bouddha"
 slug: ashoka-lumbini-edict
-previewOnly: true
 excerpt: "Ashoka enregistre sa visite à Lumbini et un traitement fiscal favorable pour le village où naquit le Bouddha."
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

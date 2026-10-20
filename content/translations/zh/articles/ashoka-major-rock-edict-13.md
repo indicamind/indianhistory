@@ -1,7 +1,6 @@
 ---
 title: "第十三号大石敕：征服羯陵伽之后"
 slug: ashoka-major-rock-edict-13
-previewOnly: true
 excerpt: "阿育王描述征服羯陵伽造成的苦难，并赞颂以正法征服。"
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

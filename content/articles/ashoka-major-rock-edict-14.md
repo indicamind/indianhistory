@@ -1,7 +1,6 @@
 ---
 title: "Major Rock Edict XIV: Why the edicts differ"
 slug: ashoka-major-rock-edict-14
-previewOnly: true
 excerpt: "The king explains why inscriptions vary in length and wording from place to place."
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

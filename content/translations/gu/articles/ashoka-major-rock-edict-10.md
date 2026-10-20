@@ -1,7 +1,6 @@
 ---
 title: "મુખ્ય શિલાલેખ ૧૦: ખ્યાતિ જ પૂરતી નથી"
 slug: ashoka-major-rock-edict-10
-previewOnly: true
 excerpt: "અશોક કહે છે કે ખ્યાતિ લોકોને ધમ્મ પાળવામાં મદદ કરે ત્યારે જ તેનું મહત્ત્વ છે."
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

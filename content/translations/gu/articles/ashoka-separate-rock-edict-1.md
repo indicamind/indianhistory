@@ -1,7 +1,6 @@
 ---
 title: "અલગ શિલાલેખ ૧: કલિંગમાં ન્યાય"
 slug: ashoka-separate-rock-edict-1
-previewOnly: true
 excerpt: "અશોક નવા જીતેલા કલિંગના અધિકારીઓને મનસ્વી સજા ટાળવા અને લોકો સાથે નિષ્પક્ષ વર્તવા કહે છે."
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

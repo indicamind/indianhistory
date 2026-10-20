@@ -1,7 +1,6 @@
 ---
 title: "ವಿಶ್ವಕರ್ಮ ಗುಹಾ ಶಾಸನ: ಆಜೀವಿಕರಿಗೆ ಎರಡನೆಯ ದಾನ"
 slug: ashoka-visvakarma-cave-inscription
-previewOnly: true
 excerpt: "ಅಶೋಕನು ಹನ್ನೆರಡನೆಯ ಆಳ್ವಿಕೆ ವರ್ಷದಲ್ಲಿ ಖಲತಿಕ ಬೆಟ್ಟದ ಗುಹೆಯನ್ನು ಆಜೀವಿಕರಿಗೆ ಅರ್ಪಿಸುತ್ತಾನೆ."
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

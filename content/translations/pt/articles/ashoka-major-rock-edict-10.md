@@ -1,7 +1,6 @@
 ---
 title: "Édito maior em rocha X: a fama não basta"
 slug: ashoka-major-rock-edict-10
-previewOnly: true
 excerpt: "Ashoka afirma que o renome só importa quando ajuda as pessoas a seguir o dhamma."
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

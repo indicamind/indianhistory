@@ -1,7 +1,6 @@
 ---
 title: "প্রধান শিলালিপি VI: সব সময় খবর"
 slug: ashoka-major-rock-edict-6
-previewOnly: true
 excerpt: "অশোক বলেন, তিনি যেখানে থাকুন, কর্মকর্তারা যে কোনো সময় তাঁকে প্রজাদের বিষয়ে খবর দিতে পারেন।"
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

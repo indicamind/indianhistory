@@ -1,7 +1,6 @@
 ---
 title: "Sudama Cave inscription: A gift to the Ajivikas"
 slug: ashoka-sudama-cave-inscription
-previewOnly: true
 excerpt: "In his twelfth regnal year, Ashoka dedicates the Banyan Cave at Barabar to the Ajivikas."
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

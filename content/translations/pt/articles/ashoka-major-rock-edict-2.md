@@ -1,7 +1,6 @@
 ---
 title: "Édito maior em rocha II: cuidados com pessoas e animais"
 slug: ashoka-major-rock-edict-2
-previewOnly: true
 excerpt: "O rei descreve tratamentos médicos, plantas úteis, poços e árvores à beira das estradas para pessoas e animais."
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

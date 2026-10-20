@@ -1,7 +1,6 @@
 ---
 title: "വിശ്വകർമ ഗുഹാലിഖിതം: ആജീവികർക്കുള്ള രണ്ടാമത്തെ ദാനം"
 slug: ashoka-visvakarma-cave-inscription
-previewOnly: true
 excerpt: "പന്ത്രണ്ടാം ഭരണവർഷത്തിൽ ഖലതിക പർവതത്തിലെ ഒരു ഗുഹ അശോകൻ ആജീവികർക്കു സമർപ്പിക്കുന്നു."
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

@@ -1,7 +1,6 @@
 ---
 title: "نقش كهف فيشفاكارما: هبة ثانية للآجيفيكا"
 slug: ashoka-visvakarma-cave-inscription
-previewOnly: true
 excerpt: "يكرّس أشوكا كهفًا على جبل خالاتيكا للآجيفيكا في السنة الثانية عشرة من حكمه."
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

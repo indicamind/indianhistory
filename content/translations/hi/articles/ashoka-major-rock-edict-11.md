@@ -1,7 +1,6 @@
 ---
 title: "प्रमुख शिलादेश XI: धम्म का दान"
 slug: ashoka-major-rock-edict-11
-previewOnly: true
 excerpt: "राजा नैतिक आचरण को सबसे बड़ा दान और सामाजिक संबंध मानते हैं।"
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

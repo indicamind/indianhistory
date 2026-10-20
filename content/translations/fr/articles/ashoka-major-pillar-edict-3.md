@@ -1,7 +1,6 @@
 ---
 title: "Édit majeur sur pilier III : examiner ses propres fautes"
 slug: ashoka-major-pillar-edict-3
-previewOnly: true
 excerpt: "Ashoka demande de reconnaître sa colère, sa cruauté, son orgueil et son envie aussi bien que ses bonnes actions."
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

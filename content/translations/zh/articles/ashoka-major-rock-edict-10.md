@@ -1,7 +1,6 @@
 ---
 title: "第十号大石敕：名声并不足够"
 slug: ashoka-major-rock-edict-10
-previewOnly: true
 excerpt: "阿育王说，只有在帮助人们遵循正法时，声望才有意义。"
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

@@ -1,7 +1,6 @@
 ---
 title: "સુદામા ગુફાનો અભિલેખ: આજીવિકોને દાન"
 slug: ashoka-sudama-cave-inscription
-previewOnly: true
 excerpt: "શાસનના બારમા વર્ષે અશોક બરાબરની વટવૃક્ષ ગુફા આજીવિકોને અર્પે છે."
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

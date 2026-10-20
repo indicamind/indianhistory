@@ -1,7 +1,6 @@
 ---
 title: "Édito maior em rocha VI: relatórios a qualquer hora"
 slug: ashoka-major-rock-edict-6
-previewOnly: true
 excerpt: "Ashoka afirma que os funcionários podem apresentar-lhe os assuntos da população onde quer que ele esteja e a qualquer momento."
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

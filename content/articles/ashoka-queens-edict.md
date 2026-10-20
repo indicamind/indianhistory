@@ -1,7 +1,6 @@
 ---
 title: "Queen’s Edict: Gifts of Karuvaki"
 slug: ashoka-queens-edict
-previewOnly: true
 excerpt: "Ashoka orders donations by Queen Karuvaki to be recorded in her name."
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

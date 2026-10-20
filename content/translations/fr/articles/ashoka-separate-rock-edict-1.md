@@ -1,7 +1,6 @@
 ---
 title: "Édit séparé sur roche I : la justice au Kalinga"
 slug: ashoka-separate-rock-edict-1
-previewOnly: true
 excerpt: "Ashoka demande aux fonctionnaires du Kalinga récemment conquis d’éviter les châtiments arbitraires et de traiter les habitants avec équité."
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

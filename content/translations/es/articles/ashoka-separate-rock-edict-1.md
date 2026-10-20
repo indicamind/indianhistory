@@ -1,7 +1,6 @@
 ---
 title: "Edicto separado en roca I: la justicia en Kalinga"
 slug: ashoka-separate-rock-edict-1
-previewOnly: true
 excerpt: "Ashoka ordena a los funcionarios de la recién conquistada Kalinga evitar castigos arbitrarios y tratar al pueblo con justicia."
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

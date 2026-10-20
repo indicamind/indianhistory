@@ -1,7 +1,6 @@
 ---
 title: "મુખ્ય શિલાલેખ ૭: બધા ધાર્મિક સંપ્રદાયો"
 slug: ashoka-major-rock-edict-7
-previewOnly: true
 excerpt: "રાજા કહે છે કે બધા ધાર્મિક સંપ્રદાયોના સભ્યો તેના સમગ્ર રાજ્યમાં રહી શકે."
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

@@ -1,7 +1,6 @@
 ---
 title: "कर्ण चौपड़ गुफ़ा अभिलेख: वर्षा ऋतु के लिए आश्रय"
 slug: ashoka-karna-chaupar-cave-inscription
-previewOnly: true
 excerpt: "बराबर का एक क्षतिग्रस्त अभिलेख अशोक के शासन के उन्नीसवें वर्ष में गुफ़ा दान का उल्लेख करता है।"
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

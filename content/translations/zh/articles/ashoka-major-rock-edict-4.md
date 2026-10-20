@@ -1,7 +1,6 @@
 ---
 title: "第四号大石敕：正法之声"
 slug: ashoka-major-rock-edict-4
-previewOnly: true
 excerpt: "阿育王将暴力和昔日的战鼓，与正法的公开传播相对照。"
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

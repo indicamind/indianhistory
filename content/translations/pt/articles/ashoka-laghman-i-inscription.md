@@ -1,7 +1,6 @@
 ---
 title: "Laghman I: uma inscrição aramaica associada a Priyadarśin"
 slug: ashoka-laghman-i-inscription
-previewOnly: true
 excerpt: "Uma breve inscrição aramaica em rocha nomeia o rei Priyadarśin e apresenta direções e distâncias discutidas. A sua condição de édito real permanece incerta."
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

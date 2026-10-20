@@ -1,7 +1,6 @@
 ---
 title: "নিগালি সাগর স্তম্ভলিপি: কনকমুনির স্তূপ"
 slug: ashoka-nigali-sagar-edict
-previewOnly: true
 excerpt: "অশোক বুদ্ধ কনকমুনির স্তূপ বড় করানো এবং পরে সেখানে যাওয়ার কথা নথিবদ্ধ করেন।"
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

@@ -1,7 +1,6 @@
 ---
 title: "第六号大石敕：随时呈报"
 slug: ashoka-major-rock-edict-6
-previewOnly: true
 excerpt: "阿育王说，官员可在任何时间、无论他身在何处，向他报告人民事务。"
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

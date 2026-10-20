@@ -1,7 +1,6 @@
 ---
 title: "प्रमुख स्तंभादेश II: धम्म का अर्थ"
 slug: ashoka-major-pillar-edict-2
-previewOnly: true
 excerpt: "राजा धम्म को करुणा, उदारता, सत्य, शुद्धता और बुरे कर्मों से बचने के रूप में परिभाषित करते हैं।"
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

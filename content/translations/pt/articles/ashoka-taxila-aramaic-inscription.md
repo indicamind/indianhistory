@@ -1,7 +1,6 @@
 ---
 title: "Inscrição aramaica de Taxila: uma menção danificada a Priyadarśin"
 slug: ashoka-taxila-aramaic-inscription
-previewOnly: true
 excerpt: "Uma inscrição aramaica quebrada de Taxila menciona Priyadarśin duas vezes, mas as lacunas deixam incertas a sua mensagem e a autoria real."
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

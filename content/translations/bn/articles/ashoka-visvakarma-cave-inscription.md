@@ -1,7 +1,6 @@
 ---
 title: "বিশ্বকর্মা গুহার অভিলেখ: আজীবিকদের দ্বিতীয় দান"
 slug: ashoka-visvakarma-cave-inscription
-previewOnly: true
 excerpt: "অশোক অভিষেকের দ্বাদশ বছরে খলাতিক পর্বতের একটি গুহা আজীবিকদের দান করেন।"
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

@@ -1,7 +1,6 @@
 ---
 title: "Inscripción de la cueva de Sudama: una donación a los ajivikas"
 slug: ashoka-sudama-cave-inscription
-previewOnly: true
 excerpt: "En su duodécimo año de reinado, Ashoka dedica a los ajivikas la Cueva del Baniano de Barabar."
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

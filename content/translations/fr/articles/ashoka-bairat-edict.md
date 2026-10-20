@@ -1,7 +1,6 @@
 ---
 title: "Édit de Bairat : des textes pour la communauté bouddhique"
 slug: ashoka-bairat-edict
-previewOnly: true
 excerpt: "Ashoka recommande des enseignements bouddhiques précis aux moines, aux moniales et aux fidèles laïcs."
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

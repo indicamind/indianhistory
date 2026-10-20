@@ -1,7 +1,6 @@
 ---
 title: "Major Pillar Edict IV: Justice and the rajukas"
 slug: ashoka-major-pillar-edict-4
-previewOnly: true
 excerpt: "The king grants local officers authority while asking them to administer justice with fairness and restraint."
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

@@ -1,7 +1,6 @@
 ---
 title: "Karna Chaupar Cave inscription: Shelter for the rainy season"
 slug: ashoka-karna-chaupar-cave-inscription
-previewOnly: true
 excerpt: "A damaged Barabar inscription records a cave gift in Ashoka’s nineteenth regnal year."
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

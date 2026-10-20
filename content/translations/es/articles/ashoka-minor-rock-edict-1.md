@@ -1,7 +1,6 @@
 ---
 title: "Edicto menor en roca I: el esfuerzo de Ashoka"
 slug: ashoka-minor-rock-edict-1
-previewOnly: true
 excerpt: "Ashoka describe su compromiso como seguidor budista laico e insta a las personas de cualquier rango a esforzarse con empeño."
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

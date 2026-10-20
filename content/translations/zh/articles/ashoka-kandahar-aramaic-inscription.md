@@ -1,7 +1,6 @@
 ---
 title: "坎大哈第三铭文：第七号柱敕的阿拉米文残片"
 slug: ashoka-kandahar-aramaic-inscription
-previewOnly: true
 excerpt: "坎大哈的七行受损文字保留印度语短语和阿拉米文解释，与阿育王第七号大柱敕相对应。"
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

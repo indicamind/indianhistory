@@ -1,7 +1,6 @@
 ---
 title: "Édit majeur sur roche XII : la retenue dans les propos religieux"
 slug: ashoka-major-rock-edict-12
-previewOnly: true
 excerpt: "Ashoka honore différents groupes religieux et demande d’éviter les attaques irréfléchies contre les autres traditions."
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

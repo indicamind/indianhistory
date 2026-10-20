@@ -1,7 +1,6 @@
 ---
 title: "Édito menor em rocha II: deveres cotidianos"
 slug: ashoka-minor-rock-edict-2
-previewOnly: true
 excerpt: "O rei recomenda obediência aos pais e aos mais velhos, veracidade e tratamento gentil dos seres vivos."
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

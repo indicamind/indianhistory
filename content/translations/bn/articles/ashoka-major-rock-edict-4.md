@@ -1,7 +1,6 @@
 ---
 title: "প্রধান শিলালিপি IV: ধম্মের ধ্বনি"
 slug: ashoka-major-rock-edict-4
-previewOnly: true
 excerpt: "অশোক যুদ্ধের পুরনো ঢাক ও হিংসার সঙ্গে ধম্মের জনসমক্ষে প্রসারের তুলনা করেন।"
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

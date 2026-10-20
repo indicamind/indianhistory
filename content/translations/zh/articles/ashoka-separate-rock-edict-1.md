@@ -1,7 +1,6 @@
 ---
 title: "第一号别石敕：羯陵伽的司法"
 slug: ashoka-separate-rock-edict-1
-previewOnly: true
 excerpt: "阿育王指示新近征服的羯陵伽官员，避免任意惩罚，公平对待人民。"
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

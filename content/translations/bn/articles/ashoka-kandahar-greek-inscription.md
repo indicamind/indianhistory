@@ -1,7 +1,6 @@
 ---
 title: "কান্দাহারের গ্রিক অভিলেখ: কথা, কলিঙ্গ ও অনুতাপ"
 slug: ashoka-kandahar-greek-inscription
-previewOnly: true
 excerpt: "প্রধান শিলালিপি XII-এর শেষ এবং XIII-এর শুরুর একটি ক্ষতিগ্রস্ত গ্রিক রূপ কথায় সংযম শেখায় ও কলিঙ্গ জয়ের দুঃখ বর্ণনা করে।"
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

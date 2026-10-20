@@ -1,7 +1,6 @@
 ---
 title: "Inscrição grega de Kandahar: fala, Kalinga e remorso"
 slug: ashoka-kandahar-greek-inscription
-previewOnly: true
 excerpt: "Uma versão grega danificada dos trechos finais dos Éditos maiores em rocha XII e XIII recomenda contenção na fala e relata o sofrimento causado pela conquista de Kalinga."
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

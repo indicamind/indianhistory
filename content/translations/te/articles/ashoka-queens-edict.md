@@ -1,7 +1,6 @@
 ---
 title: "రాణి ఆజ్ఞ: కాలువాకీ దానాలు"
 slug: ashoka-queens-edict
-previewOnly: true
 excerpt: "రాణి కాలువాకీ చేసిన దానాలను ఆమె పేరుమీదే నమోదు చేయాలని అశోకుడు ఆదేశించాడు."
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

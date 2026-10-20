@@ -1,7 +1,6 @@
 ---
 title: "প্রধান শিলালিপি XIII: কলিঙ্গ বিজয়ের পরে"
 slug: ashoka-major-rock-edict-13
-previewOnly: true
 excerpt: "অশোক কলিঙ্গ জয়ের দুঃখের কথা বলেন এবং ধম্মের মাধ্যমে বিজয়ের প্রশংসা করেন।"
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

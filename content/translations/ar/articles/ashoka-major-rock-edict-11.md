@@ -1,7 +1,6 @@
 ---
 title: "المرسوم الصخري الكبير الحادي عشر: هبة الدهاما"
 slug: ashoka-major-rock-edict-11
-previewOnly: true
 excerpt: "يسمّي الملك السلوك الأخلاقي أسمى أنواع العطاء والروابط الاجتماعية."
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

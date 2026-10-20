@@ -1,7 +1,6 @@
 ---
 title: "王后敕文：迦卢瓦基的捐赠"
 slug: ashoka-queens-edict
-previewOnly: true
 excerpt: "阿育王命令将迦卢瓦基王后的捐赠登记在她名下。"
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

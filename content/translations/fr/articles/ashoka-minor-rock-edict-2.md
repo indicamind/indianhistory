@@ -1,7 +1,6 @@
 ---
 title: "Édit mineur sur roche II : les devoirs quotidiens"
 slug: ashoka-minor-rock-edict-2
-previewOnly: true
 excerpt: "Le roi demande d’obéir aux parents et aux aînés, de dire la vérité et de traiter les êtres vivants avec douceur."
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

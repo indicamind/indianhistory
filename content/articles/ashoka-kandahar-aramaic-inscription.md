@@ -1,7 +1,6 @@
 ---
 title: "Kandahar III: An Aramaic fragment of Pillar Edict VII"
 slug: ashoka-kandahar-aramaic-inscription
-previewOnly: true
 excerpt: "Seven damaged lines from Kandahar preserve Indian phrases and Aramaic explanations that correspond to Ashoka’s seventh major pillar edict."
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

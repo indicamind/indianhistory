@@ -1,7 +1,6 @@
 ---
 title: "第八号大石敕：正法巡行"
 slug: ashoka-major-rock-edict-8
-previewOnly: true
 excerpt: "阿育王以包括施舍、探望长者和道德讨论的巡行，取代王室游乐巡行。"
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

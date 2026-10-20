@@ -1,7 +1,6 @@
 ---
 title: "Major Rock Edict III: Five-year tours of instruction"
 slug: ashoka-major-rock-edict-3
-previewOnly: true
 excerpt: "Officials are ordered to travel every five years and teach conduct toward parents, others, and living beings."
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

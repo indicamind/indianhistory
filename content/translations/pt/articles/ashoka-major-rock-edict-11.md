@@ -1,7 +1,6 @@
 ---
 title: "Édito maior em rocha XI: a dádiva do dhamma"
 slug: ashoka-major-rock-edict-11
-previewOnly: true
 excerpt: "O rei considera a conduta ética a forma mais elevada de dádiva e de vínculo social."
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

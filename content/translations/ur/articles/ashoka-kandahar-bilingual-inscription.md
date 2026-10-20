@@ -1,7 +1,6 @@
 ---
 title: "قندھار کا دو لسانی کتبہ: نیکی اور سچائی"
 slug: ashoka-kandahar-bilingual-inscription
-previewOnly: true
 excerpt: "قندھار کا یونانی اور آرامی اعلان بادشاہ کی اخلاقی پالیسی کو ضبط، جانداروں کے تحفظ اور والدین کے احترام سے جوڑتا ہے۔"
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

@@ -1,7 +1,6 @@
 ---
 title: "Edicto mayor en roca XII: moderación al hablar de religión"
 slug: ashoka-major-rock-edict-12
-previewOnly: true
 excerpt: "Ashoka honra a distintos grupos religiosos y pide evitar ataques irreflexivos contra otras tradiciones."
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

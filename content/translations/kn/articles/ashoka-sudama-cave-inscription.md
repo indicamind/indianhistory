@@ -1,7 +1,6 @@
 ---
 title: "ಸುದಾಮ ಗುಹಾ ಶಾಸನ: ಆಜೀವಿಕರಿಗೆ ದಾನ"
 slug: ashoka-sudama-cave-inscription
-previewOnly: true
 excerpt: "ಆಳ್ವಿಕೆಯ ಹನ್ನೆರಡನೆಯ ವರ್ಷದಲ್ಲಿ ಅಶೋಕನು ಬರಾಬರಿನ ಆಲದಮರದ ಗುಹೆಯನ್ನು ಆಜೀವಿಕರಿಗೆ ಅರ್ಪಿಸುತ್ತಾನೆ."
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

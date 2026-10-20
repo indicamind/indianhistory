@@ -1,7 +1,6 @@
 ---
 title: "प्रमुख शिलादेश XIII: कलिंग की विजय के बाद"
 slug: ashoka-major-rock-edict-13
-previewOnly: true
 excerpt: "अशोक कलिंग की विजय से हुए दुख का वर्णन करते हैं और धम्म द्वारा विजय की प्रशंसा करते हैं।"
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

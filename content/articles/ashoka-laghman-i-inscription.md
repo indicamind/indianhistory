@@ -1,7 +1,6 @@
 ---
 title: "Laghman I: An Aramaic inscription associated with Priyadarśin"
 slug: ashoka-laghman-i-inscription
-previewOnly: true
 excerpt: "A short Aramaic rock inscription names King Priyadarśin and gives disputed directions and distances. Its status as a royal edict remains uncertain."
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

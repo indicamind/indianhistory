@@ -1,7 +1,6 @@
 ---
 title: "Inscripción griega de Kandahar: palabra, Kalinga y remordimiento"
 slug: ashoka-kandahar-greek-inscription
-previewOnly: true
 excerpt: "Una versión griega dañada de partes de los edictos mayores en roca XII y XIII pide moderación al hablar y relata el sufrimiento causado por la conquista de Kalinga."
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

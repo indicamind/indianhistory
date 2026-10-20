@@ -1,7 +1,6 @@
 ---
 title: "毗首羯磨洞窟铭文：再赠阿耆毗迦派"
 slug: ashoka-visvakarma-cave-inscription
-previewOnly: true
 excerpt: "阿育王在位第十二年，将卡拉蒂卡山上的一座洞窟奉献给阿耆毗迦派。"
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

@@ -1,7 +1,6 @@
 ---
 title: "ਮੁੱਖ ਪੱਥਰ ਫ਼ਰਮਾਨ 4: ਧੰਮ ਦੀ ਆਵਾਜ਼"
 slug: ashoka-major-rock-edict-4
-previewOnly: true
 excerpt: "ਅਸ਼ੋਕ ਹਿੰਸਾ ਅਤੇ ਜੰਗ ਦੇ ਪੁਰਾਣੇ ਨਗਾਰੇ ਦੀ ਤੁਲਨਾ ਧੰਮ ਦੇ ਜਨਤਕ ਪ੍ਰਸਾਰ ਨਾਲ ਕਰਦਾ ਹੈ।"
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

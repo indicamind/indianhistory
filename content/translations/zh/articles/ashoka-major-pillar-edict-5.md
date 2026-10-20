@@ -1,7 +1,6 @@
 ---
 title: "第五号大柱敕：保护动物"
 slug: ashoka-major-pillar-edict-5
-previewOnly: true
 excerpt: "阿育王列举受保护动物，并在指定日期限制宰杀、烙印和捕鱼。"
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

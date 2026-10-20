@@ -1,7 +1,6 @@
 ---
 title: "拉格曼第一铭文：与见喜王有关的阿拉米文铭刻"
 slug: ashoka-laghman-i-inscription
-previewOnly: true
 excerpt: "一篇简短的阿拉米文石刻提及见喜王，并列出有争议的方向和距离。它是否为王室敕文仍不确定。"
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

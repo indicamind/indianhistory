@@ -1,7 +1,6 @@
 ---
 title: "Major Rock Edict VII: All religious groups"
 slug: ashoka-major-rock-edict-7
-previewOnly: true
 excerpt: "The king says members of all religious groups should be able to live throughout his realm."
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

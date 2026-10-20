@@ -1,7 +1,6 @@
 ---
 title: "قندھار III: ساتویں ستونی فرمان کا آرامی ٹکڑا"
 slug: ashoka-kandahar-aramaic-inscription
-previewOnly: true
 excerpt: "قندھار کی سات خراب سطروں میں ہندوستانی فقرے اور آرامی توضیحات باقی ہیں جو اشوک کے ساتویں بڑے ستونی فرمان سے ملتی ہیں۔"
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

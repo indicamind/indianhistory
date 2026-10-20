@@ -1,7 +1,6 @@
 ---
 title: "Édito maior em rocha XII: contenção no discurso religioso"
 slug: ashoka-major-rock-edict-12
-previewOnly: true
 excerpt: "Ashoka honra diferentes grupos religiosos e recomenda evitar ataques irrefletidos a outras tradições."
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

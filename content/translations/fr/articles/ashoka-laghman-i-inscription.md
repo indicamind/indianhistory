@@ -1,7 +1,6 @@
 ---
 title: "Laghman I : une inscription araméenne associée à Priyadarśin"
 slug: ashoka-laghman-i-inscription
-previewOnly: true
 excerpt: "Une courte inscription araméenne sur roche nomme le roi Priyadarśin et donne des indications de direction et de distance discutées. Son statut d’édit royal demeure incertain."
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

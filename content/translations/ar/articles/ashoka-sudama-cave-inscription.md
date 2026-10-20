@@ -1,7 +1,6 @@
 ---
 title: "نقش كهف سوداما: هبة للآجيفيكا"
 slug: ashoka-sudama-cave-inscription
-previewOnly: true
 excerpt: "في السنة الثانية عشرة من حكمه، يكرّس أشوكا كهف البانيان في بارابار للآجيفيكا."
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

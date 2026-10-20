@@ -1,7 +1,6 @@
 ---
 title: "रानी का आदेश: करुवाकी के दान"
 slug: ashoka-queens-edict
-previewOnly: true
 excerpt: "अशोक आदेश देते हैं कि रानी करुवाकी के दान उनके नाम से दर्ज किए जाएँ।"
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

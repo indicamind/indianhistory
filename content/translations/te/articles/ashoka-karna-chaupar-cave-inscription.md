@@ -1,7 +1,6 @@
 ---
 title: "కర్ణ చౌపర్ గుహాశాసనం: వర్షాకాల ఆశ్రయం"
 slug: ashoka-karna-chaupar-cave-inscription
-previewOnly: true
 excerpt: "పట్టాభిషేకం జరిగిన పందొమ్మిదో సంవత్సరంలో వర్షాకాల ఆశ్రయం కోసం ఈ గుహను ఇచ్చినట్లు అశోకుడు చెప్పాడు."
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

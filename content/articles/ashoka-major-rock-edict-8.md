@@ -1,7 +1,6 @@
 ---
 title: "Major Rock Edict VIII: Journeys for dhamma"
 slug: ashoka-major-rock-edict-8
-previewOnly: true
 excerpt: "Ashoka replaces royal pleasure tours with journeys involving gifts, visits to elders, and moral discussion."
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

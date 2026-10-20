@@ -1,7 +1,6 @@
 ---
 title: "મુખ્ય સ્તંભલેખ ૧: ધમ્મ દ્વારા શાસન"
 slug: ashoka-major-pillar-edict-1
-previewOnly: true
 excerpt: "અશોક કહે છે કે નૈતિક શાસન માટે પ્રયત્ન, આત્મપરીક્ષણ અને આ લોક તથા પરલોકની ચિંતા જરૂરી છે."
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

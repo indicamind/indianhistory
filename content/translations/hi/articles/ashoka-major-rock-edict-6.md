@@ -1,7 +1,6 @@
 ---
 title: "प्रमुख शिलादेश VI: हर समय सूचना"
 slug: ashoka-major-rock-edict-6
-previewOnly: true
 excerpt: "अशोक कहते हैं कि अधिकारी वे जहाँ भी हों, किसी भी समय प्रजा के मामलों की सूचना दे सकते हैं।"
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

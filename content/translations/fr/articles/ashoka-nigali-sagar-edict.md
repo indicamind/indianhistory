@@ -1,7 +1,6 @@
 ---
 title: "Édit du pilier de Nigali Sagar : le stūpa de Konakamana"
 slug: ashoka-nigali-sagar-edict
-previewOnly: true
 excerpt: "Ashoka enregistre l’agrandissement d’un stūpa du Bouddha Konakamana et une visite ultérieure au site."
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

@@ -1,7 +1,6 @@
 ---
 title: "કંદહારનો દ્વિભાષી અભિલેખ: ધર્મનિષ્ઠા અને સત્ય"
 slug: ashoka-kandahar-bilingual-inscription
-previewOnly: true
 excerpt: "કંદહારની ગ્રીક અને અરામાઇક ઘોષણા રાજાની નૈતિક નીતિને સંયમ, જીવસૃષ્ટિના રક્ષણ અને માતાપિતાના આદર સાથે જોડે છે."
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

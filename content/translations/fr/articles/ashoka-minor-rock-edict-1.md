@@ -1,7 +1,6 @@
 ---
 title: "Édit mineur sur roche I : l’effort d’Ashoka"
 slug: ashoka-minor-rock-edict-1
-previewOnly: true
 excerpt: "Ashoka décrit son engagement de fidèle bouddhiste laïc et exhorte les personnes de tout rang à faire des efforts sincères."
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

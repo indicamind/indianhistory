@@ -1,7 +1,6 @@
 ---
 title: "Kandahar bilingual inscription: Piety and truth"
 slug: ashoka-kandahar-bilingual-inscription
-previewOnly: true
 excerpt: "A Greek and Aramaic proclamation from Kandahar links the king’s moral policy with restraint, protection of living beings, and respect for parents."
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

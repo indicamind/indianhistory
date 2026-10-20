@@ -1,7 +1,6 @@
 ---
 title: "第十二号大石敕：宗教言论中的克制"
 slug: ashoka-major-rock-edict-12
-previewOnly: true
 excerpt: "阿育王尊重不同宗教群体，敦促人们避免轻率攻击其他传统。"
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

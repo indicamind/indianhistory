@@ -1,7 +1,6 @@
 ---
 title: "Édito maior em pilar IV: a justiça e os rajukas"
 slug: ashoka-major-pillar-edict-4
-previewOnly: true
 excerpt: "O rei concede autoridade aos funcionários locais, pedindo que administrem a justiça com equidade e contenção."
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

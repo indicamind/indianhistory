@@ -1,7 +1,6 @@
 ---
 title: "विश्वकर्मा गुहालेख: आजीविकांना दुसरे दान"
 slug: ashoka-visvakarma-cave-inscription
-previewOnly: true
 excerpt: "राज्याभिषेकाच्या बाराव्या वर्षी खलातिक पर्वतावरील एक गुहा अशोकाने आजीविकांना दिली."
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

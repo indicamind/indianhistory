@@ -1,7 +1,6 @@
 ---
 title: "ਮੁੱਖ ਸਤੰਭ ਫ਼ਰਮਾਨ 1: ਧੰਮ ਅਨੁਸਾਰ ਰਾਜ"
 slug: ashoka-major-pillar-edict-1
-previewOnly: true
 excerpt: "ਅਸ਼ੋਕ ਕਹਿੰਦਾ ਹੈ ਕਿ ਨੈਤਿਕ ਰਾਜ ਲਈ ਯਤਨ, ਸਵੈ-ਪੜਤਾਲ ਅਤੇ ਇਸ ਲੋਕ ਤੇ ਪਰਲੋਕ ਦੀ ਚਿੰਤਾ ਲੋੜੀਂਦੀ ਹੈ।"
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

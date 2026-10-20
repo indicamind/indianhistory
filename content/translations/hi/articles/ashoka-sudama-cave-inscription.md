@@ -1,7 +1,6 @@
 ---
 title: "सुदामा गुफ़ा अभिलेख: आजीविकों को दान"
 slug: ashoka-sudama-cave-inscription
-previewOnly: true
 excerpt: "अपने शासन के बारहवें वर्ष में अशोक बराबर की वट-वृक्ष गुफ़ा आजीविकों को दान करते हैं।"
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

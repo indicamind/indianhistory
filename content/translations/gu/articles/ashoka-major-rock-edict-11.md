@@ -1,7 +1,6 @@
 ---
 title: "મુખ્ય શિલાલેખ ૧૧: ધમ્મનું દાન"
 slug: ashoka-major-rock-edict-11
-previewOnly: true
 excerpt: "રાજા નૈતિક આચરણને દાન અને સામાજિક સંબંધનો સર્વોત્તમ પ્રકાર કહે છે."
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

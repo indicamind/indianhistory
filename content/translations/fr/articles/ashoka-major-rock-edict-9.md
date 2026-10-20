@@ -1,7 +1,6 @@
 ---
 title: "Édit majeur sur roche IX : les rites et la pratique morale"
 slug: ashoka-major-rock-edict-9
-previewOnly: true
 excerpt: "Le roi remet en question les cérémonies habituelles et recommande la pratique continue du dhamma."
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

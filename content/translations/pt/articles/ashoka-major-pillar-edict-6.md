@@ -1,7 +1,6 @@
 ---
 title: "Édito maior em pilar VI: éditos para o bem-estar público"
 slug: ashoka-major-pillar-edict-6
-previewOnly: true
 excerpt: "O rei revê inscrições anteriores e afirma que as instruções sobre o dhamma devem ser divulgadas a todas as comunidades."
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

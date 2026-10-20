@@ -1,7 +1,6 @@
 ---
 title: "Édit majeur sur pilier IV : la justice et les rajukas"
 slug: ashoka-major-pillar-edict-4
-previewOnly: true
 excerpt: "Le roi donne autorité aux fonctionnaires locaux tout en leur demandant de rendre la justice avec équité et retenue."
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

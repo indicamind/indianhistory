@@ -1,7 +1,6 @@
 ---
 title: "普勒达伦塔：阿拉米文与普拉克里特语铭文"
 slug: ashoka-pul-i-darunta-inscription
-previewOnly: true
 excerpt: "拉格曼附近的一块八行残片，将中古印度语短语与阿拉米文解释相结合，并涉及数篇阿育王敕文。"
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

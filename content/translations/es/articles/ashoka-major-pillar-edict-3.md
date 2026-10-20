@@ -1,7 +1,6 @@
 ---
 title: "Edicto mayor en pilar III: examina tus propios defectos"
 slug: ashoka-major-pillar-edict-3
-previewOnly: true
 excerpt: "Ashoka pide reconocer la propia ira, crueldad, soberbia y envidia, además de las buenas acciones."
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

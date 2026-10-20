@@ -1,7 +1,6 @@
 ---
 title: "Inscrição da caverna Sudama: uma dádiva aos Ajivikas"
 slug: ashoka-sudama-cave-inscription
-previewOnly: true
 excerpt: "No seu décimo segundo ano de reinado, Ashoka dedica a caverna do Banyan, em Barabar, aos Ajivikas."
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

@@ -1,7 +1,6 @@
 ---
 title: "ਮੁੱਖ ਸਤੰਭ ਫ਼ਰਮਾਨ 4: ਨਿਆਂ ਅਤੇ ਰਾਜੂਕ"
 slug: ashoka-major-pillar-edict-4
-previewOnly: true
 excerpt: "ਰਾਜਾ ਸਥਾਨਕ ਅਧਿਕਾਰੀਆਂ ਨੂੰ ਅਧਿਕਾਰ ਦੇ ਕੇ ਨਿਆਂ ਨਿਰਪੱਖਤਾ ਅਤੇ ਸੰਜਮ ਨਾਲ ਕਰਨ ਲਈ ਕਹਿੰਦਾ ਹੈ।"
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

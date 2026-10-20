@@ -1,7 +1,6 @@
 ---
 title: "ਮੁੱਖ ਸਤੰਭ ਫ਼ਰਮਾਨ 2: ਧੰਮ ਦਾ ਅਰਥ"
 slug: ashoka-major-pillar-edict-2
-previewOnly: true
 excerpt: "ਰਾਜਾ ਦਇਆ, ਉਦਾਰਤਾ, ਸੱਚ, ਪਵਿੱਤਰਤਾ ਅਤੇ ਮੰਦੇ ਕੰਮਾਂ ਤੋਂ ਪਰਹੇਜ਼ ਰਾਹੀਂ ਧੰਮ ਦੀ ਪਰਿਭਾਸ਼ਾ ਦਿੰਦਾ ਹੈ।"
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

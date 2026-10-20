@@ -1,7 +1,6 @@
 ---
 title: "Les édits et inscriptions d’Ashoka : guide des textes conservés"
 slug: ashoka-edicts
-previewOnly: true
 excerpt: "Découvrez les inscriptions d’Ashoka sur roche, sur pilier, dans les grottes, en grec et en araméen. Chaque texte distinct possède son propre article avec une image, une translittération, une traduction et une explication."
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

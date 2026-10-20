@@ -1,7 +1,6 @@
 ---
 title: "Éditos e inscrições de Ashoka: um guia dos textos preservados"
 slug: ashoka-edicts
-previewOnly: true
 excerpt: "Explore as inscrições de Ashoka em rochas, pilares e cavernas, em grego e em aramaico. Cada texto distinto tem um artigo próprio com imagem, transliteração, tradução e explicação."
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

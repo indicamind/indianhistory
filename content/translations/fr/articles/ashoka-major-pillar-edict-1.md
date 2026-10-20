@@ -1,7 +1,6 @@
 ---
 title: "Édit majeur sur pilier I : gouverner selon le dhamma"
 slug: ashoka-major-pillar-edict-1
-previewOnly: true
 excerpt: "Ashoka affirme qu’un gouvernement moral exige des efforts, l’examen de soi et le souci de cette vie comme de l’autre."
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

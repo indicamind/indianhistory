@@ -1,7 +1,6 @@
 ---
 title: "કર્ણ ચૌપર ગુફાનો અભિલેખ: વરસાદની ઋતુ માટે આશ્રય"
 slug: ashoka-karna-chaupar-cave-inscription
-previewOnly: true
 excerpt: "બરાબરનો ક્ષતિગ્રસ્ત અભિલેખ અશોકના શાસનના ઓગણીસમા વર્ષે ગુફાના દાનની નોંધ કરે છે."
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

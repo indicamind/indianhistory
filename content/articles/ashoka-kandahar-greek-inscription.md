@@ -1,7 +1,6 @@
 ---
 title: "Kandahar Greek inscription: Speech, Kalinga, and remorse"
 slug: ashoka-kandahar-greek-inscription
-previewOnly: true
 excerpt: "A damaged Greek version of the ends of Major Rock Edicts XII and XIII urges restraint in speech and recounts the suffering caused by the conquest of Kalinga."
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

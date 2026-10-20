@@ -1,7 +1,6 @@
 ---
 title: "Édito da rainha: dádivas de Karuvaki"
 slug: ashoka-queens-edict
-previewOnly: true
 excerpt: "Ashoka ordena que as doações da rainha Karuvaki sejam registradas em nome dela."
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

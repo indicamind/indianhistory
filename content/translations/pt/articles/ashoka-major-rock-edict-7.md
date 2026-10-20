@@ -1,7 +1,6 @@
 ---
 title: "Édito maior em rocha VII: todos os grupos religiosos"
 slug: ashoka-major-rock-edict-7
-previewOnly: true
 excerpt: "O rei afirma que os membros de todos os grupos religiosos devem poder viver em todo o seu reino."
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

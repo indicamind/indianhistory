@@ -1,7 +1,6 @@
 ---
 title: "Édito do cisma: unidade da Saṃgha"
 slug: ashoka-schism-edict
-previewOnly: true
 excerpt: "Ashoka ordena que os funcionários ajam contra monges ou monjas que dividam a comunidade budista."
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

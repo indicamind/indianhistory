@@ -1,7 +1,6 @@
 ---
 title: "Ashoka’s edicts and inscriptions: a guide to the surviving texts"
 slug: ashoka-edicts
-previewOnly: true
 excerpt: "Browse Ashoka’s rock, pillar, cave, Greek, and Aramaic inscriptions. Each distinct text has its own article with an image, transliteration, translation, and explanation."
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

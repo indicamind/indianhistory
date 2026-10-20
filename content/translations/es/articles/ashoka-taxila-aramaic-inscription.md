@@ -1,7 +1,6 @@
 ---
 title: "Inscripción aramea de Taxila: una mención dañada de Priyadarśin"
 slug: ashoka-taxila-aramaic-inscription
-previewOnly: true
 excerpt: "Una inscripción aramea rota de Taxila menciona dos veces a Priyadarśin, pero el texto perdido deja inciertos su mensaje y su autoría real."
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

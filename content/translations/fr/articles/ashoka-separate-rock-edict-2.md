@@ -1,7 +1,6 @@
 ---
 title: "Édit séparé sur roche II : la confiance aux frontières"
 slug: ashoka-separate-rock-edict-2
-previewOnly: true
 excerpt: "Ashoka demande aux fonctionnaires du Kalinga de rassurer les populations au-delà des frontières et de gouverner avec patience."
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

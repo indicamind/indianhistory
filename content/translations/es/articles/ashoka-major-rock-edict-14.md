@@ -1,7 +1,6 @@
 ---
 title: "Edicto mayor en roca XIV: por qué difieren los edictos"
 slug: ashoka-major-rock-edict-14
-previewOnly: true
 excerpt: "El rey explica por qué las inscripciones varían de extensión y de redacción de un lugar a otro."
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

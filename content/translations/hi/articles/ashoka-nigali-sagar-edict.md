@@ -1,7 +1,6 @@
 ---
 title: "निगाली सागर स्तंभादेश: कनकमुनि का स्तूप"
 slug: ashoka-nigali-sagar-edict
-previewOnly: true
 excerpt: "अशोक बुद्ध कनकमुनि के स्तूप को बड़ा करवाने और बाद में वहाँ जाने का उल्लेख करते हैं।"
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

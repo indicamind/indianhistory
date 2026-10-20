@@ -1,7 +1,6 @@
 ---
 title: "প্রধান স্তম্ভলিপি IV: ন্যায়বিচার ও রাজুকরা"
 slug: ashoka-major-pillar-edict-4
-previewOnly: true
 excerpt: "রাজা স্থানীয় কর্মকর্তাদের ক্ষমতা দিয়ে বিচারে নিরপেক্ষতা ও সংযম আশা করেন।"
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

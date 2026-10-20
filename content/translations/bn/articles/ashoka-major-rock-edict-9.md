@@ -1,7 +1,6 @@
 ---
 title: "প্রধান শিলালিপি IX: আচার ও নৈতিক আচরণ"
 slug: ashoka-major-rock-edict-9
-previewOnly: true
 excerpt: "রাজা প্রচলিত অনুষ্ঠানগুলি নিয়ে প্রশ্ন তুলে নিয়মিত ধম্মচর্চার পরামর্শ দেন।"
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

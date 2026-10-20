@@ -1,7 +1,6 @@
 ---
 title: "Visvakarma Cave inscription: A second Ajivika gift"
 slug: ashoka-visvakarma-cave-inscription
-previewOnly: true
 excerpt: "Ashoka dedicates a cave on the Khalatika mountain to the Ajivikas in his twelfth regnal year."
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

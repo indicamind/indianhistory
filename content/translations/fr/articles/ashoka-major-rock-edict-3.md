@@ -1,7 +1,6 @@
 ---
 title: "Édit majeur sur roche III : des tournées d’instruction tous les cinq ans"
 slug: ashoka-major-rock-edict-3
-previewOnly: true
 excerpt: "Les fonctionnaires doivent voyager tous les cinq ans et enseigner la conduite envers les parents, les autres personnes et les êtres vivants."
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

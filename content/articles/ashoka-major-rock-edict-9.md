@@ -1,7 +1,6 @@
 ---
 title: "Major Rock Edict IX: Rituals and moral practice"
 slug: ashoka-major-rock-edict-9
-previewOnly: true
 excerpt: "The king questions customary ceremonies and recommends the continuing practice of dhamma instead."
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

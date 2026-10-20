@@ -1,7 +1,6 @@
 ---
 title: "Edicto de la reina: las donaciones de Karuvaki"
 slug: ashoka-queens-edict
-previewOnly: true
 excerpt: "Ashoka ordena registrar a nombre de la reina Karuvaki las donaciones realizadas por ella."
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

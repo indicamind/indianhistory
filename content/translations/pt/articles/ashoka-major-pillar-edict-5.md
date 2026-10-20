@@ -1,7 +1,6 @@
 ---
 title: "Édito maior em pilar V: proteção dos animais"
 slug: ashoka-major-pillar-edict-5
-previewOnly: true
 excerpt: "Ashoka nomeia animais protegidos e limita o abate, a marcação a ferro e a pesca em dias específicos."
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

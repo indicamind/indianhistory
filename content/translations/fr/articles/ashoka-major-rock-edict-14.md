@@ -1,7 +1,6 @@
 ---
 title: "Édit majeur sur roche XIV : pourquoi les édits diffèrent"
 slug: ashoka-major-rock-edict-14
-previewOnly: true
 excerpt: "Le roi explique pourquoi la longueur et la formulation des inscriptions varient selon les lieux."
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

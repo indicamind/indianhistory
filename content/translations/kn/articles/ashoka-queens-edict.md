@@ -1,7 +1,6 @@
 ---
 title: "ರಾಣಿಯ ಶಾಸನ: ಕಾರುವಾಕಿಯ ದಾನಗಳು"
 slug: ashoka-queens-edict
-previewOnly: true
 excerpt: "ರಾಣಿ ಕಾರುವಾಕಿಯ ದಾನಗಳನ್ನು ಆಕೆಯ ಹೆಸರಿನಲ್ಲಿ ದಾಖಲಿಸುವಂತೆ ಅಶೋಕನು ಆಜ್ಞಾಪಿಸುತ್ತಾನೆ."
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

@@ -1,7 +1,6 @@
 ---
 title: "प्रमुख स्तंभलेख २: धर्म म्हणजे काय"
 slug: ashoka-major-pillar-edict-2
-previewOnly: true
 excerpt: "पाप कमी करणे, करुणा, दान, सत्य आणि शुद्धता हे धर्माचे गुण असल्याचे राजा सांगतो."
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

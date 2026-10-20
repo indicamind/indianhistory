@@ -1,7 +1,6 @@
 ---
 title: "Schism Edict: Unity of the Saṃgha"
 slug: ashoka-schism-edict
-previewOnly: true
 excerpt: "Ashoka orders officials to act against monks or nuns who divide the Buddhist community."
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

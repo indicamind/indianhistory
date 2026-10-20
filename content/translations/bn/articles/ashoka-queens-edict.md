@@ -1,7 +1,6 @@
 ---
 title: "রানির আদেশ: কারুবাকীর দান"
 slug: ashoka-queens-edict
-previewOnly: true
 excerpt: "অশোক নির্দেশ দেন যাতে রানি কারুবাকীর দান তাঁর নিজের নামে নথিভুক্ত হয়।"
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

@@ -1,7 +1,6 @@
 ---
 title: "第一号大柱敕：正法之治"
 slug: ashoka-major-pillar-edict-1
-previewOnly: true
 excerpt: "阿育王说，道德治理需要努力、自省，并关怀今生和来世。"
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

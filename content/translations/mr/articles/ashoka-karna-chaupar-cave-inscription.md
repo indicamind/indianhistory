@@ -1,7 +1,6 @@
 ---
 title: "कर्ण चौपार गुहालेख: पावसाळ्यातील निवारा"
 slug: ashoka-karna-chaupar-cave-inscription
-previewOnly: true
 excerpt: "राज्याभिषेकाच्या एकोणिसाव्या वर्षी पावसाळ्यात आसऱ्यासाठी ही गुहा दिल्याचे अशोक सांगतो."
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

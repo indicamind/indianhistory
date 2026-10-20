@@ -1,7 +1,6 @@
 ---
 title: "Pul-i Darunta : une inscription en araméen et en prakrit"
 slug: ashoka-pul-i-darunta-inscription
-previewOnly: true
 excerpt: "Un fragment de huit lignes provenant des environs de Laghman associe des expressions en moyen indien à des explications araméennes et renvoie à plusieurs édits d’Ashoka."
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

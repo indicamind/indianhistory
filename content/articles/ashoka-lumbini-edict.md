@@ -1,7 +1,6 @@
 ---
 title: "Lumbini Pillar Edict: The Buddha’s birthplace"
 slug: ashoka-lumbini-edict
-previewOnly: true
 excerpt: "Ashoka records a visit to Lumbini and favorable tax treatment for the village where the Buddha was born."
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

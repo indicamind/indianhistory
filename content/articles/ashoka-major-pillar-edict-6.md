@@ -1,7 +1,6 @@
 ---
 title: "Major Pillar Edict VI: Edicts for public welfare"
 slug: ashoka-major-pillar-edict-6
-previewOnly: true
 excerpt: "The king reviews earlier inscriptions and says instructions on dhamma should be made known to all communities."
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

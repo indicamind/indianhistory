@@ -1,7 +1,6 @@
 ---
 title: "Major Pillar Edict V: Protection of animals"
 slug: ashoka-major-pillar-edict-5
-previewOnly: true
 excerpt: "Ashoka names protected animals and limits slaughter, branding, and fishing on specified days."
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

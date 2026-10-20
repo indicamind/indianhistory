@@ -1,7 +1,6 @@
 ---
 title: "लघु शिलादेश II: दैनिक कर्तव्य"
 slug: ashoka-minor-rock-edict-2
-previewOnly: true
 excerpt: "राजा माता-पिता और बड़ों का आदर, सत्य बोलने तथा जीवों के प्रति दयालु व्यवहार का आग्रह करते हैं।"
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

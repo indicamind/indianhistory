@@ -1,7 +1,6 @@
 ---
 title: "Edicto mayor en pilar V: la protección de los animales"
 slug: ashoka-major-pillar-edict-5
-previewOnly: true
 excerpt: "Ashoka enumera animales protegidos y limita la matanza, el marcado con hierro y la pesca en determinados días."
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

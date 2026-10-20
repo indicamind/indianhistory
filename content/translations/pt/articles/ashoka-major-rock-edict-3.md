@@ -1,7 +1,6 @@
 ---
 title: "Édito maior em rocha III: viagens de instrução a cada cinco anos"
 slug: ashoka-major-rock-edict-3
-previewOnly: true
 excerpt: "Os funcionários recebem ordem de viajar a cada cinco anos e ensinar a conduta para com pais, outras pessoas e seres vivos."
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

@@ -1,7 +1,6 @@
 ---
 title: "Inscription de la grotte de Karna Chaupar : un abri pour la saison des pluies"
 slug: ashoka-karna-chaupar-cave-inscription
-previewOnly: true
 excerpt: "Une inscription endommagée de Barabar enregistre le don d’une grotte durant la dix-neuvième année du règne d’Ashoka."
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

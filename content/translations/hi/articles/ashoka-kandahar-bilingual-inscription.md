@@ -1,7 +1,6 @@
 ---
 title: "कंधार का द्विभाषी अभिलेख: नैतिक आचरण और सत्य"
 slug: ashoka-kandahar-bilingual-inscription
-previewOnly: true
 excerpt: "कंधार की यूनानी और अरामाई घोषणा राजा की नैतिक नीति को संयम, जीवों की रक्षा और माता-पिता के सम्मान से जोड़ती है।"
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

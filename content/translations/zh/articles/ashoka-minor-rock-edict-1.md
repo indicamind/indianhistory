@@ -1,7 +1,6 @@
 ---
 title: "第一号小石敕：阿育王的努力"
 slug: ashoka-minor-rock-edict-1
-previewOnly: true
 excerpt: "阿育王叙述自己作为佛教在家信徒的投入，敦促各阶层的人认真努力。"
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

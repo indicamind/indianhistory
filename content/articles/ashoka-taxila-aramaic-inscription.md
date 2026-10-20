@@ -1,7 +1,6 @@
 ---
 title: "Taxila Aramaic inscription: A damaged mention of Priyadarśin"
 slug: ashoka-taxila-aramaic-inscription
-previewOnly: true
 excerpt: "A broken Aramaic inscription from Taxila mentions Priyadarśin twice, but its missing text leaves its message and royal authorship uncertain."
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

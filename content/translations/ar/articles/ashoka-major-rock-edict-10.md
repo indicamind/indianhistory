@@ -1,7 +1,6 @@
 ---
 title: "المرسوم الصخري الكبير العاشر: الشهرة لا تكفي"
 slug: ashoka-major-rock-edict-10
-previewOnly: true
 excerpt: "يقول أشوكا إن الصيت لا يهم إلا عندما يساعد الناس على اتباع الدهاما."
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

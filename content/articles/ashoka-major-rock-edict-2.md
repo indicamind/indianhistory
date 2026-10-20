@@ -1,7 +1,6 @@
 ---
 title: "Major Rock Edict II: Care for people and animals"
 slug: ashoka-major-rock-edict-2
-previewOnly: true
 excerpt: "The king describes medical treatment, useful plants, wells, and roadside trees for people and animals."
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

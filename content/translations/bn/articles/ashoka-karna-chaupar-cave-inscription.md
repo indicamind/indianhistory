@@ -1,7 +1,6 @@
 ---
 title: "কর্ণ চৌপর গুহার অভিলেখ: বর্ষার আশ্রয়"
 slug: ashoka-karna-chaupar-cave-inscription
-previewOnly: true
 excerpt: "বরাবরের একটি ক্ষতিগ্রস্ত অভিলেখ অশোকের শাসনের উনিশতম বছরে গুহাদানের কথা বলে।"
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

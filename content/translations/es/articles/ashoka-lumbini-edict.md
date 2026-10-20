@@ -1,7 +1,6 @@
 ---
 title: "Edicto del pilar de Lumbini: el lugar de nacimiento del Buda"
 slug: ashoka-lumbini-edict
-previewOnly: true
 excerpt: "Ashoka registra su visita a Lumbini y un trato fiscal favorable para la aldea donde nació el Buda."
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

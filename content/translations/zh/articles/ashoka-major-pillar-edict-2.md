@@ -1,7 +1,6 @@
 ---
 title: "第二号大柱敕：正法的含义"
 slug: ashoka-major-pillar-edict-2
-previewOnly: true
 excerpt: "国王以慈悲、慷慨、诚实、纯净和避免作恶来界定正法。"
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

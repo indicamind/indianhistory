@@ -1,7 +1,6 @@
 ---
 title: "ਕੰਧਾਰ ਦਾ ਦੋਭਾਸ਼ੀ ਅਭਿਲੇਖ: ਧਰਮਨਿਸ਼ਠਾ ਅਤੇ ਸੱਚ"
 slug: ashoka-kandahar-bilingual-inscription
-previewOnly: true
 excerpt: "ਕੰਧਾਰ ਦਾ ਯੂਨਾਨੀ ਅਤੇ ਅਰਾਮੀ ਐਲਾਨ ਰਾਜੇ ਦੀ ਨੈਤਿਕ ਨੀਤੀ ਨੂੰ ਸੰਜਮ, ਜੀਵ-ਰੱਖਿਆ ਅਤੇ ਮਾਪਿਆਂ ਦੇ ਆਦਰ ਨਾਲ ਜੋੜਦਾ ਹੈ।"
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

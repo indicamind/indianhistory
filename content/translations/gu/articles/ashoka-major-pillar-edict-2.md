@@ -1,7 +1,6 @@
 ---
 title: "મુખ્ય સ્તંભલેખ ૨: ધમ્મનો અર્થ"
 slug: ashoka-major-pillar-edict-2
-previewOnly: true
 excerpt: "રાજા કરુણા, ઉદારતા, સત્ય, શુદ્ધિ અને દુષ્કર્મ ટાળવા દ્વારા ધમ્મની વ્યાખ્યા આપે છે."
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

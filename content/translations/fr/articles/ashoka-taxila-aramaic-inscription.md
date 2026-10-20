@@ -1,7 +1,6 @@
 ---
 title: "Inscription araméenne de Taxila : une mention endommagée de Priyadarśin"
 slug: ashoka-taxila-aramaic-inscription
-previewOnly: true
 excerpt: "Une inscription araméenne brisée provenant de Taxila mentionne Priyadarśin à deux reprises, mais ses lacunes laissent son message et son origine royale incertains."
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

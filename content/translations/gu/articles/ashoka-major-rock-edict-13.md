@@ -1,7 +1,6 @@
 ---
 title: "મુખ્ય શિલાલેખ ૧૩: કલિંગના વિજય પછી"
 slug: ashoka-major-rock-edict-13
-previewOnly: true
 excerpt: "અશોક કલિંગના વિજયથી થયેલા દુઃખનું વર્ણન કરે છે અને ધમ્મના વિજયની પ્રશંસા કરે છે."
 publishedAt: 2026-10-16T00:00:00.000Z
 updatedAt: 2026-10-16T00:00:00.000Z

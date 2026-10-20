@@ -9,7 +9,42 @@
     "volumeOne": "المجلد الأول",
     "polyglottaEdition": "طبعة ببليوتيكا بوليغلوتا",
     "universityOfOslo": "جامعة أوسلو",
-    "translationBasisNote": "تستند هذه الترجمة إلى ترجمة إي. هولتزش الإنجليزية لسنة 1925 لنص غيرنار. وتتبع مصطلحاتها تلك الطبعة التاريخية."
+    "translationBasisNote": "تستند هذه الترجمة العربية إلى ترجمة إي. هولتزش الإنجليزية لسنة 1925 للنسخة نفسها. وتتبع المصطلحات والاستكمالات بين المعقوفات تلك الطبعة التاريخية.",
+    "Original scripts": "الخطوط الأصلية",
+    "English translation of the Greek": "الترجمة العربية للنص اليوناني",
+    "English translation of the Aramaic": "الترجمة العربية للنص الآرامي",
+    "Greek": "اليونانية",
+    "Aramaic": "الآرامية",
+    "sourceNote": "نقل النص الماغدهي بالحروف اللاتينية، وترجمة إنجليزية، وصور طبق الأصل للنقوش",
+    "siteNames": {
+      "Bairat": "بايرات",
+      "Lumbini": "لومبيني",
+      "Delhi–Topra": "دلهي–توبرا",
+      "Girnar": "غيرنار",
+      "Kalsi": "كالسي",
+      "Rūpnāth": "روبناث",
+      "Brahmagiri": "براهماغيري",
+      "Nigali Sagar": "نيغالي ساغار",
+      "Allahabad–Kauśāmbī": "الله آباد–كاوشامبي",
+      "Sarnath": "سارناث",
+      "Dhauli": "دهولي"
+    },
+    "siteAltTemplate": "صورة طبق الأصل لنقش بخط البراهمي من {site} في طبعة هولتزش الصادرة سنة 1925",
+    "siteCaptionTemplate": "صورة طبق الأصل لنقش {site}. إي. هولتزش، <em>Inscriptions of Asoka</em> (1925)، ملكية عامة.",
+    "siteTransliterationTemplate": "يتبع النص أدناه نسخة {site} في طبعة هولتزش. وتشير المعقوفات إلى حروف مستكملة أو غير مؤكدة، بينما تدل النقاط على نص تالف أو مفقود. وقد تختلف النسخ الأخرى الباقية.",
+    "imageAltTranslations": {
+      "Brahmi facsimiles of the three Barabar cave inscriptions in Hultzsch’s 1925 edition; Karna Chaupar is third": "صور طبق الأصل للنقوش الثلاثة في كهوف بارابار بخط البراهمي في طبعة هولتزش الصادرة سنة 1925؛ نقش كارنا تشوبار هو الثالث",
+      "Brahmi facsimiles of the three Barabar cave inscriptions in Hultzsch’s 1925 edition; Sudama is first": "صور طبق الأصل للنقوش الثلاثة في كهوف بارابار بخط البراهمي في طبعة هولتزش الصادرة سنة 1925؛ نقش سوداما هو الأول",
+      "Brahmi facsimiles of the three Barabar cave inscriptions in Hultzsch’s 1925 edition; Visvakarma is second": "صور طبق الأصل للنقوش الثلاثة في كهوف بارابار بخط البراهمي في طبعة هولتزش الصادرة سنة 1925؛ نقش فيشفاكارما هو الثاني"
+    },
+    "imageCaptionTranslations": {
+      "Barabar cave inscription facsimiles. E. Hultzsch, <em>Inscriptions of Asoka</em> (1925), public domain.": "صور طبق الأصل لنقوش كهوف بارابار. إي. هولتزش، <em>Inscriptions of Asoka</em> (1925)، ملكية عامة."
+    },
+    "transliterationNotes": {
+      "The text below follows Hultzsch’s edition of the Karna Chaupar inscription. Square brackets mark restored or uncertain letters; dots mark a missing passage.": "يتبع النص أدناه طبعة هولتزش لنقش كارنا تشوبار. وتشير المعقوفات إلى حروف مستكملة أو غير مؤكدة، وتدل النقاط على مقطع مفقود.",
+      "The text below follows Hultzsch’s edition of the Sudama inscription. Square brackets mark restored or uncertain letters.": "يتبع النص أدناه طبعة هولتزش لنقش سوداما. وتشير المعقوفات إلى حروف مستكملة أو غير مؤكدة.",
+      "The text below follows Hultzsch’s edition of the Visvakarma inscription. Square brackets mark restored or uncertain letters.": "يتبع النص أدناه طبعة هولتزش لنقش فيشفاكارما. وتشير المعقوفات إلى حروف مستكملة أو غير مؤكدة."
+    }
   },
   "articles": {
     "ashoka-major-rock-edict-1": {

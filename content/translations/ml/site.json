@@ -360,5 +360,8 @@
   "No results for “{query}”.": "“{query}” എന്നതിനായി ഫലങ്ങളൊന്നും ലഭിച്ചില്ല.",
   "Full article": "മുഴുവൻ ലേഖനം",
   "No articles yet for this event.": "ഈ സംഭവത്തെക്കുറിച്ച് ഇതുവരെ ലേഖനങ്ങളില്ല.",
-  "English preview · Translations in progress": "ഇംഗ്ലീഷ് പ്രിവ്യൂ · വിവർത്തനങ്ങൾ പുരോഗമിക്കുന്നു"
+  "English preview · Translations in progress": "ഇംഗ്ലീഷ് പ്രിവ്യൂ · വിവർത്തനങ്ങൾ പുരോഗമിക്കുന്നു",
+  "Article navigation": "ലേഖനങ്ങൾക്കിടയിലെ സഞ്ചാരം",
+  "Next article": "അടുത്ത ലേഖനം",
+  "Previous article": "മുൻ ലേഖനം"
 }

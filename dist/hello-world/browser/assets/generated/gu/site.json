@@ -360,5 +360,8 @@
   "No results for “{query}”.": "“{query}” માટે કોઈ પરિણામ મળ્યું નથી.",
   "Full article": "સંપૂર્ણ લેખ",
   "No articles yet for this event.": "આ ઘટના વિશે હજી કોઈ લેખ નથી.",
-  "English preview · Translations in progress": "અંગ્રેજી પૂર્વાવલોકન · અનુવાદો ચાલુ છે"
+  "English preview · Translations in progress": "અંગ્રેજી પૂર્વાવલોકન · અનુવાદો ચાલુ છે",
+  "Article navigation": "લેખો વચ્ચે સંચાર",
+  "Next article": "આગળનો લેખ",
+  "Previous article": "પાછળનો લેખ"
 }

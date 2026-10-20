@@ -360,5 +360,8 @@
   "No results for “{query}”.": "“{query}” కోసం ఫలితాలు దొరకలేదు.",
   "Full article": "పూర్తి వ్యాసం",
   "No articles yet for this event.": "ఈ సంఘటనపై ఇంకా వ్యాసాలు లేవు.",
-  "English preview · Translations in progress": "ఆంగ్ల ముందస్తు వీక్షణ · అనువాదాలు కొనసాగుతున్నాయి"
+  "English preview · Translations in progress": "ఆంగ్ల ముందస్తు వీక్షణ · అనువాదాలు కొనసాగుతున్నాయి",
+  "Article navigation": "వ్యాసాల మధ్య నావిగేషన్",
+  "Next article": "తదుపరి వ్యాసం",
+  "Previous article": "మునుపటి వ్యాసం"
 }

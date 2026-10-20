@@ -102,6 +102,22 @@
               </div>
             </section>
           }
+          @if (edictNavigation(); as navigation) {
+            <nav class="article-entries article-entry-list" [attr.aria-label]="locale.translate('Article navigation')">
+              @if (navigation.next; as next) {
+                <a class="article-entry-card edict-navigation-link" [routerLink]="articleRoute(next)" [queryParams]="{lang: locale.language}" queryParamsHandling="merge" rel="next">
+                  <span class="edict-navigation-label">{{ locale.translate('Next article') }} <span aria-hidden="true">→</span></span>
+                  <strong>{{ next.title }}</strong>
+                </a>
+              }
+              @if (navigation.previous; as previous) {
+                <a class="article-entry-card edict-navigation-link" [routerLink]="articleRoute(previous)" [queryParams]="{lang: locale.language}" queryParamsHandling="merge" rel="prev">
+                  <span class="edict-navigation-label"><span aria-hidden="true">←</span> {{ locale.translate('Previous article') }}</span>
+                  <strong>{{ previous.title }}</strong>
+                </a>
+              }
+            </nav>
+          }
           @if (article()!.relatedTo) {
             <p class="article-return"><a [routerLink]="backLink()" [queryParams]="{lang: locale.language}">{{ backText() }}</a></p>
           }

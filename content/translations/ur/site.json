@@ -360,5 +360,8 @@
   "No results for “{query}”.": "“{query}” کے لیے کوئی نتیجہ نہیں ملا۔",
   "Full article": "مکمل مضمون",
   "No articles yet for this event.": "اس واقعے کے بارے میں ابھی کوئی مضمون نہیں ہے۔",
-  "English preview · Translations in progress": "انگریزی پیش نظارہ · تراجم جاری ہیں"
+  "English preview · Translations in progress": "انگریزی پیش نظارہ · تراجم جاری ہیں",
+  "Article navigation": "مضامین کی رہنمائی",
+  "Next article": "اگلا مضمون",
+  "Previous article": "پچھلا مضمون"
 }

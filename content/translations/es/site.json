@@ -360,5 +360,8 @@
   "No results for “{query}”.": "No hay resultados para «{query}».",
   "Full article": "Artículo completo",
   "No articles yet for this event.": "Todavía no hay artículos sobre este acontecimiento.",
-  "English preview · Translations in progress": "Vista previa en inglés · Traducciones en curso"
+  "English preview · Translations in progress": "Vista previa en inglés · Traducciones en curso",
+  "Article navigation": "Navegación entre artículos",
+  "Next article": "Artículo siguiente",
+  "Previous article": "Artículo anterior"
 }

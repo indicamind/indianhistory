@@ -28,6 +28,7 @@ const DYNAMIC_COPY = [
   'No articles yet for this {kind}. More articles are being added.',
   'No results for “{query}”.',
   'English preview · Translations in progress',
+  'Article navigation', 'Next article', 'Previous article',
 ];
 const STRINGS = new Set();
 

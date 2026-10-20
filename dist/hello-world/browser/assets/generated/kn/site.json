@@ -360,5 +360,8 @@
   "No results for “{query}”.": "“{query}”ಗೆ ಯಾವುದೇ ಫಲಿತಾಂಶ ಸಿಗಲಿಲ್ಲ.",
   "Full article": "ಪೂರ್ಣ ಲೇಖನ",
   "No articles yet for this event.": "ಈ ಘಟನೆಯ ಬಗ್ಗೆ ಇನ್ನೂ ಲೇಖನಗಳಿಲ್ಲ.",
-  "English preview · Translations in progress": "ಇಂಗ್ಲಿಷ್ ಮುನ್ನೋಟ · ಅನುವಾದಗಳು ನಡೆಯುತ್ತಿವೆ"
+  "English preview · Translations in progress": "ಇಂಗ್ಲಿಷ್ ಮುನ್ನೋಟ · ಅನುವಾದಗಳು ನಡೆಯುತ್ತಿವೆ",
+  "Article navigation": "ಲೇಖನಗಳ ನಡುವೆ ಸಂಚರಣೆ",
+  "Next article": "ಮುಂದಿನ ಲೇಖನ",
+  "Previous article": "ಹಿಂದಿನ ಲೇಖನ"
 }

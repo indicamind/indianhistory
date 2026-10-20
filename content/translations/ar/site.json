@@ -360,5 +360,8 @@
   "No results for “{query}”.": "لا توجد نتائج عن «{query}».",
   "Full article": "المقال الكامل",
   "No articles yet for this event.": "لا توجد مقالات عن هذا الحدث بعد.",
-  "English preview · Translations in progress": "معاينة بالإنجليزية · الترجمات قيد الإعداد"
+  "English preview · Translations in progress": "معاينة بالإنجليزية · الترجمات قيد الإعداد",
+  "Article navigation": "التنقل بين المقالات",
+  "Next article": "المقال التالي",
+  "Previous article": "المقال السابق"
 }

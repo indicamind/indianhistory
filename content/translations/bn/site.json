@@ -360,5 +360,8 @@
   "No results for “{query}”.": "“{query}”-এর জন্য কোনো ফলাফল পাওয়া যায়নি।",
   "Full article": "সম্পূর্ণ প্রবন্ধ",
   "No articles yet for this event.": "এই ঘটনার জন্য এখনো কোনো প্রবন্ধ নেই।",
-  "English preview · Translations in progress": "ইংরেজি প্রাক্‌দর্শন · অনুবাদ চলছে"
+  "English preview · Translations in progress": "ইংরেজি প্রাক্‌দর্শন · অনুবাদ চলছে",
+  "Article navigation": "নিবন্ধ নেভিগেশন",
+  "Next article": "পরবর্তী নিবন্ধ",
+  "Previous article": "আগের নিবন্ধ"
 }

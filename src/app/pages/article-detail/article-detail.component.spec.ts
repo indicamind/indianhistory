@@ -96,7 +96,10 @@ describe('ArticleDetailComponent', () => {
   it('loads the new edict when an article link changes the slug on the same route', async () => {
     const guide = article('ashoka-edicts', 'Ashoka’s edicts: a guide');
     const edict = article('ashoka-major-rock-edict-1', 'Major Rock Edict I', 'ashoka-edicts');
-    mockArticles.getArticle = async (slug: string) => slug === guide.slug ? guide : edict;
+    const second = article('ashoka-major-rock-edict-2', 'Major Rock Edict II', 'ashoka-edicts');
+    const entries = [guide, edict, second];
+    mockArticles.allArticles = () => entries;
+    mockArticles.getArticle = async (slug: string) => entries.find(entry => entry.slug === slug);
     mockArticles.getBySlug = (slug: string) => slug === guide.slug ? guide : undefined;
     params.next(convertToParamMap({ slug: guide.slug }));
     component.ngOnInit();
@@ -108,5 +111,64 @@ describe('ArticleDetailComponent', () => {
     expect(component.article()?.title).toBe(edict.title);
     expect(component.html()).toBe(edict.html);
     expect(component.backLink()).toBe('/article/ashoka-edicts');
+    expect(component.edictNavigation()?.next?.slug).toBe(second.slug);
+
+    params.next(convertToParamMap({ slug: second.slug }));
+    await new Promise(resolve => setTimeout(resolve, 0));
+    expect(component.article()?.slug).toBe(second.slug);
+    expect(component.edictNavigation()?.previous?.slug).toBe(edict.slug);
+    expect(component.edictNavigation()?.next).toBeUndefined();
+  });
+
+  it('uses the guide order for numerical edicts and transitions between groups', () => {
+    const entry = (slug: string) => article(slug, slug, 'ashoka-edicts');
+    const first = entry('ashoka-major-rock-edict-1');
+    const second = entry('ashoka-major-rock-edict-2');
+    const tenth = entry('ashoka-major-rock-edict-10');
+    const lastRock = entry('ashoka-major-rock-edict-14');
+    const separate = entry('ashoka-separate-rock-edict-1');
+    const pillar = entry('ashoka-major-pillar-edict-1');
+    const guide = article('ashoka-edicts', 'Guide');
+    mockArticles.allArticles = () => [pillar, tenth, guide, separate, second, lastRock, first];
+
+    component.article.set(guide);
+    expect(component.relatedArticles().map(entry => entry.slug)).toEqual([
+      first.slug, second.slug, tenth.slug, lastRock.slug, separate.slug, pillar.slug,
+    ]);
+    component.article.set(second);
+    expect(component.edictNavigation()?.next?.slug).toBe(tenth.slug);
+    expect(component.edictNavigation()?.previous?.slug).toBe(first.slug);
+    component.article.set(lastRock);
+    expect(component.edictNavigation()?.next?.slug).toBe(separate.slug);
+    component.article.set(separate);
+    expect(component.edictNavigation()?.next?.slug).toBe(pillar.slug);
+  });
+
+  it('omits nonexistent neighbors and follows the available associated inscriptions', () => {
+    const entry = (slug: string, title: string) => article(slug, title, 'ashoka-edicts');
+    const first = entry('ashoka-major-rock-edict-1', 'प्रथम शिलालेख');
+    const laghman = entry('ashoka-laghman-i-inscription', 'लगमान');
+    const taxila = entry('ashoka-taxila-aramaic-inscription', 'तक्षशिला');
+    const last = entry('ashoka-pul-i-darunta-inscription', 'पुल-ए-दरुंता');
+    mockArticles.allArticles = () => [last, taxila, first, laghman];
+
+    component.article.set(first);
+    expect(component.edictNavigation()?.previous).toBeUndefined();
+    expect(component.edictNavigation()?.next?.title).toBe(laghman.title);
+    component.article.set(laghman);
+    expect(component.edictNavigation()?.next?.slug).toBe(taxila.slug);
+    component.article.set(last);
+    expect(component.edictNavigation()?.next).toBeUndefined();
+    expect(component.edictNavigation()?.previous?.slug).toBe(taxila.slug);
+  });
+
+  it('does not show edict navigation on the guide or unrelated articles', () => {
+    mockArticles.allArticles = () => [article('ashoka-major-rock-edict-1', 'Edict I', 'ashoka-edicts')];
+    component.article.set(article('ashoka-edicts', 'Guide'));
+    expect(component.edictNavigation()).toBeNull();
+    component.article.set(article('other-article', 'Other', 'other-guide'));
+    expect(component.edictNavigation()).toBeNull();
+    component.article.set(article('missing-edict', 'Missing', 'ashoka-edicts'));
+    expect(component.edictNavigation()).toBeNull();
   });
 });

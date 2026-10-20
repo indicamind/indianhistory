@@ -38,11 +38,8 @@ export class ArticleDetailComponent implements OnInit {
     return article?.period === 'world-history' && !article.relatedTo;
   });
   readonly isEdictIndex = computed(() => this.article()?.slug === 'ashoka-edicts');
-  readonly relatedArticles = computed(() => {
-    const article = this.article();
-    if (!article) return [];
-    const entries = this.articles.allArticles().filter(candidate => candidate.relatedTo === article.slug);
-    if (article.slug !== 'ashoka-edicts') return entries;
+  private readonly edictArticles = computed(() => {
+    const entries = this.articles.allArticles().filter(candidate => candidate.relatedTo === 'ashoka-edicts');
     const order = (slug: string): number => {
       const numbered = slug.match(/^ashoka-(major-rock|separate-rock|major-pillar|minor-rock)-edict-(\d+)$/);
       if (numbered) {
@@ -73,6 +70,20 @@ export class ArticleDetailComponent implements OnInit {
       } as Record<string, number>)[slug] ?? 100;
     };
     return [...entries].sort((a, b) => order(a.slug) - order(b.slug));
+  });
+  readonly relatedArticles = computed(() => {
+    const article = this.article();
+    if (!article) return [];
+    return article.slug === 'ashoka-edicts' ? this.edictArticles() :
+      this.articles.allArticles().filter(candidate => candidate.relatedTo === article.slug);
+  });
+  readonly edictNavigation = computed(() => {
+    const article = this.article();
+    if (article?.relatedTo !== 'ashoka-edicts') return null;
+    const entries = this.edictArticles();
+    const index = entries.findIndex(entry => entry.slug === article.slug);
+    if (index < 0 || entries.length < 2) return null;
+    return { next: entries[index + 1], previous: entries[index - 1] };
   });
   readonly loading = signal(true);
   readonly backLink = signal<string>('/');

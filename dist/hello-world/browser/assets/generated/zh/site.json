@@ -360,5 +360,8 @@
   "No results for “{query}”.": "“{query}”没有搜索结果。",
   "Full article": "全文",
   "No articles yet for this event.": "尚无关于这一事件的文章。",
-  "English preview · Translations in progress": "英文预览 · 翻译进行中"
+  "English preview · Translations in progress": "英文预览 · 翻译进行中",
+  "Article navigation": "文章导航",
+  "Next article": "下一篇文章",
+  "Previous article": "上一篇文章"
 }

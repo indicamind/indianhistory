@@ -360,5 +360,8 @@
   "No results for “{query}”.": "“{query}” என்பதற்கான முடிவுகள் இல்லை.",
   "Full article": "முழுக் கட்டுரை",
   "No articles yet for this event.": "இந்த நிகழ்வைப் பற்றிய கட்டுரைகள் இன்னும் இல்லை.",
-  "English preview · Translations in progress": "ஆங்கில முன்னோட்டம் · மொழிபெயர்ப்புகள் நடைபெறுகின்றன"
+  "English preview · Translations in progress": "ஆங்கில முன்னோட்டம் · மொழிபெயர்ப்புகள் நடைபெறுகின்றன",
+  "Article navigation": "கட்டுரைகளுக்கிடையே செல்லுதல்",
+  "Next article": "அடுத்த கட்டுரை",
+  "Previous article": "முந்தைய கட்டுரை"
 }

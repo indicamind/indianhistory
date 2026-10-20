@@ -360,5 +360,8 @@
   "No results for “{query}”.": "“{query}” साठी निकाल नाहीत.",
   "Full article": "पूर्ण लेख",
   "No articles yet for this event.": "या घटनेविषयी अजून लेख नाहीत.",
-  "English preview · Translations in progress": "इंग्रजी पूर्वावलोकन · भाषांतरे सुरू आहेत"
+  "English preview · Translations in progress": "इंग्रजी पूर्वावलोकन · भाषांतरे सुरू आहेत",
+  "Article navigation": "लेखांमधील संचार",
+  "Next article": "पुढील लेख",
+  "Previous article": "मागील लेख"
 }

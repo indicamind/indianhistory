@@ -14,14 +14,14 @@
       @for (post of posts(); track post.slug) {
         <article class="card blog-card">
           <p class="blog-date">{{ post.publishedAt | date: 'mediumDate' }}@if (post.author) { · {{ post.author }} }</p>
-          <h2><a [routerLink]="['/blogs', post.slug]" [queryParams]="{lang: locale.language}">{{ post.title }}</a></h2>
+          <h2><a [routerLink]="['/blogs', post.slug]" [queryParams]="{lang: locale.language}" queryParamsHandling="merge">{{ post.title }}</a></h2>
           <p class="blog-excerpt">{{ post.excerpt }}</p>
           @if (post.tags.length) {
             <ul class="tags">
               @for (tag of post.tags; track tag) { <li>{{ tag }}</li> }
             </ul>
           }
-          <a class="read-more" [routerLink]="['/blogs', post.slug]" [queryParams]="{lang: locale.language}">Read blog →</a>
+          <a class="read-more" [routerLink]="['/blogs', post.slug]" [queryParams]="{lang: locale.language}" queryParamsHandling="merge">Read blog →</a>
         </article>
       }
     </div>

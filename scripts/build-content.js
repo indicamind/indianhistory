@@ -8,6 +8,7 @@ const { collectSiteStrings } = require('./check-translations');
 const ROOT = path.join(__dirname, '..');
 const CONTENT_DIR = path.join(ROOT, 'content', 'articles');
 const BLOGS_DIR = path.join(ROOT, 'content', 'blogs');
+const BLOG_DRAFTS_DIR = path.join(ROOT, 'content', 'drafts', 'blogs');
 const MEDIA_DIR = path.join(ROOT, 'content', 'media', 'images');
 const OUT_DIR = path.join(ROOT, 'src', 'assets', 'generated');
 const PUBLIC_MEDIA_DIR = path.join(ROOT, 'public', 'assets', 'media', 'images');
@@ -49,8 +50,8 @@ function writeStories(directory, articles) {
   fs.writeFileSync(path.join(directory, 'articles.json'), JSON.stringify(generatedArticles.map(storySummary)));
 }
 
-function writeBlogs(directory, blogs) {
-  fs.writeFileSync(path.join(directory, 'blogs.json'), JSON.stringify(blogs.map(blog => ({
+function writeBlogs(directory, blogs, filename = 'blogs.json') {
+  fs.writeFileSync(path.join(directory, filename), JSON.stringify(blogs.map(blog => ({
     ...blog,
     html: relativeMediaUrls(blog.html),
   })), null, 2));
@@ -215,6 +216,8 @@ function build() {
 
   const blogs = buildBlogs();
   writeBlogs(OUT_DIR, blogs);
+  const drafts = buildBlogs(BLOG_DRAFTS_DIR).map(post => ({ ...post, draft: true }));
+  writeBlogs(OUT_DIR, drafts, 'blog-drafts.json');
 
   writeLocalizedContent(articles, blogs);
 
@@ -222,16 +225,17 @@ function build() {
 
   console.log(`Built ${articles.length} article(s) → src/assets/generated/`);
   console.log(`Built ${blogs.length} blog post(s) → src/assets/generated/`);
+  console.log(`Built ${drafts.length} English blog draft(s) for dev mode`);
 }
 
-function buildBlogs() {
-  fs.mkdirSync(BLOGS_DIR, { recursive: true });
+function buildBlogs(directory = BLOGS_DIR) {
+  fs.mkdirSync(directory, { recursive: true });
 
-  const blogs = fs.readdirSync(BLOGS_DIR)
+  const blogs = fs.readdirSync(directory)
     .filter((name) => name.endsWith('.md'))
     .sort()
     .map((file) => {
-      const { data, content } = matter(fs.readFileSync(path.join(BLOGS_DIR, file), 'utf8'));
+      const { data, content } = matter(fs.readFileSync(path.join(directory, file), 'utf8'));
       const slug = data.slug || path.basename(file, '.md');
       if (!data.title || !data.publishedAt) {
         throw new Error(`Blog post ${file} needs title and publishedAt frontmatter`);

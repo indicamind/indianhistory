@@ -1,8 +1,16 @@
+# Article and blog approval workflow
+
+For new articles and blog posts, and substantive rewrites of existing ones, write the English draft first. Present it to the user and wait for explicit approval before creating or updating translations. Do not treat approval of an earlier version as approval of a rewritten draft.
+
+Keep English drafts awaiting approval under `content/drafts/articles/` or `content/drafts/blogs/`, outside the published content directories. Once the user approves the English text, move it into `content/articles/` or `content/blogs/` and complete all supported translations using the requirements below.
+
+Blog drafts are generated separately by `npm run build-content` and can be reviewed at `/blogs/<slug>?dev=true&lang=en`. A draft with the same slug as a published blog replaces it in English dev mode for review. Published and translated blog assets remain independent of drafts.
+
 # Translation requirement
 
 The site supports English (`en`) and these translation languages: `hi`, `bn`, `ta`, `te`, `mr`, `ur`, `gu`, `kn`, `ml`, `pa`, `es`, `fr`, `ar`, `zh`, `pt`.
 
-When adding or changing reader-facing content, translate the complete text into every supported language in the same change. This includes stories, blog posts, navigation, page labels, period and theme descriptions, alt text, and search copy. Leave book titles and book descriptions in their published language; translate the surrounding book interface. English is the source language. Keep slugs, dates, ISBNs, source links, HTML attributes, and factual qualifiers intact. Translate the language of the text, not the historical claim. Review important dates, names, uncertainty statements, and citations in each translation.
+For articles and blog posts, translate the complete approved English text into every supported language after the approval step above. For other reader-facing content, complete all translations in the same change. This includes navigation, page labels, period and theme descriptions, alt text, and search copy. Leave book titles and book descriptions in their published language; translate the surrounding book interface. English is the source language. Keep slugs, dates, ISBNs, source links, HTML attributes, and factual qualifiers intact. Translate the language of the text, not the historical claim. Review important dates, names, uncertainty statements, and citations in each translation.
 
 For an article or blog post, add a Markdown file under `content/translations/<language>/articles/` or `content/translations/<language>/blogs/` with the same filename as the English source. Translate the `title`, `excerpt`, `tags`, body, and image alt text. Set `sourceHash` to the SHA-256 value of `JSON.stringify({title, excerpt, body: content.trim()})` from the English Markdown frontmatter and body. Keep the English source file's metadata identifiers and links. Put interface and history-data translations in `content/translations/<language>/site.json`, keyed by the exact English string. Run `npm run check-translations` and `npm run build`; inspect the generated localized article, blog, and search assets. A language remains incomplete until these checks pass; do not describe it as fully released while it still shows English fallback.
 

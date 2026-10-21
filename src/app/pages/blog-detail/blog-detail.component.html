@@ -1,4 +1,4 @@
-<p class="back"><a routerLink="/blogs" [queryParams]="{lang: locale.language}">← Back to blogs</a></p>
+<p class="back"><a routerLink="/blogs" [queryParams]="{lang: locale.language}" queryParamsHandling="merge">← Back to blogs</a></p>
 
 @if (loading()) {
   <p class="status">Loading blog…</p>
@@ -6,7 +6,7 @@
   <div class="card empty">
     <h1>Blog post not found</h1>
     <p>This post may have been moved or removed.</p>
-    <a routerLink="/blogs" [queryParams]="{lang: locale.language}" class="btn btn-primary">Browse blogs</a>
+    <a routerLink="/blogs" [queryParams]="{lang: locale.language}" queryParamsHandling="merge" class="btn btn-primary">Browse blogs</a>
   </div>
 } @else {
   <article class="card blog-post">

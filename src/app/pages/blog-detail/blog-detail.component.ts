@@ -3,6 +3,7 @@ import { Component, DestroyRef, inject, OnInit, signal } from '@angular/core';
 import { DomSanitizer, SafeHtml } from '@angular/platform-browser';
 import { ActivatedRoute, RouterLink } from '@angular/router';
 import { takeUntilDestroyed } from '@angular/core/rxjs-interop';
+import { combineLatest } from 'rxjs';
 import { BlogPost } from '../../models/blog.model';
 import { LocaleService } from '../../i18n/locale.service';
 import { BlogService } from '../../services/blog.service';
@@ -26,7 +27,8 @@ export class BlogDetailComponent implements OnInit {
   readonly loading = signal(true);
 
   ngOnInit(): void {
-    this.route.paramMap.pipe(takeUntilDestroyed(this.destroyRef)).subscribe(async params => {
+    combineLatest([this.route.paramMap, this.route.queryParamMap])
+      .pipe(takeUntilDestroyed(this.destroyRef)).subscribe(async ([params]) => {
       const requestId = ++this.requestId;
       this.loading.set(true);
       await this.blogs.whenReady();
@@ -34,7 +36,7 @@ export class BlogDetailComponent implements OnInit {
       const post = this.blogs.getBySlug(params.get('slug') ?? '') ?? null;
       this.post.set(post);
       const html = post?.html.replace(/href="(\/article\/[a-z0-9-]+)"/g,
-        `href="$1?lang=${this.locale.language}"`);
+        `href="$1?lang=${this.locale.language}${post.draft ? '&dev=true' : ''}"`);
       this.html.set(html ? this.sanitizer.bypassSecurityTrustHtml(html) : null);
       this.loading.set(false);
     });

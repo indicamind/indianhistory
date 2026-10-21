@@ -20,6 +20,7 @@ describe('BlogDetailComponent', () => {
 
   beforeEach(() => {
     const mockRoute = {
+      queryParamMap: of({ get: () => null }),
       paramMap: of({
         get: (key: string) => (key === 'slug' ? 'post-1' : null),
       }),

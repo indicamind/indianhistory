@@ -12,6 +12,7 @@ import { LocaleService } from './i18n/locale.service';
 import { DevModeService } from './services/dev-mode.service';
 import { PeriodsService } from './services/periods.service';
 import { BlogService } from './services/blog.service';
+import { contentPath } from './i18n/content-urls';
 
 @Component({
   selector: 'app-root',
@@ -93,7 +94,8 @@ export class AppComponent implements AfterViewInit {
     if (this.lastPlacementUrl === url) return;
     this.lastPlacementUrl = url;
     const version = ++this.placementVersion;
-    const path = url.split('?')[0].split('#')[0];
+    const rawPath = url.split('?')[0].split('#')[0];
+    const path = contentPath(rawPath)?.path ?? rawPath;
     this.isBookLibrary.set(path === '/books');
     let storyRecommendations: string[] = [];
     let articleBook: RecommendedBook | null = null;

@@ -193,6 +193,7 @@ function build() {
       timelineOrder: typeof data.timelineOrder === 'number' ? data.timelineOrder : undefined,
       relatedTo: typeof data.relatedTo === 'string' ? data.relatedTo : undefined,
       previewOnly: data.previewOnly === true,
+      ...(typeof data.shareImage === 'string' ? { shareImage: data.shareImage } : {}),
     };
   });
 
@@ -250,6 +251,7 @@ function buildBlogs(directory = BLOGS_DIR) {
         updatedAt: data.updatedAt || data.publishedAt,
         author: data.author || '',
         tags: Array.isArray(data.tags) ? data.tags : [],
+        ...(typeof data.shareImage === 'string' ? { shareImage: data.shareImage } : {}),
       };
     });
 

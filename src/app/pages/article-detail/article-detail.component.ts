@@ -13,6 +13,7 @@ import { BookRecommendationsService } from '../../services/book-recommendations.
 import { LocaleService } from '../../i18n/locale.service';
 import { DevModeService } from '../../services/dev-mode.service';
 import { articleRoute } from '../../utils/article-route';
+import { localizeContentLinks } from '../../i18n/content-urls';
 
 @Component({
   selector: 'app-article-detail',
@@ -115,7 +116,7 @@ export class ArticleDetailComponent implements OnInit {
     ) ? null : loaded;
     this.article.set(found);
     this.html.set(
-      found ? this.sanitizer.bypassSecurityTrustHtml(found.html) : null
+      found ? this.sanitizer.bypassSecurityTrustHtml(localizeContentLinks(found.html, this.locale.language, false, this.locale.basePath)) : null
     );
 
     // Context-aware back navigation

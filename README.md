@@ -31,10 +31,19 @@ ng generate --help
 To build the project run:
 
 ```bash
-ng build
+npm run build
 ```
 
 This will compile your project and store the build artifacts in the `dist/` directory. By default, the production build optimizes your application for performance and speed.
+
+It also generates page-specific social preview HTML and JPEG images for every
+published article and blog. See [social preview setup](docs/social-previews.md)
+for image overrides, local testing, language limitations, and the required
+Amplify rewrite configuration.
+
+Translated article and blog URLs use language prefixes such as
+`/hi/article/ashoka-edicts` and `/fr/blogs/ashoka-in-stone`, with localized
+sharing metadata. Existing `?lang=` links remain supported by the app.
 
 ## Running unit tests
 

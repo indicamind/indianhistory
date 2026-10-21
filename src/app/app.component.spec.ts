@@ -97,7 +97,7 @@ describe('AppComponent', () => {
     mockArticles.getBySlug = (slug: string) => ({ slug, books });
 
     for (const slug of ['ashoka-edicts', 'ashoka-major-rock-edict-1']) {
-      await (component as any).updateBookPlacement(`/article/${slug}?lang=hi`);
+      await (component as any).updateBookPlacement(`/hi/article/${slug}?fromPeriod=mauryan`);
       expect(books).toContain(component.displayedBook()?.isbn10);
       expect(component.displayedBook()?.affiliateUrl).toContain('tag=indiahistor01-21');
       expect([...component.excludedBookIsbns()].sort()).toEqual([...books].sort());

@@ -79,4 +79,29 @@ describe('LocaleService', () => {
     expect(nested.generatedAssetsBase).toBe('/indianhistory/assets/generated/');
     expect(requestedUrls).toEqual(['/indianhistory/assets/generated/hi/site.json']);
   });
+
+  it('switches content paths between languages while preserving context and fragments', () => {
+    mockDoc.baseURI = 'https://example.com/history/';
+    mockDoc.location.href = 'https://example.com/history/hi/blogs/ashoka-in-stone?dev=true&fromPeriod=mauryan#sources';
+    service.changeLanguage('ar');
+    expect(mockDoc.location.href).toBe('https://example.com/history/ar/blogs/ashoka-in-stone?dev=true&fromPeriod=mauryan#sources');
+    service.changeLanguage('en');
+    expect(mockDoc.location.href).toBe('https://example.com/history/blogs/ashoka-in-stone?dev=true&fromPeriod=mauryan#sources');
+  });
+
+  it('loads the language in a shared URL path and preserves its generated article title', async () => {
+    mockDoc.location.href = 'http://localhost:4201/ar/article/ashoka-edicts?lang=en';
+    mockDoc.title = 'عنوان المقال';
+    const urls: string[] = [];
+    const injector = Injector.create({ providers: [
+      { provide: DOCUMENT, useValue: mockDoc },
+      { provide: HttpClient, useValue: { get: (url: string) => { urls.push(url); return of({ 'India History': 'تاريخ الهند' }); } } },
+    ] });
+    const localized = runInInjectionContext(injector, () => new LocaleService());
+    await localized.load();
+    expect(localized.language).toBe('ar');
+    expect(mockDoc.documentElement.dir).toBe('rtl');
+    expect(mockDoc.title).toBe('عنوان المقال');
+    expect(urls).toEqual(['/assets/generated/ar/site.json']);
+  });
 });

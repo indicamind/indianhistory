@@ -8,4 +8,5 @@ export interface BlogPost {
   author: string;
   tags: string[];
   draft?: boolean;
+  shareImage?: string;
 }

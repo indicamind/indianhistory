@@ -63,7 +63,7 @@ describe('BlogDetailComponent', () => {
 
     expect(component.loading()).toBeFalsy();
     expect(component.post()?.title).toBe('Post 1');
-    expect(String(component.html())).toContain('href="/article/ashoka-major-rock-edict-13?lang=hi"');
+    expect(String(component.html())).toContain('href="/hi/article/ashoka-major-rock-edict-13"');
     expect(String(component.html())).toContain('href="https://example.com/source"');
   });
 });

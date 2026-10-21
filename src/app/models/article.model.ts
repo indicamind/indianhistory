@@ -15,6 +15,7 @@ export interface ArticleSummary {
   timelineOrder?: number; // Explicit order for the world history timeline
   relatedTo?: string; // Parent article slug for related stories
   previewOnly?: boolean; // English preview while localized editions are in progress
+  shareImage?: string;
 }
 
 export interface Article extends ArticleSummary {

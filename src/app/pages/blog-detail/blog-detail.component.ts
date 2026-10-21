@@ -7,6 +7,7 @@ import { combineLatest } from 'rxjs';
 import { BlogPost } from '../../models/blog.model';
 import { LocaleService } from '../../i18n/locale.service';
 import { BlogService } from '../../services/blog.service';
+import { localizeContentLinks } from '../../i18n/content-urls';
 
 @Component({
   selector: 'app-blog-detail',
@@ -35,8 +36,7 @@ export class BlogDetailComponent implements OnInit {
       if (requestId !== this.requestId) return;
       const post = this.blogs.getBySlug(params.get('slug') ?? '') ?? null;
       this.post.set(post);
-      const html = post?.html.replace(/href="(\/article\/[a-z0-9-]+)"/g,
-        `href="$1?lang=${this.locale.language}${post.draft ? '&dev=true' : ''}"`);
+      const html = post ? localizeContentLinks(post.html, this.locale.language, post.draft, this.locale.basePath) : null;
       this.html.set(html ? this.sanitizer.bypassSecurityTrustHtml(html) : null);
       this.loading.set(false);
     });

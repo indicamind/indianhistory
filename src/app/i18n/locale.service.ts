@@ -5,16 +5,18 @@ import { firstValueFrom } from 'rxjs';
 import { LANGUAGES, LanguageCode, languageFromUrl } from './languages';
 import { NAVIGATION } from './navigation';
 import { AVAILABLE_LANGUAGES } from './available-languages.generated';
+import { contentPath, languageAtLocation, localizedContentUrl } from './content-urls';
 
 @Injectable({ providedIn: 'root' })
 export class LocaleService {
   private readonly document = inject(DOCUMENT);
   private readonly http = inject(HttpClient);
   private copy: Record<string, string> = {};
+  readonly basePath = new URL(this.document.baseURI).pathname;
   readonly generatedAssetsBase = new URL('assets/generated/', this.document.baseURI).pathname;
   readonly languages = LANGUAGES.filter(entry => AVAILABLE_LANGUAGES.includes(entry.code));
-  readonly language: LanguageCode = languageFromUrl(
-    new URL(this.document.location.href).searchParams.get('lang')
+  readonly language: LanguageCode = languageAtLocation(
+    new URL(this.document.location.href), this.basePath
   );
   readonly translationAvailable = signal(true);
   readonly navigation = NAVIGATION[this.language];
@@ -41,7 +43,7 @@ export class LocaleService {
     registerLocaleData((await localeData[this.language]()).default);
     try {
       this.copy = await firstValueFrom(this.http.get<Record<string, string>>(`${this.generatedAssetsBase}${this.language}/site.json`));
-      this.document.title = this.translate('India History');
+      if (this.document.title === 'India History') this.document.title = this.translate('India History');
     } catch {
       this.translationAvailable.set(false);
     }
@@ -129,7 +131,15 @@ export class LocaleService {
   changeLanguage(code: string): void {
     const language = languageFromUrl(code);
     const url = new URL(this.document.location.href);
-    url.searchParams.set('lang', language);
+    const base = new URL(this.document.baseURI).pathname;
+    const relative = url.pathname.startsWith(base) ? '/' + url.pathname.slice(base.length) : url.pathname;
+    if (contentPath(relative)) {
+      const localized = new URL(localizedContentUrl(relative + url.search + url.hash, language), url.origin);
+      url.pathname = base.replace(/\/$/, '') + localized.pathname;
+      url.search = localized.search;
+    } else {
+      url.searchParams.set('lang', language);
+    }
     this.document.location.assign(url.href);
   }
 }

@@ -10,7 +10,7 @@ personalities: [ashoka]
 relatedTo: ashoka-edicts
 tags: ["అశోకుడు","శాసనాలు","ప్రధాన శిలాశాసనం"]
 themes: []
-books: []
+books: ["0349122385","935699322X","0143330802"]
 sourceHash: 8fad0ce88ff7036325c0132967309f4a832f5636427113501a9348e4fd3f9637
 ---
 

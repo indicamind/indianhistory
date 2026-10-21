@@ -10,7 +10,7 @@ personalities: [ashoka]
 relatedTo: ashoka-edicts
 tags: ["অশোক","শিলালিপি","ছোট শিলালিপি"]
 themes: []
-books: []
+books: ["0349122385","935699322X","0143330802"]
 sourceHash: d1041cf643e4717e20203286cc78dae5d817b899cb92377eed4d66b14348324e
 ---
 

@@ -6,7 +6,7 @@ import { MustReadComponent } from './components/must-read/must-read.component';
 import { BookSidebarComponent } from './components/book-sidebar/book-sidebar.component';
 import { ArticleService } from './services/article.service';
 import { RecommendedBook } from './models/book.model';
-import { getPageBookRecommendations } from './utils/book-recommendations';
+import { BookRecommendationsService } from './services/book-recommendations.service';
 import { booksForMode } from './data/recommended-books';
 import { LocaleService } from './i18n/locale.service';
 import { DevModeService } from './services/dev-mode.service';
@@ -23,6 +23,7 @@ export class AppComponent implements AfterViewInit {
   private readonly viewportScroller = inject(ViewportScroller);
   private readonly router = inject(Router);
   private readonly articles = inject(ArticleService);
+  private readonly bookRecommendations = inject(BookRecommendationsService);
   private readonly devMode = inject(DevModeService);
   private readonly periods = inject(PeriodsService);
   private readonly blogs = inject(BlogService);
@@ -95,16 +96,19 @@ export class AppComponent implements AfterViewInit {
     const path = url.split('?')[0].split('#')[0];
     this.isBookLibrary.set(path === '/books');
     let storyRecommendations: string[] = [];
+    let articleBook: RecommendedBook | null = null;
     const articleMatch = path.match(/^\/article\/([^/]+)$/)
       ?? path.match(/^\/worldhistory\/(?:[^/]+\/)?([^/]+)$/);
     if (articleMatch) {
       await this.articles.whenReady();
       if (version !== this.placementVersion) return;
       const article = this.articles.getBySlug(decodeURIComponent(articleMatch[1])) ?? null;
-      storyRecommendations = getPageBookRecommendations(article, this.devMode.isDevMode()).below.map(book => book.isbn10);
+      const recommendations = this.bookRecommendations.forArticle(article, this.devMode.isDevMode());
+      storyRecommendations = recommendations.below.map(book => book.isbn10);
+      articleBook = recommendations.related.length ? recommendations.highlighted : null;
     }
 
-    const nextBook = this.pickRandomBook(storyRecommendations);
+    const nextBook = articleBook ?? this.pickRandomBook(storyRecommendations);
     this.highlightedBook.set(nextBook);
     this.storyBookIsbns.set(storyRecommendations);
   }

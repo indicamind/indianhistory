@@ -10,7 +10,7 @@ personalities: [ashoka]
 relatedTo: ashoka-edicts
 tags: ["अशोक","अभिलेख","अरामाई","लघमान"]
 themes: []
-books: []
+books: ["0349122385","935699322X","0143330802"]
 sourceHash: a9a50972b5056d6f96056315c12546585b7cd62b139e70e53855aeff4f17c7ae
 ---
 

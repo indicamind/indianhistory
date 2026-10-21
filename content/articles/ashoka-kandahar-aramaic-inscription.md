@@ -10,7 +10,7 @@ personalities: [ashoka]
 relatedTo: ashoka-edicts
 tags: [Ashoka, inscriptions, Aramaic, Kandahar]
 themes: []
-books: []
+books: ["0349122385","935699322X","0143330802"]
 ---
 
 ## About this inscription

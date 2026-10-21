@@ -10,7 +10,7 @@ personalities: [ashoka]
 relatedTo: ashoka-edicts
 tags: ["Ashoka","éditos","édito maior em pilar"]
 themes: []
-books: []
+books: ["0349122385","935699322X","0143330802"]
 sourceHash: add5b322da0d995a65d1cdf9352963a7f852adbaaf0c5f5039b8dfe057d9f1a9
 ---
 

@@ -10,7 +10,7 @@ personalities: [ashoka]
 relatedTo: ashoka-edicts
 tags: ["阿育王","铭文","阿拉米文","塔克西拉"]
 themes: []
-books: []
+books: ["0349122385","935699322X","0143330802"]
 sourceHash: 57ed5247a324ef0a0c9a14a6eb766cf809928decff61cd4de1e0ae3dd6ab7fdc
 ---
 

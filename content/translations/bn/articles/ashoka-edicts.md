@@ -9,7 +9,7 @@ polity: maurya
 personalities: [ashoka]
 tags: ["অশোক","শিলালিপি","অভিলেখ"]
 themes: []
-books: []
+books: ["0349122385","935699322X","0143330802"]
 sourceHash: 495ce4b08b5582d84faa3fad8135db60c89cbd1db8a1d210512713d79ad89a9d
 ---
 

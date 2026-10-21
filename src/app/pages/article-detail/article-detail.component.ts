@@ -9,7 +9,7 @@ import { WebpFallbackDirective } from '../../directives/webp-fallback.directive'
 import { Article } from '../../models/article.model';
 import { ArticleService } from '../../services/article.service';
 import { PeriodsService } from '../../services/periods.service';
-import { getPageBookRecommendations } from '../../utils/book-recommendations';
+import { BookRecommendationsService } from '../../services/book-recommendations.service';
 import { LocaleService } from '../../i18n/locale.service';
 import { DevModeService } from '../../services/dev-mode.service';
 import { articleRoute } from '../../utils/article-route';
@@ -24,6 +24,7 @@ export class ArticleDetailComponent implements OnInit {
   private readonly route = inject(ActivatedRoute);
   private readonly destroyRef = inject(DestroyRef);
   private readonly articles = inject(ArticleService);
+  private readonly recommendations = inject(BookRecommendationsService);
   private readonly periodsService = inject(PeriodsService);
   private readonly sanitizer = inject(DomSanitizer);
   readonly locale = inject(LocaleService);
@@ -31,7 +32,7 @@ export class ArticleDetailComponent implements OnInit {
   readonly articleRoute = articleRoute;
   readonly article = signal<Article | null>(null);
   readonly html = signal<SafeHtml | null>(null);
-  readonly bookRecommendations = computed(() => getPageBookRecommendations(this.article(), this.devMode.isDevMode()));
+  readonly bookRecommendations = computed(() => this.recommendations.forArticle(this.article(), this.devMode.isDevMode()));
   readonly bottomBooks = computed(() => this.bookRecommendations().below);
   readonly isWorldHistoryOverview = computed(() => {
     const article = this.article();

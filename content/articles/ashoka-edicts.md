@@ -9,7 +9,7 @@ polity: maurya
 personalities: [ashoka]
 tags: [Ashoka, edicts, inscriptions]
 themes: []
-books: []
+books: ["0349122385","935699322X","0143330802"]
 ---
 
 Ashoka’s inscriptions survive in copies at several sites. The article list below gives one page per **distinct edict text**, rather than one page for each stone. The numbered Prakrit articles show an original-script facsimile, the Roman transliteration of a named site version, the complete surviving text translated using Hultzsch’s 1925 edition, and a short explanation. In localized articles, the translation appears in the language of the page. Damaged passages are marked as they appear in the edition. The Greek and Aramaic pages use the separate scholarly editions cited there.

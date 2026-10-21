@@ -10,7 +10,7 @@ personalities: [ashoka]
 relatedTo: ashoka-edicts
 tags: ["Ashoka","inscriptions","grec","araméen"]
 themes: []
-books: []
+books: ["0349122385","935699322X","0143330802"]
 sourceHash: 80e0914cc0268257a5c540daff88e293cc21b355a4a03d18092e72db34f4f6ca
 ---
 

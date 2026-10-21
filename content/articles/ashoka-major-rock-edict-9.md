@@ -10,7 +10,7 @@ personalities: [ashoka]
 relatedTo: ashoka-edicts
 tags: [Ashoka, edicts, "major rock edict"]
 themes: []
-books: []
+books: ["0349122385","935699322X","0143330802"]
 ---
 
 ## About this edict

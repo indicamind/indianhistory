@@ -10,7 +10,7 @@ personalities: [ashoka]
 relatedTo: ashoka-edicts
 tags: ["அசோகர்","கல்வெட்டுகள்","சிறுபாறைக் கல்வெட்டு"]
 themes: []
-books: []
+books: ["0349122385","935699322X","0143330802"]
 sourceHash: d1c1db7570a726315a8d628b0b902f74d87c959dcc20e4c2934c19883bb75a5e
 ---
 

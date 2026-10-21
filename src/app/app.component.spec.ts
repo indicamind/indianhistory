@@ -8,10 +8,12 @@ import { LocaleService } from './i18n/locale.service';
 import { PeriodsService } from './services/periods.service';
 import { BlogService } from './services/blog.service';
 import { recommendedBooks } from './data/recommended-books';
+import { BookRecommendationsService } from './services/book-recommendations.service';
 
 describe('AppComponent', () => {
   let component: AppComponent;
   let isDevMode: ReturnType<typeof signal<boolean>>;
+  let mockArticles: any;
 
   beforeEach(() => {
     isDevMode = signal(false);
@@ -25,7 +27,7 @@ describe('AppComponent', () => {
         subscribe: () => ({ unsubscribe: () => {} }),
       },
     };
-    const mockArticles = {
+    mockArticles = {
       whenReady: async () => {},
       getBySlug: () => null,
       hasWorldHistoryStories: () => false,
@@ -44,6 +46,7 @@ describe('AppComponent', () => {
         { provide: ViewportScroller, useValue: mockViewportScroller },
         { provide: Router, useValue: mockRouter },
         { provide: ArticleService, useValue: mockArticles },
+        BookRecommendationsService,
         { provide: DevModeService, useValue: mockDevMode },
         { provide: LocaleService, useValue: mockLocale },
         { provide: PeriodsService, useValue: {} },
@@ -87,5 +90,17 @@ describe('AppComponent', () => {
     isDevMode.set(false);
     expect(component.displayedBook()?.affiliateUrl).toBeDefined();
     expect(component.excludedBookIsbns()).toContain(component.displayedBook()?.isbn10);
+  });
+
+  it('features an assigned Ashoka book and keeps three distinct placements', async () => {
+    const books = ['0349122385', '935699322X', '0143330802'];
+    mockArticles.getBySlug = (slug: string) => ({ slug, books });
+
+    for (const slug of ['ashoka-edicts', 'ashoka-major-rock-edict-1']) {
+      await (component as any).updateBookPlacement(`/article/${slug}?lang=hi`);
+      expect(books).toContain(component.displayedBook()?.isbn10);
+      expect(component.displayedBook()?.affiliateUrl).toContain('tag=indiahistor01-21');
+      expect([...component.excludedBookIsbns()].sort()).toEqual([...books].sort());
+    }
   });
 });

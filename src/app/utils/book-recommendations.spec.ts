@@ -25,7 +25,7 @@ describe('BookRecommendations Utils - getPageBookRecommendations', () => {
       books: [firstBook.isbn10, secondBook.isbn10],
     };
 
-    const recs = getPageBookRecommendations(article, true);
+    const recs = getPageBookRecommendations(article, true, () => 0.999);
     expect(recs.related.length).toBe(2);
     expect(recs.related[0].isbn10).toBe(firstBook.isbn10);
     expect(recs.related[1].isbn10).toBe(secondBook.isbn10);
@@ -59,5 +59,26 @@ describe('BookRecommendations Utils - getPageBookRecommendations', () => {
     expect(publicPicks.highlighted?.affiliateUrl).toBeDefined();
     expect(publicPicks.below.every(book => !!book.affiliateUrl)).toBeTruthy();
     expect(getPageBookRecommendations(article, true).related[0].isbn10).toBe(pending.isbn10);
+  });
+
+  it('draws three distinct assigned books and allows later catalogue entries to appear', () => {
+    const assigned = recommendedBooks.slice(0, 10);
+    const article = { slug: 'ten-books', books: assigned.map(book => book.isbn10) } as Article;
+    const selected = (random: () => number) => {
+      const draw = getPageBookRecommendations(article, true, random);
+      return [draw.highlighted!, ...draw.below].map(book => book.isbn10);
+    };
+    const firstDraw = selected(() => 0.999);
+    const secondDraw = selected(() => 0);
+    expect(firstDraw.length).toBe(3);
+    expect(new Set(firstDraw).size).toBe(3);
+    expect(secondDraw).not.toEqual(firstDraw);
+    expect(secondDraw.every(isbn => article.books.includes(isbn))).toBeTruthy();
+
+    // Swapping the last entry into the first position makes even the tenth
+    // assigned book eligible for the featured position.
+    let calls = 0;
+    const lastFirst = selected(() => calls++ === 0 ? 0 : 0.999);
+    expect(lastFirst[0]).toBe(assigned[assigned.length - 1].isbn10);
   });
 });

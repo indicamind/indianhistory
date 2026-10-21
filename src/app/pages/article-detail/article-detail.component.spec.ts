@@ -8,6 +8,7 @@ import { ArticleService } from '../../services/article.service';
 import { PeriodsService } from '../../services/periods.service';
 import { LocaleService } from '../../i18n/locale.service';
 import { DevModeService } from '../../services/dev-mode.service';
+import { BookRecommendationsService } from '../../services/book-recommendations.service';
 
 describe('ArticleDetailComponent', () => {
   let component: ArticleDetailComponent;
@@ -57,6 +58,7 @@ describe('ArticleDetailComponent', () => {
         { provide: ActivatedRoute, useValue: mockRoute },
         { provide: DestroyRef, useValue: { onDestroy: () => () => {} } },
         { provide: ArticleService, useValue: mockArticles },
+        BookRecommendationsService,
         { provide: PeriodsService, useValue: mockPeriodsService },
         { provide: DomSanitizer, useValue: mockSanitizer },
         { provide: LocaleService, useValue: mockLocale },

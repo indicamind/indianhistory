@@ -10,7 +10,7 @@ personalities: [ashoka]
 relatedTo: ashoka-edicts
 tags: ["അശോകൻ","ലിഖിതങ്ങൾ","അരമായ","കാണ്ഡഹാർ"]
 themes: []
-books: []
+books: ["0349122385","935699322X","0143330802"]
 sourceHash: ce0372f00539c0fa55d1b2f4d2329f8908c62c2de50cfcb06dc951e69101de45
 ---
 

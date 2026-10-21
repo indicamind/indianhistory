@@ -10,7 +10,7 @@ personalities: [ashoka]
 relatedTo: ashoka-edicts
 tags: ["అశోకుడు","శాసనాలు","బరాబర్ గుహలు"]
 themes: []
-books: []
+books: ["0349122385","935699322X","0143330802"]
 sourceHash: 9675babea78a52bc04404d7f79b2505aa5b663e191a741b3c8e42c7a9b570d10
 ---
 

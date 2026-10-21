@@ -8,13 +8,23 @@ export interface PageBookRecommendations {
   below: RecommendedBook[];
 }
 
-export function getPageBookRecommendations(article: ArticleSummary | null, isDevMode: boolean): PageBookRecommendations {
+export function getPageBookRecommendations(
+  article: ArticleSummary | null,
+  isDevMode: boolean,
+  random: () => number = Math.random,
+): PageBookRecommendations {
   const availableBooks = booksForMode(isDevMode);
+  const assigned = new Set(article?.books ?? []);
   const related = article
-    ? availableBooks.filter(book => new Set(article.books).has(book.isbn10))
+    ? availableBooks.filter(book => assigned.has(book.isbn10))
     : [];
-  const highlighted = related[0] ?? availableBooks[0] ?? null;
-  const source = related.length ? related : availableBooks;
+  const shuffled = [...related];
+  for (let i = shuffled.length - 1; i > 0; i--) {
+    const j = Math.floor(random() * (i + 1));
+    [shuffled[i], shuffled[j]] = [shuffled[j], shuffled[i]];
+  }
+  const highlighted = shuffled[0] ?? availableBooks[0] ?? null;
+  const source = related.length ? shuffled : availableBooks;
   const different = source.filter(book => book.isbn10 !== highlighted?.isbn10);
   const fallback = availableBooks.filter(book =>
     book.isbn10 !== highlighted?.isbn10 && !different.some(item => item.isbn10 === book.isbn10)

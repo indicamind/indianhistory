@@ -10,7 +10,7 @@ personalities: [ashoka]
 relatedTo: ashoka-edicts
 tags: ["ਅਸ਼ੋਕ","ਫ਼ਰਮਾਨ","ਵੱਖਰਾ ਪੱਥਰ ਫ਼ਰਮਾਨ"]
 themes: []
-books: []
+books: ["0349122385","935699322X","0143330802"]
 sourceHash: 074108640470a9f296668e9fc9d0a95fa851f23c70333689cead65fb7b63d70a
 ---
 

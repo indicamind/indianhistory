@@ -4,6 +4,7 @@ import { DomSanitizer, SafeHtml } from '@angular/platform-browser';
 import { ActivatedRoute, RouterLink } from '@angular/router';
 import { takeUntilDestroyed } from '@angular/core/rxjs-interop';
 import { BlogPost } from '../../models/blog.model';
+import { LocaleService } from '../../i18n/locale.service';
 import { BlogService } from '../../services/blog.service';
 
 @Component({
@@ -17,6 +18,7 @@ export class BlogDetailComponent implements OnInit {
   private readonly destroyRef = inject(DestroyRef);
   private readonly blogs = inject(BlogService);
   private readonly sanitizer = inject(DomSanitizer);
+  readonly locale = inject(LocaleService);
   private requestId = 0;
 
   readonly post = signal<BlogPost | null>(null);
@@ -31,7 +33,9 @@ export class BlogDetailComponent implements OnInit {
       if (requestId !== this.requestId) return;
       const post = this.blogs.getBySlug(params.get('slug') ?? '') ?? null;
       this.post.set(post);
-      this.html.set(post ? this.sanitizer.bypassSecurityTrustHtml(post.html) : null);
+      const html = post?.html.replace(/href="(\/article\/[a-z0-9-]+)"/g,
+        `href="$1?lang=${this.locale.language}"`);
+      this.html.set(html ? this.sanitizer.bypassSecurityTrustHtml(html) : null);
       this.loading.set(false);
     });
   }

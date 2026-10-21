@@ -2,6 +2,7 @@ import { Injector, runInInjectionContext } from '@angular/core';
 import { BlogsComponent } from './blogs.component';
 import { BlogService } from '../../services/blog.service';
 import { BlogPost } from '../../models/blog.model';
+import { LocaleService } from '../../i18n/locale.service';
 
 describe('BlogsComponent', () => {
   let component: BlogsComponent;
@@ -25,6 +26,7 @@ describe('BlogsComponent', () => {
     const injector = Injector.create({
       providers: [
         { provide: BlogService, useValue: mockBlogService },
+        { provide: LocaleService, useValue: { language: 'en' } },
       ],
     });
 

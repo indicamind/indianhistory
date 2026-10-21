@@ -5,6 +5,7 @@ import { of } from 'rxjs';
 import { BlogDetailComponent } from './blog-detail.component';
 import { BlogService } from '../../services/blog.service';
 import { BlogPost } from '../../models/blog.model';
+import { LocaleService } from '../../i18n/locale.service';
 
 describe('BlogDetailComponent', () => {
   let component: BlogDetailComponent;
@@ -12,7 +13,7 @@ describe('BlogDetailComponent', () => {
     slug: 'post-1',
     title: 'Post 1',
     excerpt: 'Excerpt',
-    html: '<p>Body</p>',
+    html: '<p><a href="/article/ashoka-major-rock-edict-13">Edict XIII</a> <a href="https://example.com/source">Source</a></p>',
     publishedAt: '2026-01-01',
     tags: [],
   };
@@ -43,6 +44,7 @@ describe('BlogDetailComponent', () => {
         { provide: DestroyRef, useValue: mockDestroyRef },
         { provide: BlogService, useValue: mockBlogs },
         { provide: DomSanitizer, useValue: mockSanitizer },
+        { provide: LocaleService, useValue: { language: 'hi' } },
       ],
     });
 
@@ -60,5 +62,7 @@ describe('BlogDetailComponent', () => {
 
     expect(component.loading()).toBeFalsy();
     expect(component.post()?.title).toBe('Post 1');
+    expect(String(component.html())).toContain('href="/article/ashoka-major-rock-edict-13?lang=hi"');
+    expect(String(component.html())).toContain('href="https://example.com/source"');
   });
 });

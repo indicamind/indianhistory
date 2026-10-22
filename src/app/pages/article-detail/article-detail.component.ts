@@ -4,8 +4,7 @@ import { takeUntilDestroyed } from '@angular/core/rxjs-interop';
 import { DomSanitizer, SafeHtml } from '@angular/platform-browser';
 import { ActivatedRoute, ParamMap, RouterLink } from '@angular/router';
 import { combineLatest } from 'rxjs';
-import { WebpPipe } from '../../pipes/webp.pipe';
-import { WebpFallbackDirective } from '../../directives/webp-fallback.directive';
+import { AssociatedBooksComponent } from '../../components/associated-books/associated-books.component';
 import { Article } from '../../models/article.model';
 import { ArticleService } from '../../services/article.service';
 import { PeriodsService } from '../../services/periods.service';
@@ -17,7 +16,7 @@ import { localizeContentLinks } from '../../i18n/content-urls';
 
 @Component({
   selector: 'app-article-detail',
-  imports: [RouterLink, DatePipe, WebpPipe, WebpFallbackDirective],
+  imports: [RouterLink, DatePipe, AssociatedBooksComponent],
   templateUrl: './article-detail.component.html',
   styleUrl: './article-detail.component.css',
 })

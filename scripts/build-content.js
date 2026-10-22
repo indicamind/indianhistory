@@ -251,6 +251,7 @@ function buildBlogs(directory = BLOGS_DIR) {
         updatedAt: data.updatedAt || data.publishedAt,
         author: data.author || '',
         tags: Array.isArray(data.tags) ? data.tags : [],
+        books: Array.isArray(data.books) ? data.books.map(String) : [],
         ...(typeof data.shareImage === 'string' ? { shareImage: data.shareImage } : {}),
       };
     });

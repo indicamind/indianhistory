@@ -14,6 +14,7 @@ describe('AppComponent', () => {
   let component: AppComponent;
   let isDevMode: ReturnType<typeof signal<boolean>>;
   let mockArticles: any;
+  let mockBlogs: any;
 
   beforeEach(() => {
     isDevMode = signal(false);
@@ -32,6 +33,7 @@ describe('AppComponent', () => {
       getBySlug: () => null,
       hasWorldHistoryStories: () => false,
     };
+    mockBlogs = { allPosts: () => [], whenReady: async () => {}, getBySlug: () => null };
     const mockDevMode = {
       isDevMode,
     };
@@ -50,7 +52,7 @@ describe('AppComponent', () => {
         { provide: DevModeService, useValue: mockDevMode },
         { provide: LocaleService, useValue: mockLocale },
         { provide: PeriodsService, useValue: {} },
-        { provide: BlogService, useValue: { allPosts: () => [] } },
+        { provide: BlogService, useValue: mockBlogs },
       ],
     });
 
@@ -102,5 +104,13 @@ describe('AppComponent', () => {
       expect(component.displayedBook()?.affiliateUrl).toContain('tag=indiahistor01-21');
       expect([...component.excludedBookIsbns()].sort()).toEqual([...books].sort());
     }
+  });
+
+  it('features an associated book on localized blog routes and excludes the other two from general recommendations', async () => {
+    const books = ['0349122385', '935699322X', '0143330802'];
+    mockBlogs.getBySlug = () => ({ slug: 'ashoka-in-stone', books });
+    await (component as any).updateBookPlacement('/hi/blogs/ashoka-in-stone?dev=false');
+    expect(books).toContain(component.displayedBook()?.isbn10);
+    expect([...component.excludedBookIsbns()].sort()).toEqual([...books].sort());
   });
 });

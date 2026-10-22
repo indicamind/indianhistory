@@ -101,6 +101,7 @@ export class AppComponent implements AfterViewInit {
     let articleBook: RecommendedBook | null = null;
     const articleMatch = path.match(/^\/article\/([^/]+)$/)
       ?? path.match(/^\/worldhistory\/(?:[^/]+\/)?([^/]+)$/);
+    const blogMatch = path.match(/^\/blogs\/([^/]+)$/);
     if (articleMatch) {
       await this.articles.whenReady();
       if (version !== this.placementVersion) return;
@@ -108,6 +109,13 @@ export class AppComponent implements AfterViewInit {
       const recommendations = this.bookRecommendations.forArticle(article, this.devMode.isDevMode());
       storyRecommendations = recommendations.below.map(book => book.isbn10);
       articleBook = recommendations.related.length ? recommendations.highlighted : null;
+    } else if (blogMatch) {
+      await this.blogs.whenReady();
+      if (version !== this.placementVersion) return;
+      const blog = this.blogs.getBySlug(decodeURIComponent(blogMatch[1])) ?? null;
+      const recommendations = this.bookRecommendations.forBlog(blog, this.devMode.isDevMode());
+      storyRecommendations = recommendations.below.map(book => book.isbn10);
+      articleBook = recommendations.highlighted;
     }
 
     const nextBook = articleBook ?? this.pickRandomBook(storyRecommendations);

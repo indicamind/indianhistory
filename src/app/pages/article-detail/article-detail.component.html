@@ -38,31 +38,7 @@
       }
 
       @if (article()!.period !== 'world-history' && article()!.books.length && bottomBooks().length) {
-        <section class="article-books" aria-labelledby="article-books-title">
-          <p class="eyebrow">More books</p>
-          <h2 id="article-books-title">Books for further reading</h2>
-          <div class="article-book-list">
-            @for (book of bottomBooks(); track book.isbn10) {
-              <article class="article-book-card" [class.affiliate-pending]="devMode.isDevMode() && !book.affiliateUrl">
-                <a class="article-book-cover" [href]="book.affiliateUrl || book.amazonUrl" target="_blank" [attr.rel]="book.affiliateUrl ? 'sponsored noopener' : 'noopener'" aria-hidden="true" tabindex="-1">
-                  <picture>
-                    <source [srcset]="book.imageUrl | webp" type="image/webp" />
-                    <img appWebpFallback [src]="book.imageUrl" [alt]="locale.bookCoverAlt(book.title, book.imageAlt)" loading="lazy" decoding="async" width="300" height="440" translate="no" />
-                  </picture>
-                </a>
-                <div class="article-book-copy">
-                  @if (devMode.isDevMode() && !book.affiliateUrl) { <p class="affiliate-status">Affiliate link pending · Regular Amazon.in link</p> }
-                  <p class="book-meta">{{ locale.translate(book.format) }}@if (book.publicationDate) { · {{ locale.formatBookDate(book.publicationDate) }} }</p>
-                  <h3 translate="no" class="notranslate">
-                    <a [href]="book.affiliateUrl || book.amazonUrl" target="_blank" [attr.rel]="book.affiliateUrl ? 'sponsored noopener' : 'noopener'">{{ book.title }}</a>
-                  </h3>
-                  <p class="book-author"><span>by</span> <span translate="no" class="notranslate">{{ book.author }}</span></p>
-                  <a class="read-more" [href]="book.affiliateUrl || book.amazonUrl" target="_blank" [attr.rel]="book.affiliateUrl ? 'sponsored noopener' : 'noopener'">View book →</a>
-                </div>
-              </article>
-            }
-          </div>
-        </section>
+        <app-associated-books [books]="bottomBooks()" />
       }
 
       @if (isWorldHistoryOverview()) {

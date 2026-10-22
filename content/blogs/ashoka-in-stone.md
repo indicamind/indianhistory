@@ -7,6 +7,7 @@ excerpt: >-
   king.
 publishedAt: '2026-10-21T00:00:00.000Z'
 updatedAt: '2026-10-21T00:00:00.000Z'
+books: ["0349122385", "935699322X", "0143330802"]
 tags:
   - Ashoka
   - edicts

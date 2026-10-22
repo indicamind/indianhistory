@@ -6,6 +6,8 @@ import { BlogDetailComponent } from './blog-detail.component';
 import { BlogService } from '../../services/blog.service';
 import { BlogPost } from '../../models/blog.model';
 import { LocaleService } from '../../i18n/locale.service';
+import { BookRecommendationsService } from '../../services/book-recommendations.service';
+import { DevModeService } from '../../services/dev-mode.service';
 
 describe('BlogDetailComponent', () => {
   let component: BlogDetailComponent;
@@ -16,6 +18,7 @@ describe('BlogDetailComponent', () => {
     html: '<p><a href="/article/ashoka-major-rock-edict-13">Edict XIII</a> <a href="https://example.com/source">Source</a></p>',
     publishedAt: '2026-01-01',
     tags: [],
+    books: ['0349122385', '935699322X', '0143330802'],
   };
 
   beforeEach(() => {
@@ -46,6 +49,8 @@ describe('BlogDetailComponent', () => {
         { provide: BlogService, useValue: mockBlogs },
         { provide: DomSanitizer, useValue: mockSanitizer },
         { provide: LocaleService, useValue: { language: 'hi' } },
+        BookRecommendationsService,
+        { provide: DevModeService, useValue: { isDevMode: () => false } },
       ],
     });
 
@@ -65,5 +70,7 @@ describe('BlogDetailComponent', () => {
     expect(component.post()?.title).toBe('Post 1');
     expect(String(component.html())).toContain('href="/hi/article/ashoka-major-rock-edict-13"');
     expect(String(component.html())).toContain('href="https://example.com/source"');
+    expect(component.bottomBooks().length).toBe(2);
+    expect(component.bottomBooks().every(book => samplePost.books!.includes(book.isbn10))).toBeTruthy();
   });
 });

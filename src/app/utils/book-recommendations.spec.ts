@@ -1,8 +1,36 @@
-import { getPageBookRecommendations } from './book-recommendations';
+import { getAssignedBookRecommendations, getPageBookRecommendations } from './book-recommendations';
 import { Article } from '../models/article.model';
 import { recommendedBooks } from '../data/recommended-books';
 
 describe('BookRecommendations Utils - getPageBookRecommendations', () => {
+  it('selects three unique associated blog books, with later entries eligible on refresh', () => {
+    const books = recommendedBooks.slice(0, 10).map(book => book.isbn10);
+    const chosen = (random: () => number) => {
+      const draw = getAssignedBookRecommendations({ books }, true, random);
+      return [draw.highlighted!, ...draw.below].map(book => book.isbn10);
+    };
+    const first = chosen(() => 0.999);
+    let calls = 0;
+    const next = chosen(() => calls++ === 0 ? 0 : 0.999);
+    expect(new Set(first).size).toBe(3);
+    expect(next.every(isbn => books.includes(isbn))).toBeTruthy();
+    expect(next[0]).toBe(books[9]);
+    expect(next).not.toEqual(first);
+  });
+
+  it('does not fill sparse blog associations with unrelated books', () => {
+    const book = recommendedBooks.find(candidate => !!candidate.affiliateUrl)!;
+    const pending = recommendedBooks.find(candidate => !candidate.affiliateUrl)!;
+    const one = getAssignedBookRecommendations({ books: [book.isbn10, book.isbn10, pending.isbn10, 'unknown'] }, false);
+    expect(one.highlighted?.isbn10).toBe(book.isbn10);
+    expect(one.below).toEqual([]);
+    expect(one.related.length).toBe(1);
+    expect(getAssignedBookRecommendations({ books: [pending.isbn10] }, false).highlighted).toBeNull();
+    expect(getAssignedBookRecommendations({ books: [pending.isbn10] }, true).highlighted?.isbn10).toBe(pending.isbn10);
+    expect(getAssignedBookRecommendations({}, false).highlighted).toBeNull();
+    expect(getAssignedBookRecommendations(null, false).below).toEqual([]);
+  });
+
   it('should return default recommendations when article is null', () => {
     const recs = getPageBookRecommendations(null, true);
     expect(recs.related.length).toBe(0);

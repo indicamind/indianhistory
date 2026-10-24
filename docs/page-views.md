@@ -4,7 +4,8 @@ The site records article, world-history article, and published blog views with
 the callable `incrementViewCount` function in `indiahistorypageviews`.
 All languages share the slug's `pageViews/{slug}.count` counter. A successful
 call adds 1 using a Firestore atomic increment and updates `updatedAt`.
-These are view counts, including repeat visits, rather than unique visitors.
+The website counts each slug once per browser tab session, rather than counting
+each refresh. These are session-based views, not globally unique visitors.
 
 ## Production configuration
 
@@ -34,8 +35,16 @@ these do not require granting the browser direct database write access.
 
 The SDK loads lazily after an article or published blog has loaded. App Check
 starts before the callable is invoked and refreshes tokens automatically.
-Query-string and fragment-only changes do not count the same loaded story
-again. Navigating to another story and returning counts another view.
+The site stores a marker in `sessionStorage` after a successful increment.
+Refreshing, changing query strings or fragments, switching languages, or
+navigating away and returning to the same slug does not count again in the
+same tab session. Each different slug can count once. New tab sessions or
+clearing session storage allow another view; the two website origins have
+separate storage. An in-memory guard also prevents concurrent duplicate calls.
+Failed requests are not marked as counted and can be retried. If storage is
+blocked, the in-memory guard still works for navigation, but cannot survive a
+full reload. This browser guard is not a server-side deduplication mechanism;
+the callable function still adds 1 for each accepted request.
 The site skips localhost, unsupported hosts/paths, dev mode, missing stories,
 and blog drafts. A counting failure does not block reading or navigation.
 Firebase API and site keys in the client config are public identifiers.

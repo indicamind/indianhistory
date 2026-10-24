@@ -19,7 +19,7 @@ const DYNAMIC_COPY = [
   'Modern India', 'Paperback', 'Prehistory & environment', 'Print edition', 'Regional history',
   'Society & culture', 'World history',
   'Indian history library', 'More to explore', 'Explore the book collection', 'More history books',
-  'Published', 'Updated', 'Show all', 'Show fewer', '{count} articles', '{count} results', '{count} views',
+  'Published', 'Updated', 'Show all', 'Show fewer', '{count} articles', '{count} results', '{count} view', '{count} views',
   'Showing {visible} of {total} books',
   'Showing {visible} of {total} books after the recommendations above',
   '{count} books · {pending} awaiting affiliate links. Red cards use regular Amazon.in links.',

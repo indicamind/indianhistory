@@ -52,7 +52,7 @@ App Check or build credentials. App Check continues to protect increments.
 
 The content generator embeds each slug's `viewCount` in the English and all
 translated article, blog, and summary JSON files. Articles and published blogs
-show the total beside the publication date, with localized labels and number
+show the total in a badge below the title, with localized labels and number
 formatting. A slug without a Firestore document has a total of zero. Blog drafts
 do not display a count. The browser reads these shipped assets and never fetches
 totals from Firestore or the snapshot endpoint. The existing App Check call

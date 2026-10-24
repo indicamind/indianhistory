@@ -13,6 +13,7 @@ import { LocaleService } from '../../i18n/locale.service';
 import { DevModeService } from '../../services/dev-mode.service';
 import { articleRoute } from '../../utils/article-route';
 import { localizeContentLinks } from '../../i18n/content-urls';
+import { PageViewService } from '../../services/page-view.service';
 
 @Component({
   selector: 'app-article-detail',
@@ -24,6 +25,7 @@ export class ArticleDetailComponent implements OnInit {
   private readonly route = inject(ActivatedRoute);
   private readonly destroyRef = inject(DestroyRef);
   private readonly articles = inject(ArticleService);
+  private readonly pageViews = inject(PageViewService);
   private readonly recommendations = inject(BookRecommendationsService);
   private readonly periodsService = inject(PeriodsService);
   private readonly sanitizer = inject(DomSanitizer);
@@ -90,6 +92,7 @@ export class ArticleDetailComponent implements OnInit {
   readonly backLink = signal<string>('/');
   readonly backText = signal<string>(this.locale.translate('← Back to home'));
   private requestId = 0;
+  private lastCountedSlug: string | null = null;
 
   ngOnInit(): void {
     combineLatest([this.route.paramMap, this.route.queryParamMap])
@@ -173,6 +176,8 @@ export class ArticleDetailComponent implements OnInit {
     }
 
     this.loading.set(false);
+    if (found && found.slug !== this.lastCountedSlug) this.pageViews.record(found.slug);
+    this.lastCountedSlug = found?.slug ?? null;
   }
 
 }

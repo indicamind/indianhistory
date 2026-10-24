@@ -9,6 +9,7 @@ import { PeriodsService } from '../../services/periods.service';
 import { LocaleService } from '../../i18n/locale.service';
 import { DevModeService } from '../../services/dev-mode.service';
 import { BookRecommendationsService } from '../../services/book-recommendations.service';
+import { PageViewService } from '../../services/page-view.service';
 
 describe('ArticleDetailComponent', () => {
   let component: ArticleDetailComponent;
@@ -17,6 +18,7 @@ describe('ArticleDetailComponent', () => {
   let mockPeriodsService: any;
   let params: BehaviorSubject<ReturnType<typeof convertToParamMap>>;
   let queryParams: BehaviorSubject<ReturnType<typeof convertToParamMap>>;
+  let recordedSlugs: string[];
 
   const article = (slug: string, title: string, relatedTo?: string): Article => ({
     slug, title, relatedTo, excerpt: '', html: `<p>${title}</p>`,
@@ -25,6 +27,7 @@ describe('ArticleDetailComponent', () => {
   });
 
   beforeEach(() => {
+    recordedSlugs = [];
     params = new BehaviorSubject(convertToParamMap({ slug: 'attirampakkam-acheulean-stone-tools' }));
     queryParams = new BehaviorSubject(convertToParamMap({}));
     mockRoute = {
@@ -58,6 +61,7 @@ describe('ArticleDetailComponent', () => {
         { provide: ActivatedRoute, useValue: mockRoute },
         { provide: DestroyRef, useValue: { onDestroy: () => () => {} } },
         { provide: ArticleService, useValue: mockArticles },
+        { provide: PageViewService, useValue: { record: (slug: string) => recordedSlugs.push(slug) } },
         BookRecommendationsService,
         { provide: PeriodsService, useValue: mockPeriodsService },
         { provide: DomSanitizer, useValue: mockSanitizer },
@@ -72,6 +76,23 @@ describe('ArticleDetailComponent', () => {
   it('should initialize with loading true and default backLink', () => {
     expect(component.loading()).toBeTruthy();
     expect(component.backLink()).toBe('/');
+  });
+
+  it('counts loaded articles once per slug and ignores query-only changes', async () => {
+    mockArticles.getArticle = async (slug: string) => article(slug, slug);
+    component.ngOnInit();
+    await new Promise(resolve => setTimeout(resolve, 0));
+    queryParams.next(convertToParamMap({ fromSearch: 'true' }));
+    await new Promise(resolve => setTimeout(resolve, 0));
+    params.next(convertToParamMap({ slug: 'ashoka-edicts' }));
+    await new Promise(resolve => setTimeout(resolve, 0));
+    expect(recordedSlugs).toEqual(['attirampakkam-acheulean-stone-tools', 'ashoka-edicts']);
+  });
+
+  it('does not count missing articles', async () => {
+    component.ngOnInit();
+    await new Promise(resolve => setTimeout(resolve, 0));
+    expect(recordedSlugs).toEqual([]);
   });
 
   it('should adapt backLink when navigated from search', async () => {

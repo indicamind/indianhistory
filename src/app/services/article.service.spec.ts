@@ -1,13 +1,15 @@
-import { Injector, runInInjectionContext } from '@angular/core';
+import { Injector, runInInjectionContext, signal } from '@angular/core';
 import { HttpClient } from '@angular/common/http';
-import { of } from 'rxjs';
+import { of, throwError } from 'rxjs';
 import { ArticleService } from './article.service';
 import { LocaleService } from '../i18n/locale.service';
 import { Article, SearchEntry } from '../models/article.model';
+import { DevModeService } from './dev-mode.service';
 
 describe('ArticleService', () => {
   let service: ArticleService;
   let requestedUrls: string[];
+  const devMode = { isDevMode: signal(false) };
   const mockArticles: Article[] = [
     {
       slug: 'attirampakkam-acheulean-stone-tools',
@@ -43,12 +45,18 @@ describe('ArticleService', () => {
       text: 'Poompuhar Submerged Port Marine Archaeology',
     },
   ];
+  const drafts = [
+    { ...mockArticles[0], title: 'Rewritten English draft', html: '<p>New draft wording</p>', draft: true },
+    { ...mockArticles[0], slug: 'mewar-draft', title: 'Mewar draft', html: '<p>Kumbha and Vijay Stambha</p>', draft: true },
+  ];
 
   beforeEach(() => {
     requestedUrls = [];
+    devMode.isDevMode.set(false);
     const mockHttp = {
       get: (url: string) => {
         requestedUrls.push(url);
+        if (url.endsWith('article-drafts.json')) return of(drafts);
         if (url.includes('/stories/')) return of(mockArticles.find(article => url.endsWith(`${article.slug}.json`)));
         if (url.includes('articles.json')) return of(mockArticles.map(({ html, ...summary }) => summary));
         if (url.includes('search-index.json')) return of(mockIndex);
@@ -67,6 +75,7 @@ describe('ArticleService', () => {
       providers: [
         { provide: HttpClient, useValue: mockHttp },
         { provide: LocaleService, useValue: mockLocale },
+        { provide: DevModeService, useValue: devMode },
       ],
     });
 
@@ -144,6 +153,7 @@ describe('ArticleService', () => {
       providers: [
         { provide: HttpClient, useValue: http },
         { provide: LocaleService, useValue: locale },
+        { provide: DevModeService, useValue: devMode },
       ],
     });
     const localizedService = runInInjectionContext(injector, () => new ArticleService());
@@ -172,5 +182,63 @@ describe('ArticleService', () => {
       { ...mockArticles[0], slug: 'farming-life', relatedTo: 'agriculture' },
     ]);
     expect(service.hasWorldHistoryStories()).toBeTruthy();
+  });
+
+  it('loads complete English drafts only in dev mode and restores published articles when disabled', async () => {
+    await service.whenReady();
+    expect(service.getBySlug('mewar-draft')).toBeUndefined();
+    devMode.isDevMode.set(true);
+    await service.whenReady();
+    expect(service.allArticles().length).toBe(3);
+    expect(service.getBySlug(mockArticles[0].slug)?.title).toBe('Rewritten English draft');
+    expect((await service.getArticle('mewar-draft'))?.html).toContain('Vijay Stambha');
+    expect((await service.getArticle(mockArticles[0].slug))?.html).toContain('New draft wording');
+    expect(requestedUrls.filter(url => url.endsWith('article-drafts.json')).length).toBe(1);
+
+    devMode.isDevMode.set(false);
+    expect(service.getBySlug('mewar-draft')).toBeUndefined();
+    expect(await service.getArticle('mewar-draft')).toBeUndefined();
+    expect((await service.getArticle(mockArticles[0].slug))?.html).toContain('Excavations');
+    devMode.isDevMode.set(true);
+    await service.whenReady();
+    expect(requestedUrls.filter(url => url.endsWith('article-drafts.json')).length).toBe(1);
+  });
+
+  it('searches draft text only in English dev mode', async () => {
+    devMode.isDevMode.set(true);
+    expect((await service.search('Vijay Stambha')).map(entry => entry.slug)).toEqual(['mewar-draft']);
+    expect((await service.search('New draft wording')).length).toBe(1);
+    expect((await service.search('Paleolithic')).length).toBe(0);
+    devMode.isDevMode.set(false);
+    expect((await service.search('Vijay Stambha')).length).toBe(0);
+    expect((await service.search('Paleolithic')).length).toBe(1);
+  });
+
+  it('does not load unapproved English drafts on translated pages', async () => {
+    const urls: string[] = [];
+    devMode.isDevMode.set(true);
+    const injector = Injector.create({ providers: [
+      { provide: HttpClient, useValue: { get: (url: string) => { urls.push(url); return of(mockArticles); } } },
+      { provide: LocaleService, useValue: { language: 'hi', generatedAssetsBase: '/assets/generated/' } },
+      { provide: DevModeService, useValue: devMode },
+    ] });
+    const localized = runInInjectionContext(injector, () => new ArticleService());
+    await localized.whenReady();
+    expect(urls).toEqual(['/assets/generated/hi/articles.json']);
+    expect(localized.getBySlug('mewar-draft')).toBeUndefined();
+  });
+
+  it('keeps published articles available when the draft asset is missing', async () => {
+    devMode.isDevMode.set(true);
+    const injector = Injector.create({ providers: [
+      { provide: HttpClient, useValue: { get: (url: string) => url.endsWith('article-drafts.json')
+        ? throwError(() => new Error('missing article draft asset')) : of(mockArticles) } },
+      { provide: LocaleService, useValue: { language: 'en', generatedAssetsBase: '/assets/generated/' } },
+      { provide: DevModeService, useValue: devMode },
+    ] });
+    const preview = runInInjectionContext(injector, () => new ArticleService());
+    await preview.whenReady();
+    expect(preview.allArticles().length).toBe(mockArticles.length);
+    expect(preview.getBySlug(mockArticles[0].slug)?.title).toBe(mockArticles[0].title);
   });
 });

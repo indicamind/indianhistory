@@ -118,7 +118,7 @@ export class ArticleDetailComponent implements OnInit {
     ) ? null : loaded;
     this.article.set(found);
     this.html.set(
-      found ? this.sanitizer.bypassSecurityTrustHtml(localizeContentLinks(found.html, this.locale.language, false, this.locale.basePath)) : null
+      found ? this.sanitizer.bypassSecurityTrustHtml(localizeContentLinks(found.html, this.locale.language, !!found.draft, this.locale.basePath)) : null
     );
 
     // Context-aware back navigation
@@ -176,7 +176,7 @@ export class ArticleDetailComponent implements OnInit {
     }
 
     this.loading.set(false);
-    if (found && found.slug !== this.lastCountedSlug) this.pageViews.record(found.slug);
+    if (found && !found.draft && found.slug !== this.lastCountedSlug) this.pageViews.record(found.slug);
     this.lastCountedSlug = found?.slug ?? null;
   }
 

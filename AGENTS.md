@@ -6,6 +6,12 @@ Keep English drafts awaiting approval under `content/drafts/articles/` or `conte
 
 Blog drafts are generated separately by `npm run build-content` and can be reviewed at `/blogs/<slug>?dev=true&lang=en`. A draft with the same slug as a published blog replaces it in English dev mode for review. Published and translated blog assets remain independent of drafts.
 
+# Article and blog links
+
+Keep readers on the website while they read an article or blog post. Do not put external links in the narrative, headings, images, or image captions. Collect external references in a clearly labelled Sources section at the end of the article or post. Use plain numbered citation markers in the narrative when needed to connect claims to those sources. Internal website links may remain in the body.
+
+Keep image attribution visible beside each image as plain text, including the creator and license where applicable. Put the linked original image source, creator attribution, and license in an Image credits subsection of the final Sources section. Preserve required attribution and modification details. Apply this placement rule to English drafts, approved content, and every translation when creating or editing articles and blog posts.
+
 # Translation requirement
 
 The site supports English (`en`) and these translation languages: `hi`, `bn`, `ta`, `te`, `mr`, `ur`, `gu`, `kn`, `ml`, `pa`, `es`, `fr`, `ar`, `zh`, `pt`.

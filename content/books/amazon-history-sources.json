@@ -1,5 +1,42 @@
 [
   {
+    "isbn10": "9353450640",
+    "sourceUrl": "https://www.juggernaut.in/products/maharana-pratap-the-invincible-warrior",
+    "observedAmazonUrl": "https://www.amazon.in/dp/9353450640",
+    "affiliateUrl": "https://link.amazon/B0hhvPM1R",
+    "sourceTitle": "Maharana Pratap: The Invincible Warrior",
+    "sourceAuthors": "Rima Hooja",
+    "sourceEdition": "English; Paperback; 232 pages; ISBN-13: 9789353450649. Publication date not given on the publisher product page and omitted from the catalogue.",
+    "coverSourceUrl": "https://cdn.shopify.com/s/files/1/0904/5780/1006/files/MAHARANAPRATAPCOVER.jpg?v=1736154843&width=600",
+    "checkedOn": "2026-10-24",
+    "verification": "Juggernaut product page and product JSON confirm title, author, ISBN, format and page count. User-supplied affiliate URL redirects through amzlinks.in to Amazon.in product 9353450640 with the indiahistor01-21 tag. Amazon product page returned HTTP 503; stock and price not checked."
+  },
+  {
+    "isbn10": "8184822170",
+    "sourceUrl": "https://shop.amarchitrakatha.com/products/brave-rajputs",
+    "observedAmazonUrl": "https://www.amazon.in/dp/8184822170",
+    "affiliateUrl": "https://link.amazon/B0iuRzOnz",
+    "sourceTitle": "Brave Rajputs",
+    "sourceAuthors": "Amar Chitra Katha",
+    "sourceEdition": "English; Hardbound; 5IN1; ISBN-13: 9788184822175. Publication date and edition-specific page count omitted.",
+    "coverSourceUrl": "https://cdn.shopify.com/s/files/1/0568/0493/3743/files/1_9846f5d8-21a1-4d2f-a664-cb159aad843d.png?v=1769494943&width=500&height=800&crop=center",
+    "coverNote": "Publisher-supplied close cover image requested as a portrait CDN thumbnail; surrounding whitespace is trimmed without cutting off the book.",
+    "checkedOn": "2026-10-24",
+    "verification": "Publisher product page and product JSON confirm title, publisher, format and ISBN. User-supplied affiliate URL redirects through amzlinks.in to Amazon.in product 8184822170 with the indiahistor01-21 tag. Amazon product page returned HTTP 503; stock and price not checked."
+  },
+  {
+    "isbn10": "9364111591",
+    "sourceUrl": "https://www.srishtipublishers.com/product/the-mewar-conspiracy/",
+    "observedAmazonUrl": "https://www.amazon.in/dp/9364111591",
+    "affiliateUrl": "https://link.amazon/B01yy4WBP",
+    "sourceTitle": "The Mewar Conspiracy: An Epic Saga of How the Rajputs Defeated Aurangzeb",
+    "sourceAuthors": "Rrashima Swaarup Verma",
+    "sourceEdition": "Paperback; 6 November 2024; 224 pages; ISBN-13: 9789364111591. Publisher categories: Indian History, Non-Fiction.",
+    "coverSourceUrl": "https://www.srishtipublishers.com/wp-content/uploads/2024/10/The-Mewar-Conspiracy-001-600x912.jpg",
+    "checkedOn": "2026-10-24",
+    "verification": "Publisher confirms author, title, ISBN, format, publication date and page count. User's final affiliate URL redirects through amzlinks.in to Amazon.in product 9364111591 with the indiahistor01-21 tag. Amazon product page returned HTTP 503; stock and price not checked."
+  },
+  {
     "isbn10": "9377305241",
     "sourceUrl": "https://www.penguin.co.in/book/3000-miles-to-freedom/",
     "observedAmazonUrl": "https://amazon.in/dp/9377305241",

@@ -105,6 +105,61 @@
   color: var(--accent);
 }
 
+:host ::ng-deep .article-body .mewar-hero {
+  margin: 0 0 2rem;
+  width: min(100%, 40rem);
+  padding: 0;
+}
+
+:host ::ng-deep .article-body .mewar-hero img {
+  display: block;
+  width: 100%;
+  height: auto;
+  aspect-ratio: 2 / 3;
+  border: 1px solid var(--border);
+  border-radius: 0.65rem;
+}
+
+:host ::ng-deep .article-body .mewar-illustration {
+  margin: 1.5rem 0 2rem;
+  width: min(100%, 40rem);
+  padding: 0;
+}
+
+:host ::ng-deep .article-body .mewar-illustration img {
+  display: block;
+  width: 100%;
+  height: auto;
+  aspect-ratio: auto;
+  border: 1px solid var(--border);
+  border-radius: 0.65rem;
+}
+
+:host ::ng-deep .article-body .mewar-portrait {
+  width: min(100%, 28.75rem);
+  margin-inline: auto;
+}
+
+:host ::ng-deep .article-body .mewar-hero figcaption,
+:host ::ng-deep .article-body .mewar-illustration figcaption {
+  margin-top: 0.75rem;
+  color: var(--muted);
+  font-size: 0.9rem;
+  line-height: 1.6;
+}
+
+:host ::ng-deep .article-body .mewar-hero .figure-credit,
+:host ::ng-deep .article-body .mewar-illustration .figure-credit {
+  display: block;
+  margin-top: 0.35rem;
+  font-size: 0.82rem;
+}
+
+:host ::ng-deep .article-body .mewar-hero a,
+:host ::ng-deep .article-body .mewar-illustration a {
+  color: var(--accent);
+}
+
 .article-body :deep(.inscription-plate) {
   width: min(100%, 55rem);
 }

@@ -393,6 +393,15 @@ export const polities: Polity[] = [
     period: 'classical'
   },
   {
+    slug: 'rajputs',
+    name: 'Rajputs',
+    range: 'Medieval to modern India',
+    shortDescription: 'Rajput-ruled states, including Mewar, and their forts, courts, alliances, and resistance.',
+    description: "Rajputs ruled several distinct kingdoms rather than a single unified state. Explore Mewar's history of fort building, warfare, political accommodation, and integration into modern Rajasthan.",
+    kind: 'regional-kingdom',
+    period: 'medieval'
+  },
+  {
     slug: 'hoysala',
     name: 'Hoysala Kingdom',
     range: 'c. 1026 – 1343 CE',

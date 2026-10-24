@@ -45,6 +45,16 @@ Translated article and blog URLs use language prefixes such as
 `/hi/article/ashoka-edicts` and `/fr/blogs/ashoka-in-stone`, with localized
 sharing metadata. Existing `?lang=` links remain supported by the app.
 
+## Reviewing English article drafts
+
+Keep unapproved articles in `content/drafts/articles/`. Run
+`npm run build-content`, then open `/article/<slug>?dev=true&lang=en` in the
+development server. Drafts can replace a published article of the same slug
+for English dev-mode review. Normal and translated pages continue to use
+published content, and drafts have no generated social-preview routes or
+public search entries. Dev-mode search includes their full text. Draft assets
+are separate JSON files for review; dev mode is not an access-control system.
+
 ## Running unit tests
 
 To execute unit tests with the [Karma](https://karma-runner.github.io) test runner, use the following command:

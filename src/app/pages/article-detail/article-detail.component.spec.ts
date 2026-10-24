@@ -95,6 +95,15 @@ describe('ArticleDetailComponent', () => {
     expect(recordedSlugs).toEqual([]);
   });
 
+  it('shows draft text without recording a view', async () => {
+    mockArticles.getArticle = async (slug: string) => ({ ...article(slug, 'English draft'), draft: true });
+    component.ngOnInit();
+    await new Promise(resolve => setTimeout(resolve, 0));
+    expect(component.article()?.draft).toBeTruthy();
+    expect(String(component.html())).toContain('English draft');
+    expect(recordedSlugs).toEqual([]);
+  });
+
   it('should adapt backLink when navigated from search', async () => {
     queryParams.next(convertToParamMap({ fromSearch: 'true' }));
     component.ngOnInit();

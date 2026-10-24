@@ -1,5 +1,13 @@
 # Slug view counter
 
+`getViewCounts` is a separate read-only HTTPS endpoint for static website
+builds. GET returns `{fetchedAt, counts}` from Firestore, with only public
+slug/count totals. It requires no App Check token, supports no writes, and
+uses `Cache-Control: no-store` so each build retrieves a fresh snapshot.
+Deploy it with `firebase deploy --only functions:getViewCounts`. The production
+website embeds these totals at build time; visitors do not call this endpoint.
+See [build-time counts](../docs/page-views.md#counts-displayed-on-the-website).
+
 `incrementViewCount` is a Firebase callable function. Send `{slug}` to add
 exactly 1 to `pageViews/{slug}.count` in the default Firestore database.
 The first call creates the document. Each write also sets `updatedAt` to a

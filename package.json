@@ -4,11 +4,12 @@
   "scripts": {
     "ng": "ng",
     "build-content": "node scripts/build-content.js",
+    "fetch-view-counts": "node scripts/fetch-view-counts.js",
     "check-translations": "node scripts/check-translations.js",
     "optimize-images": "node scripts/optimize-images.js",
     "prestart": "npm run build-content",
     "start": "ng serve",
-    "build": "npm run optimize-images && npm run build-content && ng build",
+    "build": "npm run fetch-view-counts && npm run optimize-images && npm run build-content && ng build",
     "postbuild": "node scripts/generate-share-pages.js",
     "watch": "ng build --watch --configuration development",
     "test": "node scripts/run-tests.js"

@@ -13,6 +13,9 @@
     <p class="meta">
       {{ post()!.publishedAt | date: 'longDate' }}
       @if (post()!.author) { · {{ post()!.author }} }
+      @if (!post()!.draft && post()!.viewCount !== undefined) {
+        · {{ locale.format('{count} views', {count: post()!.viewCount!}) }}
+      }
     </p>
     <h1>{{ post()!.title }}</h1>
     @if (post()!.tags.length) {

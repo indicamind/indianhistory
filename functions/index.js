@@ -1,10 +1,14 @@
 const {initializeApp} = require("firebase-admin/app");
 const {getFirestore, FieldValue} = require("firebase-admin/firestore");
 const {setGlobalOptions} = require("firebase-functions/v2");
-const {onCall, HttpsError} = require("firebase-functions/v2/https");
+const {onCall, onRequest, HttpsError} = require("firebase-functions/v2/https");
 
 initializeApp();
 setGlobalOptions({maxInstances: 10});
+
+// Public totals for static website builds. This endpoint cannot write data.
+exports.getViewCounts = onRequest(
+    {cors: false, maxInstances: 2}, require("./view-counts"));
 
 // Slugs are shared across languages, so every translation uses one counter.
 exports.incrementViewCount = onCall(

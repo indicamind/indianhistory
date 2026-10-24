@@ -4,6 +4,8 @@ const matter = require('gray-matter');
 const { marked } = require('marked');
 const crypto = require('crypto');
 const { collectSiteStrings } = require('./check-translations');
+const { SNAPSHOT_FILE, validateSnapshot } = require('./fetch-view-counts');
+const viewCounts = validateSnapshot(JSON.parse(fs.readFileSync(SNAPSHOT_FILE, 'utf8'))).counts;
 
 const ROOT = path.join(__dirname, '..');
 const CONTENT_DIR = path.join(ROOT, 'content', 'articles');
@@ -178,6 +180,7 @@ function build() {
 
     return {
       slug,
+      viewCount: viewCounts[slug] ?? 0,
       title: data.title || slug,
       excerpt: data.excerpt || '',
       html,
@@ -244,6 +247,7 @@ function buildBlogs(directory = BLOGS_DIR) {
       const html = marked.parse(content.trim());
       return {
         slug,
+        viewCount: directory === BLOGS_DIR ? (viewCounts[slug] ?? 0) : undefined,
         title: String(data.title),
         excerpt: data.excerpt || stripHtml(html).slice(0, 220),
         html,

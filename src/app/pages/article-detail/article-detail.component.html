@@ -18,6 +18,9 @@
         @if (article()!.updatedAt !== article()!.publishedAt) {
           · {{ locale.translate('Updated') }} {{ article()!.updatedAt | date: 'longDate' }}
         }
+        @if (article()!.viewCount !== undefined) {
+          · {{ locale.format('{count} views', {count: article()!.viewCount!}) }}
+        }
       </p>
       @if (article()!.previewOnly) {
         <p class="eyebrow">{{ locale.translate('English preview · Translations in progress') }}</p>

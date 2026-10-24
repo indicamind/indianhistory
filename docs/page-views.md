@@ -40,6 +40,30 @@ The site skips localhost, unsupported hosts/paths, dev mode, missing stories,
 and blog drafts. A counting failure does not block reading or navigation.
 Firebase API and site keys in the client config are public identifiers.
 
+## Counts displayed on the website
+
+`npm run build` first runs `npm run fetch-view-counts`. This retrieves a fresh
+snapshot from the `getViewCounts` HTTPS function and saves it atomically to
+`content/data/page-views.json`. The endpoint reads only the `count` field from
+the `pageViews` collection and returns slug/count pairs and a read timestamp.
+It accepts GET requests and performs no writes. These totals are public
+because the website displays them; this read-only endpoint does not require
+App Check or build credentials. App Check continues to protect increments.
+
+The content generator embeds each slug's `viewCount` in the English and all
+translated article, blog, and summary JSON files. Articles and published blogs
+show the total beside the publication date, with localized labels and number
+formatting. A slug without a Firestore document has a total of zero. Blog drafts
+do not display a count. The browser reads these shipped assets and never fetches
+totals from Firestore or the snapshot endpoint. The existing App Check call
+still records visits; displayed totals update on the next website build.
+
+A failed fetch, malformed response, or invalid count stops the production
+build without overwriting the previous snapshot. `npm run build-content`,
+`npm start`, and watch mode can use the committed snapshot offline. Both
+Amplify and GitHub Pages already run `npm run build`, so both refresh their
+counts automatically with no service account secrets in the website or CI.
+
 ## Build and deploy
 
 ```sh
@@ -49,6 +73,7 @@ npm run build
 npm --prefix functions run lint
 npm --prefix functions test
 firebase deploy --only functions:incrementViewCount --project indiahistorypageviews
+firebase deploy --only functions:getViewCounts --project indiahistorypageviews
 ```
 
 Publish the frontend through the existing website hosting workflows. The

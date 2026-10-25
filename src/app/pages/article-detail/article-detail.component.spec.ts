@@ -95,6 +95,23 @@ describe('ArticleDetailComponent', () => {
     expect(recordedSlugs).toEqual([]);
   });
 
+  it('renders both sides of the generated book position and clears them on a missing article', async () => {
+    const before = '<p>Opening section.</p>\n';
+    const after = '<h2>Next section</h2><p>Closing section.</p>';
+    mockArticles.getArticle = async (slug: string) => slug === 'missing' ? null : {
+      ...article(slug, 'An article'), html: before + after, bookInsertionOffset: before.length,
+    };
+    component.ngOnInit();
+    await new Promise(resolve => setTimeout(resolve, 0));
+    expect(component.htmlBeforeBooks()).toBe(before);
+    expect(component.htmlAfterBooks()).toBe(after);
+    expect(component.html()).toBe(before + after);
+    params.next(convertToParamMap({ slug: 'missing' }));
+    await new Promise(resolve => setTimeout(resolve, 0));
+    expect(component.htmlBeforeBooks()).toBeNull();
+    expect(component.htmlAfterBooks()).toBeNull();
+  });
+
   it('shows draft text without recording a view', async () => {
     mockArticles.getArticle = async (slug: string) => ({ ...article(slug, 'English draft'), draft: true });
     component.ngOnInit();

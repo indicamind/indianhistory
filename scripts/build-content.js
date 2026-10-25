@@ -5,6 +5,7 @@ const { marked } = require('marked');
 const crypto = require('crypto');
 const { collectSiteStrings } = require('./check-translations');
 const { SNAPSHOT_FILE, validateSnapshot } = require('./fetch-view-counts');
+const { articleBookInsertionOffset } = require('./article-book-placement');
 const viewCounts = validateSnapshot(JSON.parse(fs.readFileSync(SNAPSHOT_FILE, 'utf8'))).counts;
 
 const ROOT = path.join(__dirname, '..');
@@ -32,18 +33,23 @@ function relativeMediaUrls(html) {
 }
 
 function storySummary(article) {
-  const { html, ...summary } = article;
+  const { html, bookInsertionOffset, ...summary } = article;
   const image = html.match(/<img\b[^>]*>/i)?.[0];
   const src = image?.match(/\bsrc="([^"]*)"/i)?.[1];
   const alt = image?.match(/\balt="([^"]*)"/i)?.[1] || '';
   return src ? { ...summary, thumbnail: { src, alt } } : summary;
 }
 
+function articleForOutput(article) {
+  const html = relativeMediaUrls(article.html);
+  return { ...article, html, bookInsertionOffset: articleBookInsertionOffset(html) };
+}
+
 function writeStories(directory, articles) {
   const storiesDirectory = path.join(directory, 'stories');
   fs.rmSync(storiesDirectory, { recursive: true, force: true });
   fs.mkdirSync(storiesDirectory, { recursive: true });
-  const generatedArticles = articles.map(article => ({ ...article, html: relativeMediaUrls(article.html) }));
+  const generatedArticles = articles.map(articleForOutput);
   for (const article of generatedArticles) {
     if (!/^[a-z0-9]+(?:-[a-z0-9]+)*$/.test(article.slug)) {
       throw new Error(`Invalid story slug: ${article.slug}`);
@@ -211,7 +217,7 @@ function build() {
   const articles = buildArticles();
   const articleDrafts = buildArticles(ARTICLE_DRAFTS_DIR);
   fs.writeFileSync(path.join(OUT_DIR, 'article-drafts.json'), JSON.stringify(
-    articleDrafts.map(article => ({ ...article, html: relativeMediaUrls(article.html) })), null, 2
+    articleDrafts.map(articleForOutput), null, 2
   ));
 
   const searchIndex = articles.map((article) => ({

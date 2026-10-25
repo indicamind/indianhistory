@@ -22,6 +22,7 @@ export interface ArticleSummary {
 
 export interface Article extends ArticleSummary {
   html: string;
+  bookInsertionOffset?: number; // safe block boundary calculated during content generation
 }
 
 export interface SearchEntry {

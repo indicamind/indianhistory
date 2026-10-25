@@ -34,6 +34,8 @@ export class ArticleDetailComponent implements OnInit {
   readonly articleRoute = articleRoute;
   readonly article = signal<Article | null>(null);
   readonly html = signal<SafeHtml | null>(null);
+  readonly htmlBeforeBooks = signal<SafeHtml | null>(null);
+  readonly htmlAfterBooks = signal<SafeHtml | null>(null);
   readonly bookRecommendations = computed(() => this.recommendations.forArticle(this.article(), this.devMode.isDevMode()));
   readonly bottomBooks = computed(() => this.bookRecommendations().below);
   readonly isWorldHistoryOverview = computed(() => {
@@ -120,6 +122,13 @@ export class ArticleDetailComponent implements OnInit {
     this.html.set(
       found ? this.sanitizer.bypassSecurityTrustHtml(localizeContentLinks(found.html, this.locale.language, !!found.draft, this.locale.basePath)) : null
     );
+    const offset = found?.bookInsertionOffset ?? found?.html.length ?? 0;
+    this.htmlBeforeBooks.set(found ? this.sanitizer.bypassSecurityTrustHtml(
+      localizeContentLinks(found.html.slice(0, offset), this.locale.language, !!found.draft, this.locale.basePath)
+    ) : null);
+    this.htmlAfterBooks.set(found ? this.sanitizer.bypassSecurityTrustHtml(
+      localizeContentLinks(found.html.slice(offset), this.locale.language, !!found.draft, this.locale.basePath)
+    ) : null);
 
     // Context-aware back navigation
     const fromPeriodSlug = queryParams.get('fromPeriod');

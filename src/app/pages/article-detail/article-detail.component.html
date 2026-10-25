@@ -50,10 +50,6 @@
         <p class="article-intro">{{ article()!.excerpt }}</p>
       }
 
-      @if (article()!.period !== 'world-history' && article()!.books.length && bottomBooks().length) {
-        <app-associated-books [books]="bottomBooks()" />
-      }
-
       @if (isWorldHistoryOverview()) {
         <section class="article-entries" aria-labelledby="article-entries-title">
           <h2 id="article-entries-title">{{ locale.translate('Articles') }}</h2>
@@ -76,7 +72,15 @@
           @if (article()!.relatedTo) {
             <p class="eyebrow">{{ locale.translate('Full article') }}</p>
           }
-          <div class="article-body" [innerHTML]="html()"></div>
+          @if (article()!.books.length && bottomBooks().length) {
+            <div class="article-body">
+              <div class="article-body-part" [innerHTML]="htmlBeforeBooks()"></div>
+              <app-associated-books class="mid-article-books" [books]="bottomBooks()" />
+              <div class="article-body-part" [innerHTML]="htmlAfterBooks()"></div>
+            </div>
+          } @else {
+            <div class="article-body" [innerHTML]="html()"></div>
+          }
           @if (isEdictIndex()) {
             <section class="article-entries" aria-labelledby="edict-entries-title">
               <h2 id="edict-entries-title">{{ locale.translate('Articles') }}</h2>

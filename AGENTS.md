@@ -12,6 +12,10 @@ Keep readers on the website while they read an article or blog post. Do not put 
 
 Keep image attribution visible beside each image as plain text, including the creator and license where applicable. Put the linked original image source, creator attribution, and license in an Image credits subsection of the final Sources section. Preserve required attribution and modification details. Apply this placement rule to English drafts, approved content, and every translation when creating or editing articles and blog posts.
 
+# Article recommendations
+
+Place the shared “More books” recommendations within the article body near its midpoint, between complete content blocks. This applies to existing and future articles in every language. Keep the placement in the shared renderer and content build; do not hardcode book cards or placement markers into article Markdown. Keep figures, tables, and lists whole, and keep headings attached to their following content.
+
 # Translation requirement
 
 The site supports English (`en`) and these translation languages: `hi`, `bn`, `ta`, `te`, `mr`, `ur`, `gu`, `kn`, `ml`, `pa`, `es`, `fr`, `ar`, `zh`, `pt`.

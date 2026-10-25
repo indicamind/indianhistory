@@ -2,6 +2,10 @@
   display: block;
 }
 
+:host(.mid-article-books) {
+  margin-bottom: 2rem;
+}
+
 .article-books {
   margin-top: 2rem;
   padding-top: 1.25rem;

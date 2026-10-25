@@ -84,7 +84,7 @@ describe('PeriodDetailComponent', () => {
       period: 'medieval',
       kind: 'regional-kingdom',
     });
-    expect(component.kindLabel()).toBe('regional kingdom');
+    expect(component.kindLabel()).toBe('kingdom');
 
     // Theme
     component.isPolity.set(false);

@@ -120,6 +120,32 @@ describe('HomeComponent', () => {
     expect(component.shownThemes().length).toBe(3);
   });
 
+  it('searches beyond the collapsed list and restores it when cleared', () => {
+    component.personalities.set(personalities.map(person => ({ ...person, articleCount: 1 })));
+    expect(component.shownPersonalities().length).toBe(3);
+    component.personalityQuery.set('  PRATAP   1576  ');
+    expect(component.shownPersonalities().map(person => person.slug)).toEqual(['maharana-pratap']);
+    component.personalityQuery.set('Mewar');
+    expect(component.shownPersonalities().length).toBeGreaterThan(3);
+    component.personalityQuery.set('not-a-personality');
+    expect(component.shownPersonalities().length).toBe(0);
+    component.personalityQuery.set('');
+    expect(component.shownPersonalities().length).toBe(3);
+  });
+
+  it('searches localized copy and English names while respecting public visibility', () => {
+    const pratap = personalities.find(person => person.slug === 'maharana-pratap')!;
+    component.personalities.set([{ ...pratap, name: 'महाराणा प्रताप', shortDescription: 'मेवाड़ का प्रतिरोध', description: '', articleCount: 1 }]);
+    component.personalityQuery.set('प्रताप');
+    expect(component.shownPersonalities().length).toBe(1);
+    component.personalityQuery.set('Pratap');
+    expect(component.shownPersonalities().length).toBe(1);
+    component.personalities.set([{ ...pratap, articleCount: 0 }]);
+    expect(component.shownPersonalities().length).toBe(0);
+    devMode.set(true);
+    expect(component.shownPersonalities().length).toBe(1);
+  });
+
   it('should use the generated thumbnail metadata', () => {
     const articleWithImage: ArticleSummary = {
       slug: 'stone-tools',

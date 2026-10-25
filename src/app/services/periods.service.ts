@@ -314,7 +314,7 @@ export class PeriodsService {
           excerpt: pol.shortDescription || (pol.description ? pol.description.slice(0, 160) : ''),
           routerLink: ['/polity', pol.slug],
           queryParams: { fromSearch: true },
-          kindLabel: this.locale.translate(isEmpire ? 'Empire' : 'Regional Kingdom'),
+          kindLabel: this.locale.translate(isEmpire ? 'Empire' : 'Kingdom'),
         });
       }
     }

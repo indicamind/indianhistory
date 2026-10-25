@@ -54,7 +54,7 @@ export class PeriodDetailComponent implements OnInit {
 
   kindLabel(): string {
     const source = this.isPolity()
-      ? (this.polity()?.kind === 'empire' ? 'Empire' : 'Regional Kingdom')
+      ? (this.polity()?.kind === 'empire' ? 'Empire' : 'Kingdom')
       : this.isTheme() ? 'Theme' : this.isPersonality() ? 'Personality' : 'Period';
     const label = this.locale.translate(source);
     return this.locale.language === 'en' ? label.toLowerCase() : label;
@@ -125,7 +125,7 @@ export class PeriodDetailComponent implements OnInit {
         this.childCounts.set({});
 
         // Context-aware up-navigation: back to the correct section on the home page
-        // (not a broad period view, and not always the old combined "Empires & Regional Kingdoms").
+        // (not a broad period view, and not always the old combined "Empires & Kingdoms").
         if (pol.kind === 'empire') {
           this.backRoute.set(['/']);
           this.backFragment.set('empires');
@@ -133,7 +133,7 @@ export class PeriodDetailComponent implements OnInit {
         } else {
           this.backRoute.set(['/']);
           this.backFragment.set('regional-kingdoms');
-          this.backText.set(this.locale.translate('← Back to Regional Kingdoms'));
+          this.backText.set(this.locale.translate('← Back to Kingdoms'));
         }
       } else {
         // Try as a cross-period theme

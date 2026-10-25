@@ -253,6 +253,62 @@ export const personalities: Personality[] = [
     description: 'Ashoka ruled much of the Indian subcontinent after the Mauryan expansion. Following the Kalinga War, he promoted dhamma, welfare, religious tolerance, and Buddhist missions through inscriptions, monuments, and imperial patronage.'
   },
   {
+    slug: 'rana-kumbha',
+    name: 'Rana Kumbha',
+    range: 'r. 1433 – 1468 CE',
+    shortDescription: 'Ruler of Mewar, victor against Malwa, and patron of Vijay Stambha and Kumbhalgarh.',
+    description: 'Rana Kumbha strengthened Mewar through warfare, fort building, religious patronage, and scholarship during the fifteenth century.'
+  },
+  {
+    slug: 'rana-sanga',
+    name: 'Rana Sanga',
+    range: 'Early 16th century CE',
+    shortDescription: 'Ruler of Mewar who challenged Delhi, Malwa, and the emerging Mughal power.',
+    description: 'Rana Sanga led a coalition against Babur at Khanwa in 1527. His defeat checked Mewar\'s wider ambitions, but the kingdom survived.'
+  },
+  {
+    slug: 'udai-singh-ii',
+    name: 'Udai Singh II',
+    range: '16th century CE',
+    shortDescription: 'Ruler of Mewar who founded Udaipur before Akbar captured Chittor.',
+    description: 'Udai Singh II founded Udaipur in 1559. He withdrew into the hills during Akbar\'s siege of Chittor, preserving the ruling house.'
+  },
+  {
+    slug: 'maharana-pratap',
+    name: 'Maharana Pratap',
+    range: 'r. 1572 – 1597 CE',
+    shortDescription: 'Ruler of Mewar remembered for Haldighati and sustained resistance to Akbar.',
+    description: 'Maharana Pratap continued resistance after Haldighati in 1576 and recovered substantial territory. Chittor and Mandalgarh remained outside his recovery.'
+  },
+  {
+    slug: 'jaimal',
+    name: 'Jaimal',
+    range: '16th century CE',
+    shortDescription: 'Commander remembered for defending Chittor during Akbar\'s siege.',
+    description: 'Jaimal helped lead Chittor\'s defence during the Mughal siege of 1567–1568. His stand became central to Mewar\'s memory of valour.'
+  },
+  {
+    slug: 'patta',
+    name: 'Patta',
+    range: '16th century CE',
+    shortDescription: 'Defender of Chittor remembered alongside Jaimal for the fort\'s last stand.',
+    description: 'Patta was among the commanders who defended Chittor against Akbar. The fort fell in February 1568 after prolonged resistance.'
+  },
+  {
+    slug: 'amar-singh-i',
+    name: 'Amar Singh I',
+    range: 'Early 17th century CE',
+    shortDescription: 'Pratap\'s successor, whose settlement with the Mughals preserved Mewar\'s hereditary rule.',
+    description: 'Amar Singh I accepted Mughal supremacy in 1615 after prolonged warfare. The settlement preserved Mewar\'s ruling house while limiting its independence.'
+  },
+  {
+    slug: 'raj-singh-i',
+    name: 'Raj Singh I',
+    range: 'r. 1652 – 1680 CE',
+    shortDescription: 'Ruler of Mewar during renewed conflict with Aurangzeb.',
+    description: 'Raj Singh I ruled Mewar during changing relations with the Mughal court. His reign saw renewed war with Aurangzeb and the invasion of 1680.'
+  },
+  {
     slug: 'akbar',
     name: 'Akbar',
     range: 'r. 1556 – 1605 CE',

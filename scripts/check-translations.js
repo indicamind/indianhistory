@@ -11,8 +11,8 @@ const LANGUAGES = ['hi', 'bn', 'ta', 'te', 'mr', 'ur', 'gu', 'kn', 'ml', 'pa', '
 const SOURCE_FILES = ['src/app/data/periods.ts'];
 const VISIBLE_FIELDS = new Set(['name', 'range', 'shortDescription', 'description', 'date', 'title', 'summary']);
 const DYNAMIC_COPY = [
-  'All', 'Articles', 'Periods', 'Article', 'Period', 'Empire', 'Regional Kingdom', 'Theme', 'Personality', 'Book',
-  '← Back to', '← Back to home', '← Back to Empires', '← Back to Regional Kingdoms', '← Back to Themes',
+  'All', 'Articles', 'Periods', 'Article', 'Period', 'Empire', 'Kingdom', 'Theme', 'Personality', 'Book',
+  '← Back to', '← Back to home', '← Back to Empires', '← Back to Kingdoms', '← Back to Themes',
   '← Back to Personalities', '← Back to search', 'Book by', 'by', 'pages', 'article', 'articles',
   'books', 'result(s)', 'Ancient & medieval', 'Biographies', 'Colonial & freedom struggle', 'Economic history',
   'General history', 'Hardback', 'Hardcover', 'Kindle', 'Mass Market Paperback', 'Military history',

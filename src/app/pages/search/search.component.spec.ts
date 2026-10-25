@@ -110,7 +110,7 @@ describe('SearchComponent', () => {
       excerpt: '',
       kind: 'polity',
       routerLink: ['/polity', 'kakatiya'],
-      kindLabel: 'Regional Kingdom',
+      kindLabel: 'Kingdom',
     };
 
     component.activeFilter.set('all');

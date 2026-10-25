@@ -131,9 +131,9 @@
 
 @if (visibleRegionalKingdoms().length) {
 <section id="regional-kingdoms" class="polities-section">
-  <h2 id="regional-kingdoms-heading">Regional Kingdoms</h2>
+  <h2 id="regional-kingdoms-heading">Kingdoms</h2>
   <p class="polities-intro">
-    Deep-dive into important regional kingdoms, sultanates, and powers that shaped specific regions and eras. These polities left lasting legacies in art, architecture, governance, and local cultures. An article can belong to both a broad period above <em>and</em> a specific regional kingdom here.
+    Deep-dive into important kingdoms, sultanates, and powers that shaped specific regions and eras. These polities left lasting legacies in art, architecture, governance, and local cultures. An article can belong to both a broad period above <em>and</em> a specific kingdom here.
   </p>
 
   <div id="regional-kingdoms-list" class="polity-grid">
@@ -166,6 +166,23 @@
     Deep-dive into influential historical figures, their eras, actions, ideas, and legacies. Articles can connect to multiple personalities.
   </p>
 
+  <div class="personality-search">
+    <div class="personality-search-row">
+      <input #personalitySearch id="personality-search" type="search" autocomplete="off"
+        [value]="personalityQuery()" (input)="personalityQuery.set(personalitySearch.value)"
+        (keydown.escape)="personalityQuery.set('')"
+        [placeholder]="locale.translate('Search personalities by name, era, or keyword')"
+        [attr.aria-label]="locale.translate('Search personalities')" aria-controls="personalities-list" />
+      @if (personalityQuery()) {
+        <button type="button" class="btn btn-secondary" (click)="personalityQuery.set(''); personalitySearch.focus()">{{ locale.translate('Clear search') }}</button>
+      }
+    </div>
+  </div>
+  @if (personalityQuery().trim()) {
+    <p class="status" role="status">
+      {{ shownPersonalities().length ? locale.format('{count} results', { count: shownPersonalities().length }) : locale.format('No results for “{query}”.', { query: personalityQuery().trim() }) }}
+    </p>
+  }
   <div id="personalities-list" class="personality-list">
     @for (personality of shownPersonalities(); track personality.slug) {
       <a class="personality-item" [routerLink]="['/personality', personality.slug]">
@@ -178,7 +195,7 @@
       </a>
     }
   </div>
-  @if (visiblePersonalities().length > initialSectionItems) {
+  @if (!personalityQuery().trim() && visiblePersonalities().length > initialSectionItems) {
     <button type="button" class="btn btn-secondary section-toggle" aria-controls="personalities-list" [attr.aria-expanded]="expandedPersonalities()" aria-labelledby="personalities-toggle-label personalities-heading" (click)="expandedPersonalities.set(!expandedPersonalities())">
       <span id="personalities-toggle-label">{{ locale.translate(expandedPersonalities() ? 'Show fewer' : 'Show all') }}</span>
     </button>

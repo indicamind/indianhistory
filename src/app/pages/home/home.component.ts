@@ -4,7 +4,7 @@ import { ActivatedRoute, RouterLink } from '@angular/router';
 import { ArticleSummary } from '../../models/article.model';
 import { ArticleService } from '../../services/article.service';
 import { PeriodsService } from '../../services/periods.service';
-import { Period, Personality, Polity, PolityKind, Theme } from '../../data/periods';
+import { Period, Personality, Polity, PolityKind, Theme, personalities as personalityDefinitions } from '../../data/periods';
 import { WorldHistoryComponent } from '../../components/world-history/world-history.component';
 import { LocaleService } from '../../i18n/locale.service';
 import { DevModeService } from '../../services/dev-mode.service';
@@ -45,6 +45,7 @@ interface StoryThumbnail {
 
 let featuredArticleSlug: string | null = null;
 const INITIAL_SECTION_ITEMS = 3;
+const PERSONALITY_DEFINITIONS = new Map(personalityDefinitions.map(person => [person.slug, person]));
 
 @Component({
   selector: 'app-home',
@@ -78,10 +79,23 @@ export class HomeComponent implements OnInit {
   readonly expandedEmpires = signal(false);
   readonly expandedRegionalKingdoms = signal(false);
   readonly expandedPersonalities = signal(false);
+  readonly personalityQuery = signal('');
+  readonly filteredPersonalities = computed(() => {
+    const terms = this.personalityQuery().trim().normalize('NFKC').toLocaleLowerCase(this.locale.language).split(/\s+/).filter(Boolean);
+    if (!terms.length) return this.visiblePersonalities();
+    return this.visiblePersonalities().filter(person => {
+      const original = PERSONALITY_DEFINITIONS.get(person.slug);
+      const text = [person.name, person.range, person.shortDescription, person.description,
+        original?.name, original?.range, original?.shortDescription, original?.description, person.slug.replaceAll('-', ' ')]
+        .join(' ').normalize('NFKC').toLocaleLowerCase(this.locale.language);
+      return terms.every(term => text.includes(term));
+    });
+  });
   readonly shownThemes = computed(() => this.expandedThemes() ? this.visibleThemes() : this.visibleThemes().slice(0, INITIAL_SECTION_ITEMS));
   readonly shownEmpires = computed(() => this.expandedEmpires() ? this.visibleEmpires() : this.visibleEmpires().slice(0, INITIAL_SECTION_ITEMS));
   readonly shownRegionalKingdoms = computed(() => this.expandedRegionalKingdoms() ? this.visibleRegionalKingdoms() : this.visibleRegionalKingdoms().slice(0, INITIAL_SECTION_ITEMS));
-  readonly shownPersonalities = computed(() => this.expandedPersonalities() ? this.visiblePersonalities() : this.visiblePersonalities().slice(0, INITIAL_SECTION_ITEMS));
+  readonly shownPersonalities = computed(() => this.personalityQuery().trim() || this.expandedPersonalities()
+    ? this.filteredPersonalities() : this.filteredPersonalities().slice(0, INITIAL_SECTION_ITEMS));
   readonly initialSectionItems = INITIAL_SECTION_ITEMS;
 
   private visible<T extends { articleCount: number }>(items: T[]): T[] {

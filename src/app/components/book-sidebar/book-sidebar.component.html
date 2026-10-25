@@ -1,20 +1,21 @@
 @if (book; as item) {
   <aside class="book-sidebar card" [class.affiliate-pending]="devMode.isDevMode() && !item.affiliateUrl" aria-labelledby="page-book-title">
-    <p class="eyebrow">Book recommendation</p>
-    @if (devMode.isDevMode() && !item.affiliateUrl) {
-      <p class="affiliate-status">Affiliate link pending · Regular Amazon.in link</p>
-    }
-    <a class="book-sidebar-cover" [href]="item.affiliateUrl || item.amazonUrl" target="_blank" [attr.rel]="item.affiliateUrl ? 'sponsored noopener' : 'noopener'">
-      <picture>
-        <source [srcset]="item.imageUrl | webp" type="image/webp" />
-        <img appWebpFallback [src]="item.imageUrl" [alt]="locale.bookCoverAlt(item.title, item.imageAlt)" loading="lazy" decoding="async" width="300" height="440" translate="no" />
-      </picture>
+    <a class="book-sidebar-link" [href]="item.affiliateUrl || item.amazonUrl" target="_blank"
+      [attr.rel]="item.affiliateUrl ? 'sponsored noopener' : 'noopener'" aria-labelledby="page-book-title">
+      <p class="eyebrow">Book recommendation</p>
+      @if (devMode.isDevMode() && !item.affiliateUrl) {
+        <p class="affiliate-status">Affiliate link pending · Regular Amazon.in link</p>
+      }
+      <span class="book-sidebar-cover" aria-hidden="true">
+        <picture>
+          <source [srcset]="item.imageUrl | webp" type="image/webp" />
+          <img appWebpFallback [src]="item.imageUrl" [alt]="locale.bookCoverAlt(item.title, item.imageAlt)" loading="lazy" decoding="async" width="300" height="440" translate="no" />
+        </picture>
+      </span>
+      <p class="book-meta">{{ locale.translate(item.category) }} · {{ locale.translate(item.format) }}</p>
+      <h2 id="page-book-title" translate="no" class="notranslate">{{ item.title }}</h2>
+      <p class="book-author"><span>by</span> <span translate="no" class="notranslate">{{ item.author }}</span></p>
+      <span class="read-more">View on Amazon.in →</span>
     </a>
-    <p class="book-meta">{{ locale.translate(item.category) }} · {{ locale.translate(item.format) }}</p>
-    <h2 id="page-book-title" translate="no" class="notranslate">
-      <a [href]="item.affiliateUrl || item.amazonUrl" target="_blank" [attr.rel]="item.affiliateUrl ? 'sponsored noopener' : 'noopener'">{{ item.title }}</a>
-    </h2>
-    <p class="book-author"><span>by</span> <span translate="no" class="notranslate">{{ item.author }}</span></p>
-    <a class="read-more" [href]="item.affiliateUrl || item.amazonUrl" target="_blank" [attr.rel]="item.affiliateUrl ? 'sponsored noopener' : 'noopener'">View on Amazon.in →</a>
   </aside>
 }

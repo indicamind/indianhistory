@@ -1,4 +1,9 @@
 {
+  "Article feedback": "Opinião sobre o artigo",
+  "Thumbs up": "Gostei",
+  "Thumbs down": "Não gostei",
+  "Thanks for your feedback.": "Obrigado pela sua opinião.",
+  "Could not save your vote. Please try again.": "Não foi possível salvar seu voto. Tente novamente.",
   "English draft · Awaiting approval": "Rascunho em inglês · Aguardando aprovação",
   "{count} view": "{count} visualização",
   "{count} views": "{count} visualizações",
@@ -428,5 +433,7 @@
   "Explore Bundi through its Hada rulers, Taragarh Fort, palace architecture, water structures, painting traditions, and changing political alliances.": "Explore Bundi através dos governantes hadas, do forte de Taragarh, da arquitetura palaciana, das estruturas de água, das tradições pictóricas e das alianças políticas variáveis.",
   "Kota": "Kota",
   "A Hada Rajput state that emerged from Bundi in the seventeenth century.": "Um Estado rajput hada que emergiu de Bundi no século XVII.",
-  "Explore Kota through its Hada rulers, the Chambal valley, palace collections, painting traditions, and its history as a distinct state after separation from Bundi.": "Explore Kota através dos governantes hadas, do vale do Chambal, das coleções palacianas, das tradições pictóricas e da sua história como Estado distinto após a separação de Bundi."
+  "Explore Kota through its Hada rulers, the Chambal valley, palace collections, painting traditions, and its history as a distinct state after separation from Bundi.": "Explore Kota através dos governantes hadas, do vale do Chambal, das coleções palacianas, das tradições pictóricas e da sua história como Estado distinto após a separação de Bundi.",
+  "Saving…": "Salvando…",
+  "Vote removed.": "Voto removido."
 }

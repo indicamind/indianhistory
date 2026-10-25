@@ -5,8 +5,10 @@ const { marked } = require('marked');
 const crypto = require('crypto');
 const { collectSiteStrings } = require('./check-translations');
 const { SNAPSHOT_FILE, validateSnapshot } = require('./fetch-view-counts');
+const { REACTIONS_FILE, validateReactions } = require('./fetch-article-reactions');
 const { articleBookInsertionOffset } = require('./article-book-placement');
 const viewCounts = validateSnapshot(JSON.parse(fs.readFileSync(SNAPSHOT_FILE, 'utf8'))).counts;
+const reactions = validateReactions(JSON.parse(fs.readFileSync(REACTIONS_FILE, 'utf8'))).reactions;
 
 const ROOT = path.join(__dirname, '..');
 const CONTENT_DIR = path.join(ROOT, 'content', 'articles');
@@ -184,6 +186,8 @@ function buildArticles(directory = CONTENT_DIR) {
     return {
       slug,
       viewCount: directory === CONTENT_DIR ? (viewCounts[slug] ?? 0) : undefined,
+      thumbsUp: directory === CONTENT_DIR ? (reactions[slug]?.thumbsUp ?? 0) : undefined,
+      thumbsDown: directory === CONTENT_DIR ? (reactions[slug]?.thumbsDown ?? 0) : undefined,
       draft: directory === ARTICLE_DRAFTS_DIR ? true : undefined,
       title: data.title || slug,
       excerpt: data.excerpt || '',

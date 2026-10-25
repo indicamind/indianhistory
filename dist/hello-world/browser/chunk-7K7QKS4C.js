@@ -1,0 +1,1 @@
+import{a as t}from"./chunk-6U4JSWNE.js";import"./chunk-2D2U7N2D.js";import{d as e}from"./chunk-4CLCTAJ7.js";function s(){return e(this,null,function*(){let{functions:i,httpsCallable:o}=yield t(),a=o(i,"setArticleReaction");return c=>e(null,null,function*(){yield a(c)})})}export{s as createReactionWriter};

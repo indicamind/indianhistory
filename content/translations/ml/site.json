@@ -1,4 +1,9 @@
 {
+  "Article feedback": "ലേഖനത്തെക്കുറിച്ചുള്ള അഭിപ്രായം",
+  "Thumbs up": "ഇഷ്ടപ്പെട്ടു",
+  "Thumbs down": "ഇഷ്ടപ്പെട്ടില്ല",
+  "Thanks for your feedback.": "നിങ്ങളുടെ അഭിപ്രായത്തിന് നന്ദി.",
+  "Could not save your vote. Please try again.": "നിങ്ങളുടെ വോട്ട് സംരക്ഷിക്കാനായില്ല. ദയവായി വീണ്ടും ശ്രമിക്കുക.",
   "English draft · Awaiting approval": "ഇംഗ്ലീഷ് കരട് · അംഗീകാരത്തിനായി കാത്തിരിക്കുന്നു",
   "{count} view": "{count} കാഴ്ച",
   "{count} views": "{count} കാഴ്ചകൾ",
@@ -428,5 +433,7 @@
   "Explore Bundi through its Hada rulers, Taragarh Fort, palace architecture, water structures, painting traditions, and changing political alliances.": "ഹഡ ഭരണാധികാരികൾ, താരാഗഢ് കോട്ട, കൊട്ടാരവാസ്തു, ജലനിർമിതികൾ, ചിത്രപാരമ്പര്യങ്ങൾ, മാറുന്ന രാഷ്ട്രീയസഖ്യങ്ങൾ എന്നിവയിലൂടെ ബൂന്ദിയെ അറിയുക.",
   "Kota": "കോട്ട",
   "A Hada Rajput state that emerged from Bundi in the seventeenth century.": "പതിനേഴാം നൂറ്റാണ്ടിൽ ബൂന്ദിയിൽനിന്ന് രൂപപ്പെട്ട ഹഡ രജപുത്ര രാജ്യം.",
-  "Explore Kota through its Hada rulers, the Chambal valley, palace collections, painting traditions, and its history as a distinct state after separation from Bundi.": "ഹഡ ഭരണാധികാരികൾ, ചമ്പൽ താഴ്‌വര, കൊട്ടാരശേഖരങ്ങൾ, ചിത്രപാരമ്പര്യങ്ങൾ, ബൂന്ദിയിൽനിന്നു വേർപെട്ടശേഷം പ്രത്യേക രാജ്യമായിരുന്ന ചരിത്രം എന്നിവയിലൂടെ കോട്ടയെ അറിയുക."
+  "Explore Kota through its Hada rulers, the Chambal valley, palace collections, painting traditions, and its history as a distinct state after separation from Bundi.": "ഹഡ ഭരണാധികാരികൾ, ചമ്പൽ താഴ്‌വര, കൊട്ടാരശേഖരങ്ങൾ, ചിത്രപാരമ്പര്യങ്ങൾ, ബൂന്ദിയിൽനിന്നു വേർപെട്ടശേഷം പ്രത്യേക രാജ്യമായിരുന്ന ചരിത്രം എന്നിവയിലൂടെ കോട്ടയെ അറിയുക.",
+  "Saving…": "സംരക്ഷിക്കുന്നു…",
+  "Vote removed.": "വോട്ട് നീക്കം ചെയ്തു."
 }

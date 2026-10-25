@@ -1,4 +1,9 @@
 {
+  "Article feedback": "নিবন্ধ সম্পর্কে মতামত",
+  "Thumbs up": "ভালো লেগেছে",
+  "Thumbs down": "ভালো লাগেনি",
+  "Thanks for your feedback.": "আপনার মতামতের জন্য ধন্যবাদ।",
+  "Could not save your vote. Please try again.": "আপনার ভোট সংরক্ষণ করা যায়নি। আবার চেষ্টা করুন।",
   "English draft · Awaiting approval": "ইংরেজি খসড়া · অনুমোদনের অপেক্ষায়",
   "{count} view": "{count} বার দেখা হয়েছে",
   "{count} views": "{count} বার দেখা হয়েছে",
@@ -428,5 +433,7 @@
   "Explore Bundi through its Hada rulers, Taragarh Fort, palace architecture, water structures, painting traditions, and changing political alliances.": "হাড়া শাসক, তারাগড় দুর্গ, প্রাসাদ স্থাপত্য, জলকাঠামো, চিত্রকলার ঐতিহ্য ও পরিবর্তনশীল রাজনৈতিক জোটের মাধ্যমে বুন্দিকে জানুন।",
   "Kota": "কোটা",
   "A Hada Rajput state that emerged from Bundi in the seventeenth century.": "সপ্তদশ শতকে বুন্দি থেকে পৃথক হয়ে গড়ে ওঠা হাড়া রাজপুত রাজ্য।",
-  "Explore Kota through its Hada rulers, the Chambal valley, palace collections, painting traditions, and its history as a distinct state after separation from Bundi.": "হাড়া শাসক, চম্বল উপত্যকা, প্রাসাদের সংগ্রহ, চিত্রকলার ঐতিহ্য ও বুন্দি থেকে বিচ্ছিন্ন হওয়ার পরে পৃথক রাজ্য হিসেবে কোটার ইতিহাস জানুন।"
+  "Explore Kota through its Hada rulers, the Chambal valley, palace collections, painting traditions, and its history as a distinct state after separation from Bundi.": "হাড়া শাসক, চম্বল উপত্যকা, প্রাসাদের সংগ্রহ, চিত্রকলার ঐতিহ্য ও বুন্দি থেকে বিচ্ছিন্ন হওয়ার পরে পৃথক রাজ্য হিসেবে কোটার ইতিহাস জানুন।",
+  "Saving…": "সংরক্ষণ করা হচ্ছে…",
+  "Vote removed.": "ভোট সরানো হয়েছে।"
 }

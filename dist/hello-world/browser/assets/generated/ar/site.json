@@ -1,4 +1,9 @@
 {
+  "Article feedback": "رأيك في المقال",
+  "Thumbs up": "أعجبني",
+  "Thumbs down": "لم يعجبني",
+  "Thanks for your feedback.": "شكرًا على رأيك.",
+  "Could not save your vote. Please try again.": "تعذر حفظ تصويتك. يرجى المحاولة مرة أخرى.",
   "English draft · Awaiting approval": "مسودة بالإنجليزية · بانتظار الموافقة",
   "{count} view": "{count} مشاهدة",
   "{count} views": "{count} مشاهدة",
@@ -428,5 +433,7 @@
   "Explore Bundi through its Hada rulers, Taragarh Fort, palace architecture, water structures, painting traditions, and changing political alliances.": "استكشف بوندي عبر حكام هادا وحصن تاراغاره وعمارة القصور والمنشآت المائية وتقاليد الرسم والتحالفات السياسية المتغيرة.",
   "Kota": "كوتا",
   "A Hada Rajput state that emerged from Bundi in the seventeenth century.": "دولة راجبوتية من سلالة هادا نشأت عن بوندي في القرن السابع عشر.",
-  "Explore Kota through its Hada rulers, the Chambal valley, palace collections, painting traditions, and its history as a distinct state after separation from Bundi.": "استكشف كوتا عبر حكام هادا ووادي تشامبال ومجموعات القصور وتقاليد الرسم وتاريخها دولةً متميزة بعد انفصالها عن بوندي."
+  "Explore Kota through its Hada rulers, the Chambal valley, palace collections, painting traditions, and its history as a distinct state after separation from Bundi.": "استكشف كوتا عبر حكام هادا ووادي تشامبال ومجموعات القصور وتقاليد الرسم وتاريخها دولةً متميزة بعد انفصالها عن بوندي.",
+  "Saving…": "جارٍ الحفظ…",
+  "Vote removed.": "تمت إزالة التصويت."
 }

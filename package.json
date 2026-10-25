@@ -9,10 +9,11 @@
     "optimize-images": "node scripts/optimize-images.js",
     "prestart": "npm run build-content",
     "start": "ng serve",
-    "build": "npm run fetch-view-counts && npm run optimize-images && npm run build-content && ng build",
+    "build": "npm run fetch-view-counts && npm run fetch-article-reactions && npm run optimize-images && npm run build-content && ng build",
     "postbuild": "node scripts/generate-share-pages.js",
     "watch": "ng build --watch --configuration development",
-    "test": "node scripts/run-tests.js"
+    "test": "node scripts/run-tests.js",
+    "fetch-article-reactions": "node scripts/fetch-article-reactions.js"
   },
   "private": true,
   "overrides": {

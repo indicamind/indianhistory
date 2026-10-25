@@ -1,4 +1,9 @@
 {
+  "Article feedback": "लेखावरील अभिप्राय",
+  "Thumbs up": "आवडले",
+  "Thumbs down": "आवडले नाही",
+  "Thanks for your feedback.": "तुमच्या अभिप्रायाबद्दल धन्यवाद.",
+  "Could not save your vote. Please try again.": "तुमचे मत जतन करता आले नाही. कृपया पुन्हा प्रयत्न करा.",
   "English draft · Awaiting approval": "इंग्रजी मसुदा · मंजुरीच्या प्रतीक्षेत",
   "{count} view": "{count} वेळा पाहिले",
   "{count} views": "{count} वेळा पाहिले",
@@ -428,5 +433,7 @@
   "Explore Bundi through its Hada rulers, Taragarh Fort, palace architecture, water structures, painting traditions, and changing political alliances.": "हाडा राज्यकर्ते, तारागड दुर्ग, राजवाड्यांची वास्तुकला, जलरचना, चित्रकलेच्या परंपरा आणि बदलत्या राजकीय आघाड्यांतून बुंदी जाणून घ्या.",
   "Kota": "कोटा",
   "A Hada Rajput state that emerged from Bundi in the seventeenth century.": "सतराव्या शतकात बुंदीपासून वेगळे झालेले हाडा राजपूत राज्य.",
-  "Explore Kota through its Hada rulers, the Chambal valley, palace collections, painting traditions, and its history as a distinct state after separation from Bundi.": "हाडा राज्यकर्ते, चंबळ खोरे, राजवाड्यांतील संग्रह, चित्रपरंपरा आणि बुंदीपासून वेगळे झाल्यावर स्वतंत्र राज्य म्हणून कोटाचा इतिहास जाणून घ्या."
+  "Explore Kota through its Hada rulers, the Chambal valley, palace collections, painting traditions, and its history as a distinct state after separation from Bundi.": "हाडा राज्यकर्ते, चंबळ खोरे, राजवाड्यांतील संग्रह, चित्रपरंपरा आणि बुंदीपासून वेगळे झाल्यावर स्वतंत्र राज्य म्हणून कोटाचा इतिहास जाणून घ्या.",
+  "Saving…": "जतन केले जात आहे…",
+  "Vote removed.": "मत काढून टाकले."
 }

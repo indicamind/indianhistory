@@ -1,4 +1,9 @@
 {
+  "Article feedback": "مضمون پر رائے",
+  "Thumbs up": "پسند آیا",
+  "Thumbs down": "پسند نہیں آیا",
+  "Thanks for your feedback.": "آپ کی رائے کا شکریہ۔",
+  "Could not save your vote. Please try again.": "آپ کا ووٹ محفوظ نہیں ہو سکا۔ براہ کرم دوبارہ کوشش کریں۔",
   "English draft · Awaiting approval": "انگریزی مسودہ · منظوری کا منتظر",
   "{count} view": "{count} مرتبہ دیکھا گیا",
   "{count} views": "{count} مرتبہ دیکھا گیا",
@@ -428,5 +433,7 @@
   "Explore Bundi through its Hada rulers, Taragarh Fort, palace architecture, water structures, painting traditions, and changing political alliances.": "ہاڑا حکمرانوں، تارا گڑھ قلعے، محلوں کی تعمیرات، آبی ڈھانچوں، مصوری کی روایات اور بدلتے سیاسی اتحادوں کے ذریعے بوندی کو جانیے۔",
   "Kota": "کوٹا",
   "A Hada Rajput state that emerged from Bundi in the seventeenth century.": "سترھویں صدی میں بوندی سے الگ بننے والی ہاڑا راجپوت ریاست۔",
-  "Explore Kota through its Hada rulers, the Chambal valley, palace collections, painting traditions, and its history as a distinct state after separation from Bundi.": "ہاڑا حکمرانوں، وادیٔ چنبل، محلوں کے مجموعوں، مصوری کی روایات اور بوندی سے علیحدگی کے بعد الگ ریاست کے طور پر کوٹا کا ماضی جانیے۔"
+  "Explore Kota through its Hada rulers, the Chambal valley, palace collections, painting traditions, and its history as a distinct state after separation from Bundi.": "ہاڑا حکمرانوں، وادیٔ چنبل، محلوں کے مجموعوں، مصوری کی روایات اور بوندی سے علیحدگی کے بعد الگ ریاست کے طور پر کوٹا کا ماضی جانیے۔",
+  "Saving…": "محفوظ کیا جا رہا ہے…",
+  "Vote removed.": "ووٹ ہٹا دیا گیا۔"
 }

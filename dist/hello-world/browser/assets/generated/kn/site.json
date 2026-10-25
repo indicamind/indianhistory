@@ -1,4 +1,9 @@
 {
+  "Article feedback": "ಲೇಖನದ ಬಗ್ಗೆ ಪ್ರತಿಕ್ರಿಯೆ",
+  "Thumbs up": "ಇಷ್ಟವಾಯಿತು",
+  "Thumbs down": "ಇಷ್ಟವಾಗಲಿಲ್ಲ",
+  "Thanks for your feedback.": "ನಿಮ್ಮ ಪ್ರತಿಕ್ರಿಯೆಗೆ ಧನ್ಯವಾದಗಳು.",
+  "Could not save your vote. Please try again.": "ನಿಮ್ಮ ಮತವನ್ನು ಉಳಿಸಲಾಗಲಿಲ್ಲ. ದಯವಿಟ್ಟು ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಿ.",
   "English draft · Awaiting approval": "ಇಂಗ್ಲಿಷ್ ಕರಡು · ಅನುಮೋದನೆಗಾಗಿ ಕಾಯುತ್ತಿದೆ",
   "{count} view": "{count} ವೀಕ್ಷಣೆ",
   "{count} views": "{count} ವೀಕ್ಷಣೆಗಳು",
@@ -428,5 +433,7 @@
   "Explore Bundi through its Hada rulers, Taragarh Fort, palace architecture, water structures, painting traditions, and changing political alliances.": "ಹಡಾ ಅರಸರು, ತಾರಾಗಢ ಕೋಟೆ, ಅರಮನೆಯ ವಾಸ್ತುಕಲೆ, ಜಲರಚನೆಗಳು, ಚಿತ್ರಪರಂಪರೆ ಹಾಗೂ ಬದಲಾಗುವ ರಾಜಕೀಯ ಒಕ್ಕೂಟಗಳ ಮೂಲಕ ಬೂಂದಿ ತಿಳಿಯಿರಿ.",
   "Kota": "ಕೋಟಾ",
   "A Hada Rajput state that emerged from Bundi in the seventeenth century.": "ಹದಿನೇಳನೇ ಶತಮಾನದಲ್ಲಿ ಬೂಂದಿಯಿಂದ ಹೊರಹೊಮ್ಮಿದ ಹಡಾ ರಜಪೂತ ರಾಜ್ಯ.",
-  "Explore Kota through its Hada rulers, the Chambal valley, palace collections, painting traditions, and its history as a distinct state after separation from Bundi.": "ಹಡಾ ಅರಸರು, ಚಂಬಲ್ ಕಣಿವೆ, ಅರಮನೆ ಸಂಗ್ರಹಗಳು, ಚಿತ್ರಪರಂಪರೆ ಹಾಗೂ ಬೂಂದಿಯಿಂದ ಬೇರ್ಪಟ್ಟ ಬಳಿಕ ಪ್ರತ್ಯೇಕ ರಾಜ್ಯವಾದ ಇತಿಹಾಸದ ಮೂಲಕ ಕೋಟಾ ತಿಳಿಯಿರಿ."
+  "Explore Kota through its Hada rulers, the Chambal valley, palace collections, painting traditions, and its history as a distinct state after separation from Bundi.": "ಹಡಾ ಅರಸರು, ಚಂಬಲ್ ಕಣಿವೆ, ಅರಮನೆ ಸಂಗ್ರಹಗಳು, ಚಿತ್ರಪರಂಪರೆ ಹಾಗೂ ಬೂಂದಿಯಿಂದ ಬೇರ್ಪಟ್ಟ ಬಳಿಕ ಪ್ರತ್ಯೇಕ ರಾಜ್ಯವಾದ ಇತಿಹಾಸದ ಮೂಲಕ ಕೋಟಾ ತಿಳಿಯಿರಿ.",
+  "Saving…": "ಉಳಿಸಲಾಗುತ್ತಿದೆ…",
+  "Vote removed.": "ಮತವನ್ನು ತೆಗೆದುಹಾಕಲಾಗಿದೆ."
 }

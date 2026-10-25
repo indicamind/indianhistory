@@ -1,6 +1,8 @@
 export interface ArticleSummary {
   slug: string;
   viewCount?: number; // Firestore snapshot embedded during the production build
+  thumbsUp?: number;
+  thumbsDown?: number;
   title: string;
   excerpt: string;
   thumbnail?: { src: string; alt: string } | null;

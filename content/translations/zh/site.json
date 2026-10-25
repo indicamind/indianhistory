@@ -1,4 +1,9 @@
 {
+  "Article feedback": "文章反馈",
+  "Thumbs up": "赞",
+  "Thumbs down": "踩",
+  "Thanks for your feedback.": "感谢您的反馈。",
+  "Could not save your vote. Please try again.": "无法保存您的投票。请重试。",
   "English draft · Awaiting approval": "英文草稿 · 等待批准",
   "{count} view": "{count} 次浏览",
   "{count} views": "{count} 次浏览",
@@ -428,5 +433,7 @@
   "Explore Bundi through its Hada rulers, Taragarh Fort, palace architecture, water structures, painting traditions, and changing political alliances.": "通过哈达统治者、塔拉加尔堡、宫殿建筑、水利设施、绘画传统及不断变化的政治联盟，探索本迪。",
   "Kota": "科塔",
   "A Hada Rajput state that emerged from Bundi in the seventeenth century.": "十七世纪从本迪分立出来的哈达拉杰普特邦国。",
-  "Explore Kota through its Hada rulers, the Chambal valley, palace collections, painting traditions, and its history as a distinct state after separation from Bundi.": "通过哈达统治者、昌巴尔河谷、宫殿收藏、绘画传统及脱离本迪后作为独立邦国的历史，探索科塔。"
+  "Explore Kota through its Hada rulers, the Chambal valley, palace collections, painting traditions, and its history as a distinct state after separation from Bundi.": "通过哈达统治者、昌巴尔河谷、宫殿收藏、绘画传统及脱离本迪后作为独立邦国的历史，探索科塔。",
+  "Saving…": "正在保存…",
+  "Vote removed.": "已撤回投票。"
 }

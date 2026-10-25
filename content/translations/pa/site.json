@@ -1,4 +1,9 @@
 {
+  "Article feedback": "ਲੇਖ ਬਾਰੇ ਪ੍ਰਤੀਕਿਰਿਆ",
+  "Thumbs up": "ਪਸੰਦ ਆਇਆ",
+  "Thumbs down": "ਪਸੰਦ ਨਹੀਂ ਆਇਆ",
+  "Thanks for your feedback.": "ਤੁਹਾਡੀ ਪ੍ਰਤੀਕਿਰਿਆ ਲਈ ਧੰਨਵਾਦ।",
+  "Could not save your vote. Please try again.": "ਤੁਹਾਡੀ ਵੋਟ ਸੰਭਾਲੀ ਨਹੀਂ ਜਾ ਸਕੀ। ਕਿਰਪਾ ਕਰਕੇ ਮੁੜ ਕੋਸ਼ਿਸ਼ ਕਰੋ।",
   "English draft · Awaiting approval": "ਅੰਗਰੇਜ਼ੀ ਖਰੜਾ · ਮਨਜ਼ੂਰੀ ਦੀ ਉਡੀਕ ਵਿੱਚ",
   "{count} view": "{count} ਵਾਰ ਦੇਖਿਆ ਗਿਆ",
   "{count} views": "{count} ਵਾਰ ਦੇਖਿਆ ਗਿਆ",
@@ -428,5 +433,7 @@
   "Explore Bundi through its Hada rulers, Taragarh Fort, palace architecture, water structures, painting traditions, and changing political alliances.": "ਹਾੜਾ ਹਾਕਮਾਂ, ਤਾਰਾਗੜ੍ਹ ਕਿਲ੍ਹੇ, ਮਹਿਲਸਾਜ਼ੀ, ਜਲਰਚਨਾਵਾਂ, ਚਿੱਤਰਕਲਾ ਦੀਆਂ ਰਵਾਇਤਾਂ ਅਤੇ ਬਦਲਦੇ ਸਿਆਸੀ ਗੱਠਜੋੜਾਂ ਰਾਹੀਂ ਬੂੰਦੀ ਜਾਣੋ।",
   "Kota": "ਕੋਟਾ",
   "A Hada Rajput state that emerged from Bundi in the seventeenth century.": "ਸਤਾਰ੍ਹਵੀਂ ਸਦੀ ਵਿੱਚ ਬੂੰਦੀ ਤੋਂ ਵੱਖਰਾ ਬਣਿਆ ਹਾੜਾ ਰਾਜਪੂਤ ਰਾਜ।",
-  "Explore Kota through its Hada rulers, the Chambal valley, palace collections, painting traditions, and its history as a distinct state after separation from Bundi.": "ਹਾੜਾ ਹਾਕਮਾਂ, ਚੰਬਲ ਘਾਟੀ, ਮਹਿਲਾਂ ਦੇ ਸੰਗ੍ਰਹਿ, ਚਿੱਤਰਕਲਾ ਅਤੇ ਬੂੰਦੀ ਤੋਂ ਵੱਖ ਹੋਣ ਮਗਰੋਂ ਅਲੱਗ ਰਾਜ ਵਜੋਂ ਕੋਟਾ ਦਾ ਇਤਿਹਾਸ ਜਾਣੋ।"
+  "Explore Kota through its Hada rulers, the Chambal valley, palace collections, painting traditions, and its history as a distinct state after separation from Bundi.": "ਹਾੜਾ ਹਾਕਮਾਂ, ਚੰਬਲ ਘਾਟੀ, ਮਹਿਲਾਂ ਦੇ ਸੰਗ੍ਰਹਿ, ਚਿੱਤਰਕਲਾ ਅਤੇ ਬੂੰਦੀ ਤੋਂ ਵੱਖ ਹੋਣ ਮਗਰੋਂ ਅਲੱਗ ਰਾਜ ਵਜੋਂ ਕੋਟਾ ਦਾ ਇਤਿਹਾਸ ਜਾਣੋ।",
+  "Saving…": "ਸੰਭਾਲਿਆ ਜਾ ਰਿਹਾ ਹੈ…",
+  "Vote removed.": "ਵੋਟ ਹਟਾ ਦਿੱਤੀ ਗਈ।"
 }

@@ -36,6 +36,10 @@ npm run build
 
 This will compile your project and store the build artifacts in the `dist/` directory. By default, the production build optimizes your application for performance and speed.
 
+Article feedback uses App Check protected Firebase functions and build-time totals;
+see [article reactions](docs/article-reactions.md) for storage, local previews,
+retrieval, and deployment details.
+
 It also generates page-specific social preview HTML and JPEG images for every
 published article and blog. See [social preview setup](docs/social-previews.md)
 for image overrides, local testing, language limitations, and the required

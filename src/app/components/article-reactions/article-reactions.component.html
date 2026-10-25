@@ -1,0 +1,24 @@
+<div class="reactions" role="group" [attr.aria-label]="locale.translate('Article feedback')" [attr.aria-busy]="busy()">
+  <button type="button" [class.selected]="vote() === 'up'" [attr.aria-pressed]="vote() === 'up'"
+    [attr.aria-label]="locale.translate('Thumbs up')" [attr.aria-describedby]="'thumbs-up-count-' + article().slug"
+    [title]="locale.translate('Thumbs up')" [disabled]="busy()" (click)="react('up')">
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false">
+      <path d="M7 10v11H3V10h4Zm0 0 5-8c2 0 3 1 2 4l-1 4h6a2 2 0 0 1 2 2l-2 7a3 3 0 0 1-3 2H7" />
+    </svg>
+    <span [id]="'thumbs-up-count-' + article().slug">{{ (article().thumbsUp ?? 0).toLocaleString(locale.language) }}</span>
+  </button>
+  <button type="button" [class.selected]="vote() === 'down'" [attr.aria-pressed]="vote() === 'down'"
+    [attr.aria-label]="locale.translate('Thumbs down')" [attr.aria-describedby]="'thumbs-down-count-' + article().slug"
+    [title]="locale.translate('Thumbs down')" [disabled]="busy()" (click)="react('down')">
+    <svg class="thumb-down" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false">
+      <path d="M7 10v11H3V10h4Zm0 0 5-8c2 0 3 1 2 4l-1 4h6a2 2 0 0 1 2 2l-2 7a3 3 0 0 1-3 2H7" />
+    </svg>
+    <span [id]="'thumbs-down-count-' + article().slug">{{ (article().thumbsDown ?? 0).toLocaleString(locale.language) }}</span>
+  </button>
+  <span class="feedback-status" aria-live="polite">
+    @if (busy()) { {{ locale.translate('Saving…') }} }
+    @else if (error()) { {{ locale.translate('Could not save your vote. Please try again.') }} }
+    @else if (vote()) { {{ locale.translate('Thanks for your feedback.') }} }
+    @else if (submitted()) { {{ locale.translate('Vote removed.') }} }
+  </span>
+</div>

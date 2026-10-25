@@ -6,6 +6,14 @@ const {onCall, onRequest, HttpsError} = require("firebase-functions/v2/https");
 initializeApp();
 setGlobalOptions({maxInstances: 10});
 
+const reactions = require("./article-reactions");
+exports.setArticleReaction = onCall({
+  enforceAppCheck: true,
+  cors: ["https://www.indiahistory.info", "https://indicamind.github.io"],
+}, reactions.setArticleReaction);
+exports.getArticleReactions = onRequest(
+    {cors: false, maxInstances: 2}, reactions.getArticleReactions);
+
 // Public totals for static website builds. This endpoint cannot write data.
 exports.getViewCounts = onRequest(
     {cors: false, maxInstances: 2}, require("./view-counts"));

@@ -14,10 +14,11 @@ import { DevModeService } from '../../services/dev-mode.service';
 import { articleRoute } from '../../utils/article-route';
 import { localizeContentLinks } from '../../i18n/content-urls';
 import { PageViewService } from '../../services/page-view.service';
+import { ArticleReactionsComponent } from '../../components/article-reactions/article-reactions.component';
 
 @Component({
   selector: 'app-article-detail',
-  imports: [RouterLink, DatePipe, AssociatedBooksComponent],
+  imports: [RouterLink, DatePipe, AssociatedBooksComponent, ArticleReactionsComponent],
   templateUrl: './article-detail.component.html',
   styleUrl: './article-detail.component.css',
 })

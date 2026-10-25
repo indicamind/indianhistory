@@ -1,4 +1,9 @@
 {
+  "Article feedback": "கட்டுரை பற்றிய கருத்து",
+  "Thumbs up": "பிடித்துள்ளது",
+  "Thumbs down": "பிடிக்கவில்லை",
+  "Thanks for your feedback.": "உங்கள் கருத்துக்கு நன்றி.",
+  "Could not save your vote. Please try again.": "உங்கள் வாக்கைச் சேமிக்க முடியவில்லை. மீண்டும் முயற்சிக்கவும்.",
   "English draft · Awaiting approval": "ஆங்கில வரைவு · ஒப்புதலுக்காகக் காத்திருக்கிறது",
   "{count} view": "{count} பார்வை",
   "{count} views": "{count} பார்வைகள்",
@@ -428,5 +433,7 @@
   "Explore Bundi through its Hada rulers, Taragarh Fort, palace architecture, water structures, painting traditions, and changing political alliances.": "ஹடா ஆட்சியாளர்கள், தாராகர் கோட்டை, அரண்மனைக் கட்டடக்கலை, நீரமைப்புகள், ஓவிய மரபுகள், மாறும் அரசியல் கூட்டணிகளின் வழியே பூந்தியை அறியுங்கள்.",
   "Kota": "கோட்டா",
   "A Hada Rajput state that emerged from Bundi in the seventeenth century.": "பதினேழாம் நூற்றாண்டில் பூந்தியிலிருந்து பிரிந்து உருவான ஹடா ராஜபுத்திர அரசு.",
-  "Explore Kota through its Hada rulers, the Chambal valley, palace collections, painting traditions, and its history as a distinct state after separation from Bundi.": "ஹடா ஆட்சியாளர்கள், சம்பல் பள்ளத்தாக்கு, அரண்மனைச் சேகரிப்புகள், ஓவிய மரபுகள், பூந்தியிலிருந்து பிரிந்தபின் தனி அரசாக இருந்த வரலாற்றின் வழியே கோட்டாவை அறியுங்கள்."
+  "Explore Kota through its Hada rulers, the Chambal valley, palace collections, painting traditions, and its history as a distinct state after separation from Bundi.": "ஹடா ஆட்சியாளர்கள், சம்பல் பள்ளத்தாக்கு, அரண்மனைச் சேகரிப்புகள், ஓவிய மரபுகள், பூந்தியிலிருந்து பிரிந்தபின் தனி அரசாக இருந்த வரலாற்றின் வழியே கோட்டாவை அறியுங்கள்.",
+  "Saving…": "சேமிக்கப்படுகிறது…",
+  "Vote removed.": "வாக்கு நீக்கப்பட்டது."
 }

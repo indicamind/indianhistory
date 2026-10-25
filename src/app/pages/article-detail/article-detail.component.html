@@ -36,6 +36,9 @@
           {{ locale.format(article()!.viewCount === 1 ? '{count} view' : '{count} views', {count: article()!.viewCount!}) }}
         </p>
       }
+      @if (!article()!.draft) {
+        <app-article-reactions [article]="article()!" />
+      }
       @if (article()!.eventDate) {
         <p class="event-date">{{ locale.translate(article()!.eventDate!) }}</p>
       }

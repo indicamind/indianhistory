@@ -1,4 +1,9 @@
 {
+  "Article feedback": "వ్యాసంపై అభిప్రాయం",
+  "Thumbs up": "నచ్చింది",
+  "Thumbs down": "నచ్చలేదు",
+  "Thanks for your feedback.": "మీ అభిప్రాయానికి ధన్యవాదాలు.",
+  "Could not save your vote. Please try again.": "మీ ఓటును సేవ్ చేయలేకపోయాము. దయచేసి మళ్లీ ప్రయత్నించండి.",
   "English draft · Awaiting approval": "ఆంగ్ల ముసాయిదా · ఆమోదం కోసం వేచి ఉంది",
   "{count} view": "{count} వీక్షణ",
   "{count} views": "{count} వీక్షణలు",
@@ -428,5 +433,7 @@
   "Explore Bundi through its Hada rulers, Taragarh Fort, palace architecture, water structures, painting traditions, and changing political alliances.": "హడా పాలకులు, తారాగఢ్ కోట, రాజభవన నిర్మాణకళ, నీటి నిర్మాణాలు, చిత్రకళా సంప్రదాయాలు, మారుతున్న రాజకీయ కూటముల ద్వారా బూందీని తెలుసుకోండి.",
   "Kota": "కోటా",
   "A Hada Rajput state that emerged from Bundi in the seventeenth century.": "పదిహేడో శతాబ్దంలో బూందీ నుంచి ఏర్పడిన హడా రాజపుత్ర రాజ్యం.",
-  "Explore Kota through its Hada rulers, the Chambal valley, palace collections, painting traditions, and its history as a distinct state after separation from Bundi.": "హడా పాలకులు, చంబల్ లోయ, రాజభవన సేకరణలు, చిత్రకళా సంప్రదాయాలు, బూందీ నుంచి విడిపోయాక ప్రత్యేక రాజ్యంగా చరిత్ర ద్వారా కోటాను తెలుసుకోండి."
+  "Explore Kota through its Hada rulers, the Chambal valley, palace collections, painting traditions, and its history as a distinct state after separation from Bundi.": "హడా పాలకులు, చంబల్ లోయ, రాజభవన సేకరణలు, చిత్రకళా సంప్రదాయాలు, బూందీ నుంచి విడిపోయాక ప్రత్యేక రాజ్యంగా చరిత్ర ద్వారా కోటాను తెలుసుకోండి.",
+  "Saving…": "సేవ్ అవుతోంది…",
+  "Vote removed.": "ఓటు తొలగించబడింది."
 }

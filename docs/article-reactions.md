@@ -2,13 +2,14 @@
 
 Published articles, including world-history stories, display two feedback buttons
 below the title. The totals come from the build; selecting a thumb immediately
-highlights it and saves the choice locally once the write succeeds. The totals
-remain unchanged until a new website build. Clicking the selected thumb removes
+highlights it, adds one to the displayed total, and saves the choice locally once
+the write succeeds. That local addition lasts seven days, including after a
+reload. The underlying totals still come from website builds. Clicking the selected thumb removes
 the vote; choosing the other thumb switches it. All languages share a slug and
 the browser's choice. Drafts and blogs do not display these controls.
 The controls show a saving message while a request is pending, confirmation
 after a vote or removal, and a retry message after failure. Button descriptions
-expose the build's totals to screen readers, and keyboard focus remains visible.
+expose the displayed totals to screen readers, and keyboard focus remains visible.
 
 ## Firestore and functions
 
@@ -37,8 +38,20 @@ are rejected. No App Check is needed to retrieve these public totals.
 ## Browser persistence and previews
 
 The random browser ID is saved as `ih_reaction_voter`. Each successful vote is
-stored as `ih_article_reaction:<slug>`. A failed write restores the previous
-selection and offers a retry. The two website origins have separate browser
+stored as `{vote, expiresAt}` at `ih_article_reaction:<slug>`. For seven days,
+the selected thumb displays the build's total plus one. Switching moves that
+addition to the other thumb and starts a fresh seven-day window; removal clears
+it. A failed write restores the previous selection and local addition without
+renewing its expiry. The extra one expires even while the article remains open.
+The choice stays remembered after expiry so it remains highlighted and can still
+be switched or removed, while the display uses only the built totals.
+
+A build during those seven days may already include this vote, temporarily
+displaying it twice on that browser. This is intentional; the display falls back
+to the built totals after the week. Existing string-only choices are migrated
+once to a seven-day record without writing another vote to Firestore.
+
+The two website origins have separate browser
 storage, as do separate browsers/devices. Clearing storage creates a new browser
 identity; this is browser-level deduplication, not a signed-in unique voter.
 When storage is blocked, the ID and choice survive only in memory until reload.

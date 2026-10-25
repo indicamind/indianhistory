@@ -11,30 +11,44 @@ function textLength(node, proseOnly) {
   return (node.children || []).reduce((sum, child) => sum + textLength(child, proseOnly), 0);
 }
 
-// Return a character offset in the original HTML, so no content is reserialized
+// Return character offsets in the original HTML, so no content is reserialized
 // and the client can insert an Angular component without splitting an element.
-function articleBookInsertionOffset(html) {
+function articleBookInsertionOffsets(html) {
   const parsed = new HtmlParser().parse(html, 'article', { tokenizeBlocks: false, tokenizeLet: false });
-  if (parsed.errors.length) return html.length;
+  if (parsed.errors.length) return [html.length, html.length];
   const blocks = parsed.rootNodes.filter(node => node.name || textLength(node, false));
   let weights = blocks.map(node => textLength(node, true));
   if (!weights.some(Boolean)) weights = blocks.map(node => textLength(node, false));
   const total = weights.reduce((sum, length) => sum + length, 0);
   let before = 0;
-  let best = html.length;
-  let distance = Infinity;
+  const candidates = [];
   for (let i = 1; i < blocks.length; i++) {
     before += weights[i - 1];
     // Keep headings with their content, and lists/media with their lead-in.
     if (headings.has(blocks[i - 1].name) || attachedBlocks.has(blocks[i].name)) continue;
-    if (!before || before >= total) continue;
-    const difference = Math.abs(before - total / 2);
-    if (difference < distance) {
-      best = blocks[i].sourceSpan.start.offset;
-      distance = difference;
+    if (!before) continue;
+    candidates.push({ offset: blocks[i].sourceSpan.start.offset, before });
+  }
+  // Very short articles may not have two safe internal boundaries.
+  if (!candidates.length) return [html.length, html.length];
+  if (candidates.length === 1) return [candidates[0].offset, html.length];
+
+  let best;
+  let distance = Infinity;
+  for (let i = 0; i < candidates.length - 1; i++) {
+    for (let j = i + 1; j < candidates.length; j++) {
+      const first = candidates[i];
+      const second = candidates[j];
+      // Prefer opposite halves, then boundaries nearest one-third and two-thirds.
+      const penalty = (Number(first.before > total / 2) + Number(second.before < total / 2)) * total;
+      const difference = penalty + Math.abs(first.before - total / 3) + Math.abs(second.before - total * 2 / 3);
+      if (difference < distance) {
+        best = [first.offset, second.offset];
+        distance = difference;
+      }
     }
   }
   return best;
 }
 
-module.exports = { articleBookInsertionOffset };
+module.exports = { articleBookInsertionOffsets };

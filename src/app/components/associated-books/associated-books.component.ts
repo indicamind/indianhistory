@@ -15,4 +15,5 @@ export class AssociatedBooksComponent {
   readonly locale = inject(LocaleService);
   readonly devMode = inject(DevModeService);
   @Input() books: RecommendedBook[] = [];
+  @Input() headingId = 'associated-books-title';
 }

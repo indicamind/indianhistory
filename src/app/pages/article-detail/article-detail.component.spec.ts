@@ -95,21 +95,28 @@ describe('ArticleDetailComponent', () => {
     expect(recordedSlugs).toEqual([]);
   });
 
-  it('renders both sides of the generated book position and clears them on a missing article', async () => {
+  it('renders three intact parts around two book positions and clears them on a missing article', async () => {
     const before = '<p>Opening section.</p>\n';
+    const middle = '<h2>Middle section</h2><p>More history.</p>\n';
     const after = '<h2>Next section</h2><p>Closing section.</p>';
     mockArticles.getArticle = async (slug: string) => slug === 'missing' ? null : {
-      ...article(slug, 'An article'), html: before + after, bookInsertionOffset: before.length,
+      ...article(slug, 'An article'), html: before + middle + after,
+      bookInsertionOffsets: [before.length, before.length + middle.length],
     };
     component.ngOnInit();
     await new Promise(resolve => setTimeout(resolve, 0));
-    expect(component.htmlBeforeBooks()).toBe(before);
-    expect(component.htmlAfterBooks()).toBe(after);
-    expect(component.html()).toBe(before + after);
+    expect(component.htmlParts()).toEqual([before, middle, after]);
+    expect(component.html()).toBe(before + middle + after);
     params.next(convertToParamMap({ slug: 'missing' }));
     await new Promise(resolve => setTimeout(resolve, 0));
-    expect(component.htmlBeforeBooks()).toBeNull();
-    expect(component.htmlAfterBooks()).toBeNull();
+    expect(component.htmlParts()).toEqual([]);
+  });
+
+  it('preserves a cached story without generated book positions', async () => {
+    mockArticles.getArticle = async (slug: string) => article(slug, 'Cached article');
+    component.ngOnInit();
+    await new Promise(resolve => setTimeout(resolve, 0));
+    expect(component.htmlParts()).toEqual(['<p>Cached article</p>', '', '']);
   });
 
   it('shows draft text without recording a view', async () => {

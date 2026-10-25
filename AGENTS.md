@@ -14,7 +14,7 @@ Keep image attribution visible beside each image as plain text, including the cr
 
 # Article recommendations
 
-Place the shared “More books” recommendations within the article body near its midpoint, between complete content blocks. This applies to existing and future articles in every language. Keep the placement in the shared renderer and content build; do not hardcode book cards or placement markers into article Markdown. Keep figures, tables, and lists whole, and keep headings attached to their following content.
+Separate the two shared “More books” recommendations into individual placements within the article body: one in the first half, near one-third of the prose, and the other in the second half, near two-thirds. Place each between complete content blocks, with article text between the recommendations. This applies to existing and future articles in every language. Keep the placement in the shared renderer and content build; do not hardcode book cards or placement markers into article Markdown. Keep figures, tables, and lists whole, and keep headings attached to their following content. For very short content with too few safe internal boundaries, use the available boundaries and then the end of the article without splitting a block.
 
 # Translation requirement
 

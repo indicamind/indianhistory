@@ -35,8 +35,7 @@ export class ArticleDetailComponent implements OnInit {
   readonly articleRoute = articleRoute;
   readonly article = signal<Article | null>(null);
   readonly html = signal<SafeHtml | null>(null);
-  readonly htmlBeforeBooks = signal<SafeHtml | null>(null);
-  readonly htmlAfterBooks = signal<SafeHtml | null>(null);
+  readonly htmlParts = signal<SafeHtml[]>([]);
   readonly bookRecommendations = computed(() => this.recommendations.forArticle(this.article(), this.devMode.isDevMode()));
   readonly bottomBooks = computed(() => this.bookRecommendations().below);
   readonly isWorldHistoryOverview = computed(() => {
@@ -123,13 +122,15 @@ export class ArticleDetailComponent implements OnInit {
     this.html.set(
       found ? this.sanitizer.bypassSecurityTrustHtml(localizeContentLinks(found.html, this.locale.language, !!found.draft, this.locale.basePath)) : null
     );
-    const offset = found?.bookInsertionOffset ?? found?.html.length ?? 0;
-    this.htmlBeforeBooks.set(found ? this.sanitizer.bypassSecurityTrustHtml(
-      localizeContentLinks(found.html.slice(0, offset), this.locale.language, !!found.draft, this.locale.basePath)
-    ) : null);
-    this.htmlAfterBooks.set(found ? this.sanitizer.bypassSecurityTrustHtml(
-      localizeContentLinks(found.html.slice(offset), this.locale.language, !!found.draft, this.locale.basePath)
-    ) : null);
+    if (found) {
+      const offsets = found.bookInsertionOffsets ?? [found.html.length, found.html.length];
+      const boundaries = [0, ...offsets, found.html.length];
+      this.htmlParts.set(boundaries.slice(1).map((end, index) => this.sanitizer.bypassSecurityTrustHtml(
+        localizeContentLinks(found.html.slice(boundaries[index], end), this.locale.language, !!found.draft, this.locale.basePath)
+      )));
+    } else {
+      this.htmlParts.set([]);
+    }
 
     // Context-aware back navigation
     const fromPeriodSlug = queryParams.get('fromPeriod');

@@ -77,9 +77,13 @@
           }
           @if (article()!.books.length && bottomBooks().length) {
             <div class="article-body">
-              <div class="article-body-part" [innerHTML]="htmlBeforeBooks()"></div>
-              <app-associated-books class="mid-article-books" [books]="bottomBooks()" />
-              <div class="article-body-part" [innerHTML]="htmlAfterBooks()"></div>
+              @for (part of htmlParts(); track $index) {
+                <div class="article-body-part" [innerHTML]="part"></div>
+                @if (bottomBooks()[$index]; as book) {
+                  <app-associated-books class="inline-article-books" [books]="[book]"
+                    [headingId]="'article-book-' + article()!.slug + '-' + $index" />
+                }
+              }
             </div>
           } @else {
             <div class="article-body" [innerHTML]="html()"></div>

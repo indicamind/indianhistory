@@ -6,7 +6,7 @@ const crypto = require('crypto');
 const { collectSiteStrings } = require('./check-translations');
 const { SNAPSHOT_FILE, validateSnapshot } = require('./fetch-view-counts');
 const { REACTIONS_FILE, validateReactions } = require('./fetch-article-reactions');
-const { articleBookInsertionOffset } = require('./article-book-placement');
+const { articleBookInsertionOffsets } = require('./article-book-placement');
 const viewCounts = validateSnapshot(JSON.parse(fs.readFileSync(SNAPSHOT_FILE, 'utf8'))).counts;
 const reactions = validateReactions(JSON.parse(fs.readFileSync(REACTIONS_FILE, 'utf8'))).reactions;
 
@@ -35,7 +35,7 @@ function relativeMediaUrls(html) {
 }
 
 function storySummary(article) {
-  const { html, bookInsertionOffset, ...summary } = article;
+  const { html, bookInsertionOffsets, ...summary } = article;
   const image = html.match(/<img\b[^>]*>/i)?.[0];
   const src = image?.match(/\bsrc="([^"]*)"/i)?.[1];
   const alt = image?.match(/\balt="([^"]*)"/i)?.[1] || '';
@@ -44,7 +44,7 @@ function storySummary(article) {
 
 function articleForOutput(article) {
   const html = relativeMediaUrls(article.html);
-  return { ...article, html, bookInsertionOffset: articleBookInsertionOffset(html) };
+  return { ...article, html, bookInsertionOffsets: articleBookInsertionOffsets(html) };
 }
 
 function writeStories(directory, articles) {

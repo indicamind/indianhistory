@@ -1,8 +1,8 @@
 @if (books.length) {
-  <section class="article-books" aria-labelledby="associated-books-title">
+  <section class="article-books" [attr.aria-labelledby]="headingId">
     <p class="eyebrow">More books</p>
-    <h2 id="associated-books-title">Books for further reading</h2>
-    <div class="article-book-list">
+    <h2 [id]="headingId">Books for further reading</h2>
+    <div class="article-book-list" [class.single-book]="books.length === 1">
       @for (book of books; track book.isbn10) {
         <article class="article-book-card" [class.affiliate-pending]="devMode.isDevMode() && !book.affiliateUrl">
           <a class="article-book-cover" [href]="book.affiliateUrl || book.amazonUrl" target="_blank" [attr.rel]="book.affiliateUrl ? 'sponsored noopener' : 'noopener'" aria-hidden="true" tabindex="-1">

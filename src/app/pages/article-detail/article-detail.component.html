@@ -27,7 +27,7 @@
         <p class="eyebrow">{{ locale.translate('English preview · Translations in progress') }}</p>
       }
       <h1>{{ article()!.title }}</h1>
-      @if (!article()!.draft && article()!.viewCount !== undefined) {
+      @if (!article()!.draft && article()!.viewCount !== undefined && (devMode.isDevMode() || article()!.viewCount! >= 10)) {
         <p class="view-count">
           <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" aria-hidden="true" focusable="false">
             <path d="M2 12s3.5-7 10-7 10 7 10 7-3.5 7-10 7S2 12 2 12Z" />

@@ -26,7 +26,7 @@ export class BlogDetailComponent implements OnInit {
   private readonly pageViews = inject(PageViewService);
   private readonly sanitizer = inject(DomSanitizer);
   private readonly recommendations = inject(BookRecommendationsService);
-  private readonly devMode = inject(DevModeService);
+  readonly devMode = inject(DevModeService);
   readonly locale = inject(LocaleService);
   private requestId = 0;
   private lastCountedSlug: string | null = null;

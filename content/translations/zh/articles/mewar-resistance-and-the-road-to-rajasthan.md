@@ -5,7 +5,7 @@ excerpt: 一位苏丹被击败，一场胜利刻入石中，一个王国从浩�
 publishedAt: 2026-10-24T00:00:00.000Z
 updatedAt: 2026-10-24T00:00:00.000Z
 period: medieval
-polity: rajputs
+polity: mewar
 personalities: [rana-kumbha, rana-sanga, udai-singh-ii, maharana-pratap, jaimal, patta, amar-singh-i, raj-singh-i, akbar]
 tags:
   - 梅瓦尔

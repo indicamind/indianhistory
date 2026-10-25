@@ -28,8 +28,9 @@ export class PeriodDetailComponent implements OnInit {
   readonly theme = signal<Theme | null>(null);
   readonly personality = signal<Personality | null>(null);
   readonly parent = signal<Period | null>(null);
-  readonly children = signal<Period[]>([]);
-  readonly visibleChildren = computed(() => this.children().filter(child => this.periodsService.isVisiblePeriod(child.slug)));
+  readonly children = signal<(Period | Polity)[]>([]);
+  readonly visibleChildren = computed(() => this.children().filter(child => this.isPolity()
+    ? this.periodsService.isVisiblePolity(child.slug) : this.periodsService.isVisiblePeriod(child.slug)));
   readonly articles = signal<ArticleSummary[]>([]);
   readonly childCounts = signal<Record<string, number>>({});
   readonly loading = signal(true);
@@ -79,6 +80,8 @@ export class PeriodDetailComponent implements OnInit {
     this.polity.set(null);
     this.theme.set(null);
     this.personality.set(null);
+    this.children.set([]);
+    this.childCounts.set({});
 
     await this.articlesService.whenReady();
 
@@ -118,15 +121,23 @@ export class PeriodDetailComponent implements OnInit {
         this.polity.set(pol);
         this.isPolity.set(true);
         this.isTheme.set(false);
-        this.children.set([]); // polities are leaves for now
+        const children = this.periodsService.getPolityChildren(slug);
+        this.children.set(children);
 
         const arts = await this.periodsService.getArticlesForPolity(slug);
         this.articles.set(arts);
-        this.childCounts.set({});
+        const counts = await Promise.all(children.map(async child =>
+          [child.slug, await this.periodsService.getArticleCountForPolity(child.slug)] as const));
+        this.childCounts.set(Object.fromEntries(counts));
 
         // Context-aware up-navigation: back to the correct section on the home page
         // (not a broad period view, and not always the old combined "Empires & Kingdoms").
-        if (pol.kind === 'empire') {
+        const parent = this.periodsService.getPolityParent(slug);
+        if (parent) {
+          this.backRoute.set(['/polity', parent.slug]);
+          this.backFragment.set(undefined);
+          this.backText.set(`${this.locale.translate('← Back to')} ${parent.name}`);
+        } else if (pol.kind === 'empire') {
           this.backRoute.set(['/']);
           this.backFragment.set('empires');
           this.backText.set(this.locale.translate('← Back to Empires'));

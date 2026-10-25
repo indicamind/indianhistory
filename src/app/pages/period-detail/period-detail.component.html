@@ -18,21 +18,21 @@
 
   <header class="period-header card">
     <p class="eyebrow">
-      {{ locale.translate(isPol ? (polity()!.kind === 'empire' ? 'Empire' : 'Kingdom') : isTh ? 'Theme' : isPerson ? 'Personality' : 'Period') }}
+      {{ locale.translate(isPol ? (children().length ? 'Kingdoms' : polity()!.kind === 'empire' ? 'Empire' : 'Kingdom') : isTh ? 'Theme' : isPerson ? 'Personality' : 'Period') }}
     </p>
     <h1>{{ ent.name }}</h1>
     <p class="period-range">{{ ent.range }}</p>
-    <p class="period-count">{{ locale.format(!isPol && !isTh && !isPerson && visibleChildren().length ? '{count} articles across this {kind} and its sub-periods' : '{count} articles across this {kind}', { count: articles().length, kind: kindLabel() }) }}</p>
+    <p class="period-count">{{ locale.format(isPol && children().length ? '{count} articles across these kingdoms' : !isPol && !isTh && !isPerson && visibleChildren().length ? '{count} articles across this {kind} and its sub-periods' : '{count} articles across this {kind}', { count: articles().length, kind: kindLabel() }) }}</p>
 
     <p class="period-lede">{{ ent.description }}</p>
   </header>
 
-  @if (!isPol && !isTh && !isPerson && visibleChildren().length) {
+  @if (!isTh && !isPerson && visibleChildren().length) {
     <section class="sub-periods">
-      <h2>Explore sub-periods &amp; topics</h2>
+      <h2>{{ locale.translate(isPol ? 'Explore kingdoms' : 'Explore sub-periods & topics') }}</h2>
       <div class="sub-grid">
         @for (child of visibleChildren(); track child.slug) {
-          <a class="card sub-card" [routerLink]="['/period', child.slug]">
+          <a class="card sub-card" [routerLink]="[isPol ? '/polity' : '/period', child.slug]">
             <div class="sub-head">
               <h3>{{ child.name }}</h3>
               <span class="sub-range">{{ child.range }}</span>

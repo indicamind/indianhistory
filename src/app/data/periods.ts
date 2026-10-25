@@ -346,6 +346,7 @@ export interface Polity {
   description: string;
   kind: PolityKind;
   period: string; // maps to a broad period slug for cross-referencing
+  parent?: string; // optional parent polity grouping
 }
 
 export const polities: Polity[] = [
@@ -453,9 +454,79 @@ export const polities: Polity[] = [
     name: 'Rajputs',
     range: 'Medieval to modern India',
     shortDescription: 'Rajput-ruled states, including Mewar, and their forts, courts, alliances, and resistance.',
-    description: "Rajputs ruled several distinct kingdoms rather than a single unified state. Explore Mewar's history of fort building, warfare, political accommodation, and integration into modern Rajasthan.",
+    description: 'Explore the distinct histories of Rajput-ruled kingdoms, their forts, courts, dynasties, and changing relationships with neighbouring powers.',
     kind: 'regional-kingdom',
     period: 'medieval'
+  },
+  {
+    slug: 'mewar',
+    name: 'Mewar',
+    range: 'Medieval to modern India',
+    shortDescription: 'The Sisodia kingdom of Chittor and Udaipur, associated with Rana Kumbha and Maharana Pratap.',
+    description: 'Explore Mewar through the forts of Chittor and Kumbhalgarh, the court at Udaipur, resistance, political settlements, and integration into Rajasthan.',
+    kind: 'regional-kingdom',
+    period: 'medieval',
+    parent: 'rajputs'
+  },
+  {
+    slug: 'marwar',
+    name: 'Marwar (Jodhpur)',
+    range: 'Medieval to modern India',
+    shortDescription: 'The Rathore kingdom centred on Jodhpur and the stronghold of Mehrangarh.',
+    description: 'Explore Marwar through its Rathore rulers, the city of Jodhpur, Mehrangarh Fort, and changing relationships with neighbouring states and empires.',
+    kind: 'regional-kingdom',
+    period: 'medieval',
+    parent: 'rajputs'
+  },
+  {
+    slug: 'amber-jaipur',
+    name: 'Amber–Jaipur',
+    range: 'Medieval to modern India',
+    shortDescription: 'The Kachwaha kingdom with successive capitals at Amber and Jaipur.',
+    description: 'Explore the Kachwaha state through Amber Fort, the planned city of Jaipur, royal patronage, diplomacy, and service at the Mughal court.',
+    kind: 'regional-kingdom',
+    period: 'medieval',
+    parent: 'rajputs'
+  },
+  {
+    slug: 'bikaner',
+    name: 'Bikaner',
+    range: 'Medieval to modern India',
+    shortDescription: 'A Rathore kingdom of northern Rajasthan, associated with Rao Bika and Junagarh Fort.',
+    description: 'Explore Bikaner through its Rathore dynasty, desert setting, Junagarh Fort, courtly culture, and relationships with larger imperial powers.',
+    kind: 'regional-kingdom',
+    period: 'medieval',
+    parent: 'rajputs'
+  },
+  {
+    slug: 'jaisalmer',
+    name: 'Jaisalmer',
+    range: 'Medieval to modern India',
+    shortDescription: 'The Bhati kingdom of the Thar Desert, known for its hilltop fort and trading connections.',
+    description: 'Explore Jaisalmer through its Bhati rulers, fortified city, desert trade routes, temples, and relationships with neighbouring powers.',
+    kind: 'regional-kingdom',
+    period: 'medieval',
+    parent: 'rajputs'
+  },
+  {
+    slug: 'bundi',
+    name: 'Bundi',
+    range: 'Medieval to modern India',
+    shortDescription: 'A Hada Rajput kingdom of Hadoti, known for its forts, palaces, stepwells, and painting.',
+    description: 'Explore Bundi through its Hada rulers, Taragarh Fort, palace architecture, water structures, painting traditions, and changing political alliances.',
+    kind: 'regional-kingdom',
+    period: 'medieval',
+    parent: 'rajputs'
+  },
+  {
+    slug: 'kota',
+    name: 'Kota',
+    range: 'Early modern to modern India',
+    shortDescription: 'A Hada Rajput state that emerged from Bundi in the seventeenth century.',
+    description: 'Explore Kota through its Hada rulers, the Chambal valley, palace collections, painting traditions, and its history as a distinct state after separation from Bundi.',
+    kind: 'regional-kingdom',
+    period: 'medieval',
+    parent: 'rajputs'
   },
   {
     slug: 'hoysala',

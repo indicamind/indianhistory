@@ -82,6 +82,21 @@ describe('Periods Data and Helpers', () => {
     }
   });
 
+  it('keeps polity parent links valid and acyclic', () => {
+    expect(new Set(polities.map(polity => polity.slug)).size).toBe(polities.length);
+    for (const polity of polities) {
+      const seen = new Set([polity.slug]);
+      let parent = polity.parent;
+      while (parent) {
+        expect(seen.has(parent)).toBeFalsy();
+        seen.add(parent);
+        const ancestor = polities.find(item => item.slug === parent);
+        expect(ancestor).toBeDefined();
+        parent = ancestor?.parent;
+      }
+    }
+  });
+
   it('should validate all personalities have required fields', () => {
     expect(personalities.length).toBeGreaterThan(0);
     for (const person of personalities) {

@@ -7,11 +7,12 @@ import { LocaleService } from '../../i18n/locale.service';
 
 describe('PeriodDetailComponent', () => {
   let component: PeriodDetailComponent;
+  let periodsMock: any;
 
   beforeEach(() => {
     const mockRoute = {
       paramMap: { pipe: () => ({ subscribe: () => {} }) },
-      snapshot: { url: [] },
+      snapshot: { url: [], queryParamMap: { get: () => null } },
     };
     const mockPeriodsService = {
       getBySlug: () => null,
@@ -23,7 +24,12 @@ describe('PeriodDetailComponent', () => {
       getArticlesForPolity: async () => [],
       getArticlesForTheme: async () => [],
       getArticlesForPersonality: async () => [],
+      getPolityChildren: () => [],
+      getPolityParent: () => undefined,
+      isVisiblePolity: () => true,
+      isVisiblePeriod: () => true,
     };
+    periodsMock = mockPeriodsService;
     const mockArticlesService = {
       whenReady: async () => {},
     };
@@ -95,5 +101,31 @@ describe('PeriodDetailComponent', () => {
     component.isTheme.set(false);
     component.isPersonality.set(true);
     expect(component.kindLabel()).toBe('personality');
+  });
+
+  it('loads child kingdoms with counts and filters their visibility', async () => {
+    const base = { range: '', description: '', shortDescription: '', kind: 'regional-kingdom', period: 'medieval' };
+    periodsMock.getPolityBySlug = () => ({ ...base, slug: 'rajputs', name: 'Rajputs' });
+    periodsMock.getPolityChildren = () => [
+      { ...base, slug: 'mewar', name: 'Mewar' }, { ...base, slug: 'marwar', name: 'Marwar' },
+    ];
+    periodsMock.getArticleCountForPolity = async (slug: string) => slug === 'mewar' ? 1 : 0;
+    periodsMock.isVisiblePolity = (slug: string) => slug !== 'marwar';
+    await (component as any).loadPeriod('rajputs');
+    expect(component.children().length).toBe(2);
+    expect(component.visibleChildren().map(child => child.slug)).toEqual(['mewar']);
+    expect(component.childCounts()).toEqual({ mewar: 1, marwar: 0 });
+  });
+
+  it('returns from an individual kingdom to its parent and resets children when navigating', async () => {
+    const base = { range: '', description: '', shortDescription: '', kind: 'regional-kingdom', period: 'medieval' };
+    const mewar = { ...base, slug: 'mewar', name: 'Mewar', parent: 'rajputs' };
+    periodsMock.getPolityBySlug = () => mewar;
+    periodsMock.getPolityParent = () => ({ ...base, slug: 'rajputs', name: 'Rajputs' });
+    component.children.set([mewar as any]);
+    await (component as any).loadPeriod('mewar');
+    expect(component.backRoute()).toEqual(['/polity', 'rajputs']);
+    expect(component.backText()).toBe('← Back to Rajputs');
+    expect(component.children().length).toBe(0);
   });
 });

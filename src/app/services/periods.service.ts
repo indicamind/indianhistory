@@ -138,7 +138,16 @@ export class PeriodsService {
 
   /** Regional kingdoms, sultanates, and successor states */
   getRegionalKingdoms(): Polity[] {
-    return this.localizedPolities.filter((p) => p.kind === 'regional-kingdom');
+    return this.localizedPolities.filter((p) => p.kind === 'regional-kingdom' && !p.parent);
+  }
+
+  getPolityChildren(slug: string): Polity[] {
+    return this.localizedPolities.filter(polity => polity.parent === slug);
+  }
+
+  getPolityParent(slug: string): Polity | undefined {
+    const parent = this.getPolityBySlug(slug)?.parent;
+    return parent ? this.getPolityBySlug(parent) : undefined;
   }
 
   /** Find a polity by slug */
@@ -167,7 +176,7 @@ export class PeriodsService {
   }
 
   /**
-   * Return articles whose `polity` field matches this slug.
+   * Return articles for this polity and its descendants.
    */
   async getArticlesForPolity(slug: string): Promise<ArticleSummary[]> {
     await this.articlesService.whenReady();
@@ -183,11 +192,19 @@ export class PeriodsService {
     const polity = this.getPolityBySlug(slug);
     if (!polity) return [];
 
+    const allowed = new Set<string>();
+    const include = (slug: string) => {
+      if (allowed.has(slug)) return;
+      allowed.add(slug);
+      this.getPolityChildren(slug).forEach(child => include(child.slug));
+    };
+    include(slug);
+
     return this.sortArticlesForListing(all.filter((a) => {
-      if (a.polity) return a.polity === slug;
+      if (a.polity) return allowed.has(a.polity);
       // Match only the named polity for older stories without polity metadata.
       const lowerTags = a.tags.map((t) => t.toLowerCase());
-      return lowerTags.includes(slug) || (slug === 'maurya' && lowerTags.includes('mauryan'));
+      return [...allowed].some(slug => lowerTags.includes(slug)) || (slug === 'maurya' && lowerTags.includes('mauryan'));
     }));
   }
 

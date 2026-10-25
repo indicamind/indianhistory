@@ -68,6 +68,41 @@ describe('PeriodsService', () => {
     expect(maurya?.kind).toBe('empire');
   });
 
+  it('groups individual Rajput kingdoms under their parent without duplicating homepage entries', () => {
+    expect(service.getPolityChildren('rajputs').map(item => item.slug)).toEqual([
+      'mewar', 'marwar', 'amber-jaipur', 'bikaner', 'jaisalmer', 'bundi', 'kota',
+    ]);
+    expect(service.getPolityParent('mewar')?.slug).toBe('rajputs');
+    expect(service.getPolityParent('rajputs')).toBeUndefined();
+    expect(service.getRegionalKingdoms().some(item => item.slug === 'rajputs')).toBeTruthy();
+    expect(service.getRegionalKingdoms().some(item => item.slug === 'mewar')).toBeFalsy();
+    expect(service.getPolities().some(item => item.slug === 'mewar')).toBeTruthy();
+  });
+
+  it('aggregates descendant articles in the Rajputs list while keeping sibling kingdoms separate', async () => {
+    articles = [
+      { slug: 'mewar-story', polity: 'mewar', tags: [] },
+      { slug: 'marwar-story', polity: 'marwar', tags: [] },
+      { slug: 'rajput-overview', polity: 'rajputs', tags: [] },
+      { slug: 'unrelated-story', polity: 'ahom', tags: [] },
+    ];
+    expect((await service.getArticlesForPolity('mewar')).map(article => article.slug)).toEqual(['mewar-story']);
+    expect((await service.getArticlesForPolity('marwar')).map(article => article.slug)).toEqual(['marwar-story']);
+    expect(await service.getArticleCountForPolity('rajputs')).toBe(3);
+    expect((await service.getArticlesForPolity('rajputs')).some(article => article.slug === 'unrelated-story')).toBeFalsy();
+  });
+
+  it('hides empty kingdoms from public navigation and search, and reveals them in dev mode', async () => {
+    articles = [{ slug: 'mewar-story', polity: 'mewar', tags: [], themes: [], personalities: [] }];
+    expect(service.isVisiblePolity('rajputs')).toBeTruthy();
+    expect(service.isVisiblePolity('mewar')).toBeTruthy();
+    expect(service.isVisiblePolity('marwar')).toBeFalsy();
+    expect((await service.searchAll('Marwar')).some(result => result.slug === 'marwar')).toBeFalsy();
+    isDevMode.set(true);
+    expect(service.isVisiblePolity('marwar')).toBeTruthy();
+    expect((await service.searchAll('Marwar')).some(result => result.slug === 'marwar')).toBeTruthy();
+  });
+
   it('should retrieve themes and personalities', () => {
     const themes = service.getThemes();
     expect(themes.length).toBeGreaterThan(0);

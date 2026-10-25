@@ -81,6 +81,7 @@
 
 .sub-head {
   display: flex;
+  flex-wrap: wrap;
   align-items: baseline;
   justify-content: space-between;
   gap: 0.5rem;
@@ -97,7 +98,6 @@
 .sub-range {
   font-size: 0.72rem;
   color: var(--accent);
-  white-space: nowrap;
   font-weight: 600;
 }
 

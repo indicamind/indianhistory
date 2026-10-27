@@ -1,0 +1,59 @@
+---
+title: "ପୃଥକ୍ ଶିଳାଲେଖ II: ସୀମାନ୍ତବାସୀଙ୍କ ବିଶ୍ୱାସ"
+slug: ashoka-separate-rock-edict-2
+excerpt: "ଅଶୋକ କଳିଙ୍ଗର ଅଧିକାରୀମାନଙ୍କୁ ସୀମା ଆରପାରିର ଅବିଜିତ ଲୋକମାନଙ୍କୁ ଆଶ୍ୱସ୍ତ କରିବାକୁ ଏବଂ ଧୈର୍ଯ୍ୟର ସହିତ ଶାସନ କରିବାକୁ ନିର୍ଦ୍ଦେଶ ଦିଅନ୍ତି।"
+publishedAt: 2026-10-16T00:00:00.000Z
+updatedAt: 2026-10-16T00:00:00.000Z
+period: mauryan
+polity: maurya
+personalities: [ashoka]
+relatedTo: ashoka-edicts
+tags: ["ଅଶୋକ","ଶିଳାଲେଖ","ପୃଥକ୍ ଶିଳାଲେଖ"]
+themes: []
+books: ["0349122385","935699322X","0143330802"]
+sourceHash: 074108640470a9f296668e9fc9d0a95fa851f23c70333689cead65fb7b63d70a
+---
+
+## ଏହି ଅନୁଶାସନ ବିଷୟରେ
+
+ଦ୍ୱିତୀୟ ପୃଥକ୍ ଶିଳାଲେଖ ଏପର୍ଯ୍ୟନ୍ତ ଅବିଜିତ ଥିବା ସୀମାନ୍ତ ପଡ଼ୋଶୀମାନଙ୍କ ବିଶ୍ୱାସ ଅର୍ଜନ କରିବା ଉପରେ ଗୁରୁତ୍ୱ ଦିଏ। ରାଜା ନିଜକୁ ପ୍ରଜାମାନଙ୍କ ପିତା ବୋଲି ଘୋଷଣା କରନ୍ତି; ତେବେ ଏହି ବକ୍ତବ୍ୟକୁ ବିଶ୍ୱାସଯୋଗ୍ୟ କରିବା ପାଇଁ ସେ ଅଧିକାରୀମାନଙ୍କ ଉପରେ ନିର୍ଭର କରନ୍ତି।
+
+## ମୂଳ ଲିପି
+
+<figure class="article-figure inscription-plate">
+  <img src="/assets/media/images/ashoka-plate-1405671324.jpg" alt="ହୁଲ୍ଟଶଙ୍କ ୧୯୨୫ ସଂସ୍କରଣରେ ଧଉଳିର ବ୍ରାହ୍ମୀ ଅଭିଲେଖର ପ୍ରତିଲିପି" loading="lazy" decoding="async" />
+  <figcaption>ଧଉଳିର ଅଭିଲେଖ ପ୍ରତିଲିପି। ଇ. ହୁଲ୍ଟଶ, <em>Inscriptions of Asoka</em> (1925), ସାର୍ବଜନୀନ ଡୋମେନ୍।</figcaption>
+</figure>
+
+## ରୋମାନ ଲିପ୍ୟନ୍ତରଣ
+
+ନିମ୍ନଲିଖିତ ପାଠ ହୁଲ୍ଟଶଙ୍କ ସଂସ୍କରଣରେ ଧଉଳିର ପାଠକୁ ଅନୁସରଣ କରେ। ବର୍ଗ ବନ୍ଧନୀ ପୁନଃସ୍ଥାପିତ ବା ଅନିଶ୍ଚିତ ଅକ୍ଷର ଦର୍ଶାଏ; ବିନ୍ଦୁଗୁଡ଼ିକ କ୍ଷତିଗ୍ରସ୍ତ ବା ଲୁପ୍ତ ପାଠକୁ ସୂଚାଏ। ଅନ୍ୟ ପ୍ରତିଲିପିଗୁଡ଼ିକରେ ପାଠ ଭିନ୍ନ ହୋଇପାରେ।
+
+<p class="inscription-transliteration" lang="pra-Latn">(A) 1 Devānaṃpiyas[a] vacanena Tosaliyaṃ kumāle mahāmātā ca vataviya (B) aṃ kichi dakhām[i] h[akaṃ taṃ i] .......... 2 duvālate ca ālabhehaṃ (C) esa ca me mokhya-mata duvālā etasi aṭhasi aṃ tuphe[s]u .......... mama (D) ... (E) 3 ath[a] pajāye ichāmi hakaṃ ki[ṃ]ti savena hi[ta-sukhe]na hidalokikapālalokikāye yujevū ti h[e]v[aṃ] .......... (F) 4 siyā aṃtānaṃ avijitānaṃ ki-cha[ṃde] su lāja [aphesu] .. (G) ..... m[a]va icha mama aṃtesu ... i [p]ā[p]unevu te iti Devānaṃp[iy] ....... [anu]v[i]g[ina] mamāye 5 huvevū ti asvasevu ca sukhaṃmeva lahevu mamat[e] no dukha[ṃ] h[e]va[ṃ] … un[e]vū iti khamisati ne Devānaṃpiye [aph]ākā ti e cakiye khamitave mama nimitaṃ [va] ca dhaṃmaṃ calevū 6 hidaloka palaloka[ṃ] ca āladhayevū (H) etasi aṭhasi haka[ṃ] anusāsāmi tuphe ana[n]e [e]takena hakaṃ anusāsitu chaṃdaṃ cā veditu ā [hi] dhi[t]i paṭiṃñā ca mamā 7 [ajalā (I) s[e] hevaṃ kaṭu kaṃme cal[i]t[a]v[i]ye asv[āsa] ..... i [ca] tāni ena pāpunevū iti atha pitā tatha Devānaṃpiy[e] aphāka athā ca atānaṃ hevaṃ Devānaṃpiye [a]nukaṃpati aphe 8 athā ca pajā hevaṃ may[e] D[e]vānaṃpiyasa (J) se hakaṃ anusāsitu [cha]ṃda[m] c[a veditu tu]phāk[a] desāvutike hosāmi etāye aṭhāye (K) paṭibalā hi tuph[e] asvāsanāye hita-sukhāye ca [tesa] 9 hidalokika-pālalo[ki]kāye (L) hevaṃ ca kalaṃtam tuphe svagam ālādha[yi]satha mama c[a] ānaniyam ehatha (M) etāye ca aṭhāye iyaṃ lipi likhitā hida e[na ma]hāmātā svasata[ṃ sa]ma 10 yujisaṃti as[vā]s[a]nāye dhaṃma-cala[n]āye ca tes[a] aṃtānaṃ (N) iyaṃ ca lipi [anu]cātuṃmāsaṃ tisena nakhatena sotaviyā (O) kāmaṃ cu [kha]ṇas[i] khanasi aṃtalā pi tisena ekena [p]i 11 [so]taviya (P) hevaṃ kala[ṃ]taṃ [t]uphe caghatha saṃpaṭipādayitave</p>
+
+## ଓଡ଼ିଆ ଅନୁବାଦ
+
+ଏହି ଓଡ଼ିଆ ଅନୁବାଦଟି ନିମ୍ନରେ ଉଦ୍ଧୃତ ସଂସ୍କରଣର ଇଂରାଜୀ ଅନୁବାଦ ଆଧାରରେ ପ୍ରସ୍ତୁତ କରାଯାଇଛି। କ୍ଷତିଗ୍ରସ୍ତ ତଥା ଅନିଶ୍ଚିତ ଅଂଶଗୁଡ଼ିକ ସେହି ଐତିହାସିକ ସଂସ୍କରଣ ଅନୁସାରେ ଚିହ୍ନିତ।
+
+> (A) ଦେବାନଂପ୍ରିୟଙ୍କ ଆଦେଶ ଅନୁସାରେ ତୋଷଳୀର ରାଜକୁମାର ଶାସକ ଏବଂ ମହାମାତ୍ରମାନଙ୍କୁ ଏହିପରି କୁହାଯାଉ।
+> (B) ଯାହା ମୁଁ ଉଚିତ ବୋଲି ବୁଝେ, ତାହା .......... ଏବଂ ବିଭିନ୍ନ ଉପାୟରେ ପୂରଣ କରିବାକୁ ଚାହେଁ।
+> (C) ଏହି ଲକ୍ଷ୍ୟର ମୁଖ୍ୟ ସାଧନ ଭାବରେ ମୁଁ .......... ତୁମମାନଙ୍କୁ ମନେକରେ।
+> (D) .......... ମୋର .....
+> (E) ନିଜ ସନ୍ତାନମାନଙ୍କ ପାଇଁ ଯେପରି ମୁଁ ଇହଲୋକ ଏବଂ ପରଲୋକରେ ପୂର୍ଣ୍ଣ କଲ୍ୟାଣ ଓ ସୁଖ କାମନା କରେ, ସେହିପରି ..........
+> (F) ସୀମା ଆରପାରିର ଏପର୍ଯ୍ୟନ୍ତ ଅବିଜିତ ଥିବା ଲୋକମାନେ ପ୍ରଶ୍ନ କରିପାରନ୍ତି: ‘ରାଜା ଆମ ବିଷୟରେ କ’ଣ ଚାହାନ୍ତି?’
+> (G) ସୀମାନ୍ତବାସୀମାନଙ୍କ ପାଇଁ ମୋର [ଏହି] ଗୋଟିଏ ଇଚ୍ଛା: ସେମାନେ ଜାଣନ୍ତୁ ଯେ ଦେବାନଂପ୍ରିୟ ..........; ସେମାନେ ମୋତେ ଭୟ ନ କରି ମୋ ଉପରେ ବିଶ୍ୱାସ ରଖନ୍ତୁ; ମୋଠାରୁ କେବଳ ସୁଖ ପାଆନ୍ତୁ, ଦୁଃଖ ନୁହେଁ; ସେମାନେ [ଜାଣନ୍ତୁ] ଯେ କ୍ଷମାଯୋଗ୍ୟ ଅପରାଧକୁ ଦେବାନଂପ୍ରିୟ କ୍ଷମା କରିବେ; ମୋ ଆହ୍ୱାନରେ ସେମାନେ ଧର୍ମ ପାଳନ କରନ୍ତୁ ଏବଂ ଇହଲୋକ ତଥା ପରଲୋକରେ ସୁଖ ଲାଭ କରନ୍ତୁ।
+> (H) ଏହି ଉଦ୍ଦେଶ୍ୟରେ ମୁଁ ତୁମମାନଙ୍କୁ ନିର୍ଦ୍ଦେଶ ଦେଉଛି, ଯାହାଦ୍ୱାରା ତୁମମାନଙ୍କୁ ଶିକ୍ଷା ଦେଇ ଏବଂ ମୋର ଅଟଳ ସଂକଳ୍ପ ଓ ପ୍ରତିଜ୍ଞା ଜଣାଇ ସେମାନଙ୍କ ପ୍ରତି ମୋର ଋଣ ପରିଶୋଧ କରିପାରିବି।
+> (I) ତେଣୁ ଏହିପରି ଆଚରଣ କରି ନିଜ କର୍ତ୍ତବ୍ୟ ପାଳନ କର ଏବଂ ସେମାନଙ୍କ ମନରେ ବିଶ୍ୱାସ ଜାଗ୍ରତ କର, ଯାହାଦ୍ୱାରା ସେମାନେ ଜାଣିପାରିବେ ଯେ ଦେବାନଂପ୍ରିୟ ସେମାନଙ୍କ ପାଇଁ ପିତା ସଦୃଶ, ସେ ନିଜ ପରି ସେମାନଙ୍କୁ ସ୍ନେହ କରନ୍ତି ଏବଂ ସେମାନେ ଦେବାନଂପ୍ରିୟଙ୍କ ପାଇଁ ତାଙ୍କ ନିଜ ସନ୍ତାନ ସଦୃଶ।
+> (J) ତୁମମାନଙ୍କୁ ନିର୍ଦ୍ଦେଶ ଦେଇ ଏବଂ ନିଜ ଇଚ୍ଛା ଜଣାଇବା ପରେ ମୁଁ ଏହି ଉଦ୍ଦେଶ୍ୟରେ ସମସ୍ତ ପ୍ରଦେଶରେ ଅଧିକାରୀ ନିଯୁକ୍ତ କରିବି।
+> (K) କାରଣ ତୁମେମାନେ ସେହି ସୀମାନ୍ତବାସୀମାନଙ୍କ ମନରେ ବିଶ୍ୱାସ ଜନ୍ମାଇବାକୁ ଏବଂ ଇହଲୋକ ତଥା ପରଲୋକରେ ସେମାନଙ୍କ କଲ୍ୟାଣ ଓ ସୁଖ ସୁନିଶ୍ଚିତ କରିବାକୁ ସମର୍ଥ।
+> (L) ଏହିପରି କାର୍ଯ୍ୟ କଲେ ତୁମେମାନେ ସ୍ୱର୍ଗଲାଭ କରିବ ଏବଂ ମୋ ପ୍ରତି ଥିବା ନିଜର ଋଣ ପରିଶୋଧ କରିବ।
+> (M) ଏବଂ ଏହି ଉଦ୍ଦେଶ୍ୟରେ ଏଠାରେ ଏହି ଆଦେଶ ଲେଖାଯାଇଛି, ଯେପରି ମହାମାତ୍ରମାନେ ସର୍ବଦା ସୀମାନ୍ତବାସୀଙ୍କ ବିଶ୍ୱାସ ଅର୍ଜନ କରିବାକୁ ଏବଂ ସେମାନଙ୍କୁ ଧର୍ମାଚରଣରେ ପ୍ରବୃତ୍ତ କରାଇବାକୁ ଯତ୍ନବାନ ରହିବେ।
+> (N) ପ୍ରତି ଚାରି ମାସରେ ତିଷ୍ୟା ନକ୍ଷତ୍ର ଦିବସରେ ସମସ୍ତଙ୍କୁ ଏହି ଆଦେଶ ଶୁଣାଇବାକୁ ହେବ।
+> (O) କିନ୍ତୁ ଇଚ୍ଛା ହେଲେ ତିଷ୍ୟା ଦିବସ ମଧ୍ୟବର୍ତ୍ତୀ ଅନ୍ୟ ସମୟରେ ମଧ୍ୟ ଜଣେ ବ୍ୟକ୍ତି ଏକାକୀ ଏହା ଶୁଣିପାରିବ।
+> (P) ଏହିପରି କାର୍ଯ୍ୟ କଲେ ତୁମେମାନେ ମୋର ଆଦେଶ ପାଳନ କରିବାକୁ ସମର୍ଥ ହେବ।
+
+## ଉତ୍ସ
+
+- E. Hultzsch, [*Inscriptions of Asoka* (1925)](https://archive.org/details/InscriptionsOfAsoka.NewEditionByE.Hultzsch), *Corpus Inscriptionum Indicarum*, ପ୍ରଥମ ଖଣ୍ଡ.
+
+- [ବିବ୍ଲିଓଥେକା ପଲିଗ୍ଲୋଟା ସଂସ୍କରଣ](https://www2.hf.uio.no/polyglotta/index.php?mid=0&page=fulltext&vid=364&view=fulltext), ଓସଲୋ ବିଶ୍ୱବିଦ୍ୟାଳୟ (ମାଗଧୀ ଲିପ୍ୟନ୍ତରଣ, ଇଂରାଜୀ ଅନୁବାଦ ଏବଂ ଅଭିଲେଖର ପ୍ରତିଲିପି).

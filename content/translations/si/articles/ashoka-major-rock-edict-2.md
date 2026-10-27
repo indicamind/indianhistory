@@ -1,0 +1,47 @@
+---
+title: "ප්‍රධාන ගිරි ලිපිය II: මිනිසුන් සහ සතුන් සඳහා වෛද්‍ය ප්‍රතිකාර"
+slug: ashoka-major-rock-edict-2
+excerpt: "රජු මිනිසුන් සහ සතුන් සඳහා ඖෂධ, ප්‍රයෝජනවත් ඖෂධ පැළෑටි, ළිං සහ මාර්ග දෙපස ගස් සිටුවීම විස්තර කරයි."
+publishedAt: 2026-10-16T00:00:00.000Z
+updatedAt: 2026-10-16T00:00:00.000Z
+period: mauryan
+polity: maurya
+personalities: [ashoka]
+relatedTo: ashoka-edicts
+tags: ["අශෝක","සෙල්ලිපි","ප්‍රධාන ගිරි ලිපි"]
+themes: []
+books: ["0349122385","935699322X","0143330802"]
+sourceHash: c346415a46cce3920cce31d0c50765a80c8e9eedda2c2934cb847732dfbc3e00
+---
+
+## මෙම රාජාඥාව පිළිබඳව
+
+මෙම ගිරි ලිපිය අශෝකගේ සුබසාධන ප්‍රතිපත්තිය තම රාජ්‍යයෙන් ඔබ්බට දකුණු ඉන්දියාවේ සහ ග්‍රීක රජවරුන්ගේ දේශසීමා දක්වා විහිදී ගිය ආකාරය සනිටුහන් කරයි.
+
+## මුල් ලිපිය
+
+<figure class="article-figure inscription-plate">
+  <img src="/assets/media/images/ashoka-plate-1405441576.jpg" alt="හුල්ට්ෂ්ගේ 1925 සංස්කරණයේ ගිර්නාර් බ්‍රාහ්මී සෙල්ලිපි පිටපත" loading="lazy" decoding="async" />
+  <figcaption>ගිර්නාර් සෙල්ලිපි පිටපත. ඊ. හුල්ට්ෂ්, <em>Inscriptions of Asoka</em> (1925), පොදු වසම.</figcaption>
+</figure>
+
+## රෝමානු අක්ෂර පරිවර්තනය
+
+පහත දැක්වෙන පාඨය හුල්ට්ෂ්ගේ සංස්කරණයේ ගිර්නාර් පාඨය අනුගමනය කරයි. කොටු වරහන් මගින් ප්‍රතිස්ථාපනය කළ හෝ අවිනිශ්චිත අකුරු සලකුණු කරයි; තිත් මගින් හානි වූ හෝ අස්ථානගත වූ පාඨය දක්වයි. වෙනත් ඉතිරිව ඇති පිටපත් වෙනස් විය හැකිය.
+
+<p class="inscription-transliteration" lang="pra-Latn">(A) 1 sarvata vijitamhi Devānaṃpriyasa Piyadasino rāño 2 evamapi pracaṃtesu yathā Coḍa Pāḍā Satiyaputo Ketalaputo ā Taṃba3paṃṇī Aṃtiyako Yona-rājā ye vā pi tasa Aṃtiy[a]kas[a] sāmīp[aṃ] 4 rājāno sarvatra Devānaṃpriyasa Priyadasino rāño dve cikīcha katā 5 manusa-cīkichā ca pasu cikīchā ca (B) osuḍhāni ca yāni m[a]nusopagān[i] ca 6 paso[pa]gāni ca yata yata nāsti sarvatrā hārāpitāni ca ropāpitāni ca (C) 7 mūlāni ca phalāni ca yata yatra nāsti sarvata hārāpitāni ca rop[ā]pitāni ca (D) 8 paṃthesū kūpā ca khānāpitā vrachā ca ropāpit[ā] paribhogāya pasumanusānaṃ</p>
+
+## සිංහල පරිවර්තනය
+
+මෙම සිංහල පරිවර්තනය පහත සඳහන් සංස්කරණයේ ඉංග්‍රීසි පරිවර්තනය මත පදනම් වේ. ඓතිහාසික සංස්කරණයට අනුකූලව හානි වූ සහ අවිනිශ්චිත කොටස් සලකුණු කර ඇත.
+
+> (A) දේවානම්ප්‍රිය ප්‍රියදර්ශී රජුගේ මුළු රාජ්‍යයෙහි ද, චෝල, පාණ්ඩ්‍ය, සතියපුත්‍ර, කේරළපුත්‍ර, තාම්බ්‍රපර්ණී (ලංකාව) දක්වා වූ දේශසීමා වැසියන් අතර ද, ග්‍රීක රජු වූ අන්තියෝකස් සහ එම අන්තියෝකස්ගේ අසල්වැසි රජවරුන්ගේ රාජ්‍යයන්හි ද—සෑම තැනකම දේවානම්ප්‍රිය ප්‍රියදර්ශී රජු විසින් දෙයාකාරයක ප්‍රතිකාර සලසන ලදී: මිනිසුන් සඳහා ප්‍රතිකාර සහ සතුන් සඳහා ප්‍රතිකාර.
+> (B) මිනිසුන්ට සහ සතුන්ට ප්‍රයෝජනවත් ඖෂධීය පැළෑටි නොමැති සෑම තැනකම, ඒවා පිටතින් ගෙන්වා රෝපණය කරවන ලදී.
+> (C) අල සහ පලතුරු නොමැති තැන්වල ද, ඒවා පිටතින් ගෙන්වා රෝපණය කරවන ලදී.
+> (D) මිනිසුන්ගේ සහ සතුන්ගේ ප්‍රයෝජනය පිණිස මාර්ග දෙපස ළිං හාරවන ලද අතර ගස් රෝපණය කරවන ලදී.
+
+## මූලාශ්‍ර
+
+- E. Hultzsch, [*Inscriptions of Asoka* (1925)](https://archive.org/details/InscriptionsOfAsoka.NewEditionByE.Hultzsch), *Corpus Inscriptionum Indicarum*, පළමුවන වෙළුම.
+
+- [බිබ්ලියොතෙකා පොලිග්ලොටා සංස්කරණය](https://www2.hf.uio.no/polyglotta/index.php?mid=0&page=fulltext&vid=362&view=fulltext), ඔස්ලෝ විශ්වවිද්‍යාලය (මාගධී අක්ෂර පරිවර්තනය, ඉංග්‍රීසි පරිවර්තනය සහ සෙල්ලිපි පිටපත්).

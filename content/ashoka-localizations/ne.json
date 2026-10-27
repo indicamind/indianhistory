@@ -1,0 +1,69 @@
+{
+  "common": {
+    "About this edict": "यस शिलादेशको बारेमा",
+    "About this inscription": "यस अभिलेखको बारेमा",
+    "Original script": "मूल लिपि",
+    "Original scripts": "मूल लिपिहरू",
+    "Roman transliteration": "रोमन लिप्यन्तरण",
+    "localTranslationHeading": "नेपाली अनुवाद",
+    "English translation of the Greek": "ग्रीक पाठको नेपाली अनुवाद",
+    "English translation of the Aramaic": "अरामाईक पाठको नेपाली अनुवाद",
+    "Greek": "ग्रीक",
+    "Aramaic": "अरामाईक",
+    "Sources": "स्रोतहरू",
+    "volumeOne": "खण्ड १",
+    "polyglottaEdition": "बिब्लियोथेका पोलिग्लोटा संस्करण",
+    "universityOfOslo": "ओस्लो विश्वविद्यालय",
+    "translationBasisNote": "यो नेपाली अनुवाद तल उद्धृत संस्करणको अङ्ग्रेजी अनुवादमा आधारित छ। क्षतिग्रस्त तथा अनिश्चित अंशहरू त्यस ऐतिहासिक संस्करण अनुसार चिह्नित छन्।",
+    "sourceNote": "मागधी लिप्यन्तरण, अङ्ग्रेजी अनुवाद र अभिलेखका प्रतिकृतिहरू",
+    "siteNames": {
+      "Bairat": "बैराट",
+      "Lumbini": "लुम्बिनी",
+      "Delhi–Topra": "दिल्ली–टोपरा",
+      "Girnar": "गिरनार",
+      "Kalsi": "कालसी",
+      "Rūpnāth": "रूपनाथ",
+      "Brahmagiri": "ब्रह्मगिरि",
+      "Nigali Sagar": "निगाली सागर",
+      "Allahabad–Kauśāmbī": "इलाहाबाद–कौशाम्बी",
+      "Sarnath": "सारनाथ",
+      "Dhauli": "धौली"
+    },
+    "siteAltTemplate": "हुल्त्शको १९२५ को संस्करणमा {site}को ब्राह्मी अभिलेखको प्रतिकृति",
+    "siteCaptionTemplate": "{site}को अभिलेख प्रतिकृति। ई. हुल्त्श, <em>Inscriptions of Asoka</em> (1925), सार्वजनिक डोमेन।",
+    "siteTransliterationTemplate": "तलको पाठले हुल्त्शको संस्करणमा {site}को पाठलाई पछ्याउँछ। वर्गाकार कोष्ठकले पुनर्स्थापित वा अनिश्चित अक्षरहरू देखाउँछन्; थोप्लाहरूले क्षतिग्रस्त वा हराएको पाठलाई जनाउँछन्। अन्य जीवित प्रतिहरू फरक हुन सक्छन्।",
+    "imageAltTranslations": {
+      "Brahmi facsimiles of the three Barabar cave inscriptions in Hultzsch’s 1925 edition; Karna Chaupar is third": "हुल्त्शको १९२५ को संस्करणमा बराबर गुफाका तीन ब्राह्मी अभिलेखका प्रतिकृतिहरू; कर्ण चौपड तेस्रो हो",
+      "Brahmi facsimiles of the three Barabar cave inscriptions in Hultzsch’s 1925 edition; Sudama is first": "हुल्त्शको १९२५ को संस्करणमा बराबर गुफाका तीन ब्राह्मी अभिलेखका प्रतिकृतिहरू; सुदामा पहिलो हो",
+      "Brahmi facsimiles of the three Barabar cave inscriptions in Hultzsch’s 1925 edition; Visvakarma is second": "हुल्त्शको १९२५ को संस्करणमा बराबर गुफाका तीन ब्राह्मी अभिलेखका प्रतिकृतिहरू; विश्वकर्मा दोस्रो हो"
+    },
+    "imageCaptionTranslations": {
+      "Barabar cave inscription facsimiles. E. Hultzsch, <em>Inscriptions of Asoka</em> (1925), public domain.": "बराबर गुफा अभिलेख प्रतिकृति। ई. हुल्त्श, <em>Inscriptions of Asoka</em> (1925), सार्वजनिक डोमेन।"
+    },
+    "transliterationNotes": {
+      "The text below follows Hultzsch’s edition of the Karna Chaupar inscription. Square brackets mark restored or uncertain letters; dots mark a missing passage.": "तलको पाठले हुल्त्शको कर्ण चौपड अभिलेखको संस्करणलाई पछ्याउँछ। वर्गाकार कोष्ठकले पुनर्स्थापित वा अनिश्चित अक्षरहरू र थोप्लाहरूले हराएको पाठलाई जनाउँछन्।",
+      "The text below follows Hultzsch’s edition of the Sudama inscription. Square brackets mark restored or uncertain letters.": "तलको पाठले हुल्त्शको सुदामा अभिलेखको संस्करणलाई पछ्याउँछ। वर्गाकार कोष्ठकले पुनर्स्थापित वा अनिश्चित अक्षरहरू देखाउँछन्।",
+      "The text below follows Hultzsch’s edition of the Visvakarma inscription. Square brackets mark restored or uncertain letters.": "तलको पाठले हुल्त्शको विश्वकर्मा अभिलेखको संस्करणलाई पछ्याउँछ। वर्गाकार कोष्ठकले पुनर्स्थापित वा अनिश्चित अक्षरहरू देखाउँछन्।"
+    }
+  },
+  "articles": {
+    "ashoka-major-rock-edict-1": {
+      "title": "प्रमुख शिलादेश I: पशुबलि र राजकीय भान्सा",
+      "excerpt": "अशोकले पशुबलिमा प्रतिबन्ध लगाएका छन् र राजकीय भान्सामा पशुहत्या उल्लेख्य रूपमा घटेको उल्लेख गरेका छन्।",
+      "tags": [
+        "अशोक",
+        "शिलालेख",
+        "प्रमुख शिलादेश"
+      ],
+      "about": "पहिलो प्रमुख शिलादेशले सार्वजनिक उत्सवलाई राजाको आफ्नै भान्सासँग जोड्दछ। यसले भोजनका लागि पशुहत्या घटेको विवरण दिन्छ र बाँकी हत्यालाई पनि बन्द गर्ने वाचा गर्दछ।",
+      "imageAlts": [
+        "हुल्त्शको १९२५ को संस्करणमा गिरनारको ब्राह्मी अभिलेखको प्रतिकृति"
+      ],
+      "imageCaptions": [
+        "गिरनारको अभिलेख प्रतिकृति। ई. हुल्त्श, <em>Inscriptions of Asoka</em> (1925), सार्वजनिक डोमेन।"
+      ],
+      "transliterationNote": "तलको पाठले हुल्त्शको संस्करणमा गिरनारको पाठलाई पछ्याउँछ। वर्गाकार कोष्ठकले पुनर्स्थापित वा अनिश्चित अक्षरहरू देखाउँछन्; थोप्लाहरूले क्षतिग्रस्त वा हराएको पाठलाई जनाउँछन्। अन्य उपलब्ध प्रतिहरू फरक हुन सक्छन्।",
+      "translation": "> (A) राजा देवानांप्रिय प्रियदर्शीले धर्मका विषयमा यो आदेश लेखाएका छन्।\n> (B) यहाँ कुनै पनि जीवित प्राणीलाई मारेर बलि चढाइनु हुँदैन।\n> (C) र कुनै पनि उत्सवको सभा गरिनु हुँदैन।\n> (D) किनभने राजा देवानांप्रिय प्रियदर्शीले उत्सवका सभाहरूमा धेरै दोष देख्दछन्।\n> (E) तर केही उत्सवका सभाहरू यस्ता पनि छन् जसलाई राजा देवानांप्रिय प्रियदर्शीले राम्रो मान्दछन्।\n> (F) पहिले राजा देवानांप्रिय प्रियदर्शीको भान्सामा दिनहुँ व्यञ्जन बनाउनका लागि धेरै लाख पशुहरू मारिन्थे।\n> (G) तर अहिले, जब धर्मका विषयमा यो आदेश लेखिँदैछ, दिनहुँ व्यञ्जनका लागि केवल तीनवटा पशु मात्र मारिन्छन्: दुईवटा मयूर र एउटा मृग; त्यो मृग पनि नियमित रूपमा होइन।\n> (H) भविष्यमा यी तीन पशु पनि मारिने छैनन्।"
+    }
+  }
+}

@@ -1,0 +1,55 @@
+---
+title: "प्रमुख स्तम्भादेश V: संरक्षित जीवहरू"
+slug: ashoka-major-pillar-edict-5
+excerpt: "अशोकले संरक्षित जनावर, चरा र माछाहरूको सूची जारी गर्दछन् र निश्चित दिनहरूमा पशु मार्न, डाम्ने वा बन्ध्याकरण गर्न प्रतिबन्ध लगाउँछन्।"
+publishedAt: 2026-10-16T00:00:00.000Z
+updatedAt: 2026-10-16T00:00:00.000Z
+period: mauryan
+polity: maurya
+personalities: [ashoka]
+relatedTo: ashoka-edicts
+tags: ["अशोक","शिलालेख","प्रमुख स्तम्भादेश"]
+themes: []
+books: ["0349122385","935699322X","0143330802"]
+sourceHash: 10a9de77418a6be7c5f61f15720367c565a9c596ba4b00e886d729bec7b5f867
+---
+
+## यस शिलादेशको बारेमा
+
+पाँचौं स्तम्भादेशले प्राणीहरूको संरक्षणका लागि विस्तृत नियमहरू तोक्दछ। यसले नखाइने र उपयोगी नभएका धेरै प्रजातिहरूलाई संरक्षण दिन्छ, गर्भिणी वा दूध खुवाइरहेका जनावरहरूलाई जोगाउँछ र वर्षका निश्चित दिनहरूमा माछा मार्न र पशुहरूलाई चोट पुर्याउन निषेध गर्दछ।
+
+## मूल लिपि
+
+<figure class="article-figure inscription-plate">
+  <img src="/assets/media/images/ashoka-plate-1405674217.jpg" alt="हुल्त्शको १९२५ को संस्करणमा दिल्ली–टोपराको ब्राह्मी अभिलेखको प्रतिकृति" loading="lazy" decoding="async" />
+  <figcaption>दिल्ली–टोपराको अभिलेख प्रतिकृति। ई. हुल्त्श, <em>Inscriptions of Asoka</em> (1925), सार्वजनिक डोमेन।</figcaption>
+</figure>
+
+## रोमन लिप्यन्तरण
+
+तलको पाठले हुल्त्शको संस्करणमा दिल्ली–टोपराको पाठलाई पछ्याउँछ। वर्गाकार कोष्ठकले पुनर्स्थापित वा अनिश्चित अक्षरहरू देखाउँछन्; थोप्लाहरूले क्षतिग्रस्त वा हराएको पाठलाई जनाउँछन्। अन्य जीवित प्रतिहरू फरक हुन सक्छन्।
+
+<p class="inscription-transliteration" lang="pra-Latn">South Face of Pillar (A) 1 Devānaṃpiye Piyadasi lājā hevaṃ āha (B) saḍuvīsati-vasa-2abhisitena me imāni jātāni avadhiyāni kaṭāni seyathā 3 suke sālikā alune cakavāke haṃse naṃdīmukhe gelāṭe 4 jatūkā aṃbā-kapīlikā daḷī anaṭhika-mache vedaveyake 5 Gaṃgā-pupuṭake saṃkuja-mache kaphaṭ[a]-sayake paṃna-sase simale 6 saṃḍake okapiṃḍe palasate seta-kapote gāma-kapote 7 save catupade ye paṭibhogaṃ no eti na ca khādiyatī (C) .......... i 8 [e]ḷaka cā sūkalī cā gabhinī va pāyamīnā vā avadhi[y . p . ta]ke 9 pi ca kāni āsaṃmāsike (D) vadhi-kukuṭe no kaṭaviye (E) tuse sajīve 10 no jhāpetaviye (F) dave anaṭhāye vā vihisāye vā no jhāpetaviye (G) 11 jīvena jīve no pusitaviye (H) tīsu cātuṃmāsīsu tisāyaṃ puṃnamāsiyaṃ 12 tiṃni divasāni cāvudasaṃ paṃnaḍasaṃ paṭipadāy[e] dhuvaye cā 13 anuposathaṃ mache avadhiye no pi viketaviye (I) etāni yevā divāsani 14 nāga-vanasi kevaṭa-bhogasi yāni aṃnāni pi jīva-nikāyāni 15 no haṃtaviyāni (J) aṭhamī-pakhāye cāvudasāye paṃnaḍasāye tisāye 16 punāvasune tīsu cātuṃmāsīsu sudivasāye gone no nīlakhitaviye 17 ajake eḍake sūkale e vā pi aṃne nīlakhiyati no nīlakhitaviye (K) 18 tisāye punāvasune cātuṃmāsiye cātuṃmāsi-pakhāye asvasā gonasā 19 lakhane no kaṭaviye (L) yāva-saḍuvīsati-vasa-abhisitena me etāye 20 aṃtalikāye paṃnavīsati baṃdhana-mokhāni kaṭāni</p>
+
+## नेपाली अनुवाद
+
+यो नेपाली अनुवाद तल उद्धृत संस्करणको अङ्ग्रेजी अनुवादमा आधारित छ। क्षतिग्रस्त तथा अनिश्चित अंशहरू त्यस ऐतिहासिक संस्करण अनुसार चिह्नित छन्।
+
+> (A) राजा देवानांप्रिय प्रियदर्शी यस प्रकार भन्दछन्।
+> (B) मेरो राज्याभिषेकको छब्बीस वर्षपछि मैले निम्न प्राणीहरूलाई अवध्य (मार्न नपाइने) घोषित गरें:
+> (C) सुगा, मैना, अरुण (रातो चरा), हाँस, नन्दीमुख, गेलाट, चमेरो, रानी कमिला, कछुवा, काँडेरहित माछा, वेदवेयक, गङ्गा-कुक्कुट, शङ्ख माछा, दुम्सी, लोखर्के, बाह्रसिङ्गे, साँढे, कीट-पतङ्ग, गैंडा, सेतो परेवा, गाउँले परेवा, र ती सबै चारखुट्टे जनावरहरू जो कुनै काममा आउँदैनन् र खाइँदैनन्।
+> (D) बाख्रा, भेडा र सुँगुरहरू जबसम्म गर्भिणी वा दूध दिने अवस्थामा हुन्छन्, वा उनीहरूका पाठापाठी ६ महिनाभन्दा साना हुन्छन्, उनीहरूलाई मार्न पाइँदैन।
+> (E) भाले कुखुरालाई खसी (बन्ध्याकरण) पार्न पाइँदैन।
+> (F) जीवित प्राणीहरू लुकेका भुस वा परालमा आगो लगाउन पाइँदैन।
+> (G) कुनै जीवलाई अर्को जीवको आहार बनाउनका लागि वनमा आगो लगाउन पाइँदैन।
+> (H) हरेक चातुर्मास्यका तीनवटा पूर्णिमाका दिन, तिष्य पूर्णिमाका दिन, र तीन दिनसम्म—चौधौं, पन्ध्रौं र प्रतिपदाका दिन—तथा प्रत्येक उपवास-दिवसमा माछा मार्न र बेच्न पाइँदैन।
+> (I) यिनै दिनहरूमा हात्तीको वनमा र माछा पोखरीहरूमा कुनै पनि जीव मार्न पाइँदैन।
+> (J) प्रत्येक पक्षको आठौं, चौधौं र पन्ध्रौं दिन, तिष्य र पुनर्वसुका दिनहरूमा, तीन चातुर्मास्यका दिनहरूमा र चाडपर्वहरूमा साँढे, बोका, भेडा र सुँगुरहरूलाई खसी पार्न पाइँदैन, न त अन्य कुनै जनावरलाई डाम्ने काम नै गर्न पाइन्छ।
+> (K) तिष्य, पुनर्वसु, चातुर्मास्य र चाडपर्वका दिनहरूमा घोडाहरू र साँढेहरूलाई डाम्नु हुँदैन।
+> (L) मेरो राज्याभिषेक भएको छब्बीस वर्षको अवधिमा मैले पच्चीस पटक बन्दीहरूलाई कारागारबाट मुक्त गरेको छु।
+
+## स्रोतहरू
+
+- E. Hultzsch, [*Inscriptions of Asoka* (1925)](https://archive.org/details/InscriptionsOfAsoka.NewEditionByE.Hultzsch), *Corpus Inscriptionum Indicarum*, खण्ड १.
+
+- [बिब्लियोथेका पोलिग्लोटा संस्करण](https://www2.hf.uio.no/polyglotta/index.php?mid=0&page=fulltext&vid=370&view=fulltext), ओस्लो विश्वविद्यालय (मागधी लिप्यन्तरण, अङ्ग्रेजी अनुवाद र अभिलेखका प्रतिकृतिहरू).

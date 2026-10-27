@@ -46,7 +46,7 @@ export class SearchComponent implements OnInit {
   private readonly destroyRef = inject(DestroyRef);
   private readonly searchInput$ = new Subject<string>();
 
-  query = '';
+  query = this.route.snapshot.queryParamMap.get('q') ?? '';
   readonly filters = computed(() => FILTER_OPTIONS.filter(option => this.filterHasContent(option.value)).map(option => ({
     ...option,
     label: option.value === 'book' ? this.locale.navigation.books
@@ -62,11 +62,11 @@ export class SearchComponent implements OnInit {
   readonly searched = signal(false);
 
   async ngOnInit(): Promise<void> {
+    const initialQueryFromUrl = this.route.snapshot.queryParamMap.get('q') ?? '';
     // Ensure the article index (and any future async data) is ready before first search
     await this.articles.whenReady();
     this.loading.set(false);
 
-    this.query = this.route.snapshot.queryParamMap.get('q') ?? '';
     this.activeFilter.set(this.toFilter(this.route.snapshot.queryParamMap.get('type')));
     this.applySearch();
 
@@ -82,6 +82,7 @@ export class SearchComponent implements OnInit {
         void this.updateUrl();
       });
 
+    let lastQueryFromUrl = initialQueryFromUrl;
     this.route.queryParamMap
       .pipe(takeUntilDestroyed(this.destroyRef))
       .subscribe((params) => {
@@ -90,14 +91,19 @@ export class SearchComponent implements OnInit {
         if (filterFromUrl !== this.activeFilter()) {
           this.activeFilter.set(filterFromUrl);
         }
-        if (fromUrl !== this.query) {
-          this.query = fromUrl;
-          this.applySearch();
+        // A repeated URL emission must not replace text entered since navigation.
+        if (fromUrl !== lastQueryFromUrl) {
+          lastQueryFromUrl = fromUrl;
+          if (fromUrl !== this.query) {
+            this.query = fromUrl;
+            this.applySearch();
+          }
         }
       });
   }
 
   onQueryInput(value: string): void {
+    this.query = value;
     this.searchInput$.next(value);
   }
 

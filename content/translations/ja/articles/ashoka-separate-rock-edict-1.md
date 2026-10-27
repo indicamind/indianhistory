@@ -1,0 +1,72 @@
+---
+title: "カリンガ第1別碑：裁判官への訓戒と公平な司法"
+slug: ashoka-separate-rock-edict-1
+excerpt: "アショーカ王はダウリの都市裁判官たちに対し、「すべての人は我が子である」と宣言し、無実の投獄や過酷な処罰を厳しく戒めます。"
+publishedAt: 2026-10-16T00:00:00.000Z
+updatedAt: 2026-10-16T00:00:00.000Z
+period: mauryan
+polity: maurya
+personalities: [ashoka]
+relatedTo: ashoka-edicts
+tags: ["アショーカ王","碑文","カリンガ別碑"]
+themes: []
+books: ["0349122385","935699322X","0143330802"]
+sourceHash: cf9e79e47f2f44909e082b805d1a567a418039c67c2e2d94d12906c008071803
+---
+
+## この勅令について
+
+征服されたカリンガの都市裁判官（マハーマートラ）たちに直接宛てられた勅令です。無慈悲な投獄や拷問を禁じ、「すべての人は我が子である」という有名な宣言を通じて、情念に流されない公平な司法の執行を命じています。
+
+## 原碑文字
+
+<figure class="article-figure inscription-plate">
+  <img src="/assets/media/images/ashoka-plate-1405670299.jpg" alt="フルッチュの1925年版におけるダウリブラーフミー碑文の模刻" loading="lazy" decoding="async" />
+  <figcaption>ダウリ碑文模刻。E・フルッチュ『アショーカ王碑文』（1925年）、パブリックドメイン。</figcaption>
+</figure>
+
+## ローマ字翻字
+
+以下のテキストはフルッチュ版のダウリテキストに基づきます。角括弧は復元または不確実な文字を示し、ドットは損傷または欠損したテキストを示します。現存する他の写本では異同がある場合があります。
+
+<p class="inscription-transliteration" lang="pra-Latn">(A) 1 [Devāna]ṃ[pi]y[asa vaca]nena Tosaliyaṃ ma[hā]mata [naga]la[v]i[yo]hālak[ā] 2 [va]taviya (B) [aṃ kichi dakha]mi hakam taṃ ichāmi k[i]ṃ[t]i kaṃ[mana pa]ṭi[pāda y]ehaṃ 3 duvālate ca ālabheham (C) esa ca me mokhya-mata duva[la etasi aṭha]si aṃ tuph[esu] 4 anusathi (D) tuphe hi bahūsu pāna-sahasesuṃ ā[yata] p[a]na[yaṃ ga]ch[e]ma su munisānam (E) save 5 munise pajā mama (F) ath[ā] pajāye ichāmi h[a]ka[m kiṃti sa]ve[na hi]ta-sukhena hidalo[kika]6palalokike[na] y[ūjev]ū [t]i [tathā .... muni]sesu pi [i]chāmi [ha]ka[ṃ] (G) no ca pāpunātha āv[a]-ga-7[m]u[k]e [iyaṃ aṭhe] (H) [k]e[cha] v[a] eka-puli[se] .... nāti e[ta]ṃ se pi desaṃ no savaṃ (I) de[kha]t[a hi t]u[phe] etaṃ 8 suvi[hi]tā pi (J) [n]itiyaṃ eka-pulise [pi athi] y[e] baṃdhanaṃ vā p[a]likilesaṃ vā papunati (K) tata hoti 9 akasmā tena badhana[ṃ]tik[a] aṃne ca ...... hu jane da[v]iye dukhīyati (L) tata ichitaviye 10 tuphehi kiṃti m[a]jhath paṭipādayema ti (M) imeh[i] cu [jāteh]i no saṃpaṭipajati isāya āsulopena 11 ni[ṭhū]liyena tūlanā[ya] anāvūtiya ālasiyena k[i]lamathena (N) se ichitaviye kitiṃ ete 12 [jātā no] huvevu ma[m]ā ti (O) etasa ca sava[sa] mūle anāsulope a[tū]l[a]nā ca (P) niti[ya]ṃ e kilaṃte siyā 13 [na] te uga[cha] saṃcalitaviy[e] tu va[ṭ]ita[v]iy[e] etaviye vā (Q) hevaṃmeva e da[kheya] t[u]phāk[a] tena vataviye 14 ānaṃne dekhata hevaṃ ca hev[a]ṃ ca [D]evānaṃpiyasa anusathi (R) se mah[a-pha]le [e] t[a]sa [saṃpa]tipada 15 mahā-apāye asaṃpaṭipati (S) [vi]pat[i]pādayamīne hi etaṃ nathi svagasa [ā]l[a]dhi no lāj[ā]la[dh]i (T) 16 duā[ha]le hi i[ma]sa kaṃm[asa] m[e] kute man[o]-atileke (U) sa[ṃ]paṭipajam[ī]n[e] cu [etaṃ] svaga[ṃ] 17 ālādha[yi]sa[tha mama ca ā]naniyaṃ ehatha (V) 18 iyaṃ ca l[i]p[i] t[i]sana[kha]tena so[ta]viy[ā] (W) aṃta[l]ā [p]i ca [t]ī[s]e[na kha]nasi kha[nas]i ekena pi sotaviya (X) hevaṃ ca kalaṃtaṃ tuphe 19 caghatha saṃpa[ṭi]pād[a]y[i]tave (Y) [e]t[a]ye athāye 13 iya[ṃ l]i[p]i likhit[a h]ida ena 20 nagala-vi[y]o[hā]lakā sas[v]ataṃ samayaṃ yūjevū t[i] ...... [na]sa akasmā [pa]libodhe va 21 (a) k(a) smā paliki[l]e[s]e va no siya ti (Z) etāye ca aṭhāye haka[ṃ] .... mate p[a]ṃcasu paṃcasu [va]se22su [n]i[khā]may[i]sāmi e akhakhase a[caṃ]ḍ[e] s[a]khinālaṃbhe hosati etaṃ aṭhaṃ jānitu . . . . . . [ta]thā 23 kala[ṃ]ti atha mama anusathī ti (AA) Ujenite pi cu kumāle etāye v[a] aṭhāye [ni]khāma[yisa] . . . . . . 24 hedisameva vagaṃ no ca atikāmayisati tiṃni vasāni (BB) hemeva T[a]kha[s]ilāte pi (CC) [a]dā ...... 25 te mahāmātā nikhamisaṃti anusayānaṃ tadā ahāpayitu atane kaṃmaṃ etaṃ pi jānisaṃti 26 taṃ pi ta[th]ā kalaṃti lājine anusathī</p>
+
+## 日本語訳
+
+この日本語訳は、E・フルッチュによる1925年版の英訳に基づいています。専門用語および角括弧による補記は、その歴史的校訂版に準拠しています。
+
+> (A) 神々に愛されし者の命により、トサリ（ダウリ）の都市裁判官（マハーマートラ）たちに告ぐ。
+> (B) 私が正しいと認めるいかなる事柄も、私はそれを行動によって実現し、手段を通じて達成することを望む。
+> (C) そして、この目的を達するための最上の手段とは、あなた方に指示を与えることである。
+> (D) あなた方は何万人もの人々の司法を委ねられている。
+> (E) すべての人は私の子供である。
+> (F) 我が子に対して私が「現世と来世の双方において、あらゆる幸福と安穏を得るように」と願うのと全く同様に、私はすべての人間に対しても同じことを願う。
+> (G) しかし、あなた方はこの私の意図の深さを完全には理解していない。
+> (H) 一部の者は理解しているかもしれないが、それは全体の一部に過ぎず、全体を理解してはいない。
+> (I) あなた方はこの職務に注意を払わなければならない。
+> (J) 司法の場において、ある人が理由もなく投獄されたり、過酷な処罰を受けたりすることがある。
+> (K) 不当な判決を受けた時、多くの人々が深く嘆き悲しむ。
+> (L) したがって、あなた方は中道（公平さ）を守り、正義を実践するよう努めなければならない。
+> (M) 嫉妬、激怒、残酷さ、性急さ、不注意、怠惰、疲労—これらは公平な正義を妨げるものである。
+> (N) あなた方は自らに言い聞かせなければならない：「これらの過ちが私の中に生じないように」と。
+> (O) このことの根本は、怒りを制し、性急さを避けることにある。
+> (P) 裁判において疲弊してはならない。職務に倦怠してはならない。
+> (Q) 行動する者こそが、前進し、正義を全うすることができる。
+> (R) あなた方はこの義務に目を向け、王の指示に従わなければならない。
+> (S) この職務を果たすことは、大いなる功徳をもたらす。これを怠ることは、大いなる過ちをもたらす。
+> (T) なぜなら、これを怠るならば、天界の幸福も王の歓心も得られないからである。
+> (U) しかし、正しく職務を遂行するならば、あなた方は天界を得、私に対する負債を返済することになるであろう。
+> (V) この勅令は、ティシャ月の日に朗読されなければならない。
+> (W) また、日々の業務の合間にも、一人の人物の前においてであっても、頻繁に聞かれなければならない。
+> (X) このように行動するならば、あなた方は自らの職務を全うすることができる。
+> (Y) この目的のために、この勅令がここに刻まれた。
+> (Z) 都市の裁判官たちが、人々に不当な投獄や過酷な処罰を与えることがないように。
+> (AA) そして、この目的のために、私は5年ごとに、過酷でなく、温和で、公正な役人を巡回のために派遣するであろう。
+> (BB) ウッジャインからも、皇子によって同様の巡回使節が3年ごとに派遣されるであろう。
+> (CC) タキシラからも同様である。使節たちは職務を監査し、王の意向が完全に実行されているかを確認するであろう。
+
+## 参考文献・出典
+
+- E. Hultzsch, [*Inscriptions of Asoka* (1925)](https://archive.org/details/InscriptionsOfAsoka.NewEditionByE.Hultzsch), *Corpus Inscriptionum Indicarum*, 第1巻.
+
+- [ビブリオテカ・ポリグロッタ版](https://www2.hf.uio.no/polyglotta/index.php?mid=0&page=fulltext&vid=364&view=fulltext), オスロ大学 (マーガディー語の翻字、英訳、および碑文模刻).

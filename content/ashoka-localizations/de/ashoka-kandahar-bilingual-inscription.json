@@ -1,0 +1,24 @@
+{
+  "title": "Zweisprachige Inschrift von Kandahar: Frömmigkeit und Wahrheit",
+  "excerpt": "Eine griechische und aramäische Proklamation aus Kandahar verbindet die Morallehre des Königs mit Mäßigung, dem Schutz von Lebewesen und der Achtung vor den Eltern.",
+  "tags": [
+    "Ashoka",
+    "Inschriften",
+    "Griechisch",
+    "Aramäisch"
+  ],
+  "imageAlts": [
+    "Felseninschrift von Kandahar mit griechischen Zeilen über den aramäischen"
+  ],
+  "imageCaptions": [
+    "Griechische und aramäische Inschrift von Kandahar. Bild von Wikimedia Commons, gemeinfrei."
+  ],
+  "blocks": {
+    "1": "Diese Felseninschrift nahe Kandahar weist einen griechischen Text über einem aramäischen Text auf. Beide verbinden König Priyadarśin mit einem moralischen Wandel, verringertem Tierschlachten und der Achtung vor Eltern und Älteren. Es handelt sich um parallele Versionen, nicht um Wort-für-Wort-Übersetzungen. Der griechische Anfang ist beschädigt und seine Rekonstruktion umstritten; daher behalten deutsche Übersetzungen die Unsicherheit sichtbar bei.",
+    "12": "Der Beginn enthält eine unsichere Ergänzung. Diese Übersetzung folgt den erhaltenen Wörtern und der von Francesco Maniscalco untersuchten Lesung.",
+    "13": "> Nach zehn Jahren [die Anfangsphrase ist beschädigt] machte König Piodasses dem Volk die Frömmigkeit bekannt. Von da an machte er die Menschen frommer, und alles gedeiht auf der ganzen Erde. Der König enthält sich des Tötens lebender Wesen, und die anderen Menschen tun desgleichen. Die Jäger und Fischer des Königs haben die Jagd aufgegeben. Diejenigen, denen es an Mäßigung mangelte, haben dieses Verhalten nach besten Kräften abgelegt. Indem sie Vater, Mutter und den Älteren gehorchen, jetzt und in Zukunft, werden diejenigen, die diesen Pfad befolgen, in jeder Hinsicht besser leben.",
+    "15": "Das Aramäische ist eine parallele Version mit abweichenden Formulierungen. Seine Lesung enthält mehrere umstrittene Wörter, insbesondere nahe dem Anfang und dem Ende.",
+    "16": "> Im zehnten Jahr stiftete unser Herr, König Priyadarśin, die Wahrheit. Danach nahm das Übel unter den Menschen ab und ihre Not schwand dahin; Friede und Wohlstand breiteten sich auf Erden aus. Für das Mahl des Königs werden nur noch wenige Tiere geschlachtet. Als die Menschen dies sahen, hörten sie auf zu töten, und auch die Fischer unterlagen dieser Einschränkung. Menschen ohne Mäßigung gaben dieses Verhalten auf. Sie gehorchen Mutter, Vater und den Älteren gemäß ihren Pflichten. Für die Rechtschaffenen gibt es kein Gericht [die genaue Bedeutung ist umstritten]. Dies hat allen genützt und wird ihnen künftig noch mehr nützen.",
+    "18": "- Francesco Maniscalco, [“A New Interpretation of the Edicts of Aśoka from Kandahar” (2018)](https://doi.org/10.30687/AnnOr/2385-3042/2018/01/011), *Annali di Ca’ Foscari. Serie orientale* 54, S. 239–264 (griechischer Text, Übersetzung und Diskussion; CC BY 4.0).\n- Harry Falk, [*Aśokan Sites and Artefacts* (2006)](https://dokumen.pub/aokan-sites-and-artefacts-1nbsped-3805337124.html), S. 241–243 (Fundort, Abbildung und Bibliographie der aramäischen Editionen).\n- [Bildnachweis](https://commons.wikimedia.org/wiki/File:AsokaKandahar.jpg), Wikimedia Commons (gemeinfrei)."
+  }
+}

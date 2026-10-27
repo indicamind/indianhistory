@@ -1,0 +1,58 @@
+---
+title: "ප්‍රධාන කුළුණු ලිපිය IV: රජ්ජුකවරුන් සහ යුක්තිය"
+slug: ashoka-major-pillar-edict-4
+excerpt: "අශෝක ලක්ෂ සංඛ්‍යාත ජනයා පාලනය කරන රජ්ජුකවරුන්ට ස්වාධීන අධිකරණ බලය පවරන අතර, මරණ දඬුවම නියම වූ සිරකරුවන්ට දින තුනක සහනයක් ලබා දෙයි."
+publishedAt: 2026-10-16T00:00:00.000Z
+updatedAt: 2026-10-16T00:00:00.000Z
+period: mauryan
+polity: maurya
+personalities: [ashoka]
+relatedTo: ashoka-edicts
+tags: ["අශෝක","සෙල්ලිපි","ප්‍රධාන කුළුණු ලිපි"]
+themes: []
+books: ["0349122385","935699322X","0143330802"]
+sourceHash: add5b322da0d995a65d1cdf9352963a7f852adbaaf0c5f5039b8dfe057d9f1a9
+---
+
+## මෙම රාජාඥාව පිළිබඳව
+
+මෙම ලිපිය ප්‍රාදේශීය විනිසුරුවරුන්ගේ (රජ්ජුකයන්ගේ) භූමිකාව, අධිකරණ ක්‍රියාවලියේ ඒකාකාරී බව සහ මරණ දඬුවම ලැබූවන් සඳහා පශ්චාත්-මරණ ආධ්‍යාත්මික සූදානම සඳහා දුන් සහනය විස්තර කරයි.
+
+## මුල් ලිපිය
+
+<figure class="article-figure inscription-plate">
+  <img src="/assets/media/images/ashoka-plate-1405674156.jpg" alt="හුල්ට්ෂ්ගේ 1925 සංස්කරණයේ දිල්ලි-තෝප්‍රා බ්‍රාහ්මී සෙල්ලිපි පිටපත" loading="lazy" decoding="async" />
+  <figcaption>දිල්ලි-තෝප්‍රා සෙල්ලිපි පිටපත. ඊ. හුල්ට්ෂ්, <em>Inscriptions of Asoka</em> (1925), පොදු වසම.</figcaption>
+</figure>
+
+## රෝමානු අක්ෂර පරිවර්තනය
+
+පහත දැක්වෙන පාඨය හුල්ට්ෂ්ගේ සංස්කරණයේ දිල්ලි-තෝප්‍රා පාඨය අනුගමනය කරයි. කොටු වරහන් මගින් ප්‍රතිස්ථාපනය කළ හෝ අවිනිශ්චිත අකුරු සලකුණු කරයි; තිත් මගින් හානි වූ හෝ අස්ථානගත වූ පාඨය දක්වයි. වෙනත් ඉතිරිව ඇති පිටපත් වෙනස් විය හැකිය.
+
+<p class="inscription-transliteration" lang="pra-Latn">West Face of Pillar. (A) 1 Devānaṃpiye Piyadasi l[ā]ja hevaṃ āhā (B) saḍuvīsati-vasa-2abhisitena me iyaṃ dhaṃma-lipi likhāpitā (C) lajūkā me 3 bahūsu pāna-sata-sahasesu janasi āyatā (D) tesaṃ ye abhihāle vā 4 daṃḍe vā ata-patiye me kaṭe kiṃti lajūkā asvatha abhītā 5 kaṃmāni pavatayevū janasa jānapadasā hita-sukhaṃ upadahevū 6 anugahinevu cā (E) sukhīyana-dukhīyanam jānisaṃti dhaṃma-yutena ca 7 viyovadisaṃti janaṃ jānapadaṃ kiṃti hidataṃ ca pālataṃ ca 8 ālādhayevā ti (F) lajūkā pi laghaṃti paṭicalitave maṃ (G) pulisāni pi me 9 chaṃdaṃnāni paṭicalisaṃti (H) te pi ca kāni viyovadisaṃti yena maṃ lajūkā 10 caghaṃti ālādhayitave (I) athā hi pajaṃ viyatāye dhātiye nisijitu 11 asvathe hoti viyata dhāti caghati me pajaṃ sukhaṃ palihaṭave 12 hevaṃ mamā lajūkā kaṭā jānapadasa hita-sukhāye (J) yena ete abhītā 13 asvatha saṃtaṃ avimanā kaṃmāni payatayevū ti etena me lajūkānaṃ 14 abh[i]hāle vāa daṃḍe vā ata-patiye kaṭe (K) ichitaviye [h]i esa kiṃti 15 viyohāla-samatā ca siya daṃḍa-samatā cā (L) ava ite pi ca me āvuti 16 baṃdhana-badhānaṃ munisānaṃ tīl[i]ta-daṃḍānaṃ pata-vadhānaṃ tiṃni divasā[n]i me 17 yote diṃne (M) nātikā va kāni nijhapayisaṃti jīvitāye tānaṃ 18 nāsaṃtaṃ vā nijhapayitā dānaṃ dāhaṃti pālatikaṃ upavāsaṃ va kachaṃti (N) 19 ichā hi me hevaṃ niludhasi pi kālasi pālataṃ ālādhayevū ti (O) janasa ca 20 vaḍhati vividhe dhaṃma-calane saṃyame dāna-savibhāge ti</p>
+
+## සිංහල පරිවර්තනය
+
+මෙම සිංහල පරිවර්තනය පහත සඳහන් සංස්කරණයේ ඉංග්‍රීසි පරිවර්තනය මත පදනම් වේ. ඓතිහාසික සංස්කරණයට අනුකූලව හානි වූ සහ අවිනිශ්චිත කොටස් සලකුණු කර ඇත.
+
+> (A) දේවානම්ප්‍රිය ප්‍රියදර්ශී රජු මෙසේ පවසයි.
+> (B) මාගේ අභිෂේකයෙන් විසිහය වසරක් පිරුණු පසු මෙම ධර්ම ලිපිය මා විසින් ලියවන ලදී.
+> (C) මාගේ රජ්ජුකවරුන් ලක්ෂ සංඛ්‍යාත ජනතාවගේ පාලනය භාරව සිටිති.
+> (D) ඔවුන් බියෙන් තොරව, විශ්වාසයෙන් යුතුව සහ සන්සුන්ව තම රාජකාරි ඉටු කරනු පිණිසත්, ජනතාවගේ යහපත හා සතුට සලසනු පිණිසත්, ඔවුන්ට ත්‍යාග දීම සහ දඬුවම් නියම කිරීම පිළිබඳ පූර්ණ ස්වාධීනත්වය මා විසින් ලබා දී ඇත.
+> (E) ඔවුහු ජනයාගේ සතුටට හා දුකට හේතු වන කරුණු දැනගෙන, ධර්මයට කැප වූ නිලධාරීන් සමඟ එක්ව ජනතාවට ධර්මයෙන් අනුශාසනා කරති; එවිට ජනයා මෙලොව සහ පරලොව සතුට ළඟා කර ගනු ඇත.
+> (F) රජ්ජුකවරු මාගේ අණ පිළිපැදීමට කැපවී සිටිති.
+> (G) මාගේ අභිප්‍රාය දන්නා අනෙකුත් නිලධාරීන් ද ඔවුන්ට කීකරු වනු ඇත; එමෙන්ම ජනයා රජ්ජුකවරුන් සතුටු කිරීමට කටයුතු කරනු ඇත.
+> (H) දක්ෂ කිරිමවකට තම දරුවා භාර දෙන මවක් ‘මෙම දක්ෂ කිරිමව මගේ දරුවා හොඳින් රැකබලා ගනු ඇත’ කියා සැනසෙන්නාක් මෙන්, ජනතාවගේ යහපත හා සතුට උදෙසා මා විසින් රජ්ජුකවරුන් පත් කර ඇත.
+> (I) ඔවුන් බියෙන් තොරව, විශ්වාසයෙන් යුතුව තම රාජකාරි ඉටු කළ යුතුය.
+> (J) මේ හේතුව නිසා රජ්ජුකවරුන්ට ත්‍යාග සහ දඬුවම් පිළිබඳ ස්වාධීන බලය ලබා දී ඇත.
+> (K) මක්නිසාද යත් අධිකරණ ක්‍රියාවලියෙහි සහ දඬුවම් නියම කිරීමෙහි ඒකාකාරී බවක් (සමානත්වයක්) තිබීම මාගේ කැමැත්තයි.
+> (L) මාගේ නියෝගය මෙතෙක් දුරට ද විහිදෙයි:
+> (M) මරණ දඬුවම නියම වූ සිරකරුවන්ට දින තුනක සහන කාලයක් (කාල සීමාවක්) ලබා දී ඇත.
+> (N) එම කාලය තුළ ඔවුන්ගේ ඥාතීන්ට ඔවුන්ගේ ජීවිතය බේරා ගැනීම පිණිස අභියාචනයක් ඉදිරිපත් කළ හැකිය; එසේ නැතහොත් මරණයට පත්වන සිරකරුවන්ට පරලොව සතුට උදෙසා දන් දීමට හෝ උපවාස කිරීමට හැකිය.
+> (O) මක්නිසාද යත් සිරගතව සිටින විට පවා ඔවුන් පරලොව ජයග්‍රහණය කරන්නේ නම් යහපත් ය; තවද මිනිසුන් අතර ධර්ම චර්යාව, ආත්ම සංයමය සහ දානය නිරන්තරයෙන් වර්ධනය වනු ඇත.
+
+## මූලාශ්‍ර
+
+- E. Hultzsch, [*Inscriptions of Asoka* (1925)](https://archive.org/details/InscriptionsOfAsoka.NewEditionByE.Hultzsch), *Corpus Inscriptionum Indicarum*, පළමුවන වෙළුම.
+
+- [බිබ්ලියොතෙකා පොලිග්ලොටා සංස්කරණය](https://www2.hf.uio.no/polyglotta/index.php?mid=0&page=fulltext&vid=370&view=fulltext), ඔස්ලෝ විශ්වවිද්‍යාලය (මාගධී අක්ෂර පරිවර්තනය, ඉංග්‍රීසි පරිවර්තනය සහ සෙල්ලිපි පිටපත්).

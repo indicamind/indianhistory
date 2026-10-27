@@ -3,6 +3,7 @@ const os = require('os');
 const path = require('path');
 const sharp = require('sharp');
 const { generateSharePages, firstImage, renderHtml } = require('./generate-share-pages');
+const { IN_PROGRESS_LANGUAGES } = require('./translation-languages');
 
 describe('Build-time social previews', () => {
   let root;
@@ -133,5 +134,44 @@ describe('Build-time social previews', () => {
     expect(html).not.toContain('<script>bad()</script>');
     expect(html).toContain('&lt;/title&gt;&lt;script&gt;bad()&lt;/script&gt;');
     expect(html).toContain('content="&quot; onload=&quot;bad()"');
+  });
+
+  it('requires complete Sanskrit pages unless the edition is explicitly in progress', async () => {
+    content();
+    const base = path.join(output, 'assets/generated');
+    const dir = path.join(base, 'sa');
+    fs.mkdirSync(path.join(dir, 'stories'), { recursive: true });
+    const articles = JSON.parse(fs.readFileSync(path.join(base, 'articles.json')))
+      .map(entry => entry.slug === 'one'
+        ? { ...entry, title: 'प्रमुखस्तम्भलेखः' }
+        : { ...entry, previewOnly: true });
+    fs.writeFileSync(path.join(dir, 'articles.json'), JSON.stringify(articles));
+    for (const entry of articles) fs.writeFileSync(path.join(dir, 'stories', entry.slug + '.json'), JSON.stringify(entry));
+    const blogs = JSON.parse(fs.readFileSync(path.join(base, 'blogs.json')))
+      .map(entry => ({ ...entry, previewOnly: true }));
+    fs.writeFileSync(path.join(dir, 'blogs.json'), JSON.stringify(blogs));
+    fs.writeFileSync(path.join(dir, 'site.json'), JSON.stringify({ 'India History': 'भारतेतिहासः' }));
+    let error;
+    try {
+      await generateSharePages({ root, output, languages: ['en', 'sa'], siteUrl: 'https://example.test/' });
+    } catch (caught) {
+      error = caught;
+    }
+    expect(error?.message).toContain('Missing sa share translation: two');
+    IN_PROGRESS_LANGUAGES.add('sa');
+    try {
+      await generateSharePages({ root, output, languages: ['en', 'sa'], siteUrl: 'https://example.test/' });
+    } finally {
+      IN_PROGRESS_LANGUAGES.delete('sa');
+    }
+    const sanskrit = fs.readFileSync(path.join(output, 'sa/article/one/index.html'), 'utf8');
+    expect(sanskrit).toContain('lang="sa" dir="ltr"');
+    expect(sanskrit).toContain('property="og:locale" content="sa_IN"');
+    expect(sanskrit).toContain('property="og:title" content="प्रमुखस्तम्भलेखः"');
+    expect(fs.readFileSync(path.join(output, 'article/one/index.html'), 'utf8')).toContain('hreflang="sa"');
+    expect(fs.readFileSync(path.join(output, 'article/two/index.html'), 'utf8')).not.toContain('hreflang="sa"');
+    expect(fs.readFileSync(path.join(output, 'blogs/blog/index.html'), 'utf8')).not.toContain('hreflang="sa"');
+    expect(fs.existsSync(path.join(output, 'sa/article/two/index.html'))).toBeFalsy();
+    expect(fs.existsSync(path.join(output, 'sa/blogs/blog/index.html'))).toBeFalsy();
   });
 });

@@ -1,5 +1,6 @@
 import { DestroyRef, Injector, runInInjectionContext, signal } from '@angular/core';
-import { ActivatedRoute, Router } from '@angular/router';
+import { ActivatedRoute, Router, ParamMap, convertToParamMap } from '@angular/router';
+import { Subject } from 'rxjs';
 import { SearchComponent } from './search.component';
 import { ArticleService } from '../../services/article.service';
 import { PeriodsService } from '../../services/periods.service';
@@ -10,9 +11,11 @@ import { SearchResult } from '../../models/article.model';
 describe('SearchComponent', () => {
   let component: SearchComponent;
   let isDevMode: ReturnType<typeof signal<boolean>>;
+  let routeParams: Subject<ParamMap>;
 
   beforeEach(() => {
     isDevMode = signal(false);
+    routeParams = new Subject<ParamMap>();
     const mockArticles = {
       whenReady: async () => {},
       allArticles: () => [],
@@ -38,7 +41,7 @@ describe('SearchComponent', () => {
     };
     const mockRoute = {
       snapshot: { queryParamMap: { get: () => null } },
-      queryParamMap: { pipe: () => ({ subscribe: () => {} }) },
+      queryParamMap: routeParams,
     };
     const mockRouter = {
       navigate: async () => true,
@@ -66,6 +69,30 @@ describe('SearchComponent', () => {
     expect(component.query).toBe('');
     expect(component.activeFilter()).toBe('all');
     expect(component.loading()).toBeTruthy();
+  });
+
+  it('submits the current input before the live-search debounce finishes', () => {
+    component.onQueryInput('Bindusara');
+    component.submit();
+    expect(component.query).toBe('Bindusara');
+    expect(component.searched()).toBeTruthy();
+  });
+
+  it('preserves newly typed text when the current URL is emitted again', async () => {
+    await component.ngOnInit();
+    component.query = 'Bindusara';
+    routeParams.next(convertToParamMap({ lang: 'en' }));
+    expect(component.query).toBe('Bindusara');
+    routeParams.next(convertToParamMap({ q: 'Ashoka', lang: 'en' }));
+    expect(component.query).toBe('Ashoka');
+  });
+
+  it('preserves input entered while the article index is becoming ready', async () => {
+    const ready = component.ngOnInit();
+    component.onQueryInput('Bindusara');
+    await ready;
+    expect(component.query).toBe('Bindusara');
+    expect(component.searched()).toBeTruthy();
   });
 
   it('hides stale pending book results when dev mode is switched off', () => {

@@ -1,0 +1,54 @@
+---
+title: "प्रमुख शिलादेश IV: धर्मको उद्घोष"
+slug: ashoka-major-rock-edict-4
+excerpt: "अशोक घोषणा गर्दछन् कि युद्धका भेरीको आवाज अब धर्मको ध्वनिमा परिणत भएको छ र नैतिक आचरणको वृद्धि भएको छ।"
+publishedAt: 2026-10-16T00:00:00.000Z
+updatedAt: 2026-10-16T00:00:00.000Z
+period: mauryan
+polity: maurya
+personalities: [ashoka]
+relatedTo: ashoka-edicts
+tags: ["अशोक","शिलालेख","प्रमुख शिलादेश"]
+themes: []
+books: ["0349122385","935699322X","0143330802"]
+sourceHash: d65d5cb266e719b99be7eaac7bd305bb0bde7bb82df6c9630458b3e90f566f42
+---
+
+## यस शिलादेशको बारेमा
+
+चौथो प्रमुख शिलादेशले परम्परागत सैन्य प्रदर्शनलाई धर्मको प्रदर्शनसँग तुलना गर्दछ। यसले रथ, हात्ती र दिव्य दृश्यहरूको परम्परागत प्रदर्शनको सट्टा जीवित प्राणीहरूको रक्षा र मातापिताको सेवालाई धर्मको वास्तविक अभिव्यक्तिका रूपमा प्रस्तुत गर्दछ।
+
+## मूल लिपि
+
+<figure class="article-figure inscription-plate">
+  <img src="/assets/media/images/ashoka-plate-1405540893.jpg" alt="हुल्त्शको १९२५ को संस्करणमा गिरनारको ब्राह्मी अभिलेखको प्रतिकृति" loading="lazy" decoding="async" />
+  <figcaption>गिरनारको अभिलेख प्रतिकृति। ई. हुल्त्श, <em>Inscriptions of Asoka</em> (1925), सार्वजनिक डोमेन।</figcaption>
+</figure>
+
+## रोमन लिप्यन्तरण
+
+तलको पाठले हुल्त्शको संस्करणमा गिरनारको पाठलाई पछ्याउँछ। वर्गाकार कोष्ठकले पुनर्स्थापित वा अनिश्चित अक्षरहरू देखाउँछन्; थोप्लाहरूले क्षतिग्रस्त वा हराएको पाठलाई जनाउँछन्। अन्य जीवित प्रतिहरू फरक हुन सक्छन्।
+
+<p class="inscription-transliteration" lang="pra-Latn">(A) 1 atikātaṃ aṃt[a]raṃ bahūni vāsa-satāni vaḍhito eva praṇāraṃbho vihiṃsa ca bhūtānāṃ ñātīsu 2 a[s]aṃpratipatī brā[m]haṇa-sramaṇānāṃ asaṃpratīpatī (B) ta aja Devānaṃpriyasa Priyadasino rāño 3 dhaṃma-caraṇena [bhe]rī-ghoso aho dhaṃma-ghoso vimāna-darsaṇā ca hastida[sa]ṇā ca 4 agi-kh[a]ṃdhāni ca [a]ñāni ca divyāni rūpāni dasayitpā janaṁ (C) yārise bahūhi v[āsa]satehi 5 na bhūta-puve tarise aja vaḍhite Devānaṃpriyasa Priyadasino rāño dhaṃmānusasṭiyā anāraṃ6[bh]o prāṇānaṃ avihāsā bhūtānaṃ ñātīnaṃ saṃpaṭipatī bramhaṇa-sarnaṇānaṃ saṃpaṭipatī mātari pitari 7 [s]usrusā thaira-susrusā (D) esa añe ca bahuvidhe [dha]ṃma-caraṇe va[ḍhi]te (E) vaḍhayisati ceva Devānaṃpriyo 8 [Pri*]ya[da]si rājā dhaṃma-[ca]raṇaṃ idaṃ (F) putrā ca [p]otrā ca prapotrā ca Devānaṃpriyasa Priyadasino rāño 9 [pra*]vadhayisaṃti idaṃ [dha]ṃma-caraṇaṃ ava savaṭa-kapā dhaṃmamhi sīlamhi tisṭaṃto [dha]ṃmaṃ anusāsisaṃti (G) 10 [e]sa hi sesṭe kaṃme ya dhaṃmānusāsanaṃ (H) dhamma-caraṇe pi na [bha]vati asīlasa (I) [ta] imamhi athamhi 11 [va]dhī ca ahīnī ca sādhu (J) e[t]āya athāya ida[ṃ] lekhāpitaṃ imasa atha[sa] v[a]dhi yujaṃtu hīni c[a] 12 [no] locetavyā (K) dbādasa-vāsābhisitena Devān[a]ṃpriyena Priyadasinā rāñ[ā] idam lekhapitam</p>
+
+## नेपाली अनुवाद
+
+यो नेपाली अनुवाद तल उद्धृत संस्करणको अङ्ग्रेजी अनुवादमा आधारित छ। क्षतिग्रस्त तथा अनिश्चित अंशहरू त्यस ऐतिहासिक संस्करण अनुसार चिह्नित छन्।
+
+> (A) विगतका धेरै सय वर्षहरूमा प्राणीहरूको हत्या, जीवित प्राणीहरूलाई चोट पुर्याउने काम, आफन्तहरूप्रति अनादर र श्रमण तथा ब्राह्मणहरूप्रति असम्मान बढ्दै गएको थियो।
+> (B) तर अब राजा देवानांप्रिय प्रियदर्शीको धर्मको आचरणका कारण युद्धको भेरीको आवाज धर्मको ध्वनिमा परिणत भएको छ, र मानिसहरूलाई दिव्य विमान, हात्ती, अग्निका स्तम्भ र अन्य स्वर्गीय दृश्यहरू प्रदर्शन गरिँदैछ।
+> (C) विगत धेरै सय वर्षहरूमा जे कहिल्यै भएको थिएन, त्यो आज राजा देवानांप्रिय प्रियदर्शीको धर्मको उपदेशले गर्दा बढेको छ: प्राणीहरूको रक्षा, जीवहरूलाई चोट नपुर्याउनु, आफन्तहरूप्रति शिष्टाचार, श्रमण र ब्राह्मणहरूप्रति आदर, मातापिताको सेवा र वृद्धहरूको आज्ञापालन।
+> (D) यसरी र अन्य अनेक तरिकाले धर्मको आचरणको वृद्धि भएको छ, र राजा देवानांप्रिय प्रियदर्शीले यो धर्मको आचरणलाई सधैं अगाडि बढाउनेछन्।
+> (E) र राजा देवानांप्रिय प्रियदर्शीका छोराहरू, नातिहरू र पनातिहरूले संसारको कल्पान्तसम्म यस धर्मको आचरणलाई बढाउँदै लैजानेछन्; र धर्म तथा सदाचारमा स्थित भएर उनीहरूले मानिसहरूलाई धर्मको शिक्षा दिनेछन्।
+> (F) किनभने धर्मको शिक्षा दिनु नै सबैभन्दा उत्तम कार्य हो।
+> (G) र सदाचाररहित व्यक्तिका लागि धर्मको आचरण सम्भव छैन।
+> (H) त्यसैले यस विषयको उन्नति गर्नु र यसमा उपेक्षा नगर्नु अत्यन्त प्रशंसनीय छ।
+> (I) निम्न उद्देश्यका लागि यो लेखाउन लगाइएको हो:
+> (J) ताकि मानिसहरू यस कार्यको वृद्धिमा लागिपरून् र यसको ह्रास हुन नदिऊन्।
+> (K) राज्याभिषेकको बाह्र वर्ष पूरा भएपछि राजा देवानांप्रिय प्रियदर्शीले यो धर्मलिपि लेखाउन लगाए।
+
+## स्रोतहरू
+
+- E. Hultzsch, [*Inscriptions of Asoka* (1925)](https://archive.org/details/InscriptionsOfAsoka.NewEditionByE.Hultzsch), *Corpus Inscriptionum Indicarum*, खण्ड १.
+
+- [बिब्लियोथेका पोलिग्लोटा संस्करण](https://www2.hf.uio.no/polyglotta/index.php?mid=0&page=fulltext&vid=362&view=fulltext), ओस्लो विश्वविद्यालय (मागधी लिप्यन्तरण, अङ्ग्रेजी अनुवाद र अभिलेखका प्रतिकृतिहरू).

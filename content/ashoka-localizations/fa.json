@@ -1,0 +1,70 @@
+{
+  "common": {
+    "About this edict": "درباره این فرمان",
+    "About this inscription": "درباره این کتیبه",
+    "Original script": "خط اصلی",
+    "Original scripts": "خط‌های اصلی",
+    "Roman transliteration": "نویسه‌گردانی لاتین",
+    "localTranslationHeading": "ترجمه فارسی",
+    "English translation of the Greek": "ترجمه فارسی متن یونانی",
+    "English translation of the Aramaic": "ترجمه فارسی متن آرامی",
+    "Greek": "یونانی",
+    "Aramaic": "آرامی",
+    "Sources": "منابع",
+    "volumeOne": "جلد اول",
+    "polyglottaEdition": "نسخه بیبلیوتکا پولی‌گلوتا",
+    "universityOfOslo": "دانشگاه اسلو",
+    "translationBasisNote": "این ترجمه فارسی بر اساس ترجمه انگلیسی ای. هولتز در سال ۱۹۲۵ برای همین نسخه انجام شده است. واژگان و عبارات داخل قلاب‌ها از این نسخه تاریخی پیروی می‌کنند.",
+    "sourceNote": "نویسه‌گردانی ماگادهی، ترجمه انگلیسی و فاکسیمیله کتیبه‌ها",
+    "siteNames": {
+      "Bairat": "بایرات",
+      "Lumbini": "لومبینی",
+      "Delhi–Topra": "دهلی–توپرا",
+      "Girnar": "گیرنار",
+      "Kalsi": "کالسی",
+      "Rūpnāth": "روپ‌نات",
+      "Brahmagiri": "برهماگیری",
+      "Nigali Sagar": "نیگالی ساگار",
+      "Allahabad–Kauśāmbī": "الله‌آباد–کوشامبی",
+      "Sarnath": "سارنات",
+      "Dhauli": "دهاولی"
+    },
+    "siteAltTemplate": "فاکسیمیله کتیبه برهمی {site} در نسخه هولتز در سال ۱۹۲۵",
+    "siteCaptionTemplate": "فاکسیمیله کتیبه {site}. ای. هولتز، <em>Inscriptions of Asoka</em> (۱۹۲۵)، مالکیت عمومی.",
+    "siteTransliterationTemplate": "متن زیر از نسخه {site} در ویرایش هولتز پیروی می‌کند. قلاب‌ها حروف بازسازی‌شده یا نامشخص را نشان می‌دهند؛ نقطه‌ها نشان‌دهنده متن آسیب‌دیده یا از بین رفته است. سایر نسخه‌های باقی‌مانده ممکن است تفاوت داشته باشند.",
+    "imageAltTranslations": {
+      "Brahmi facsimiles of the three Barabar cave inscriptions in Hultzsch’s 1925 edition; Karna Chaupar is third": "فاکسیمیله برهمی سه کتیبه غار بارابار در ویرایش ۱۹۲۵ هولتز؛ کارنا چاوپار سومی است",
+      "Brahmi facsimiles of the three Barabar cave inscriptions in Hultzsch’s 1925 edition; Sudama is first": "فاکسیمیله برهمی سه کتیبه غار بارابار در ویرایش ۱۹۲۵ هولتز؛ سوداما اولی است",
+      "Brahmi facsimiles of the three Barabar cave inscriptions in Hultzsch’s 1925 edition; Visvakarma is second": "فاکسیمیله برهمی سه کتیبه غار بارابار در ویرایش ۱۹۲۵ هولتز؛ ویشواکارما دومی است"
+    },
+    "imageCaptionTranslations": {
+      "Barabar cave inscription facsimiles. E. Hultzsch, <em>Inscriptions of Asoka</em> (1925), public domain.": "فاکسیمیله کتیبه‌های غار بارابار. ای. هولتز، <em>Inscriptions of Asoka</em> (۱۹۲۵)، مالکیت عمومی."
+    },
+    "transliterationNotes": {
+      "The text below follows Hultzsch’s edition of the Karna Chaupar inscription. Square brackets mark restored or uncertain letters; dots mark a missing passage.": "متن زیر از ویرایش هولتز از کتیبه کارنا چاوپار پیروی می‌کند. قلاب‌ها نشان‌دهنده حروف بازسازی‌شده یا نامشخص هستند؛ نقطه‌ها نشان‌دهنده بخش گم‌شده است.",
+      "The text below follows Hultzsch’s edition of the Sudama inscription. Square brackets mark restored or uncertain letters.": "متن زیر از ویرایش هولتز از کتیبه سوداما پیروی می‌کند. قلاب‌ها نشان‌دهنده حروف بازسازی‌شده یا نامشخص هستند.",
+      "The text below follows Hultzsch’s edition of the Visvakarma inscription. Square brackets mark restored or uncertain letters.": "متن زیر از ویرایش هولتز از کتیبه ویشواکارما پیروی می‌کند. قلاب‌ها نشان‌دهنده حروف بازسازی‌شده یا نامشخص هستند."
+    }
+  },
+  "articles": {
+    "ashoka-major-rock-edict-1": {
+      "title": "فرمان بزرگ صخره‌ای ۱: قربانی حیوانات و مطبخ سلطنتی",
+      "excerpt": "آشوکا قربانی حیوانات را محدود می‌کند و گزارش می‌دهد که کشتار در مطبخ سلطنتی به شدت کاهش یافته است.",
+      "tags": [
+        "آشوکا",
+        "فرمان‌ها",
+        "فرمان بزرگ صخره‌ای"
+      ],
+      "about": "نخستین فرمان بزرگ صخره‌ای، آیین‌های عمومی را با مطبخ خود پادشاه پیوند می‌دهد. این فرمان کاهش شدید حیوانات کشته‌شده برای غذا را ثبت می‌کند و وعده می‌دهد که حتی کشتارهای باقی‌مانده را نیز در آینده متوقف کند.",
+      "imageAlts": [
+        "فاکسیمیله کتیبه برهمی گیرنار در نسخه هولتز در سال ۱۹۲۵"
+      ],
+      "imageCaptions": [
+        "فاکسیمیله کتیبه گیرنار. ای. هولتز، <em>Inscriptions of Asoka</em> (۱۹۲۵)، مالکیت عمومی."
+      ],
+      "transliterationNote": "متن زیر از نسخه گیرنار در ویرایش هولتز پیروی می‌کند. قلاب‌ها حروف بازسازی‌شده یا نامشخص را نشان می‌دهند؛ نقطه‌ها نشان‌دهنده متن آسیب‌دیده یا از بین رفته است. سایر نسخه‌های باقی‌مانده ممکن است تفاوت داشته باشند.",
+      "translation": "> (A) پادشاه دیوانام‌پریه پریه‌دارشین دستور داد این فرمان اخلاقی نگاشته شود.\n> (B) در اینجا هیچ موجود زنده‌ای نباید کشته شده و به عنوان قربانی تقدیم گردد.\n> (C) و هیچ گردهمایی جشنی نباید برپا شود.\n> (D) زیرا پادشاه دیوانام‌پریه پریه‌دارشین بدی‌های بسیاری در گردهمایی‌های جشن می‌بیند.\n> (E) با این حال، برخی از گردهمایی‌های جشن وجود دارند که پادشاه دیوانام‌پریه پریه‌دارشین آن‌ها را پسندیده می‌شمارد.\n> (F) در گذشته در مطبخ پادشاه دیوانام‌پریه پریه‌دارشین هر روز صدها هزار حیوان برای تهیه غذا ذبح می‌شدند.\n> (G) اما اکنون که این فرمان اخلاقی نگاشته می‌شود، هر روز تنها سه جاندار کشته می‌شوند: دو طاووس و یک آهو؛ و آن آهو نیز نه به طور همیشگی.\n> (H) حتی این سه جاندار نیز در آینده دیگر کشته نخواهند شد.",
+      "sourceNote": "نویسه‌گردانی ماگادهی، ترجمه انگلیسی و فاکسیمیله کتیبه"
+    }
+  }
+}

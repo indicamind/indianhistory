@@ -4,7 +4,7 @@ import { Injectable, inject, signal } from '@angular/core';
 import { firstValueFrom } from 'rxjs';
 import { LANGUAGES, LanguageCode, languageFromUrl } from './languages';
 import { NAVIGATION } from './navigation';
-import { AVAILABLE_LANGUAGES } from './available-languages.generated';
+import { AVAILABLE_LANGUAGES, IN_PROGRESS_LANGUAGES } from './available-languages.generated';
 import { contentPath, languageAtLocation, localizedContentUrl } from './content-urls';
 
 @Injectable({ providedIn: 'root' })
@@ -18,7 +18,7 @@ export class LocaleService {
   readonly language: LanguageCode = languageAtLocation(
     new URL(this.document.location.href), this.basePath
   );
-  readonly translationAvailable = signal(true);
+  readonly translationAvailable = signal(!IN_PROGRESS_LANGUAGES.includes(this.language));
   readonly navigation = NAVIGATION[this.language];
 
   async load(): Promise<void> {
@@ -34,11 +34,21 @@ export class LocaleService {
       kn: () => import('@angular/common/locales/kn'),
       ml: () => import('@angular/common/locales/ml'),
       pa: () => import('@angular/common/locales/pa'),
+      sa: () => import('@angular/common/locales/sa'),
       es: () => import('@angular/common/locales/es'),
       fr: () => import('@angular/common/locales/fr'),
       ar: () => import('@angular/common/locales/ar'),
       zh: () => import('@angular/common/locales/zh'),
       pt: () => import('@angular/common/locales/pt'),
+      or: () => import('@angular/common/locales/or'),
+      si: () => import('@angular/common/locales/si'),
+      ja: () => import('@angular/common/locales/ja'),
+      ne: () => import('@angular/common/locales/ne'),
+      id: () => import('@angular/common/locales/id'),
+      th: () => import('@angular/common/locales/th'),
+      de: () => import('@angular/common/locales/de'),
+      fa: () => import('@angular/common/locales/fa'),
+      ru: () => import('@angular/common/locales/ru'),
     };
     registerLocaleData((await localeData[this.language]()).default);
     try {

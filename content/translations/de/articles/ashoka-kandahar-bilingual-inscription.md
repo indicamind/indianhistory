@@ -1,0 +1,58 @@
+---
+title: "Zweisprachige Inschrift von Kandahar: Frömmigkeit und Wahrheit"
+slug: ashoka-kandahar-bilingual-inscription
+excerpt: "Eine griechische und aramäische Proklamation aus Kandahar verbindet die Morallehre des Königs mit Mäßigung, dem Schutz von Lebewesen und der Achtung vor den Eltern."
+publishedAt: 2026-10-16T00:00:00.000Z
+updatedAt: 2026-10-16T00:00:00.000Z
+period: mauryan
+polity: maurya
+personalities: [ashoka]
+relatedTo: ashoka-edicts
+tags: ["Ashoka","Inschriften","Griechisch","Aramäisch"]
+themes: []
+books: ["0349122385","935699322X","0143330802"]
+sourceHash: 80e0914cc0268257a5c540daff88e293cc21b355a4a03d18092e72db34f4f6ca
+---
+
+## Über diese Inschrift
+
+Diese Felseninschrift nahe Kandahar weist einen griechischen Text über einem aramäischen Text auf. Beide verbinden König Priyadarśin mit einem moralischen Wandel, verringertem Tierschlachten und der Achtung vor Eltern und Älteren. Es handelt sich um parallele Versionen, nicht um Wort-für-Wort-Übersetzungen. Der griechische Anfang ist beschädigt und seine Rekonstruktion umstritten; daher behalten deutsche Übersetzungen die Unsicherheit sichtbar bei.
+
+## Originalschriften
+
+<figure class="article-figure inscription-plate">
+  <img src="/assets/media/images/ashoka-kandahar-bilingual.jpg" alt="Felseninschrift von Kandahar mit griechischen Zeilen über den aramäischen" loading="lazy" decoding="async" />
+  <figcaption>Griechische und aramäische Inschrift von Kandahar. Bild von Wikimedia Commons, gemeinfrei.</figcaption>
+</figure>
+
+### Griechisch
+
+<p class="inscription-transliteration" lang="grc">Δέκα ἐτῶν πλήρη[ς ἁγν]ῶν βασιλεὺς Πιοδάσσης εὐσέβεια[ν ἔδ]ε[ι]ξεν τοῖς ἀνϑρώποις, καὶ ἀπὸ τούτου εὐσεβεστέρους τοὺς ἀνϑρώπους ἐποίησεν καὶ πάντα εὐϑηνεῖ κατὰ πᾶσαν γῆν. Καὶ ἀπέχεται βασιλεὺς τῶν ἐμψύχων, καὶ οἱ λοιποὶ δὲ ἄνϑρωποι· καὶ ὅσοι ϑηρευταὶ ἢ ἁλιεῖς βασιλέως πέπαυνϑαι ϑηρεύοντες· καὶ εἴ τινες ἀκρατεῖς πέπαυνται τῆς ἀκρασίας κατὰ δύναμιν. Καὶ ἐνήκοοι πατρὶ καὶ μητρὶ καὶ τῶν πρεσβυτέρων παρὰ τὰ πρότερον καὶ τοῦ λοιποῦ, λῶιον καὶ ἄμεινον κατὰ πάντα, ταῦτα ποιοῦντες, διάξουσιν.</p>
+
+### Aramäisch
+
+<p class="inscription-transliteration" lang="arc" dir="rtl">𐡔𐡍𐡍 𐡉 𐡐𐡕𐡉𐡕𐡅 𐡏𐡁𐡉𐡃 𐡆𐡉 𐡌𐡓𐡀𐡍 𐡐𐡓𐡉𐡃𐡀𐡓𐡔 𐡌𐡋𐡊𐡀 𐡒𐡔𐡉𐡈𐡀 𐡌𐡄𐡒𐡔𐡈 𐡌𐡍 𐡀𐡃𐡉𐡍 𐡆𐡏𐡉𐡓 𐡌𐡓𐡏𐡀 𐡋𐡊𐡋𐡄𐡌 𐡀𐡍𐡔𐡍 𐡅𐡊𐡋𐡄𐡌 𐡀𐡃𐡅𐡔𐡉𐡀 𐡄𐡅𐡁𐡃 𐡅𐡁𐡊𐡋 𐡀𐡓𐡒𐡀 𐡓𐡀𐡌 𐡔𐡕𐡉 𐡅𐡀𐡐 𐡆𐡉 𐡆𐡍𐡄 𐡊𐡌𐡀𐡊𐡋𐡀 𐡋𐡌𐡓𐡀𐡍 𐡌𐡋𐡊𐡀 𐡆𐡏𐡉𐡓 𐡒𐡈𐡋𐡍 𐡆𐡍𐡄 𐡋𐡌𐡇𐡆𐡄 𐡊𐡋𐡄𐡌 𐡀𐡍𐡔𐡍 𐡀𐡕𐡄𐡇𐡎𐡉𐡍𐡍 𐡀𐡆𐡉 𐡍𐡅𐡍𐡉𐡀 𐡀𐡇𐡃𐡍 𐡀𐡋𐡊 𐡀𐡍𐡔𐡍 𐡐𐡕𐡉𐡆𐡁𐡕 𐡊𐡍𐡌 𐡆𐡉 𐡐𐡓𐡁𐡎𐡕 𐡄𐡅𐡉𐡍 𐡀𐡋𐡊 𐡀𐡕𐡄𐡇𐡎𐡉𐡍𐡍 𐡌𐡍 𐡐𐡓𐡁𐡎𐡕𐡉 𐡅𐡄𐡅𐡐𐡕𐡉𐡎𐡕𐡉 𐡋𐡀𐡌𐡅𐡄𐡉 𐡅𐡋𐡀𐡁𐡅𐡄𐡉 𐡅𐡋𐡌𐡆𐡉𐡔𐡕𐡉𐡀 𐡀𐡍𐡎𐡍 𐡀𐡉𐡊 𐡀𐡎𐡓𐡄𐡉 𐡇𐡋𐡒𐡅𐡕𐡀 𐡅𐡋𐡀 𐡀𐡉𐡕𐡉 𐡃𐡉𐡍𐡀 𐡋𐡊𐡋𐡄𐡌 𐡀𐡍𐡔𐡉𐡀 𐡇𐡎𐡉𐡍 𐡆𐡍𐡄 𐡄𐡅𐡕𐡉𐡓 𐡋𐡊𐡋𐡄𐡌 𐡀𐡍𐡔𐡍 𐡅𐡀𐡅𐡎𐡐 𐡉𐡄𐡅𐡕𐡓</p>
+
+## Lateinische Transliteration
+
+Griechisch: *Déka etôn plḗrē[s hagn]ôn basileùs Piodássēs eusébeian édeixen toîs anthrṓpois, kaì apò toútou eusebestérous toùs anthrṓpous epoíēsen kaì pánta euthēneî katà pâsan gên. Kaì apéchetai basileùs tôn empsýchōn, kaì hoi loipoì dè ánthrōpoi; kaì hósoi thēreutaì ē halieîs basiléōs pépauntai thēreúontes; kaì eí tines akrateîs pépauntai tês akrasías katà dýnamin. Kaì enḗkooi patrì kaì mētrì kaì tôn presbytérōn parà tà próteron kaì toû loipoû, lṓion kaì ámeinon katà pánta, taûta poioûntes, diáxousin.*
+
+Aramäisch: *šnn y ptytw ʿbyd zy mrʾn prydʾrš mlkʾ qšyṭʾ mhqšṭ mn ʾdyn zʿyr mrʿʾ lklhm ʾnšn wklhm ʾdwšyʾ hwbd wbkl ʾrqʾ rʾm šty wʾp zy znh kmʾklʾ lmrʾn mlkʾ zʿyr qṭln znh lmḥzh klhm ʾnšn ʾthhsynn ʾzy nwnyʾ ʾḥdn ʾlk ʾnšn ptyzbt knm zy prbst hwyn ʾlk ʾthḥsynn mn prbsty whwptysty lʾmwhy wlʾbwhy wlmzyštyʾ ʾnsn ʾyk ʾsrhy ḥlqwtʾ wlʾ ʾyty dynʾ lklhm ʾnšyʾ ḥsyn znh hwtyr lklhm ʾnšn wʾwsp yhwtr.*
+
+## Deutsche Übersetzung des Griechischen
+
+Der Beginn enthält eine unsichere Ergänzung. Diese Übersetzung folgt den erhaltenen Wörtern und der von Francesco Maniscalco untersuchten Lesung.
+
+> Nach zehn Jahren [die Anfangsphrase ist beschädigt] machte König Piodasses dem Volk die Frömmigkeit bekannt. Von da an machte er die Menschen frommer, und alles gedeiht auf der ganzen Erde. Der König enthält sich des Tötens lebender Wesen, und die anderen Menschen tun desgleichen. Die Jäger und Fischer des Königs haben die Jagd aufgegeben. Diejenigen, denen es an Mäßigung mangelte, haben dieses Verhalten nach besten Kräften abgelegt. Indem sie Vater, Mutter und den Älteren gehorchen, jetzt und in Zukunft, werden diejenigen, die diesen Pfad befolgen, in jeder Hinsicht besser leben.
+
+## Deutsche Übersetzung des Aramäischen
+
+Das Aramäische ist eine parallele Version mit abweichenden Formulierungen. Seine Lesung enthält mehrere umstrittene Wörter, insbesondere nahe dem Anfang und dem Ende.
+
+> Im zehnten Jahr stiftete unser Herr, König Priyadarśin, die Wahrheit. Danach nahm das Übel unter den Menschen ab und ihre Not schwand dahin; Friede und Wohlstand breiteten sich auf Erden aus. Für das Mahl des Königs werden nur noch wenige Tiere geschlachtet. Als die Menschen dies sahen, hörten sie auf zu töten, und auch die Fischer unterlagen dieser Einschränkung. Menschen ohne Mäßigung gaben dieses Verhalten auf. Sie gehorchen Mutter, Vater und den Älteren gemäß ihren Pflichten. Für die Rechtschaffenen gibt es kein Gericht [die genaue Bedeutung ist umstritten]. Dies hat allen genützt und wird ihnen künftig noch mehr nützen.
+
+## Quellen
+
+- Francesco Maniscalco, [“A New Interpretation of the Edicts of Aśoka from Kandahar” (2018)](https://doi.org/10.30687/AnnOr/2385-3042/2018/01/011), *Annali di Ca’ Foscari. Serie orientale* 54, S. 239–264 (griechischer Text, Übersetzung und Diskussion; CC BY 4.0).
+- Harry Falk, [*Aśokan Sites and Artefacts* (2006)](https://dokumen.pub/aokan-sites-and-artefacts-1nbsped-3805337124.html), S. 241–243 (Fundort, Abbildung und Bibliographie der aramäischen Editionen).
+- [Bildnachweis](https://commons.wikimedia.org/wiki/File:AsokaKandahar.jpg), Wikimedia Commons (gemeinfrei).

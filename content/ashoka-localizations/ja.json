@@ -1,0 +1,70 @@
+{
+  "common": {
+    "About this edict": "この勅令について",
+    "About this inscription": "この碑文について",
+    "Original script": "原碑文字",
+    "Original scripts": "原碑文字",
+    "Roman transliteration": "ローマ字翻字",
+    "localTranslationHeading": "日本語訳",
+    "English translation of the Greek": "ギリシア語テキストの日本語訳",
+    "English translation of the Aramaic": "アラム語テキストの日本語訳",
+    "Greek": "ギリシア語",
+    "Aramaic": "アラム語",
+    "Sources": "参考文献・出典",
+    "volumeOne": "第1巻",
+    "polyglottaEdition": "ビブリオテカ・ポリグロッタ版",
+    "universityOfOslo": "オスロ大学",
+    "translationBasisNote": "この日本語訳は、E・フルッチュによる1925年版の英訳に基づいています。専門用語および角括弧による補記は、その歴史的校訂版に準拠しています。",
+    "sourceNote": "マーガディー語の翻字、英訳、および碑文模刻",
+    "siteNames": {
+      "Bairat": "バイラート",
+      "Lumbini": "ルンビニー",
+      "Delhi–Topra": "デリー・トープラー",
+      "Girnar": "ギルナール",
+      "Kalsi": "カルシー",
+      "Rūpnāth": "ループナート",
+      "Brahmagiri": "ブラフマギリ",
+      "Nigali Sagar": "ニガリ・サーガル",
+      "Allahabad–Kauśāmbī": "アラーハーバード・カウシャーンビー",
+      "Sarnath": "サールナート",
+      "Dhauli": "ダウリ"
+    },
+    "siteAltTemplate": "フルッチュの1925年版における{site}ブラーフミー碑文の模刻",
+    "siteCaptionTemplate": "{site}碑文模刻。E・フルッチュ『アショーカ王碑文』（1925年）、パブリックドメイン。",
+    "siteTransliterationTemplate": "以下のテキストはフルッチュ版の{site}テキストに基づきます。角括弧は復元または不確実な文字を示し、ドットは損傷または欠損したテキストを示します。現存する他の写本では異同がある場合があります。",
+    "imageAltTranslations": {
+      "Brahmi facsimiles of the three Barabar cave inscriptions in Hultzsch’s 1925 edition; Karna Chaupar is third": "フルッチュ1925年版におけるバラバール洞窟の3つの碑文のブラーフミー模刻；カルナ・チャウパルは3番目",
+      "Brahmi facsimiles of the three Barabar cave inscriptions in Hultzsch’s 1925 edition; Sudama is first": "フルッチュ1925年版におけるバラバール洞窟の3つの碑文のブラーフミー模刻；スダーマーは1番目",
+      "Brahmi facsimiles of the three Barabar cave inscriptions in Hultzsch’s 1925 edition; Visvakarma is second": "フルッチュ1925年版におけるバラバール洞窟の3つの碑文のブラーフミー模刻；ヴィシュヴァカルマは2番目"
+    },
+    "imageCaptionTranslations": {
+      "Barabar cave inscription facsimiles. E. Hultzsch, <em>Inscriptions of Asoka</em> (1925), public domain.": "バラバール洞窟碑文模刻。E・フルッチュ『アショーカ王碑文』（1925年）、パブリックドメイン。"
+    },
+    "transliterationNotes": {
+      "The text below follows Hultzsch’s edition of the Karna Chaupar inscription. Square brackets mark restored or uncertain letters; dots mark a missing passage.": "以下のテキストはフルッチュ版カルナ・チャウパル碑文に基づきます。角括弧は復元または不確実な文字を示し、ドットは欠損した箇所を示します。",
+      "The text below follows Hultzsch’s edition of the Sudama inscription. Square brackets mark restored or uncertain letters.": "以下のテキストはフルッチュ版スダーマー碑文に基づきます。角括弧は復元または不確実な文字を示します。",
+      "The text below follows Hultzsch’s edition of the Visvakarma inscription. Square brackets mark restored or uncertain letters.": "以下のテキストはフルッチュ版ヴィシュヴァカルマ碑文に基づきます。角括弧は復元または不確実な文字を示します。"
+    }
+  },
+  "articles": {
+    "ashoka-major-rock-edict-1": {
+      "title": "大磨崖碑第1：動物の犠牲と王宮の厨房",
+      "excerpt": "アショーカ王は動物の犠牲祭を制限し、王室の厨房で料理のために殺される動物の数が劇的に減少したと述べています。",
+      "tags": [
+        "アショーカ王",
+        "碑文",
+        "大磨崖碑"
+      ],
+      "about": "この大磨崖碑は、公共の儀礼と王自身の厨房を結びつけています。食用に屠殺される動物の数が減少したことを記録し、残りの屠殺も停止することを誓約しています。",
+      "imageAlts": [
+        "フルッチュの1925年版におけるギルナール・ブラーフミー碑文の模刻"
+      ],
+      "imageCaptions": [
+        "ギルナール碑文模刻。E・フルッチュ『アショーカ王碑文』（1925年）、パブリックドメイン。"
+      ],
+      "transliterationNote": "以下のテキストはフルッチュ版のギルナール・テキストに基づきます。角括弧は復元または不確実な文字を示し、ドットは損傷または欠損したテキストを示します。現存する他の写本では異同がある場合があります。",
+      "translation": "> (A) 神々に愛されし者、慈愛深き王（デーヴァーナンピヤ・ピヤダシ）は、この法（ダルマ）に関する勅令を刻ませた。\n> (B) ここでは、いかなる生き物も屠殺して犠牲に捧げてはならない。\n> (C) また、祝宴の集会（サマージャ）を開催してはならない。\n> (D) なぜなら、神々に愛されし者、慈愛深き王は、祝宴の集会に多くの過ちを見出しているからである。\n> (E) しかし、神々に愛されし者、慈愛深き王に善行とみなされる祝宴の集会も存在する。\n> (F) かつて、神々に愛されし者、慈愛深き王の厨房では、毎日のカレーのために何十万頭もの動物が殺されていた。\n> (G) しかし今、この法に関する勅令が刻まれた時点では、毎日の食用に殺される動物は3頭のみである。すなわち、2羽の孔雀と1頭の鹿である。しかも、その鹿も定期的ではない。\n> (H) そして、将来はこの3頭の動物さえも殺されることはないであろう。",
+      "sourceNote": "マーガディー語の翻字、英訳、および碑文模刻"
+    }
+  }
+}

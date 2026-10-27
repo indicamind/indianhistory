@@ -1,0 +1,57 @@
+---
+title: "小磨崖碑第1：努力はすべての人に開かれている"
+slug: ashoka-minor-rock-edict-1
+excerpt: "アショーカ王は在俗信者としての歩みと、より深い熱意への転換を語り、身分の高低を問わず誰もが努力によって高みに達し得ると励まします。"
+publishedAt: 2026-10-16T00:00:00.000Z
+updatedAt: 2026-10-16T00:00:00.000Z
+period: mauryan
+polity: maurya
+personalities: [ashoka]
+relatedTo: ashoka-edicts
+tags: ["アショーカ王","碑文","小磨崖碑"]
+themes: []
+books: ["0349122385","935699322X","0143330802"]
+sourceHash: e530318b4eb486282f07efe8d804c6f5f6cc3ea774469aa950b524aa6ebc1fe5
+---
+
+## この勅令について
+
+アショーカ王の最も初期の個人的なアピールの一つです。仏教信徒としての自らの歩みを振り返り、道徳的向上が特権階級の専有物ではなく、熱意ある努力によってあらゆる人々に開かれていることを強調しています。
+
+## 原碑文字
+
+<figure class="article-figure inscription-plate">
+  <img src="/assets/media/images/ashoka-plate-1405685307.jpg" alt="フルッチュの1925年版におけるループナートブラーフミー碑文の模刻" loading="lazy" decoding="async" />
+  <figcaption>ループナート碑文模刻。E・フルッチュ『アショーカ王碑文』（1925年）、パブリックドメイン。</figcaption>
+</figure>
+
+## ローマ字翻字
+
+以下のテキストはフルッチュ版のループナートテキストに基づきます。角括弧は復元または不確実な文字を示し、ドットは損傷または欠損したテキストを示します。現存する他の写本では異同がある場合があります。
+
+<p class="inscription-transliteration" lang="pra-Latn">(A) 1 Devānaṃpiye heva[ṃ] āhā (B) sāti[ra]kekāni aḍhati[y]āni va ya sumi prakāsa [Sa]k[e] (C) no cu bāḍhi pakate (D) sātileke cu chavachare ya sumi haka[ṃ] sagh[a] up[e]te 2 bāḍhi c[a] pakate (E) ya [i]māya kālāya Jaṃbudipasi amisā devā husu te dāni m[i]s[ā] kaṭā (F) pakamasi hi [e]sa phale (G) no ca esā mahatatā p[ā]potave khudakena 3 pi pa[ka]mam[i]nenā sakiye pipule pa svage ārodheve (H) etiya aṭhāya ca sāvane kaṭe kh[u]dakā ca uḍālā ca pakamatu ti atā pi ca jānaṃtu iya paka[rā va] 4 kiti cira-ṭhitike siyā (I) iya hi aṭhe vaḍhi vaḍhisiti vipula ca vaḍhisiti apaladhiyenā diyaḍhiya vaḍhisata (J) iya ca aṭhe pavatis[u] lekhāpeta vālata (K) hadha ca athi 5 sālā-ṭh[abh]e silā-ṭha[ṃ]bhasi lākhāpetavaya ta (L) etinā ca vayajanenā yāvataka tupaka ahāle savara vivasetavā[ya] ti (M) vy[u]ṭhenā sāvane kaṭe (N) 200 50 6 sa6ta vivāsā ta</p>
+
+## 日本語訳
+
+この日本語訳は、E・フルッチュによる1925年版の英訳に基づいています。専門用語および角括弧による補記は、その歴史的校訂版に準拠しています。
+
+> (A) 神々に愛されし者はこのように言われる。
+> (B) 私が仏教の在俗信者（ウパーサカ）となってから、2年半以上の歳月が流れた。
+> (C) しかし最初のうちは、私はあまり熱心に努力をしなかった。
+> (D) ところが、私が僧伽（サンガ）に近づいてから1年以上が経ち、私は大いに熱意をもって努力するようになった。
+> (E) かつてジャンブドゥヴィーパ（インド）において神々と交わらなかった人々が、今や神々と交わるようになった。
+> (F) これは熱意と努力の結実である。
+> (G) そして、この結果は身分の高い者だけが達成できるものではない。
+> (H) 身分の低い者であっても、努力し熱意を傾けるならば、広大な天界の幸福を達成することができる。
+> (I) この目的のために、この布告が宣言された。
+> (J) 「身分の低い者も高い者も熱意を傾けよ。国境を越えた隣国の人々もこのことを知るように。そしてこの努力が久しく存続するように」。
+> (K) この実践と熱意は増大するであろう。大いに増大し、少なくとも一倍半には増大するであろう。
+> (L) そして、この布告は岩山に刻まれなければならない。
+> (M) 石柱が存在する所にはどこであれ、石柱の上にも刻まれなければならない。
+> (N) 巡回中の使節によって、この勅令は256夜（日）の旅をもって公布された。
+
+## 参考文献・出典
+
+- E. Hultzsch, [*Inscriptions of Asoka* (1925)](https://archive.org/details/InscriptionsOfAsoka.NewEditionByE.Hultzsch), *Corpus Inscriptionum Indicarum*, 第1巻.
+
+- [ビブリオテカ・ポリグロッタ版](https://www2.hf.uio.no/polyglotta/index.php?mid=0&page=fulltext&vid=399&view=fulltext), オスロ大学 (マーガディー語の翻字、英訳、および碑文模刻).

@@ -10,5 +10,6 @@ export interface BlogPost {
   tags: string[];
   books?: string[]; // ISBN-10 values for associated recommended books
   draft?: boolean;
+  previewOnly?: boolean;
   shareImage?: string;
 }

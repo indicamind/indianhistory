@@ -1,0 +1,70 @@
+{
+  "common": {
+    "About this edict": "Tentang maklumat ini",
+    "About this inscription": "Tentang prasasti ini",
+    "Original script": "Aksara asli",
+    "Roman transliteration": "Transliterasi Latin",
+    "localTranslationHeading": "Terjemahan bahasa Indonesia",
+    "Sources": "Sumber",
+    "volumeOne": "jilid I",
+    "polyglottaEdition": "edisi Bibliotheca Polyglotta",
+    "universityOfOslo": "Universitas Oslo",
+    "translationBasisNote": "Terjemahan bahasa Indonesia ini didasarkan pada terjemahan bahasa Inggris karya E. Hultzsch tahun 1925 untuk versi yang sama. Istilah dan rekonstruksi dalam tanda kurung siku mengikuti edisi historis tersebut.",
+    "Original scripts": "Aksara asli",
+    "English translation of the Greek": "Terjemahan bahasa Indonesia dari teks Yunani",
+    "English translation of the Aramaic": "Terjemahan bahasa Indonesia dari teks Aram",
+    "Greek": "Yunani",
+    "Aramaic": "Aram",
+    "sourceNote": "transliterasi Magadhi, terjemahan bahasa Inggris, dan faksimili prasasti",
+    "siteNames": {
+      "Bairat": "Bairat",
+      "Lumbini": "Lumbini",
+      "Delhi–Topra": "Delhi–Topra",
+      "Girnar": "Girnar",
+      "Kalsi": "Kalsi",
+      "Rūpnāth": "Rupnath",
+      "Brahmagiri": "Brahmagiri",
+      "Nigali Sagar": "Nigali Sagar",
+      "Allahabad–Kauśāmbī": "Allahabad–Kausambi",
+      "Sarnath": "Sarnath",
+      "Dhauli": "Dhauli"
+    },
+    "siteAltTemplate": "Faksimili prasasti Brahmi dari {site} dalam edisi Hultzsch tahun 1925",
+    "siteCaptionTemplate": "Faksimili prasasti {site}. E. Hultzsch, <em>Inscriptions of Asoka</em> (1925), domain publik.",
+    "siteTransliterationTemplate": "Teks di bawah ini mengikuti versi {site} dalam edisi Hultzsch. Tanda kurung siku menunjukkan huruf yang direkonstruksi atau belum pasti; titik-titik menunjukkan teks yang rusak atau hilang. Salinan lain yang masih ada mungkin berbeda.",
+    "imageAltTranslations": {
+      "Brahmi facsimiles of the three Barabar cave inscriptions in Hultzsch’s 1925 edition; Karna Chaupar is third": "Faksimili Brahmi dari tiga prasasti gua Barabar dalam edisi Hultzsch tahun 1925; Karna Chaupar adalah yang ketiga",
+      "Brahmi facsimiles of the three Barabar cave inscriptions in Hultzsch’s 1925 edition; Sudama is first": "Faksimili Brahmi dari tiga prasasti gua Barabar dalam edisi Hultzsch tahun 1925; Sudama adalah yang pertama",
+      "Brahmi facsimiles of the three Barabar cave inscriptions in Hultzsch’s 1925 edition; Visvakarma is second": "Faksimili Brahmi dari tiga prasasti gua Barabar dalam edisi Hultzsch tahun 1925; Visvakarma adalah yang kedua"
+    },
+    "imageCaptionTranslations": {
+      "Barabar cave inscription facsimiles. E. Hultzsch, <em>Inscriptions of Asoka</em> (1925), public domain.": "Faksimili prasasti gua Barabar. E. Hultzsch, <em>Inscriptions of Asoka</em> (1925), domain publik."
+    },
+    "transliterationNotes": {
+      "The text below follows Hultzsch’s edition of the Karna Chaupar inscription. Square brackets mark restored or uncertain letters; dots mark a missing passage.": "Teks di bawah ini mengikuti edisi Hultzsch untuk prasasti Karna Chaupar. Tanda kurung siku menunjukkan huruf yang direkonstruksi atau belum pasti; titik-titik menandai bagian yang hilang.",
+      "The text below follows Hultzsch’s edition of the Sudama inscription. Square brackets mark restored or uncertain letters.": "Teks di bawah ini mengikuti edisi Hultzsch untuk prasasti Sudama. Tanda kurung siku menunjukkan huruf yang direkonstruksi atau belum pasti.",
+      "The text below follows Hultzsch’s edition of the Visvakarma inscription. Square brackets mark restored or uncertain letters.": "Teks di bawah ini mengikuti edisi Hultzsch untuk prasasti Visvakarma. Tanda kurung siku menunjukkan huruf yang direkonstruksi atau belum pasti."
+    }
+  },
+  "articles": {
+    "ashoka-major-rock-edict-1": {
+      "title": "Maklumat Batu Utama I: Pengorbanan Hewan dan Dapur Kerajaan",
+      "excerpt": "Ashoka membatasi pengorbanan hewan dan menyatakan bahwa penyembelihan di dapur kerajaan telah berkurang drastis.",
+      "tags": [
+        "Ashoka",
+        "maklumat",
+        "maklumat batu utama"
+      ],
+      "about": "Maklumat batu utama yang pertama mengaitkan ritual pengorbanan publik dengan dapur istana sang raja sendiri. Maklumat ini mencatat pengurangan drastis hewan yang disembelih untuk konsumsi harian dan berjanji untuk menghentikan bahkan penyembelihan yang masih tersisa.",
+      "imageAlts": [
+        "Faksimili prasasti beraksara Brahmi dari Girnar dalam edisi Hultzsch tahun 1925"
+      ],
+      "imageCaptions": [
+        "Faksimili prasasti Girnar. E. Hultzsch, <em>Inscriptions of Asoka</em> (1925), domain publik."
+      ],
+      "transliterationNote": "Teks di bawah ini mengikuti versi Girnar dalam edisi Hultzsch. Tanda kurung siku menunjukkan huruf yang direkonstruksi atau belum pasti; titik-titik menunjukkan teks yang rusak atau hilang. Salinan lain yang masih ada mungkin berbeda.",
+      "translation": "> (A) Maklumat tentang perilaku moral ini diperintahkan untuk ditulis oleh Raja Devānāṁpriya Priyadarśin.\n> (B) Di sini tidak boleh ada makhluk hidup yang dibunuh untuk dipersembahkan sebagai kurban.\n> (C) Pertemuan pesta perayaan juga tidak boleh diselenggarakan.\n> (D) Sebab Raja Devānāṁpriya Priyadarśin melihat banyak keburukan dalam pertemuan pesta perayaan.\n> (E) Akan tetapi, ada pula pertemuan perayaan tertentu yang dianggap bajik oleh Raja Devānāṁpriya Priyadarśin.\n> (F) Dahulu, di dapur Raja Devānāṁpriya Priyadarśin ratusan ribu hewan disembelih setiap hari demi hidangan kari.\n> (G) Kini, ketika maklumat moral ini dipahatkan, hanya tiga makhluk hidup yang disembelih setiap hari untuk makanan: dua burung merak dan satu rusa; dan rusa ini pun tidak dibunuh secara rutin.\n> (H) Di kemudian hari, ketiga hewan ini pun tidak akan dibunuh lagi.",
+      "sourceNote": "transliterasi Magadhi, terjemahan bahasa Inggris, dan faksimili prasasti"
+    }
+  }
+}

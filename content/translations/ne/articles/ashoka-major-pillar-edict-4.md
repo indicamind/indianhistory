@@ -1,0 +1,58 @@
+---
+title: "प्रमुख स्तम्भादेश IV: न्याय र रज्जुकहरू"
+slug: ashoka-major-pillar-edict-4
+excerpt: "राजाले स्थानीय अधिकारीहरूलाई अधिकार दिँदै उनीहरूबाट न्यायमा निष्पक्षता र संयमको अपेक्षा गर्दछन्।"
+publishedAt: 2026-10-16T00:00:00.000Z
+updatedAt: 2026-10-16T00:00:00.000Z
+period: mauryan
+polity: maurya
+personalities: [ashoka]
+relatedTo: ashoka-edicts
+tags: ["अशोक","शिलालेख","प्रमुख स्तम्भादेश"]
+themes: []
+books: ["0349122385","935699322X","0143330802"]
+sourceHash: add5b322da0d995a65d1cdf9352963a7f852adbaaf0c5f5039b8dfe057d9f1a9
+---
+
+## यस शिलादेशको बारेमा
+
+यो आदेश लाखौं जनताका लागि जिम्मेवार रज्जुक अधिकारीहरूका बारेमा हो। यसमा पुरस्कार र दण्ड निर्धारण गर्ने तजबिजी अधिकार तथा मृत्युदण्ड अघि तीन दिनको मोहलत दिइएको छ। यसले देखाउँछ कि अशोकको नैतिक कार्यक्रम दण्ड दिने राज्य व्यवस्था भित्रै सञ्चालित थियो।
+
+## मूल लिपि
+
+<figure class="article-figure inscription-plate">
+  <img src="/assets/media/images/ashoka-plate-1405674156.jpg" alt="हुल्त्शको १९२५ को संस्करणमा दिल्ली–टोपराको ब्राह्मी अभिलेखको प्रतिकृति" loading="lazy" decoding="async" />
+  <figcaption>दिल्ली–टोपराको अभिलेख प्रतिकृति। ई. हुल्त्श, <em>Inscriptions of Asoka</em> (1925), सार्वजनिक डोमेन।</figcaption>
+</figure>
+
+## रोमन लिप्यन्तरण
+
+तलको पाठले हुल्त्शको संस्करणमा दिल्ली–टोपराको पाठलाई पछ्याउँछ। वर्गाकार कोष्ठकले पुनर्स्थापित वा अनिश्चित अक्षरहरू देखाउँछन्; थोप्लाहरूले क्षतिग्रस्त वा हराएको पाठलाई जनाउँछन्। अन्य जीवित प्रतिहरू फरक हुन सक्छन्।
+
+<p class="inscription-transliteration" lang="pra-Latn">West Face of Pillar. (A) 1 Devānaṃpiye Piyadasi l[ā]ja hevaṃ āhā (B) saḍuvīsati-vasa-2abhisitena me iyaṃ dhaṃma-lipi likhāpitā (C) lajūkā me 3 bahūsu pāna-sata-sahasesu janasi āyatā (D) tesaṃ ye abhihāle vā 4 daṃḍe vā ata-patiye me kaṭe kiṃti lajūkā asvatha abhītā 5 kaṃmāni pavatayevū janasa jānapadasā hita-sukhaṃ upadahevū 6 anugahinevu cā (E) sukhīyana-dukhīyanam jānisaṃti dhaṃma-yutena ca 7 viyovadisaṃti janaṃ jānapadaṃ kiṃti hidataṃ ca pālataṃ ca 8 ālādhayevā ti (F) lajūkā pi laghaṃti paṭicalitave maṃ (G) pulisāni pi me 9 chaṃdaṃnāni paṭicalisaṃti (H) te pi ca kāni viyovadisaṃti yena maṃ lajūkā 10 caghaṃti ālādhayitave (I) athā hi pajaṃ viyatāye dhātiye nisijitu 11 asvathe hoti viyata dhāti caghati me pajaṃ sukhaṃ palihaṭave 12 hevaṃ mamā lajūkā kaṭā jānapadasa hita-sukhāye (J) yena ete abhītā 13 asvatha saṃtaṃ avimanā kaṃmāni payatayevū ti etena me lajūkānaṃ 14 abh[i]hāle vāa daṃḍe vā ata-patiye kaṭe (K) ichitaviye [h]i esa kiṃti 15 viyohāla-samatā ca siya daṃḍa-samatā cā (L) ava ite pi ca me āvuti 16 baṃdhana-badhānaṃ munisānaṃ tīl[i]ta-daṃḍānaṃ pata-vadhānaṃ tiṃni divasā[n]i me 17 yote diṃne (M) nātikā va kāni nijhapayisaṃti jīvitāye tānaṃ 18 nāsaṃtaṃ vā nijhapayitā dānaṃ dāhaṃti pālatikaṃ upavāsaṃ va kachaṃti (N) 19 ichā hi me hevaṃ niludhasi pi kālasi pālataṃ ālādhayevū ti (O) janasa ca 20 vaḍhati vividhe dhaṃma-calane saṃyame dāna-savibhāge ti</p>
+
+## नेपाली अनुवाद
+
+यो नेपाली अनुवाद तल उद्धृत संस्करणको अङ्ग्रेजी अनुवादमा आधारित छ। क्षतिग्रस्त तथा अनिश्चित अंशहरू त्यस ऐतिहासिक संस्करण अनुसार चिह्नित छन्।
+
+> (A) राजा देवानांप्रिय प्रियदर्शी यस प्रकार भन्दछन्।
+> (B) मैले राज्याभिषेकको छब्बीस वर्षपछि यो धर्म आदेश लेखाएँ।
+> (C) मेरा रज्जुकहरू लाखौं मानिसहरूका मामिलाहरूमा खटिएका छन्।
+> (D) मैले पुरस्कार र दण्ड उनीहरूको विवेकमा छाडेको छु, ताकि रज्जुकहरूले आत्मविश्वास र निर्भयताका साथ आफ्नो कर्तव्य पूरा गरून्, देशका जनतालाई कल्याण र सुख दिऊन् र उनीहरूको भलाइ गरून्।
+> (E) उनीहरूले जान्नेछन् कि कुन तरिकाले सुख वा दुःख पुर्याउनुपर्छ; धर्मसँग जोडिएका मानिसहरूका माध्यमबाट उनीहरूले जनतालाई अर्ति-उपदेश दिनेछन्, ताकि जनताले यस लोक र परलोकमा सुख प्राप्त गरून्।
+> (F) रज्जुकहरू मेरो आज्ञा पालन गर्न तत्पर छन्।
+> (G) मेरा दूतहरू (पुरुषहरू) पनि, जसलाई मेरो इच्छा थाहा छ, रज्जुकहरूलाई आज्ञा दिनेछन् र उनीहरूलाई सञ्चालन गर्नेछन्, ताकि रज्जुकहरूले मलाई प्रसन्न पार्न सकून्।
+> (H) जसरी कुनै व्यक्तिले आफ्ना सन्तानलाई कुनै योग्य धाईआमालाई सुम्पिएर ढुक्क हुन्छ: ‘यो योग्य धाईआमाले मेरा सन्तानको राम्रोसँग हेरचाह गर्नेछिन्’, त्यसै गरी मैले देशका जनताको हित र सुखका लागि रज्जुकहरू नियुक्त गरेको छु।
+> (I) उनीहरूले निर्भय, ढुक्क र शान्त भएर कर्तव्य पूरा गर्न सकून् भन्नाका लागि मैले उनीहरूलाई पुरस्कार र दण्डको तजबिज सुम्पिएको छु।
+> (J) किनभने यो कुरा वाञ्छनीय छ: न्यायिक प्रक्रिया र दण्डविधानमा समानता र निष्पक्षता हुनुपर्छ।
+> (K) र मेरो यो आदेश मृत्युदण्ड पाएका कैदीहरूसम्म पनि लागू हुन्छ:
+> (L) उनीहरूलाई मृत्युदण्ड दिनुभन्दा अघि तीन दिनको मोहलत (समय) दिइएको छ।
+> (M) यो समयमा उनीहरूका आफन्तहरूले उनीहरूको जीवनरक्षाका लागि अपिल गर्न सक्नेछन्,
+> (N) वा यदि अपिल गर्ने कोही छैन भने, उनीहरूले परलोकमा सुख प्राप्त गर्नका लागि दान दिन वा उपवास बस्न सक्नेछन्।
+> (O) मेरो इच्छा छ कि जीवनको अन्तिम समयमा पनि उनीहरूले परलोकका लागि पुण्य कमाऊन्, र मानिसहरूका बीचमा धर्मका विभिन्न आचरण, आत्मसंयम र दानको वृद्धि होस्।
+
+## स्रोतहरू
+
+- E. Hultzsch, [*Inscriptions of Asoka* (1925)](https://archive.org/details/InscriptionsOfAsoka.NewEditionByE.Hultzsch), *Corpus Inscriptionum Indicarum*, खण्ड १.
+
+- [बिब्लियोथेका पोलिग्लोटा संस्करण](https://www2.hf.uio.no/polyglotta/index.php?mid=0&page=fulltext&vid=370&view=fulltext), ओस्लो विश्वविद्यालय (मागधी लिप्यन्तरण, अङ्ग्रेजी अनुवाद र अभिलेखका प्रतिकृतिहरू).

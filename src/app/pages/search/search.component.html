@@ -10,12 +10,13 @@
       id="q"
       name="q"
       type="search"
-      [(ngModel)]="query"
-      (ngModelChange)="onQueryInput($event)"
+      [disabled]="loading()"
+      [value]="query"
+      (input)="onQueryInput($any($event.target).value)"
       placeholder="Search"
       autocomplete="off"
     />
-    <button type="submit" class="btn btn-primary">Search</button>
+    <button type="submit" class="btn btn-primary" [disabled]="loading()">Search</button>
   </div>
   <div class="filter-row" role="group" aria-label="Filter search results">
     @for (filter of filters(); track filter.value) {

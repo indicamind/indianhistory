@@ -14,6 +14,9 @@
       {{ post()!.publishedAt | date: 'longDate' }}
       @if (post()!.author) { · {{ post()!.author }} }
     </p>
+    @if (post()!.previewOnly) {
+      <p class="eyebrow">{{ locale.translate('English preview · Translations in progress') }}</p>
+    }
     <h1>{{ post()!.title }}</h1>
     @if (!post()!.draft && post()!.viewCount !== undefined && (devMode.isDevMode() || post()!.viewCount! >= 10)) {
       <p class="view-count">

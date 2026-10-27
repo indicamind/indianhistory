@@ -1,0 +1,25 @@
+{
+  "title": "Kandahar III: ein aramäisches Fragment des Säulenedikts VII",
+  "excerpt": "Sieben beschädigte Zeilen aus Kandahar bewahren indische Wendungen und aramäische Erläuterungen, die Ashokas siebtem Großen Säulenedikt entsprechen.",
+  "tags": [
+    "Ashoka",
+    "Inschriften",
+    "Aramäisch",
+    "Kandahar"
+  ],
+  "imageAlts": [
+    "Abschrift von sieben Zeilen der beschädigten aramäischen Inschrift Kandahar III"
+  ],
+  "imageCaptions": [
+    "Zeichnung der sieben erhaltenen Zeilen von Pataliputra, über Wikimedia Commons (CC BY-SA 4.0). Es handelt sich um eine Zeichnung, nicht um ein Foto des Steins."
+  ],
+  "blocks": {
+    "1": "Dieses kleine Kalksteinfragment bewahrt sieben unvollständige Zeilen. Es stammt aus dem antiken Kandahar und wurde 1966 von André Dupont-Sommer veröffentlicht. Es mischt mittelindoarische Phrasen in aramäischer Schrift mit aramäischen Erläuterungen. Émile Benveniste ordnete die indischen Phrasen einer Passage aus dem Großen Säulenedikt VII zu. Da der Anfang jeder Zeile abgebrochen ist und einige Wörter unklar bleiben, existiert keine zusammenhängende Übersetzung des gesamten ursprünglichen Textes. Diese Seite bietet **alle erhaltenen Zeilen** und macht deutlich, was gedeutet werden kann und was unklar bleibt; der vollständige Säulentext findet sich im separaten Artikel zu Säulenedikt VII.",
+    "4": "Die folgende Darstellung in aramäischen Buchstaben wurde auf Grundlage von Dupont-Sommers lateinischer Transkription standardisiert. Es ist kein diplomatisches Faksimile. Auslassungspunkte markieren Brüche und unleserliche Stellen; mehrere erhaltene Buchstaben bleiben unsicher.",
+    "7": "Die sieben erhaltenen Zeilen folgen der Ausgabe von Dupont-Sommer. Die Abbrüche am Anfang und Ende können am Stein selbst nicht ergänzt werden.",
+    "10": "Die identifizierbaren Wörter und Ausdrücke werden übersetzt, ohne verlorene Teile stillschweigend zu ergänzen. Mehrere Lesarten und Bedeutungen sind umstritten.",
+    "11": "> 1. … ‚gemäß‘ …\n> 2. … ‚auch, dass‘ … [indische Wendung entsprechend ‚was auch immer fürwahr‘ im Säulenedikt VII] …\n> 3. … ‚gemäß‘ … ‚Land‘ … ‚und nun‘ … [indische Wendung bezüglich rechter Befolgung oder rechtem Wandel] …\n> 4. … ‚sind auch gewachsen und werden wachsen an Gehorsam‘ …\n> 5. … ‚gemäß … Gehorsam‘ … [letztes Wort unsicher] …\n> 6. … [indische Wendung entsprechend *anuppatipatiyā*, ‚gemäß‘ oder ‚in Befolgung‘] …\n> 7. … [unsicheres Wort] … ‚Sklaven‘ [oder andere Lesart] …",
+    "12": "Benveniste identifizierte die indischen Wendungen der Zeilen 2, 3 und 6 mit Ausdrücken aus dem Großen Säulenedikt VII, das in unserem Leitfaden einen eigenen Artikel hat. Diese Identifizierung liefert wertvollen Kontext, stellt die verlorenen Teile dieses Fragments jedoch nicht wieder her.",
+    "14": "- André Dupont-Sommer, [“Une nouvelle inscription araméenne d’Asoka découverte à Kandahar” (1966)](https://www.persee.fr/doc/crai_0065-0536_1966_num_110_3_12024), *Comptes rendus des séances de l’Académie des Inscriptions et Belles-Lettres* 110(3), S. 440–451 (vollständige erhaltene Transkription und Erstanalyse).\n- Harry Falk, [*Aśokan Sites and Artefacts* (2006)](https://dokumen.pub/aokan-sites-and-artefacts-1nbsped-3805337124.html), S. 246–247 (Kontext des Korpus und Alternativübersetzung).\n- [Bildnachweis](https://commons.wikimedia.org/wiki/File:Kandahar_Aramaic_inscription.jpg), Wikimedia Commons (CC BY-SA 4.0)."
+  }
+}

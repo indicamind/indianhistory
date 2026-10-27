@@ -1,0 +1,67 @@
+---
+title: 'पृथक्शिलालेखः II: सीमायां विश्वासः'
+slug: ashoka-separate-rock-edict-2
+excerpt: अशोकः कलिङ्गस्य अधिकारिणः सीमापरजनान् आश्वासयितुं धैर्येण च शासितुम् आदिशति।
+publishedAt: 2026-10-16T00:00:00.000Z
+updatedAt: 2026-10-16T00:00:00.000Z
+period: mauryan
+polity: maurya
+personalities:
+  - ashoka
+relatedTo: ashoka-edicts
+tags:
+  - अशोकः
+  - अभिलेखाः
+  - पृथक्शिलालेखः
+themes: []
+books:
+  - 0349122385
+  - 935699322X
+  - 0143330802
+sourceHash: 074108640470a9f296668e9fc9d0a95fa851f23c70333689cead65fb7b63d70a
+---
+## अस्य लेखस्य परिचयः
+
+द्वितीयः पृथक्लेखः अविजितप्रतिवेशिनां विश्वासं जेतुम् अधिकारिणः आह। सः राजानं प्रजानां पितृरूपेण प्रस्तुतं करोति, एतं दावं विश्वसनीयं कर्तुं तु अधिकारिषु अपि निर्भरः अस्ति।
+
+## मूललिपिः
+
+<figure class="article-figure inscription-plate">
+  <img src="/assets/media/images/ashoka-plate-1405671324.jpg" alt="हुल्त्शस्य 1925 तमवर्षस्य संस्करणे धौलीस्थब्राह्मीलेखस्य प्रतिकृतिः" loading="lazy" decoding="async" />
+  <figcaption>धौलीलेखस्य प्रतिकृतिः। ई. हुल्त्शः, <em>Inscriptions of Asoka</em> (1925), सार्वजनिकक्षेत्रे।</figcaption>
+</figure>
+
+## रोमनलिप्यन्तरणम्
+
+अधोलिखितः पाठः हुल्त्शस्य संस्करणे धौलीपाठरूपम् अनुसरति। वर्गकोष्ठकानि पुनःस्थापितानि अनिश्चितानि वा अक्षराणि दर्शयन्ति; बिन्दवः क्षतं लुप्तं वा पाठं सूचयन्ति। अन्येषु अवशिष्टप्रतिलेखेषु भेदाः सम्भवन्ति।
+
+<p class="inscription-transliteration" lang="pra-Latn">(A) 1 Devānaṃpiyas[a] vacanena Tosaliyaṃ kumāle mahāmātā ca vataviya (B) aṃ kichi dakhām[i] h[akaṃ taṃ i] .......... 2 duvālate ca ālabhehaṃ (C) esa ca me mokhya-mata duvālā etasi aṭhasi aṃ tuphe[s]u .......... mama (D) ... (E) 3 ath[a] pajāye ichāmi hakaṃ ki[ṃ]ti savena hi[ta-sukhe]na hidalokikapālalokikāye yujevū ti h[e]v[aṃ] .......... (F) 4 siyā aṃtānaṃ avijitānaṃ ki-cha[ṃde] su lāja [aphesu] .. (G) ..... m[a]va icha mama aṃtesu ... i [p]ā[p]unevu te iti Devānaṃp[iy] ....... [anu]v[i]g[ina] mamāye 5 huvevū ti asvasevu ca sukhaṃmeva lahevu mamat[e] no dukha[ṃ] h[e]va[ṃ] … un[e]vū iti khamisati ne Devānaṃpiye [aph]ākā ti e cakiye khamitave mama nimitaṃ [va] ca dhaṃmaṃ calevū 6 hidaloka palaloka[ṃ] ca āladhayevū (H) etasi aṭhasi haka[ṃ] anusāsāmi tuphe ana[n]e [e]takena hakaṃ anusāsitu chaṃdaṃ cā veditu ā [hi] dhi[t]i paṭiṃñā ca mamā 7 [ajalā (I) s[e] hevaṃ kaṭu kaṃme cal[i]t[a]v[i]ye asv[āsa] ..... i [ca] tāni ena pāpunevū iti atha pitā tatha Devānaṃpiy[e] aphāka athā ca atānaṃ hevaṃ Devānaṃpiye [a]nukaṃpati aphe 8 athā ca pajā hevaṃ may[e] D[e]vānaṃpiyasa (J) se hakaṃ anusāsitu [cha]ṃda[m] c[a veditu tu]phāk[a] desāvutike hosāmi etāye aṭhāye (K) paṭibalā hi tuph[e] asvāsanāye hita-sukhāye ca [tesa] 9 hidalokika-pālalo[ki]kāye (L) hevaṃ ca kalaṃtam tuphe svagam ālādha[yi]satha mama c[a] ānaniyam ehatha (M) etāye ca aṭhāye iyaṃ lipi likhitā hida e[na ma]hāmātā svasata[ṃ sa]ma 10 yujisaṃti as[vā]s[a]nāye dhaṃma-cala[n]āye ca tes[a] aṃtānaṃ (N) iyaṃ ca lipi [anu]cātuṃmāsaṃ tisena nakhatena sotaviyā (O) kāmaṃ cu [kha]ṇas[i] khanasi aṃtalā pi tisena ekena [p]i 11 [so]taviya (P) hevaṃ kala[ṃ]taṃ [t]uphe caghatha saṃpaṭipādayitave</p>
+
+## संस्कृतानुवादः
+
+अयं तस्यैव पाठरूपस्य ई. हुल्त्शकृतस्य 1925 तमवर्षस्य आङ्ग्लानुवादस्य संस्कृतानुवादः। अस्य पारिभाषिकशब्दाः कोष्ठकस्थपाठपुनःस्थापनानि च तस्य ऐतिहासिकसंस्करणस्य अनुसरणं कुर्वन्ति।
+
+> (A) देवानांप्रियस्य वचनेन तोसल्यां कुमारः प्रान्तशासकः महामात्राश्च एवम् उपदेष्टव्याः।
+> (B) यत् किञ्चित् अहं सम्यक् इति जानामि, तत् .......... विविधोपायैः साधयितुं च।
+> (C) अस्य प्रयोजनस्य मुख्योपायः मया अयं मन्यते—.......... भवद्भ्यः।
+> (D) .......... मम .....
+> (E) यथा स्वसन्तानानां कृते इच्छामि यत् ते इहलोके परलोके च सम्पूर्णहितसुखसम्पन्नाः स्युः, तथा ..........
+> (F) मम अविजितसीमावर्तिनां मनसि प्रश्नः उद्भवेत्—‘अस्मान् अधिकृत्य राजा किम् इच्छति?’
+> (G) सीमावर्तिनः अधिकृत्य मम [इयमेव] इच्छा—ते जानीयुः यत् देवानांप्रियः ..........; ते मत्तः न बिभीयुः, अपितु मयि विश्वसेयुः; मत्तः केवलं सुखं न तु दुःखं प्राप्नुयुः; इदं [जानीयुः] यत् देवानांप्रियः क्षन्तुं शक्यं क्षमिष्यते; मया प्रेरिताः धर्मम् आचरेयुः, इहलोके परलोके च सुखं प्राप्नुयुः।
+> (H) एतदर्थं भवन्तम् अनुशास्मि, यत् अनेन तेषाम् ऋणं निर्वर्तयेयम्—भवताम् अनुशासनेन मम अभिप्रायस्य ज्ञापनेन च, अर्थात् मम अचलेन सङ्कल्पेन व्रतेन च।
+> (I) अतः एवम् आचरन्तः भवन्तः स्वकर्तव्यं पूरयेयुः, तेषु विश्वासम् उत्पादयेयुश्च, येन ते जानीयुः यत् देवानांप्रियः तेषां पितृसदृशः, देवानांप्रियः तान् स्वात्मवत् प्रीणाति, ते च देवानांप्रियस्य स्वसन्तानसदृशाः।
+> (J) अतः भवन्तम् अनुशास्य स्वाभिप्रायं ज्ञापयित्वा च अहम् अस्य प्रयोजनस्य कृते सर्वप्रान्तेषु अधिकारिणः धारयिष्यामि।
+> (K) भवन्तः हि तेषु सीमावर्तिषु विश्वासम् उत्पादयितुं तेषाम् इहपरलोकयोः हितसुखं साधयितुं च समर्थाः।
+> (L) एवम् आचरथ चेत् भवन्तः स्वर्गं प्राप्स्यथ, मह्यं ऋणं च निर्वर्तयिष्यथ।
+> (M) एतदर्थम् अत्र अयं लेखः लिखितः, यत् महामात्राः सर्वदा तेषु मम सीमावर्तिषु विश्वासोत्पादनाय धर्माचरणप्रेरणाय च प्रयतेरन्।
+> (N) अयञ्च लेखः प्रतिचतुर्मासं तिष्यनक्षत्रदिने सर्वैः श्रोतव्यः।
+> (O) इच्छया तु तिष्यदिनानाम् अन्तराले अन्येष्वपि बहुषु प्रसङ्गेषु एकेनापि अयं श्रोतुं शक्यते।
+> (P) एवम् आचरथ चेत् मम आदेशान् पालयितुं शक्ष्यथ।
+
+## स्रोतांसि
+
+- [Bibliotheca Polyglotta संस्करणम्](https://www2.hf.uio.no/polyglotta/index.php?mid=0&page=fulltext&vid=364&view=fulltext), ओस्लोविश्वविद्यालयः (मागधीलिप्यन्तरणम्, आङ्ग्लानुवादः अभिलेखप्रतिकृतयश्च)।
+
+### चित्रश्रेयः
+
+- ई. हुल्त्शः, [*Inscriptions of Asoka* (1925)](https://archive.org/details/InscriptionsOfAsoka.NewEditionByE.Hultzsch), *Corpus Inscriptionum Indicarum*, प्रथमः खण्डः। उपर्युक्तब्राह्मीलेखप्रतिकृतेः मूलस्रोतः; सार्वजनिकक्षेत्रे।

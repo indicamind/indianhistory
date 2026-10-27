@@ -1,0 +1,58 @@
+---
+title: "ප්‍රධාන ගිරි ලිපිය V: ධර්ම මහාමාත්‍රවරුන් පත් කිරීම"
+slug: ashoka-major-rock-edict-5
+excerpt: "අශෝක සිය අභිෂේකයෙන් දහතුන් වසරකට පසු ධර්ම මහාමාත්‍ර නමැති නව නිලධාරී පන්තියක් පත් කර, සියලු ආගමික නිකායන් අතර ධර්මය ප්‍රවර්ධනය කිරීමට සහ දුප්පතුන්, වැඩිහිටියන් හා සිරකරුවන් රැකබලා ගැනීමට ඔවුන්ට පැවරූ අයුරු දක්වයි."
+publishedAt: 2026-10-16T00:00:00.000Z
+updatedAt: 2026-10-16T00:00:00.000Z
+period: mauryan
+polity: maurya
+personalities: [ashoka]
+relatedTo: ashoka-edicts
+tags: ["අශෝක","සෙල්ලිපි","ප්‍රධාන ගිරි ලිපි"]
+themes: []
+books: ["0349122385","935699322X","0143330802"]
+sourceHash: b3867ef514a64c93608104798dfd368ed66fd2a736cdb61810320e331022937f
+---
+
+## මෙම රාජාඥාව පිළිබඳව
+
+මෙම ආඥාව මෞර්ය අධිරාජ්‍යයේ සුවිශේෂී ආයතනයක් වූ ‘ධර්ම මහාමාත්‍ර’ තනතුර පිහිටුවීම පිළිබඳ ඓතිහාසික වාර්තාවයි.
+
+## මුල් ලිපිය
+
+<figure class="article-figure inscription-plate">
+  <img src="/assets/media/images/ashoka-plate-1405552832.jpg" alt="හුල්ට්ෂ්ගේ 1925 සංස්කරණයේ කල්සි බ්‍රාහ්මී සෙල්ලිපි පිටපත" loading="lazy" decoding="async" />
+  <figcaption>කල්සි සෙල්ලිපි පිටපත. ඊ. හුල්ට්ෂ්, <em>Inscriptions of Asoka</em> (1925), පොදු වසම.</figcaption>
+</figure>
+
+## රෝමානු අක්ෂර පරිවර්තනය
+
+පහත දැක්වෙන පාඨය හුල්ට්ෂ්ගේ සංස්කරණයේ කල්සි පාඨය අනුගමනය කරයි. කොටු වරහන් මගින් ප්‍රතිස්ථාපනය කළ හෝ අවිනිශ්චිත අකුරු සලකුණු කරයි; තිත් මගින් හානි වූ හෝ අස්ථානගත වූ පාඨය දක්වයි. වෙනත් ඉතිරිව ඇති පිටපත් වෙනස් විය හැකිය.
+
+<p class="inscription-transliteration" lang="pra-Latn">(A) 13 Devānaṃpiye Piyadasi lājā ahā (B) kayāne dukale (C) e ādikale kay[ā]nasā se dukalaṃ kaleti (D) se mamayā bahu kayāne kaṭ[e] (E) t[ā ma]m[ā putā] c[ā] nat[āle cā] 14 palaṃ [cā] tehi [ye] apatiye [m]e āva-kapaṃ tathā anuvaṭisa[ṃ]ti s[e] s[u]kataṃ kachaṃ[t]i (F) e cu het[ā] desaṃ pi hāpa[y]i[sat]i s[e] dukaṭam kachati (G) p[ā]pe hi nāmā supadālaye (H) se atikamtam aṃtalam no huta-puluva dhaṃ[ma]-mahāmatā nāma (I) t[e]dasa-vasābh[i]sitena mamayā dhaṃmamahāmāt[ā ka]ṭ[ā] (J) [te] sav[a]-pāsam[ḍe]su viyā[pa]ṭā 15 dhaṃ[m]ādhithā[nāye c]ā dhaṃma-vaḍhiya hi[da]-sukhāye vā dhamm[a]-yutas[ā] Yona-Kaṃb[o]ja-Gaṃdhālānaṃ e vā [pi] aṃne apalaṃtā (K) bhaṭamayesu baṃbhanibhesu anathesu [v]udhesu hida-sukhāye dhaṃma-yutāye apalibodhāye viyapaṭā te (L) baṃdha[na-badha]sā paṭividhānāy[e] apalibodhāye mokh[ā]ye cā eyaṃ anubadh[ā] pajāva ti v[ā] 16 [kaṭābhikā]le ti vā m[ah]ā[la]ke ti v[ā] viy[ā]paṭā te (M) hid[ā] bā[h]ilesu cā naga[l]esu s[a]ves[u olodha]n[esu] bhā[tina]ṃ ca ne bh[agi]ni[nā] e vā [pi] aṃn[e] nātikye savatā viyā[pa]ṭā (N) e iyaṃ dhaṃma-nisite ti vā dāna-suyute ti [v]ā sav[a]tā v[i]jtas[i] mamā [dha]ṃma-yutasi viyāpaṭā te dhaṃmam[a]hām[a]ta (0) etāye aṭhāye 17 [i]yaṃ dhaṃma-lipi lekhitā ci[la]-thitikyā hotu [tathā] ca me [pa]jā [a]nuva[ta]tu</p>
+
+## සිංහල පරිවර්තනය
+
+මෙම සිංහල පරිවර්තනය පහත සඳහන් සංස්කරණයේ ඉංග්‍රීසි පරිවර්තනය මත පදනම් වේ. ඓතිහාසික සංස්කරණයට අනුකූලව හානි වූ සහ අවිනිශ්චිත කොටස් සලකුණු කර ඇත.
+
+> (A) දේවානම්ප්‍රිය ප්‍රියදර්ශී රජු මෙසේ පවසයි.
+> (B) යහපත් ක්‍රියාවක් ආරම්භ කිරීම දුෂ්කර ය.
+> (C) යමෙක් යහපත් ක්‍රියාවක් ආරම්භ කරන්නේ ද, ඔහු දුෂ්කර කාර්යයක් ඉටු කරයි.
+> (D) මා විසින් බොහෝ යහපත් ක්‍රියා සිදු කර ඇත.
+> (E) එබැවින් මාගේ පුත්‍රයන්, මුණුපුරන් සහ ඉන් පසු එන පරම්පරාවන් ලෝකාවසානය දක්වාම ඒ අනුව කටයුතු කරන්නේ නම්, ඔවුන් පින් රැස් කර ගනු ඇත.
+> (F) එහෙත් යමෙක් මෙයින් සුළු කොටසක් හෝ අත්හරින්නේ ද, ඔහු පාපයක් කරනු ඇත.
+> (G) මන්දයත් පාපය පහසුවෙන් සිදු කළ හැකි බැවිනි.
+> (H) අතීතයේ ධර්ම මහාමාත්‍ර නම් නිලධාරීන් නොසිටියහ.
+> (I) මාගේ අභිෂේකයෙන් දහතුන් වසරක් පිරුණු පසු මා විසින් ධර්ම මහාමාත්‍රවරුන් පත් කරන ලදී.
+> (J) ඔවුහු සියලු ආගමික නිකායන් අතර, ධර්මය ස්ථාපිත කිරීම සහ ප්‍රවර්ධනය කිරීම පිණිසත්, ධර්මයට කැප වූවන්ගේ යහපත හා සතුට පිණිසත් යොදවනු ලැබ සිටිති.
+> (K) ඔවුහු යවනයන්, කාම්බෝජයන්, ගාන්ධාරයන්, රාෂ්ට්‍රිකයන් සහ බටහිර දේශසීමාවේ අනෙකුත් ජනයා අතර ද කටයුතු කරති.
+> (L) සේවකයන් සහ ස්වාමිවරුන්, බ්‍රාහ්මණයන් සහ ඉසුරුමතුන්, අසරණයන් සහ වැඩිහිටියන් අතර, ඔවුන්ගේ යහපත හා සතුට පිණිසත්, ධර්මයට කැප වූවන් බාධාවලින් මුදා ගැනීම පිණිසත් ඔවුහු ක්‍රියා කරති.
+> (M) සිරකරුවන් අයුක්ති සහගත ලෙස රඳවා තබා ගැනීමෙන් වැළැක්වීමට, ඔවුන්ට දඬුවම් ලිහිල් කිරීමට, හෝ ඔවුන්ට දරුවන් සිටීම, රෝගී වීම හෝ මහලු වීම සලකා ඔවුන් නිදහස් කිරීමට ද ඔවුහු කටයුතු කරති.
+> (N) මෙහි පාටලීපුත්‍රයෙහි ද, සියලු පිටස්තර නගරවල ද, මාගේ සහ මාගේ සොහොයුරන්ගේ හා සොහොයුරියන්ගේ අන්තඃපුරයන්හි ද සෑම තැනකම ඔවුහු යොදවා ඇත.
+> (O) මාගේ මුළු රාජ්‍යයෙහිම ධර්මයෙහි පිහිටි ජනයා අතර මෙම ධර්ම මහාමාත්‍රවරු ක්‍රියාකාරීව සිටිති; මෙම අරමුණ උදෙසා මෙම ධර්ම ලිපිය ලියවන ලදී, එවිට එය බොහෝ කල් පවතිනු ඇත.
+
+## මූලාශ්‍ර
+
+- E. Hultzsch, [*Inscriptions of Asoka* (1925)](https://archive.org/details/InscriptionsOfAsoka.NewEditionByE.Hultzsch), *Corpus Inscriptionum Indicarum*, පළමුවන වෙළුම.
+
+- [බිබ්ලියොතෙකා පොලිග්ලොටා සංස්කරණය](https://www2.hf.uio.no/polyglotta/index.php?mid=0&page=fulltext&vid=362&view=fulltext), ඔස්ලෝ විශ්වවිද්‍යාලය (මාගධී අක්ෂර පරිවර්තනය, ඉංග්‍රීසි පරිවර්තනය සහ සෙල්ලිපි පිටපත්).

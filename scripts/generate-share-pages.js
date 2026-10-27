@@ -2,12 +2,17 @@ const fs = require('fs');
 const path = require('path');
 const crypto = require('crypto');
 const sharp = require('sharp');
+const { IN_PROGRESS_LANGUAGES } = require('./translation-languages');
 
 const SITE_NAME = 'India History';
 const OG_LOCALES = {
   en: 'en_IN', hi: 'hi_IN', bn: 'bn_IN', ta: 'ta_IN', te: 'te_IN', mr: 'mr_IN',
   ur: 'ur_PK', gu: 'gu_IN', kn: 'kn_IN', ml: 'ml_IN', pa: 'pa_IN',
-  es: 'es_ES', fr: 'fr_FR', ar: 'ar_AR', zh: 'zh_CN', pt: 'pt_BR',
+  sa: 'sa_IN',
+  or: 'or_IN', ne: 'ne_NP', si: 'si_LK',
+  es: 'es_ES', fr: 'fr_FR', de: 'de_DE', pt: 'pt_BR', ru: 'ru_RU',
+  ar: 'ar_AR', fa: 'fa_IR',
+  zh: 'zh_CN', ja: 'ja_JP', th: 'th_TH', id: 'id_ID',
 };
 const WIDTH = 1200;
 const HEIGHT = 630;
@@ -71,7 +76,7 @@ function renderHtml(template, page) {
   if (page.updatedAt) meta('property', 'article:modified_time', new Date(page.updatedAt).toISOString());
   const title = page.type === 'article' ? `${page.title} | ${page.siteName || SITE_NAME}` : page.title;
   return clean.replace(/<title>[\s\S]*?<\/title>/i, `<title>${escapeHtml(title)}</title>`)
-    .replace(/<html\b([^>]*)>/i, (_, attributes) => `<html${attributes.replace(/\s(?:lang|dir)="[^"]*"/gi, '')} lang="${page.language || 'en'}" dir="${['ar', 'ur'].includes(page.language) ? 'rtl' : 'ltr'}">`)
+    .replace(/<html\b([^>]*)>/i, (_, attributes) => `<html${attributes.replace(/\s(?:lang|dir)="[^"]*"/gi, '')} lang="${page.language || 'en'}" dir="${['ar', 'ur', 'fa'].includes(page.language) ? 'rtl' : 'ltr'}">`)
     .replace('</head>', `${START}\n${tags.join('\n')}\n${END}\n</head>`);
 }
 
@@ -134,7 +139,8 @@ async function generateSharePages(options = {}) {
     fs.writeFileSync(file, html);
     pages.push(route);
   };
-  const languages = options.languages || Object.keys(OG_LOCALES);
+  const languages = options.languages || Object.keys(OG_LOCALES).filter(language =>
+    !IN_PROGRESS_LANGUAGES.has(language) || fs.existsSync(path.join(generated, language, 'site.json')));
   const variants = new Map();
   for (const language of languages) {
     if (!OG_LOCALES[language]) throw new Error(`Unsupported share language: ${language}`);
@@ -142,7 +148,7 @@ async function generateSharePages(options = {}) {
     variants.set(language, [
       ...readJson(prefix + 'articles.json').filter(entry => !entry.previewOnly)
         .map(entry => ({ ...readJson(`${prefix}stories/${entry.slug}.json`), kind: 'article' })),
-      ...readJson(prefix + 'blogs.json').filter(entry => !entry.draft).map(entry => ({ ...entry, kind: 'blogs' })),
+      ...readJson(prefix + 'blogs.json').filter(entry => !entry.draft && !entry.previewOnly).map(entry => ({ ...entry, kind: 'blogs' })),
     ]);
   }
   const entries = variants.get('en');
@@ -156,6 +162,7 @@ async function generateSharePages(options = {}) {
     for (const source of entries) {
       if (!/^[a-z0-9]+(?:-[a-z0-9]+)*$/.test(source.slug)) throw new Error(`Invalid share page slug: ${source.slug}`);
       const entry = localized.get(source.kind + '/' + source.slug);
+      if (!entry && IN_PROGRESS_LANGUAGES.has(language)) continue;
       if (!entry) throw new Error(`Missing ${language} share translation: ${source.slug}`);
       const canonical = canonicalRoute(source);
       const route = routeFor(language, canonical);
@@ -163,7 +170,8 @@ async function generateSharePages(options = {}) {
         title: entry.title, description: entry.excerpt, type: 'article', language, siteName,
         url: absolute(route), image: await imageFor(entry),
         publishedAt: source.publishedAt, updatedAt: source.updatedAt,
-        alternates: languages.map(code => ({ language: code, url: absolute(routeFor(code, canonical)) })),
+        alternates: languages.filter(code => variants.get(code).some(variant => variant.kind === source.kind && variant.slug === source.slug))
+          .map(code => ({ language: code, url: absolute(routeFor(code, canonical)) })),
       });
       writePage(route, html);
       // Existing /post links and the legacy /article world-history overview URL.

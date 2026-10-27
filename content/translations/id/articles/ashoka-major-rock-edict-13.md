@@ -1,0 +1,71 @@
+---
+title: "Maklumat Batu Utama XIII: Setelah Penaklukan Kalinga"
+slug: ashoka-major-rock-edict-13
+excerpt: "Ashoka mengungkapkan penyesalannya yang mendalam atas pembantaian di Kalinga dan menyatakan bahwa penaklukan sejati adalah kemenangan melalui kebajikan moral."
+publishedAt: 2026-10-16T00:00:00.000Z
+updatedAt: 2026-10-16T00:00:00.000Z
+period: mauryan
+polity: maurya
+personalities: [ashoka]
+relatedTo: ashoka-edicts
+tags: ["Ashoka","maklumat","maklumat batu utama"]
+themes: []
+books: ["0349122385","935699322X","0143330802"]
+sourceHash: bfa9171853dc53805b78da6a59488e622016b95f88d42609c309ca4065d85d15
+---
+
+## Tentang maklumat ini
+
+Maklumat Batu Utama XIII adalah prasasti Ashoka yang paling termasyhur. Di dalamnya tertera pengakuan jujur sang raja mengenai derita perang Kalinga—ratusan ribu orang tewas, dideportasi, dan menderita kelaparan—serta penegasannya bahwa penaklukan melalui dhamma (dhammavijaya) telah menggantikan penaklukan militer, yang menjangkau hingga kerajaan-kerajaan Yunani di barat (Antiokhos, Ptolemeus, Antigonos, Magas, Aleksander).
+
+## Aksara asli
+
+<figure class="article-figure inscription-plate">
+  <img src="/assets/media/images/ashoka-plate-1405552832.jpg" alt="Faksimili prasasti Brahmi dari Kalsi dalam edisi Hultzsch tahun 1925" loading="lazy" decoding="async" />
+  <figcaption>Faksimili prasasti Kalsi. E. Hultzsch, <em>Inscriptions of Asoka</em> (1925), domain publik.</figcaption>
+</figure>
+<figure class="article-figure inscription-plate">
+  <img src="/assets/media/images/ashoka-plate-1405553660.jpg" alt="Faksimili prasasti Brahmi dari Kalsi dalam edisi Hultzsch tahun 1925" loading="lazy" decoding="async" />
+  <figcaption>Faksimili prasasti Kalsi. E. Hultzsch, <em>Inscriptions of Asoka</em> (1925), domain publik.</figcaption>
+</figure>
+
+## Transliterasi Latin
+
+Teks di bawah ini mengikuti versi Kalsi dalam edisi Hultzsch. Tanda kurung siku menunjukkan huruf yang direkonstruksi atau belum pasti; titik-titik menunjukkan teks yang rusak atau hilang. Salinan lain yang masih ada mungkin berbeda.
+
+<p class="inscription-transliteration" lang="pra-Latn">(A) aṭha-[va]śā- | bhiśita- | śā [De]vānaṃpiyaśa Piyadaśine | lājine | Kaligyā vijitā | (B) diyaḍha-mite | pāna-śat[a]śaha[ś]e | ye [ta]phā apavuḍhe [| śa)ta-[śa]haśa-mite | tata hate | bahu-tāvatake | vā maṭe (C) tat[o pa]chā | adhunā ladheśa | Kaligyeśu | tive | dhaṃma[vāy]e 36 dhaṃma-k[ā]matā | dhaṃmānuśathi cā | Devānaṃpiyaśā | (D) ś[e] athi anuśaye | Devānampiya[ś]ā | vijin[i]tu | Kaligyāni | (E) avijitaṃ hi | vijinamane | e tatā | vadha vā | malane vā | apavahe [vā] | jan[a]śā | [ś]e bāḍha | vedaniya-mute | g[u]l[u]-mut[e] cā | Devānaṃ[pi]yaśā | (F) iyaṃ pi cu | tato | galu-matatale | D[e]vānaṃpiyaśā (G) 37 [ya] tatā vaśati b[ā]bhanā va śama 12 vā ane vā pāsaṃḍa gṃ[i]tha va yesu vṃita [e]ś[a] a[gabhu Jt[i}śuśuśā m[ā]ta-piti-śuśuśā galu-śuśā mita-śaṃthuta-śahāya-nātikeśu dāśa-bha[ṭa]kaś[i śa]m[y]ā-paṭipati diḍhabhatitā teśaṃ tatā hoti [upa]ghāte vā vadhe vā abhilatānaṃ vā vinikhamane (H) 38 yeśaṃ vā pi śuvihi[t]ānaṃ śinehe avipahine e tānaṃ mita-śaṃth[u]taśa[h]āya-[nā]tikya viyaśanaṃ pāpunāta tata śe [p]i t[ā]namev[ā] upaghāt[e] hoti (I) paṭibhāge cā eś[a] ś[a]va-manu[śāna]ṃ gul[u]-m[a]te cā Devāna[ṃ]piyaśā (J) n[a]thi cā śe jan[a]pade yatā nathi ime nikāyā ānatā Y[o]neś[u] 39 baṃhmane c[ā] śamane cā nathi cā kuvāpi jan[a]padaśi [ya]tā n[a]thi m[a]nuśān[a] | ekatalaś[i p]i | pāśaḍaśi | no n[ā]ma paśāde | (K) śe ava[ta]ke jane | t[a]dā Kali[ṃ]geśu | [ladheśu ha]te c[ā] maṭ[e] cā | [apavuḍhe cā |] tato śat[e] bhāge vā | śah[a]śa-bhāge vā | aja gulu-mate vā | Devāna[ṃ]piyaśā (B.– South Face of Kālsī Rock) 1 .......... 2 .......... 3 .......... [ney]u icha .......... 4 śa[va-bhu] .......... [śayama śamaca]liya[ṃ] madava ti (P) iyaṃ vu mu .......... 5 Devānaṃpiyeśā ye dha[ṃ]ma-vijaye (Q) ś[e] ca punā ladhe Devāna[ṃp]i .......... ca 6 śaveśu ca ateśu a śaśu pi [yo]jana-śateśu at[a] Atiyoge nām[a] Yo[nalā] . . [pa]laṃ cā tenā 7 A[ṃ]tiyogena catāli 4 lajāne Tulamaye [nā]m[a] Aṃteki[ne nā]ma Makā nā8ma Alikyaśudale nāma nicaṃ Coḍa-Paṃḍiya avaṃ Taṃbapaṃniyā hevamev[ā] (R) hevameva [hi]dā lā[ja]-viśavaśi Yona-Kaṃbojeśu Nābhak[a]-Nābhapaṃtiśu BhojaPitinikye[ś]u 10 [Adha]-P[ā]lade[ś]u [śa]vatā [D]evā[na]ṃpi[ya]śā dhaṃmānu[śa]thi anuvataṃti (S) y[a]ta pi dutā Devāna[ṃp]iyasā no yaṃti t[e] pi sutu Dev[āna]ṃp[i]naṃya dh[aṃma]-vutaṃ v[i]dh[a]na[ṃ] 12 dhaṃmānusa[th]i dha[ṃ]ma[ṃ] anuvidhiyaṃa [a]nuvidhiyisaṃa [c]ā (T) ye se [la]dhe 13 etakenā hoti savatā vi[ja]ye piti-lase se (U) gadhā sā hoti piti piti dhaṃm[a]vijaya14śi (V) lahukā v[u] kho sā piti (W) pālaṃtikyameve maha-phalā maṃnaṃ[ti] Dev[e]naṃ[pi]ne (X) 15 eta ye ca aṭhāye iyaṃ dha[ṃ]ma-lipi likhitā kiti putā papotā me a[su] 16 nava[m] vijay[a] ma vijayataviya maniśu śayakaśi no vi[ja]yaśi khaṃti cā la | hu17daṃḍatā [cā] locetu tameva cā vijayaṃ manatu ye dhaṃma-vijaye (Y) śe hidalokikya palalo18kiye (Z) śavā ca ka nilati hot[u] uyāma-lati śā hi hi[da]lokika pa[la]lokikya</p>
+
+## Terjemahan bahasa Indonesia
+
+Terjemahan bahasa Indonesia ini didasarkan pada terjemahan bahasa Inggris karya E. Hultzsch tahun 1925 untuk versi yang sama. Istilah dan rekonstruksi dalam tanda kurung siku mengikuti edisi historis tersebut.
+
+> (A) Ketika Raja Devānāṁpriya Priyadarśin telah ditahbiskan selama delapan tahun, negeri Kalinga ditaklukkan olehnya.
+> (B) Seratus lima puluh ribu orang dideportasi dari sana, seratus ribu orang gugur terbunuh di sana, dan berkali-kali lipat dari jumlah itu tewas karena bencana kelaparan dan penyakit.
+> (C) Setelah itu, kini setelah negeri Kalinga ditaklukkan, Devānāṁpriya tergerak oleh ketaatan yang mendalam pada kebajikan moral, cinta pada kebajikan moral, dan pengajaran kebajikan moral.
+> (D) Inilah penyesalan yang mendalam dari Devānāṁpriya atas penaklukan Kalinga tersebut.
+> (E) Sebab, penaklukan atas suatu negeri yang sebelumnya merdeka dianggap sangat menyakitkan dan memilukan oleh Devānāṁpriya, di mana rakyat dibantai, mati terbunuh, atau dideportasi ke negeri asing.
+> (F) Namun yang dianggap jauh lebih memilukan oleh Devānāṁpriya adalah hal berikut ini:
+> (G) Bahwa kaum Brāhmaṇa atau kaum Śramaṇa, atau sekte-sekte lainnya, atau para perumah tangga yang tinggal di sana, yang senantiasa berbakti kepada para sesepuh, berbakti kepada ibu dan ayah, patuh kepada para guru, dan bersikap santun serta teguh setia kepada sahabat, kenalan, rekan, sanak saudara, serta para pelayan dan buruh upahan.
+> (H) Mereka semua tertimpa kemalangan, pembunuhan, atau pemisahan dari orang-orang yang mereka cintai.
+> (I) Penderitaan ini dialami bersama oleh seluruh umat manusia dan dipandang sangat memilukan oleh Devānāṁpriya.
+> (J) Tidak ada suatu negeri pun di mana kelompok-kelompok ini—yaitu kaum Brāhmaṇa dan kaum Śramaṇa—tidak dijumpai, kecuali di kalangan bangsa Yona; dan tidak ada suatu negeri pun di mana masyarakat tidak menganut salah satu sekte keagamaan.
+> (K) Oleh karena itu, bahkan seperseratus atau seperseribu bagian dari penderitaan manusia yang terbunuh, mati, atau dideportasi di Kalinga kini dipandang sangat memilukan oleh Devānāṁpriya.
+> (O) Devānāṁpriya mendambakan keamanan bagi semua makhluk hidup, pengendalian diri, ketenangan batin, serta kelembutan hati.
+> (P) Dan inilah penaklukan yang dianggap paling utama oleh Devānāṁpriya, yaitu penaklukan melalui kebajikan moral (dhammavijaya).
+> (Q) Dan penaklukan ini telah berulang kali dimenangkan oleh Devānāṁpriya, baik di wilayah ini maupun di seluruh negeri perbatasan, bahkan hingga jarak enam ratus yojana, di mana raja Yona bernama Antiyoka memerintah, dan melampaui Antiyoka itu tempat bertakhta empat raja bernama Tulamaya, Antekina, Maga, dan Alikasudara, serta di selatan di kalangan Choḍa dan Pāṇḍya, hingga sejauh Tāmraparṇī.
+> (R) Demikian pula di dalam wilayah kekuasaan sang raja sendiri, di kalangan bangsa Yona dan Kamboja, di kalangan Nabhaka dan Nabhapankti, di kalangan Bhoja dan Pitinika, di kalangan Andhra dan Parinda, di mana pun masyarakat meneladani ajaran moralitas dari Devānāṁpriya.
+> (S) Bahkan di negeri-negeri yang belum pernah dikunjungi oleh para utusan Devānāṁpriya, setelah mendengar ketetapan kebajikan moral dari Devānāṁpriya dan ajaran moralitas beliau, mereka turut mengamalkannya dan akan terus mengamalkannya.
+> (T) Kemenangan yang diperoleh melalui cara ini di segala penjuru menghadirkan rasa kepuasan yang mendalam.
+> (U) Kepuasan ini menjadi teguh, yaitu kepuasan yang diperoleh melalui penaklukan kebajikan moral.
+> (V) Namun kepuasan duniawi ini sesungguhnya bernilai kecil belaka; Devānāṁpriya menganggap hanya buah pahala di alam baka yang memiliki arti abadi.
+> (W) Dan untuk tujuan inilah maklumat kebajikan moral ini dipahatkan:
+> (X) Agar putra-putra dan cucu-cucu saya tidak lagi memikirkan penaklukan militer baru sebagai hal yang patut dibanggakan; dan apabila terpaksa melakukan penaklukan dengan senjata, hendaknya mereka mengedepankan belas kasih dan hukuman yang ringan.
+> (Y) Dan hendaknya mereka hanya memandang penaklukan melalui kebajikan moral sebagai penaklukan sejati yang membuahkan hasil di dunia ini dan dunia berikutnya.
+> (Z) Dan semoga seluruh kesenangan mereka hanyalah kesenangan dalam kebajikan moral.
+> (AA) Sebab inilah yang menghasilkan buah kebahagiaan sejati di dunia ini dan di alam baka.
+
+## Sumber
+
+- E. Hultzsch, [*Inscriptions of Asoka* (1925)](https://archive.org/details/InscriptionsOfAsoka.NewEditionByE.Hultzsch), *Corpus Inscriptionum Indicarum*, jilid I.
+
+- [edisi Bibliotheca Polyglotta](https://www2.hf.uio.no/polyglotta/index.php?mid=0&page=fulltext&vid=362&view=fulltext), Universitas Oslo (transliterasi Magadhi, terjemahan bahasa Inggris, dan faksimili prasasti).

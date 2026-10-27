@@ -1,10 +1,10 @@
 import { LANGUAGES, languageFromUrl } from './languages';
 
 describe('Languages and i18n Helpers', () => {
-  it('should define all 16 supported languages', () => {
-    expect(LANGUAGES.length).toBe(16);
+  it('should define all 26 supported languages', () => {
+    expect(LANGUAGES.length).toBe(26);
     const codes = LANGUAGES.map(l => l.code);
-    const expected = ['en', 'hi', 'bn', 'ta', 'te', 'mr', 'ur', 'gu', 'kn', 'ml', 'pa', 'es', 'fr', 'ar', 'zh', 'pt'];
+    const expected = ['en', 'hi', 'bn', 'ta', 'te', 'mr', 'ur', 'gu', 'kn', 'ml', 'pa', 'sa', 'es', 'fr', 'ar', 'zh', 'pt', 'or', 'si', 'ja', 'ne', 'id', 'th', 'de', 'fa', 'ru'];
     for (const code of expected) {
       expect(codes).toContain(code);
     }
@@ -17,6 +17,9 @@ describe('Languages and i18n Helpers', () => {
     const arabic = LANGUAGES.find(l => l.code === 'ar');
     expect(arabic?.direction).toBe('rtl');
 
+    const persian = LANGUAGES.find(l => l.code === 'fa');
+    expect(persian?.direction).toBe('rtl');
+
     const english = LANGUAGES.find(l => l.code === 'en');
     expect(english?.direction).toBe('ltr');
 
@@ -26,6 +29,7 @@ describe('Languages and i18n Helpers', () => {
 
   it('should extract valid language from URL param string', () => {
     expect(languageFromUrl('hi')).toBe('hi');
+    expect(languageFromUrl('sa')).toBe('sa');
     expect(languageFromUrl('ta')).toBe('ta');
     expect(languageFromUrl('fr')).toBe('fr');
     expect(languageFromUrl('en')).toBe('en');

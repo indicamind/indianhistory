@@ -7,7 +7,7 @@ const compiler = require('@angular/compiler');
 const ts = require('typescript');
 
 const ROOT = path.join(__dirname, '..');
-const LANGUAGES = ['hi', 'bn', 'ta', 'te', 'mr', 'ur', 'gu', 'kn', 'ml', 'pa', 'es', 'fr', 'ar', 'zh', 'pt'];
+const { LANGUAGES, IN_PROGRESS_LANGUAGES = new Set() } = require('./translation-languages');
 const SOURCE_FILES = ['src/app/data/periods.ts'];
 const VISIBLE_FIELDS = new Set(['name', 'range', 'shortDescription', 'description', 'date', 'title', 'summary']);
 const DYNAMIC_COPY = [
@@ -135,20 +135,40 @@ if (require.main === module) {
   });
   let failed = false;
   for (const language of LANGUAGES) {
-    const problems = [...checkContent('articles', language), ...checkContent('blogs', language)];
+    const isProgress = IN_PROGRESS_LANGUAGES.has(language);
+    const contentProblems = [...checkContent('articles', language), ...checkContent('blogs', language)];
     const siteFile = path.join(ROOT, 'content', 'translations', language, 'site.json');
+    const siteProblems = [];
     if (!fs.existsSync(siteFile)) {
-      problems.push(`site.json: missing ${siteStrings.length} interface and history strings`);
+      siteProblems.push(`site.json: missing ${siteStrings.length} interface and history strings`);
     } else {
       const copy = JSON.parse(fs.readFileSync(siteFile, 'utf8'));
       const missing = siteStrings.filter(value => typeof copy[value] !== 'string' || !copy[value]);
-      if (missing.length) problems.push(`site.json: missing ${missing.length} of ${siteStrings.length} strings`);
+      if (missing.length) siteProblems.push(`site.json: missing ${missing.length} of ${siteStrings.length} strings`);
       const mismatched = siteStrings.filter(value => copy[value] && placeholders(value) !== placeholders(copy[value]));
-      if (mismatched.length) problems.push(`site.json: ${mismatched.length} placeholder mismatch(es)`);
+      if (mismatched.length) siteProblems.push(`site.json: ${mismatched.length} placeholder mismatch(es)`);
     }
-    const previewCount = previewFiles.filter(name => !fs.existsSync(path.join(ROOT, 'content', 'translations', language, 'articles', name))).length;
-    console.log(`${language}: ${problems.length ? problems.join('; ') : `released content complete; ${previewCount} English preview(s)`}`);
-    if (problems.length) failed = true;
+
+    if (isProgress) {
+      // In-progress editions must have a complete site.json interface.
+      // Missing articles/blogs are expected as English previews, but any broken or stale
+      // translations that exist must be reported as errors.
+      const realContentProblems = contentProblems.filter(p => !p.endsWith(': missing'));
+      const allProblems = [...siteProblems, ...realContentProblems];
+      const missingArticles = contentProblems.filter(p => p.startsWith('articles/') && p.endsWith(': missing')).length;
+      const missingBlogs = contentProblems.filter(p => p.startsWith('blogs/') && p.endsWith(': missing')).length;
+      if (allProblems.length) {
+        console.log(`${language}: in-progress edition incomplete; ${allProblems.join('; ')}`);
+        failed = true;
+      } else {
+        console.log(`${language}: in-progress edition interface complete; ${missingArticles} article preview(s), ${missingBlogs} blog preview(s)`);
+      }
+    } else {
+      const problems = [...contentProblems, ...siteProblems];
+      const previewCount = previewFiles.filter(name => !fs.existsSync(path.join(ROOT, 'content', 'translations', language, 'articles', name))).length;
+      console.log(`${language}: ${problems.length ? problems.join('; ') : `released content complete; ${previewCount} English preview(s)`}`);
+      if (problems.length) failed = true;
+    }
   }
   if (failed) process.exitCode = 1;
 }

@@ -1,0 +1,70 @@
+{
+  "common": {
+    "About this edict": "ଏହି ଅନୁଶାସନ ବିଷୟରେ",
+    "About this inscription": "ଏହି ଅଭିଲେଖ ବିଷୟରେ",
+    "Original script": "ମୂଳ ଲିପି",
+    "Original scripts": "ମୂଳ ଲିପିସମୂହ",
+    "Roman transliteration": "ରୋମାନ ଲିପ୍ୟନ୍ତରଣ",
+    "localTranslationHeading": "ଓଡ଼ିଆ ଅନୁବାଦ",
+    "English translation of the Greek": "ଗ୍ରୀକ୍ ପାଠର ଓଡ଼ିଆ ଅନୁବାଦ",
+    "English translation of the Aramaic": "ଆରାମାଇକ୍ ପାଠର ଓଡ଼ିଆ ଅନୁବାଦ",
+    "Greek": "ଗ୍ରୀକ୍",
+    "Aramaic": "ଆରାମାଇକ୍",
+    "Sources": "ଉତ୍ସ",
+    "volumeOne": "ପ୍ରଥମ ଖଣ୍ଡ",
+    "polyglottaEdition": "ବିବ୍ଲିଓଥେକା ପଲିଗ୍ଲୋଟା ସଂସ୍କରଣ",
+    "universityOfOslo": "ଓସଲୋ ବିଶ୍ୱବିଦ୍ୟାଳୟ",
+    "translationBasisNote": "ଏହି ଓଡ଼ିଆ ଅନୁବାଦଟି ନିମ୍ନରେ ଉଦ୍ଧୃତ ସଂସ୍କରଣର ଇଂରାଜୀ ଅନୁବାଦ ଆଧାରରେ ପ୍ରସ୍ତୁତ କରାଯାଇଛି। କ୍ଷତିଗ୍ରସ୍ତ ତଥା ଅନିଶ୍ଚିତ ଅଂଶଗୁଡ଼ିକ ସେହି ଐତିହାସିକ ସଂସ୍କରଣ ଅନୁସାରେ ଚିହ୍ନିତ।",
+    "sourceNote": "ମାଗଧୀ ଲିପ୍ୟନ୍ତରଣ, ଇଂରାଜୀ ଅନୁବାଦ ଏବଂ ଅଭିଲେଖର ପ୍ରତିଲିପି",
+    "siteNames": {
+      "Bairat": "ବୈରାଟ",
+      "Lumbini": "ଲୁମ୍ବିନୀ",
+      "Delhi–Topra": "ଦିଲ୍ଲୀ–ଟୋପ୍ରା",
+      "Girnar": "ଗିରନାର",
+      "Kalsi": "କାଲସୀ",
+      "Rūpnāth": "ରୂପନାଥ",
+      "Brahmagiri": "ବ୍ରହ୍ମଗିରି",
+      "Nigali Sagar": "ନିଗାଲୀ ସାଗର",
+      "Allahabad–Kauśāmbī": "ଆଲ୍ଲାହାବାଦ–କୌଶାମ୍ବୀ",
+      "Sarnath": "ସାରନାଥ",
+      "Dhauli": "ଧଉଳି"
+    },
+    "siteAltTemplate": "ହୁଲ୍ଟଶଙ୍କ ୧୯୨୫ ସଂସ୍କରଣରେ {site}ର ବ୍ରାହ୍ମୀ ଅଭିଲେଖର ପ୍ରତିଲିପି",
+    "siteCaptionTemplate": "{site}ର ଅଭିଲେଖ ପ୍ରତିଲିପି। ଇ. ହୁଲ୍ଟଶ, <em>Inscriptions of Asoka</em> (1925), ସାର୍ବଜନୀନ ଡୋମେନ୍।",
+    "siteTransliterationTemplate": "ନିମ୍ନଲିଖିତ ପାଠ ହୁଲ୍ଟଶଙ୍କ ସଂସ୍କରଣରେ {site}ର ପାଠକୁ ଅନୁସରଣ କରେ। ବର୍ଗ ବନ୍ଧନୀ ପୁନଃସ୍ଥାପିତ ବା ଅନିଶ୍ଚିତ ଅକ୍ଷର ଦର୍ଶାଏ; ବିନ୍ଦୁଗୁଡ଼ିକ କ୍ଷତିଗ୍ରସ୍ତ ବା ଲୁପ୍ତ ପାଠକୁ ସୂଚାଏ। ଅନ୍ୟ ପ୍ରତିଲିପିଗୁଡ଼ିକରେ ପାଠ ଭିନ୍ନ ହୋଇପାରେ।",
+    "imageAltTranslations": {
+      "Brahmi facsimiles of the three Barabar cave inscriptions in Hultzsch’s 1925 edition; Karna Chaupar is third": "ହୁଲ୍ଟଶଙ୍କ ୧୯୨୫ ସଂସ୍କରଣରେ ବରାବର ଗୁମ୍ଫାର ତିନୋଟି ବ୍ରାହ୍ମୀ ଅଭିଲେଖର ପ୍ରତିଲିପି; କର୍ଣ୍ଣ ଚୌପର ତୃତୀୟ",
+      "Brahmi facsimiles of the three Barabar cave inscriptions in Hultzsch’s 1925 edition; Sudama is first": "ହୁଲ୍ଟଶଙ୍କ ୧୯୨୫ ସଂସ୍କରଣରେ ବରାବର ଗୁମ୍ଫାର ତିନୋଟି ବ୍ରାହ୍ମୀ ଅଭିଲେଖର ପ୍ରତିଲିପି; ସୁଦାମା ପ୍ରଥମ",
+      "Brahmi facsimiles of the three Barabar cave inscriptions in Hultzsch’s 1925 edition; Visvakarma is second": "ହୁଲ୍ଟଶଙ୍କ ୧୯୨୫ ସଂସ୍କରଣରେ ବରାବର ଗୁମ୍ଫାର ତିନୋଟି ବ୍ରାହ୍ମୀ ଅଭିଲେଖର ପ୍ରତିଲିପି; ବିଶ୍ୱକର୍ମା ଦ୍ୱିତୀୟ"
+    },
+    "imageCaptionTranslations": {
+      "Barabar cave inscription facsimiles. E. Hultzsch, <em>Inscriptions of Asoka</em> (1925), public domain.": "ବରାବର ଗୁମ୍ଫା ଅଭିଲେଖ ପ୍ରତିଲିପି। ଇ. ହୁଲ୍ଟଶ, <em>Inscriptions of Asoka</em> (1925), ସାର୍ବଜନୀନ ଡୋମେନ୍।"
+    },
+    "transliterationNotes": {
+      "The text below follows Hultzsch’s edition of the Karna Chaupar inscription. Square brackets mark restored or uncertain letters; dots mark a missing passage.": "ନିମ୍ନଲିଖିତ ପାଠ ହୁଲ୍ଟଶଙ୍କ କର୍ଣ୍ଣ ଚୌପର ଅଭିଲେଖ ସଂସ୍କରଣକୁ ଅନୁସରଣ କରେ। ବର୍ଗ ବନ୍ଧନୀ ପୁନଃସ୍ଥାପିତ ବା ଅନିଶ୍ଚିତ ଅକ୍ଷର ଏବଂ ବିନ୍ଦୁଗୁଡ଼ିକ ଲୁପ୍ତ ଅଂଶ ଦର୍ଶାଏ।",
+      "The text below follows Hultzsch’s edition of the Sudama inscription. Square brackets mark restored or uncertain letters.": "ନିମ୍ନଲିଖିତ ପାଠ ହୁଲ୍ଟଶଙ୍କ ସୁଦାମା ଅଭିଲେଖ ସଂସ୍କରଣକୁ ଅନୁସରଣ କରେ। ବର୍ଗ ବନ୍ଧନୀ ପୁନଃସ୍ଥାପିତ ବା ଅନିଶ୍ଚିତ ଅକ୍ଷର ଦର୍ଶାଏ।",
+      "The text below follows Hultzsch’s edition of the Visvakarma inscription. Square brackets mark restored or uncertain letters.": "ନିମ୍ନଲିଖିତ ପାଠ ହୁଲ୍ଟଶଙ୍କ ବିଶ୍ୱକର୍ମା ଅଭିଲେଖ ସଂସ୍କରଣକୁ ଅନୁସରଣ କରେ। ବର୍ଗ ବନ୍ଧନୀ ପୁନଃସ୍ଥାପିତ ବା ଅନିଶ୍ଚିତ ଅକ୍ଷର ଦର୍ଶାଏ।"
+    }
+  },
+  "articles": {
+    "ashoka-major-rock-edict-1": {
+      "title": "ପ୍ରମୁଖ ଶିଳାଲେଖ I: ପଶୁବଳି ଓ ରାଜକୀୟ ରୋଷେଇଶାଳା",
+      "excerpt": "ଅଶୋକ ପଶୁବଳି ଉପରେ କଟକଣା ଲଗାଇଛନ୍ତି ଏବଂ ରାଜକୀୟ ରୋଷେଇଶାଳାରେ ପଶୁହତ୍ୟା ଯଥେଷ୍ଟ କମିଥିବା କଥା କହିଛନ୍ତି।",
+      "tags": [
+        "ଅଶୋକ",
+        "ଶିଳାଲେଖ",
+        "ପ୍ରମୁଖ ଶିଳାଲେଖ"
+      ],
+      "about": "ପ୍ରଥମ ପ୍ରମୁଖ ଶିଳାଲେଖଟି ସର୍ବସାଧାରଣ ଅନୁଷ୍ଠାନକୁ ରାଜାଙ୍କ ନିଜ ରୋଷେଇଶାଳା ସହିତ ଯୋଡ଼ିଥାଏ। ଏଥିରେ ଖାଦ୍ୟ ପାଇଁ ପଶୁହତ୍ୟା ହ୍ରାସ ପାଇଥିବା କଥା ଉଲ୍ଲେଖ ଅଛି ଏବଂ ଅବଶିଷ୍ଟ ହତ୍ୟାକୁ ମଧ୍ୟ ବନ୍ଦ କରିବାକୁ ପ୍ରତିଶ୍ରୁତି ଦିଆଯାଇଛି।",
+      "imageAlts": [
+        "ହୁଲ୍ଟଶଙ୍କ ୧୯୨୫ ସଂସ୍କରଣରେ ଗିରନାରର ବ୍ରାହ୍ମୀ ଲିପି ଅଭିଲେଖର ପ୍ରତିଲିପି"
+      ],
+      "imageCaptions": [
+        "ଗିରନାର ଅଭିଲେଖର ପ୍ରତିଲିପି। ଇ. ହୁଲ୍ଟଶ, <em>Inscriptions of Asoka</em> (1925), ସାର୍ବଜନୀନ ଡୋମେନ୍।"
+      ],
+      "transliterationNote": "ନିମ୍ନଲିଖିତ ପାଠ ହୁଲ୍ଟଶଙ୍କ ସଂସ୍କରଣରେ ଗିରନାରର ପାଠକୁ ଅନୁସରଣ କରେ। ବର୍ଗ ବନ୍ଧନୀ ପୁନଃସ୍ଥାପିତ ବା ଅନିଶ୍ଚିତ ଅକ୍ଷର ଦର୍ଶାଏ; ବିନ୍ଦୁଗୁଡ଼ିକ କ୍ଷତିଗ୍ରସ୍ତ ବା ଲୁପ୍ତ ପାଠକୁ ସୂଚାଏ। ଅନ୍ୟ ପ୍ରତିଲିପିଗୁଡ଼ିକରେ ପାଠ ଭିନ୍ନ ହୋଇପାରେ।",
+      "translation": "> (A) ରାଜା ଦେବାନଂପ୍ରିୟ ପ୍ରିୟଦର୍ଶୀ ଧର୍ମାନୁଶାସନ ସମ୍ପର୍କରେ ଏହି ଆଦେଶ ଲେଖାଇଛନ୍ତି।\n> (B) ଏଠାରେ କୌଣସି ଜୀବକୁ ହତ୍ୟା କରି ବଳି ଦିଆଯିବ ନାହିଁ।\n> (C) ଏବଂ କୌଣସି ଉତ୍ସବ ସମାବେଶ କରାଯିବ ନାହିଁ।\n> (D) କାରଣ ରାଜା ଦେବାନଂପ୍ରିୟ ପ୍ରିୟଦର୍ଶୀ ଉତ୍ସବ ସମାବେଶରେ ଅନେକ ଦୋଷ ଦେଖିବାକୁ ପାଆନ୍ତି।\n> (E) ତଥାପି କେତେକ ଉତ୍ସବ ସମାବେଶ ଅଛି, ଯାହାକୁ ରାଜା ଦେବାନଂପ୍ରିୟ ପ୍ରିୟଦର୍ଶୀ ପୁଣ୍ୟଜନକ ମନେ କରନ୍ତି।\n> (F) ପୂର୍ବରୁ ରାଜା ଦେବାନଂପ୍ରିୟ ପ୍ରିୟଦର୍ଶୀଙ୍କ ରୋଷେଇଶାଳାରେ ତରକାରୀ ପାଇଁ ପ୍ରତିଦିନ ବହୁ ଲକ୍ଷ ପଶୁ ହତ୍ୟା କରାଯାଉଥିଲା।\n> (G) ମାତ୍ର ବର୍ତ୍ତମାନ, ଯେତେବେଳେ ଏହି ଧର୍ମଲିପି ଲେଖାଯାଉଛି, ସେତେବେଳେ କେବଳ ତିନୋଟି ପ୍ରାଣୀ ପ୍ରତିଦିନ ତରକାରୀ ପାଇଁ ମରାଯାଉଛନ୍ତି: ଦୁଇଟି ମୟୂର ଓ ଗୋଟିଏ ହରିଣ; ସେହି ହରିଣକୁ ମଧ୍ୟ ନିୟମିତ ଭାବେ ମରାଯାଉ ନାହିଁ।\n> (H) ଭବିଷ୍ୟତରେ ଏହି ତିନୋଟି ପ୍ରାଣୀଙ୍କୁ ମଧ୍ୟ ହତ୍ୟା କରାଯିବ ନାହିଁ।",
+      "sourceNote": "ମାଗଧୀ ଲିପ୍ୟନ୍ତରଣ, ଇଂରାଜୀ ଅନୁବାଦ ଏବଂ ଅଭିଲେଖର ପ୍ରତିଲିପି"
+    }
+  }
+}

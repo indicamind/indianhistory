@@ -1,0 +1,70 @@
+{
+  "common": {
+    "About this edict": "เกี่ยวกับพระราชกฤษฎีกานี้",
+    "About this inscription": "เกี่ยวกับจารึกนี้",
+    "Original script": "อักษรดั้งเดิม",
+    "Roman transliteration": "การถอดอักษรเป็นอักษรละติน",
+    "localTranslationHeading": "คำแปลภาษาไทย",
+    "Sources": "แหล่งข้อมูล",
+    "volumeOne": "เล่มที่ 1",
+    "polyglottaEdition": "ฉบับ Bibliotheca Polyglotta",
+    "universityOfOslo": "มหาวิทยาลัยออสโล",
+    "translationBasisNote": "คำแปลภาษาไทยนี้แปลจากฉบับแปลภาษาอังกฤษของ E. Hultzsch ค.ศ. 1925 จากสำนวนเดียวกัน คำศัพท์และการฟื้นฟูข้อความในวงเล็บเหลี่ยมเป็นไปตามฉบับพิมพ์ทางประวัติศาสตร์ดังกล่าว",
+    "Original scripts": "อักษรดั้งเดิม",
+    "English translation of the Greek": "คำแปลภาษาไทยจากข้อความภาษากรีก",
+    "English translation of the Aramaic": "คำแปลภาษาไทยจากข้อความภาษาอราเมอิก",
+    "Greek": "กรีก",
+    "Aramaic": "อราเมอิก",
+    "sourceNote": "การถอดอักษรภาษามคธ, คำแปลภาษาอังกฤษ และสำเนาจำลองจารึก",
+    "siteNames": {
+      "Bairat": "ไพราฏ",
+      "Lumbini": "ลุมพินี",
+      "Delhi–Topra": "เดลี–โทปรา",
+      "Girnar": "คิรนาร",
+      "Kalsi": "กาลสี",
+      "Rūpnāth": "รูปนาถ",
+      "Brahmagiri": "พรหมคีรี",
+      "Nigali Sagar": "นิคาลี สาคร",
+      "Allahabad–Kauśāmbī": "อัลลาฮาบาด–โกสัมพี",
+      "Sarnath": "สารนาถ",
+      "Dhauli": "เธาลี"
+    },
+    "siteAltTemplate": "สำเนาจำลองจารึกอักษรพราหมีจาก {site} ในฉบับพิมพ์ของ Hultzsch ค.ศ. 1925",
+    "siteCaptionTemplate": "สำเนาจำลองจารึก {site} E. Hultzsch, <em>Inscriptions of Asoka</em> (1925), สาธารณสมบัติ",
+    "siteTransliterationTemplate": "ข้อความด้านล่างนี้ยึดตามฉบับสำนวน {site} ในฉบับพิมพ์ของ Hultzsch วงเล็บเหลี่ยมระบุอักษรที่ฟื้นฟูขึ้นหรือไม่แน่ชัด จุดไข่ปลาแสดงข้อความที่เสียหายหรือสูญหาย สำเนาอื่นที่ยังหลงเหลืออาจมีความแตกต่างกัน",
+    "imageAltTranslations": {
+      "Brahmi facsimiles of the three Barabar cave inscriptions in Hultzsch’s 1925 edition; Karna Chaupar is third": "สำเนาจำลองจารึกอักษรพราหมีของจารึกถ้ำพาราพาร์ทั้งสามแห่งในฉบับพิมพ์ของ Hultzsch ค.ศ. 1925 โดยกรณโจปัรเป็นลำดับที่สาม",
+      "Brahmi facsimiles of the three Barabar cave inscriptions in Hultzsch’s 1925 edition; Sudama is first": "สำเนาจำลองจารึกอักษรพราหมีของจารึกถ้ำพาราพาร์ทั้งสามแห่งในฉบับพิมพ์ของ Hultzsch ค.ศ. 1925 โดยสุทามาเป็นลำดับแรก",
+      "Brahmi facsimiles of the three Barabar cave inscriptions in Hultzsch’s 1925 edition; Visvakarma is second": "สำเนาจำลองจารึกอักษรพราหมีของจารึกถ้ำพาราพาร์ทั้งสามแห่งในฉบับพิมพ์ของ Hultzsch ค.ศ. 1925 โดยวิศวกรรมเป็นลำดับที่สอง"
+    },
+    "imageCaptionTranslations": {
+      "Barabar cave inscription facsimiles. E. Hultzsch, <em>Inscriptions of Asoka</em> (1925), public domain.": "สำเนาจำลองจารึกถ้ำพาราพาร์ E. Hultzsch, <em>Inscriptions of Asoka</em> (1925), สาธารณสมบัติ"
+    },
+    "transliterationNotes": {
+      "The text below follows Hultzsch’s edition of the Karna Chaupar inscription. Square brackets mark restored or uncertain letters; dots mark a missing passage.": "ข้อความด้านล่างนี้ยึดตามฉบับพิมพ์จารึกกรณโจปัรของ Hultzsch วงเล็บเหลี่ยมระบุอักษรที่ฟื้นฟูขึ้นหรือไม่แน่ชัด จุดไข่ปลาแสดงข้อความที่สูญหายไป",
+      "The text below follows Hultzsch’s edition of the Sudama inscription. Square brackets mark restored or uncertain letters.": "ข้อความด้านล่างนี้ยึดตามฉบับพิมพ์จารึกสุทามาของ Hultzsch วงเล็บเหลี่ยมระบุอักษรที่ฟื้นฟูขึ้นหรือไม่แน่ชัด",
+      "The text below follows Hultzsch’s edition of the Visvakarma inscription. Square brackets mark restored or uncertain letters.": "ข้อความด้านล่างนี้ยึดตามฉบับพิมพ์จารึกวิศวกรรมของ Hultzsch วงเล็บเหลี่ยมระบุอักษรที่ฟื้นฟูขึ้นหรือไม่แน่ชัด"
+    }
+  },
+  "articles": {
+    "ashoka-major-rock-edict-1": {
+      "title": "ศิลาจารึกหลักใหญ่ที่ 1: การบูชายัญสัตว์และห้องเครื่องหลวง",
+      "excerpt": "พระเจ้าอโศกทรงจำกัดการฆ่าสัตว์และประกาศว่าการฆ่าสัตว์ในห้องเครื่องหลวงได้ลดลงอย่างมาก",
+      "tags": [
+        "พระเจ้าอโศก",
+        "พระราชกฤษฎีกา",
+        "ศิลาจารึกหลักใหญ่"
+      ],
+      "about": "ศิลาจารึกหลักใหญ่ฉบับแรกเชื่อมโยงพิธีกรรมทางศาสนาของสาธารณชนเข้ากับห้องเครื่องเสวยส่วนพระองค์ บันทึกการลดจำนวนสัตว์ที่ถูกฆ่าเพื่อเป็นพระกระยาหารลงอย่างมหาศาล และทรงให้คำมั่นว่าจะยุติการฆ่าสัตว์ที่ยังคงเหลืออยู่ให้หมดสิ้น",
+      "imageAlts": [
+        "สำเนาจำลองจารึกอักษรพราหมีจากคิรนาร ในฉบับพิมพ์ของ Hultzsch ค.ศ. 1925"
+      ],
+      "imageCaptions": [
+        "สำเนาจำลองจารึกคิรนาร E. Hultzsch, <em>Inscriptions of Asoka</em> (1925), สาธารณสมบัติ"
+      ],
+      "transliterationNote": "ข้อความด้านล่างนี้ยึดตามฉบับสำนวนคิรนารในฉบับพิมพ์ของ Hultzsch วงเล็บเหลี่ยมระบุอักษรที่ฟื้นฟูขึ้นหรือไม่แน่ชัด จุดไข่ปลาแสดงข้อความที่เสียหายหรือสูญหาย สำเนาอื่นที่ยังหลงเหลืออาจมีความแตกต่างกัน",
+      "translation": "> (A) พระราชกฤษฎีกาว่าด้วยธรรมปฏิบัตินี้ พระเจ้าเทวานัมปิยะ ปิยทัสสี โปรดให้จารึกขึ้น\n> (B) ณ ที่นี้ ห้ามมิให้ฆ่าสิ่งมีชีวิตใดๆ เพื่อนำมาทำพิธีบูชายัญ\n> (C) และห้ามมิให้จัดการชุมนุมรื่นเริงใดๆ ขึ้น\n> (D) ด้วยว่าพระเจ้าเทวานัมปิยะ ปิยทัสสี ทรงมองเห็นโทษอันมากมายในการชุมนุมรื่นเริงเหล่านั้น\n> (E) แต่ทว่ายังมีการชุมนุมรื่นเริงบางประการที่พระเจ้าเทวานัมปิยะ ปิยทัสสี ทรงเห็นว่าชอบธรรม\n> (F) ในกาลก่อน ณ ห้องเครื่องหลวงของพระเจ้าเทวานัมปิยะ ปิยทัสสี สัตว์นับร้อยนับพันตัวถูกฆ่าทุกวันเพื่อปรุงพระกระยาหาร\n> (G) บัดนี้ เมื่อพระราชกฤษฎีกาว่าด้วยธรรมปฏิบัตินี้ถูกจารึกขึ้น สัตว์เพียงสามตัวเท่านั้นที่ถูกฆ่าเป็นอาหารในแต่ละวัน คือ นกยูงสองตัว และกวางหนึ่งตัว และแม้แต่กวางตัวนี้ก็มิได้ถูกฆ่าเป็นประจำ\n> (H) ในอนาคต สัตว์ทั้งสามชนิดนี้ก็จะไม่ถูกฆ่าอีกต่อไป",
+      "sourceNote": "การถอดอักษรภาษามคธ, คำแปลภาษาอังกฤษ และสำเนาจำลองจารึก"
+    }
+  }
+}

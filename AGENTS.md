@@ -18,7 +18,7 @@ Separate the two shared “More books” recommendations into individual placeme
 
 # Translation requirement
 
-The site supports English (`en`) and these translation languages: `hi`, `bn`, `ta`, `te`, `mr`, `ur`, `gu`, `kn`, `ml`, `pa`, `es`, `fr`, `ar`, `zh`, `pt`.
+The site supports English (`en`) and these translation languages: `hi`, `bn`, `ta`, `te`, `mr`, `ur`, `gu`, `kn`, `ml`, `pa`, `or` (Odia), `sa` (Sanskrit), `ne` (Nepali), `si` (Sinhala), `es`, `fr`, `de`, `pt`, `ru`, `ar`, `fa` (Persian), `zh`, `ja`, `th`, `id` (Indonesian).
 
 For articles and blog posts, translate the complete approved English text into every supported language after the approval step above. For other reader-facing content, complete all translations in the same change. This includes navigation, page labels, period and theme descriptions, alt text, and search copy. Leave book titles and book descriptions in their published language; translate the surrounding book interface. English is the source language. Keep slugs, dates, ISBNs, source links, HTML attributes, and factual qualifiers intact. Translate the language of the text, not the historical claim. Review important dates, names, uncertainty statements, and citations in each translation.
 

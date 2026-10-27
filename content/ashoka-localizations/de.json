@@ -1,0 +1,70 @@
+{
+  "common": {
+    "About this edict": "Über dieses Edikt",
+    "About this inscription": "Über diese Inschrift",
+    "Original script": "Originalschrift",
+    "Roman transliteration": "Lateinische Transliteration",
+    "localTranslationHeading": "Deutsche Übersetzung",
+    "Sources": "Quellen",
+    "volumeOne": "Band I",
+    "polyglottaEdition": "Ausgabe der Bibliotheca Polyglotta",
+    "universityOfOslo": "Universität Oslo",
+    "translationBasisNote": "Diese deutsche Übersetzung basiert auf der englischen Übersetzung von E. Hultzsch aus dem Jahr 1925 für dieselbe Fassung. Terminologie und Ergänzungen in eckigen Klammern folgen dieser historischen Ausgabe.",
+    "Original scripts": "Originalschriften",
+    "English translation of the Greek": "Deutsche Übersetzung des Griechischen",
+    "English translation of the Aramaic": "Deutsche Übersetzung des Aramäischen",
+    "Greek": "Griechisch",
+    "Aramaic": "Aramäisch",
+    "sourceNote": "Magadhi-Transliteration, englische Übersetzung und Faksimiles der Inschriften",
+    "siteNames": {
+      "Bairat": "Bairat",
+      "Lumbini": "Lumbini",
+      "Delhi–Topra": "Delhi–Topra",
+      "Girnar": "Girnar",
+      "Kalsi": "Kalsi",
+      "Rūpnāth": "Rūpnāth",
+      "Brahmagiri": "Brahmagiri",
+      "Nigali Sagar": "Nigali Sagar",
+      "Allahabad–Kauśāmbī": "Allahabad–Kauśāmbī",
+      "Sarnath": "Sarnath",
+      "Dhauli": "Dhauli"
+    },
+    "siteAltTemplate": "Faksimile der Brahmi-Inschrift von {site} in der Ausgabe von Hultzsch aus dem Jahr 1925",
+    "siteCaptionTemplate": "Faksimile der Inschrift von {site}. E. Hultzsch, <em>Inscriptions of Asoka</em> (1925), gemeinfrei.",
+    "siteTransliterationTemplate": "Der folgende Text folgt der Version von {site} in der Ausgabe von Hultzsch. Eckige Klammern kennzeichnen ergänzte oder unsichere Buchstaben; Punkte markieren beschädigten oder fehlenden Text. Andere erhaltene Kopien können abweichen.",
+    "imageAltTranslations": {
+      "Brahmi facsimiles of the three Barabar cave inscriptions in Hultzsch’s 1925 edition; Karna Chaupar is third": "Brahmi-Faksimiles der drei Barabar-Höhleninschriften in Hultzschs Ausgabe von 1925; Karna Chaupar ist die dritte",
+      "Brahmi facsimiles of the three Barabar cave inscriptions in Hultzsch’s 1925 edition; Sudama is first": "Brahmi-Faksimiles der drei Barabar-Höhleninschriften in Hultzschs Ausgabe von 1925; Sudama ist die erste",
+      "Brahmi facsimiles of the three Barabar cave inscriptions in Hultzsch’s 1925 edition; Visvakarma is second": "Brahmi-Faksimiles der drei Barabar-Höhleninschriften in Hultzschs Ausgabe von 1925; Visvakarma ist die zweite"
+    },
+    "imageCaptionTranslations": {
+      "Barabar cave inscription facsimiles. E. Hultzsch, <em>Inscriptions of Asoka</em> (1925), public domain.": "Faksimiles der Barabar-Höhleninschriften. E. Hultzsch, <em>Inscriptions of Asoka</em> (1925), gemeinfrei."
+    },
+    "transliterationNotes": {
+      "The text below follows Hultzsch’s edition of the Karna Chaupar inscription. Square brackets mark restored or uncertain letters; dots mark a missing passage.": "Der folgende Text folgt Hultzschs Ausgabe der Karna-Chaupar-Inschrift. Eckige Klammern kennzeichnen ergänzte oder unsichere Buchstaben; Punkte markieren eine fehlende Textstelle.",
+      "The text below follows Hultzsch’s edition of the Sudama inscription. Square brackets mark restored or uncertain letters.": "Der folgende Text folgt Hultzschs Ausgabe der Sudama-Inschrift. Eckige Klammern kennzeichnen ergänzte oder unsichere Buchstaben.",
+      "The text below follows Hultzsch’s edition of the Visvakarma inscription. Square brackets mark restored or uncertain letters.": "Der folgende Text folgt Hultzschs Ausgabe der Visvakarma-Inschrift. Eckige Klammern kennzeichnen ergänzte oder unsichere Buchstaben."
+    }
+  },
+  "articles": {
+    "ashoka-major-rock-edict-1": {
+      "title": "Großes Felsenedikt I: Tieropfer und die königliche Küche",
+      "excerpt": "Ashoka schränkt Tieropfer ein und berichtet, dass die Schlachtungen in der königlichen Küche stark verringert wurden.",
+      "tags": [
+        "Ashoka",
+        "Edikte",
+        "Großes Felsenedikt"
+      ],
+      "about": "Das erste Große Felsenedikt verknüpft öffentliche Opferrituale mit der Küche des Königs selbst. Es hält den drastischen Rückgang der für Speisen geschlachteten Tiere fest und verspricht, auch die verbleibenden Schlachtungen künftig einzustellen.",
+      "imageAlts": [
+        "Faksimile der Brahmi-Inschrift von Girnar in der Ausgabe von Hultzsch aus dem Jahr 1925"
+      ],
+      "imageCaptions": [
+        "Faksimile der Inschrift von Girnar. E. Hultzsch, <em>Inscriptions of Asoka</em> (1925), gemeinfrei."
+      ],
+      "transliterationNote": "Der folgende Text folgt der Girnar-Version in der Ausgabe von Hultzsch. Eckige Klammern kennzeichnen ergänzte oder unsichere Buchstaben; Punkte markieren beschädigten oder fehlenden Text. Andere erhaltene Kopien können abweichen.",
+      "translation": "> (A) König Devānāṁpriya Priyadarśin ließ dieses Edikt über das Dhamma verfassen.\n> (B) Hier darf kein lebendes Wesen geschlachtet und als Opfer dargebracht werden.\n> (C) Und es dürfen keine Festversammlungen abgehalten werden.\n> (D) Denn König Devānāṁpriya Priyadarśin sieht viel Übel in Festversammlungen.\n> (E) Es gibt jedoch bestimmte Festversammlungen, die König Devānāṁpriya Priyadarśin als lobenswert ansieht.\n> (F) Früher wurden in der Küche von König Devānāṁpriya Priyadarśin täglich viele Hunderttausende Tiere geschlachtet, um Curry zuzubereiten.\n> (G) Aber jetzt, da dieses Dhamma-Edikt verfasst wird, werden täglich nur noch drei Tiere geschlachtet: zwei Pfauen und ein Hirsch; und dieser Hirsch noch nicht einmal regelmäßig.\n> (H) Sogar diese drei Tiere sollen künftig nicht mehr geschlachtet werden.",
+      "sourceNote": "Magadhi-Transliteration, englische Übersetzung und Faksimiles der Inschrift"
+    }
+  }
+}

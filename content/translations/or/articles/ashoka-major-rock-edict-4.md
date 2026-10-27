@@ -1,0 +1,54 @@
+---
+title: "ପ୍ରମୁଖ ଶିଳାଲେଖ IV: ଧର୍ମର ଧ୍ୱନି"
+slug: ashoka-major-rock-edict-4
+excerpt: "ଅଶୋକ ପୁରାତନ ଯୁଦ୍ଧଭେରୀ ଓ ହିଂସା ସହିତ ଧର୍ମର ସାର୍ବଜନୀନ ପ୍ରସାରର ତୁଳନା କରିଛନ୍ତି।"
+publishedAt: 2026-10-16T00:00:00.000Z
+updatedAt: 2026-10-16T00:00:00.000Z
+period: mauryan
+polity: maurya
+personalities: [ashoka]
+relatedTo: ashoka-edicts
+tags: ["ଅଶୋକ","ଶିଳାଲେଖ","ପ୍ରମୁଖ ଶିଳାଲେଖ"]
+themes: []
+books: ["0349122385","935699322X","0143330802"]
+sourceHash: d65d5cb266e719b99be7eaac7bd305bb0bde7bb82df6c9630458b3e90f566f42
+---
+
+## ଏହି ଅନୁଶାସନ ବିଷୟରେ
+
+ଚତୁର୍ଥ ପ୍ରମୁଖ ଶିଳାଲେଖରେ ପୂର୍ବବର୍ତ୍ତୀ ଯୁଗର ହିଂସା ସହିତ ଅଶୋକଙ୍କ ଶାସନକାଳର ନୈତିକ ପ୍ରଗତିର ତୁଳନା କରାଯାଇଛି। ଯୁଦ୍ଧର ଭେରୀନାଦ ପରିବର୍ତ୍ତେ ଏବେ ପ୍ରଦର୍ଶନୀ ଓ ଉପଦେଶ ମାଧ୍ୟମରେ ଧର୍ମର ଧ୍ୱନି ଘୋଷିତ ହେଉଛି।
+
+## ମୂଳ ଲିପି
+
+<figure class="article-figure inscription-plate">
+  <img src="/assets/media/images/ashoka-plate-1405540893.jpg" alt="ହୁଲ୍ଟଶଙ୍କ ୧୯୨୫ ସଂସ୍କରଣରେ ଗିରନାରର ବ୍ରାହ୍ମୀ ଅଭିଲେଖର ପ୍ରତିଲିପି" loading="lazy" decoding="async" />
+  <figcaption>ଗିରନାରର ଅଭିଲେଖ ପ୍ରତିଲିପି। ଇ. ହୁଲ୍ଟଶ, <em>Inscriptions of Asoka</em> (1925), ସାର୍ବଜନୀନ ଡୋମେନ୍।</figcaption>
+</figure>
+
+## ରୋମାନ ଲିପ୍ୟନ୍ତରଣ
+
+ନିମ୍ନଲିଖିତ ପାଠ ହୁଲ୍ଟଶଙ୍କ ସଂସ୍କରଣରେ ଗିରନାରର ପାଠକୁ ଅନୁସରଣ କରେ। ବର୍ଗ ବନ୍ଧନୀ ପୁନଃସ୍ଥାପିତ ବା ଅନିଶ୍ଚିତ ଅକ୍ଷର ଦର୍ଶାଏ; ବିନ୍ଦୁଗୁଡ଼ିକ କ୍ଷତିଗ୍ରସ୍ତ ବା ଲୁପ୍ତ ପାଠକୁ ସୂଚାଏ। ଅନ୍ୟ ପ୍ରତିଲିପିଗୁଡ଼ିକରେ ପାଠ ଭିନ୍ନ ହୋଇପାରେ।
+
+<p class="inscription-transliteration" lang="pra-Latn">(A) 1 atikātaṃ aṃt[a]raṃ bahūni vāsa-satāni vaḍhito eva praṇāraṃbho vihiṃsa ca bhūtānāṃ ñātīsu 2 a[s]aṃpratipatī brā[m]haṇa-sramaṇānāṃ asaṃpratīpatī (B) ta aja Devānaṃpriyasa Priyadasino rāño 3 dhaṃma-caraṇena [bhe]rī-ghoso aho dhaṃma-ghoso vimāna-darsaṇā ca hastida[sa]ṇā ca 4 agi-kh[a]ṃdhāni ca [a]ñāni ca divyāni rūpāni dasayitpā janaṁ (C) yārise bahūhi v[āsa]satehi 5 na bhūta-puve tarise aja vaḍhite Devānaṃpriyasa Priyadasino rāño dhaṃmānusasṭiyā anāraṃ6[bh]o prāṇānaṃ avihāsā bhūtānaṃ ñātīnaṃ saṃpaṭipatī bramhaṇa-sarnaṇānaṃ saṃpaṭipatī mātari pitari 7 [s]usrusā thaira-susrusā (D) esa añe ca bahuvidhe [dha]ṃma-caraṇe va[ḍhi]te (E) vaḍhayisati ceva Devānaṃpriyo 8 [Pri*]ya[da]si rājā dhaṃma-[ca]raṇaṃ idaṃ (F) putrā ca [p]otrā ca prapotrā ca Devānaṃpriyasa Priyadasino rāño 9 [pra*]vadhayisaṃti idaṃ [dha]ṃma-caraṇaṃ ava savaṭa-kapā dhaṃmamhi sīlamhi tisṭaṃto [dha]ṃmaṃ anusāsisaṃti (G) 10 [e]sa hi sesṭe kaṃme ya dhaṃmānusāsanaṃ (H) dhamma-caraṇe pi na [bha]vati asīlasa (I) [ta] imamhi athamhi 11 [va]dhī ca ahīnī ca sādhu (J) e[t]āya athāya ida[ṃ] lekhāpitaṃ imasa atha[sa] v[a]dhi yujaṃtu hīni c[a] 12 [no] locetavyā (K) dbādasa-vāsābhisitena Devān[a]ṃpriyena Priyadasinā rāñ[ā] idam lekhapitam</p>
+
+## ଓଡ଼ିଆ ଅନୁବାଦ
+
+ଏହି ଓଡ଼ିଆ ଅନୁବାଦଟି ନିମ୍ନରେ ଉଦ୍ଧୃତ ସଂସ୍କରଣର ଇଂରାଜୀ ଅନୁବାଦ ଆଧାରରେ ପ୍ରସ୍ତୁତ କରାଯାଇଛି। କ୍ଷତିଗ୍ରସ୍ତ ତଥା ଅନିଶ୍ଚିତ ଅଂଶଗୁଡ଼ିକ ସେହି ଐତିହାସିକ ସଂସ୍କରଣ ଅନୁସାରେ ଚିହ୍ନିତ।
+
+> (A) ଅତୀତରେ ବହୁ ଶହ ଶହ ବର୍ଷ ଧରି ପ୍ରାଣୀହତ୍ୟା, ଜୀବମାନଙ୍କ ପ୍ରତି କ୍ରୂରତା, ଆତ୍ମୀୟମାନଙ୍କ ପ୍ରତି ଅସମ୍ମାନ ତଥା ଶ୍ରମଣ ଓ ବ୍ରାହ୍ମଣମାନଙ୍କ ପ୍ରତି ଅବମାନନା ବୃଦ୍ଧି ପାଇଆସୁଥିଲା।
+> (B) ମାତ୍ର ବର୍ତ୍ତମାନ, ରାଜା ଦେବାନଂପ୍ରିୟ ପ୍ରିୟଦର୍ଶୀଙ୍କ ଧର୍ମାଚରଣ ଫଳରେ ଯୁଦ୍ଧର ଭେରୀନାଦ (ଭେରୀଘୋଷ) ଧର୍ମର ଧ୍ୱନିରେ (ଧର୍ମଘୋଷ) ପରିଣତ ହୋଇଛି, ଏବଂ ଜନସାଧାରଣଙ୍କୁ ଦିବ୍ୟ ବିମାନ, ହସ୍ତୀ, ଅଗ୍ନିସ୍କନ୍ଧ ତଥା ଅନ୍ୟାନ୍ୟ ସ୍ୱର୍ଗୀୟ ଦୃଶ୍ୟ ପ୍ରଦର୍ଶନ କରାଯାଉଛି।
+> (C) ଯାହା ବିଗତ ଅନେକ ଶହ ଶହ ବର୍ଷ ମଧ୍ୟରେ କେବେ ଦେଖାଯାଇ ନ ଥିଲା, ବର୍ତ୍ତମାନ ରାଜା ଦେବାନଂପ୍ରିୟ ପ୍ରିୟଦର୍ଶୀଙ୍କ ଧର୍ମୋପଦେଶ ଯୋଗୁଁ ତାହା ବୃଦ୍ଧି ପାଇଛି: ପ୍ରାଣୀ ଅହିଂସା, ଜୀବମାନଙ୍କ ପ୍ରତି ଅକ୍ରୂରତା, ଆତ୍ମୀୟମାନଙ୍କ ପ୍ରତି ସମ୍ମାନ, ଶ୍ରମଣ ଓ ବ୍ରାହ୍ମଣମାନଙ୍କ ପ୍ରତି ଶ୍ରଦ୍ଧା, ପିତାମାତାଙ୍କ ସେବା ଏବଂ ଗୁରୁଜନମାନଙ୍କ ଆଦେଶ ପାଳନ।
+> (D) ଏହିପରି ଏବଂ ଅନ୍ୟାନ୍ୟ ଅନେକ ଉପାୟରେ ଧର୍ମାଚରଣର ପ୍ରସାର ହୋଇଛି, ଏବଂ ରାଜା ଦେବାନଂପ୍ରିୟ ପ୍ରିୟଦର୍ଶୀ ଏହି ଧର୍ମାଚରଣକୁ ଆହୁରି ଆଗେଇ ନେବେ।
+> (E) ଏବଂ ରାଜା ଦେବାନଂପ୍ରିୟ ପ୍ରିୟଦର୍ଶୀଙ୍କ ପୁତ୍ର, ପୌତ୍ର ଓ ପ୍ରପୌତ୍ରମାନେ ସଂସାରର କଳ୍ପାନ୍ତ ପର୍ଯ୍ୟନ୍ତ ଏହି ଧର୍ମାଚରଣର ବିକାଶ ଜାରି ରଖିବେ; ଏବଂ ଧର୍ମ ତଥା ସଦାଚାରରେ ଅବସ୍ଥାପିତ ହୋଇ ସେମାନେ ଲୋକମାନଙ୍କୁ ଧର୍ମ ଶିକ୍ଷା ଦେବେ।
+> (F) କାରଣ ଧର୍ମୋପଦେଶ ପ୍ରଦାନ ହିଁ ସର୍ବଶ୍ରେଷ୍ଠ କାର୍ଯ୍ୟ।
+> (G) ଏବଂ ସଦାଚାର ବିହୀନ ବ୍ୟକ୍ତି ପକ୍ଷରେ ଧର୍ମାଚରଣ ସମ୍ଭବପର ନୁହେଁ।
+> (H) ତେଣୁ ଏହି ବିଷୟର ଉନ୍ନତି କରିବା ଏବଂ ଏଥିରେ ଅବହେଳା ନ କରିବା ଉତ୍କୃଷ୍ଟ କାର୍ଯ୍ୟ।
+> (I) ନିମ୍ନଲିଖିତ ଉଦ୍ଦେଶ୍ୟରେ ଏହା ଲେଖାଯାଇଛି:
+> (J) ଯେପରି ଲୋକମାନେ ଏହି କାର୍ଯ୍ୟର ଅଭିବୃଦ୍ଧିରେ ନିୟୋଜିତ ହୁଅନ୍ତୁ ଏବଂ ଏହାର ଅବନତି ହେବାକୁ ନ ଦିଅନ୍ତୁ।
+> (K) ରାଜ୍ୟାଭିଷେକର ବାର ବର୍ଷ ପରେ ରାଜା ଦେବାନଂପ୍ରିୟ ପ୍ରିୟଦର୍ଶୀ ଏହା ଲେଖାଇଥିଲେ।
+
+## ଉତ୍ସ
+
+- E. Hultzsch, [*Inscriptions of Asoka* (1925)](https://archive.org/details/InscriptionsOfAsoka.NewEditionByE.Hultzsch), *Corpus Inscriptionum Indicarum*, ପ୍ରଥମ ଖଣ୍ଡ.
+
+- [ବିବ୍ଲିଓଥେକା ପଲିଗ୍ଲୋଟା ସଂସ୍କରଣ](https://www2.hf.uio.no/polyglotta/index.php?mid=0&page=fulltext&vid=362&view=fulltext), ଓସଲୋ ବିଶ୍ୱବିଦ୍ୟାଳୟ (ମାଗଧୀ ଲିପ୍ୟନ୍ତରଣ, ଇଂରାଜୀ ଅନୁବାଦ ଏବଂ ଅଭିଲେଖର ପ୍ରତିଲିପି).

@@ -1,0 +1,62 @@
+{
+  "common": {
+    "About this edict": "මෙම රාජාඥාව පිළිබඳව",
+    "About this inscription": "මෙම අභිලේඛනය පිළිබඳව",
+    "Original script": "මුල් ලිපිය",
+    "Original scripts": "මුල් ලිපි",
+    "Roman transliteration": "රෝමානු අක්ෂර පරිවර්තනය",
+    "localTranslationHeading": "සිංහල පරිවර්තනය",
+    "English translation of the Greek": "ග්‍රීක පාඨයේ සිංහල පරිවර්තනය",
+    "English translation of the Aramaic": "ඇරමයික පාඨයේ සිංහල පරිවර්තනය",
+    "Greek": "ග්‍රීක",
+    "Aramaic": "ඇරමයික",
+    "Sources": "මූලාශ්‍ර",
+    "volumeOne": "පළමුවන වෙළුම",
+    "polyglottaEdition": "බිබ්ලියොතෙකා පොලිග්ලොටා සංස්කරණය",
+    "universityOfOslo": "ඔස්ලෝ විශ්වවිද්‍යාලය",
+    "translationBasisNote": "මෙම සිංහල පරිවර්තනය පහත සඳහන් සංස්කරණයේ ඉංග්‍රීසි පරිවර්තනය මත පදනම් වේ. ඓතිහාසික සංස්කරණයට අනුකූලව හානි වූ සහ අවිනිශ්චිත කොටස් සලකුණු කර ඇත.",
+    "sourceNote": "මාගධී අක්ෂර පරිවර්තනය, ඉංග්‍රීසි පරිවර්තනය සහ සෙල්ලිපි පිටපත්",
+    "siteNames": {
+      "Bairat": "බයිරාට්",
+      "Lumbini": "ලුම්බිණි",
+      "Delhi–Topra": "දිල්ලි-තෝප්‍රා",
+      "Girnar": "ගිර්නාර්",
+      "Kalsi": "කල්සි",
+      "Rūpnāth": "රූප්නාත්",
+      "Brahmagiri": "බ්‍රහ්මගිරි",
+      "Nigali Sagar": "නිගාලි සාගර්",
+      "Allahabad–Kauśāmbī": "අලහබාද්-කෞශාම්බි",
+      "Sarnath": "සාරනාත්",
+      "Dhauli": "ධවුලි"
+    },
+    "siteAltTemplate": "හුල්ට්ෂ්ගේ 1925 සංස්කරණයේ {site} බ්‍රාහ්මී සෙල්ලිපි පිටපත",
+    "siteCaptionTemplate": "{site} සෙල්ලිපි පිටපත. ඊ. හුල්ට්ෂ්, <em>Inscriptions of Asoka</em> (1925), පොදු වසම.",
+    "siteTransliterationTemplate": "පහත දැක්වෙන පාඨය හුල්ට්ෂ්ගේ සංස්කරණයේ {site} පාඨය අනුගමනය කරයි. කොටු වරහන් මගින් ප්‍රතිස්ථාපනය කළ හෝ අවිනිශ්චිත අකුරු සලකුණු කරයි; තිත් මගින් හානි වූ හෝ අස්ථානගත වූ පාඨය දක්වයි. වෙනත් ඉතිරිව ඇති පිටපත් වෙනස් විය හැකිය.",
+    "imageAltTranslations": {
+      "Brahmi facsimiles of the three Barabar cave inscriptions in Hultzsch’s 1925 edition; Karna Chaupar is third": "හුල්ට්ෂ්ගේ 1925 සංස්කරණයේ බරාබර් ලෙන් ලිපි තුනේ බ්‍රාහ්මී පිටපත්; කර්ණ චෞපාර් තෙවැන්නයි",
+      "Brahmi facsimiles of the three Barabar cave inscriptions in Hultzsch’s 1925 edition; Sudama is first": "හුල්ට්ෂ්ගේ 1925 සංස්කරණයේ බරාබර් ලෙන් ලිපි තුනේ බ්‍රාහ්මී පිටපත්; සුදාමා පළමුවැන්නයි",
+      "Brahmi facsimiles of the three Barabar cave inscriptions in Hultzsch’s 1925 edition; Visvakarma is second": "හුල්ට්ෂ්ගේ 1925 සංස්කරණයේ බරාබර් ලෙන් ලිපි තුනේ බ්‍රාහ්මී පිටපත්; විශ්වකර්මා දෙවැන්නයි"
+    },
+    "imageCaptionTranslations": {
+      "Barabar cave inscription facsimiles. E. Hultzsch, <em>Inscriptions of Asoka</em> (1925), public domain.": "බරාබර් ලෙන් සෙල්ලිපි පිටපත්. ඊ. හුල්ට්ෂ්, <em>Inscriptions of Asoka</em> (1925), පොදු වසම."
+    },
+    "transliterationNotes": {
+      "The text below follows Hultzsch’s edition of the Karna Chaupar inscription. Square brackets mark restored or uncertain letters; dots mark a missing passage.": "පහත දැක්වෙන පාඨය හුල්ට්ෂ්ගේ කර්ණ චෞපාර් සෙල්ලිපි සංස්කරණය අනුගමනය කරයි. කොටු වරහන් මගින් ප්‍රතිස්ථාපනය කළ හෝ අවිනිශ්චිත අකුරු ද, තිත් මගින් අස්ථානගත වූ කොටස් ද සලකුණු කරයි.",
+      "The text below follows Hultzsch’s edition of the Sudama inscription. Square brackets mark restored or uncertain letters.": "පහත දැක්වෙන පාඨය හුල්ට්ෂ්ගේ සුදාමා සෙල්ලිපි සංස්කරණය අනුගමනය කරයි. කොටු වරහන් මගින් ප්‍රතිස්ථාපනය කළ හෝ අවිනිශ්චිත අකුරු සලකුණු කරයි.",
+      "The text below follows Hultzsch’s edition of the Visvakarma inscription. Square brackets mark restored or uncertain letters.": "පහත දැක්වෙන පාඨය හුල්ට්ෂ්ගේ විශ්වකර්මා සෙල්ලිපි සංස්කරණය අනුගමනය කරයි. කොටු වරහන් මගින් ප්‍රතිස්ථාපනය කළ හෝ අවිනිශ්චිත අකුරු සලකුණු කරයි."
+    }
+  },
+  "articles": {
+    "ashoka-major-rock-edict-1": {
+      "title": "ප්‍රධාන ගිරි ලිපිය I: සත්ව ඝාතනය තහනම් කිරීම",
+      "excerpt": "අශෝක රජු සිය මුළුතැන්ගෙයි දිනපතා සතුන් ඝාතනය කිරීම විශාල ලෙස අඩු කළ බවත්, උත්සව සමාගම් සහ පූජා සඳහා සත්ව ඝාතනය තහනම් කළ බවත් ප්‍රකාශ කරයි.",
+      "tags": [
+        "අශෝක",
+        "සෙල්ලිපි",
+        "ප්‍රධාන ගිරි ලිපි"
+      ],
+      "about": "මෙම ආරම්භක ගිරි ලිපිය මඟින් අශෝක රජුගේ සත්ව හිංසාව වැළැක්වීමේ ප්‍රතිපත්තිය පැහැදිලි කරයි. සත්ව බිලි පූජා සහ ඇතැම් සමාජ උත්සව තහනම් කරන අතර, රජුගේ පෞද්ගලික මුළුතැන්ගෙයි පරිභෝජනය පවා සීමා කර ඇති ආකාරය මෙහි විස්තර වේ.",
+      "translation": "> (A) දේවානම්ප්‍රිය ප්‍රියදර්ශී රජු විසින් මෙම ධර්ම ලිපිය ලියවන ලදී.\n> (B) මෙහි කිසිදු ජීවියෙකු මරා බිලි නොදිය යුතුය.\n> (C) කිසිදු උත්සව සමාගමක් නොපැවැත්විය යුතුය.\n> (D) මන්දයත් දේවානම්ප්‍රිය ප්‍රියදර්ශී රජු එවැනි උත්සව සමාගම්වල බොහෝ දෝෂ දකින බැවිනි.\n> (E) එහෙත් දේවානම්ප්‍රිය ප්‍රියදර්ශී රජු යහපත් යැයි සලකන උත්සව සමාගම් ද ඇත.\n> (F) මීට පෙර දේවානම්ප්‍රිය ප්‍රියදර්ශී රජුගේ මුළුතැන්ගෙයි ව්‍යංජන පිණිස දිනපතා ලක්ෂ ගණනක් සත්තු මරනු ලැබූහ.\n> (G) එහෙත් මෙම ධර්ම ලිපිය ලියන අවස්ථාව වන විට, දිනපතා ආහාරය සඳහා මරනු ලබන්නේ සතුන් තිදෙනෙකු පමණි: මොනරුන් දෙදෙනෙකු සහ එක් මුවෙකු; එම මුවා ද නිරන්තරයෙන් නොවේ.\n> (H) අනාගතයේදී මෙම සතුන් තිදෙනා ද නොමරනු ඇත."
+    }
+  }
+}

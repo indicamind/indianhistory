@@ -1,0 +1,57 @@
+---
+title: "ศิลาจารึกหลักใหญ่ที่ 9: พิธีกรรมตามประเพณีและพิธีกรรมแห่งธรรม"
+slug: ashoka-major-rock-edict-9
+excerpt: "พระราชาทรงเปรียบเทียบพิธีกรรมทางไสยศาสตร์ทั่วไปกับพิธีกรรมแห่งธรรมที่แท้จริง: ความเมตตาต่อบริวารและการเคารพผู้อาวุโส"
+publishedAt: 2026-10-16T00:00:00.000Z
+updatedAt: 2026-10-16T00:00:00.000Z
+period: mauryan
+polity: maurya
+personalities: [ashoka]
+relatedTo: ashoka-edicts
+tags: ["พระเจ้าอโศก","พระราชกฤษฎีกา","ศิลาจารึกหลักใหญ่"]
+themes: []
+books: ["0349122385","935699322X","0143330802"]
+sourceHash: 645f0aba46822ec73817fbbb0e3d25e607171825ea2945e64f4f0032b932b1b9
+---
+
+## เกี่ยวกับพระราชกฤษฎีกานี้
+
+ศิลาจารึกฉบับนี้วิพากษ์วิจารณ์พิธีกรรมที่ไร้สาระซึ่งมักจัดขึ้นเมื่อเจ็บป่วย แต่งงาน หรือคลอดบุตร พระเจ้าอโศกทรงสอนว่า 'ธรรมมงคล'—ความมีเมตตาต่อคนรับใช้ ความเคารพบิดามารดา และการให้ทาน—มีคุณค่าและให้ผลยั่งยืนกว่ามาก
+
+## อักษรดั้งเดิม
+
+<figure class="article-figure inscription-plate">
+  <img src="/assets/media/images/ashoka-plate-1405552832.jpg" alt="สำเนาจำลองจารึกอักษรพราหมีจาก กาลสี ในฉบับพิมพ์ของ Hultzsch ค.ศ. 1925" loading="lazy" decoding="async" />
+  <figcaption>สำเนาจำลองจารึก กาลสี E. Hultzsch, <em>Inscriptions of Asoka</em> (1925), สาธารณสมบัติ</figcaption>
+</figure>
+
+## การถอดอักษรเป็นอักษรละติน
+
+ข้อความด้านล่างนี้ยึดตามฉบับสำนวน กาลสี ในฉบับพิมพ์ของ Hultzsch วงเล็บเหลี่ยมระบุอักษรที่ฟื้นฟูขึ้นหรือไม่แน่ชัด จุดไข่ปลาแสดงข้อความที่เสียหายหรือสูญหาย สำเนาอื่นที่ยังหลงเหลืออาจมีความแตกต่างกัน
+
+<p class="inscription-transliteration" lang="pra-Latn">(A) 24 Devānaṃpiye Piy[a]da[s]i lā[jā] āhā (B) jan[e] uc[āv]ucaṃ maṃgalaṃ ka[l]eti ābādhasi av[āha]si vivāhasi pajopadāne pavāsasi e[tā]ye aṃnaye cā edisāye jane bahu magala[ṃ] k[a]leti (C) heta [eh]u abaka-jani[yo] bahu ca bahuvidhaṃ ca khuda [eh]a nilathiya 2 ca magalaṃ ka[la]ṃti (D) 25 se katavi ceva kho maṃgale (E) apa-phale [c]u kho [e]s[e] (F) [i]yaṃ cu kho mah[ā]ph[a]le ye dhaṃma-magale (G) he[tā] iyaṃ dāsa-bhaṭakasi s[a]myāpaṭip[a]ti gulunā apaciti [p]ā[n]ān[aṃ] saṃyame s[a]man[a]-baṃbhanānaṃ dāne ese aṃne cā heḍise dhaṃma-magale nāmā (H) se vata[v]iye pitinā pi putena pi bh[ā]tinā pi suvāmiken[a] pi mita-saṃthuten[ā] ava paṭivesiyenā [p]i 26 iyaṃ sādhu iyaṃ kataviye [ma]g[a]le āva [ta]sā athasā ni[v]utiyā imaṃ kachāmi ti (I) e hi i[ta]le magale sa[ṃ]sayikye se (J) siya vā taṃ aṭhaṃ nivatey[ā] siyā punā no (K) hi[da]lokike cev(a] se (L) iyaṃ punā dhaṃma-magale akāliky[e] (M) haṃce pi taṃ aṭhaṃ no niṭeti hida aṭhaṃ palata anaṃtaṃ punā pavasati (N) haṃce puna taṃ aṭhaṃ nivateti hidā tato ubhaye[sa]ṃ ladhe hoti hida cā se aṭhe palata cā anaṃtaṃ punā pasavati tenā dhaṃmamagalen[ā]</p>
+
+## คำแปลภาษาไทย
+
+คำแปลภาษาไทยนี้แปลจากฉบับแปลภาษาอังกฤษของ E. Hultzsch ค.ศ. 1925 จากสำนวนเดียวกัน คำศัพท์และการฟื้นฟูข้อความในวงเล็บเหลี่ยมเป็นไปตามฉบับพิมพ์ทางประวัติศาสตร์ดังกล่าว
+
+> (A) พระเจ้าเทวานัมปิยะ ปิยทัสสี มีพระบรมราชโองการดังนี้:
+> (B) ผู้คนมักประกอบพิธีกรรมมงคลต่างๆ ในยามเจ็บป่วย ในงานแต่งงานของบุตรธิดา ในยามคลอดบุตร หรือเมื่อจะออกเดินทางไกล
+> (C) ในโอกาสเช่นนั้น ผู้คนย่อมประกอบพิธีกรรมมากมาย
+> (D) ทว่าโดยเฉพาะสตรีมักประกอบพิธีกรรมอันไร้แก่นสารและไร้ประโยชน์มากมาย
+> (E) พิธีกรรมย่อมสามารถกระทำได้ แต่พิธีกรรมเช่นนั้นย่อมก่อให้เกิดผลเพียงเล็กน้อย
+> (F) ในทางตรงกันข้าม พิธีกรรมที่ก่อให้เกิดผลอันยิ่งใหญ่ไพศาลคือพิธีกรรมแห่งธรรม
+> (G) ในสิ่งนั้นประกอบด้วย: การปฏิบัติดีต่อทาสและคนงานรับจ้าง, ความเคารพอย่างสูงต่อผู้อาวุโส, การควบคุมตนเองต่อสรรพสัตว์, และการให้ทานแก่พราหมณ์และสมณะ
+> (H) สิ่งเหล่านี้และข้อปฏิบัติอื่นที่คล้ายกันเรียกว่าพิธีกรรมแห่งธรรม
+> (I) ดังนั้น บิดา, บุตร, พี่น้อง, สามี, มิตรสหาย หรือเพื่อนบ้าน พึงกล่าวว่า: ‘พิธีกรรมนี้เป็นความดี, พิธีกรรมนี้ควรปฏิบัติตามจนกว่าเป้าหมายจะบรรลุผล’
+> (J) พิธีกรรมทางโลกทั่วไปย่อมให้ผลที่ไม่แน่นอน; มันอาจนำมาซึ่งสิ่งที่หวังในโลกนี้ หรืออาจไม่ได้ผลเลยก็ได้
+> (K) ยิ่งไปกว่านั้น ผลนั้นย่อมจำกัดอยู่เพียงในโลกนี้เท่านั้น
+> (L) แต่ทว่าพิธีกรรมแห่งธรรมนั้นย่อมไม่ถูกจำกัดด้วยกาลเวลา
+> (M) แม้หากมันมิได้ส่งผลตามที่ปรารถนาในโลกนี้ ในโลกหน้าย่อมบังเกิดผลบุญอันไม่มีที่สิ้นสุด
+> (N) และหากมันบรรลุผลในโลกนี้ ย่อมได้ผลบุญทั้งสองประการ: ทั้งความผาสุกในโลกนี้และผลบุญอันไม่มีที่สิ้นสุดในโลกหน้า
+
+## แหล่งข้อมูล
+
+- E. Hultzsch, [*Inscriptions of Asoka* (1925)](https://archive.org/details/InscriptionsOfAsoka.NewEditionByE.Hultzsch), *Corpus Inscriptionum Indicarum*, เล่มที่ 1.
+
+- [ฉบับ Bibliotheca Polyglotta](https://www2.hf.uio.no/polyglotta/index.php?mid=0&page=fulltext&vid=362&view=fulltext), มหาวิทยาลัยออสโล (การถอดอักษรภาษามคธ, คำแปลภาษาอังกฤษ และสำเนาจำลองจารึก).

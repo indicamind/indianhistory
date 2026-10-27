@@ -1,18 +1,21 @@
 {
-  "fetchedAt": "2026-10-25T12:39:41.435Z",
+  "fetchedAt": "2026-10-27T12:43:18.473Z",
   "counts": {
-    "ashoka-bairat-edict": 1,
-    "ashoka-edicts": 13,
+    "ashoka-bairat-edict": 2,
+    "ashoka-edicts": 14,
     "ashoka-in-stone": 2,
+    "ashoka-kandahar-bilingual-inscription": 1,
     "ashoka-lumbini-edict": 1,
     "ashoka-major-pillar-edict-7": 1,
-    "ashoka-major-rock-edict-13": 1,
+    "ashoka-major-rock-edict-1": 1,
+    "ashoka-major-rock-edict-13": 2,
     "ashoka-major-rock-edict-2": 1,
+    "ashoka-major-rock-edict-8": 1,
     "ashoka-queens-edict": 1,
     "ashoka-schism-edict": 1,
     "attirampakkam-acheulean-stone-tools": 2,
-    "attirampakkam-middle-palaeolithic-tools": 1,
-    "mewar-resistance-and-the-road-to-rajasthan": 7,
+    "attirampakkam-middle-palaeolithic-tools": 2,
+    "mewar-resistance-and-the-road-to-rajasthan": 9,
     "poompuhar-15000-year-old-port-claim": 1
   }
 }

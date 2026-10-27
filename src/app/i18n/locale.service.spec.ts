@@ -89,6 +89,30 @@ describe('LocaleService', () => {
     expect(mockDoc.location.href).toBe('https://example.com/history/blogs/ashoka-in-stone?dev=true&fromPeriod=mauryan#sources');
   });
 
+  it('loads Sanskrit locale data for the complete edition', async () => {
+    mockDoc.location.href = 'http://localhost:4201/?lang=sa';
+    mockDoc.title = 'India History';
+    const urls: string[] = [];
+    const injector = Injector.create({ providers: [
+      { provide: DOCUMENT, useValue: mockDoc },
+      { provide: HttpClient, useValue: { get: (url: string) => {
+        urls.push(url);
+        return of({ 'India History': 'भारतेतिहासः' });
+      } } },
+    ] });
+    const localized = runInInjectionContext(injector, () => new LocaleService());
+    await localized.load();
+    expect(localized.language).toBe('sa');
+    expect(localized.languages.some(language => language.code === 'sa')).toBeTruthy();
+    expect(mockDoc.documentElement.lang).toBe('sa');
+    expect(mockDoc.documentElement.dir).toBe('ltr');
+    expect(mockDoc.title).toBe('भारतेतिहासः');
+    expect(localized.translationAvailable()).toBeTruthy();
+    expect(urls).toEqual(['/assets/generated/sa/site.json']);
+    localized.changeLanguage('sa');
+    expect(mockDoc.location.href).toContain('lang=sa');
+  });
+
   it('loads the language in a shared URL path and preserves its generated article title', async () => {
     mockDoc.location.href = 'http://localhost:4201/ar/article/ashoka-edicts?lang=en';
     mockDoc.title = 'عنوان المقال';

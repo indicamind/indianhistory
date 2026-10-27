@@ -13,7 +13,7 @@ const matter = require('gray-matter');
 const root = path.join(__dirname, '..');
 const sourceDir = path.join(root, 'content', 'articles');
 const localeDir = path.join(root, 'content', 'ashoka-localizations');
-const languages = ['hi', 'bn', 'ta', 'te', 'mr', 'ur', 'gu', 'kn', 'ml', 'pa', 'es', 'fr', 'ar', 'zh', 'pt'];
+const languages = ['hi', 'bn', 'ta', 'te', 'mr', 'ur', 'gu', 'kn', 'ml', 'pa', 'es', 'fr', 'ar', 'zh', 'pt', 'or', 'si', 'ja', 'ne', 'id', 'th', 'de', 'fa', 'ru'];
 
 function section(body, heading, nextHeading) {
   const from = body.indexOf(`## ${heading}\n`);

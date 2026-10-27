@@ -1,0 +1,57 @@
+---
+title: "Maklumat Batu Utama VI: Kesediaan Melayani Rakyat Setiap Saat"
+slug: ashoka-major-rock-edict-6
+excerpt: "Ashoka memerintahkan agar laporan urusan rakyat disampaikan kepadanya setiap waktu dan di mana pun beliau berada."
+publishedAt: 2026-10-16T00:00:00.000Z
+updatedAt: 2026-10-16T00:00:00.000Z
+period: mauryan
+polity: maurya
+personalities: [ashoka]
+relatedTo: ashoka-edicts
+tags: ["Ashoka","maklumat","maklumat batu utama"]
+themes: []
+books: ["0349122385","935699322X","0143330802"]
+sourceHash: d47e761e96324978c64983abb92c99657aa10450610effcafed6c9159f179997
+---
+
+## Tentang maklumat ini
+
+Maklumat ini memuat ikrar pelayanan publik Ashoka yang terkenal: bahwa para penyampai laporan (pativedaka) boleh menemuinya setiap saat, baik saat ia bersantap, berada di ruang pribadi, maupun di istal kuda, agar kepentingan rakyat dapat segera diselesaikan.
+
+## Aksara asli
+
+<figure class="article-figure inscription-plate">
+  <img src="/assets/media/images/ashoka-plate-1405541228.jpg" alt="Faksimili prasasti Brahmi dari Girnar dalam edisi Hultzsch tahun 1925" loading="lazy" decoding="async" />
+  <figcaption>Faksimili prasasti Girnar. E. Hultzsch, <em>Inscriptions of Asoka</em> (1925), domain publik.</figcaption>
+</figure>
+
+## Transliterasi Latin
+
+Teks di bawah ini mengikuti versi Girnar dalam edisi Hultzsch. Tanda kurung siku menunjukkan huruf yang direkonstruksi atau belum pasti; titik-titik menunjukkan teks yang rusak atau hilang. Salinan lain yang masih ada mungkin berbeda.
+
+<p class="inscription-transliteration" lang="pra-Latn">(A) 1 [Devā] ……… [s]i rājā evaṃ āha (B) atikrāt[a]ṃ aṃtara[ṃ] 2 na bhuta-pru[v] . [s] . [v] ... [l] . atha-kaṃme va paṭivedanā vā (C) ta mayā evaṃ kataṃ (D) 3 s[a]ve kāle bhuṃj[a]mānasa me orodhanamhi gabhāgāramhi vacamhi va 4 vinītamhi ca uyānesu ca savatra paṭivedakā sṭitā athe me [ja]nasa 5 paṭivedetha iti (E) sarvatra ca janasa athe karomi (F) ya ca kiṃci mukhato 6 āñapayāmi svayaṃ dāpakaṃ vā srāvāpakaṃ vā ya vā puna mahāmātresu 7 ācāyi[ke] aropitam bhavati tāya athāya vivādo nijhatī v[a s]aṃto parisāyaṃ 8 ānaṃtaraṃ paṭ[i]vedeta[v]yaṃ me sa[r]vatra sarve kāle (G) evaṃ maya āñapitaṃ (H) nāsti hi me to[s]o 9 usṭānamhi atha-saṃtīraṇāya va (I) katavya-mate hi me sa[rva]-loka-hitaṃ (J) 10 tasa ca puna esa mūle usṭanaṁ ca atha-saṃtīraṇā ca (K) nāsti hi kaṃmataraṃ 11 sarva-loka-hitatpa (L) ya ca kiṃci parākramāmi ahaṃ kiṃti bhūtānaṃ anaṃṇaṃ gacheyaṃ 12 idha ca nāni sukhāpayāmi paratrā ca svagaṃ ārādhayaṃtu ta (M) etāya athāya 13 ayaṃ dha[ṃ]ma-lipī lekhāpitā kiṃti ciraṁ tisṭeya iti tathā ca me putrā potā ca prapotrā ca 14 anuvataraṃ sava-loka-hitāya (N) dukaraṃ [t]u idaṃ añatra agena parakramena</p>
+
+## Terjemahan bahasa Indonesia
+
+Terjemahan bahasa Indonesia ini didasarkan pada terjemahan bahasa Inggris karya E. Hultzsch tahun 1925 untuk versi yang sama. Istilah dan rekonstruksi dalam tanda kurung siku mengikuti edisi historis tersebut.
+
+> (A) Raja Devānāṁpriya Priyadarśin bertitah demikian:
+> (B) Di masa lalu, penyelesaian urusan negara dan penerimaan laporan tidak berlangsung setiap waktu.
+> (C) Oleh sebab itu, pengaturan berikut ditetapkan oleh saya:
+> (D) Kapan pun, saat saya sedang bersantap, di ruang permaisuri, di kamar pribadi, di kereta, atau di taman-taman istana, para penyampai laporan harus melaporkan urusan rakyat kepada saya di mana pun saya berada.
+> (E) Dan di mana pun saya berada, saya akan segera menyelesaikan urusan rakyat.
+> (F) Dan jika timbul perdebatan atau perbedaan pendapat di dalam dewan menteri mengenai perintah lisan yang saya keluarkan, atau mengenai tugas mendesak yang dipercayakan kepada para pejabat tinggi.
+> (G) Hal itu harus segera dilaporkan kepada saya di mana pun dan pada saat apa pun.
+> (H) Demikianlah yang diperintahkan oleh saya.
+> (I) Sebab saya tidak pernah merasa puas dengan usaha keras saya dan penyelesaian urusan rakyat secara cepat.
+> (J) Karena saya menganggap kesejahteraan seluruh dunia sebagai kewajiban utama saya.
+> (K) Dan akar dari hal itu adalah usaha yang gigih dan penyelesaian urusan tanpa menunda-nunda.
+> (L) Tidak ada tugas yang lebih luhur daripada memajukan kesejahteraan seluruh dunia.
+> (M) Dan apa pun jerih payah yang saya curahkan, itu ditujukan agar saya dapat melunasi hutang budi saya kepada semua makhluk hidup; agar saya dapat membuat mereka berbahagia di dunia ini dan mencapai surga di alam baka.
+> (N) Untuk tujuan inilah maklumat kebajikan moral ini dipahatkan, agar bertahan lama dan agar putra-putra serta cucu-cucu saya berusaha keras demi kesejahteraan seluruh alam semesta; namun hal ini sungguh sukar terlaksana tanpa pengorbanan yang luar biasa.
+
+## Sumber
+
+- E. Hultzsch, [*Inscriptions of Asoka* (1925)](https://archive.org/details/InscriptionsOfAsoka.NewEditionByE.Hultzsch), *Corpus Inscriptionum Indicarum*, jilid I.
+
+- [edisi Bibliotheca Polyglotta](https://www2.hf.uio.no/polyglotta/index.php?mid=0&page=fulltext&vid=362&view=fulltext), Universitas Oslo (transliterasi Magadhi, terjemahan bahasa Inggris, dan faksimili prasasti).

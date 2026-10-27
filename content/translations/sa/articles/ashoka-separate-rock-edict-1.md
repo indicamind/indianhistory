@@ -1,0 +1,82 @@
+---
+title: 'पृथक्शिलालेखः I: कलिङ्गे न्यायः'
+slug: ashoka-separate-rock-edict-1
+excerpt: >-
+  अशोकः नवविजितकलिङ्गस्य अधिकारिणः स्वेच्छादण्डं वर्जयितुं न्यायेन च जनैः
+  व्यवहर्तुम् आदिशति।
+publishedAt: 2026-10-16T00:00:00.000Z
+updatedAt: 2026-10-16T00:00:00.000Z
+period: mauryan
+polity: maurya
+personalities:
+  - ashoka
+relatedTo: ashoka-edicts
+tags:
+  - अशोकः
+  - अभिलेखाः
+  - पृथक्शिलालेखः
+themes: []
+books:
+  - 0349122385
+  - 935699322X
+  - 0143330802
+sourceHash: cf9e79e47f2f44909e082b805d1a567a418039c67c2e2d94d12906c008071803
+---
+## अस्य लेखस्य परिचयः
+
+तोसलीस्थाधिकारिणः उद्दिश्य लिखितः अयं पृथक्लेखः कलिङ्गविजयानन्तरं निष्पक्षन्याये नियमितनिरीक्षणे च केन्द्रितः। धौलीजौगडपाठरूपाणि स्थानीयसम्बोधितजनैः भिद्यन्ते।
+
+## मूललिपिः
+
+<figure class="article-figure inscription-plate">
+  <img src="/assets/media/images/ashoka-plate-1405670299.jpg" alt="हुल्त्शस्य 1925 तमवर्षस्य संस्करणे धौलीस्थब्राह्मीलेखस्य प्रतिकृतिः" loading="lazy" decoding="async" />
+  <figcaption>धौलीलेखस्य प्रतिकृतिः। ई. हुल्त्शः, <em>Inscriptions of Asoka</em> (1925), सार्वजनिकक्षेत्रे।</figcaption>
+</figure>
+
+## रोमनलिप्यन्तरणम्
+
+अधोलिखितः पाठः हुल्त्शस्य संस्करणे धौलीपाठरूपम् अनुसरति। वर्गकोष्ठकानि पुनःस्थापितानि अनिश्चितानि वा अक्षराणि दर्शयन्ति; बिन्दवः क्षतं लुप्तं वा पाठं सूचयन्ति। अन्येषु अवशिष्टप्रतिलेखेषु भेदाः सम्भवन्ति।
+
+<p class="inscription-transliteration" lang="pra-Latn">(A) 1 [Devāna]ṃ[pi]y[asa vaca]nena Tosaliyaṃ ma[hā]mata [naga]la[v]i[yo]hālak[ā] 2 [va]taviya (B) [aṃ kichi dakha]mi hakam taṃ ichāmi k[i]ṃ[t]i kaṃ[mana pa]ṭi[pāda y]ehaṃ 3 duvālate ca ālabheham (C) esa ca me mokhya-mata duva[la etasi aṭha]si aṃ tuph[esu] 4 anusathi (D) tuphe hi bahūsu pāna-sahasesuṃ ā[yata] p[a]na[yaṃ ga]ch[e]ma su munisānam (E) save 5 munise pajā mama (F) ath[ā] pajāye ichāmi h[a]ka[m kiṃti sa]ve[na hi]ta-sukhena hidalo[kika]6palalokike[na] y[ūjev]ū [t]i [tathā .... muni]sesu pi [i]chāmi [ha]ka[ṃ] (G) no ca pāpunātha āv[a]-ga-7[m]u[k]e [iyaṃ aṭhe] (H) [k]e[cha] v[a] eka-puli[se] .... nāti e[ta]ṃ se pi desaṃ no savaṃ (I) de[kha]t[a hi t]u[phe] etaṃ 8 suvi[hi]tā pi (J) [n]itiyaṃ eka-pulise [pi athi] y[e] baṃdhanaṃ vā p[a]likilesaṃ vā papunati (K) tata hoti 9 akasmā tena badhana[ṃ]tik[a] aṃne ca ...... hu jane da[v]iye dukhīyati (L) tata ichitaviye 10 tuphehi kiṃti m[a]jhath paṭipādayema ti (M) imeh[i] cu [jāteh]i no saṃpaṭipajati isāya āsulopena 11 ni[ṭhū]liyena tūlanā[ya] anāvūtiya ālasiyena k[i]lamathena (N) se ichitaviye kitiṃ ete 12 [jātā no] huvevu ma[m]ā ti (O) etasa ca sava[sa] mūle anāsulope a[tū]l[a]nā ca (P) niti[ya]ṃ e kilaṃte siyā 13 [na] te uga[cha] saṃcalitaviy[e] tu va[ṭ]ita[v]iy[e] etaviye vā (Q) hevaṃmeva e da[kheya] t[u]phāk[a] tena vataviye 14 ānaṃne dekhata hevaṃ ca hev[a]ṃ ca [D]evānaṃpiyasa anusathi (R) se mah[a-pha]le [e] t[a]sa [saṃpa]tipada 15 mahā-apāye asaṃpaṭipati (S) [vi]pat[i]pādayamīne hi etaṃ nathi svagasa [ā]l[a]dhi no lāj[ā]la[dh]i (T) 16 duā[ha]le hi i[ma]sa kaṃm[asa] m[e] kute man[o]-atileke (U) sa[ṃ]paṭipajam[ī]n[e] cu [etaṃ] svaga[ṃ] 17 ālādha[yi]sa[tha mama ca ā]naniyaṃ ehatha (V) 18 iyaṃ ca l[i]p[i] t[i]sana[kha]tena so[ta]viy[ā] (W) aṃta[l]ā [p]i ca [t]ī[s]e[na kha]nasi kha[nas]i ekena pi sotaviya (X) hevaṃ ca kalaṃtaṃ tuphe 19 caghatha saṃpa[ṭi]pād[a]y[i]tave (Y) [e]t[a]ye athāye 13 iya[ṃ l]i[p]i likhit[a h]ida ena 20 nagala-vi[y]o[hā]lakā sas[v]ataṃ samayaṃ yūjevū t[i] ...... [na]sa akasmā [pa]libodhe va 21 (a) k(a) smā paliki[l]e[s]e va no siya ti (Z) etāye ca aṭhāye haka[ṃ] .... mate p[a]ṃcasu paṃcasu [va]se22su [n]i[khā]may[i]sāmi e akhakhase a[caṃ]ḍ[e] s[a]khinālaṃbhe hosati etaṃ aṭhaṃ jānitu . . . . . . [ta]thā 23 kala[ṃ]ti atha mama anusathī ti (AA) Ujenite pi cu kumāle etāye v[a] aṭhāye [ni]khāma[yisa] . . . . . . 24 hedisameva vagaṃ no ca atikāmayisati tiṃni vasāni (BB) hemeva T[a]kha[s]ilāte pi (CC) [a]dā ...... 25 te mahāmātā nikhamisaṃti anusayānaṃ tadā ahāpayitu atane kaṃmaṃ etaṃ pi jānisaṃti 26 taṃ pi ta[th]ā kalaṃti lājine anusathī</p>
+
+## संस्कृतानुवादः
+
+अयं तस्यैव पाठरूपस्य ई. हुल्त्शकृतस्य 1925 तमवर्षस्य आङ्ग्लानुवादस्य संस्कृतानुवादः। अस्य पारिभाषिकशब्दाः कोष्ठकस्थपाठपुनःस्थापनानि च तस्य ऐतिहासिकसंस्करणस्य अनुसरणं कुर्वन्ति।
+
+> (A) देवानांप्रियस्य वचनेन तोसल्यां नगरन्यायाधिकारिणः महामात्राः एवम् उपदेष्टव्याः।
+> (B) यत् किञ्चित् अहं सम्यक् इति जानामि, तत् कर्मभिः प्रवर्तयितुं विविधोपायैः साधयितुं च प्रयते।
+> (C) अस्य प्रयोजनस्य मुख्योपायः भवताम् अनुशासनम् इति मन्ये।
+> (D) भवन्तः हि जनानाम् अनुरागप्राप्त्यर्थं बहुषु सहस्रेषु जनेषु कार्यरताः।
+> (E) सर्वे मनुष्याः मम सन्तानाः।
+> (F) यथा स्वसन्तानानां कृते इच्छामि यत् ते इहलोके परलोके च सम्पूर्णहितसुखसम्पन्नाः स्युः, तथैव [सर्व]मनुष्याणां कृते अपि इच्छामि।
+> (G) भवन्तश्च मम अस्य प्रयोजनस्य विस्तारं न जानन्ति।
+> (H) कश्चित् एकः एव एतत् जानाति, सोऽपि केवलम् एकदेशं न तु सर्वम्।
+> (I) इदानीं भवन्तः सुव्यवस्थिताः सन्तोऽपि अस्मिन् ध्यानं दद्युः।
+> (J) न्यायप्रशासने कश्चित् जनः बन्धनं कठोरव्यवहारं वा अनुभवति।
+> (K) तत्र सः आकस्मिकतया बन्धननिवृत्त्यादेशं प्राप्नोति, [बहवः] अन्ये तु दुःखम् अनुभवितुम् अनुवर्तन्ते।
+> (L) अत्र भवन्तः सर्वैः समत्वेन व्यवहर्तुं प्रयतेरन्।
+> (M) किन्तु एभिः भावैः तदाचरणं विफलति—ईर्ष्यया, क्रोधेन, क्रौर्येण, त्वरया, अनभ्यासेन, आलस्येन श्रमेण च।
+> (N) एते भावाः भवत्सु न उद्भवेयुः इत्यर्थं प्रयत्नः कर्तव्यः।
+> (O) अस्य सर्वस्य मूलं क्रोधाभावः त्वरावर्जनं च।
+> (P) यः न्यायप्रशासने श्रान्तः सः न उत्थास्यति; किन्तु चलितव्यं, गन्तव्यं, अग्रे वर्तितव्यं च।
+> (Q) यः अस्मिन् ध्यानं दास्यति, सः भवन्तं वदेत्—‘पश्यत यत् राज्ञे ऋणं निर्वर्तयथ; एवमेवं देवानांप्रियस्य अनुशासनम्’ इति।
+> (R) अस्य पालनं महाफलं जनयति, अपालनं तु महदनर्थं भवति।
+> (S) अस्य अपालने हि न स्वर्गप्राप्तिः न च राज्ञः सन्तोषः भविष्यति।
+> (T) अस्मिन् कर्तव्ये दुर्विहिते मम चित्तं कथं प्रसन्नं स्यात्?
+> (U) पालयथ चेत् भवन्तः स्वर्गं प्राप्स्यथ, मह्यं ऋणं च निर्वर्तयिष्यथ।
+> (V) अयञ्च आदेशः प्रत्येकस्मिन् तिष्यनक्षत्रदिने सर्वैः श्रोतव्यः।
+> (W) तिष्यदिनानाम् अन्तराले अपि बहुषु अन्यप्रसङ्गेषु एकेनापि अयं श्रोतुं शक्यते।
+> (X) एवम् आचरथ चेत् इदं कर्तव्यं पूरयितुं शक्ष्यथ।
+> (Y) एतदर्थम् अत्र अयं लेखः लिखितः, यत् नगरन्यायाधिकारिणः सर्वदा प्रयतेरन्—जनेषु न अर्हताविरुद्धं बन्धनं न च अर्हताविरुद्धः कठोरव्यवहारः भवेत्।
+> (Z) एतदर्थं च अहं प्रतिपञ्चवर्षं न कठोरं न चण्डं किन्तु मृदुकर्माणं [महामात्रं] प्रेषयिष्यामि, ज्ञातुं यत् न्यायाधिकारिणः अस्मिन् प्रयोजने ध्यानं दत्त्वा ..... मम अनुशासनानुसारम् आचरन्ति वा।
+> (AA) उज्जयिनीतः अपि कुमारः प्रान्तशासकः एतदर्थं ..... तादृशमेव पुरुषं प्रेषयिष्यति, एतादृशप्रेषणं विना त्रिवर्षाधिकं कालं च न अतिवर्तयिष्यति।
+> (BB) तथैव तक्षशिलातः अपि अधिकारी प्रेषयिष्यते।
+> (CC) यदा ..... एते महामात्राः अनुसंयानयात्रायां निर्गमिष्यन्ति, तदा स्वकर्तव्यानि अनुपेक्ष्य इदमपि ज्ञास्यन्ति—न्यायाधिकारिणः राज्ञः अनुशासनानुसारम् इदमपि तथा पालयन्ति वा।
+
+## स्रोतांसि
+
+- [Bibliotheca Polyglotta संस्करणम्](https://www2.hf.uio.no/polyglotta/index.php?mid=0&page=fulltext&vid=364&view=fulltext), ओस्लोविश्वविद्यालयः (मागधीलिप्यन्तरणम्, आङ्ग्लानुवादः अभिलेखप्रतिकृतयश्च)।
+
+### चित्रश्रेयः
+
+- ई. हुल्त्शः, [*Inscriptions of Asoka* (1925)](https://archive.org/details/InscriptionsOfAsoka.NewEditionByE.Hultzsch), *Corpus Inscriptionum Indicarum*, प्रथमः खण्डः। उपर्युक्तब्राह्मीलेखप्रतिकृतेः मूलस्रोतः; सार्वजनिकक्षेत्रे।

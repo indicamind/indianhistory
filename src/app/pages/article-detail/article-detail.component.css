@@ -264,3 +264,8 @@
 
 
 }
+
+.translation-note {
+  color: var(--muted);
+  font-size: .85rem;
+}

@@ -10,7 +10,7 @@ personalities: [ashoka]
 relatedTo: ashoka-edicts
 tags: ["Ashoka","maklumat","maklumat batu terpisah"]
 themes: []
-books: ["0349122385","935699322X","0143330802"]
+books: ['0349122385', '935699322X', '0143330802', 'B0BPDX1MXS']
 sourceHash: 074108640470a9f296668e9fc9d0a95fa851f23c70333689cead65fb7b63d70a
 ---
 

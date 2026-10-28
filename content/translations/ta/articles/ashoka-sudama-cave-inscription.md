@@ -10,7 +10,7 @@ personalities: [ashoka]
 relatedTo: ashoka-edicts
 tags: ["அசோகர்","கல்வெட்டுகள்","பராபர் குகைகள்"]
 themes: []
-books: ["0349122385","935699322X","0143330802"]
+books: ['0349122385', '935699322X', '0143330802', 'B0BPDX1MXS']
 sourceHash: 51068c5605034a3725d44d4f6b5c623ee6f493aade18eae625e30f07df060fb7
 ---
 

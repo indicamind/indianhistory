@@ -1,4 +1,4 @@
-<div class="reactions" role="group" [attr.aria-label]="locale.translate('Article feedback')" [attr.aria-busy]="busy()">
+<div class="reactions" role="group" [attr.aria-label]="locale.translate('Article feedback')">
   <button type="button" [class.selected]="vote() === 'up'" [attr.aria-pressed]="vote() === 'up'"
     [attr.aria-label]="locale.translate('Thumbs up')" [attr.aria-describedby]="'thumbs-up-count-' + article().slug"
     [title]="locale.translate('Thumbs up')" [disabled]="busy()" (click)="react('up')">
@@ -16,8 +16,7 @@
     <span [id]="'thumbs-down-count-' + article().slug">{{ thumbsDown().toLocaleString(locale.language) }}</span>
   </button>
   <span class="feedback-status" aria-live="polite">
-    @if (busy()) { {{ locale.translate('Saving…') }} }
-    @else if (error()) { {{ locale.translate('Could not save your vote. Please try again.') }} }
+    @if (error()) { {{ locale.translate('Could not save your vote. Please try again.') }} }
     @else if (vote()) { {{ locale.translate('Thanks for your feedback.') }} }
     @else if (submitted()) { {{ locale.translate('Vote removed.') }} }
   </span>

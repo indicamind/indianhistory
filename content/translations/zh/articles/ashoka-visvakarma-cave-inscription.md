@@ -10,7 +10,7 @@ personalities: [ashoka]
 relatedTo: ashoka-edicts
 tags: ["阿育王","铭文","巴拉巴尔洞窟"]
 themes: []
-books: ["0349122385","935699322X","0143330802"]
+books: ['0349122385', '935699322X', '0143330802', 'B0BPDX1MXS']
 sourceHash: 9675babea78a52bc04404d7f79b2505aa5b663e191a741b3c8e42c7a9b570d10
 ---
 

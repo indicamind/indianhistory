@@ -10,7 +10,7 @@ personalities: [ashoka]
 relatedTo: ashoka-edicts
 tags: ["අශෝක","සෙල්ලිපි","ප්‍රධාන ගිරි ලිපි"]
 themes: []
-books: ["0349122385","935699322X","0143330802"]
+books: ['0349122385', '935699322X', '0143330802', 'B0BPDX1MXS']
 sourceHash: b3867ef514a64c93608104798dfd368ed66fd2a736cdb61810320e331022937f
 ---
 

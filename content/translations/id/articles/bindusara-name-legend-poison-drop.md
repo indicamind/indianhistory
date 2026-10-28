@@ -1,12 +1,19 @@
 ---
-title: "Setetes Racun, Nama Seorang Kaisar: Legenda Bindusara"
+title: 'Lahir dari Racun: Legenda Mencekam di Balik Nama Bindusara'
 slug: bindusara-name-legend-poison-drop
-excerpt: "Hidangan kerajaan beracun. Permaisuri yang sekarat. Pewaris takhta yang belum lahir diselamatkan di ambang maut. Legenda Jaina tentang nama Bindusara merangkai setetes racun menjadi kisah pertahanan dinasti, duka seorang ibu, dan siasat berbahaya Chanakya."
-publishedAt: 2026-10-27T00:00:00.000Z
-updatedAt: 2026-10-27T00:00:00.000Z
+excerpt: >-
+  Jamuan kerajaan beracun. Seorang ibu sekarat. Pewaris yang belum lahir
+  terjebak dalam bencana. Legenda Jain tentang Bindusara mengubah pertahanan
+  rahasia Chanakya menjadi penyelamatan penuh keputusasaan, dan setetes racun
+  mematikan menjadi nama seorang kaisar.
+publishedAt: '2026-10-27T00:00:00.000Z'
+updatedAt: '2026-10-28T00:00:00.000Z'
 period: mauryan
 polity: maurya
-personalities: [chandragupta-maurya, ashoka]
+personalities:
+  - chandragupta-maurya
+  - bindusara
+  - ashoka
 tags:
   - Bindusara
   - Chandragupta Maurya
@@ -15,8 +22,12 @@ tags:
   - Kekaisaran Maurya
   - Legenda Jaina
 themes: []
-books: [0349122385, 935699322X, 0143330802]
-sourceHash: 95e9499e88f501fe5e7d22d473d4348b6a069f5f94a6ffa71e9ec481f892dd78
+books:
+  - 0349122385
+  - 935699322X
+  - 0143330802
+  - B0BPDX1MXS
+sourceHash: 26061e56a5b11181d2349c8c9b7041ecd4b96b3348316a6ec4ddb7a5e53265f4
 ---
 
 <figure class="article-figure history-illustration history-hero">
@@ -30,47 +41,93 @@ sourceHash: 95e9499e88f501fe5e7d22d473d4348b6a069f5f94a6ffa71e9ec481f892dd78
   </figcaption>
 </figure>
 
-**Sang kaisar selamat dari racun dalam makanannya. Permaisuri yang ikut menyantap makanan itu tewas. Dan anak yang diselamatkan dari rahimnya akan menanggung kenangan akan setetes racun dalam namanya selamanya.**
+**Satu jamuan beracun. Seorang ratu sekarat. Pangeran yang belum lahir, dan satu tetes yang kelak memberi nama kepada seorang kaisar.**
 
-Bayi itu, menurut legenda, adalah **Bindusara**: putra Chandragupta Maurya dan ayah dari Ashoka. Berada di antara pendiri sebuah kekaisaran dan penguasanya yang paling termasyhur, bertakhtalah seorang raja yang kisah kelahirannya membawa kita masuk ke dalam ruang pribadi istana yang sarat bahaya.
+Dalam legenda Jain tentang Bindusara, bahaya terbesar bagi keluarga kerajaan datang dari makanan di meja mereka sendiri. Chandragupta Maurya mampu bertahan dari makanan yang disantapnya. Ratunya yang hamil tidak. Chanakya, ahli strategi yang berusaha melindungi kaisar, tiba-tiba menghadapi akibat mengerikan dari pertahanannya sendiri.
 
-Dalam peristiwa genting itu tidak ada derap pasukan bala tentara. Yang ada hanyalah sepiring hidangan, seorang permaisuri yang sedang mengandung tua, dan seorang perdana menteri yang upayanya melindungi junjungannya justru mendatangkan malapetaka bagi keluarga kerajaan yang ia layani. Dalam sekejap mata, masa depan dinasti bergantung pada nyawa seorang anak yang belum terlahir.
+Ratu itu adalah **Durdhara**. Anak dalam kandungannya akan menjadi **Bindusara**, ayah Ashoka. Sebelum mewarisi takhta, ia harus selamat dari bencana yang sedang merenggut nyawa ibunya.
 
-Kisah termasyhur tentang setetes racun ini berasal dari tradisi naratif Jaina yang terlestarikan dalam karya **Hemachandra, *Parishishtaparvan***. Hemachandra menulis pada abad ke-12 Masehi, berabad-abad setelah masa kekuasaan Maurya. Kita memasuki dunia legenda kerajaan yang diingat dan diolah kembali. Kekuatannya terletak pada kisah luar biasa yang dituturkannya tentang kelangsungan hidup, kesetiaan, dan harga kemanusiaan yang harus dibayar demi menjaga sebuah kekaisaran tetap hidup. <sup>[1][3]</sup>
+Yang menyusul ialah salah satu kisah kelahiran paling meresahkan tentang kaisar India: racun dijadikan pelindung, perlindungan berubah menjadi bencana, dan kenangan penyelamatan kembali bertahun-tahun kemudian sebagai tuduhan terhadap sang penyelamat.
 
-## Pangeran di Antara Dua Kaisar
+Versi tetes racun yang dikenal luas tersimpan dalam ***Parishishtaparvan* karya Hemachandra**, ditulis pada abad ke-12 M, berabad-abad setelah masa Maurya. Ini legenda kerajaan yang dipelihara dan dibentuk tradisi penceritaan Jain. Di dalamnya, satu tetes menanggung kematian seorang ibu, kelangsungan hidup seorang anak, dan masa depan sebuah dinasti. <sup>[1][3]</sup>
 
-Bindusara menduduki posisi penting dalam garis suksesi penguasa Maurya. Chandragupta mendirikan dinasti; Bindusara menggantikannya; Ashoka mewarisi takhta setelah Bindusara. Kronik Buddhis *Mahavamsa* menempatkan para penguasa ini dalam urutan tersebut dan memperkirakan masa pemerintahan Bindusara berlangsung selama dua puluh delapan tahun. Ini adalah perhitungan kronik, bukan kalender pasti yang terbukti secara independen untuk setiap peristiwa dalam hidupnya. <sup>[5]</sup>
+## Di antara Chandragupta dan Ashoka, nyawa yang hampir hilang
 
-Perbedaan dalam ingatan sejarah mereka sangat mencolok. Kisah Chandragupta berpusat pada penegakan kekuasaan kekaisaran. Prasasti-prasasti Ashoka menghadirkan sosok penguasa yang berbicara mengenai pemerintahan moral, kebajikan, kesejahteraan umum, dan komunitas keagamaan. Sebaliknya, Bindusara kerap kali hanya diingat melalui hubungannya dengan kedua tokoh besar tersebut.
+Chandragupta membangun dinasti. Ashoka menjadi penguasanya yang paling termasyhur. Di antara keduanya berdiri Bindusara, raja yang terlalu sering dianggap sekadar penghubung dua nama besar.
 
-Namun legenda tentang namanya memberinya awal kisah yang khas dan mandiri. Sebelum menjadi penguasa, ia terlebih dahulu menjadi sosok yang selamat dari maut. Jauh sebelum ritual suksesi memahkotainya, sebuah malapetaka rumah tangga nyaris merenggut nyawanya.
+Kronik Buddha *Mahavamsa* memberikan urutan itu: Chandragupta, Bindusara, Ashoka. Kronik tersebut menyebut masa pemerintahan Bindusara selama dua puluh delapan tahun. Angka itu merupakan keterangan kronik, bukan penanggalan yang ditetapkan secara independen untuk setiap peristiwa hidupnya. <sup>[5]</sup>
 
-Jika dibaca demikian, kisah kelahirannya menawarkan sesuatu yang tidak dapat diberikan oleh daftar silsilah raja yang kaku: sebuah alasan untuk mengingat sosok manusia di antara nama-nama besar. Sebuah dinasti berlanjut karena seorang bayi berhasil bertahan hidup. Skala sejarah kekaisaran menyusut menjadi sebuah drama darurat di ruang keluarga istana.
+Legenda kelahirannya memberi sosok di tengah itu permulaan yang mustahil dilupakan. Sebelum mahkota, ada anak dalam bahaya maut. Sebelum pergantian penguasa, ada ibu yang tidak akan pernah melihat putranya tumbuh besar.
 
-## Pertahanan Chanakya Melawan Musuh yang Tak Kasat Mata
+Sesaat, kebesaran sejarah Maurya menyempit menjadi sebuah jamuan kerajaan. Pasukan dan provinsi menjauh dari pandangan. Pertanyaannya ialah apakah seorang anak yang belum lahir bisa dikeluarkan hidup-hidup.
 
-Dalam riwayat Jaina, Chanakya mengatur agar makanan Chandragupta dibubuhi racun dalam kadar yang terus ditingkatkan secara bertahap. Tujuannya adalah membangun kekebalan tubuh sang raja terhadap racun. Makanan kerajaan menjadi bagian dari sistem pertahanan rahasia bagi raga sang kaisar. <sup>[1]</sup>
+## Jawaban berbahaya Chanakya terhadap musuh tak terlihat
 
-Gagasan ini selaras dengan suasana kecemasan yang melingkupi para tokoh dalam legenda tersebut. Seorang penguasa dapat dikelilingi oleh ribuan pengawal bersenjata, namun ia tetap bergantung pada tangan-tangan yang menyiapkan santapannya. Makanan istana mencapainya dalam suasana hening dan intim, di mana pedang tidak berdaya melawan racun yang mematikan.
+Dalam kisah Jain, Chanakya mengatur agar makanan Chandragupta diberi racun dengan takaran yang bertambah perlahan. Tujuannya membuat kaisar tahan terhadap peracunan. Jamuan itu sendiri menjadi garis pertahanan rahasia. <sup>[1]</sup>
 
-Chanakya menanggapi bahaya ini dengan mengubah ancaman tersebut menjadi alat perlindungan. Zat mematikan itu dijadikan perisai. Raga sang raja sendiri dimobilisasi demi kelangsungan takhta.
+Gagasan itu berani, sesuai dengan penasihat tangguh dalam legenda. Raja dapat memerintah tentara, menjaga gerbang, dan menghukum musuh terbuka. Namun, makanan yang disajikan tetap menuntut kepercayaan. Tangan yang melayaninya dapat mencapai tempat yang tidak dapat dijangkau pasukan lawan.
 
-**Namun pertahanan tersebut mengalami celah kegagalan yang fatal begitu melintasi raga sang kaisar.**
+Chanakya mencoba mengubah kerentanan menjadi kekuatan. Ia memasukkan zat yang ditakuti ke dalam keseharian kaisar agar zat itu kehilangan daya atasnya. Dalam cerita, tubuh Chandragupta menjadi benteng lain yang harus dipertahankan.
 
-Hidangan tersebut diracik khusus untuk satu orang tertentu. Namun pada suatu hari, sosok lain turut duduk di meja makan.
+Namun, benteng ini memiliki batas yang fatal. Perlindungan itu milik raja. Makanan tersebut masih dapat membinasakan orang lain.
 
-## Durdhara Berbagi Santapan Kerajaan
+Menteri telah memperhitungkan racun musuh. Kini bahaya datang melalui keakraban biasa ketika berbagi makanan.
 
-Dalam riwayat tersebut, sang permaisuri bernama **Durdhara**. Ia sedang hamil tua dan hari persalinannya sudah sangat dekat. <sup>[1]</sup>
+## Durdhara berbagi jamuan, pertahanan berubah menjadi bencana
 
-Ia bersantap bersama sang raja. Hidangan yang bagi Chandragupta telah menjadi tidak berbahaya berkat kebiasaan bertahun-tahun, bagi Durdhara seketika menjadi racun yang mematikan.
+Hemachandra menamai ratu yang hamil itu **Durdhara**. Ia makan bersama Chandragupta dan dilumpuhkan racun. Chanakya tiba ketika malapetaka sedang berlangsung. <sup>[1]</sup>
 
-Durdhara langsung ambruk. Racun menjalar cepat ke seluruh tubuhnya dan maut merenggutnya dalam hitungan detik.
+Jamuan bersama itu tidak memerlukan persekongkolan rumit agar terasa mengerikan. Makan bersama merupakan bagian akrab dari kasih sayang dan kebersamaan. Di sini, kedekatan dengan kaisar membuat ratu terpapar sesuatu yang tak dapat ditahan tubuhnya.
 
-Chanakya bergegas masuk ke dalam ruangan. Ia langsung memahami bencana yang terjadi. Racun telah merenggut nyawa permaisuri, namun sang bayi di dalam kandungan masih bernyawa. Keputusan harus diambil dalam hitungan detik.
+**Tindakan untuk melindungi raja justru membahayakan ratu dan anaknya yang belum lahir.**
 
-Jika ia tidak bertindak, sang calon pewaris takhta akan turut binasa bersama sang ibu.
+Kisah ini tidak menyimpan catatan tepercaya tentang kata-kata terakhir Durdhara. Tidak perlu mengarang perpisahan atau mengubah kematiannya menjadi pengorbanan sukarela. Tragedinya sudah menghancurkan: perlindungan rahasia keluarga kerajaan berubah mematikan di dalam keluarga itu sendiri.
+
+Durdhara patut tetap menjadi pusat tragedi tersebut. Menteri akan melakukan penyelamatan. Putranya akan menyandang nama yang dikenang. Namun, cerita yang melestarikan keduanya juga mencatat sang ibu yang hilang.
+
+Ratu sedang sekarat. Anak masih di dalam tubuhnya. Chanakya harus bertindak sebelum bencana yang sama menimpa pewaris.
+
+## Penyelamatan datang hampir terlambat
+
+Chanakya membuka rahim ratu dan mengeluarkan anak yang belum lahir. Dalam penuturan Hemachandra, ia nyaris kehilangan sang bayi juga: **setetes racun sudah mencapai kepala anak itu**. <sup>[1]</sup>
+
+Anak itu hidup.
+
+Kelangsungan hidupnya menjadi titik balik legenda. Bencana telah mengambil Durdhara, tetapi tidak mengambil putranya. Calon kaisar keluar dari malapetaka yang hampir mengakhiri hidupnya sebelum dimulai.
+
+Lalu cerita memusatkan perhatian pada rincian terkecil yang paling sulit dilupakan: tetesan itu.
+
+Kata kuncinya ialah **bindu**, berarti setetes. Dari gambaran itulah muncul penjelasan nama **Bindusara**.
+
+Sebuah dinasti besar mendapat tanda kenangan yang sangat pribadi. Setiap penyebutan nama raja kelak dapat membawa pendengar kembali ke penyelamatan itu: ibu sekarat, anak terancam, campur tangan menteri, dan racun yang hampir menjangkau terlalu jauh.
+
+## Nama kaisar yang membawa kehilangan seorang ibu
+
+Nama dapat bertahan lebih lama daripada keadaan yang melahirkannya. Legenda ini tidak membiarkan keadaan itu menghilang.
+
+Bindusara akan menjadi penguasa. Ia akan berada dalam urutan penerus di antara Chandragupta dan Ashoka. Namun, penjelasan namanya terus mengembalikannya kepada bayi yang selamat dari akibat mengerikan jamuan beracun.
+
+Tetesan itu bukan hanya menjawab teka-teki kata. Ia mengikat kehilangan pribadi dengan sejarah umum. Bayi yang diselamatkan merupakan bagian kisah Durdhara; calon penguasa merupakan bagian dinasti Maurya. Namanya menyatukan keduanya.
+
+Ini adalah **penjelasan legendaris tentang sebuah nama**. Catatan sezaman mengenai upacara penamaan yang benar-benar terjadi merupakan bukti lain jenisnya. Pembedaan ini menjaga kekuatan kisah sekaligus memperjelas apa yang dapat ditetapkan oleh sumber yang bertahan.
+
+Pembedaan itu juga melindungi dari rincian tambahan dalam penceritaan kemudian. Warna tertentu pada tanda, resep racun yang tepat, atau percakapan dramatis dapat membuat adegan terasa lebih hidup. Masing-masing memerlukan dukungan teks tersendiri. Kisah ini sudah memiliki semua ketegangan yang dibutuhkannya.
+
+## Tujuh kambing, tujuh hari: kisah kelahiran luar biasa yang lain
+
+Kisah tetes racun memiliki padanan yang mengejutkan. Tradisi komentar Buddha menyimpan urutan berbeda, dicatat di bawah nama Bindusara dalam *Dictionary of Pali Proper Names*, dengan rujukan kepada komentar *Mahavamsa*. <sup>[2]</sup>
+
+Makanan beracun dan ratu hamil juga muncul di sini. Namun, tindakan menteri lebih keras: ia membunuh ratu dan mengeluarkan anaknya. Bayi kemudian dikatakan menghabiskan tujuh hari sebelum waktu kelahiran yang diperkirakan dalam rahim kambing yang baru dibunuh, kambing baru setiap hari. Tetes darah hewan menandai bayi dan menjelaskan namanya. <sup>[2]</sup>
+
+Tujuh hari. Serangkaian hewan. Seorang bayi kerajaan dipertahankan hidup oleh mekanisme ajaib cerita. Ini klaim naratif luar biasa yang harus dibaca sebagai legenda, bukan prosedur medis terdokumentasi.
+
+Kerangka bersamanya jelas: jamuan beracun, ibu yang hilang, pewaris terancam, menteri penentu, dan nama yang dijelaskan melalui tetesan. Zat yang memberi arti kepada nama berubah.
+
+Perbedaan itu penting. **Tetes racun yang menyentuh kepala berasal dari kisah Jain. Tujuh kambing dan tetes darah berasal dari komentar Buddha.** Menggabungkannya dalam satu adegan akan menciptakan versi ketiga karangan kita sendiri.
+
+Bersama-sama, tradisi itu menunjukkan betapa kuat gambaran anak yang diselamatkan menguasai ingatan dinasti. Keduanya juga memperlihatkan alasan versi yang diceritakan harus selalu disebutkan.
+
+## Bertahun-tahun kemudian, penyelamatan menjadi senjata
 
 <figure class="article-figure history-illustration">
   <picture>
@@ -83,43 +140,45 @@ Jika ia tidak bertindak, sang calon pewaris takhta akan turut binasa bersama san
   </figcaption>
 </figure>
 
-## Penyelamatan—dan Setetes Racun
+Kisah Jain tidak berakhir ketika bayi selamat. Belokan politiknya yang paling gelap terjadi setelah Bindusara dewasa.
 
-Chanakya mencabut pedangnya, membedah perut sang ratu yang baru saja wafat, dan mengeluarkan bayi yang masih hidup. <sup>[1]</sup>
+Menteri saingan, **Subandhu**, mengatakan kepada raja bahwa Chanakya bertanggung jawab atas kematian ibunya. Bindusara berbalik melawan orang yang menyelamatkannya. Kemudian, setelah mengetahui keadaan lebih lengkap, ia menyesali permusuhannya dan meminta Chanakya kembali menjabat. Menteri tua itu menolak. <sup>[1]</sup>
 
-Tindakan pembedahan darurat yang mengerikan ini menyelamatkan nyawa sang anak dengan menerima kepastian wafatnya sang ibu.
+Tuduhan itu menghancurkan karena menghantam luka yang tidak pernah ditutup kisah kelahiran. Bindusara hidup, tetapi ibunya mati. Ceritakan hanya cara ibunya meninggal, maka penyelamat berubah menjadi penghancur keluarga.
 
-Namun racun telah menyebar ke dalam aliran darah sang ibu. Tepat saat bayi tersebut dikeluarkan, setetes racun telah mencapai tubuhnya. Menurut riwayat Hemachandra, setetes racun itu menyentuh kepala sang bayi dan meninggalkan bintik kebiruan.
+Kembalikan konteks makanan beracun dan bayi terancam, maka tindakan yang sama memperoleh arti lain. Kisah bergantung pada perjuangan membuat raja memahami kejadian sebelum ia mampu mengingatnya.
 
-Oleh sebab itu sang anak dinamai **Bindusara**: ‘ia yang intisarinya berasal dari setetes racun’ (*bindu*), yang menanggung tanda tetesan tersebut pada tubuhnya. <sup>[1]</sup>
+Bagi Bindusara, pertentangan itu sangat menyakitkan dan pribadi. Tindakan yang terkait dengan keselamatannya juga terkait dengan kematian ibunya. Duka dan amarah menguatkan tuduhan; pengetahuan yang lebih lengkap memaksanya menimbang ulang.
 
-Namanya sendiri menjadi pengingat abadi akan peristiwa kelahirannya yang berada di ambang maut.
+Bagi Chanakya, ini pembalikan yang pahit. Ahli strategi yang dianggap menyelamatkan dinasti tidak dapat menjamin dinasti akan tetap berterima kasih. Ia dapat bertindak dalam krisis, tetapi tidak mengendalikan semua cerita yang kelak disampaikan tentangnya.
 
-## Makna di Balik Nama—dan Hal yang Belum Terjawab
+Nama sang anak mempertahankan satu keping masa lalu. Tuduhan Subandhu memperlihatkan betapa berbahayanya bagian masa lalu yang lain.
 
-Kesusastraan kuno dan abad pertengahan memiliki tradisi panjang dalam mengarang legenda etimologis untuk menerangkan nama-nama raja yang terdengar asing.
+## Gerbang terlemah raja bisa jadi dapurnya
 
-Apakah nama Bindusara benar-benar berasal dari setetes racun, ataukah cerita tersebut diciptakan berabad-abad kemudian sebagai penjelasan naratif?
+Ketakutan di balik legenda merupakan bagian dari dunia luas tulisan politik. *Arthashastra*, yang dikaitkan dengan Kautilya, membahas keselamatan pribadi penguasa dalam Buku I, Bab 21. Persiapan makanan yang dijaga, pelayan tepercaya, tabib, dan ahli racun termasuk dalam langkah pencegahannya. <sup>[4]</sup>
 
-Para sejarawan modern memandang kisah ini sebagai karya sastra peringatan daripada fakta sejarah harfiah. Namun makna penting cerita ini tidak berkurang oleh hal itu: kisah ini menangkap secara hidup ketakutan, intrik, dan bahaya yang membayangi istana Maurya.
+Istana yang dijaga tetap memiliki jalan keseharian untuk mendekati raja. Makanan harus disiapkan. Pelayan harus masuk. Tubuh penguasa masih terbuka terhadap rutinitas yang tak bisa begitu saja dihapuskan.
 
-## Tradisi Lain: Tetesan Darah
+Itulah sebabnya jamuan beracun begitu efektif sebagai latar legenda. Bahaya berada dalam mekanisme biasa kehidupan kerajaan. Melindungi penguasa menuntut kendali atas orang dan zat yang mengelilinginya setiap hari.
 
-Tradisi Buddhis dalam kitab komentar *Mahavamsa* (*Vamsatthappakasini*) mencatat versi yang sangat berbeda mengenai penamaan Bindusara. <sup>[2]</sup>
+Risalah politik menyediakan konteks, bukan pengesahan kisah kelahiran. Langkah pencegahannya tidak membuktikan peracunan Durdhara maupun bahwa Chandragupta memperoleh ketahanan seperti dalam cerita.
 
-Kisah Buddhis tidak menyebut-nyebut soal racun. Nama tersebut dijelaskan melalui bintik-bintik alami pada kulit sang bayi yang menyerupai tetesan (*bindu*).
+Risalah itu membantu menjelaskan ketakutan yang mengerikan karena terasa masuk akal: tata negara mencapai meja kerajaan, dan akibatnya menimpa ibu serta anak.
 
-Perbedaan ini memperlihatkan bagaimana tradisi Jaina menonjolkan realisme politik yang kelam dan bahaya intrik istana, sedangkan tradisi Buddhis menyajikan penjelasan biologis yang lebih bersahaja.
+## Di luar jamuan beracun: permintaan luar biasa seorang kaisar
 
-## Kisah Kelahiran Berubah Menjadi Tuduhan
+Dunia Bindusara dalam ingatan melampaui krisis kelahirannya. Anekdot Yunani yang dilestarikan Athenaeus memperlihatkan gambaran lain seorang raja India yang diidentifikasi sebagai dirinya, disebut **Amitrochates** dalam kisah itu.
 
-Dalam *Parishishtaparvan*, peristiwa kelahiran ini kembali muncul bertahun-tahun kemudian sebagai senjata persaingan politik di istana. <sup>[1]</sup>
+Dengan mengutip Hegesander, Athenaeus menceritakan bahwa raja meminta Antiochus mengirim anggur manis, buah ara kering, serta seorang sofis, yakni cendekiawan terpelajar. Balasannya menjanjikan anggur dan ara, tetapi mengatakan adat Yunani tidak mengizinkan penjualan sofis. Bagian ini bertahan dalam Buku XIV *Deipnosophists*. <sup>[6]</sup>
 
-Seorang menteri saingan bernama Subandhu membisikkan fitnah kepada Bindusara muda bahwa Chanakya telah membunuh ibunya.
+Perubahan adegannya mencolok. Bayi terancam dalam satu tradisi menjadi penguasa berbudaya dalam tradisi lain, tertarik pada barang jauh dan pergaulan dengan kaum terpelajar.
 
-Bindusara yang murka mulai memusuhi Chanakya. Namun sebelum mengundurkan diri untuk menyongsong kematian suci (*sallekhana*), Chanakya menghadirkan para dayang tua yang membeberkan kebenaran sesungguhnya: bahwa pembedahan itu dilakukan demi menyelamatkan sang bayi dari racun.
+Ini pun anekdot yang diteruskan penulis kemudian dengan tujuan sastranya sendiri. Kisahnya memberikan gambaran pertukaran dan selera kerajaan dalam ingatan, bukan uraian lengkap pemerintahan Bindusara.
 
-Penyesalan Bindusara terlambat datang, dan lingkaran moral kisah ini pun tertutup: setetes racun masa lalu kembali menjadi racun fitnah di masa tua sang penasihat.
+Diletakkan di samping legenda kelahiran, kisah itu mengingatkan betapa sumber menentukan raja yang kita jumpai. Satu adegan menyimpan setetes racun di ambang kematian. Adegan lain menyimpan permintaan yang melintasi dunia para penguasa. Keduanya tidak dapat memuat seluruh masa pemerintahan.
+
+## Empat belas abad kemudian, kisahnya masih membara
 
 <figure class="article-figure history-illustration">
   <picture>
@@ -132,31 +191,27 @@ Penyesalan Bindusara terlambat datang, dan lingkaran moral kisah ini pun tertutu
   </figcaption>
 </figure>
 
-## Racun dan Keselamatan Seorang Raja
+Bindusara berasal dari awal abad ke-3 SM. Hemachandra menulis pada abad ke-12 M. Sekitar empat belas abad memisahkan penguasa Maurya itu dari karya Jain yang bertahan dan memberi cerita ini bentuknya yang dikenal.
 
-Ketakutan akan racun di istana India kuno tercermin dengan jelas dalam *Arthashastra* karya Kautilya, yang memuat aturan ketat tentang keamanan pribadi raja dan pemeriksaan dapur istana. <sup>[4]</sup>
+Jarak itu penting. *Parishishtaparvan* langsung memperlihatkan cara Hemachandra menjaga legenda. Merekonstruksi keadaan persis suatu kelahiran kekaisaran darinya memerlukan lompatan yang jauh lebih besar.
 
-Legenda Hemachandra mendramatisasi ketakutan nyata tersebut: pertahanan rahasia yang dirancang untuk melindungi penguasa justru berubah menjadi senjata yang merenggut nyawa permaisuri.
+Namun, usia penulisan teks yang belakangan tidak berarti seluruh unsur kisah baru diciptakan saat itu. Teks terdahulu dan penceritaan lisan dapat membawa tradisi antargenerasi. Pengantar Jacobi membahas sastra cerita Jain lebih awal di balik karya Hemachandra; penelitian modern menelaah penyaluran dan pembentukan kisah Chandragupta serta Chanakya. <sup>[1][3]</sup>
 
-## Sang Kaisar Melampaui Kisah Kelahirannya
+Bertahannya cerita lebih mudah dipahami daripada pembentukannya yang paling awal. Ia menempatkan kepentingan besar di dalam bencana pribadi. Nasib calon kaisar terikat pada kematian ibu. Penasihat yang menyelamatkan anak kelak menghadapi kemarahannya. Nama mempertahankan penyelamatan, sementara kepedihan moralnya tidak terselesaikan.
 
-Di balik legenda kelahirannya, Bindusara adalah kaisar yang cakap. Wilayah kekuasaannya meluas hingga ke selatan, dan sumber-sumber Yunani menyebutnya *Amitrochates* (dari gelar Sanskerta *Amitraghata*, ‘penakluk musuh-musuh’). <sup>[6]</sup>
+Tradisi yang bertahan menghadapkan pembaca pada perlindungan yang berubah sangat buruk. Kelangsungan hidup memberi dinasti seorang pewaris, tetapi tidak mengembalikan ibu atau menjamin menteri mendapat tempat abadi dalam rasa terima kasih putranya.
 
-Ia memelihara hubungan diplomatik dengan raja Seleukia Antiokhos I, meminta buah ara kering, anggur manis, dan seorang filsuf Yunani. <sup>[6]</sup>
+## Tetesan yang mengikuti sebuah dinasti
 
-## Kisah yang Bertahan Melintasi Abad
+Kembalilah kepada anak di pusat kisah Jain itu. Ia telah dikeluarkan hidup-hidup. Setetes racun menyentuh kepalanya. Ibunya tidak akan kembali.
 
-Kisah Hemachandra tidak menggantikan sejarah, namun memberinya kedalaman emosional dan dimensi kemanusiaan.
+Anak itu akan menjadi Bindusara. Sesudahnya datang Ashoka. Dalam legenda, jalan antara pendiri dinasti Maurya dan kaisarnya yang paling terkenal melewati penyelamatan putus asa ini.
 
-Pengorbanan Durdhara, beban moral Chanakya, dan penyelamatan Bindusara menjadikan kisah ini terus hidup melintasi zaman.
+Tetesan menjadi kata. Kata menjadi nama. Nama membawa ingatan bencana jauh setelah jamuan berakhir.
 
-## Setetes Racun yang Menyertai Dinasti
+Kematian Durdhara tetap tak terpisahkan dari keselamatan putranya. Kecerdikan Chanakya tetap tak terpisahkan dari akibatnya yang mengerikan. Dan permulaan Bindusara tetap sebuah kisah tentang kebesaran kekaisaran yang tidak menyediakan jalan keluar dari duka keluarga.
 
-Pada akhirnya, legenda nama Bindusara adalah kisah tentang bagaimana ingatan sejarah mengabadikan sebuah awal yang getir.
-
-Dari Chandragupta melalui Bindusara hingga Ashoka, kelangsungan dinasti Maurya diabadikan dalam nama seorang anak yang diselamatkan dari maut.
-
-**Kekaisaran menuntut seorang penerus. Sang bayi harus bertahan hidup. Dan jarak di antara keduanya diukur oleh setetes racun.**
+**Dinasti memperoleh pewarisnya. Seorang ibu kehilangan nyawanya. Dan setetes racun menjadi nama yang tidak dapat dihapus oleh berabad-abad.**
 
 ## Sources
 

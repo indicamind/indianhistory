@@ -10,7 +10,7 @@ personalities: [ashoka]
 relatedTo: ashoka-edicts
 tags: ["アショーカ王","碑文","アラム語","カンダハール"]
 themes: []
-books: ["0349122385","935699322X","0143330802"]
+books: ['0349122385', '935699322X', '0143330802', 'B0BPDX1MXS']
 sourceHash: ce0372f00539c0fa55d1b2f4d2329f8908c62c2de50cfcb06dc951e69101de45
 ---
 

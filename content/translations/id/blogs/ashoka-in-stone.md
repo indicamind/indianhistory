@@ -4,7 +4,7 @@ slug: ashoka-in-stone
 excerpt: "Telusuri perkembangan pesan Ashoka dari waktu ke waktu: dari penyesalan atas Kalinga menuju belas kasih sehari-hari, pembinaan pejabat yang bertanggung jawab, hingga harapan agar kata-katanya abadi melampaui masa hidupnya."
 publishedAt: '2026-10-21T00:00:00.000Z'
 updatedAt: '2026-10-21T00:00:00.000Z'
-books: ["0349122385", "935699322X", "0143330802"]
+books: ['0349122385', '935699322X', '0143330802', 'B0BPDX1MXS']
 tags:
   - Ashoka
   - maklumat

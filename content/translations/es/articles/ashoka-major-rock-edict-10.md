@@ -10,7 +10,7 @@ personalities: [ashoka]
 relatedTo: ashoka-edicts
 tags: ["Ashoka","edictos","edicto mayor en roca"]
 themes: []
-books: ["0349122385","935699322X","0143330802"]
+books: ['0349122385', '935699322X', '0143330802', 'B0BPDX1MXS']
 sourceHash: 13e983e2ba9ace42f67de3666b8a8d9c8a88048159627f10eb6cccf727324224
 ---
 

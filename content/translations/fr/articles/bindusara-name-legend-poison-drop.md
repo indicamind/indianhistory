@@ -1,17 +1,18 @@
 ---
-title: 'Une goutte de poison, le nom d’un empereur : la légende de Bindusara'
+title: 'Né du poison : la légende glaçante du nom de Bindusara'
 slug: bindusara-name-legend-poison-drop
 excerpt: >-
-  Un repas royal empoisonné. Une reine mourante. Un héritier à naître sauvé aux
-  portes de la mort. La légende jaïne du nom de Bindusara fait d’une goutte un
-  récit de survie dynastique, de perte maternelle et du dangereux génie de
-  Chanakya.
+  Un repas royal empoisonné. Une mère agonisante. Un héritier encore à naître
+  pris dans une catastrophe. La légende jaïne de Bindusara transforme la défense
+  secrète de Chanakya en sauvetage désespéré, et une goutte mortelle en nom
+  d’empereur.
 publishedAt: '2026-10-27T00:00:00.000Z'
-updatedAt: '2026-10-27T00:00:00.000Z'
+updatedAt: '2026-10-28T00:00:00.000Z'
 period: mauryan
 polity: maurya
 personalities:
   - chandragupta-maurya
+  - bindusara
   - ashoka
 tags:
   - Bindusara
@@ -25,7 +26,8 @@ books:
   - 0349122385
   - 935699322X
   - 0143330802
-sourceHash: 95e9499e88f501fe5e7d22d473d4348b6a069f5f94a6ffa71e9ec481f892dd78
+  - B0BPDX1MXS
+sourceHash: 26061e56a5b11181d2349c8c9b7041ecd4b96b3348316a6ec4ddb7a5e53265f4
 ---
 
 <figure class="article-figure history-illustration history-hero">
@@ -39,87 +41,93 @@ sourceHash: 95e9499e88f501fe5e7d22d473d4348b6a069f5f94a6ffa71e9ec481f892dd78
   </figcaption>
 </figure>
 
-**L’empereur survécut au poison contenu dans son repas. La reine qui le partagea mourut. Et l’enfant sauvé de son ventre allait porter dans son nom le souvenir d’une seule goutte.**
+**Un repas empoisonné. Une reine agonisante. Un prince encore à naître, et une seule goutte qui donnerait son nom à un empereur.**
 
-Cet enfant, nous dit la légende, était **Bindusara** : fils de Chandragupta Maurya et père d’Ashoka. Entre le fondateur d’un empire et son souverain le plus célèbre se tient un roi dont le récit de naissance nous conduit dans la dangereuse intimité de la maison royale.
+Dans la légende jaïne de Bindusara, le plus grand danger pour la famille royale vient de la nourriture servie à sa propre table. Chandragupta Maurya peut survivre à ce qu’il mange. Sa reine enceinte ne le peut pas. Et Chanakya, le stratège qui tente de protéger l’empereur, affronte soudain les terribles conséquences de sa propre défense.
 
-La scène décisive ne comporte aucune armée. Elle réunit un repas, une reine enceinte et un ministre dont l’effort pour protéger son souverain a fait entrer le malheur dans la famille qu’il sert. En quelques instants, l’avenir de la dynastie repose sur un enfant à naître.
+La reine est **Durdhara**. L’enfant qu’elle porte deviendra **Bindusara**, père d’Ashoka. Avant d’hériter d’un trône, il doit survivre à la catastrophe qui emporte sa mère.
 
-Le célèbre récit de la goutte de poison provient de la tradition narrative jaïne conservée dans le ***Parishishtaparvan* d’Hemachandra**. Hemachandra écrivait au XIIe siècle de notre ère, bien des siècles après les Mauryas. Nous entrons dans un univers de légende royale transmis par la mémoire et remodelé. Sa puissance réside dans l’extraordinaire histoire qu’il raconte sur la survie, la fidélité et le coût humain du maintien d’un empire. <sup>[1][3]</sup>
+Suit l’une des histoires de naissance les plus troublantes associées à un empereur indien : le poison devenu protection, la protection devenue désastre, et un sauvetage dont le souvenir reviendrait des années plus tard accuser le sauveteur.
 
-## Le prince entre deux empereurs
+La version familière de la goutte de poison subsiste dans **le *Parishishtaparvan* d’Hemachandra**, écrit au XIIe siècle de notre ère, bien des siècles après les Mauryas. C’est une légende royale, conservée et façonnée par la tradition narrative jaïne. Une seule goutte y porte le poids de la mort d’une mère, de la survie d’un enfant et de l’avenir d’une dynastie. <sup>[1][3]</sup>
 
-Bindusara occupe une place essentielle dans la succession maurya. Chandragupta fonda la dynastie ; Bindusara lui succéda ; Ashoka hérita du trône après Bindusara. La chronique bouddhique *Mahavamsa* place ces souverains dans cet ordre et attribue à Bindusara un règne de vingt-huit ans. Il s’agit du décompte de cette chronique, et non d’une chronologie établie indépendamment pour chaque événement de sa vie. <sup>[5]</sup>
+## Entre Chandragupta et Ashoka, une vie presque perdue
 
-Le contraste entre leurs réputations conservées est saisissant. Le récit de Chandragupta se concentre sur la construction du pouvoir impérial. Les inscriptions d’Ashoka nous présentent un souverain parlant de gouvernement, de conduite morale, de bien-être et de communautés religieuses. Nous rencontrons souvent Bindusara à travers ses liens avec ces deux hommes.
+Chandragupta bâtit la dynastie. Ashoka en devint le souverain le plus célèbre. Entre eux se tient Bindusara, trop souvent réduit à un trait d’union entre deux noms illustres.
 
-La légende de son nom lui donne son propre commencement. Avant de devenir souverain, il devient un survivant. Avant que les rouages de la succession puissent poser une couronne sur sa tête, une catastrophe menace de mettre fin à sa vie.
+La chronique bouddhique *Mahavamsa* donne cette succession : Chandragupta, Bindusara, Ashoka. Elle attribue vingt-huit années de règne à Bindusara. Cette durée appartient au récit de la chronique ; elle ne constitue pas un calendrier établi indépendamment pour chaque événement de sa vie. <sup>[5]</sup>
 
-Ainsi comprise, l’histoire de sa naissance offre ce qu’une simple liste de rois ne peut donner : une raison de se souvenir de l’individu placé entre les noms célèbres. Une dynastie continue parce qu’un enfant vit. L’échelle de l’histoire impériale se resserre à celle d’une urgence familiale.
+Sa légende de naissance donne à l’homme placé entre les deux autres un commencement impossible à oublier. Avant la couronne, il y a un enfant en danger de mort. Avant la succession impériale, une mère qui ne verra jamais grandir son fils.
 
-## La défense de Chanakya contre un ennemi invisible
+Un instant, la grandeur de l’histoire maurya se resserre autour d’un repas royal. Armées et provinces s’effacent. La question est de savoir si un enfant encore à naître peut être extrait vivant.
 
-Dans le récit jaïn, Chanakya fait introduire des quantités progressivement croissantes de poison dans la nourriture de Chandragupta. Le but, dans l’histoire, est de rendre le roi résistant à l’empoisonnement. Le repas royal devient un élément de la défense secrète du corps impérial. <sup>[1]</sup>
+## La dangereuse réponse de Chanakya à un ennemi invisible
 
-Cette idée convient à l’atmosphère de crainte dans laquelle la légende place ses personnages. Un souverain peut s’entourer de gardes armés et dépendre encore des mains qui préparent ses aliments. La cuisine l’atteint là où une armée ennemie ne le peut pas. Chaque repas exige de la confiance.
+Dans le récit jaïn, Chanakya fait incorporer à la nourriture de Chandragupta des quantités de poison progressivement croissantes. Il veut rendre l’empereur résistant à l’empoisonnement. Le repas devient lui-même une ligne de défense secrète. <sup>[1]</sup>
 
-La réponse de Chanakya caractérise son rôle dans le récit : il cherche à transformer un danger en instrument de protection. La substance effrayante devient un bouclier. Le corps même du roi participe à la préservation du trône.
+L’idée est audacieuse, à la mesure du redoutable conseiller de la légende. Un roi peut commander des soldats, garder ses portes et punir ses ennemis déclarés. Pourtant, les aliments placés devant lui exigent toujours sa confiance. Les mains qui le servent l’atteignent là où une armée hostile ne peut parvenir.
 
-**Puis cette protection échoue dès qu’elle dépasse les limites de la personne du roi.**
+Chanakya tente de convertir cette vulnérabilité en force. Il introduit la substance redoutée dans le quotidien de l’empereur pour qu’elle perde son pouvoir sur lui. Dans l’histoire, le corps de Chandragupta devient une nouvelle forteresse à défendre.
 
-Le repas a été préparé pour un destinataire particulier selon un dispositif exceptionnel. Un autre membre de la maison le partage. Tout dépend de cette différence.
+Mais cette forteresse possède une limite fatale. La protection appartient au roi. La nourriture peut encore détruire quelqu’un d’autre.
 
-C’est la première terrible ironie de la légende. Une précaution destinée à préserver la lignée royale provoque une crise en son sein. Le ministre a envisagé la vulnérabilité de l’empereur ; le récit dévoile celle de tous ceux qui l’entourent.
+Le ministre a prévu le poison d’un ennemi. Le danger arrive maintenant par l’intimité ordinaire d’un repas partagé.
 
-## Durdhara partage le repas royal
+## Durdhara partage le repas, et la défense devient catastrophe
 
-Le récit d’Hemachandra nomme la reine enceinte **Durdhara**. Elle mange avec Chandragupta et succombe au poison. Chanakya arrive au moment où le drame se déroule. <sup>[1]</sup>
+Hemachandra nomme la reine enceinte **Durdhara**. Elle mange avec Chandragupta et le poison la terrasse. Chanakya arrive alors que la catastrophe se déroule. <sup>[1]</sup>
 
-Le caractère familier du cadre rend l’épisode particulièrement bouleversant. Partager un repas peut exprimer l’affection, la compagnie et l’appartenance. Ici, cette proximité ordinaire véhicule le danger. L’accès de la reine à la table royale la met en contact avec une substance que son corps ne peut supporter dans le récit.
+Ce repas partagé n’a besoin d’aucune conspiration élaborée pour devenir terrifiant. Manger ensemble relève du monde familier de l’affection et de la compagnie. Ici, la proximité avec l’empereur expose la reine à une substance que son corps ne peut supporter.
 
-La narration ne nous fournit aucun témoignage certain de ses dernières paroles. Rien ne justifie d’inventer un discours, une promesse ou une décision consciente de se sacrifier. La mort de Durdhara constitue déjà une tragédie sans y ajouter des adieux imaginaires.
+**La mesure destinée à protéger un roi a mis en danger sa reine et leur enfant encore à naître.**
 
-Sa place dans l’épisode mérite attention. L’enfant survivant deviendra l’objet de l’explication et le ministre dominera l’action. Pourtant, l’événement qui donne sa force à la légende détruit aussi la vie d’une mère. La survie du roi et la continuité de la dynastie emportent cette perte avec elles.
+Le récit ne conserve aucun témoignage sûr des dernières paroles de Durdhara. Il est inutile de lui inventer un adieu ou de transformer sa mort en sacrifice volontaire. La tragédie est déjà dévastatrice : la protection secrète de la maison royale est devenue mortelle en son sein.
 
-À cet instant, les possibilités se réduisent. La reine est mourante. L’enfant demeure en elle. Chanakya doit agir avant que la même catastrophe n’atteigne l’héritier.
+Durdhara mérite de rester au centre de cette tragédie. Le ministre accomplira le sauvetage. Le fils portera le nom mémorable. Mais l’histoire qui les conserve tous deux garde aussi la trace de la mère perdue.
 
-## Le sauvetage et la goutte
+La reine se meurt. L’enfant reste en elle. Chanakya doit agir avant que le même désastre n’atteigne l’héritier.
 
-Chanakya ouvre le ventre de la reine et en retire l’enfant à naître. Dans le récit d’Hemachandra, le sauvetage arrive presque trop tard : **une goutte de poison a déjà atteint la tête de l’enfant**. Le garçon survit, et cette goutte explique son nom. <sup>[1]</sup>
+## Le sauvetage arrive presque trop tard
 
-Le mot crucial est **bindu**, une goutte.
+Chanakya ouvre le ventre de la reine et en retire l’enfant à naître. Dans le récit d’Hemachandra, il a failli perdre le garçon lui aussi : **une goutte de poison a déjà atteint la tête de l’enfant**. <sup>[1]</sup>
 
-L’image est assez petite pour être immédiatement saisie. Un vaste empire peut être difficile à imaginer. Ses armées, ses bureaux, ses revenus et ses provinces dépassent l’expérience d’un lecteur isolé. Une goutte n’exige aucune explication comparable. Minuscule, visible dans l’esprit, elle est effroyablement proche de l’enfant.
+L’enfant vit.
 
-Le nom fait durer cette infime chose. Chaque mention ultérieure de Bindusara peut ramener l’auditeur à l’instant du sauvetage. L’enfant devient homme et souverain, tandis que l’explication de son nom préserve le péril de son commencement.
+Cette survie est le tournant de la légende. La catastrophe a emporté Durdhara, mais pas son fils. Le futur empereur sort du désastre même qui aurait pu mettre fin à sa vie avant qu’elle commence.
 
-C’est ainsi que la légende relie un désastre familial à l’histoire d’une dynastie. Le nourrisson sauvé appartient à la famille de Chandragupta. Le futur empereur appartient à la succession maurya. Le nom porte ensemble ces deux identités.
+L’histoire s’arrête alors sur son détail le plus petit et le plus inoubliable : la goutte.
 
-## Ce que le nom explique et ce qu’il laisse ouvert
+Le mot essentiel est **bindu**, qui signifie une goutte. De cette image vient l’explication de **Bindusara**.
 
-L’histoire propose une réponse mémorable à une question naturelle : pourquoi ce souverain s’appelait-il Bindusara ? Elle associe la sonorité du nom à la goutte qui l’a touché et fait de l’attribution du nom l’ultime instant du sauvetage.
+Une immense dynastie reçoit une marque intime de mémoire. Chaque mention ultérieure du nom du roi peut ramener l’auditeur à ce sauvetage : la mère agonisante, l’enfant menacé, l’intervention du ministre et le poison qui a presque atteint l’irréparable.
 
-Une telle explication donne une cause dramatique à un fait historique autrement ordinaire. Le nom devient un récit condensé. Il contient danger, intervention, survie et perte sous une forme répétable en quelques phrases.
+## Un nom d’empereur qui porte la perte d’une mère
 
-Le lien fonctionne aussi dans l’autre sens. Une fois le nom et son association avec une goutte connus, l’histoire devient plus facile à retenir. Le détail a une fonction ; le nom lui donne un lieu où demeurer.
+Un nom peut survivre aux circonstances qui l’ont fait naître. Cette légende refuse de laisser disparaître ces circonstances.
 
-Il s’agit d’une **explication légendaire d’un nom**. Établir les circonstances d’une véritable cérémonie de dénomination demanderait des preuves d’une autre nature. Nous pouvons apprécier l’ingéniosité du récit tout en distinguant son explication littéraire d’un document contemporain de la naissance du prince.
+Bindusara deviendra souverain. Il prendra sa place dans la succession entre Chandragupta et Ashoka. Pourtant, l’explication de son nom le ramène sans cesse à l’enfant qui a survécu aux terribles suites d’un repas empoisonné.
 
-La distinction importe surtout lorsqu’un récit vivant acquiert des précisions supplémentaires. Une couleur particulière de la marque, une recette exacte du poison ou une conversation minutieusement reconstituée peuvent donner une impression d’achèvement. Ces détails doivent disposer de leur propre appui textuel avant d’être présentés comme éléments de cette version.
+La goutte fait davantage que résoudre une énigme de vocabulaire. Elle lie une perte privée à l’histoire publique. Le nourrisson sauvé appartient à l’histoire de Durdhara ; le futur souverain, à la dynastie maurya. Son nom les unit.
 
-## Une autre tradition : des gouttes de sang
+C’est une **explication légendaire d’un nom**. Un témoignage contemporain d’une véritable cérémonie de nomination serait une preuve d’une autre nature. La distinction préserve la force du récit tout en précisant ce que sa source survivante permet d’établir.
 
-La version de la goutte de poison n’est pas le seul récit de la naissance extraordinaire de Bindusara. La tradition des commentaires bouddhiques conserve une autre séquence, rapportée à son nom dans le *Dictionary of Pali Proper Names*, avec renvoi au commentaire du *Mahavamsa*. <sup>[2]</sup>
+Elle protège aussi contre les détails qui s’ajoutent aux récits ultérieurs. Une couleur précise pour la marque, une recette exacte du poison ou une conversation dramatique peuvent rendre la scène plus vive. Chaque détail demanderait son propre appui textuel. Le récit contient déjà tout le drame nécessaire.
 
-Ici aussi, la nourriture de Chandragupta contient du poison dans le cadre du dispositif protecteur de Chanakya, et la reine enceinte en mange. L’intervention du ministre est plus violente : il tue la reine et retire l’enfant. Le bébé passe ensuite, dit-on, les sept jours restant avant sa naissance attendue dans les ventres de chèvres fraîchement tuées, une nouvelle chaque jour. Des gouttes du sang des animaux marquent l’enfant et expliquent son nom. <sup>[2]</sup>
+## Sept chèvres, sept jours : l’autre extraordinaire histoire de naissance
 
-Ce sont les mécanismes merveilleux de cette version de la légende. Il faut les lire comme une narration plutôt que comme une procédure médicale documentée.
+Le récit de la goutte de poison possède un pendant saisissant. La tradition des commentaires bouddhiques conserve une autre séquence, rapportée à l’entrée Bindusara du *Dictionary of Pali Proper Names*, avec une référence au commentaire du *Mahavamsa*. <sup>[2]</sup>
 
-La trame commune est claire : nourriture empoisonnée, enfant menacé, ministre décisif et nom expliqué par des gouttes. La matière qui donne son sens au nom change. Séparer les deux versions permet de voir ce que dit réellement chaque tradition.
+Le repas empoisonné et la reine enceinte y figurent aussi. Mais l’intervention du ministre est plus violente : il tue la reine et extrait l’enfant. Le nourrisson passerait ensuite les sept jours restant avant la naissance attendue dans les matrices de chèvres tout juste tuées, une nouvelle chèvre chaque jour. Des gouttes de leur sang marquent l’enfant et expliquent son nom. <sup>[2]</sup>
 
-Le récit familier d’une goutte de poison touchant la tête appartient à la version jaïne présentée plus haut. Les sept chèvres et leur sang relèvent du commentaire bouddhique. Les fusionner en une seule scène créerait une troisième version de notre invention.
+Sept jours. Une succession d’animaux. Un nourrisson royal maintenu en vie par les mécanismes merveilleux du conte. Ces affirmations narratives extraordinaires doivent être lues comme une légende, et non comme une procédure médicale documentée.
 
-## La naissance revient sous forme d’accusation
+La trame commune est indéniable : un repas empoisonné, une mère perdue, un héritier menacé, un ministre décisif et un nom expliqué par des gouttes. La substance qui donne son sens au nom change.
+
+La distinction compte. **La goutte de poison touchant la tête appartient au récit jaïn. Les sept chèvres et les gouttes de sang appartiennent au commentaire bouddhique.** Les fondre dans une seule scène créerait une troisième version de notre invention.
+
+Ensemble, ces traditions montrent avec quelle puissance l’image d’un enfant sauvé a saisi la mémoire dynastique. Elles montrent aussi pourquoi il faut toujours nommer la version racontée.
+
+## Des années plus tard, le sauvetage devient une arme
 
 <figure class="article-figure history-illustration">
   <picture>
@@ -132,41 +140,45 @@ Le récit familier d’une goutte de poison touchant la tête appartient à la v
   </figcaption>
 </figure>
 
-Le récit jaïn prolonge les conséquences du sauvetage jusque dans la vie adulte de Bindusara. **Subandhu**, ministre rival, dit au roi que Chanakya est responsable de la mort de sa mère. Bindusara se retourne contre l’homme qui l’a sauvé. Plus tard, ayant mieux compris les circonstances, il regrette son hostilité et demande à Chanakya de reprendre ses fonctions. Le vieux ministre refuse. <sup>[1]</sup>
+L’histoire jaïne ne s’arrête pas à la survie du nourrisson. Son tournant politique le plus sombre survient une fois Bindusara adulte.
 
-Cette suite donne une seconde vie à la légende de naissance. Un épisode dont le nourrisson ne pouvait avoir aucun souvenir devient une histoire que d’autres peuvent lui raconter et utiliser les uns contre les autres.
+Un ministre rival, **Subandhu**, dit au roi que Chanakya est responsable de la mort de sa mère. Bindusara se retourne contre celui qui l’a sauvé. Plus tard, mieux informé des circonstances, il regrette son hostilité et demande à Chanakya de reprendre ses fonctions. Le vieux ministre refuse. <sup>[1]</sup>
 
-On peut lire cet épisode comme un combat sur l’explication. L’acte qui en forme le centre est terrible à envisager. Privé des circonstances de l’empoisonnement et du sauvetage, il fait apparaître Chanakya comme le simple destructeur de la mère du roi. Une fois ces circonstances restituées, le souverain comprend pourquoi la tradition voit dans le ministre son bienfaiteur.
+L’accusation est dévastatrice parce qu’elle frappe la blessure que le récit de naissance ne referme jamais. Bindusara vit, mais sa mère est morte. Ne lui raconter que la manière dont elle est morte transforme le sauveteur en destructeur de sa famille.
 
-Pour Bindusara, le conflit est profondément personnel. Sa propre survie dépend d’un acte qu’il peut d’abord comprendre comme une atteinte à sa famille. Le récit lui demande de reconsidérer un jugement formé dans le chagrin et la colère.
+Rétablissez le repas empoisonné et l’enfant menacé : le même acte prend un autre sens. L’histoire repose sur l’effort pour faire comprendre au roi ce qui s’est passé avant qu’il puisse s’en souvenir.
 
-Il place également Chanakya dans une position douloureuse. L’homme auquel on attribue la sauvegarde de la dynastie dépend de la compréhension des événements par le souverain. L’intelligence politique lui donne une immense influence, sans garantir une reconnaissance durable.
+Pour Bindusara, le conflit est douloureusement personnel. L’acte lié à sa survie est aussi lié à la mort de sa mère. Le chagrin et la colère donnent sa force à l’accusation ; une connaissance plus complète le contraint à reconsidérer son jugement.
 
-Le nom de l’enfant sauvé a conservé une partie du passé. L’accusation montre combien de ce passé reste encore à expliquer.
+Pour Chanakya, le retournement est amer. Le stratège auquel on attribue la préservation de la dynastie ne peut garantir sa gratitude. Il peut intervenir dans la crise, mais ne maîtrise pas tous les récits qui en seront faits ensuite.
 
-## Le poison et la sécurité d’un roi
+Le nom de l’enfant a maintenu vivant un fragment du passé. L’accusation de Subandhu montre combien le reste peut devenir dangereux.
 
-La peur qui anime l’épisode s’inscrit dans un cadre littéraire plus vaste. Le livre I, chapitre 21 de l’*Arthashastra*, traité politique associé à Kautilya, traite de la sécurité personnelle du souverain. Il décrit la préparation surveillée des repas, des serviteurs fiables et la présence de médecins et de spécialistes des poisons. <sup>[4]</sup>
+## La porte la plus faible d’un roi pouvait être sa cuisine
 
-Ce chapitre aide à comprendre pourquoi un repas empoisonné pouvait fournir un cadre convaincant à une légende royale. La routine quotidienne du souverain comporte des points d’attaque possibles. Sa protection dépend de la surveillance, du contrôle de l’accès et de la confiance accordée à ceux qui le servent.
+La peur qui anime la légende s’inscrit dans le vaste monde des écrits politiques. L’*Arthashastra*, associé à Kautilya, traite de la sécurité personnelle du souverain au livre I, chapitre 21. Préparation surveillée des aliments, serviteurs fiables, médecins et spécialistes des poisons figurent parmi ses précautions. <sup>[4]</sup>
 
-Le traité et l’histoire de naissance relèvent de genres différents. Une prescription pour protéger un roi ne prouve pas qu’un empoisonnement particulier s’est produit. Elle ne confirme pas non plus l’affirmation légendaire selon laquelle Chandragupta aurait été rendu résistant au poison. Son intérêt est contextuel : elle montre la place accordée à ce danger dans une œuvre de pensée politique.
+Un palais gardé conserve des voies d’approche quotidiennes vers le roi. Les repas doivent être préparés. Les serviteurs doivent entrer. Le corps du souverain reste exposé à des routines qu’on ne peut simplement abolir.
 
-Dans cette atmosphère, le récit du nom devient particulièrement efficace. La détermination de la cour à protéger son souverain a des conséquences dans sa famille. Les lecteurs rencontrent la sécurité de l’État à travers les corps d’une mère et d’un enfant.
+Voilà pourquoi le repas empoisonné constitue un cadre si efficace pour la légende. Le danger réside dans le fonctionnement ordinaire de la vie royale. Protéger le souverain exige de contrôler les personnes et les substances qui l’entourent chaque jour.
 
-## L’empereur au-delà du récit de sa naissance
+Le traité politique apporte un contexte, sans confirmer l’histoire de naissance. Ses précautions ne prouvent ni l’empoisonnement de Durdhara ni l’acquisition par Chandragupta de la résistance décrite dans le conte.
 
-La vie de Bindusara mérite une place au-delà des circonstances extraordinaires attachées à son nom. Une autre tradition littéraire offre un aperçu très différent d’un roi indien identifié à lui : **Amitrochates**, dans le récit grec conservé par Athénée.
+Il aide à comprendre la terrifiante vraisemblance de cette peur : l’art de gouverner atteint la table royale, et les conséquences retombent sur une mère et un enfant.
 
-Citant Hégésandre, Athénée raconte que le roi demanda à Antiochos du vin doux, des figues sèches et un sophiste, un intellectuel érudit. La réponse promet le vin et les figues, tout en affirmant que la coutume grecque interdit la vente d’un sophiste. Le passage est conservé au livre XIV des *Deipnosophists*. <sup>[6]</sup>
+## Au-delà du repas empoisonné : l’extraordinaire demande d’un empereur
 
-C’est une anecdote transmise par un auteur postérieur, dans son propre cadre littéraire. Elle ouvre néanmoins une autre fenêtre sur le souverain dont on garde la mémoire : échanges, goûts cultivés et intérêt pour la compagnie savante.
+Le monde de Bindusara conservé dans les mémoires dépasse la crise de sa naissance. Une anecdote grecque préservée par Athénée offre une tout autre image d’un roi indien identifié à lui, nommé **Amitrochates** dans ce récit.
 
-Rapproché de la légende natale, l’épisode rappelle combien l’objectif d’une source façonne le personnage rencontré. Dans un récit, le roi est le nourrisson menacé dont la survie donne sens à une goutte. Dans un autre, il figure dans une histoire sur les biens et les personnes que les souverains souhaitaient obtenir.
+Citant Hégésandre, Athénée raconte que le roi demanda à Antiochos d’envoyer du vin doux, des figues sèches et un sophiste, un intellectuel érudit. La réponse promet le vin et les figues, mais précise que la coutume grecque ne permet pas de vendre un sophiste. Le passage subsiste au livre XIV des *Deipnosophists*. <sup>[6]</sup>
 
-Tous deux le rendent mémorable grâce à une scène brève. Aucune ne peut contenir tout le travail du gouvernement d’un empire.
+Le changement de scène est frappant. Le nourrisson menacé d’une tradition devient le souverain cultivé d’une autre, intéressé par des produits lointains et la compagnie des savants.
 
-## Un récit traverse les siècles
+Cette anecdote aussi fut transmise par un auteur tardif, avec sa propre finalité littéraire. Elle laisse entrevoir les échanges et les goûts royaux conservés dans la mémoire, plutôt qu’un tableau complet du gouvernement de Bindusara.
+
+Placée près de la légende de naissance, elle rappelle combien la source détermine le roi que nous rencontrons. Une scène conserve une goutte au bord de la mort. Une autre conserve une demande parcourant le monde des souverains. Aucune ne peut contenir tout un règne.
+
+## Quatorze siècles plus tard, l’histoire brûle encore
 
 <figure class="article-figure history-illustration">
   <picture>
@@ -179,25 +191,27 @@ Tous deux le rendent mémorable grâce à une scène brève. Aucune ne peut cont
   </figcaption>
 </figure>
 
-La distance entre Bindusara et Hemachandra est considérable. Le roi appartient au monde maurya du début du IIIe siècle avant notre ère ; le savant jaïn écrivit au XIIe siècle de notre ère. L’œuvre conservée d’Hemachandra se situe environ quatorze siècles après ce monde.
+Bindusara appartient au début du IIIe siècle avant notre ère. Hemachandra écrivit au XIIe siècle de notre ère. Environ quatorze siècles séparent le souverain maurya de l’œuvre jaïne survivante qui donne au récit sa forme familière.
 
-La date tardive d’un récit conservé ne signifie pas que toutes ses parties aient alors été inventées. Les traditions peuvent circuler par des textes antérieurs et la transmission orale. L’introduction de Jacobi examine la littérature narrative jaïne antérieure à l’œuvre d’Hemachandra. La recherche moderne étudie aussi comment furent transmises et façonnées les différentes histoires de Chandragupta et Chanakya. <sup>[1][3]</sup>
+Cette distance compte. Le *Parishishtaparvan* montre directement comment Hemachandra conserva la légende. Reconstituer grâce à lui les circonstances exactes d’une naissance impériale demanderait un saut bien plus grand.
 
-La distinction qui en résulte est utile. Le *Parishishtaparvan* témoigne directement de la forme sous laquelle Hemachandra conserva le récit. L’utiliser pour reconstituer les circonstances exactes d’une naissance maurya représente un pas bien plus grand.
+La date tardive d’un texte conservé ne signifie pourtant pas que tous ses éléments furent inventés alors. Des textes antérieurs et des récits oraux peuvent transmettre des traditions entre générations. L’introduction de Jacobi examine la littérature narrative jaïne antérieure à Hemachandra ; les recherches modernes étudient la transmission et le façonnement des récits de Chandragupta et de Chanakya. <sup>[1][3]</sup>
 
-La légende mérite pourtant d’être lue. Elle offre un drame remarquablement concentré : protéger un roi, la mort d’une mère, sauver un enfant, un nom qui conserve l’événement, puis un conflit sur sa signification.
+La persistance de l’histoire se comprend plus aisément que sa formation première. Elle concentre d’immenses enjeux dans un drame intime. Le destin d’un futur empereur est lié à la mort d’une mère. Le conseiller qui sauve l’enfant affronte ensuite sa colère. Un nom préserve le sauvetage sans résoudre son angoisse morale.
 
-Sa force émotionnelle vient de ses personnages. Durdhara perd la vie. L’ingéniosité de Chanakya porte une terrible charge. Bindusara survit pour hériter du trône, puis doit affronter l’histoire de la survie qui rendit son règne possible.
+Les traditions conservées confrontent le lecteur à une protection qui tourne terriblement mal. La survie apporte un héritier à la dynastie, mais ne peut rendre la mère ni garantir au ministre une place durable dans la gratitude du fils.
 
-## La goutte restée avec la dynastie
+## La goutte qui accompagna une dynastie
 
-Revenons à l’instant dont dépend le nom : l’enfant a été retiré vivant et une goutte a atteint sa tête.
+Revenons à l’enfant du récit jaïn. Il a été extrait vivant. Une goutte de poison a touché sa tête. Sa mère ne reviendra pas.
 
-La légende donne à cette goutte une vie bien au-delà du repas qui l’a produite. Elle devient un mot, le mot entre dans un nom, et le nom accompagne un empereur dans la mémoire des Mauryas.
+Cet enfant deviendra Bindusara. Après lui viendra Ashoka. Dans la légende, le chemin entre le fondateur de la dynastie maurya et son empereur le plus célèbre passe par ce sauvetage désespéré.
 
-La dynastie de Chandragupta se poursuit par Bindusara jusqu’à Ashoka. Dans le récit jaïn de cette continuité, la perte d’une mère reste indissociable de la survie d’un héritier.
+La goutte devient un mot. Le mot devient un nom. Le nom porte le souvenir du désastre bien après la fin du repas.
 
-**Un empire a besoin de son successeur. Un enfant a besoin de vivre. Dans la légende de Bindusara, la distance entre ces deux espoirs se mesure à une seule goutte.**
+La mort de Durdhara reste inséparable de la survie de son fils. L’ingéniosité de Chanakya reste inséparable de ses terribles conséquences. Et le commencement de Bindusara demeure une histoire où la grandeur impériale n’offre aucune échappatoire au chagrin d’une famille.
+
+**La dynastie gagna son héritier. Une mère perdit la vie. Et une goutte de poison devint un nom que les siècles ne purent effacer.**
 
 ## Sources
 

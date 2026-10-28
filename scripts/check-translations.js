@@ -32,6 +32,7 @@ const DYNAMIC_COPY = [
   'No results for “{query}”.',
   'English preview · Translations in progress',
   'English draft · Awaiting approval',
+  'Translated from English using AI.',
   'Article navigation', 'Next article', 'Previous article',
 ];
 const STRINGS = new Set();

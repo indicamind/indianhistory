@@ -10,7 +10,7 @@ personalities: [ashoka]
 relatedTo: ashoka-edicts
 tags: ["अशोक","शिलादेश","स्तंभादेश"]
 themes: []
-books: ["0349122385","935699322X","0143330802"]
+books: ['0349122385', '935699322X', '0143330802', 'B0BPDX1MXS']
 sourceHash: a61f912bc78b3003f88efc535b0a97f9c3038edb6a716e4faa437d4ae294711e
 ---
 

@@ -10,7 +10,7 @@ personalities: [ashoka]
 relatedTo: ashoka-edicts
 tags: ["آشوکا","کتیبه‌ها","غارهای بارابار"]
 themes: []
-books: ["0349122385","935699322X","0143330802"]
+books: ['0349122385', '935699322X', '0143330802', 'B0BPDX1MXS']
 sourceHash: 0f83d82b9d89058a5b4b4677d9f0fb2274a8953266c8d4647d63f698b004367a
 ---
 

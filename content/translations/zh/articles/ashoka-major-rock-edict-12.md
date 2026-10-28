@@ -10,7 +10,7 @@ personalities: [ashoka]
 relatedTo: ashoka-edicts
 tags: ["阿育王","敕文","大石敕"]
 themes: []
-books: ["0349122385","935699322X","0143330802"]
+books: ['0349122385', '935699322X', '0143330802', 'B0BPDX1MXS']
 sourceHash: d2f570ba86e8cff592ec8b94a8ad1961044e77c83470cbd191c7ba24bb625cb2
 ---
 

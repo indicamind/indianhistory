@@ -10,7 +10,7 @@ personalities: [ashoka]
 relatedTo: ashoka-edicts
 tags: ["اشوک","کتبے","آرامی","تکششیلا"]
 themes: []
-books: ["0349122385","935699322X","0143330802"]
+books: ['0349122385', '935699322X', '0143330802', 'B0BPDX1MXS']
 sourceHash: 57ed5247a324ef0a0c9a14a6eb766cf809928decff61cd4de1e0ae3dd6ab7fdc
 ---
 

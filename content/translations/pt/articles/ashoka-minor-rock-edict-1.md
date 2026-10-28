@@ -10,7 +10,7 @@ personalities: [ashoka]
 relatedTo: ashoka-edicts
 tags: ["Ashoka","éditos","édito menor em rocha"]
 themes: []
-books: ["0349122385","935699322X","0143330802"]
+books: ['0349122385', '935699322X', '0143330802', 'B0BPDX1MXS']
 sourceHash: e530318b4eb486282f07efe8d804c6f5f6cc3ea774469aa950b524aa6ebc1fe5
 ---
 

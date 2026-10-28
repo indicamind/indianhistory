@@ -1,15 +1,31 @@
 ---
-title: "A Drop of Poison, an Emperor's Name: The Legend of Bindusara"
+title: 'Born from Poison: The Chilling Legend Behind Bindusara’s Name'
 slug: bindusara-name-legend-poison-drop
-excerpt: "A poisoned royal meal. A dying queen. An unborn heir rescued at the edge of death. The Jain legend of Bindusara's name turns a single drop into a story of imperial survival, a mother's loss, and the dangerous genius of Chanakya."
+excerpt: >-
+  A poisoned royal meal. A dying mother. An unborn heir caught in a catastrophe.
+  The Jain legend of Bindusara turns Chanakya’s secret defence into a desperate
+  rescue—and one deadly drop into an emperor’s name.
 publishedAt: 2026-10-27T00:00:00.000Z
-updatedAt: 2026-10-27T00:00:00.000Z
+updatedAt: '2026-10-28T00:00:00.000Z'
 period: mauryan
 polity: maurya
-personalities: [chandragupta-maurya, ashoka]
-tags: [Bindusara, Chandragupta Maurya, Chanakya, Durdhara, Mauryan Empire, Jain legends]
+personalities:
+  - chandragupta-maurya
+  - bindusara
+  - ashoka
+tags:
+  - Bindusara
+  - Chandragupta Maurya
+  - Chanakya
+  - Durdhara
+  - Mauryan Empire
+  - Jain legends
 themes: []
-books: ['0349122385', '935699322X', '0143330802']
+books:
+  - 0349122385
+  - 935699322X
+  - 0143330802
+  - B0BPDX1MXS
 ---
 
 <figure class="article-figure history-illustration history-hero">
@@ -23,87 +39,93 @@ books: ['0349122385', '935699322X', '0143330802']
   </figcaption>
 </figure>
 
-**The emperor survived the poison in his food. The queen who shared the meal did not. And the child rescued from her womb would carry the memory of a single drop in his name.**
+**One poisoned meal. A dying queen. An unborn prince—and a single drop that would give an emperor his name.**
 
-That child, the legend tells us, was **Bindusara**: son of Chandragupta Maurya and father of Ashoka. Between the founder of an empire and its most celebrated ruler stands a king whose birth story brings us into the dangerous intimacy of the royal household.
+In the Jain legend of Bindusara, the greatest danger to the royal household comes from the food on its own table. Chandragupta Maurya can survive what he eats. His pregnant queen cannot. And Chanakya, the strategist trying to protect the emperor, suddenly faces the terrible consequences of his own defence.
 
-There are no armies in the decisive scene. There is a meal, a pregnant queen, and a minister whose attempt to protect his sovereign has brought disaster into the family he serves. Within moments, the future of the dynasty rests on an unborn child.
+The queen is **Durdhara**. The child inside her will become **Bindusara**, father of Ashoka. Before that child can inherit a throne, he must survive the catastrophe that is taking his mother's life.
 
-The familiar poison-drop account comes from the Jain storytelling tradition preserved in **Hemachandra's *Parishishtaparvan***. Hemachandra wrote in the twelfth century CE, many centuries after the Mauryas. We are entering a remembered, reshaped world of royal legend. Its power lies in the extraordinary story it tells about survival, loyalty, and the human cost of keeping an empire alive. <sup>[1][3]</sup>
+What follows is one of the most unsettling birth stories attached to an Indian emperor: poison turned into protection, protection turned into disaster, and a rescue whose memory would return years later as an accusation against the rescuer.
 
-## The prince between two emperors
+The familiar poison-drop version survives in **Hemachandra's *Parishishtaparvan***, written in the twelfth century CE, many centuries after the Mauryas. This is a royal legend, preserved and shaped by the Jain storytelling tradition. Within that tradition, a single drop carries the weight of a mother's death, a child's survival, and the future of a dynasty. <sup>[1][3]</sup>
 
-Bindusara occupies an essential place in the Mauryan succession. Chandragupta founded the dynasty; Bindusara followed him; Ashoka inherited the throne after Bindusara. The Buddhist chronicle *Mahavamsa* places these rulers in that sequence and assigns Bindusara a reign of twenty-eight years. That is the chronicle's reckoning, rather than an independently settled calendar for every event in his life. <sup>[5]</sup>
+## Between Chandragupta and Ashoka, a life almost lost
 
-The contrast in their surviving reputations is striking. Chandragupta's story centres on the making of imperial power. Ashoka's inscriptions give us a ruler speaking about government, moral conduct, welfare, and religious communities. Bindusara is often encountered through his relationship to those two men.
+Chandragupta built the dynasty. Ashoka became its most celebrated ruler. Between them stood Bindusara, a king too often reduced to a link between two famous names.
 
-His naming legend gives him a beginning of his own. Before he becomes a sovereign, he becomes a survivor. Before the machinery of succession can place a crown upon him, a catastrophe threatens to end his life altogether.
+The Buddhist chronicle *Mahavamsa* gives that succession: Chandragupta, Bindusara, Ashoka. It assigns Bindusara a reign of twenty-eight years. That duration belongs to the chronicle's account; it is not an independently settled calendar for every event of his life. <sup>[5]</sup>
 
-Read in this way, the birth story supplies something a bare list of kings cannot: a reason to remember the person between the famous names. A dynasty continues because a child lives. The scale of imperial history contracts to the scale of a household emergency.
+His birth legend gives the man in the middle a beginning that is impossible to forget. Before the crown, there is a child in mortal danger. Before the imperial succession, there is a mother who will never see her son grow up.
 
-## Chanakya's defence against an invisible enemy
+For a moment, the grandeur of Mauryan history contracts to a royal meal. The armies and provinces recede. The question is whether one unborn child can be brought out alive.
 
-In the Jain account, Chanakya arranges for Chandragupta's food to contain progressively increasing amounts of poison. The purpose within the story is to make the king resistant to poisoning. The royal meal becomes part of a secret defence of the emperor's body. <sup>[1]</sup>
+## Chanakya's dangerous answer to an invisible enemy
 
-The idea fits the fearful atmosphere in which the legend places its characters. A ruler can surround himself with armed guards and still depend on the hands that prepare his food. The kitchen reaches him where a hostile army cannot. Every meal requires trust.
+In the Jain telling, Chanakya arranges for Chandragupta's food to contain gradually increasing amounts of poison. His purpose is to make the emperor resistant to poisoning. The meal itself becomes a secret line of defence. <sup>[1]</sup>
 
-Chanakya's answer is characteristic of his role in the tale: he tries to turn a danger into an instrument of protection. The frightening substance becomes a shield. The king's own body is drawn into the work of preserving the throne.
+It is an audacious idea, perfectly suited to the formidable adviser of the legend. A king can command soldiers, guard his gates, and punish open enemies. Yet the food placed before him still demands trust. The hands that serve him can reach where a hostile army cannot.
 
-**Then the protection fails at the boundary of the king's person.**
+Chanakya tries to turn that vulnerability into strength. He brings the feared substance into the emperor's daily life so that it will lose its power over him. In the story, Chandragupta's body becomes another fortress to be defended.
 
-The food has been prepared for a particular recipient under an exceptional arrangement. Another member of the household shares it. Everything depends on that difference.
+But this fortress has a fatal boundary. The protection belongs to the king. The food can still destroy someone else.
 
-This is the first terrible irony of the legend. A precaution designed to preserve the royal line becomes the cause of a crisis within it. The minister has considered the emperor's vulnerability; the story exposes the vulnerability of everyone around him.
+The minister has planned for an enemy's poison. The danger now comes through the ordinary intimacy of a shared meal.
 
-## Durdhara shares the royal meal
+## Durdhara shares the meal—and the defence becomes a disaster
 
-Hemachandra's account names the pregnant queen **Durdhara**. She dines with Chandragupta and is overcome by the poison. Chanakya arrives at the scene as the disaster unfolds. <sup>[1]</sup>
+Hemachandra names the pregnant queen **Durdhara**. She eats with Chandragupta, and the poison overcomes her. Chanakya arrives as the catastrophe unfolds. <sup>[1]</sup>
 
-The familiarity of the setting makes the episode especially disturbing. Sharing food can express affection, companionship, and belonging. Here, that ordinary closeness carries the danger. The queen's access to the king's table brings her into contact with a substance her body cannot withstand in the story.
+Nothing about that shared meal needs an elaborate conspiracy to make it terrifying. Eating together belongs to the familiar world of affection and companionship. Here, closeness to the emperor exposes the queen to something her body cannot withstand.
 
-The narrative gives us no secure record of her last words. It offers no reason to invent a speech, a promise, or a conscious decision to sacrifice herself. Durdhara's death is already a tragedy without adding an imagined farewell.
+**The measure meant to protect a king has put his queen and unborn child in danger.**
 
-Her place in the episode deserves attention. The surviving child will become the subject of the explanation, and the minister will dominate the action. Yet the event that gives the legend its force is also the destruction of a mother's life. The king's survival and the dynasty's continuation carry that loss with them.
+The narrative preserves no secure account of Durdhara's last words. There is no need to give her an invented farewell or turn her death into a voluntary sacrifice. The tragedy is already devastating: the royal household's secret protection has become lethal inside the household itself.
 
-At this point, the story's field of possibility narrows. The queen is dying. The child remains within her. Chanakya must act before the same catastrophe overtakes the heir.
+Durdhara deserves to remain at the centre of that tragedy. The minister will perform the rescue. The son will carry the memorable name. But the story that preserves both of them also records the mother who is lost.
 
-## The rescue—and the drop
+The queen is dying. The child remains inside her. Chanakya must act before the same disaster reaches the heir.
 
-Chanakya opens the queen's womb and removes the unborn child. In Hemachandra's telling, the rescue comes almost too late: **a drop of poison has already reached the child's head**. The boy survives, and that drop supplies the explanation of his name. <sup>[1]</sup>
+## The rescue comes almost too late
 
-The crucial word is **bindu**, a drop.
+Chanakya opens the queen's womb and removes the unborn child. In Hemachandra's account, he has come desperately close to losing the boy as well: **a drop of poison has already reached the child's head**. <sup>[1]</sup>
 
-The image is small enough to grasp immediately. A vast empire can be difficult to imagine. Its armies, offices, revenues, and provinces spread beyond the experience of any single reader. A drop needs no such explanation. It is tiny, visible in the mind, and frighteningly close to the child.
+The child lives.
 
-The name makes that tiny thing endure. Each later mention of Bindusara can call the listener back to the moment of rescue. The child grows into a man and a ruler, while the explanation of his name preserves the danger at his beginning.
+That survival is the turning point of the legend. The catastrophe has taken Durdhara, but it has not taken her son. The future emperor emerges from the very disaster that might have ended his life before it began.
 
-That is how the legend joins a household disaster to the history of a dynasty. The rescued infant belongs to Chandragupta's family. The future emperor belongs to the Mauryan succession. The name carries both identities together.
+Then the story fixes on its smallest, most unforgettable detail: the drop.
 
-## What the name explains—and what it leaves open
+The key word is **bindu**, meaning a drop. From that image comes the explanation of **Bindusara**.
 
-The story offers a memorable answer to a natural question: why was this ruler called Bindusara? It connects the sound of the name with the drop that touched him and turns the act of naming into the final moment of the rescue.
+An immense dynasty receives an intimate mark of memory. Every later mention of the king's name can carry the listener back to that rescue: the dying mother, the endangered child, the minister's intervention, and the poison that almost reached too far.
 
-Such an explanation gives an otherwise ordinary historical fact a dramatic cause. The name becomes a compressed narrative. It contains danger, intervention, survival, and loss in a form that can be repeated in a few sentences.
+## An emperor's name, carrying a mother's loss
 
-The relationship also works in the other direction. Once people know the name and its association with a drop, the story becomes easier to remember. The detail has a purpose; the name gives the detail somewhere to live.
+A name can outlive the circumstances that produced it. This legend refuses to let those circumstances disappear.
 
-This is a **legendary explanation of a name**. Establishing the circumstances of an actual naming ceremony would require evidence of a different kind. We can appreciate the account's ingenuity while keeping its literary explanation distinct from a contemporary record of the prince's birth.
+Bindusara will become a ruler. He will stand in the succession between Chandragupta and Ashoka. Yet the explanation of his name keeps returning him to the child who survived a poisoned meal's terrible aftermath.
 
-The distinction matters especially when a vivid retelling acquires extra precision. A particular colour for the mark, an exact recipe for the poison, or a carefully reconstructed conversation can make a story feel more complete. Those details should have their own textual support before they are presented as part of this account.
+The drop does more than solve a puzzle about a word. It binds private loss to public history. The rescued infant belongs to Durdhara's story; the future sovereign belongs to the Mauryan dynasty. His name holds them together.
 
-## Another tradition: drops of blood
+This is a **legendary explanation of a name**. A contemporary record of an actual naming ceremony would be a different kind of evidence. The distinction leaves the story's force intact while making clear what its surviving source can establish.
 
-The poison-drop version is not the only account of Bindusara's extraordinary birth. The Buddhist commentarial tradition preserves a different sequence, recorded under his name in the *Dictionary of Pali Proper Names*, with a reference to the *Mahavamsa* commentary. <sup>[2]</sup>
+It also guards against details that grow in later retellings. A precise colour for the mark, an exact poison recipe, or a dramatic conversation may make a scene seem more vivid. Each would need its own textual support. The account already has all the drama it needs.
 
-Here, too, Chandragupta's food contains poison as part of Chanakya's protective scheme, and the pregnant queen eats it. The minister's intervention is more violent: he kills the queen and removes the child. The baby is then said to spend the remaining seven days before its expected birth in the wombs of freshly killed goats, a new one each day. Drops of the animals' blood mark the child and explain his name. <sup>[2]</sup>
+## Seven goats, seven days: the other extraordinary birth story
 
-These are the marvellous mechanics of that version of the legend. They should be read as storytelling, rather than as a documented medical procedure.
+The poison-drop tale has a startling counterpart. The Buddhist commentarial tradition preserves a different sequence, recorded in the *Dictionary of Pali Proper Names* under Bindusara, with a reference to the *Mahavamsa* commentary. <sup>[2]</sup>
 
-The shared pattern is clear: poisoned food, a threatened child, the decisive minister, and a name explained through drops. The material that gives the name its meaning changes. Keeping the two versions separate allows us to see what each tradition actually says.
+The poisoned food and pregnant queen appear here too. But the minister's intervention is more violent: he kills the queen and extracts the child. The infant is then said to spend the seven days remaining before its expected birth in the wombs of freshly killed goats, a new goat each day. Drops of the animals' blood mark the child and explain his name. <sup>[2]</sup>
 
-The familiar tale of a drop of poison touching the head belongs to the Jain account discussed above. The account of the seven goats and their blood belongs to the Buddhist commentary. Combining them into a single scene would create a third version of our own.
+Seven days. A succession of animals. A royal infant sustained by the marvellous machinery of the tale. These are extraordinary narrative claims, to be read as legend rather than as a documented medical procedure.
 
-## The birth returns as an accusation
+The shared outline is unmistakable: a poisoned meal, a mother lost, an endangered heir, a decisive minister, and a name explained through drops. The substance behind the name changes.
+
+The distinction matters. **The drop of poison touching the head belongs to the Jain account. The seven goats and drops of blood belong to the Buddhist commentary.** Blending them into one scene would give us a third version of our own invention.
+
+Together, the traditions show how powerfully the image of a rescued child gripped the memory of the dynasty. They also show why the version being told must always be named.
+
+## Years later, the rescue becomes a weapon
 
 <figure class="article-figure history-illustration">
   <picture>
@@ -116,41 +138,45 @@ The familiar tale of a drop of poison touching the head belongs to the Jain acco
   </figcaption>
 </figure>
 
-The Jain narrative carries the consequences of the rescue into Bindusara's adult life. **Subandhu**, a rival minister, tells the king that Chanakya was responsible for the death of his mother. Bindusara turns against the man who had saved him. Later, after learning the circumstances more fully, he regrets his hostility and asks Chanakya to return to office. The old minister refuses. <sup>[1]</sup>
+The Jain story does not end when the infant survives. Its darkest political turn comes after Bindusara has grown up.
 
-This continuation gives the birth legend a second life. An episode the infant could never remember becomes a story that other people can tell him—and use against one another.
+A rival minister, **Subandhu**, tells the king that Chanakya was responsible for his mother's death. Bindusara turns against the man who saved him. Later, when he learns the circumstances more fully, he regrets his hostility and asks Chanakya to return to office. The old minister refuses. <sup>[1]</sup>
 
-One way to read the episode is as a struggle over explanation. The action at its centre is terrible to contemplate. Presented without the circumstances of the poisoning and the rescue, it makes Chanakya appear simply as the destroyer of the king's mother. With those circumstances restored, the king understands why the tradition regards the minister as his benefactor.
+The accusation is devastating because it strikes at the wound the birth story never closes. Bindusara is alive, but his mother is dead. Tell him only how she died, and the rescuer becomes the destroyer of his family.
 
-For Bindusara, the conflict is deeply personal. His own survival is bound to an act that he can initially understand as an injury to his family. The story asks him to reconsider a judgement made through grief and anger.
+Restore the poisoned meal and the endangered child, and the same action acquires a different meaning. The story turns on the struggle to make the king understand what happened before he could possibly remember it.
 
-It also places Chanakya in a painful position. The man credited with securing the dynasty depends on a ruler's understanding of events. Political intelligence gives him immense influence, but it does not guarantee lasting gratitude.
+For Bindusara, the conflict is painfully personal. The act bound to his survival is also bound to his mother's death. Grief and anger give the accusation its force; fuller knowledge compels him to reconsider.
 
-The rescued child's name has preserved one part of the past. The accusation shows how much of that past still needs to be explained.
+For Chanakya, it is a bitter reversal. The strategist credited with preserving the dynasty cannot guarantee that the dynasty will remain grateful. He can intervene in the crisis, but he cannot control every account that will later be given of it.
 
-## Poison and the security of a king
+The child's name has kept one fragment of the past alive. Subandhu's accusation shows how dangerous the rest of that past can become.
 
-There is a wider literary setting for the fear that drives the episode. Book I, Chapter 21 of the *Arthashastra*, the political treatise associated with Kautilya, discusses a ruler's personal safety. It describes guarded food preparation, dependable attendants, and the presence of physicians and specialists concerned with poison. <sup>[4]</sup>
+## A king's weakest gate could be his kitchen
 
-The chapter helps us understand why a poisoned meal could make a convincing setting for a royal legend. The ruler's daily routine contains potential points of attack. His protection depends on supervision, controlled access, and confidence in the people serving him.
+The fear behind the legend belongs to a wider world of political writing. The *Arthashastra*, associated with Kautilya, discusses a ruler's personal safety in Book I, Chapter 21. Guarded food preparation, dependable attendants, physicians, and specialists concerned with poison all have a place in its precautions. <sup>[4]</sup>
 
-The treatise and the birth story are different kinds of writing. A prescription for protecting a king does not establish that a particular poisoning occurred. Nor does it confirm the legend's claim about making Chandragupta resistant to poison. Its value here is contextual: it shows the importance given to the danger in a work of political thought.
+A guarded palace is still full of daily approaches to the king. Food must be prepared. Servants must enter. The ruler's body remains exposed to routines that cannot simply be abolished.
 
-Within that atmosphere, the naming story becomes especially effective. The court's determination to protect its ruler has consequences that spread through his household. Readers encounter the security of the state through the bodies of a mother and child.
+That is why the poisoned meal makes such an effective setting for the legend. The danger is inside the ordinary machinery of royal life. Protecting the sovereign requires control over people and substances that surround him every day.
 
-## The emperor beyond his birth story
+The political treatise supplies context, not confirmation of the birth story. Its precautions do not prove that Durdhara's poisoning occurred or that Chandragupta acquired the resistance described in the tale.
 
-Bindusara's life deserves room beyond the extraordinary circumstances attached to his name. Another literary tradition offers a very different glimpse of an Indian king identified with him: **Amitrochates** in the Greek account preserved by Athenaeus.
+What it helps explain is the story's terrifying plausibility as a fear: statecraft reaches the royal table, and the consequences fall upon a mother and child.
 
-Athenaeus, citing Hegesander, relates that the king asked Antiochus to send sweet wine, dried figs, and a sophist—a learned intellectual. The reply promises the wine and figs while saying that Greek custom does not permit the sale of a sophist. The passage survives in Book XIV of the *Deipnosophists*. <sup>[6]</sup>
+## Beyond the poisoned meal: an emperor's extraordinary request
 
-It is an anecdote transmitted by a later author, with its own literary setting. Even so, it opens a different window onto the remembered ruler: exchange, cultivated tastes, and an interest in learned company.
+Bindusara's remembered world extends beyond the crisis of his birth. A Greek anecdote preserved by Athenaeus gives a very different glimpse of an Indian king identified with him, named **Amitrochates** in that account.
 
-Placed beside the birth legend, the episode reminds us how strongly a source's purpose shapes the person we meet. In one account, the king is the endangered infant whose survival gives meaning to a drop. In another, he appears within a story about the goods and people that rulers wished to acquire.
+Citing Hegesander, Athenaeus relates that the king asked Antiochus to send sweet wine, dried figs, and a sophist—a learned intellectual. The reply promises the wine and figs, but says that Greek custom does not permit the sale of a sophist. The passage survives in Book XIV of the *Deipnosophists*. <sup>[6]</sup>
 
-Both make him memorable through a compact scene. Neither scene can contain the whole work of governing an empire.
+The change of scene is striking. The endangered infant of one tradition becomes the cultivated ruler of another, interested in distant goods and learned company.
 
-## Across the centuries, a story survives
+This too is an anecdote transmitted by a later author, with its own literary purpose. It offers a glimpse of remembered exchange and royal taste, rather than a complete account of Bindusara's government.
+
+Placed beside the birth legend, it reminds us how much the source determines the king we meet. One scene preserves a drop at the edge of death. Another preserves a request reaching across the world of rulers. Neither can contain an entire reign.
+
+## Fourteen centuries later, the story still burns
 
 <figure class="article-figure history-illustration">
   <picture>
@@ -163,25 +189,27 @@ Both make him memorable through a compact scene. Neither scene can contain the w
   </figcaption>
 </figure>
 
-The distance between Bindusara and Hemachandra is substantial. The king belongs to the Mauryan age of the early third century BCE; the Jain scholar wrote in the twelfth century CE. Hemachandra's surviving work stands roughly fourteen centuries after that world.
+Bindusara belongs to the early third century BCE. Hemachandra wrote in the twelfth century CE. Roughly fourteen centuries separate the Mauryan ruler from the surviving Jain work that gives this story its familiar shape.
 
-The late date of a surviving telling does not mean every part of its story was newly invented at that moment. Traditions can circulate through earlier texts and oral narration. Jacobi's introduction discusses the earlier Jain narrative literature behind Hemachandra's work. Modern scholarship likewise examines how the different accounts of Chandragupta and Chanakya were transmitted and shaped. <sup>[1][3]</sup>
+That distance matters. The *Parishishtaparvan* directly shows us how Hemachandra preserved the legend. Reconstructing the exact circumstances of an imperial birth from it would require a much larger leap.
 
-The resulting distinction is useful. The *Parishishtaparvan* is direct evidence for the form in which Hemachandra preserved the story. Using it to reconstruct the exact circumstances of a Mauryan birth is a much larger step.
+A late surviving text does not, however, mean that every element of its story was newly invented when it was written. Earlier texts and oral narration can carry traditions across generations. Jacobi's introduction discusses the older Jain narrative literature behind Hemachandra's work; modern scholarship examines how the accounts of Chandragupta and Chanakya were transmitted and shaped. <sup>[1][3]</sup>
 
-Yet the legend remains worth reading. It gives us a remarkably concentrated drama: an attempt to protect a king, a mother's death, a child's rescue, a name that preserves the event, and a later struggle over what that event meant.
+The story's endurance is easier to understand than its earliest formation. It places enormous stakes inside an intimate disaster. The fate of a future emperor is bound to a mother's death. The adviser who saves the child later faces the child's anger. A name preserves the rescue while leaving its moral anguish unresolved.
 
-Its emotional force comes from the people within it. Durdhara loses her life. Chanakya's ingenuity carries a terrible burden. Bindusara survives to inherit a throne, then has to confront the story of the survival that made his reign possible.
+The surviving traditions confront the reader with protection that goes terribly wrong. Survival brings an heir into the dynasty, but it cannot restore the mother or guarantee the minister a lasting place in the son's gratitude.
 
-## The drop that stayed with the dynasty
+## The drop that followed a dynasty
 
-Return to the moment on which the name turns: a child has been brought out alive, and a drop has reached his head.
+Return to the child at the centre of the Jain telling. He has been brought out alive. A drop of poison has touched his head. His mother will not return.
 
-The legend gives that drop a life far beyond the meal that produced it. It becomes a word, the word becomes part of a name, and the name accompanies an emperor into the memory of the Mauryas.
+That child will become Bindusara. After him will come Ashoka. In the legend, the road between the founder of the Mauryan dynasty and its most famous emperor passes through this desperate rescue.
 
-Chandragupta's dynasty continues through Bindusara to Ashoka. Within the Jain account of that continuity, a mother's loss remains inseparable from an heir's survival.
+The drop becomes a word. The word becomes a name. The name carries the memory of the disaster long after the meal is over.
 
-**An empire needs its successor. A child needs to live. In the legend of Bindusara, the distance between those two hopes is measured in a single drop.**
+Durdhara's death remains inseparable from her son's survival. Chanakya's ingenuity remains inseparable from its terrible consequences. And Bindusara's beginning remains a story in which the grandeur of empire can offer no escape from a family's grief.
+
+**The dynasty gained its heir. A mother lost her life. And one drop of poison became a name the centuries could not erase.**
 
 ## Sources
 

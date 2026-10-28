@@ -10,7 +10,7 @@ personalities: [ashoka]
 relatedTo: ashoka-edicts
 tags: ["Ashoka","Edikte","Großes Felsenedikt"]
 themes: []
-books: ["0349122385","935699322X","0143330802"]
+books: ['0349122385', '935699322X', '0143330802', 'B0BPDX1MXS']
 sourceHash: d65d5cb266e719b99be7eaac7bd305bb0bde7bb82df6c9630458b3e90f566f42
 ---
 

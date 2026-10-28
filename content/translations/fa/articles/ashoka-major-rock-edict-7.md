@@ -10,7 +10,7 @@ personalities: [ashoka]
 relatedTo: ashoka-edicts
 tags: ["آشوکا","فرمان‌ها","فرمان بزرگ صخره‌ای"]
 themes: []
-books: ["0349122385","935699322X","0143330802"]
+books: ['0349122385', '935699322X', '0143330802', 'B0BPDX1MXS']
 sourceHash: 411c0d69313704792b8ebcb7ef5b071b702d4bb15b455180aaef1db57de15930
 ---
 

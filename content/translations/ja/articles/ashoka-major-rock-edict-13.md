@@ -10,7 +10,7 @@ personalities: [ashoka]
 relatedTo: ashoka-edicts
 tags: ["アショーカ王","碑文","大磨崖碑"]
 themes: []
-books: ["0349122385","935699322X","0143330802"]
+books: ['0349122385', '935699322X', '0143330802', 'B0BPDX1MXS']
 sourceHash: bfa9171853dc53805b78da6a59488e622016b95f88d42609c309ca4065d85d15
 ---
 

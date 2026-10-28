@@ -50,12 +50,11 @@ export class ArticleReactionsComponent {
     this.applyLocalVote(next ? { vote: next, expiresAt: Date.now() + LOCAL_REACTION_LIFETIME } : null);
     this.busy.set(true);
     this.error.set(false);
-    this.submitted.set(false);
+    this.submitted.set(true);
     try {
       const saved = await this.reactions.save(slug, next);
       if (this.requestId === requestId) {
         this.applyLocalVote(saved);
-        this.submitted.set(true);
       }
     } catch {
       if (this.requestId === requestId) {

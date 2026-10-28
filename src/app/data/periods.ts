@@ -246,6 +246,13 @@ export const personalities: Personality[] = [
     description: 'Chandragupta Maurya overthrew earlier powers in the Gangetic region and founded India’s first major imperial state. His reign is associated with centralized administration, military expansion, and the political foundations inherited by Bindusara and Ashoka.'
   },
   {
+    slug: 'bindusara',
+    name: 'Bindusara',
+    range: 'Early 3rd century BCE',
+    shortDescription: 'Second Mauryan emperor, son of Chandragupta Maurya and father of Ashoka.',
+    description: 'Bindusara ruled the Maurya Empire between Chandragupta Maurya and Ashoka. Later Jain and Buddhist traditions preserve different legends about his birth and name, recorded centuries after his lifetime.'
+  },
+  {
     slug: 'ashoka',
     name: 'Ashoka the Great',
     range: 'r. c. 268 – 232 BCE',

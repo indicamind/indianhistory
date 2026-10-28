@@ -10,7 +10,7 @@ personalities: [ashoka]
 relatedTo: ashoka-edicts
 tags: ["ଅଶୋକ","ଶିଳାଲେଖ","ପ୍ରମୁଖ ଶିଳାଲେଖ"]
 themes: []
-books: ["0349122385","935699322X","0143330802"]
+books: ['0349122385', '935699322X', '0143330802', 'B0BPDX1MXS']
 sourceHash: c346415a46cce3920cce31d0c50765a80c8e9eedda2c2934cb847732dfbc3e00
 ---
 

@@ -10,7 +10,7 @@ personalities: [ashoka]
 relatedTo: ashoka-edicts
 tags: ["ਅਸ਼ੋਕ","ਫ਼ਰਮਾਨ","ਮੁੱਖ ਸਤੰਭ ਫ਼ਰਮਾਨ"]
 themes: []
-books: ["0349122385","935699322X","0143330802"]
+books: ['0349122385', '935699322X', '0143330802', 'B0BPDX1MXS']
 sourceHash: 18003cd25cc48f0eccdff052f088ed0a934c824fcec633827d68800899558ec2
 ---
 

@@ -10,7 +10,7 @@ personalities: [ashoka]
 relatedTo: ashoka-edicts
 tags: ["أشوكا","المراسيم","مرسوم عمود صغير"]
 themes: []
-books: ["0349122385","935699322X","0143330802"]
+books: ['0349122385', '935699322X', '0143330802', 'B0BPDX1MXS']
 sourceHash: 14038cd773bb1cbbd661e6e23d4607b2e6a94d9d2751bdc218197cda5155678c
 ---
 

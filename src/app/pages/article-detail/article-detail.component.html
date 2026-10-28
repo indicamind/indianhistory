@@ -27,6 +27,9 @@
         <p class="eyebrow">{{ locale.translate('English preview · Translations in progress') }}</p>
       }
       <h1>{{ article()!.title }}</h1>
+      @if (locale.language !== 'en' && locale.translationAvailable() && !article()!.previewOnly) {
+        <p class="translation-note">{{ locale.translate('Translated from English using AI.') }}</p>
+      }
       @if (!article()!.draft && article()!.viewCount !== undefined && (devMode.isDevMode() || article()!.viewCount! >= 10)) {
         <p class="view-count">
           <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" aria-hidden="true" focusable="false">

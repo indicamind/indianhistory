@@ -40,19 +40,17 @@
   <div class="book-list">
     @for (book of visibleBooks(); track book.isbn10) {
       <article class="book-card" [class.affiliate-pending]="devMode.isDevMode() && !book.affiliateUrl">
-        <a class="book-cover" [href]="book.affiliateUrl || book.amazonUrl" target="_blank" [attr.rel]="book.affiliateUrl ? 'sponsored noopener' : 'noopener'">
+        <div class="book-cover">
           <picture>
             <source [srcset]="book.imageUrl | webp" type="image/webp" />
             <img appWebpFallback [src]="book.imageUrl" [alt]="locale.bookCoverAlt(book.title, book.imageAlt)" loading="lazy" decoding="async" width="300" height="440" translate="no" />
           </picture>
-        </a>
+        </div>
         <div class="book-copy">
           @if (devMode.isDevMode() && !book.affiliateUrl) { <p class="affiliate-status">Affiliate link pending · Regular Amazon.in link</p> }
           <p class="book-meta">{{ locale.translate(book.category) }} · {{ locale.translate(book.format) }}@if (book.publicationDate) { · {{ locale.formatBookDate(book.publicationDate) }} }</p>
-          <h3 translate="no" class="notranslate">
-            <a [href]="book.affiliateUrl || book.amazonUrl" target="_blank" [attr.rel]="book.affiliateUrl ? 'sponsored noopener' : 'noopener'">{{ book.title }}</a>
-          </h3>
-          <p class="book-author"><span>by</span> <span translate="no" class="notranslate">{{ book.author }}</span></p>
+          <h3 [id]="'catalogue-book-' + book.isbn10" translate="no" class="notranslate">{{ book.title }}</h3>
+          <p class="book-author"><span>{{ locale.translate('by') + ' ' }}</span><span translate="no" class="notranslate">{{ book.author }}</span></p>
           <p class="book-desc notranslate" translate="no">{{ book.description }}</p>
           <dl class="book-details" aria-label="Book details">
             @if (book.publisher) { <div>
@@ -75,7 +73,7 @@
               <p class="book-source"><a [href]="book.sourceUrl" target="_blank" rel="noopener">Archived Amazon.in listing source</a> · Current availability not checked</p>
             }
           }
-          <a class="btn btn-primary" [href]="book.affiliateUrl || book.amazonUrl" target="_blank" [attr.rel]="book.affiliateUrl ? 'sponsored noopener' : 'noopener'">View on Amazon.in</a>
+          <a class="book-link btn btn-primary" [href]="book.affiliateUrl || book.amazonUrl" target="_blank" [attr.rel]="book.affiliateUrl ? 'sponsored noopener' : 'noopener'" [attr.aria-labelledby]="'catalogue-book-' + book.isbn10">View on Amazon.in</a>
         </div>
       </article>
     } @empty {

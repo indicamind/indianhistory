@@ -260,6 +260,13 @@ export const personalities: Personality[] = [
     description: 'Ashoka ruled much of the Indian subcontinent after the Mauryan expansion. Following the Kalinga War, he promoted dhamma, welfare, religious tolerance, and Buddhist missions through inscriptions, monuments, and imperial patronage.'
   },
   {
+    slug: 'firuz-shah-tughlaq',
+    name: 'Firuz Shah Tughlaq',
+    range: 'r. 1351 – 1388 CE',
+    shortDescription: 'Sultan of Delhi known for public works, the taxation of Brahmins, and religious persecution.',
+    description: 'Firuz Shah Tughlaq ruled the Delhi Sultanate from 1351 to 1388. His reign saw building and irrigation projects alongside religious coercion. Shams-i Siraj Afif records the burning of a Brahmin who refused conversion; the sultan’s own account describes temple destruction and incentives to convert.'
+  },
+  {
     slug: 'rana-kumbha',
     name: 'Rana Kumbha',
     range: 'r. 1433 – 1468 CE',

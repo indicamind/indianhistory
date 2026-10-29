@@ -28,7 +28,7 @@
       }
       <h1>{{ article()!.title }}</h1>
       @if (locale.language !== 'en' && locale.translationAvailable() && !article()!.previewOnly) {
-        <p class="translation-note">{{ locale.translate('Translated from English using AI.') }}</p>
+        <p class="translation-note">{{ locale.translate('Translated by AI.') }}</p>
       }
       @if (!article()!.draft && article()!.viewCount !== undefined && (devMode.isDevMode() || article()!.viewCount! >= 10)) {
         <p class="view-count">

@@ -12,6 +12,12 @@ Keep readers on the website while they read an article or blog post. Do not put 
 
 Keep image attribution visible beside each image as plain text, including the creator and license where applicable. Put the linked original image source, creator attribution, and license in an Image credits subsection of the final Sources section. Preserve required attribution and modification details. Apply this placement rule to English drafts, approved content, and every translation when creating or editing articles and blog posts.
 
+# Article section navigation
+
+Article pages replace plain tags with internal links to every section and subsection in which the article appears: timeline periods and their ancestors, empires and kingdoms and their parents, themes, personalities, and parent article guides where applicable. Keep this navigation derived from the shared section-listing rules and article metadata; do not hardcode a separate list of navigation links into article Markdown or templates.
+
+Whenever adding, moving, renaming, or removing a personality, section, subsection, timeline period, theme, empire, kingdom, article, or article series, audit every existing article's memberships and resulting navigation links. Update all relevant `period`, `polity`, `themes`, `personalities`, and `relatedTo` references in the English source and every supported translation. Associate relevant existing articles with newly added sections and personalities. Check that ancestor links remain complete, labels are localized, and each destination exists and provides the expected article or series. Verify links in both directions, from article to section and from section to article, in normal and dev modes. Review the generated localized article and search assets after rebuilding.
+
 # Article recommendations
 
 Separate the two shared “More books” recommendations into individual placements within the article body: one in the first half, near one-third of the prose, and the other in the second half, near two-thirds. Place each between complete content blocks, with article text between the recommendations. This applies to existing and future articles in every language. Keep the placement in the shared renderer and content build; do not hardcode book cards or placement markers into article Markdown. Keep figures, tables, and lists whole, and keep headings attached to their following content. For very short content with too few safe internal boundaries, use the available boundaries and then the end of the article without splitting a block.

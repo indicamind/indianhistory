@@ -34,6 +34,10 @@ export class ArticleDetailComponent implements OnInit {
   readonly devMode = inject(DevModeService);
   readonly articleRoute = articleRoute;
   readonly article = signal<Article | null>(null);
+  readonly sectionLinks = computed(() => {
+    const article = this.article();
+    return article ? this.periodsService.getSectionsForArticle(article) : [];
+  });
   readonly html = signal<SafeHtml | null>(null);
   readonly htmlParts = signal<SafeHtml[]>([]);
   readonly bookRecommendations = computed(() => this.recommendations.forArticle(this.article(), this.devMode.isDevMode()));

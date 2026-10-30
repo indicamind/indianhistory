@@ -17,7 +17,7 @@ describe('PeriodsService', () => {
       whenReady: async () => {},
       allArticles: () => articles,
       search: async () => [],
-      getBySlug: () => undefined,
+      getBySlug: (slug: string) => articles.find(article => article.slug === slug),
     };
 
     const mockLocaleService = {
@@ -41,6 +41,64 @@ describe('PeriodsService', () => {
     const top = service.getTopLevel();
     expect(top.length).toBeGreaterThan(0);
     expect(top.some(p => p.slug === 'prehistory')).toBeTruthy();
+  });
+
+  it('links an article to its actual period, polity, themes and personalities', () => {
+    const article = {
+      slug: 'firuz-story', period: 'medieval', polity: 'delhi-sultanate',
+      themes: ['islamic-conquest-of-india'], personalities: ['firuz-shah-tughlaq'],
+      tags: ['Religious freedom', 'Brahmin persecution'],
+    } as any;
+    articles = [article];
+    expect(service.getSectionsForArticle(article).map(link => link.route.join('/'))).toEqual([
+      '/period/medieval', '/polity/delhi-sultanate',
+      '/theme/islamic-conquest-of-india', '/personality/firuz-shah-tughlaq',
+    ]);
+    article.personalities = ['ashoka', 'unknown-person'];
+    expect(service.getSectionsForArticle(article).filter(link => link.kindLabel === 'Personality').map(link => link.name)).toEqual(['Ashoka the Great']);
+  });
+
+  it('includes every ancestor period and parent kingdom without adding siblings', () => {
+    const stoneAge = { slug: 'tools', period: 'lower-paleolithic', themes: [], personalities: [], tags: [] } as any;
+    const mewar = { slug: 'mewar-story', period: 'medieval', polity: 'mewar', themes: [], personalities: [], tags: [] } as any;
+    articles = [stoneAge, mewar];
+    expect(service.getSectionsForArticle(stoneAge).map(link => link.route.join('/'))).toEqual([
+      '/period/prehistory', '/period/paleolithic', '/period/lower-paleolithic',
+    ]);
+    expect(service.getSectionsForArticle(mewar).map(link => link.route.join('/'))).toEqual([
+      '/period/medieval', '/polity/rajputs', '/polity/mewar',
+    ]);
+  });
+
+  it('uses legacy section membership rules and omits unknown destinations', () => {
+    const legacy = { slug: 'old-story', tags: ['Mauryan'], themes: ['missing-theme'], personalities: ['missing-person'] } as any;
+    articles = [legacy];
+    expect(service.getSectionsForArticle(legacy).map(link => link.route.join('/'))).toEqual([
+      '/period/early-historic', '/period/mauryan', '/polity/maurya',
+    ]);
+  });
+
+  it('links an edict to its guide without adding themes that exclude individual edicts', () => {
+    const edict = {
+      slug: 'ashoka-major-rock-edict-12', title: 'Edict XII', relatedTo: 'ashoka-edicts',
+      period: 'mauryan', polity: 'maurya', personalities: ['ashoka'], themes: ['rise-of-buddhism-jainism'], tags: [],
+    } as any;
+    articles = [edict, { slug: 'ashoka-edicts', title: 'Ashoka’s edicts', themes: [], personalities: [], tags: [] }];
+    const links = service.getSectionsForArticle(edict);
+    expect(links.map(link => link.route.join('/'))).toEqual([
+      '/period/early-historic', '/period/mauryan', '/polity/maurya', '/personality/ashoka', '/article/ashoka-edicts',
+    ]);
+    expect(links[links.length - 1].name).toBe('Ashoka’s edicts');
+  });
+
+  it('links world-history stories to the timeline and event guide without following cycles', () => {
+    const story = { slug: 'world-story', title: 'World story', period: 'world-history', relatedTo: 'event', themes: [], personalities: [], tags: [] } as any;
+    articles = [story, { slug: 'event', title: 'World event', period: 'world-history', themes: [], personalities: [], tags: [] }];
+    const links = service.getSectionsForArticle(story);
+    expect(links[0]).toEqual({ name: 'World history', route: ['/'], fragment: 'world-history', kindLabel: 'Period' });
+    expect(links.map(link => link.route.join('/'))).toEqual(['/', '/worldhistory/event']);
+    articles[1].relatedTo = 'world-story';
+    expect(service.getSectionsForArticle(story).map(link => link.route.join('/'))).toEqual(['/', '/article/event']);
   });
 
   it('should find periods by slug and find parent', () => {

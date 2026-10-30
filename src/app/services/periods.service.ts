@@ -20,6 +20,13 @@ import {
   themes,
 } from '../data/periods';
 
+export interface ArticleSectionLink {
+  name: string;
+  route: string[];
+  kindLabel: 'Period' | 'Empire' | 'Kingdom' | 'Theme' | 'Personality' | 'Article';
+  fragment?: string;
+}
+
 @Injectable({ providedIn: 'root' })
 export class PeriodsService {
   private readonly articlesService = inject(ArticleService);
@@ -173,6 +180,47 @@ export class PeriodsService {
   /** Find a personality by slug */
   getPersonalityBySlug(slug: string): Personality | undefined {
     return this.localizedPersonalities.find((p) => p.slug === slug);
+  }
+
+  /** Use the section listing rules so article navigation includes every matching ancestor. */
+  getSectionsForArticle(article: ArticleSummary): ArticleSectionLink[] {
+    const containsArticle = (entries: ArticleSummary[]) => entries.some(entry => entry.slug === article.slug);
+    const links: ArticleSectionLink[] = [];
+
+    for (const period of this.getAll()) {
+      if (containsArticle(this.articlesForPeriod(period.slug))) {
+        links.push({ name: period.name, route: ['/period', period.slug], kindLabel: 'Period' });
+      }
+    }
+    for (const polity of this.getPolities()) {
+      if (containsArticle(this.articlesForPolity(polity.slug))) {
+        links.push({ name: polity.name, route: ['/polity', polity.slug], kindLabel: polity.kind === 'empire' ? 'Empire' : 'Kingdom' });
+      }
+    }
+    for (const theme of this.getThemes()) {
+      if (containsArticle(this.articlesForTheme(theme.slug))) {
+        links.push({ name: theme.name, route: ['/theme', theme.slug], kindLabel: 'Theme' });
+      }
+    }
+    for (const person of this.getPersonalities()) {
+      if (containsArticle(this.articlesForPersonality(person.slug))) {
+        links.push({ name: person.name, route: ['/personality', person.slug], kindLabel: 'Personality' });
+      }
+    }
+    if (article.period === 'world-history') {
+      links.push({ name: this.locale.translate('World history'), route: ['/'], fragment: 'world-history', kindLabel: 'Period' });
+    }
+    const seen = new Set([article.slug]);
+    const guides: ArticleSectionLink[] = [];
+    let parentSlug = article.relatedTo;
+    while (parentSlug && !seen.has(parentSlug)) {
+      seen.add(parentSlug);
+      const parent = this.articlesService.getBySlug(parentSlug);
+      if (!parent) break;
+      guides.unshift({ name: parent.title, route: articleRoute(parent), kindLabel: 'Article' });
+      parentSlug = parent.relatedTo;
+    }
+    return [...links, ...guides];
   }
 
   /**

@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-29T17:34:58.444Z",
+  "fetchedAt": "2026-10-30T05:53:04.423Z",
   "reactions": {
     "ashoka-bairat-edict": {
       "thumbsUp": 0,
@@ -57,6 +57,10 @@
       "thumbsUp": 0,
       "thumbsDown": 0
     },
+    "ashoka-visvakarma-cave-inscription": {
+      "thumbsUp": 0,
+      "thumbsDown": 0
+    },
     "attirampakkam-acheulean-stone-tools": {
       "thumbsUp": 0,
       "thumbsDown": 0
@@ -66,6 +70,10 @@
       "thumbsDown": 0
     },
     "bindusara-name-legend-poison-drop": {
+      "thumbsUp": 1,
+      "thumbsDown": 0
+    },
+    "firuz-shah-tughlaq-brahmin-persecution": {
       "thumbsUp": 1,
       "thumbsDown": 0
     },

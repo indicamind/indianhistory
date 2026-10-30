@@ -45,12 +45,19 @@
       @if (article()!.eventDate) {
         <p class="event-date">{{ locale.translate(article()!.eventDate!) }}</p>
       }
-      @if (article()!.tags.length) {
-        <ul class="tags">
-          @for (tag of article()!.tags; track tag) {
-            <li>{{ tag }}</li>
-          }
-        </ul>
+      @if (sectionLinks().length) {
+        <nav class="article-sections" [attr.aria-label]="locale.translate('Explore related topics')">
+          <ul>
+            @for (section of sectionLinks(); track section.route.join('/') + (section.fragment || '')) {
+              <li>
+                <a [routerLink]="section.route" [fragment]="section.fragment" [queryParams]="{lang: locale.language}">
+                  <span class="section-kind">{{ locale.translate(section.kindLabel) }}:</span>
+                  <span>{{ section.name }}</span>
+                </a>
+              </li>
+            }
+          </ul>
+        </nav>
       }
       @if (!article()!.relatedTo) {
         <p class="article-intro">{{ article()!.excerpt }}</p>

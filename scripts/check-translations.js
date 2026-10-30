@@ -33,7 +33,7 @@ const DYNAMIC_COPY = [
   'English preview · Translations in progress',
   'English draft · Awaiting approval',
   'Translated by AI.',
-  'Article navigation', 'Next article', 'Previous article',
+  'Article navigation', 'Next article', 'Previous article', 'Explore related topics',
 ];
 const STRINGS = new Set();
 

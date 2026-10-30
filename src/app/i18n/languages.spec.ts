@@ -1,10 +1,10 @@
 import { LANGUAGES, languageFromUrl } from './languages';
 
 describe('Languages and i18n Helpers', () => {
-  it('should define all 26 supported languages', () => {
-    expect(LANGUAGES.length).toBe(26);
+  it('should define all 27 supported languages', () => {
+    expect(LANGUAGES.length).toBe(27);
     const codes = LANGUAGES.map(l => l.code);
-    const expected = ['en', 'hi', 'bn', 'ta', 'te', 'mr', 'ur', 'gu', 'kn', 'ml', 'pa', 'sa', 'es', 'fr', 'ar', 'zh', 'pt', 'or', 'si', 'ja', 'ne', 'id', 'th', 'de', 'fa', 'ru'];
+    const expected = ['en', 'hi', 'bn', 'ta', 'te', 'mr', 'ur', 'gu', 'kn', 'ml', 'pa', 'sa', 'es', 'fr', 'ar', 'zh', 'pt', 'or', 'si', 'ja', 'ne', 'id', 'th', 'de', 'fa', 'ru', 'ks'];
     for (const code of expected) {
       expect(codes).toContain(code);
     }
@@ -19,6 +19,9 @@ describe('Languages and i18n Helpers', () => {
 
     const persian = LANGUAGES.find(l => l.code === 'fa');
     expect(persian?.direction).toBe('rtl');
+
+    const kashmiri = LANGUAGES.find(l => l.code === 'ks');
+    expect(kashmiri?.direction).toBe('rtl');
 
     const english = LANGUAGES.find(l => l.code === 'en');
     expect(english?.direction).toBe('ltr');

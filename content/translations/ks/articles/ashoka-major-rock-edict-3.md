@@ -1,0 +1,58 @@
+---
+title: 'ترٛیٚیِم بَڈٕ کٔنؠ فرمان: ہر پانچ سال بعد تعلیم کے دورے'
+slug: ashoka-major-rock-edict-3
+excerpt: >-
+  افسران کو حکم ہے کہ وہ ہر پانچ سال بعد سفر کر کے والدین، دوسرے لوگوں اور
+  جانداروں کے ساتھ برتاؤ کی تعلیم دیں۔
+publishedAt: 2026-10-16T00:00:00.000Z
+updatedAt: 2026-10-16T00:00:00.000Z
+period: mauryan
+polity: maurya
+personalities:
+  - ashoka
+relatedTo: ashoka-edicts
+tags:
+  - اشوک
+  - فرمان
+  - بَڈٕ کٔنؠ فرمان
+themes: []
+books:
+  - 0349122385
+  - 935699322X
+  - 0143330802
+  - B0BPDX1MXS
+sourceHash: 87f344eb09c84c70b4e23433988c7ccfea4a5ac56d15465c1687d8482c8f5cfa
+---
+
+## اَتھ فرمانَس متعلق
+
+اس حکم میں افسروں کے تین طبقوں کا نام لے کر ان کے باقاعدہ انتظامی دوروں کو اخلاقی تعلیم سے جوڑا گیا ہے۔ یہ خاندانی ذمہ داریوں، سخاوت، ضبط اور معتدل خرچ کو عوامی پالیسی کا حصہ بناتا ہے۔
+
+## اصل رسم الخط
+
+<figure class="article-figure inscription-plate">
+  <img src="/assets/media/images/ashoka-plate-1405540893.jpg" alt="ہلٹش کی 1925 کی اشاعت میں گرنار کے براہمی کتبے کا عکس" loading="lazy" decoding="async" />
+  <figcaption>گرنار کے کتبے کا عکس۔ ای ہلٹش، <em>Inscriptions of Asoka</em> (1925)، عوامی ملکیت۔</figcaption>
+</figure>
+
+## رومن حرفَن مَنٛز نقل
+
+ذیل کا متن ہلٹش کی اشاعت میں گرنار کے نسخے کی پیروی کرتا ہے۔ مربع قوسین بحال شدہ یا غیر یقینی حروف دکھاتے ہیں؛ نقطے خراب یا گم شدہ متن کی نشان دہی کرتے ہیں۔ دوسری دستیاب نقلیں مختلف ہو سکتی ہیں۔
+
+<p class="inscription-transliteration" lang="pra-Latn">(A) 1 Devānaṃpiyo Piyadasi r[ā]jā evam āha (B) dbādasa-vāsābhisitena mayā idaṃ āñ[a]pitaṃ (C) 2 sarvata vijite mama yutā ca rājūke ca prādesike ca paṃcasu paṃcasu vāsesu anusaṃ3y[ā]na[ṃ n]iyātu etāyeva athāya imāya dhaṃmānusasṭiya yathā añā 4 ya pi kaṃmāy[a] (D) [s]ādhu matari ca pitari ca susrūsā mitra-saṃstuta-ñātīnaṃ bāmhaṇa 5 samaṇānaṃ sādh[u d]ānaṃ prāṇānaṁ sādhu anāraṃbho apa-vyayatā apa-bhāḍatā sādhu (E) 6 parisā pi yute āñapayisati gaṇanāyaṃ hetuto ca vyaṃjanato ca</p>
+
+## کٲشُر ترجَمہٕ
+
+یہ اردو ترجمہ ذیل میں درج اشاعت کے انگریزی ترجمے پر مبنی ہے۔ خراب یا غیر یقینی حصے اسی تاریخی اشاعت کے مطابق دکھائے گئے ہیں۔
+
+> (A) بادشاہ دیوانامپریہ پریادرشی یوں کہتا ہے۔
+> (B) میری تاج پوشی کے بارہ سال بعد میں نے یہ حکم دیا۔
+> (C) میرے تمام علاقوں میں یکت، راجوک اور پرادیشک ہر پانچ سال بعد اپنے پورے دائرۂ اختیار کا دورہ کریں، تاکہ دوسرے کاموں کے ساتھ اخلاقیات کی درج ذیل تعلیم بھی دیں۔
+> (D) ‘ماں باپ کی فرمانبرداری نیکی ہے۔ دوستوں، جاننے والوں، رشتے داروں، برہمنوں اور شرمنوں کے ساتھ فیاضی نیکی ہے۔ جانوروں کو مارنے سے بچنا نیکی ہے۔ خرچ اور ملکیت میں اعتدال نیکی ہے۔’
+> (E) مہاماتروں کی مجلس یکتوں کو یہ اصول وجوہ کے ساتھ اور لفظ بہ لفظ درج کرنے کا بھی حکم دے۔
+
+## مآخذ
+
+- E. Hultzsch, [*Inscriptions of Asoka* (1925)](https://archive.org/details/InscriptionsOfAsoka.NewEditionByE.Hultzsch), *Corpus Inscriptionum Indicarum*, جلد اول.
+
+- [ببلیوتھیکا پولی گلوٹا کا نسخہ](https://www2.hf.uio.no/polyglotta/index.php?mid=0&page=fulltext&vid=362&view=fulltext), اوسلو یونیورسٹی (پراکرت کی رومن نقل، انگریزی ترجمہ اور کتبوں کے عکس).

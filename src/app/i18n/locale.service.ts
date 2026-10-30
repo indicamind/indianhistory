@@ -49,6 +49,7 @@ export class LocaleService {
       de: () => import('@angular/common/locales/de'),
       fa: () => import('@angular/common/locales/fa'),
       ru: () => import('@angular/common/locales/ru'),
+      ks: () => import('@angular/common/locales/ks'),
     };
     registerLocaleData((await localeData[this.language]()).default);
     try {

@@ -1,0 +1,57 @@
+---
+title: 'دۆیِم بَڈٕ کٔنؠ فرمان: انسانوں اور جانوروں کی دیکھ بھال'
+slug: ashoka-major-rock-edict-2
+excerpt: >-
+  بادشاہ انسانوں اور جانوروں کے لیے علاج، مفید پودوں، کنوؤں اور سڑک کنارے درختوں
+  کا ذکر کرتا ہے۔
+publishedAt: 2026-10-16T00:00:00.000Z
+updatedAt: 2026-10-16T00:00:00.000Z
+period: mauryan
+polity: maurya
+personalities:
+  - ashoka
+relatedTo: ashoka-edicts
+tags:
+  - اشوک
+  - فرمان
+  - بَڈٕ کٔنؠ فرمان
+themes: []
+books:
+  - 0349122385
+  - 935699322X
+  - 0143330802
+  - B0BPDX1MXS
+sourceHash: c346415a46cce3920cce31d0c50765a80c8e9eedda2c2934cb847732dfbc3e00
+---
+
+## اَتھ فرمانَس متعلق
+
+یہ فرمان فلاح و بہبود کو اشوک کے علاقے اور ہمسایہ قوموں تک پھیلی پالیسی کے طور پر پیش کرتا ہے۔ جنوبی ریاستوں اور ایک یونانی بادشاہ کی فہرست اس پالیسی کے دعویٰ کردہ جغرافیائی دائرے کو بھی ظاہر کرتی ہے۔
+
+## اصل رسم الخط
+
+<figure class="article-figure inscription-plate">
+  <img src="/assets/media/images/ashoka-plate-1405441576.jpg" alt="ہلٹش کی 1925 کی اشاعت میں گرنار کے براہمی کتبے کا عکس" loading="lazy" decoding="async" />
+  <figcaption>گرنار کے کتبے کا عکس۔ ای ہلٹش، <em>Inscriptions of Asoka</em> (1925)، عوامی ملکیت۔</figcaption>
+</figure>
+
+## رومن حرفَن مَنٛز نقل
+
+ذیل کا متن ہلٹش کی اشاعت میں گرنار کے نسخے کی پیروی کرتا ہے۔ مربع قوسین بحال شدہ یا غیر یقینی حروف دکھاتے ہیں؛ نقطے خراب یا گم شدہ متن کی نشان دہی کرتے ہیں۔ دوسری دستیاب نقلیں مختلف ہو سکتی ہیں۔
+
+<p class="inscription-transliteration" lang="pra-Latn">(A) 1 sarvata vijitamhi Devānaṃpriyasa Piyadasino rāño 2 evamapi pracaṃtesu yathā Coḍa Pāḍā Satiyaputo Ketalaputo ā Taṃba3paṃṇī Aṃtiyako Yona-rājā ye vā pi tasa Aṃtiy[a]kas[a] sāmīp[aṃ] 4 rājāno sarvatra Devānaṃpriyasa Priyadasino rāño dve cikīcha katā 5 manusa-cīkichā ca pasu cikīchā ca (B) osuḍhāni ca yāni m[a]nusopagān[i] ca 6 paso[pa]gāni ca yata yata nāsti sarvatrā hārāpitāni ca ropāpitāni ca (C) 7 mūlāni ca phalāni ca yata yatra nāsti sarvata hārāpitāni ca rop[ā]pitāni ca (D) 8 paṃthesū kūpā ca khānāpitā vrachā ca ropāpit[ā] paribhogāya pasumanusānaṃ</p>
+
+## کٲشُر ترجَمہٕ
+
+یہ اردو ترجمہ ذیل میں درج اشاعت کے انگریزی ترجمے پر مبنی ہے۔ خراب یا غیر یقینی حصے اسی تاریخی اشاعت کے مطابق دکھائے گئے ہیں۔
+
+> (A) دیوانامپریہ پریادرشی کے تمام علاقوں میں، اور اس کے سرحدی پڑوسیوں، مثلاً چولوں، پانڈیوں، ستی پتر، کیتل پتر، حتیٰ کہ تامراپرنی، یونانی بادشاہ انتیاک اور اس کے ہمسایہ بادشاہوں کے ہاں بھی، بادشاہ دیوانامپریہ پریادرشی نے ہر جگہ دو قسم کے علاج کا بندوبست کیا: انسانوں کا علاج اور مویشیوں کا علاج۔
+> (B) جہاں انسانوں اور مویشیوں کے لیے مفید جڑی بوٹیاں نہیں تھیں، وہاں انہیں منگوا کر لگوایا گیا۔
+> (C) جہاں جڑیں اور پھل نہیں تھے، وہاں انہیں بھی منگوا کر لگوایا گیا۔
+> (D) مویشیوں اور انسانوں کے استعمال کے لیے سڑکوں پر کنویں کھدوائے اور درخت لگوائے گئے۔
+
+## مآخذ
+
+- E. Hultzsch, [*Inscriptions of Asoka* (1925)](https://archive.org/details/InscriptionsOfAsoka.NewEditionByE.Hultzsch), *Corpus Inscriptionum Indicarum*, جلد اول.
+
+- [ببلیوتھیکا پولی گلوٹا کا نسخہ](https://www2.hf.uio.no/polyglotta/index.php?mid=0&page=fulltext&vid=362&view=fulltext), اوسلو یونیورسٹی (پراکرت کی رومن نقل، انگریزی ترجمہ اور کتبوں کے عکس).

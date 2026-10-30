@@ -10,6 +10,7 @@ const OG_LOCALES = {
   ur: 'ur_PK', gu: 'gu_IN', kn: 'kn_IN', ml: 'ml_IN', pa: 'pa_IN',
   sa: 'sa_IN',
   or: 'or_IN', ne: 'ne_NP', si: 'si_LK',
+  ks: 'ks_IN',
   es: 'es_ES', fr: 'fr_FR', de: 'de_DE', pt: 'pt_BR', ru: 'ru_RU',
   ar: 'ar_AR', fa: 'fa_IR',
   zh: 'zh_CN', ja: 'ja_JP', th: 'th_TH', id: 'id_ID',
@@ -76,7 +77,7 @@ function renderHtml(template, page) {
   if (page.updatedAt) meta('property', 'article:modified_time', new Date(page.updatedAt).toISOString());
   const title = page.type === 'article' ? `${page.title} | ${page.siteName || SITE_NAME}` : page.title;
   return clean.replace(/<title>[\s\S]*?<\/title>/i, `<title>${escapeHtml(title)}</title>`)
-    .replace(/<html\b([^>]*)>/i, (_, attributes) => `<html${attributes.replace(/\s(?:lang|dir)="[^"]*"/gi, '')} lang="${page.language || 'en'}" dir="${['ar', 'ur', 'fa'].includes(page.language) ? 'rtl' : 'ltr'}">`)
+    .replace(/<html\b([^>]*)>/i, (_, attributes) => `<html${attributes.replace(/\s(?:lang|dir)="[^"]*"/gi, '')} lang="${page.language || 'en'}" dir="${['ar', 'ur', 'fa', 'ks'].includes(page.language) ? 'rtl' : 'ltr'}">`)
     .replace('</head>', `${START}\n${tags.join('\n')}\n${END}\n</head>`);
 }
 

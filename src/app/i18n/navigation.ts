@@ -40,4 +40,5 @@ export const NAVIGATION: Record<LanguageCode, NavigationLabels> = {
   de: { language: 'Sprache', timeline: 'Zeitleiste', themes: 'Themen', empires: 'Reiche', kingdoms: 'Königreiche', personalities: 'Persönlichkeiten', worldHistory: 'Weltgeschichte', blogs: 'Blogs', books: 'Bücher', search: 'Suche' },
   fa: { language: 'زبان', timeline: 'خط زمانی', themes: 'موضوعات', empires: 'امپراتوری‌ها', kingdoms: 'پادشاهی‌ها', personalities: 'شخصیت‌ها', worldHistory: 'تاریخ جهان', blogs: 'وبلاگ‌ها', books: 'کتاب‌ها', search: 'جستجو' },
   ru: { language: 'Язык', timeline: 'Хронология', themes: 'Темы', empires: 'Империи', kingdoms: 'Королевства', personalities: 'Личности', worldHistory: 'Всемирная история', blogs: 'Блоги', books: 'Книги', search: 'Поиск' },
+  ks: { language: 'زَبان', timeline: 'دورَن ہٕنٛز ترتیب', themes: 'موٗضوٗع', empires: 'سلطنت', kingdoms: 'رِیاست', personalities: 'شَخصِیات', worldHistory: 'عالمی توٲریخ', blogs: 'بلاگز', books: 'کِتابہِ', search: 'تلاش' },
 };

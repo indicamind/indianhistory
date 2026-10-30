@@ -67,7 +67,7 @@ describe('Periods Data and Helpers', () => {
       expect(polity.range).toBeDefined();
       expect(polity.shortDescription).toBeDefined();
       expect(polity.description).toBeDefined();
-      expect(['empire', 'regional-kingdom']).toContain(polity.kind);
+      expect(['empire', 'regional-kingdom', 'dynasty']).toContain(polity.kind);
     }
   });
 

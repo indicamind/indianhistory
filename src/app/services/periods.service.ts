@@ -23,7 +23,7 @@ import {
 export interface ArticleSectionLink {
   name: string;
   route: string[];
-  kindLabel: 'Period' | 'Empire' | 'Kingdom' | 'Theme' | 'Personality' | 'Article';
+  kindLabel: 'Period' | 'Empire' | 'Kingdom' | 'Dynasty' | 'Theme' | 'Personality' | 'Article';
   fragment?: string;
 }
 
@@ -140,7 +140,7 @@ export class PeriodsService {
 
   /** Major empires (pan-subcontinental or imperial scale) */
   getEmpires(): Polity[] {
-    return this.localizedPolities.filter((p) => p.kind === 'empire');
+    return this.localizedPolities.filter((p) => p.kind === 'empire' && !p.parent);
   }
 
   /** Regional kingdoms, sultanates, and successor states */
@@ -194,7 +194,7 @@ export class PeriodsService {
     }
     for (const polity of this.getPolities()) {
       if (containsArticle(this.articlesForPolity(polity.slug))) {
-        links.push({ name: polity.name, route: ['/polity', polity.slug], kindLabel: polity.kind === 'empire' ? 'Empire' : 'Kingdom' });
+        links.push({ name: polity.name, route: ['/polity', polity.slug], kindLabel: polity.kind === 'dynasty' ? 'Dynasty' : polity.kind === 'empire' ? 'Empire' : 'Kingdom' });
       }
     }
     for (const theme of this.getThemes()) {
@@ -379,7 +379,7 @@ export class PeriodsService {
           excerpt: pol.shortDescription || (pol.description ? pol.description.slice(0, 160) : ''),
           routerLink: ['/polity', pol.slug],
           queryParams: { fromSearch: true },
-          kindLabel: this.locale.translate(isEmpire ? 'Empire' : 'Kingdom'),
+          kindLabel: this.locale.translate(pol.kind === 'dynasty' ? 'Dynasty' : isEmpire ? 'Empire' : 'Kingdom'),
         });
       }
     }

@@ -50,8 +50,8 @@
           <ul>
             @for (section of sectionLinks(); track section.route.join('/') + (section.fragment || '')) {
               <li>
-                <a [routerLink]="section.route" [fragment]="section.fragment" [queryParams]="{lang: locale.language}">
-                  <span class="section-kind">{{ locale.translate(section.kindLabel) }}:</span>
+                <a [routerLink]="section.route" [fragment]="section.fragment" [queryParams]="{lang: locale.language}"
+                  [attr.aria-label]="locale.translate(section.kindLabel) + ': ' + section.name">
                   <span>{{ section.name }}</span>
                 </a>
               </li>

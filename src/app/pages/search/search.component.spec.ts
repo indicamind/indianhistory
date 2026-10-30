@@ -26,11 +26,13 @@ describe('SearchComponent', () => {
       getThemes: () => [],
       getPersonalities: () => [],
       getEmpires: () => [{ slug: 'maurya' }],
+      getPolities: () => [{ slug: 'tughlaq-dynasty', kind: 'dynasty' }],
       getRegionalKingdoms: () => [{ slug: 'kakatiya' }],
       isVisiblePolity: () => true,
       getPolityBySlug: (slug: string) => {
         if (slug === 'maurya') return { kind: 'empire' };
         if (slug === 'kakatiya') return { kind: 'regional-kingdom' };
+        if (slug === 'tughlaq-dynasty') return { kind: 'dynasty' };
         return null;
       },
     };
@@ -159,6 +161,11 @@ describe('SearchComponent', () => {
     component.activeFilter.set('kingdom');
     expect((component as any).matchesFilter(kingdomResult)).toBeTruthy();
     expect((component as any).matchesFilter(empireResult)).toBeFalsy();
+
+    component.activeFilter.set('dynasty');
+    expect((component as any).matchesFilter({ ...empireResult, slug: 'tughlaq-dynasty', kindLabel: 'Dynasty' })).toBeTruthy();
+    expect((component as any).matchesFilter(empireResult)).toBeFalsy();
+    expect((component as any).matchesFilter(kingdomResult)).toBeFalsy();
   });
 
   it('should normalize invalid filter values to "all"', () => {

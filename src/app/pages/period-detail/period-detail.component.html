@@ -1,5 +1,5 @@
 <p class="back">
-  <a [routerLink]="backRoute()" [fragment]="backFragment() || undefined">{{ backText() }}</a>
+  <a [routerLink]="backRoute()" [fragment]="backFragment() || undefined" [queryParams]="{lang: locale.language}">{{ backText() }}</a>
 </p>
 
 @if (loading()) {
@@ -8,7 +8,7 @@
   <div class="card empty">
     <h1>Period not found</h1>
     <p>The period, polity, theme, or personality you’re looking for doesn’t exist (yet). Try the overview on the home page.</p>
-    <a [routerLink]="backRoute()" [fragment]="backFragment() || undefined" class="btn btn-primary">{{ backText() }}</a>
+    <a [routerLink]="backRoute()" [fragment]="backFragment() || undefined" [queryParams]="{lang: locale.language}" class="btn btn-primary">{{ backText() }}</a>
   </div>
 } @else if (period() || polity() || theme() || personality()) {
   @let isPol = isPolity();
@@ -18,21 +18,21 @@
 
   <header class="period-header card">
     <p class="eyebrow">
-      {{ locale.translate(isPol ? (children().length ? 'Kingdoms' : polity()!.kind === 'empire' ? 'Empire' : 'Kingdom') : isTh ? 'Theme' : isPerson ? 'Personality' : 'Period') }}
+      {{ locale.translate(isPol ? (polity()!.kind === 'empire' ? 'Empire' : polity()!.kind === 'dynasty' ? 'Dynasty' : children().length ? 'Kingdoms' : 'Kingdom') : isTh ? 'Theme' : isPerson ? 'Personality' : 'Period') }}
     </p>
     <h1>{{ ent.name }}</h1>
     <p class="period-range">{{ ent.range }}</p>
-    <p class="period-count">{{ locale.format(isPol && children().length ? '{count} articles across these kingdoms' : !isPol && !isTh && !isPerson && visibleChildren().length ? '{count} articles across this {kind} and its sub-periods' : '{count} articles across this {kind}', { count: articles().length, kind: kindLabel() }) }}</p>
+    <p class="period-count">{{ locale.format(isPol && children().length ? (hasDynasties() ? '{count} articles across these dynasties' : '{count} articles across these kingdoms') : !isPol && !isTh && !isPerson && visibleChildren().length ? '{count} articles across this {kind} and its sub-periods' : '{count} articles across this {kind}', { count: articles().length, kind: kindLabel() }) }}</p>
 
     <p class="period-lede">{{ ent.description }}</p>
   </header>
 
   @if (!isTh && !isPerson && visibleChildren().length) {
     <section class="sub-periods">
-      <h2>{{ locale.translate(isPol ? 'Explore kingdoms' : 'Explore sub-periods & topics') }}</h2>
+      <h2>{{ locale.translate(isPol ? (hasDynasties() ? 'Explore dynasties' : 'Explore kingdoms') : 'Explore sub-periods & topics') }}</h2>
       <div class="sub-grid">
         @for (child of visibleChildren(); track child.slug) {
-          <a class="card sub-card" [routerLink]="[isPol ? '/polity' : '/period', child.slug]">
+          <a class="card sub-card" [routerLink]="[isPol ? '/polity' : '/period', child.slug]" [queryParams]="{lang: locale.language}">
             <div class="sub-head">
               <h3>{{ child.name }}</h3>
               <span class="sub-range">{{ child.range }}</span>
@@ -64,7 +64,7 @@
           <article class="card article-item">
             <p class="meta">{{ article.publishedAt | date: 'mediumDate' }}</p>
             <h3>
-              <a [routerLink]="articleRoute(article)" [queryParams]="isPol ? { fromPolity: ent.slug } : isTh ? { fromTheme: ent.slug } : isPerson ? { fromPersonality: ent.slug } : { fromPeriod: ent.slug }">{{ article.title }}</a>
+              <a [routerLink]="articleRoute(article)" [queryParams]="isPol ? { fromPolity: ent.slug, lang: locale.language } : isTh ? { fromTheme: ent.slug, lang: locale.language } : isPerson ? { fromPersonality: ent.slug, lang: locale.language } : { fromPeriod: ent.slug, lang: locale.language }">{{ article.title }}</a>
             </h3>
             <p class="excerpt">{{ article.excerpt }}</p>
             @if (article.tags.length) {
@@ -74,7 +74,7 @@
                 }
               </ul>
             }
-            <a [routerLink]="articleRoute(article)" [queryParams]="isPol ? { fromPolity: ent.slug } : isTh ? { fromTheme: ent.slug } : isPerson ? { fromPersonality: ent.slug } : { fromPeriod: ent.slug }" class="read-more">Read full article →</a>
+            <a [routerLink]="articleRoute(article)" [queryParams]="isPol ? { fromPolity: ent.slug, lang: locale.language } : isTh ? { fromTheme: ent.slug, lang: locale.language } : isPerson ? { fromPersonality: ent.slug, lang: locale.language } : { fromPeriod: ent.slug, lang: locale.language }" class="read-more">Read full article →</a>
           </article>
         }
       </div>

@@ -11,7 +11,7 @@ excerpt: >-
 publishedAt: '2026-10-29T00:00:00.000Z'
 updatedAt: '2026-10-29T00:00:00.000Z'
 period: medieval
-polity: delhi-sultanate
+polity: tughlaq-dynasty
 personalities:
   - firuz-shah-tughlaq
 themes:

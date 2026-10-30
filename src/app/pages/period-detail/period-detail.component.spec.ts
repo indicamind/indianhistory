@@ -92,6 +92,9 @@ describe('PeriodDetailComponent', () => {
     });
     expect(component.kindLabel()).toBe('kingdom');
 
+    component.polity.set({ ...component.polity()!, kind: 'dynasty' });
+    expect(component.kindLabel()).toBe('dynasty');
+
     // Theme
     component.isPolity.set(false);
     component.isTheme.set(true);

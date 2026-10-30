@@ -160,7 +160,7 @@ export const periods: Period[] = [
   }
 ];
 
-export type PolityKind = 'empire' | 'regional-kingdom';
+export type PolityKind = 'empire' | 'regional-kingdom' | 'dynasty';
 
 export interface Theme {
   slug: string;
@@ -399,6 +399,56 @@ export const polities: Polity[] = [
     description: 'Including the Mamluk (Slave), Khilji, Tughlaq, Sayyid, and Lodi dynasties. The period saw the introduction of new administrative systems, Persian culture, Indo-Islamic architecture (Qutub Minar, Alai Darwaza), and the beginning of the Bhakti movement in response to social changes.',
     kind: 'empire',
     period: 'medieval'
+  },
+  {
+    slug: 'mamluk-dynasty',
+    name: 'Mamluk (Slave) Dynasty',
+    range: '1206 – 1290 CE',
+    shortDescription: 'Delhi’s first sultanate dynasty, from Aibak to Balban and his successors.',
+    description: 'Mamluk rulers established the Delhi Sultanate. Explore Aibak, Iltutmish, Razia, Balban, and the dynasty’s final years.',
+    kind: 'dynasty',
+    period: 'medieval',
+    parent: 'delhi-sultanate'
+  },
+  {
+    slug: 'khalji-dynasty',
+    name: 'Khalji Dynasty',
+    range: '1290 – 1320 CE',
+    shortDescription: 'Jalaluddin and Alauddin Khalji’s dynasty of expansion and military campaigns.',
+    description: 'Explore the Khalji rulers, Alauddin’s campaigns and administrative measures, and the dynasty’s fall in 1320.',
+    kind: 'dynasty',
+    period: 'medieval',
+    parent: 'delhi-sultanate'
+  },
+  {
+    slug: 'tughlaq-dynasty',
+    name: 'Tughlaq Dynasty',
+    range: '1320 – 1414 CE',
+    shortDescription: 'The dynasty of Ghiyasuddin, Muhammad bin Tughlaq, and Firuz Shah.',
+    description: 'Explore Tughlaq rule, administrative experiments, Firuz Shah’s building projects and religious policies, and the Sultanate’s fragmentation.',
+    kind: 'dynasty',
+    period: 'medieval',
+    parent: 'delhi-sultanate'
+  },
+  {
+    slug: 'sayyid-dynasty',
+    name: 'Sayyid Dynasty',
+    range: '1414 – 1451 CE',
+    shortDescription: 'Khizr Khan’s dynasty in Delhi after Timur’s invasion.',
+    description: 'Explore the Sayyid rulers and their struggle to maintain authority in a reduced Delhi Sultanate from 1414 to 1451.',
+    kind: 'dynasty',
+    period: 'medieval',
+    parent: 'delhi-sultanate'
+  },
+  {
+    slug: 'lodi-dynasty',
+    name: 'Lodi Dynasty',
+    range: '1451 – 1526 CE',
+    shortDescription: 'The Afghan dynasty that ruled Delhi before Babur’s victory.',
+    description: 'Explore Bahlul, Sikandar, and Ibrahim Lodi, ending with the First Battle of Panipat in 1526.',
+    kind: 'dynasty',
+    period: 'medieval',
+    parent: 'delhi-sultanate'
   },
   {
     slug: 'vijayanagara',

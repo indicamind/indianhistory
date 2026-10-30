@@ -13,7 +13,7 @@ const VISIBLE_FIELDS = new Set(['name', 'range', 'shortDescription', 'descriptio
 const DYNAMIC_COPY = [
   'Saving…', 'Vote removed.',
   "Article feedback", "Thumbs up", "Thumbs down", "Thanks for your feedback.", "Could not save your vote. Please try again.",
-  'Explore kingdoms', 'Explore sub-periods & topics', '{count} articles across these kingdoms',
+  'Explore kingdoms', 'Explore dynasties', 'Dynasty', 'Dynasties', 'Explore sub-periods & topics', '{count} articles across these kingdoms', '{count} articles across these dynasties',
   'All', 'Articles', 'Periods', 'Article', 'Period', 'Empire', 'Kingdom', 'Theme', 'Personality', 'Book',
   '← Back to', '← Back to home', '← Back to Empires', '← Back to Kingdoms', '← Back to Themes',
   '← Back to Personalities', '← Back to search', 'Book by', 'by', 'pages', 'article', 'articles',

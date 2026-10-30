@@ -29,6 +29,7 @@ export class PeriodDetailComponent implements OnInit {
   readonly personality = signal<Personality | null>(null);
   readonly parent = signal<Period | null>(null);
   readonly children = signal<(Period | Polity)[]>([]);
+  readonly hasDynasties = computed(() => this.children().some(child => 'kind' in child && child.kind === 'dynasty'));
   readonly visibleChildren = computed(() => this.children().filter(child => this.isPolity()
     ? this.periodsService.isVisiblePolity(child.slug) : this.periodsService.isVisiblePeriod(child.slug)));
   readonly articles = signal<ArticleSummary[]>([]);
@@ -55,7 +56,7 @@ export class PeriodDetailComponent implements OnInit {
 
   kindLabel(): string {
     const source = this.isPolity()
-      ? (this.polity()?.kind === 'empire' ? 'Empire' : 'Kingdom')
+      ? (this.polity()?.kind === 'dynasty' ? 'Dynasty' : this.polity()?.kind === 'empire' ? 'Empire' : 'Kingdom')
       : this.isTheme() ? 'Theme' : this.isPersonality() ? 'Personality' : 'Period';
     const label = this.locale.translate(source);
     return this.locale.language === 'en' ? label.toLowerCase() : label;

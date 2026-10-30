@@ -137,6 +137,44 @@ describe('PeriodsService', () => {
     expect(service.getPolities().some(item => item.slug === 'mewar')).toBeTruthy();
   });
 
+  it('groups the five Delhi dynasties beneath the Sultanate without homepage duplicates', () => {
+    const dynasties = service.getPolityChildren('delhi-sultanate');
+    expect(dynasties.map(dynasty => dynasty.slug)).toEqual([
+      'mamluk-dynasty', 'khalji-dynasty', 'tughlaq-dynasty', 'sayyid-dynasty', 'lodi-dynasty',
+    ]);
+    expect(dynasties.every(dynasty => dynasty.kind === 'dynasty')).toBeTruthy();
+    expect(service.getPolityParent('tughlaq-dynasty')?.slug).toBe('delhi-sultanate');
+    expect(service.getEmpires().some(item => item.slug === 'delhi-sultanate')).toBeTruthy();
+    expect(service.getEmpires().some(item => item.parent)).toBeFalsy();
+    expect(service.getRegionalKingdoms().some(item => item.kind === 'dynasty')).toBeFalsy();
+  });
+
+  it('retains Tughlaq articles in the Sultanate and links both hierarchy levels', async () => {
+    const article = {
+      slug: 'firuz-story', period: 'medieval', polity: 'tughlaq-dynasty',
+      themes: [], personalities: ['firuz-shah-tughlaq'], tags: [],
+    } as any;
+    articles = [article];
+    expect((await service.getArticlesForPolity('tughlaq-dynasty')).map(item => item.slug)).toEqual(['firuz-story']);
+    expect((await service.getArticlesForPolity('delhi-sultanate')).map(item => item.slug)).toEqual(['firuz-story']);
+    expect(service.getSectionsForArticle(article).map(link => link.route.join('/'))).toEqual([
+      '/period/medieval', '/polity/delhi-sultanate', '/polity/tughlaq-dynasty', '/personality/firuz-shah-tughlaq',
+    ]);
+    expect(service.getSectionsForArticle(article).find(link => link.route[1] === 'tughlaq-dynasty')?.kindLabel).toBe('Dynasty');
+  });
+
+  it('hides empty Delhi dynasties in public mode and reveals them in dev mode', async () => {
+    articles = [{ slug: 'firuz-story', polity: 'tughlaq-dynasty', period: 'medieval', themes: [], personalities: [], tags: [] }];
+    expect(service.isVisiblePolity('tughlaq-dynasty')).toBeTruthy();
+    expect(service.isVisiblePolity('delhi-sultanate')).toBeTruthy();
+    expect(service.isVisiblePolity('mamluk-dynasty')).toBeFalsy();
+    expect((await service.searchAll('Mamluk')).some(result => result.slug === 'mamluk-dynasty')).toBeFalsy();
+    expect((await service.searchAll('Tughlaq')).find(result => result.slug === 'tughlaq-dynasty')?.kindLabel).toBe('Dynasty');
+    isDevMode.set(true);
+    expect(service.getPolityChildren('delhi-sultanate').every(item => service.isVisiblePolity(item.slug))).toBeTruthy();
+    expect((await service.searchAll('Mamluk')).some(result => result.slug === 'mamluk-dynasty')).toBeTruthy();
+  });
+
   it('aggregates descendant articles in the Rajputs list while keeping sibling kingdoms separate', async () => {
     articles = [
       { slug: 'mewar-story', polity: 'mewar', tags: [] },

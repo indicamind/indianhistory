@@ -12,7 +12,7 @@ import { DevModeService } from '../../services/dev-mode.service';
 
 const SEARCH_DEBOUNCE_MS = 300;
 
-type SearchFilter = 'all' | 'article' | 'book' | 'period' | 'theme' | 'personality' | 'empire' | 'kingdom';
+type SearchFilter = 'all' | 'article' | 'book' | 'period' | 'theme' | 'personality' | 'empire' | 'kingdom' | 'dynasty';
 
 interface SearchFilterOption {
   label: string;
@@ -28,6 +28,7 @@ const FILTER_OPTIONS: SearchFilterOption[] = [
   { label: 'Personalities', value: 'personality' },
   { label: 'Empires', value: 'empire' },
   { label: 'Kingdoms', value: 'kingdom' },
+  { label: 'Dynasties', value: 'dynasty' },
 ];
 
 @Component({
@@ -150,6 +151,7 @@ export class SearchComponent implements OnInit {
     if (value === 'theme') return this.periods.getThemes().some(theme => this.periods.isVisibleTheme(theme.slug));
     if (value === 'personality') return this.periods.getPersonalities().some(person => this.periods.isVisiblePersonality(person.slug));
     if (value === 'empire') return this.periods.getEmpires().some(polity => this.periods.isVisiblePolity(polity.slug));
+    if (value === 'dynasty') return this.periods.getPolities().some(polity => polity.kind === 'dynasty' && this.periods.isVisiblePolity(polity.slug));
     return this.periods.getRegionalKingdoms().some(polity => this.periods.isVisiblePolity(polity.slug));
   }
 
@@ -158,6 +160,7 @@ export class SearchComponent implements OnInit {
     if (filter === 'all') return true;
     if (filter === 'empire') return result.kind === 'polity' && this.periods.getPolityBySlug(result.slug)?.kind === 'empire';
     if (filter === 'kingdom') return result.kind === 'polity' && this.periods.getPolityBySlug(result.slug)?.kind === 'regional-kingdom';
+    if (filter === 'dynasty') return result.kind === 'polity' && this.periods.getPolityBySlug(result.slug)?.kind === 'dynasty';
     return result.kind === filter;
   }
 }

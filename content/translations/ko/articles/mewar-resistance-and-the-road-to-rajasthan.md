@@ -1,0 +1,225 @@
+---
+title: "메와르의 저항: 영광과 희생, 그리고 생존을 위한 투쟁"
+slug: mewar-resistance-and-the-road-to-rajasthan
+excerpt: "패배한 술탄. 돌에 새겨진 승리. 참화 속에서 다시 일어선 왕국. 쿰바의 승리와 프라탑의 저항에서부터 마라타, 영국, 그리고 현대 라자스탄에 이르기까지—이것은 살아남기 위한 메와르의 비범한 투쟁의 서사다."
+publishedAt: 2026-10-24T00:00:00.000Z
+updatedAt: 2026-10-24T00:00:00.000Z
+period: medieval
+polity: mewar
+personalities: [rana-kumbha, rana-sanga, udai-singh-ii, maharana-pratap, jaimal, patta, amar-singh-i, raj-singh-i, akbar]
+tags:
+  - 메와르
+  - 라지푸트
+  - 치토르가르
+  - 쿰발가르
+  - 마하라나 프라탑
+  - 악바르
+themes: []
+books: ['8184822170', '9364111591', '9353450640']
+sourceHash: 01bcca619ee3dfcb480f3827b45be3ff311ec400f4c905e400af6d4a94060b29
+---
+
+<figure class="article-figure mewar-hero">
+  <picture>
+    <source srcset="assets/media/images/vijay-stambha-chittorgarh.webp" type="image/webp" />
+    <img src="/assets/media/images/vijay-stambha-chittorgarh.jpg" alt="맑고 푸른 하늘을 배경으로 올려다본 치토르가르의 정교하게 조각된 9층 석탑, 라나 쿰바의 승리의 탑 비자이 스탐바의 모습." width="1200" height="1800" loading="eager" fetchpriority="high" decoding="async" />
+  </picture>
+  <figcaption>
+    <strong>돌에 새겨진 승리.</strong> 라나 쿰바의 비자이 스탐바가 치토르가르의 돌계단 위로 우뚝 솟아 있다—메와르의 15세기 승리를 기념하는 영원한 기념비.
+    <span class="figure-credit">사진: Satyadev Hirani, 2017년 2월 27일 · 위키미디어 공용 · CC BY-SA 4.0. 웹용으로 크기 조정 및 재압축됨. 자르기 없음.</span>
+  </figcaption>
+</figure>
+
+**치토르는 함락되었다. 그러나 메와르는 다시 일어섰다.**
+
+비자이 스탐바(승리의 탑) 아래에 서서 위를 올려다보라. 정교하게 조각된 9층의 석조 건축물이 라자스탄의 하늘을 향해 치솟아 있다. 이것은 승리에 대한 라나 쿰바의 대답이었다. 전장의 함성을 넘어 자신의 영광스러운 기억을 영원히 전하기 위해 세운 기념비다. 술탄의 군대도 격파할 수 있었다. 한 왕국은 자신의 승리를 전사들보다 더 오래 살아남을 불멸의 형상으로 바꾸어 놓을 수 있었다.
+
+그러나 탑을 둘러싼 요새는 훨씬 더 가혹한 역사를 들려준다. 치토르는 공격받았고, 요새의 수호자들은 압도당했으며, 백성들은 끔찍한 폭력에 직면해야 했다. 메와르의 위대함은 눈부신 승리의 영광뿐만 아니라, 그러한 파멸적인 참화 속에서도 다시 일어서는 불굴의 용기에 있었다.
+
+수세기에 걸쳐 그 투쟁은 다양한 모습으로 전개되었다. 말와를 상대로 한 쿰바의 원정, 악바르에 맞선 자이말과 파타의 목숨을 건 방어전, 험준한 산악 지대에서 펼쳐진 마하라나 프라탑의 끈질긴 항전, 그리고 후대 통치자들의 고통스러운 협상에 이르기까지. 마라타 세력의 가혹한 요구와 영국의 패권은 왕국의 자유를 좁혀갔다. 독립 인도는 마침내 군주정을 '시민권'이라는 전혀 다른 정치적 이상으로 대체했다. **메와르의 역사는 살아남기 위한 기나긴 투쟁의 여정이며—생존 그 자체만으로도 비범한 용기가 필요했음을 일깨워주는 증거다.**
+
+## 저항을 가능하게 만든 대지
+
+메와르는 남부 라자스탄의 치토르와 우다이푸르 주변에 자리 잡고 있었다. 왕국의 통치 전통은 구힐라 왕조와 훗날 왕국을 이끈 시소디아 분파를 중심으로 발전했다. 치토르가르는 거대한 요새화된 수도였다. 요새 너머로는 아라발리산맥이 펼쳐져 있었다. 산봉우리와 고갯길, 험준한 산채들은 상처 입은 군대가 후퇴하여 전열을 가다듬고 다시 반격할 수 있는 든든한 은신처를 제공했다.
+
+그 성벽 뒤에 버티고 있던 힘은 왕실의 칼끝에서만 나온 것이 아니었다. 저수지는 정착지를 지탱했고, 농민들은 군대를 먹여 살렸으며, 상인과 장인, 마을 공동체와 토착 수령들은 국가가 온전히 작동하도록 지탱했다. 요새들은 신앙과 교역, 행정이 살아 숨 쉬는 중심지였다. 유네스코의 라자스탄 언덕 요새 군 보고서는 지형, 수자원, 도시, 궁정 문화가 맺고 있던 유기적 상호의존 관계를 잘 묘사한다. **군주가 요새 하나를 잃더라도, 그 뒤를 받쳐주는 대지와 백성이 하나로 뭉쳐 있다면 계속 싸워나갈 수 있었다.** <sup>[1]</sup>
+
+## 1303년: 치토르의 함락—그리고 다시 일어선 왕조
+
+**1303년**, 델리의 술탄 알라우딘 칼지는 라왈 라탄 싱의 치세에 치토르를 포위하여 함락시켰다. 이 요새는 팽창하는 제국의 군사력 앞에 무릎을 꿇었다. 치토르의 전략적 중요성은 델리의 팽창 야욕이 지나가는 길목 한가운데에 놓여 있었기 때문이다.
+
+알라우딘이 파드미니 왕비를 차지하기 위해 공격했다는 널리 알려진 이야기는 훨씬 후대의 문학적 전승에서 비롯된 것이다. 말릭 무함마드 자야시는 포위전이 벌어진 지 200년도 더 지난 **1540년**에 서사시 『파드마바트(Padmavat)』를 지었다.
+
+정복은 영구적인 점령보다 쉬운 법이었다. 14세기 동안 시소디아 분파의 **함미르 싱**은 치토르에서 토착 지배권을 회복했다. 델리에 빼앗겼던 요새로부터 메와르 권력의 새로운 시대가 다시 솟아올랐다. <sup>[3]</sup>
+
+## 쿰바의 승리: 격파된 술탄, 하늘 높이 솟은 승전비
+
+**1433년부터 1468년까지 통치한 라나 쿰바**의 치세에 메와르는 강력한 지역 패권국으로 부상했다. 그는 요새 방어에만 머무르지 않고 국경 너머로 투쟁을 확장할 수 있는 통치자였다. 그의 가장 강력한 적수 중 한 명은 만두를 근거지로 삼아 통치하던 **말와의 마흐무드 칼지 1세**였다.
+
+동일한 칼지라는 이름 때문에 역사가 혼동되기 쉽다. 쿰바에게 패배한 칼지 술탄은 한 세기 전 치토르를 함락시켰던 알라우딘과는 다른 인물이었다.
+
+| 통치자 | 메와르와의 관계 |
+| --- | --- |
+| 델리의 알라우딘 칼지 | 1303년에 치토르를 함락시킴. |
+| 말와의 마흐무드 칼지 1세 | 15세기에 라나 쿰바와 싸웠으며 유명한 패배를 당함. |
+
+**사랑푸르**와 관련된 쿰바의 유명한 승리는 **통상 1437년**으로 비정된다. 메와르의 역사 전승은 마흐무드가 포로로 잡혔다가 훗날 석방된 극적인 반전을 기록한다. 왕국에 도전했던 술탄이 겪은 충격적인 굴욕이었다. 두 나라의 라이벌 관계는 계속되었고, 연대기 작가들은 후대 원정에 대해 때로 엇갈린 기록을 남기기도 했다. 그러나 쿰바는 메와르가 강력한 이웃 강국에 괴멸적인 패배를 안길 수 있음을 만천하에 입증했다. <sup>[4, 5]</sup>
+
+그 승리의 가장 뚜렷한 증거는 오늘날에도 남아 있다. 쿰바는 치토르에 **비자이 스탐바(승리의 탑)**의 건립을 명령했다. 9층 규모의 이 기념비는 신들과 천상적 존재, 힌두 신앙의 상징들로 뒤덮인 외벽을 지니고 있다. 그것은 단순한 군사적 과시를 넘어선 건축물이었다. 그것은 신성한 질서와 조화를 이루는 군주정의 승리를 선포하고 있었다. <sup>[5, 6]</sup>
+
+전쟁은 참혹한 대가를 치렀다. 페르시아어 역사서 『타리크이 피리시타(Tarikh-i Firishta)』는 쿰발가르 지역의 사원 파괴와 석조 신상들이 파괴되어 석회석으로 부서진 사건을 기록한다. **하르 빌라스 사르다의 후대 기록은 켈와라의 바나 마타 사원**, 그 수호자 딥 싱, 그리고 **1442년**으로 연대 표시된 파괴를 명시한다. 이 기록들은 세부 사항에서 다소 차이를 보이지만, 사원과 성스러운 신상들을 겨냥한 폭력에 대해서는 일치된 증언을 남긴다. <sup>[18, 5]</sup>
+
+<figure class="article-figure mewar-illustration">
+  <picture>
+    <source srcset="assets/media/images/kumbhalgarh-walls-mewar.webp" type="image/webp" />
+    <img src="/assets/media/images/kumbhalgarh-walls-mewar.jpg" alt="쿰발가르 요새의 거대한 성벽이 주변 언덕을 따라 구불구불 이어지며 요새 내부의 사원들과 다른 건물들을 감싸고 있는 풍경." width="1200" height="800" loading="lazy" decoding="async" />
+  </picture>
+  <figcaption>
+    <strong>산맥을 가로지르는 방패.</strong> 쿰발가르의 성벽과 주변 지형은 메와르의 불굴의 생존을 뒷받침했던 방어적 지형의 진면목을 보여준다.
+    <span class="figure-credit">사진: Twinkle joshi04, 2013년 5월 17일 · 위키미디어 공용 · CC BY-SA 4.0. 웹용으로 크기 조정 및 재압축됨. 자르기 없음.</span>
+  </figcaption>
+</figure>
+
+## 상가의 거대한 승부수—그리고 치토르의 두 번째 참극
+
+16세기 초, **라나 상가**는 메와르의 야망을 한층 더 거대한 무대로 올려놓았다. 델리와 말와의 군주들을 상대로 거둔 연이은 승리는 그를 북인도 정치의 강력한 패권 후보로 부상시켰다.
+
+그러던 중 1526년 바부르가 이브라힘 로디를 꺾고 무굴 제국의 기틀을 놓았다. 상가는 이 새로운 세력에 맞서 동맹군을 결성하고, 건곤일척의 대회전에 자신의 모든 야망을 걸었다. **1527년 3월 칸와 전투**에서 바부르가 최종 승리를 거두었다. 메와르는 살아남았지만, 더 큰 제국으로 도약하려던 야망은 꺾이고 말았다. 상가의 담대한 용기가 패배라는 결과를 지울 수는 없지만, 그가 던진 도전의 거대한 스케일은 여전히 그의 위상을 형성하는 한 부분으로 남아 있다. <sup>[3]</sup>
+
+내부 분열은 왕실을 더욱 약화시켰다. **1535년, 구자라트의 바하두르 샤가 치토르를 침공하여 함락하고 약탈했다.** 1303년에 이은 치토르의 세 차례 유명한 포위전 중 두 번째였다. 이러한 참극의 기억은 적의 손에 떨어지느니 화염 속으로 뛰어든 여성들의 집단 자결인 *자우하르(jauhar)*, 그리고 요새 수호자들의 마지막 결사 항전과 떼려야 뗄 수 없게 되었다. 이는 절망적인 비극이었다. 요새의 용사들에게 바치는 어떠한 경의도, 성 안에서 삶을 마감해야 했던 무고한 생명들의 비통한 슬픔을 지워낼 수는 없다. <sup>[6]</sup>
+
+## 1568년: 자이말, 파타, 그리고 치토르의 비극적인 최후 항전
+
+우다이 싱 2세는 악바르가 치토르를 함락하기 전인 **1559년**에 우다이푸르를 창건했다. 기르와 계곡에 자리 잡은 이 도시는 왕실을 위한 또 다른 중심지가 되어 주었다. 치토르가 함락되고 나서야 비로소 우다이푸르가 세워졌다는 식의 익숙한 통념은 두 개의 서로 다른 사건을 압축해 버린 것이다. <sup>[7]</sup>
+
+**1567년 악바르가 거대한 포위전을 시작했을 때**, 치토르는 팽창하는 제국의 모든 역량과 맞닥뜨려야 했다. 우다이 싱은 산악 지대로 후퇴했다. 요새 내부에서는 **자이말과 파타**를 비롯한 사령관들이 결사 방어전을 이끌었다.
+
+그들의 항전은 메와르에서 가장 잊을 수 없는 용맹의 기억으로 각인되었다. 무굴군의 중포 사격, 땅굴 폭파, 공성 참호 작업이 견고한 요새를 서서히 무너뜨렸다. 방어군은 저항을 연장할 수는 있었지만 끝내 무너지는 성벽을 막을 수는 없었다. **1568년 2월, 치토르는 끝내 함락되었다.**
+
+승리 뒤에는 끔찍한 학살이 이어졌다. 기록들은 함락과 함께 벌어진 자우하르와 더불어 방어군과 수많은 민간인의 죽음을 기술한다. 정확한 희생자 수는 기록마다 다르며, 어떠한 수치도 확정적인 통계로 단정할 수는 없다. 인명 피해는 끔찍할 정도였다. 그러나 이 파괴적인 승리 후에도 악바르는 우다이 싱을 사로잡지 못했고 왕가를 멸망시키지도 못했다. **요새는 함락되었지만, 메와르를 굴복시키기 위한 투쟁은 여전히 끝나지 않았던 것이다.** <sup>[8]</sup>
+
+### 승전 포고문: 제국 기록에 나타난 지하드
+
+**1568년 3월 9일 아즈메르에서 악바르의 이름으로 반포된 승전 포고문 『파트나마-이 치토르(Fathnama-i Chittor)』**는 이 정복을 노골적인 종교적 언어로 기술한다. 역사학자 타이미야 R. 자만(Taymiya R. Zaman)의 번역에 따르면 이 문서는 **“우리는 전력을 다해 지하드에 매진하고 있다”**고 선언한다. 포고문은 불신자라 칭해진 자들로부터 요새를 빼앗고 그 위에 이슬람의 깃발을 꽂은 것을 찬양하며, 군사적 정복을 우상 숭배의 근절과 결부시킨다. 이것은 악바르가 훗날 천명한 만인 화평(*술흐이 쿨*, sulh-i kul) 정책 이전에 발표된, 제국주의적 승전 선언의 종교적 정당화 담론이었다. <sup>[19]</sup>
+
+## 할디가티의 프라탑: 패배한 전장, 끝나지 않은 전쟁
+
+**1572년 마하라나 프라탑이 즉위했다.** 그는 외세의 정복으로 깊은 상처를 입은 왕국을 물려받았다. 그는 악바르가 요구한 신종 조건을 단호히 거부했다. **1576년 6월**, 양국 군대는 할디가티에서 격돌했다. 제국군은 악바르 자신이 아니라 **암베르의 라자 만 싱**이 총지휘를 맡고 있었다.
+
+<figure class="article-figure mewar-illustration mewar-portrait">
+  <picture>
+    <source srcset="assets/media/images/maharana-pratap-ravi-varma.webp" type="image/webp" />
+    <img src="/assets/media/images/maharana-pratap-ravi-varma.jpg" alt="창을 들고 갑옷과 붉은 터번을 두르고 칼을 찬 마하라나 프라탑의 전신 모습을 그린 라자 라비 바르마의 후대 초상화." width="460" height="700" loading="lazy" decoding="async" />
+  </picture>
+  <figcaption>
+    <strong>영원히 기억되는 프라탑의 형상.</strong> 라자 라비 바르마(1848~1906년)가 그린 이 초상화는 프라탑의 사후 오랜 세월이 흐른 뒤에 그려진 것으로, 후대 역사적 기억 속에 자리 잡은 그의 위상을 반영한다.
+    <span class="figure-credit">작품: 라자 라비 바르마 · 위키미디어 공용 · 퍼블릭 도메인. 웹용으로 재압축됨. 자르기 없음.</span>
+  </figcaption>
+</figure>
+
+무굴군은 전술적 교전에서 즉각적인 승리를 거두었다. 그러나 프라탑은 무사히 탈출했고 그의 저항은 계속되었다. **그의 위대한 성취는 패배 속에서도 살아남아 제국의 승리를 불완전한 것으로 만들어버린 데 있었다.** 할디가티의 들판을 장악했다고 해서 악바르가 메와르 전체를 영구히 지배할 수 있었던 것은 아니었다.
+
+산악 지대에서 프라탑의 군대는 **빌족(Bhil) 공동체**를 포함한 지역 주민들의 지지에 힘입어 투쟁의 불씨를 지켜나갔다. 그들의 헌신은 이 역사의 한가운데에 당당히 자리 잡고 있다. 저항은 그 상징이 된 군주뿐만 아니라 이 땅을 속속들이 알고 터전을 잡고 살아가던 수많은 백성에게 의지하고 있었다. 또한 제국군을 지휘한 인물이 만 싱이었다는 사실은, 훗날의 통속적인 이야기들이 덧씌우곤 하는 종교적 분열의 선을 넘어 정치적 충성이 작동하고 있었음을 일깨워준다. <sup>[9]</sup>
+
+할디가티 이후의 세월은 프라탑의 끈질긴 집념을 온전히 보여준다. **1580년대와 1590년대** 동안 그는 상당한 영토를 수복하고 **차완드**에 새로운 거점을 구축했다. **치토르와 만달가르는 끝내 수복하지 못했다.** 이러한 한계 역시 엄연한 역사적 사실이지만, 제국의 맹렬한 군사 작전이 수년간 휩쓸고 간 뒤에 그가 독립적인 권력의 중심지를 다시 재건해 냈다는 사실 또한 눈부신 성취다.
+
+영토를 되찾는 것은 단순히 적의 수비대를 몰아내는 것 이상의 의미를 지녔다. 전쟁은 마을과 농경지를 황폐화시켰고, 재건을 위해서는 토지 지급, 조세 징수, 행정 체계의 복구가 필수적이었다. 프라탑의 인내가 빛을 발한 것은 그것이 왕국의 실질적인 재건을 가능하게 만들었기 때문이다. 그는 **악바르에게 끝내 굴복하지 않은 채 1597년에 세상을 떠났으며**, 역경 속에서도 꺾이지 않는 불굴의 유산을 남겼다. <sup>[3]</sup>
+
+## 악바르 이후: 만신창이가 된 왕국을 지켜낸 평화
+
+악바르는 **1605년**에 사망했다. 그러나 메와르를 향한 압박은 그보다 더 오래 지속되었다. 자한기르 치세에서도 프라탑의 아들 **아마르 싱 1세**를 겨냥한 무굴 제국의 군사 원정은 계속되었다. 훗날 샤 자한 황제가 되는 쿠람 왕자는 군사 공세를 더욱 강화했다. 기나긴 세월 동안 이어진 전쟁은 저항을 지탱해 오던 메와르의 농촌 지대를 완전히 탈진시켰다.
+
+**1615년, 아마르 싱은 마침내 무굴의 종주권을 수용했다.** 메와르는 세습 통치권을 유지했고, 라나는 제국 궁정에 직접 출석해야 하는 의무를 면제받았다. 그의 아들 카란 싱이 황실 궁정에서 왕조를 대표했다. 치토르는 반환되었으나 성벽을 수리하거나 다시 요새화하지 못한다는 조건이 붙었다. 독립성은 제한되었지만, 왕조는 살아남았고 오랜 전쟁은 평화 협정으로 이어졌다. 저항의 역사에는 초토화된 왕국을 보존하기 위해 내린 이러한 뼈아픈 선택 또한 포함되어 있다. <sup>[10, 3]</sup>
+
+이후 수십 년 동안 협력과 궁정 봉사, 문화 교류, 그리고 갈등이 교차했다. **라나 라지 싱과 아우랑제브 치세인 1679~1681년**에 다시 전쟁이 일어났다. 심지어 메와르 궁정에서 생산된 문헌들조차 양국 관계의 변화에 따라 황제를 묘사하는 방식이 달라지기도 했다. 역사학자 신시아 탤벗(Cynthia Talbot)의 비교 연구는 왜 17세기 전체를 하나의 영구불변한 대결 구도로 단순화할 수 없는지를 명확히 보여준다. <sup>[11]</sup>
+
+### 1680년: 사원과 성스러운 신상들을 향한 공격
+
+**1680년 아우랑제브의 침공** 당시, 메와르의 사원들은 파괴의 표적이 되었다. 사키 무스타이드 칸이 쓴 무굴 연대기 『마아시르이 알람기리(Ma'asir-i-Alamgiri)』는 **우다이푸르 라나의 궁전 앞에 있던 거대한 사원**에 대한 공격을 기술한다. 기록에는 스무 명의 라지푸트 전사들이 전원 전사할 때까지 싸웠으며, 자두나트 사르카르의 번역에 따르면 다음과 같이 전한다. **“석공들이 신상들을 때려 부수었다.”** <sup>[20]</sup>
+
+이어지는 기록들은 아우랑제브가 **1680년 1월 24일에 우다이사갈 호숫가의 사원 세 곳**을 철거하라고 명령한 내용, **1월 29일** 하산 알리 칸이 **우다이푸르 주변의 사원 172곳**을 파괴했다고 보고한 내용, 그리고 **2월 22일 제국의 명령에 따라 치토르의 사원 63곳이 철거되었다**는 보고를 담고 있다. 이것들은 연대기에 보고된 수치들이다. 제국의 침공은 왕국의 군사 요새뿐만 아니라 신앙의 성소와 그 안의 성스러운 형상들까지 무자비하게 타격했다. <sup>[20]</sup>
+
+## 마라타: 새로운 강자들, 눈덩이처럼 불어나는 요구
+
+18세기 무굴 제국의 권위가 쇠락하자, 메와르는 새로운 안보 위기에 직면했다. 말와로 진출한 마라타 세력의 확장은 **페슈와, 홀카르, 신디아**와 관련된 군대를 라자스탄 내부로 불러들였다. 지역 군주들이 자신들의 내분에 외부 세력의 지원을 요청하면서 개입의 길은 더욱 넓어졌다.
+
+**1736년**, 페슈와 바지 라오 1세가 우다이푸르를 방문했고, 마하라나 자갓 싱 2세는 공납을 바치기로 합의했다. 이후 수십 년 동안 추가적인 공납 요구, 군사 개입, 사회적 혼란이 잇따랐다. 메와르 군주와 귀족들 간의 내분은 사태를 더욱 악화시켰다. 궁정은 여전히 건재했지만, 외부 군대에 지급하는 막대한 배상금과 세수를 둘러싼 암투는 국가의 국력을 고갈시켰다. 수백 년의 승리를 자랑하던 유서 깊은 왕조는 이제 냉혹한 생존의 셈법과 마주해야 했다. <sup>[12]</sup>
+
+왕조는 우다이푸르에서 계속해서 지배권을 행사했지만, 그 생존은 점점 더 강력한 외부 강자들과의 거래에 의존하게 되었다. 19세기 초에 이르러 안보를 위한 이러한 모색은 마침내 영국 동인도회사와의 조약 체결로 이어졌다.
+
+## 1818년: 영국의 보호라는 가혹한 대가
+
+**1818년 1월 13일**, 마하라나 빔 싱 정권은 **동인도회사**와 조약을 체결했다. 영국의 보호는 혹독한 정치적 대가를 요구했다. 메와르는 영국의 패권을 인정하고, 다른 번왕국들과의 외교 관계에 대한 통제를 수용했으며, 재정적·군사적 의무를 떠안았다.
+
+이 조약은 거대한 제국주의적 질서 속에서 메와르의 세습적 내정 자치권을 보존해 주었다. 우다이푸르는 **영국 종주권 하의 번왕국(princely state)**이 되었으며, 영국의 직할 통치주로 전환되지는 않았다. 왕조는 존속할 수 있었지만 대외 관계에 관한 핵심 권한은 다른 곳으로 넘어갔고, 무거운 조공은 재정적 족쇄가 되었다. 오랜 역사를 지닌 왕실은 또 다른 초강대국의 우위를 인정함으로써 가문의 명맥을 이어갔던 것이다. <sup>[13]</sup>
+
+20세기에 이르러 자유를 향한 요구는 **군주들의 통치를 받던 민중**에게서 터져 나왔다. 대의제와 책임 정부를 요구하는 민중 운동이 군주의 절대 권력에 도전하기 시작했다. 메와르의 **프라자 만달(Praja Mandal)**은 정치 개혁 운동에 적극적으로 참여했다. 라자스탄 의회 기록은 1946~1947년 동안 이루어진 헌정 협상과 변화들을 증언한다. 정부에 자신의 목소리를 내고자 했던 민중의 용기는 군사적 항전이라는 옛 역사 곁에 나란히 자리 잡아야 마땅하다. 민주주의는 영국 지배의 종식뿐만 아니라 번왕국 내부에서의 처절한 투쟁을 통해서도 쟁취된 것이기 때문이다. <sup>[14]</sup>
+
+## 마하라나의 국가에서 시민의 라자스탄으로
+
+**1947년** 영국의 종주권이 끝나면서 우다이푸르는 인도 연방에 가입했다. 연방 가입과 뒤이은 번왕국 행정의 완전한 통합은 서로 다른 단계로 진행되었다. 인도 정부의 『인도 번왕국 백서(White Paper on Indian States)』는 1947년 8월 통치자들이 연방 가입 문서에 서명한 번왕국 목록에 우다이푸르를 명시하고 있다. <sup>[15]</sup>
+
+마하라나 **부팔 싱**의 영도 아래, 우다이푸르는 **1948년 4월 18일 재편된 라자스탄 연합주**에 합류했다. 자와할랄 네루는 우다이푸르에서 연합의 출범을 공식 선언했다. 부팔 싱은 새로운 체제에서 헌법적 직위인 라지프라무크(Rajpramukh, 최고행정관)에 취임했다. <sup>[16]</sup>
+
+**1949년 3월 30일 대(大)라자스탄의 형성**과 뒤이은 추가 영토 통합은 과거의 번왕국 영토들을 하나의 거대한 주로 흡수 통합시켰다. 이 과정을 통해 메와르의 독자적인 통치 행정은 역사의 뒤안길로 사라졌다. **1971년**, 제26차 헌법 개정은 과거 통치자들에 대한 공식적인 특권과 인정을 폐지하고 왕실 보조금(privy purse)을 완전히 철폐했다. 가문의 혈통은 계속 이어졌지만, 세습 군주권은 더 이상 통치를 위한 헌법적 권한을 제공하지 않게 되었다. <sup>[14, 17]</sup>
+
+오늘날 메와르는 라자스탄 내부의 역사적·문화적 지역으로 살아 숨 쉬고 있다. 왕국은 역사 속으로 사라졌다. 그러나 그 장소들은 여전히 그 자리에 남아 있다. 치토르의 성벽, 쿰발가르의 방벽, 우다이푸르의 찬란한 궁전들, 그리고 쿰바가 승리를 기리며 하늘 높이 세운 위대한 탑이 그것이다.
+
+<figure class="article-figure mewar-illustration">
+  <picture>
+    <source srcset="assets/media/images/udaipur-city-palace-lake-pichola.webp" type="image/webp" />
+    <img src="/assets/media/images/udaipur-city-palace-lake-pichola.jpg" alt="물에 비친 창백한 성벽과 그 뒤로 솟아 있는 언덕들과 함께 피촐라 호숫가에 서 있는 우다이푸르 시티 팰리스 전경." width="1200" height="739" loading="lazy" decoding="async" />
+  </picture>
+  <figcaption>
+    <strong>호숫가에 남겨진 왕국의 유산.</strong> 우다이푸르 시티 팰리스는 현대 라자스탄 속 메와르 건축 유산의 상징으로 남아 있다. 이 사진은 2007년 당시 궁전의 모습을 보여준다.
+    <span class="figure-credit">사진: tommy, 2007년 11월 24일 · 위키미디어 공용 · CC BY-SA 2.0. 웹용으로 크기 조정 및 재압축됨. 자르기 없음.</span>
+  </figcaption>
+</figure>
+
+<figure class="article-figure mewar-illustration mewar-closing-tower">
+  <picture>
+    <source srcset="assets/media/images/vijay-stambha-chittorgarh-full-view.webp" type="image/webp" />
+    <img src="/assets/media/images/vijay-stambha-chittorgarh-full-view.jpg" alt="정교하게 조각된 층들과 융기된 석조 기단, 그리고 탑 밑동의 방문객들이 보이는 치토르가르 비자이 스탐바의 지상 전경." width="1200" height="1800" loading="lazy" decoding="async" />
+  </picture>
+  <figcaption>
+    <strong>다시 바라본 승리의 탑.</strong> 비자이 스탐바의 더 넓은 전경은 정교하게 조각된 각 층과 그 아래에 높게 쌓인 기단을 한눈에 보여준다.
+    <span class="figure-credit">사진: PerSona77, 2010년 2월 8일 · 위키미디어 공용 · CC BY-SA 3.0. 웹용으로 크기 조정 및 재압축됨. 자르기 없음.</span>
+  </figcaption>
+</figure>
+
+**다시 한번 비자이 스탐바를 올려다보라.** 그 석조 세공은 메와르가 술탄을 물리치고 하늘을 향해 자신의 힘을 선포했던 찬란한 시대를 증언한다. 탑 주변에는 정복의 고통을 겪고, 저항을 이어가며, 산산조각 난 삶을 재건하고, 마침내 민주 국가의 일원으로 들어선 한 민족의 기억이 깃들어 있다. 메와르의 용맹은 승리의 영광과 최후의 결사전, 불굴의 재건, 그리고 다시 시작하겠다는 굳은 결단에 이르는 역사의 모든 장에 온전히 새겨져 있다.
+
+## 출처
+
+### 역사적 사료
+
+1. [UNESCO, *Hill Forts of Rajasthan*](https://whc.unesco.org/en/list/247/). 쿰발가르를 포함한 방어적 지형, 정착지, 수자원 시스템, 건축 및 후원 관계에 관한 자료.
+2. [Harbans Mukhia, “Stories of a Rajput queen”](https://indianexpress.com/article/opinion/columns/padmavati-alauddin-khalji-rana-ratan-singh-chittor-rajasthan-stories-of-a-rajput-queen-4940877/). 1303년 정복, 자야시의 『파드마바트』(1540년) 및 후대 전승들 간의 관계에 관한 논의.
+3. [G. N. Sharma, *Mewar and the Mughal Emperors, 1526–1707 A.D.* (1954)](https://archive.org/details/in.gov.ignca.10571). 페르시아어, 산스크리트어, 라자스탄어 사료를 활용한 주요 연구서. 초기 메와르는 서문, 상가와 칸와 전투는 제II장, 프라탑의 영토 회복은 제V장(특히 117~118쪽), 1615년 강화 협정은 제VI장 참조. 실제 군사적 사건들과 후대의 여러 영웅 전승을 명확히 구분함.
+4. [라자스탄 교육위원회, *History and Culture of Rajasthan*](https://rajeduboard.rajasthan.gov.in/books-2019/books-2022/cls10/HistorynCulture.pdf). 쿰바와 사랑푸르 전투와 관련하여 널리 통용되는 1437년 연대에 관한 자료.
+5. [Har Bilas Sarda, *Maharana Kumbha: Sovereign, Soldier, Scholar* (1917)](https://archive.org/details/maharanakumbhaso00sardrich). 군사 원정에 대해서는 제IV~VIII장, 비자이 스탐바에 대해서는 79~80쪽 참조. 기념물과 초기 전승 연구에 유용하며, 연대와 원정 서술은 후대 연구와 비교 필요.
+6. [라자스탄 관광청, *Chittorgarh*](https://www.tourism.rajasthan.gov.in/chittorgarh.html). 요새의 주요 포위전, 비자이 스탐바, 공식 명시된 1440~1448년 건축 기간 및 별도의 자이나교 키르티 스탐바(Kirti Stambha)에 관한 자료.
+7. [*Imperial Gazetteer of India*, 제24권, “Udaipur State”](https://library.bjp.org/jspui/bitstream/123456789/1911/1/The%20Imperial%20Gazetteer%20of%20India%20Vol-24%20%28Travankore%20to%20Zira%29.pdf). 1559년 우다이푸르의 창건과 왕국의 지리에 관한 기록.
+8. [Narasingha P. Sil, “Fall of Chitor”](https://www.ebsco.com/research-starters/history/fall-chitor). 1567~1568년 포위전, 자이말과 파타, 요새의 함락과 참혹한 인명 피해에 관한 논문.
+9. [NIOS, *Military History*, 제8장, 53~54쪽](https://digital.nios.ac.in/content/375en/8/files/basic-html/page5.html). 할디가티 전투, 무굴 제국 야전 승리의 한계, 지속된 저항 및 빌족의 지원에 관한 서술.
+10. [Royal Collection Trust, 1615년 아마르 싱과 쿠람의 회담](https://www.rct.uk/collection/1005025-g/the-submission-of-rana-amar-singh-of-mewar-to-prince-khurram-5-february-1615). 강화 조약을 묘사한 후대 무굴 궁정 회화 및 소장 기록. 이미지는 제국 측의 관점을 대변함.
+11. [Cynthia Talbot, “A Poetic Record of the Rajput Rebellion, c. 1680”](https://doi.org/10.1017/S135618631800007X). *Journal of the Royal Asiatic Society* 28.3 (2018), pp. 461–483. 메와르 측 문헌에 나타난 아우랑제브 묘사의 변화와 1679~1681년 갈등에 관한 연구.
+12. [뭄바이 대학교, *Social, Economic and Administrative History of the Marathas*](https://old.mu.ac.in/wp-content/uploads/2021/05/MA-SEM-I-PAPER-IV.pdf). 라자스탄 관련 논의, 바지 라오의 1736년 방문 및 공납 요구에 관한 내용.
+13. [Aitchison, *A Collection of Treaties, Engagements and Sanads*, “Mewar Residency,” 1818년 조약](https://dl.tufts.edu/downloads/n8710329n?filename=f7623q74g.pdf). 제2~9조는 영국의 종주권, 보호, 조공 및 메와르의 내정 자치권에 관한 1차 사료를 제공함.
+14. [라자스탄 주의회, 의회 역사 및 라자스탄의 형성](https://assembly.rajasthan.gov.in/Containers/Overview/RajLegislature.aspx). 1946~1947년 우다이푸르의 헌정 개혁과 1948~1949년 라자스탄 연합에 관한 공식 기록.
+15. [인도 정부, *White Paper on Indian States* (1950), 332쪽](https://en.wikisource.org/wiki/Page:White_Paper_on_Indian_States_(1950).pdf/342). 1947년 8월 우다이푸르의 연방 가입에 관한 기록으로, 이후 진행된 행정 통합과는 별개의 단계임.
+16. [자와할랄 네루, 1948년 4월 18일 취임 연설 및 편집 기록](https://nehruarchive.in/documents/the-union-of-rajasthan-18-april-1948-yq82q). 재편된 라자스탄 연합주에 우다이푸르가 가입한 경위와 부팔 싱의 라지프라무크 역할에 관한 자료.
+17. [라지야 사바(인도 상원), *Journey Since 1952*](https://cms.rajyasabha.nic.in/UploadedFiles/ElectronicPublications/Journey_1952.pdf). 과거 통치자들에 대한 공식 인정을 종결하고 왕실 보조금을 폐지한 1971년 제26차 헌법 개정에 관한 자료.
+18. [Firishta, *History of the Rise of the Mahomedan Power in India*, John Briggs 번역, 제IV권, 1971년 영인본 125~126쪽](https://archive.org/details/in.ernet.dli.2015.533858). 쿰발가르 지역의 사원 및 석조 신상 파괴에 관한 기록. 15세기 군사 원정에 대한 후대 연대기임. 바나 마타 확인, 딥 싱, 1442년 연대에 관해서는 사르다(사료 5) 47~48쪽과 비교 요망. 세부 사항에서 차이가 있음.
+19. [악바르의 치토르 정복에 관한 승전 선언문(*Fathnama*), 1568년 3월 9일, Taymiya R. Zaman 번역 및 주해](https://taymiyazaman.com/translation/). Hani Khafipour 편집, *The Empires of the Near East and India* (컬럼비아 대학교 출판부, 2019년) 수록. 악바르의 이름으로 반포된 1차 승전 포고문으로 명시적인 지하드 언어를 담고 있음. 번역자의 서문은 당시의 문투 관례와 이후 황실 종교 어휘의 변화를 논함.
+20. [Saqi Musta'id Khan, *Ma'asir-i-Alamgiri*, Jadunath Sarkar 번역 (1947년), 제XXIII장, 114~117쪽](https://dspace.gipe.ac.in/xmlui/handle/10973/19784). 우다이푸르 사원 수호자들, 파괴된 신상들, 1680년 1~2월의 철거 기록 수록. 아우랑제브 사후 제국 기록을 바탕으로 편찬된 것으로, 독립적인 고고학 조사가 아닌 연대기 보고 수치임.
+
+### 이미지 출처 및 이용 조건
+
+아래 출처 표기는 본문에 등장하는 순서대로 5장의 이미지에 해당합니다. 개별 이미지 옆에도 출처가 함께 표시되어 있습니다.
+
+- **치토르가르의 비자이 스탐바:** 사진: <a href="https://commons.wikimedia.org/wiki/User:Satyadev_Hirani" target="_blank" rel="noopener noreferrer">Satyadev Hirani</a>, 2017년 2월 27일 · <a href="https://commons.wikimedia.org/wiki/File:Vijay_Stambha_4.jpg" target="_blank" rel="noopener noreferrer">위키미디어 공용</a> · <a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank" rel="license noopener noreferrer">CC BY-SA 4.0</a>. 웹용으로 크기 조정 및 재압축됨. 자르기 없음.
+- **쿰발가르 성벽:** 사진: <a href="https://commons.wikimedia.org/wiki/User:Twinkle_joshi04" target="_blank" rel="noopener noreferrer">Twinkle joshi04</a>, 2013년 5월 17일 · <a href="https://commons.wikimedia.org/wiki/File:Aerial_view_of_a_the_Kumbhalgarh_wall.jpg" target="_blank" rel="noopener noreferrer">위키미디어 공용</a> · <a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank" rel="license noopener noreferrer">CC BY-SA 4.0</a>. 웹용으로 크기 조정 및 재압축됨. 자르기 없음.
+- **마하라나 프라탑 초상화:** 작품: <a href="https://commons.wikimedia.org/wiki/Raja_Ravi_Varma" target="_blank" rel="noopener noreferrer">라자 라비 바르마</a> · <a href="https://commons.wikimedia.org/wiki/File:RajaRaviVarma_MaharanaPratap.jpg" target="_blank" rel="noopener noreferrer">위키미디어 공용</a> · <a href="https://creativecommons.org/publicdomain/mark/1.0/" target="_blank" rel="license noopener noreferrer">퍼블릭 도메인</a>. 웹용으로 재압축됨. 자르기 없음.
+- **우다이푸르 시티 팰리스와 피촐라 호수:** 사진: <a href="https://flickr.com/people/29913465@N00" target="_blank" rel="noopener noreferrer">tommy</a>, 2007년 11월 24일 · <a href="https://commons.wikimedia.org/wiki/File:City_Palace_by_lake_Pichola,_Udaipur.jpg" target="_blank" rel="noopener noreferrer">위키미디어 공용</a> · <a href="https://creativecommons.org/licenses/by-sa/2.0/" target="_blank" rel="license noopener noreferrer">CC BY-SA 2.0</a>. 웹용으로 크기 조정 및 재압축됨. 자르기 없음.
+- **맺음말 전 비자이 스탐바 전경:** 사진: <a href="https://commons.wikimedia.org/wiki/User:PerSona77" target="_blank" rel="noopener noreferrer">PerSona77</a>, 2010년 2월 8일 · <a href="https://commons.wikimedia.org/wiki/File:Victory_tower_in_chittorgarh_fort.jpg" target="_blank" rel="noopener noreferrer">위키미디어 공용</a> · <a href="https://creativecommons.org/licenses/by-sa/3.0/" target="_blank" rel="license noopener noreferrer">CC BY-SA 3.0</a>. 웹용으로 크기 조정 및 재압축됨. 자르기 없음.

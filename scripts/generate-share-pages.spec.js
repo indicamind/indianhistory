@@ -87,6 +87,22 @@ describe('Build-time social previews', () => {
     expect((html.match(/property="og:title"/g) || []).length).toBe(1);
   });
 
+  it('excludes configured editions without complete generated assets from share pages and alternates', async () => {
+    content();
+    // The content build creates empty directories for pending editions.
+    fs.mkdirSync(path.join(output, 'assets/generated/ko'), { recursive: true });
+    const partial = path.join(output, 'assets/generated/vi');
+    fs.mkdirSync(partial, { recursive: true });
+    fs.writeFileSync(path.join(partial, 'site.json'), JSON.stringify({ 'India History': 'Lịch sử Ấn Độ' }));
+    const result = await generateSharePages({ root, output, siteUrl: 'https://example.test/' });
+    expect(result.languages).toBe(1);
+    const html = fs.readFileSync(path.join(output, 'article/one/index.html'), 'utf8');
+    expect(html).not.toContain('hreflang="ko"');
+    expect(html).not.toContain('hreflang="vi"');
+    expect(fs.existsSync(path.join(output, 'ko/article/one/index.html'))).toBeFalsy();
+    expect(fs.existsSync(path.join(output, 'vi/article/one/index.html'))).toBeFalsy();
+  });
+
   it('extracts alt text without losing apostrophes and decodes entities', () => {
     expect(firstImage('<img data-src="wrong.jpg" src="assets/a.jpg" alt="Ashoka\'s &quot;words&quot; &#x26; stone">')).toEqual({ src: 'assets/a.jpg', alt: 'Ashoka\'s "words" & stone' });
   });

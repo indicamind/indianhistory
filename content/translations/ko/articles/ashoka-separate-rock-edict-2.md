@@ -1,0 +1,66 @@
+---
+title: '분리 마애 칙령 제2호: 국경 지대의 신뢰'
+slug: ashoka-separate-rock-edict-2
+excerpt: 아쇼카는 칼링가의 관리들에게 국경 너머 사람들을 안심시키고 인내로 다스리라고 당부합니다.
+publishedAt: 2026-10-16T00:00:00.000Z
+updatedAt: 2026-10-16T00:00:00.000Z
+period: mauryan
+polity: maurya
+personalities:
+  - ashoka
+relatedTo: ashoka-edicts
+tags:
+  - 아쇼카
+  - 칙령
+  - 분리 마애 칙령
+themes: []
+books:
+  - 0349122385
+  - 935699322X
+  - 0143330802
+  - B0BPDX1MXS
+sourceHash: 074108640470a9f296668e9fc9d0a95fa851f23c70333689cead65fb7b63d70a
+---
+
+## 이 칙령에 대하여
+
+제2분리 칙령은 관리들에게 아직 정복되지 않은 이웃 주민들의 신뢰를 얻도록 요구합니다. 왕을 백성의 아버지로 제시하는 한편, 그러한 선언이 신뢰받을 수 있도록 현지 관리들에게 의지하고 있습니다.
+
+## 원문 문자
+
+<figure class="article-figure inscription-plate">
+  <img src="/assets/media/images/ashoka-plate-1405671324.jpg" alt="훌치의 1925년 판본에 실린 다울리의 브라흐미 문자 비문 모사본" loading="lazy" decoding="async" />
+  <figcaption>다울리 비문 모사본. E. Hultzsch, <em>Inscriptions of Asoka</em> (1925), 퍼블릭 도메인.</figcaption>
+</figure>
+
+## 로마자 전사
+
+아래 텍스트는 훌치 판본의 다울리 텍스트를 따릅니다. 대괄호는 복원되었거나 불확실한 글자를 표시하며, 점은 훼손되거나 소실된 텍스트를 나타냅니다. 현존하는 다른 사본들과는 차이가 있을 수 있습니다.
+
+<p class="inscription-transliteration" lang="pra-Latn">(A) 1 Devānaṃpiyas[a] vacanena Tosaliyaṃ kumāle mahāmātā ca vataviya (B) aṃ kichi dakhām[i] h[akaṃ taṃ i] .......... 2 duvālate ca ālabhehaṃ (C) esa ca me mokhya-mata duvālā etasi aṭhasi aṃ tuphe[s]u .......... mama (D) ... (E) 3 ath[a] pajāye ichāmi hakaṃ ki[ṃ]ti savena hi[ta-sukhe]na hidalokikapālalokikāye yujevū ti h[e]v[aṃ] .......... (F) 4 siyā aṃtānaṃ avijitānaṃ ki-cha[ṃde] su lāja [aphesu] .. (G) ..... m[a]va icha mama aṃtesu ... i [p]ā[p]unevu te iti Devānaṃp[iy] ....... [anu]v[i]g[ina] mamāye 5 huvevū ti asvasevu ca sukhaṃmeva lahevu mamat[e] no dukha[ṃ] h[e]va[ṃ] … un[e]vū iti khamisati ne Devānaṃpiye [aph]ākā ti e cakiye khamitave mama nimitaṃ [va] ca dhaṃmaṃ calevū 6 hidaloka palaloka[ṃ] ca āladhayevū (H) etasi aṭhasi haka[ṃ] anusāsāmi tuphe ana[n]e [e]takena hakaṃ anusāsitu chaṃdaṃ cā veditu ā [hi] dhi[t]i paṭiṃñā ca mamā 7 [ajalā (I) s[e] hevaṃ kaṭu kaṃme cal[i]t[a]v[i]ye asv[āsa] ..... i [ca] tāni ena pāpunevū iti atha pitā tatha Devānaṃpiy[e] aphāka athā ca atānaṃ hevaṃ Devānaṃpiye [a]nukaṃpati aphe 8 athā ca pajā hevaṃ may[e] D[e]vānaṃpiyasa (J) se hakaṃ anusāsitu [cha]ṃda[m] c[a veditu tu]phāk[a] desāvutike hosāmi etāye aṭhāye (K) paṭibalā hi tuph[e] asvāsanāye hita-sukhāye ca [tesa] 9 hidalokika-pālalo[ki]kāye (L) hevaṃ ca kalaṃtam tuphe svagam ālādha[yi]satha mama c[a] ānaniyam ehatha (M) etāye ca aṭhāye iyaṃ lipi likhitā hida e[na ma]hāmātā svasata[ṃ sa]ma 10 yujisaṃti as[vā]s[a]nāye dhaṃma-cala[n]āye ca tes[a] aṃtānaṃ (N) iyaṃ ca lipi [anu]cātuṃmāsaṃ tisena nakhatena sotaviyā (O) kāmaṃ cu [kha]ṇas[i] khanasi aṃtalā pi tisena ekena [p]i 11 [so]taviya (P) hevaṃ kala[ṃ]taṃ [t]uphe caghatha saṃpaṭipādayitave</p>
+
+## 번역
+
+다음은 E. 훌치의 1925년 동일 판본 영어 번역을 옮긴 것입니다. 사용된 용어와 대괄호 속 복원은 당시의 역사적 판본을 반영합니다.
+
+> (A) 데바남프리야의 말씀에 따라, 토살리의 왕자(총독)와 마하마트라(고관)들에게 (이와 같이) 일러야 한다.
+> (B) 내가 (옳다고) 인정하는 바는 무엇이든 .......... 여러 방책으로 성취하고자 한다.
+> (C) 그리고 내가 이 목적을 위한 주요한 방책으로 여기는 것은, 즉 너희에게 .......... 하는 것이다.
+> (D) .......... 나의 .....
+> (E) 내 친자식들을 위해 그들이 이 세상과 저 세상에서 온전한 복락과 행복을 누리기를 내가 바라는 바와 같이, 이처럼 ..........
+> (F) (나의) 정복되지 않은 국경 밖 사람들이 '왕은 우리에 대해 무엇을 바라는가?'라고 (물을) 수 있을 것이다.
+> (G) 국경 밖 사람들에 대한 나의 바람은 오직 이것뿐이니, 곧 그들이 데바남프리야가 .......... 나를 두려워하지 않고 (나를) 신뢰하며, 나로부터 오직 행복만을 얻고 불행은 겪지 않음을 깨닫게 하는 것이다. 또한 데바남프리야가 용서할 수 있는 것은 용서할 것임을 그들이 [알게] 하고, 나로 인해 그들이 도덕을 실천하도록 (이끌려), 이 세상과 저 세상에서 (행복을) 얻도록 하는 것이다.
+> (H) 다음과 같은 목적을 위해 내가 너희를 훈계하노니, 이는 너희에게 훈계를 내리고 나의 뜻, 즉 나의 흔들리지 않는 결의와 서원을 너희에게 알림으로써 (그들에 대해 내가 진) 빚을 갚고자 함이다.
+> (I) 그러므로 너희는 이와 같이 행하여 직무를 다하고 그들에게 신뢰를 심어주어야 한다. 그리하여 데바남프리야가 그들에게 아버지와 같고, 데바남프리야가 자신을 사랑하듯 그들을 사랑하며, 그들이 데바남프리야에게 친자식과 같음을 그들이 깨닫게 해야 한다.
+> (J) 그러므로 너희에게 훈계를 내리고 너희에게 내 뜻을 알렸으니, 나는 이 목적을 위해 (모든) 속주에 관리를 둘 것이다.
+> (K) 너희는 그 (국경 밖 사람들에게) 신뢰를 북돋우고 이 세상과 저 세상에서 그들의 복락과 행복을 (보장할) 능력이 있기 때문이다.
+> (L) 그리고 너희가 이와 같이 행한다면 천상을 얻을 것이며, 나에 대한 너희의 빚을 갚게 될 것이다.
+> (M) 그리고 다음과 같은 목적을 위해 이 칙서가 여기에 기록되었다. 즉, 마하마트라들이 (나의) 국경 밖 사람들에게 언제나 신뢰를 북돋우고 그들로 하여금 도덕을 실천하도록 (이끌기) 위해 힘쓰게 하기 위함이다.
+> (N) 그리고 이 칙서는 4개월마다 티샤(Tishya) 별자리의 날에 (모든 이가) 경청해야 한다.
+> (O) 그러나 원한다면 티샤의 날들 사이에도 잦은 계기에 단 한 사람에 의해서라도 낭독되어 들릴 수 있다.
+> (P) 너희가 이와 같이 행동한다면 (나의 명령을) 완수할 수 있을 것이다.
+
+## 출처
+
+- E. Hultzsch, [*Inscriptions of Asoka* (1925)](https://archive.org/details/InscriptionsOfAsoka.NewEditionByE.Hultzsch), *Corpus Inscriptionum Indicarum*, 제I권.
+- [Bibliotheca Polyglotta 판본](https://www2.hf.uio.no/polyglotta/index.php?mid=0&page=fulltext&vid=364&view=fulltext), 오슬로 대학교(마가다어 전사, 영어 번역 및 비문 모사본).

@@ -26,6 +26,13 @@ export const LANGUAGES = [
   { code: 'fa', name: 'فارسی', direction: 'rtl' },
   { code: 'ru', name: 'Русский', direction: 'ltr' },
   { code: 'ks', name: 'کٲشُر', direction: 'rtl' },
+  { code: 'ko', name: '한국어', direction: 'ltr' },
+  { code: 'vi', name: 'Tiếng Việt', direction: 'ltr' },
+  { code: 'tr', name: 'Türkçe', direction: 'ltr' },
+  { code: 'it', name: 'Italiano', direction: 'ltr' },
+  { code: 'ms', name: 'Bahasa Melayu', direction: 'ltr' },
+  { code: 'sw', name: 'Kiswahili', direction: 'ltr' },
+  { code: 'fil', name: 'Filipino', direction: 'ltr' },
 ] as const;
 
 export type LanguageCode = (typeof LANGUAGES)[number]['code'];

@@ -41,4 +41,11 @@ export const NAVIGATION: Record<LanguageCode, NavigationLabels> = {
   fa: { language: 'زبان', timeline: 'خط زمانی', themes: 'موضوعات', empires: 'امپراتوری‌ها', kingdoms: 'پادشاهی‌ها', personalities: 'شخصیت‌ها', worldHistory: 'تاریخ جهان', blogs: 'وبلاگ‌ها', books: 'کتاب‌ها', search: 'جستجو' },
   ru: { language: 'Язык', timeline: 'Хронология', themes: 'Темы', empires: 'Империи', kingdoms: 'Королевства', personalities: 'Личности', worldHistory: 'Всемирная история', blogs: 'Блоги', books: 'Книги', search: 'Поиск' },
   ks: { language: 'زَبان', timeline: 'دورَن ہٕنٛز ترتیب', themes: 'موٗضوٗع', empires: 'سلطنت', kingdoms: 'رِیاست', personalities: 'شَخصِیات', worldHistory: 'عالمی توٲریخ', blogs: 'بلاگز', books: 'کِتابہِ', search: 'تلاش' },
+  ko: { language: '언어', timeline: '연표', themes: '주제', empires: '제국', kingdoms: '왕국', personalities: '역사 인물', worldHistory: '세계사', blogs: '블로그', books: '도서', search: '검색' },
+  vi: { language: 'Ngôn ngữ', timeline: 'Dòng thời gian', themes: 'Chủ đề', empires: 'Đế quốc', kingdoms: 'Vương quốc', personalities: 'Nhân vật', worldHistory: 'Lịch sử thế giới', blogs: 'Blog', books: 'Sách', search: 'Tìm kiếm' },
+  tr: { language: 'Dil', timeline: 'Zaman çizelgesi', themes: 'Temalar', empires: 'İmparatorluklar', kingdoms: 'Krallıklar', personalities: 'Tarihî şahsiyetler', worldHistory: 'Dünya tarihi', blogs: 'Bloglar', books: 'Kitaplar', search: 'Ara' },
+  it: { language: 'Lingua', timeline: 'Cronologia', themes: 'Temi', empires: 'Imperi', kingdoms: 'Regni', personalities: 'Personaggi storici', worldHistory: 'Storia mondiale', blogs: 'Blog', books: 'Libri', search: 'Cerca' },
+  ms: { language: 'Bahasa', timeline: 'Garis masa', themes: 'Tema', empires: 'Empayar', kingdoms: 'Kerajaan', personalities: 'Tokoh', worldHistory: 'Sejarah dunia', blogs: 'Blog', books: 'Buku', search: 'Cari' },
+  sw: { language: 'Lugha', timeline: 'Mfuatano wa matukio', themes: 'Mada', empires: 'Dola', kingdoms: 'Falme', personalities: 'Watu mashuhuri', worldHistory: 'Historia ya dunia', blogs: 'Blogu', books: 'Vitabu', search: 'Tafuta' },
+  fil: { language: 'Wika', timeline: 'Talatakdaan', themes: 'Mga tema', empires: 'Mga imperyo', kingdoms: 'Mga kaharian', personalities: 'Mga makasaysayang tao', worldHistory: 'Kasaysayan ng daigdig', blogs: 'Mga blog', books: 'Mga aklat', search: 'Maghanap' },
 };

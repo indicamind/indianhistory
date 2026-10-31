@@ -1,0 +1,67 @@
+---
+title: '칸다하르 이중어 비문: 경건과 진리'
+slug: ashoka-kandahar-bilingual-inscription
+excerpt: 칸다하르에서 발견된 그리스어 및 아람어 선포문은 왕의 도덕 정책을 절제, 생명 보호, 부모에 대한 공경과 결부시킵니다.
+publishedAt: 2026-10-16T00:00:00.000Z
+updatedAt: 2026-10-16T00:00:00.000Z
+period: mauryan
+polity: maurya
+personalities:
+  - ashoka
+relatedTo: ashoka-edicts
+tags:
+  - 아쇼카
+  - 비문
+  - 이중어 비문
+  - 칸다하르
+themes: []
+books:
+  - 0349122385
+  - 935699322X
+  - 0143330802
+  - B0BPDX1MXS
+sourceHash: 80e0914cc0268257a5c540daff88e293cc21b355a4a03d18092e72db34f4f6ca
+---
+
+## 이 비문에 대하여
+
+칸다하르 인근의 이 암각 비문은 그리스어 텍스트 아래에 아람어 텍스트가 새겨져 있습니다. 두 본문 모두 프리야다르신 왕을 도덕적 행동의 변화, 살생의 감소, 부모와 웃어른에 대한 공경과 연관 짓습니다. 둘은 축자역 사본이 아니라 서로 병행하는 판본입니다. 그리스어 본문의 첫머리는 훼손되어 복원에 논란이 있으므로, 아래의 번역에서도 그 불확실성을 그대로 드러내어 전달합니다.
+
+## 원문 문자
+
+<figure class="article-figure inscription-plate">
+  <img src="/assets/media/images/ashoka-kandahar-bilingual.jpg" alt="그리스어 행들 아래로 아람어 행들이 배치된 칸다하르 암각 비문" loading="lazy" decoding="async" />
+  <figcaption>칸다하르의 그리스어 및 아람어 비문. 이미지 제공: 위키미디어 공용, 퍼블릭 도메인.</figcaption>
+</figure>
+
+### 그리스어
+
+<p class="inscription-transliteration" lang="grc">Δέκα ἐτῶν πλήρη[ς ἁγν]ῶν βασιλεὺς Πιοδάσσης εὐσέβεια[ν ἔδ]ε[ι]ξεν τοῖς ἀνϑρώποις, καὶ ἀπὸ τούτου εὐσεβεστέρους τοὺς ἀνϑρώπους ἐποίησεν καὶ πάντα εὐϑηνεῖ κατὰ πᾶσαν γῆν. Καὶ ἀπέχεται βασιλεὺς τῶν ἐμψύχων, καὶ οἱ λοιποὶ δὲ ἄνϑρωποι· καὶ ὅσοι ϑηρευταὶ ἢ ἁλιεῖς βασιλέως πέπαυνϑαι ϑηρεύοντες· καὶ εἴ τινες ἀκρατεῖς πέπαυνται τῆς ἀκρασίας κατὰ δύναμιν. Καὶ ἐνήκοοι πατρὶ καὶ μητρὶ καὶ τῶν πρεσβυτέρων παρὰ τὰ πρότερον καὶ τοῦ λοιποῦ, λῶιον καὶ ἄμεινον κατὰ πάντα, ταῦτα ποιοῦντες, διάξουσιν.</p>
+
+### 아람어
+
+<p class="inscription-transliteration" lang="arc" dir="rtl">𐡔𐡍𐡍 𐡉 𐡐𐡕𐡉𐡕𐡅 𐡏𐡁𐡉𐡃 𐡆𐡉 𐡌𐡓𐡀𐡍 𐡐𐡓𐡉𐡃𐡀𐡓𐡔 𐡌𐡋𐡊𐡀 𐡒𐡔𐡉𐡈𐡀 𐡌𐡄𐡒𐡔𐡈 𐡌𐡍 𐡀𐡃𐡉𐡍 𐡆𐡏𐡉𐡓 𐡌𐡓𐡏𐡀 𐡋𐡊𐡋𐡄𐡌 𐡀𐡍𐡔𐡍 𐡅𐡊𐡋𐡄𐡌 𐡀𐡃𐡅𐡔𐡉𐡀 𐡄𐡅𐡁𐡃 𐡅𐡁𐡊𐡋 𐡀𐡓𐡒𐡀 𐡓𐡀𐡌 𐡔𐡕𐡉 𐡅𐡀𐡐 𐡆𐡉 𐡆𐡍𐡄 𐡊𐡌𐡀𐡊𐡋𐡀 𐡋𐡌𐡓𐡀𐡍 𐡌𐡋𐡊𐡀 𐡆𐡏𐡉𐡓 𐡒𐡈𐡋𐡍 𐡆𐡍𐡄 𐡋𐡌𐡇𐡆𐡄 𐡊𐡋𐡄𐡌 𐡀𐡍𐡔𐡍 𐡀𐡕𐡄𐡇𐡎𐡉𐡍𐡍 𐡀𐡆𐡉 𐡍𐡅𐡍𐡉𐡀 𐡀𐡇𐡃𐡍 𐡀𐡋𐡊 𐡀𐡍𐡔𐡍 𐡐𐡕𐡉𐡆𐡁𐡕 𐡊𐡍𐡌 𐡆𐡉 𐡐𐡓𐡁𐡎𐡕 𐡄𐡅𐡉𐡍 𐡀𐡋𐡊 𐡀𐡕𐡄𐡇𐡎𐡉𐡍𐡍 𐡌𐡍 𐡐𐡓𐡁𐡎𐡕𐡉 𐡅𐡄𐡅𐡐𐡕𐡉𐡎𐡕𐡉 𐡋𐡀𐡌𐡅𐡄𐡉 𐡅𐡋𐡀𐡁𐡅𐡄𐡉 𐡅𐡋𐡌𐡆𐡉𐡔𐡕𐡉𐡀 𐡀𐡍𐡎𐡍 𐡀𐡉𐡊 𐡀𐡎𐡓𐡄𐡉 𐡇𐡋𐡒𐡅𐡕𐡀 𐡅𐡋𐡀 𐡀𐡉𐡕𐡉 𐡃𐡉𐡍𐡀 𐡋𐡊𐡋𐡄𐡌 𐡀𐡍𐡔𐡉𐡀 𐡇𐡎𐡉𐡍 𐡆𐡍𐡄 𐡄𐡅𐡕𐡉𐡓 𐡋𐡊𐡋𐡄𐡌 𐡀𐡍𐡔𐡍 𐡅𐡀𐡅𐡎𐡐 𐡉𐡄𐡅𐡕𐡓</p>
+
+## 로마자 전사
+
+그리스어: *Déka etôn plḗrē[s hagn]ôn basileùs Piodássēs eusébeian édeixen toîs anthrṓpois, kaì apò toútou eusebestérous toùs anthrṓpous epoíēsen kaì pánta euthēneî katà pâsan gên. Kaì apéchetai basileùs tôn empsýchōn, kaì hoi loipoì dè ánthrōpoi; kaì hósoi thēreutaì ē halieîs basiléōs pépauntai thēreúontes; kaì eí tines akrateîs pépauntai tês akrasías katà dýnamin. Kaì enḗkooi patrì kaì mētrì kaì tôn presbytérōn parà tà próteron kaì toû loipoû, lṓion kaì ámeinon katà pánta, taûta poioûntes, diáxousin.*
+
+아람어: *šnn y ptytw ʿbyd zy mrʾn prydʾrš mlkʾ qšyṭʾ mhqšṭ mn ʾdyn zʿyr mrʿʾ lklhm ʾnšn wklhm ʾdwšyʾ hwbd wbkl ʾrqʾ rʾm šty wʾp zy znh kmʾklʾ lmrʾn mlkʾ zʿyr qṭln znh lmḥzh klhm ʾnšn ʾthhsynn ʾzy nwnyʾ ʾḥdn ʾlk ʾnšn ptyzbt knm zy prbst hwyn ʾlk ʾthḥsynn mn prbsty whwptysty lʾmwhy wlʾbwhy wlmzyštyʾ ʾnsn ʾyk ʾsrhy ḥlqwtʾ wlʾ ʾyty dynʾ lklhm ʾnšyʾ ḥsyn znh hwtyr lklhm ʾnšn wʾwsp yhwtr.*
+
+## 그리스어 번역
+
+첫머리는 불확실한 복원을 포함하고 있습니다. 이 번역은 현존하는 단어들과 프란체스코 마니스칼코(Francesco Maniscalco)가 논의한 판독을 따릅니다.
+
+> 10년이 지난 후 [첫 구절은 훼손됨], 피오다세스 왕은 사람들에게 경건함(eusebeia)을 알렸다. 그때부터 그는 사람들을 더욱 경건하게 만들었고, 온 땅에 모든 것이 번영하게 되었다. 왕은 살아 있는 생명을 죽이는 것을 삼가며, 다른 사람들도 그렇게 한다. 왕의 사냥꾼들과 어부들도 사냥과 고기잡이를 중단했다. 절제하지 못하던 이들도 힘이 닿는 한 그러한 행동을 그만두었다. 아버지와 어머니, 그리고 웃어른에게 순종함으로써, 현재와 미래에 이러한 실천을 따르는 사람들은 모든 면에서 더 나은 삶을 살게 될 것이다.
+
+## 아람어 번역
+
+아람어 본문은 표현을 달리한 병행 판본입니다. 특히 첫머리와 결말 부근에 이견이 있는 단어들이 포함되어 있습니다.
+
+> 제10년에 우리 주 프리야다르신 왕은 진리를 세웠다. 그 후 사람들 사이에서 악이 줄어들고 그들의 곤경이 사라졌으며, 평화와 번영이 온 땅에 퍼졌다. 음식에 관해서는 왕을 위해 오직 소수의 동물만이 도살된다. 이를 보고 사람들은 살생을 멈추었으며, 어부들도 이러한 제한을 받게 되었다. 절제하지 못하던 사람들도 그러한 행동을 버렸다. 그들은 의무에 따라 어머니, 아버지, 웃어른에게 순종한다. 의로운 이들에게는 심판이 없다 [의미에 이견이 있음]. 이는 모든 이에게 유익이 되었으며 앞으로 더욱 유익할 것이다.
+
+## 출처
+
+- Francesco Maniscalco, [“A New Interpretation of the Edicts of Aśoka from Kandahar” (2018)](https://doi.org/10.30687/AnnOr/2385-3042/2018/01/011), *Annali di Ca’ Foscari. Serie orientale* 54, pp. 239–264 (그리스어 텍스트, 번역 및 논의; CC BY 4.0).
+- Harry Falk, [*Aśokan Sites and Artefacts* (2006)](https://dokumen.pub/aokan-sites-and-artefacts-1nbsped-3805337124.html), pp. 241–243 (유적지, 사진 및 아람어 판본 문헌).
+- [이미지 기록](https://commons.wikimedia.org/wiki/File:AsokaKandahar.jpg), 위키미디어 공용 (퍼블릭 도메인).

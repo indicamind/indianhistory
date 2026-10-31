@@ -1,10 +1,10 @@
 import { LANGUAGES, languageFromUrl } from './languages';
 
 describe('Languages and i18n Helpers', () => {
-  it('should define all 27 supported languages', () => {
-    expect(LANGUAGES.length).toBe(27);
+  it('should define all 34 configured languages', () => {
+    expect(LANGUAGES.length).toBe(34);
     const codes = LANGUAGES.map(l => l.code);
-    const expected = ['en', 'hi', 'bn', 'ta', 'te', 'mr', 'ur', 'gu', 'kn', 'ml', 'pa', 'sa', 'es', 'fr', 'ar', 'zh', 'pt', 'or', 'si', 'ja', 'ne', 'id', 'th', 'de', 'fa', 'ru', 'ks'];
+    const expected = ['en', 'hi', 'bn', 'ta', 'te', 'mr', 'ur', 'gu', 'kn', 'ml', 'pa', 'sa', 'es', 'fr', 'ar', 'zh', 'pt', 'or', 'si', 'ja', 'ne', 'id', 'th', 'de', 'fa', 'ru', 'ks', 'ko', 'vi', 'tr', 'it', 'ms', 'sw', 'fil'];
     for (const code of expected) {
       expect(codes).toContain(code);
     }

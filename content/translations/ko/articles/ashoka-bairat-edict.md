@@ -1,0 +1,57 @@
+---
+title: '바이랏 칙령: 불교 승가를 위한 가르침'
+slug: ashoka-bairat-edict
+excerpt: 아쇼카는 비구, 비구니 및 재가 신자들에게 특정한 불교 가르침을 권장합니다.
+publishedAt: 2026-10-16T00:00:00.000Z
+updatedAt: 2026-10-16T00:00:00.000Z
+period: mauryan
+polity: maurya
+personalities:
+  - ashoka
+relatedTo: ashoka-edicts
+tags:
+  - 아쇼카
+  - 칙령
+  - 바이랏
+themes: []
+books:
+  - 0349122385
+  - 935699322X
+  - 0143330802
+  - B0BPDX1MXS
+sourceHash: d1c1db7570a726315a8d628b0b902f74d87c959dcc20e4c2934c19883bb75a5e
+---
+
+## 이 칙령에 대하여
+
+바브루 칙령으로도 불리는 이 메시지는 불교 승가(Saṃgha)를 수신인으로 합니다. 왕이 특히 가치 있다고 여긴 가르침들을 명시하고 있어, 다른 많은 주요 칙령들의 보다 일반적인 대중적 어조와 구별됩니다.
+
+## 원문 문자
+
+<figure class="article-figure inscription-plate">
+  <img src="/assets/media/images/ashoka-bairat-edict.jpg" alt="훌치의 1925년 판본에 실린 바이랏의 브라흐미 문자 비문 모사본" loading="lazy" decoding="async" />
+  <figcaption>바이랏 비문 모사본. E. Hultzsch, <em>Inscriptions of Asoka</em> (1925), 퍼블릭 도메인.</figcaption>
+</figure>
+
+## 로마자 전사
+
+아래 텍스트는 훌치 판본의 바이랏 텍스트를 따릅니다. 대괄호는 복원되었거나 불확실한 글자를 표시하며, 점은 훼손되거나 소실된 텍스트를 나타냅니다. 현존하는 다른 사본들과는 차이가 있을 수 있습니다.
+
+<p class="inscription-transliteration" lang="pra-Latn">(A) 1 Pr[i]yadas[i] l[ā]jā Māgadhe saṃghaṃ abhivāde[tū]naṃ āhā ap[ā]bādhataṃ ca phāsu-vihālataṃ cā (B) 2 vidite v[e] bhaṃte āvatake h[a]mā Budhasi dhaṃmasi saṃghasī ti gālave caṃ prasāde ca (C) e keci bhaṃte 3 bhagavatā Budhe[na] bhāsite sarve se subhāsite vā (D) e cu kho bhamte hamiyāye diseyā hevaṃ sadhamme 4 cil[a-ṭhi]tāke hosatī ti alahāmi hakaṃ ta[ṃ] v[ā]tave (E) imāni bhaṃt[e dha]mma-paliyāyani Vinaya-samukase 5 Aliya-vasāṇi Anāgata-bhayāni Muni-gāthā Moneya-sūte Upaṭisa-pasine e cā Laghulo-6vāde musā-vādaṃ adhigicya bhagavatā Budhena bhāsite etāni bhaṃte dhaṃma-paliyāyāni ichāmi 7 kiṃti bahuke bhikhu-[p]āye cā bhikhuniye c[ā] abhikhinaṃ sun[e]yu cā upadhāl[a]yeyū cā (F) 8 hevaṃmeva upāsakā cā upāsikā cā (G) eteni bhaṃte imaṃ likhā[pa]yāmi abhipretaṃ me jānaṃtū ti.</p>
+
+## 번역
+
+다음은 E. 훌치의 1925년 동일 판본 영어 번역을 옮긴 것입니다. 사용된 용어와 대괄호 속 복원은 당시의 역사적 판본을 반영합니다.
+
+> (A) 마가다의 왕 프리야다르신은 승가에 문안을 전하며, 그들이 무탈하고 평안하기를 희망한다.
+> (B) 존자들이시여, 불(Buddha), 법(Dharma), 승(Samgha)에 대한 저의 경의와 신심이 얼마나 깊은지는 여러분도 아시는 바와 같습니다.
+> (C) 존자들이시여, 존귀하신 붓다께서 말씀하신 것은 무엇이든 참으로 잘 설해진 것입니다.
+> (D) 그러나 존자들이시여, '이로써 참된 법이 오래도록 지속될 것이다'라는 (경전의 말씀이 가리킨다고) 제게 여겨지는 바를 마땅히 밝히고자 합니다.
+> (E) 존자들이시여, 다음과 같은 법의 해설들, 즉 (1) 비나야 사무카사(Vinaya-samukasa), (2) 알리야 바사(Aliya-vasas), (3) 아나가타 바야(Anāgata-bhayas), (4) 무니 가타(Muni-gāthās), (5) 모네야 수타(Moneya-sūta), (6) 우파티사 파시나(Upatisa-pasina), 그리고 (7) 거짓말에 관하여 존귀하신 붓다께서 설하신 라굴로바다(Lāghulovāda)에 대하여—존자들이시여, 저는 많은 비구 무리와 비구니들이 이러한 법의 해설을 거듭 듣고 (이를) 마음에 새기기를 바랍니다.
+> (F) 마찬가지로 우바새(재가 남성 신자)와 우바이(재가 여성 신자)도 (그렇게 해야 합니다).
+> (G) 존자들이시여, 그들이 저의 뜻을 알 수 있도록 하기 위하여 저는 이것을 기록하게 합니다.
+
+## 출처
+
+- E. Hultzsch, [*Inscriptions of Asoka* (1925)](https://archive.org/details/InscriptionsOfAsoka.NewEditionByE.Hultzsch), *Corpus Inscriptionum Indicarum*, 제I권.
+- [Bibliotheca Polyglotta 판본](https://www2.hf.uio.no/polyglotta/index.php?mid=0&page=fulltext&vid=383&view=fulltext), 오슬로 대학교(마가다어 전사, 영어 번역 및 비문 모사본).

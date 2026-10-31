@@ -1,0 +1,84 @@
+---
+title: "C’era un porto al largo di Poompuhar 15.000 anni fa?"
+slug: poompuhar-15000-year-old-port-claim
+excerpt: "I rilievi sonar hanno rivelato formazioni simili a un porto sotto il Golfo del Bengala, ma l’affermazione che si tratti di un porto risalente a 15.000 anni fa rimane indimostrata."
+publishedAt: 2026-08-21T13:30:00.000Z
+updatedAt: 2026-08-21T13:30:00.000Z
+period: upper-paleolithic
+tags:
+  - Poompuhar
+  - Archeologia marina
+  - Storia tamil
+  - miti storici
+  - prove controverse
+themes: []
+personalities: []
+books:
+  - 9347691194
+  - 9347691100
+  - 9347691240
+sourceHash: ac76d3efa6775fe175f1d636cd148858f15f989b24ccabe51e212f68df7cce5d
+---
+
+Al largo della costa del Tamil Nadu, i ricercatori hanno mappato conformazioni insolite sul fondale marino vicino a Poompuhar, lo storico porto noto anche come Puhar o Kaveripattinam. Alcuni hanno interpretato queste formazioni come un enorme complesso portuale fondato **11.000–15.000 anni fa**. Se confermata, l’esistenza di un porto di tale antichità cambierebbe radicalmente la storia della navigazione e della vita stanziale nell’Asia meridionale.
+
+**Non è stato confermato**. Le formazioni sottomarine sono osservazioni reali, ma la loro interpretazione come strutture costruite dall’uomo — e in particolare l’età proposta — rimane controversa. Nessun materiale da costruzione proveniente da scavi condotti con certezza nel sito in acque profonde è stato finora datato direttamente a 15.000 anni fa.
+
+## Il consolidato porto storico di Poompuhar
+
+Poompuhar sorge alla foce del fiume Kaveri, affacciata sul Golfo del Bengala. Opere tamil come *Pattinappalai*, *Silappadikaram* e *Manimekalai* la ricordano come un porto fiorente con mercati, navi e mercanti. Le ricerche archeologiche hanno portato alla luce strutture in mattoni, pozzi ad anelli, una banchina e altri reperti sulla terraferma e in acque poco profonde. Questi elementi corrispondono a un importante porto del periodo storico antico e dell’epoca Sangam, risalente a circa duemila anni fa.
+
+Parti di quell’insediamento sono andate perdute con il progressivo arretramento della linea di costa. Le indagini subacquee iniziate nel ventesimo secolo hanno individuato strutture e un relitto fino a circa otto chilometri al largo, mentre gli studi sui processi costieri hanno documentato un’erosione e una sommersione continue. Questo porto storico più recente e la sua parziale perdita in mare non rappresentano la parte controversa della vicenda.
+
+<figure class="article-figure">
+  <img
+    src="/assets/media/images/poompuhar-beach.jpg"
+    alt="Barche da pesca tirate a secca sull’ampia spiaggia sabbiosa di Poompuhar sul Golfo del Bengala"
+    loading="lazy"
+    decoding="async"
+  />
+  <figcaption>
+    L’attuale litorale di Poompuhar. Durante l’innalzamento del livello del mare dopo l’ultima era glaciale, la costa si trovava molti chilometri più a est.
+    <span class="figure-credit">
+      Immagine: <a href="https://commons.wikimedia.org/wiki/User:MARIKANNAN_G" rel="noopener noreferrer" target="_blank">MARIKANNAN G</a>
+      /
+      <a href="https://commons.wikimedia.org/wiki/File:Poompuhar_Beach.jpg" rel="noopener noreferrer" target="_blank">Wikimedia Commons</a>
+      /
+      <a href="https://creativecommons.org/licenses/by-sa/4.0/" rel="license noopener noreferrer" target="_blank">CC BY-SA 4.0</a>
+    </span>
+  </figcaption>
+</figure>
+
+## Da dove proviene la datazione di 15.000 anni
+
+Nel 2017, un’équipe della Bharathidasan University ha ricostruito le antiche linee di costa utilizzando una curva globale del livello dei mari e la General Bathymetric Chart of the Oceans (GEBCO). Alla fine dell’ultima era glaciale, il livello del mare era molto più basso rispetto a oggi. Il loro modello ha collocato la costa circa 30 chilometri a est-sud-est della moderna Poompuhar attorno a 20.000–15.000 anni fa, vicino a un antico lobo del delta del Kaveri.
+
+I ricercatori hanno ipotizzato che una prima Poompuhar potesse sorgere su questo delta oggi sommerso, prima di spostarsi gradualmente verso l’interno con l’innalzamento del mare. Uno studio del 2020 ha combinato i dati GEBCO più recenti con misurazioni tramite ecoscandaglio multifascio (multibeam). A profondità di circa 70–80 metri, sono state mappate formazioni che gli autori hanno interpretato come frangiflutti, canali, bacini portuali e altre parti di un porto pianificato, distribuite su un’area lunga circa 11 chilometri e larga 2–3 chilometri.
+
+La datazione proposta è scaturita principalmente dalla corrispondenza tra la profondità e la posizione delle formazioni con un modello dei livelli marini e delle linee di costa del passato. In altre parole, lo studio ha cercato di stabilire quando tale fondale fosse emerso come terraferma. Ciò fornisce una **stima dell’età geologica del paesaggio sommerso**, non una datazione archeologica diretta dell’edificazione o dell’insediamento umano.
+
+## Perché l’ipotesi rimane non dimostrata
+
+La batimetria e il sonar sono preziosi strumenti di prospezione, ma registrano la forma e la risposta acustica. Antichi alvei fluviali sommersi, dorsali, corpi sedimentari e roccia erosa possono generare schemi geometrici dall’aspetto regolare. Prima che un’anomalia del fondale marino possa essere identificata con sicurezza come architettura, gli archeologi marini richiedono solitamente un’ispezione visiva ravvicinata, una mappatura dettagliata, reperti culturali scavati e datazioni collegate direttamente a un contesto archeologico indisturbato.
+
+Per le formazioni in acque profonde di Poompuhar, rimangono ancora da compiere diversi passaggi decisivi:
+
+- confermare tramite veicoli a controllo remoto (ROV), immersioni o scavi che le formazioni siano artificiali e non naturali;
+- recuperare manufatti o materiali da costruzione in associazione stratigrafica certa con esse;
+- datare direttamente tali materiali anziché dedurne l’età dal livello del mare;
+- pubblicare un numero sufficiente di prove indipendenti affinché altri specialisti possano verificare l’interpretazione.
+
+Si pone inoltre una questione di plausibilità storica. Quindicimila anni fa ci si trovava verso la fine del Paleolitico, molto prima delle testimonianze attualmente accettate di porti urbani in qualsiasi parte del mondo. Ciò non rende l’ipotesi impossibile, ma implica che le prove debbano essere eccezionalmente solide. Un porto presuppone una costruzione organizzata, un insediamento duraturo, imbarcazioni, coordinamento del lavoro e commercio; la sola geometria rilevata da un sonar non può dimostrare l’esistenza di un simile sistema sociale.
+
+## Una questione aperta, non una data accertata
+
+La conclusione rigorosa è quindi duplice. In primo luogo, Poompuhar è senza dubbio un importante porto storico tamil lungo una costa ripetutamente rimodellata da erosione, inondazioni e innalzamento dei mari. In secondo luogo, l’ipotetico predecessore risalente a 15.000 anni fa è una suggestiva congettura in attesa di conferme archeologiche dirette.
+
+Ulteriori indagini in mare aperto, carotaggi del fondale e scavi mirati potrebbero rafforzare, correggere o smentire questa tesi. Fino ad allora, è più corretto affermare che i ricercatori hanno mappato **possibili formazioni simili a un porto su un paesaggio sommerso dalla fine dell’era glaciale**, piuttosto che definire Poompuhar un porto accertato di 15.000 anni fa.
+
+## Fonti
+
+- S. M. Ramasamy et al., “[Coordinates and chronology of the ancient port city of Poompuhar, South India](https://www.currentscience.ac.in/Volumes/112/06/1112.pdf)”, *Current Science* 112, n. 6 (2017), 1112–1115.
+- S. M. Ramasamy et al., “[Detection of submerged harbour using GEBCO and MBES data, in the offshore region of ancient port city Poompuhar, South India](https://doi.org/10.18520/cs/v119/i3/526-534)”, *Current Science* 119, n. 3 (2020), 526–534.
+- Dipartimento di Archeologia del Tamil Nadu, “[Under Water Archaeology](https://www.tnarch.gov.in/under-water-archaeology)”.
+- K. S. Jayaraman, “[Submerged ancient Indian harbour may have been design inspiration for Neapolis, Alexandria](https://doi.org/10.1038/nindia.2020.133)”, *Nature India* (2020).

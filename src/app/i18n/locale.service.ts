@@ -50,6 +50,13 @@ export class LocaleService {
       fa: () => import('@angular/common/locales/fa'),
       ru: () => import('@angular/common/locales/ru'),
       ks: () => import('@angular/common/locales/ks'),
+      ko: () => import('@angular/common/locales/ko'),
+      vi: () => import('@angular/common/locales/vi'),
+      tr: () => import('@angular/common/locales/tr'),
+      it: () => import('@angular/common/locales/it'),
+      ms: () => import('@angular/common/locales/ms'),
+      sw: () => import('@angular/common/locales/sw'),
+      fil: () => import('@angular/common/locales/fil'),
     };
     registerLocaleData((await localeData[this.language]()).default);
     try {

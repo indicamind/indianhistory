@@ -3,6 +3,7 @@ import { DOCUMENT } from '@angular/common';
 import { HttpClient } from '@angular/common/http';
 import { of } from 'rxjs';
 import { LocaleService } from './locale.service';
+import { AVAILABLE_LANGUAGES } from './available-languages.generated';
 
 describe('LocaleService', () => {
   let service: LocaleService;
@@ -127,5 +128,24 @@ describe('LocaleService', () => {
     expect(mockDoc.documentElement.dir).toBe('rtl');
     expect(mockDoc.title).toBe('عنوان المقال');
     expect(urls).toEqual(['/assets/generated/ar/site.json']);
+  });
+
+  it('loads the new locale data without offering unfinished editions in the selector', async () => {
+    for (const code of ['ko', 'vi', 'tr', 'it', 'ms', 'sw', 'fil']) {
+      mockDoc.location.href = `http://localhost:4201/${code}/article/ashoka-sudama-cave-inscription`;
+      const urls: string[] = [];
+      const injector = Injector.create({ providers: [
+        { provide: DOCUMENT, useValue: mockDoc },
+        { provide: HttpClient, useValue: { get: (url: string) => { urls.push(url); return of({}); } } },
+      ] });
+      const localized = runInInjectionContext(injector, () => new LocaleService());
+      await localized.load();
+      expect(localized.language).toBe(code);
+      expect(mockDoc.documentElement.lang).toBe(code);
+      expect(mockDoc.documentElement.dir).toBe('ltr');
+      expect(localized.languages.some(language => language.code === code)).toBe(AVAILABLE_LANGUAGES.includes(code));
+      expect(urls).toEqual([`/assets/generated/${code}/site.json`]);
+      expect(localized.navigation.search).toBeTruthy();
+    }
   });
 });

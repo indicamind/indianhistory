@@ -14,6 +14,8 @@ const OG_LOCALES = {
   es: 'es_ES', fr: 'fr_FR', de: 'de_DE', pt: 'pt_BR', ru: 'ru_RU',
   ar: 'ar_AR', fa: 'fa_IR',
   zh: 'zh_CN', ja: 'ja_JP', th: 'th_TH', id: 'id_ID',
+  ko: 'ko_KR', vi: 'vi_VN', tr: 'tr_TR', it: 'it_IT',
+  ms: 'ms_MY', sw: 'sw_KE', fil: 'tl_PH',
 };
 const WIDTH = 1200;
 const HEIGHT = 630;
@@ -140,8 +142,11 @@ async function generateSharePages(options = {}) {
     fs.writeFileSync(file, html);
     pages.push(route);
   };
+  // The content build emits localized assets only after its release gate passes.
+  // Configuring a locale alone must not publish share pages or hreflang links.
   const languages = options.languages || Object.keys(OG_LOCALES).filter(language =>
-    !IN_PROGRESS_LANGUAGES.has(language) || fs.existsSync(path.join(generated, language, 'site.json')));
+    language === 'en' || ['site.json', 'articles.json', 'blogs.json', 'search-index.json']
+      .every(file => fs.existsSync(path.join(generated, language, file))));
   const variants = new Map();
   for (const language of languages) {
     if (!OG_LOCALES[language]) throw new Error(`Unsupported share language: ${language}`);

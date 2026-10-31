@@ -17,7 +17,7 @@ The user requested seven additional language editions on 2026-10-31. Completed e
 | Vietnamese | `vi` | 418 / 418 | 47 / 47 | 1 / 1 | Released |
 | Turkish | `tr` | 418 / 418 | 47 / 47 | 1 / 1 | Released |
 | Malay | `ms` | 418 / 418 | 47 / 47 | 1 / 1 | Released |
-| Swahili | `sw` | 418 / 418 | 3 / 47 | 1 / 1 | In preparation |
+| Swahili | `sw` | 418 / 418 | 47 / 47 | 1 / 1 | Released |
 | Filipino | `fil` | 418 / 418 | 3 / 47 | 1 / 1 | In preparation |
 
 These counts are a snapshot; rerun the checker for current requirements. The first translated articles are the Sudama, Visvakarma, and Karna Chaupar cave inscriptions. Each translation includes the complete body, metadata, tags, image alt text and attribution, and a final Sources section with image credits. Original Prakrit transliterations remain unchanged.

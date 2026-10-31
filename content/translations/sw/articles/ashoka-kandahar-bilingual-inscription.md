@@ -1,0 +1,71 @@
+---
+title: 'Maandishi ya lugha mbili ya Kandahar: Ucha Mungu na ukweli'
+slug: ashoka-kandahar-bilingual-inscription
+excerpt: >-
+  Tangazo la Kigiriki na Kiaramu kutoka Kandahar linaunganisha sera ya kimaadili
+  ya mfalme na kujizuia, ulinzi wa viumbe hai, na heshima kwa wazazi.
+publishedAt: 2026-10-16T00:00:00.000Z
+updatedAt: 2026-10-16T00:00:00.000Z
+period: mauryan
+polity: maurya
+personalities:
+  - ashoka
+relatedTo: ashoka-edicts
+tags:
+  - Ashoka
+  - maandishi ya kuchongwa
+  - Kigiriki
+  - Kiaramu
+themes: []
+books:
+  - 0349122385
+  - 935699322X
+  - 0143330802
+  - B0BPDX1MXS
+sourceHash: 80e0914cc0268257a5c540daff88e293cc21b355a4a03d18092e72db34f4f6ca
+---
+
+## Kuhusu maandishi haya
+
+Yaligunduliwa mnamo 1957 karibu na Kandahar, maandishi haya yanazungumza na jamii zilizozungumza Kigiriki na Kiaramu huko Arachosia kwa lugha zao wenyewe. Maandishi haya mawili yanalingana kimaana lakini yanatumia maneno tofauti, kila moja likiweka sera ya mfalme katika istilahi zinazofahamika kwa hadhira yake.
+
+## Hati ya asili
+
+<figure class="article-figure inscription-plate">
+  <img src="/assets/media/images/ashoka-kandahar-bilingual.jpg" alt="Jiwe la maandishi ya lugha mbili ya Kandahar likiwa na mistari ya Kigiriki juu na mistari ya Kiaramu chini" loading="lazy" decoding="async" />
+  <figcaption>Jiwe la maandishi ya lugha mbili ya Kandahar, Jumba la Makumbusho la Kabul; picha kupitia Wikimedia Commons, katika milki ya umma.</figcaption>
+</figure>
+
+### Kigiriki
+
+<p class="inscription-transliteration" lang="grc">Δέκα ἐτῶν πληρη[... ...]ων ὁ βασιλεὺς<br>Πιοδασσης εὐσέβειαν ἔδειξεν τοῖς ἀν-<br>θρώποις, καὶ ἀπὸ τούτου εὐσεβεστέρους<br>τοὺς ἀνθρώπους ἐποίησεν καὶ πάντα<br>εὐθηνεῖ κατὰ πᾶσαν γῆν, καὶ ἀπέχεται<br>βασιλεὺς τῶν ἐμψύχων καὶ οἱ λοιποὶ δὲ<br>ἄνθρωποι, καὶ ὅσοι θηρευταὶ ἢ ἁλιεῖς<br>βασιλέως πέπαυνται θηρεύοντες, καὶ<br>εἴ τινες ἀκρατεῖς, πέπαυνται τῆς ἀκρα-<br>σίας κατὰ δύναμιν, καὶ ἐνήκοοι πατρὶ<br>καὶ μητρὶ καὶ τῶν πρεσβυτέρων πα-<br>ρὰ τὰ πρότερον, καὶ τοῦ λοιποῦ λῷον<br>καὶ ἄμεινον κατὰ πάντα ταῦτα<br>ποιοῦντες διάξουσιν.</p>
+
+<p class="inscription-transliteration" lang="grc-Grek">Δέκα ἐτῶν πληρη[... ...]ων ὁ βασιλεὺς Πιοδασσης εὐσέβειαν ἔδειξεν τοῖς ἀνθρώποις, καὶ ἀπὸ τούτου εὐσεβεστέρους τοὺς ἀνθρώπους ἐποίησεν καὶ πάντα εὐθηνεῖ κατὰ πᾶσαν γῆν, καὶ ἀπέχεται βασιλεὺς τῶν ἐμψύχων καὶ οἱ λοιποὶ δὲ ἄνθρωποι, καὶ ὅσοι θηρευταὶ ἢ ἁλιεῖς βασιλέως πέπαυνται θηρεύοντες, καὶ εἴ τινες ἀκρατεῖς, πέπαυνται τῆς ἀκρασίας κατὰ δύναμιν, καὶ ἐνήκοοι πατρὶ καὶ μητρὶ καὶ τῶν πρεσβυτέρων παρὰ τὰ πρότερον, καὶ τοῦ λοιποῦ λῷον καὶ ἄμεινον κατὰ πάντα ταῦτα ποιοῦντες διάξουσιν.</p>
+
+### Kiaramu
+
+<p class="inscription-transliteration" lang="arc" dir="rtl">𐡔𐡍𐡍 𐡉 𐡐𐡕𐡉𐡕𐡅 𐡏𐡁𐡉𐡃 𐡆𐡉 𐡌𐡓𐡀𐡍 𐡐𐡓𐡉𐡃𐡀𐡓𐡔 𐡌𐡋𐡊𐡀 𐡒𐡔𐡉𐡈𐡀 𐡌𐡄𐡒𐡔𐡈 𐡌𐡍 𐡀𐡃𐡉𐡍 𐡆𐡏𐡉𐡓 𐡌𐡓𐡏𐡀 𐡋𐡊𐡋𐡄𐡌 𐡀𐡍𐡔𐡍 𐡅𐡊𐡋𐡄𐡌 𐡀𐡃𐡅𐡔𐡉𐡀 𐡄𐡅𐡁𐡃 𐡅𐡁𐡊𐡋 𐡀𐡓𐡒𐡀 𐡓𐡀𐡌 𐡔𐡕𐡉 𐡅𐡀𐡐 𐡆𐡉 𐡆𐡍𐡄 𐡊𐡌𐡀𐡊𐡋𐡀 𐡋𐡌𐡓𐡀𐡍 𐡌𐡋𐡊𐡀 𐡆𐡏𐡉𐡓 𐡒𐡈𐡋𐡍 𐡆𐡍𐡄 𐡋𐡌𐡇𐡆𐡄 𐡊𐡋𐡄𐡌 𐡀𐡍𐡔𐡍 𐡀𐡕𐡄𐡇𐡎𐡉𐡍𐡍 𐡀𐡆𐡉 𐡍𐡅𐡍𐡉𐡀 𐡀𐡇𐡃𐡍 𐡀𐡋𐡊 𐡀𐡍𐡔𐡍 𐡐𐡕𐡉𐡆𐡁𐡕 𐡊𐡍𐡌 𐡆𐡉 𐡐𐡓𐡁𐡎𐡕 𐡄𐡅𐡉𐡍 𐡀𐡋𐡊 𐡀𐡕𐡄𐡇𐡎𐡉𐡍𐡍 𐡌𐡍 𐡐𐡓𐡁𐡎𐡕𐡉 𐡅𐡄𐡅𐡐𐡕𐡉𐡎𐡕𐡉 𐡋𐡀𐡌𐡅𐡄𐡉 𐡅𐡋𐡀𐡁𐡅𐡄𐡉 𐡅𐡋𐡌𐡆𐡉𐡔𐡕𐡉𐡀 𐡀𐡍𐡎𐡍 𐡀𐡉𐡊 𐡀𐡎𐡓𐡄𐡉 𐡇𐡋𐡒𐡅𐡕𐡀 𐡅𐡋𐡀 𐡀𐡉𐡕𐡉 𐡃𐡉𐡍𐡀 𐡋𐡊𐡋𐡄𐡌 𐡀𐡍𐡔𐡉𐡀 𐡇𐡎𐡉𐡍 𐡆𐡍𐡄 𐡄𐡅𐡕𐡉𐡓 𐡋𐡊𐡋𐡄𐡌 𐡀𐡍𐡔𐡍 𐡅𐡀𐡅𐡎𐡐 𐡉𐡄𐡅𐡕𐡓</p>
+
+## Unukuzi kwa herufi za Kilatini
+
+Greek: *Déka etôn plḗrē[s hagn]ôn basileùs Piodássēs eusébeian édeixen toîs anthrṓpois, kaì apò toútou eusebestérous toùs anthrṓpous epoíēsen kaì pánta euthēneî katà pâsan gên. Kaì apéchetai basileùs tôn empsýchōn, kaì hoi loipoì dè ánthrōpoi; kaì hósoi thēreutaì ē halieîs basiléōs pépauntai thēreúontes; kaì eí tines akrateîs pépauntai tês akrasías katà dýnamin. Kaì enḗkooi patrì kaì mētrì kaì tôn presbytérōn parà tà próteron kaì toû loipoû, lṓion kaì ámeinon katà pánta, taûta poioûntes, diáxousin.*
+
+Aramaic: *šnn y ptytw ʿbyd zy mrʾn prydʾrš mlkʾ qšyṭʾ mhqšṭ mn ʾdyn zʿyr mrʿʾ lklhm ʾnšn wklhm ʾdwšyʾ hwbd wbkl ʾrqʾ rʾm šty wʾp zy znh kmʾklʾ lmrʾn mlkʾ zʿyr qṭln znh lmḥzh klhm ʾnšn ʾthhsynn ʾzy nwnyʾ ʾḥdn ʾlk ʾnšn ptyzbt knm zy prbst hwyn ʾlk ʾthḥsynn mn prbsty whwptysty lʾmwhy wlʾbwhy wlmzyštyʾ ʾnsn ʾyk ʾsrhy ḥlqwtʾ wlʾ ʾyty dynʾ lklhm ʾnšyʾ ḥsyn znh hwtyr lklhm ʾnšn wʾwsp yhwtr.*
+
+## Tafsiri ya Kigiriki
+
+Mwanzo una urejesho usio na uhakika. Tafsiri hii inafuata maneno yaliyosalia na usomaji uliojadiliwa na Francesco Maniscalco.
+
+> Baada ya miaka kumi [maneno ya ufunguzi yameharibika], Mfalme Piodasses alifanya ucha Mungu ujulikane kwa watu. Tangu wakati huo akawafanya wawe wacha Mungu zaidi, na mambo yanasitawi kila mahali. Mfalme anajizuia kuua viumbe hai; watu wengine wanafanya vivyo hivyo pia. Wawindaji na wavuvi wa mfalme wameacha kuwinda. Wale waliokosa kujizuia wameacha mwenendo huo kadiri ya uwezo wao. Kwa kuwatii baba, mama, na wazee, sasa na katika siku zijazo, watu wanaofuata matendo haya wataishi vizuri zaidi kwa kila namna.
+
+## Tafsiri ya Kiaramu
+
+Toleo la Kiaramu linalingana nalo lakini linatumia maneno tofauti. Usomaji wake unajumuisha maneno yenye mabishano, hasa karibu na mwanzo na mwisho.
+
+> Katika mwaka wa kumi, bwana wetu Mfalme Priyadarśin alianzisha ukweli. Baada ya hapo uovu miongoni mwa watu ulipungua na matatizo yao yakaondolewa; amani na ustawi vikaenea katika nchi nzima. Kuhusu chakula, wanyama wachache tu ndio wanaouawa kwa ajili ya mfalme. Wakiona haya, watu waliacha kuua, na wavuvi pia wakaingia chini ya kizuizi hicho. Watu wasio na kiasi waliacha mwenendo huo. Wanawatii mama, baba, na wazee kulingana na wajibu wao. Kwa waadilifu hakuna hukumu [maana inabishaniwa]. Jambo hili limemnufaisha kila mtu na litawanufaisha hata zaidi.
+
+## Vyanzo
+
+- Francesco Maniscalco, [“A New Interpretation of the Edicts of Aśoka from Kandahar” (2018)](https://doi.org/10.30687/AnnOr/2385-3042/2018/01/011), *Annali di Ca’ Foscari. Serie orientale* 54, pp. 239–264 (Greek text, translation, and discussion; CC BY 4.0).
+- Harry Falk, [*Aśokan Sites and Artefacts* (2006)](https://dokumen.pub/aokan-sites-and-artefacts-1nbsped-3805337124.html), pp. 241–243 (site, image, and bibliography of Aramaic editions).
+- [Image record](https://commons.wikimedia.org/wiki/File:AsokaKandahar.jpg), Wikimedia Commons (public domain).

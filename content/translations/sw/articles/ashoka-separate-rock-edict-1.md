@@ -1,0 +1,81 @@
+---
+title: 'Amri Tenga ya Mwamba I: Haki huko Kalinga'
+slug: ashoka-separate-rock-edict-1
+excerpt: >-
+  Ashoka anawaelekeza maafisa katika eneo jipya lililotekwa la Kalinga kuepuka
+  adhabu zisizo na haki na kuwatendea watu kwa usawa.
+publishedAt: 2026-10-16T00:00:00.000Z
+updatedAt: 2026-10-16T00:00:00.000Z
+period: mauryan
+polity: maurya
+personalities:
+  - ashoka
+relatedTo: ashoka-edicts
+tags:
+  - Ashoka
+  - amri
+  - amri tenga ya mwamba
+themes: []
+books:
+  - 0349122385
+  - 935699322X
+  - 0143330802
+  - B0BPDX1MXS
+sourceHash: cf9e79e47f2f44909e082b805d1a567a418039c67c2e2d94d12906c008071803
+---
+
+## Kuhusu amri hii
+
+Ikiwa imeelekezwa kwa maafisa huko Tosali, amri hii maalum inalenga haki isiyo na upendeleo na ukaguzi wa mara kwa mara baada ya kutekwa kwa Kalinga. Matoleo ya Dhauli na Jaugada yanatofautiana katika walengwa wao wa maeneo hayo.
+
+## Hati ya asili
+
+<figure class="article-figure inscription-plate">
+  <img src="/assets/media/images/ashoka-plate-1405670299.jpg" alt="Nakala inayofanana na maandishi ya Brahmi kutoka Dhauli katika toleo la Hultzsch la 1925" loading="lazy" decoding="async" />
+  <figcaption>Nakala ya maandishi ya Dhauli. E. Hultzsch, <em>Inscriptions of Asoka</em> (1925), katika milki ya umma.</figcaption>
+</figure>
+
+## Unukuzi kwa herufi za Kilatini
+
+Maandishi yaliyo hapa chini yanafuata toleo la Dhauli katika toleo la Hultzsch. Mabano ya mraba yanaonyesha herufi zilizorejeshwa au zisizo na uhakika; nukta zinaonyesha maandishi yaliyoharibika au yaliyopotea. Nakala nyingine zilizosalia zinaweza kutofautiana.
+
+<p class="inscription-transliteration" lang="pra-Latn">(A) 1 [Devāna]ṃ[pi]y[asa vaca]nena Tosaliyaṃ ma[hā]mata [naga]la[v]i[yo]hālak[ā] 2 [va]taviya (B) [aṃ kichi dakha]mi hakam taṃ ichāmi k[i]ṃ[t]i kaṃ[mana pa]ṭi[pāda y]ehaṃ 3 duvālate ca ālabheham (C) esa ca me mokhya-mata duva[la etasi aṭha]si aṃ tuph[esu] 4 anusathi (D) tuphe hi bahūsu pāna-sahasesuṃ ā[yata] p[a]na[yaṃ ga]ch[e]ma su munisānam (E) save 5 munise pajā mama (F) ath[ā] pajāye ichāmi h[a]ka[m kiṃti sa]ve[na hi]ta-sukhena hidalo[kika]6palalokike[na] y[ūjev]ū [t]i [tathā .... muni]sesu pi [i]chāmi [ha]ka[ṃ] (G) no ca pāpunātha āv[a]-ga-7[m]u[k]e [iyaṃ aṭhe] (H) [k]e[cha] v[a] eka-puli[se] .... nāti e[ta]ṃ se pi desaṃ no savaṃ (I) de[kha]t[a hi t]u[phe] etaṃ 8 suvi[hi]tā pi (J) [n]itiyaṃ eka-pulise [pi athi] y[e] baṃdhanaṃ vā p[a]likilesaṃ vā papunati (K) tata hoti 9 akasmā tena badhana[ṃ]tik[a] aṃne ca ...... hu jane da[v]iye dukhīyati (L) tata ichitaviye 10 tuphehi kiṃti m[a]jhath paṭipādayema ti (M) imeh[i] cu [jāteh]i no saṃpaṭipajati isāya āsulopena 11 ni[ṭhū]liyena tūlanā[ya] anāvūtiya ālasiyena k[i]lamathena (N) se ichitaviye kitiṃ ete 12 [jātā no] huvevu ma[m]ā ti (O) etasa ca sava[sa] mūle anāsulope a[tū]l[a]nā ca (P) niti[ya]ṃ e kilaṃte siyā 13 [na] te uga[cha] saṃcalitaviy[e] tu va[ṭ]ita[v]iy[e] etaviye vā (Q) hevaṃmeva e da[kheya] t[u]phāk[a] tena vataviye 14 ānaṃne dekhata hevaṃ ca hev[a]ṃ ca [D]evānaṃpiyasa anusathi (R) se mah[a-pha]le [e] t[a]sa [saṃpa]tipada 15 mahā-apāye asaṃpaṭipati (S) [vi]pat[i]pādayamīne hi etaṃ nathi svagasa [ā]l[a]dhi no lāj[ā]la[dh]i (T) 16 duā[ha]le hi i[ma]sa kaṃm[asa] m[e] kute man[o]-atileke (U) sa[ṃ]paṭipajam[ī]n[e] cu [etaṃ] svaga[ṃ] 17 ālādha[yi]sa[tha mama ca ā]naniyaṃ ehatha (V) 18 iyaṃ ca l[i]p[i] t[i]sana[kha]tena so[ta]viy[ā] (W) aṃta[l]ā [p]i ca [t]ī[s]e[na kha]nasi kha[nas]i ekena pi sotaviya (X) hevaṃ ca kalaṃtaṃ tuphe 19 caghatha saṃpa[ṭi]pād[a]y[i]tave (Y) [e]t[a]ye athāye 13 iya[ṃ l]i[p]i likhit[a h]ida ena 20 nagala-vi[y]o[hā]lakā sas[v]ataṃ samayaṃ yūjevū t[i] ...... [na]sa akasmā [pa]libodhe va 21 (a) k(a) smā paliki[l]e[s]e va no siya ti (Z) etāye ca aṭhāye haka[ṃ] .... mate p[a]ṃcasu paṃcasu [va]se22su [n]i[khā]may[i]sāmi e akhakhase a[caṃ]ḍ[e] s[a]khinālaṃbhe hosati etaṃ aṭhaṃ jānitu . . . . . . [ta]thā 23 kala[ṃ]ti atha mama anusathī ti (AA) Ujenite pi cu kumāle etāye v[a] aṭhāye [ni]khāma[yisa] . . . . . . 24 hedisameva vagaṃ no ca atikāmayisati tiṃni vasāni (BB) hemeva T[a]kha[s]ilāte pi (CC) [a]dā ...... 25 te mahāmātā nikhamisaṃti anusayānaṃ tadā ahāpayitu atane kaṃmaṃ etaṃ pi jānisaṃti 26 taṃ pi ta[th]ā kalaṃti lājine anusathī</p>
+
+## Tafsiri
+
+Hii ni tafsiri ya toleo hilohilo kutoka katika kazi ya E. Hultzsch ya mwaka 1925. Istilahi zake na marejesho yaliyo kwenye mabano yanaakisi toleo hilo la kihistoria.
+
+> (A) Kwa neno la Devānāṃpriya, Mahāmātra huko Tosali, (ambao ni) maafisa wa mahakama wa mji, wanapaswa kuambiwa (hivi).
+> (B) Chochote ninachokitambua (kuwa sahihi), ninajitahidi kukitekeleza kwa matendo, na kukitimiza kwa njia (mbalimbali).
+> (C) Na hii inachukuliwa nami kuwa njia kuu ya lengo hili, yaani (kutoa) maagizo kwenu.
+> (D) Kwa maana mnajishughulisha na maelfu mengi ya watu, kwa lengo la kupata upendo wa watu.
+> (E) Watu wote ni wanangu.
+> (F) Kama vile ninavyowatakia watoto wangu wenyewe kupata ustawi kamili na furaha katika ulimwengu huu na katika ulimwengu ujao, ndivyo ninavyowatakia pia watu [wote].
+> (G) Nanyi hamtambui jinsi lengo hili (langu) linavyofika mbali.
+> (H) Mtu mmoja tu ndiye anayejua hili, (na) hata yeye (anajua) sehemu tu, (lakini) si yote kwa ukamilifu.
+> (I) Basi lazima mtilie maanani jambo hili, ingawa mmeandaliwa vizuri.
+> (J) Inatokea katika utoaji wa haki kwamba mtu mmoja anateseka kwa kufungwa au kutendewa kikatili.
+> (K) Katika hali hiyo, (amri ya) kufuta kifungo inapatikana naye kwa bahati tu, huku watu wengine [wengi] wakiendelea kuteseka.
+> (L) Katika hali hii lazima mjitahidi kuwashughulikia (wote) bila upendeleo.
+> (M) Lakini mtu anashindwa kutenda (hivyo) kwa sababu ya mielekeo ifuatayo: wivu, hasira, ukatili, haraka, ukosefu wa mazoezi, uvivu, (na) uchovu.
+> (N) Lazima mjitahidi kuhakikisha kwamba mielekeo hii haitokei kwenu.
+> (O) Na mzizi wa yote haya ni kutokuwa na hasira na kuepuka haraka.
+> (P) Yule aliyechoka katika utoaji (wa haki); hatasimama; lakini mtu anapaswa kusonga, kutembea, na kusonga mbele.
+> (Q) Yeye atakayetilia maanani jambo hili lazima awaambie: ‘Angalieni kwamba mnalipa deni (lile mnalomdai mfalme); haya na haya ndiyo maagizo ya Devānāṃpriya.’
+> (R) Kushika maagizo haya huzaa matunda makubwa, (lakini) kutoyashika (huleta) maovu makubwa.
+> (S) Kwa maana mtu akishindwa kushika haya, hatapata mbingu wala kumridhisha mfalme.
+> (T) Kwani mawazo yangu yatafurahishwaje ikiwa mtu atatekeleza wajibu huu vibaya?
+> (U) Lakini ikiwa (nyinyi) mtashika haya, mtapata mbingu, na mtalipa deni (mnalonidai) mimi.
+> (V) Na amri hii lazima isikilizwe (na wote kila siku ya) kundi la nyota la Tishya.
+> (W) Na inaweza kusikilizwa hata na mtu mmoja pia mara kwa mara katika nyakati nyingine kati ya (siku za) Tishya.
+> (X) Na mkitenda hivyo, mtaweza kutimiza (wajibu huu).
+> (Y) Kwa ajili ya kusudi lifuatalo hati hii imeandikwa hapa, (yaani) ili maafisa wa mahakama wa mji waweze kujitahidi wakati wote (kwa hili), (kwamba) hakuna kufungwa minyororo kusikostahili wala mateso yasiyostahili yanayowapata [watu].
+> (Z) Na kwa kusudi lifuatalo nitamtuma kila baada ya miaka mitano [Mahāmātra] ambaye hatakuwa mkatili wala mkali, (bali) mwenye matendo ya upole, (yaani ili kubaini) iwapo (maafisa wa mahakama), wakizingatia lengo hili, ..... wanatenda hivi, kama maagizo yangu (yanavyoelekeza).
+> (AA) Lakini kutoka Ujjayinī pia mwana mfalme (gavana) atamtuma mtu wa sifa hizohizo kwa kusudi hilohilo ….. naye hataruhusu (zaidi ya) miaka mitatu kupita (bila kufanya ujumbe kama huo).
+> (BB) Vivyo hivyo (afisa atatumwa) kutoka Takshaśilā pia.
+> (CC) Wakati ..... hawa Mahāmātra watakapoondoka kwenye safari zao za ukaguzi, basi, bila kupuuza majukumu yao wenyewe, watachunguza hili pia, (yaani) ikiwa (maafisa wa mahakama) wanatekeleza haya pia hivi, kama maagizo ya mfalme (yanavyoelekeza).
+
+## Vyanzo
+
+- E. Hultzsch, [*Inscriptions of Asoka* (1925)](https://archive.org/details/InscriptionsOfAsoka.NewEditionByE.Hultzsch), *Corpus Inscriptionum Indicarum*, volume I.
+- [Bibliotheca Polyglotta edition](https://www2.hf.uio.no/polyglotta/index.php?mid=0&page=fulltext&vid=364&view=fulltext), University of Oslo (Magadhi transliteration, English translation, and inscription facsimiles).

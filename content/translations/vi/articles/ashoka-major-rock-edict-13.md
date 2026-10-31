@@ -1,0 +1,78 @@
+---
+title: "Đại sắc lệnh trên đá XIII: Sau cuộc chinh phục Kalinga"
+slug: ashoka-major-rock-edict-13
+excerpt: "Ashoka miêu tả nỗi đau thương do cuộc chinh phục Kalinga gây ra và ca ngợi cuộc chinh phục bằng Chánh pháp."
+publishedAt: 2026-10-16T00:00:00.000Z
+updatedAt: 2026-10-16T00:00:00.000Z
+period: mauryan
+polity: maurya
+personalities:
+  - ashoka
+relatedTo: ashoka-edicts
+tags:
+  - Ashoka
+  - sắc lệnh
+  - đại sắc lệnh trên đá
+themes: []
+books:
+  - 0349122385
+  - 935699322X
+  - 0143330802
+  - B0BPDX1MXS
+sourceHash: bfa9171853dc53805b78da6a59488e622016b95f88d42609c309ca4065d85d15
+---
+
+## Về sắc lệnh này
+
+Sắc lệnh thứ mười ba trên vách đá là văn khắc then chốt về Kalinga. Văn khắc ghi lại cảnh chết chóc, lưu đày và nỗi đau buồn sâu sắc, rồi đặt sự cảm hóa bằng đạo đức lên trên thắng lợi quân sự, đồng thời vẫn răn đe các dân tộc nơi biên ải về quyền lực của vương triều.
+
+## Chữ viết nguyên bản
+
+<figure class="article-figure inscription-plate">
+  <img src="/assets/media/images/ashoka-plate-1405552832.jpg" alt="Bản sao văn khắc chữ Brahmi từ Kalsi trong ấn bản năm 1925 của Hultzsch" loading="lazy" decoding="async" />
+  <figcaption>Bản sao văn khắc tại Kalsi. E. Hultzsch, <em>Inscriptions of Asoka</em> (1925), thuộc phạm vi công cộng.</figcaption>
+</figure>
+<figure class="article-figure inscription-plate">
+  <img src="/assets/media/images/ashoka-plate-1405553660.jpg" alt="Bản sao văn khắc chữ Brahmi từ Kalsi trong ấn bản năm 1925 của Hultzsch" loading="lazy" decoding="async" />
+  <figcaption>Bản sao văn khắc tại Kalsi. E. Hultzsch, <em>Inscriptions of Asoka</em> (1925), thuộc phạm vi công cộng.</figcaption>
+</figure>
+
+## Chuyển tự Latinh
+
+Văn bản dưới đây dựa theo phiên bản Kalsi trong ấn bản của Hultzsch. Dấu ngoặc vuông biểu thị các chữ cái được phục dựng hoặc chưa chắc chắn; các dấu chấm đánh dấu đoạn văn bản bị hư hại hoặc mất mát. Các bản sao còn tồn tại khác có thể có sự khác biệt.
+
+<p class="inscription-transliteration" lang="pra-Latn">(A) aṭha-[va]śā- | bhiśita- | śā [De]vānaṃpiyaśa Piyadaśine | lājine | Kaligyā vijitā | (B) diyaḍha-mite | pāna-śat[a]śaha[ś]e | ye [ta]phā apavuḍhe [| śa)ta-[śa]haśa-mite | tata hate | bahu-tāvatake | vā maṭe (C) tat[o pa]chā | adhunā ladheśa | Kaligyeśu | tive | dhaṃma[vāy]e 36 dhaṃma-k[ā]matā | dhaṃmānuśathi cā | Devānaṃpiyaśā | (D) ś[e] athi anuśaye | Devānampiya[ś]ā | vijin[i]tu | Kaligyāni | (E) avijitaṃ hi | vijinamane | e tatā | vadha vā | malane vā | apavahe [vā] | jan[a]śā | [ś]e bāḍha | vedaniya-mute | g[u]l[u]-mut[e] cā | Devānaṃ[pi]yaśā | (F) iyaṃ pi cu | tato | galu-matatale | D[e]vānaṃpiyaśā (G) 37 [ya] tatā vaśati b[ā]bhanā va śama 12 vā ane vā pāsaṃḍa gṃ[i]tha va yesu vṃita [e]ś[a] a[gabhu Jt[i}śuśuśā m[ā]ta-piti-śuśuśā galu-śuśā mita-śaṃthuta-śahāya-nātikeśu dāśa-bha[ṭa]kaś[i śa]m[y]ā-paṭipati diḍhabhatitā teśaṃ tatā hoti [upa]ghāte vā vadhe vā abhilatānaṃ vā vinikhamane (H) 38 yeśaṃ vā pi śuvihi[t]ānaṃ śinehe avipahine e tānaṃ mita-śaṃth[u]taśa[h]āya-[nā]tikya viyaśanaṃ pāpunāta tata śe [p]i t[ā]namev[ā] upaghāt[e] hoti (I) paṭibhāge cā eś[a] ś[a]va-manu[śāna]ṃ gul[u]-m[a]te cā Devāna[ṃ]piyaśā (J) n[a]thi cā śe jan[a]pade yatā nathi ime nikāyā ānatā Y[o]neś[u] 39 baṃhmane c[ā] śamane cā nathi cā kuvāpi jan[a]padaśi [ya]tā n[a]thi m[a]nuśān[a] | ekatalaś[i p]i | pāśaḍaśi | no n[ā]ma paśāde | (K) śe ava[ta]ke jane | t[a]dā Kali[ṃ]geśu | [ladheśu ha]te c[ā] maṭ[e] cā | [apavuḍhe cā |] tato śat[e] bhāge vā | śah[a]śa-bhāge vā | aja gulu-mate vā | Devāna[ṃ]piyaśā (B.– South Face of Kālsī Rock) 1 .......... 2 .......... 3 .......... [ney]u icha .......... 4 śa[va-bhu] .......... [śayama śamaca]liya[ṃ] madava ti (P) iyaṃ vu mu .......... 5 Devānaṃpiyeśā ye dha[ṃ]ma-vijaye (Q) ś[e] ca punā ladhe Devāna[ṃp]i .......... ca 6 śaveśu ca ateśu a śaśu pi [yo]jana-śateśu at[a] Atiyoge nām[a] Yo[nalā] . . [pa]laṃ cā tenā 7 A[ṃ]tiyogena catāli 4 lajāne Tulamaye [nā]m[a] Aṃteki[ne nā]ma Makā nā8ma Alikyaśudale nāma nicaṃ Coḍa-Paṃḍiya avaṃ Taṃbapaṃniyā hevamev[ā] (R) hevameva [hi]dā lā[ja]-viśavaśi Yona-Kaṃbojeśu Nābhak[a]-Nābhapaṃtiśu BhojaPitinikye[ś]u 10 [Adha]-P[ā]lade[ś]u [śa]vatā [D]evā[na]ṃpi[ya]śā dhaṃmānu[śa]thi anuvataṃti (S) y[a]ta pi dutā Devāna[ṃp]iyasā no yaṃti t[e] pi sutu Dev[āna]ṃp[i]naṃya dh[aṃma]-vutaṃ v[i]dh[a]na[ṃ] 12 dhaṃmānusa[th]i dha[ṃ]ma[ṃ] anuvidhiyaṃa [a]nuvidhiyisaṃa [c]ā (T) ye se [la]dhe 13 etakenā hoti savatā vi[ja]ye piti-lase se (U) gadhā sā hoti piti piti dhaṃm[a]vijaya14śi (V) lahukā v[u] kho sā piti (W) pālaṃtikyameve maha-phalā maṃnaṃ[ti] Dev[e]naṃ[pi]ne (X) 15 eta ye ca aṭhāye iyaṃ dha[ṃ]ma-lipi likhitā kiti putā papotā me a[su] 16 nava[m] vijay[a] ma vijayataviya maniśu śayakaśi no vi[ja]yaśi khaṃti cā la | hu17daṃḍatā [cā] locetu tameva cā vijayaṃ manatu ye dhaṃma-vijaye (Y) śe hidalokikya palalo18kiye (Z) śavā ca ka nilati hot[u] uyāma-lati śā hi hi[da]lokika pa[la]lokikya</p>
+
+## Bản dịch tiếng Việt
+
+Đây là bản dịch dựa trên ấn bản tiếng Anh năm 1925 của E. Hultzsch cho cùng phiên bản này. Thuật ngữ và các phần phục dựng trong dấu ngoặc phản ánh ấn bản lịch sử đó.
+
+> (A) Khi vua Devānāṁpriya Priyadarśin đã đăng cơ được tám năm, (xứ) Kaliṅga đã bị ngài chinh phục.
+> (B) Một trăm năm mươi ngàn người là số lượng những kẻ bị lưu đày từ nơi đó, một trăm ngàn người là số lượng những người bị giết chết tại đó, và số người thiệt mạng còn nhiều gấp bội phần như thế.
+> (C) Sau đó, khi (xứ) Kaliṅga đã bị chiếm; Devānāṁpriya (liền tận tâm) nghiên cứu nhiệt thành đạo đức, hết lòng yêu chuộng đạo đức, và giáo huấn (muôn dân) về đạo đức.
+> (D) Đây là nỗi ân hận ăn năn của Devānāṁpriya vì đã chinh phạt (xứ) Kaliṅga.
+> (E) Bởi vì Devānāṁpriya coi đây là điều vô cùng đau đớn và xót xa: rằng trong khi một quốc gia chưa bị quy phục đang bị xâm chiếm, thì cảnh sát hại, chết chóc và cảnh lưu đày muôn dân (đang diễn ra) tại đó.
+> (F) Nhưng điều sau đây lại càng được Devānāṁpriya coi là đau xót hơn nữa.
+> (G) Đối với các vị Bà-la-môn (Brāhmaṇa) hay Sa-môn (Śramaṇa), hoặc các giáo phái khác, hay các gia chủ cư ngụ tại đó, (và) giữa những người thực hành những điều này: vâng lời những bậc tôn kính, hiếu thảo với cha mẹ, vâng phục các bậc trưởng thượng, đối xử đúng mực với bạn bè, người quen, bạn hữu và thân quyến, với nô tỳ và tôi tớ, (cùng) lòng kiên trung thành tín, – đối với họ, sự tổn hại hoặc chết chóc hay việc lưu đày những người thân yêu của họ đã xảy ra.
+> (H) Hoặc nếu như bạn bè, người quen, bạn hữu và thân quyến của những người mà lòng thương mến dành cho họ không hề phai nhạt, lại gặp phải tai ương bất hạnh, dẫu bản thân họ được chu cấp đầy đủ, thì (tai ương) này cũng trở thành sự tổn thương cho chính bản thân những người ấy.
+> (I) Nỗi đau này trút lên đầu toàn thể mọi người và được Devānāṁpriya coi là hết sức đau đớn xót xa.
+> (J) Không có xứ sở nào mà hai tầng lớp này, (cụ thể là) các vị Bà-la-môn và Sa-môn, lại không hiện diện, ngoại trừ nơi người Yona; và cũng chẳng có nơi nào ở bất kỳ quốc gia nào mà con người lại không gắn bó với một giáo phái nào đó.
+> (K) Vì vậy, dẫu chỉ là một phần trăm hay một phần ngàn của toàn thể những người đã bị giết hại, đã chết và đã bị lưu đày vào thời điểm (xứ) Kaliṅga bị chiếm lấy, thì nay (điều đó) cũng được Devānāṁpriya coi là vô cùng đau xót. ...
+> (O) .......... lòng mong muốn đối với muôn loài sinh linh .......... sự tự chủ, sự bình đẳng công chính, (và) lòng nhân từ.
+> (P) Nhưng điều này .......... bởi Devānāṁpriya, tức là sự chinh phục bằng đạo đức.
+> (Q) Và (cuộc chinh phục) này đã được Devānāṁpriya giành được nhiều lần cả [nơi đây] lẫn giữa tất cả các lân bang (của ngài), thậm chí xa tới (khoảng cách) sáu trăm do-tuần (yojana), nơi vị vua Yona tên là Antiyoga (đang trị vì), và xa hơn Antiyoga này, (nơi) bốn – 4 – vị vua (đang trị vì), (cụ thể là vua) tên là Tulamaya, (vua) tên là Antekina, (vua) tên là Makā, (và vua) tên là Alikyashudala, (và) tương tự như vậy về phía nam, (nơi) các vua Choḍa và Pāṇḍya (đang trị vì), cho tới tận Tāmraparṇī.
+> (R) Tương tự như vậy tại lãnh thổ của nhà vua, giữa những người Yona và Kamboja, giữa những người Nābhaka và Nābhapaṅkti, giữa những người Bhoja và Pitinikya, giữa những người Andhra và Pālada, – khắp nơi (dân chúng) đang noi theo lời giáo huấn đạo đức của Devānāṁpriya.
+> (S) Ngay cả những nơi mà sứ thần của Devānāṁpriya chưa từng đặt chân tới, khi nghe về bổn phận đạo đức, các sắc chỉ, (và) lời giáo huấn đạo đức của Devānāṁpriya, họ cũng đang noi theo đạo đức và sẽ tiếp tục noi theo.
+> (T) Cuộc chinh phục này, đạt được khắp mọi nơi bằng cách đó, mang lại cảm giác thỏa nguyện.
+> (U) Sự thỏa nguyện này trở nên bền vững kiên định, (đó là) sự thỏa nguyện trước cuộc chinh phục bằng đạo đức.
+> (V) Nhưng sự thỏa nguyện này thực ra chỉ là điều nhỏ bé.
+> (W) Devānāṁpriya cho rằng chỉ có hoa trái ở cõi đời (sau) mới là điều vô giá.
+> (X) Và vì mục đích sau đây mà sắc lệnh về đạo đức này đã được viết ra, (đó là) để các con trai (và) chắt (sẽ sinh ra) của ta không nghĩ rằng cần phải thực hiện một cuộc chinh phục mới nào nữa; (rằng), nếu một cuộc chinh phục làm đẹp lòng họ, họ nên lấy lòng từ bi và những hình phạt khoan hồng làm niềm vui; và (rằng) họ nên coi cuộc chinh phục bằng đạo đức là cuộc chinh phục (thực sự) duy nhất.
+> (Y) Cuộc chinh phục này (đem lại hoa trái) ở cõi đời này (và) ở cõi đời sau.
+> (Z) Và mong sao mọi niềm hoan lạc của họ đều là niềm hoan lạc trong sự nỗ lực phấn đấu.
+> (AA) Vì điều này (đem lại hoa trái) ở cõi đời này (và) ở cõi đời sau.
+
+## Nguồn tham khảo
+
+- E. Hultzsch, [*Inscriptions of Asoka* (1925)](https://archive.org/details/InscriptionsOfAsoka.NewEditionByE.Hultzsch), *Corpus Inscriptionum Indicarum*, tập I.
+- [Ấn bản Bibliotheca Polyglotta](https://www2.hf.uio.no/polyglotta/index.php?mid=0&page=fulltext&vid=362&view=fulltext), Đại học Oslo (chuyển tự tiếng Magadhi, bản dịch tiếng Anh và bản sao văn khắc).

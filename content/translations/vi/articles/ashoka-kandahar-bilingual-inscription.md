@@ -1,0 +1,69 @@
+---
+title: 'Văn khắc song ngữ Kandahar: Lòng mộ đạo và chân lý'
+slug: ashoka-kandahar-bilingual-inscription
+excerpt: >-
+  Một bản tuyên cáo bằng tiếng Hy Lạp và tiếng Aramaic từ Kandahar liên kết
+  chính sách đạo đức của nhà vua với sự tiết chế, bảo vệ sinh linh và lòng hiếu
+  kính đối với cha mẹ.
+publishedAt: 2026-10-16T00:00:00.000Z
+updatedAt: 2026-10-16T00:00:00.000Z
+period: mauryan
+polity: maurya
+personalities:
+  - ashoka
+relatedTo: ashoka-edicts
+tags:
+  - Ashoka
+  - văn khắc
+  - tiếng Hy Lạp
+  - tiếng Aramaic
+themes: []
+books:
+  - 0349122385
+  - 935699322X
+  - 0143330802
+  - B0BPDX1MXS
+sourceHash: 80e0914cc0268257a5c540daff88e293cc21b355a4a03d18092e72db34f4f6ca
+---
+## Về văn khắc này
+
+Văn khắc trên đá này gần Kandahar có một đoạn văn bản tiếng Hy Lạp ở phía trên đoạn văn bản tiếng Aramaic. Cả hai đều gắn liền vua Priyadarśin với sự chuyển biến trong hành vi đạo đức, giảm bớt việc sát sinh loài vật, và tôn kính cha mẹ cùng các bậc trưởng bối. Chúng là các phiên bản song hành chứ không phải là bản dịch từng chữ một. Phần mở đầu bằng tiếng Hy Lạp bị hư hại và việc phục dựng nó còn nhiều tranh luận; vì vậy các bản dịch dưới đây giữ nguyên sự không chắc chắn đó.
+
+## Chữ viết nguyên bản
+
+<figure class="article-figure inscription-plate">
+  <img src="/assets/media/images/ashoka-kandahar-bilingual.jpg" alt="Văn khắc trên đá Kandahar với các dòng chữ Hy Lạp phía trên các dòng chữ Aramaic" loading="lazy" decoding="async" />
+  <figcaption>Greek and Aramaic inscription at Kandahar. Image via Wikimedia Commons, public domain.</figcaption>
+</figure>
+
+### Tiếng Hy Lạp
+
+<p class="inscription-transliteration" lang="grc">Δέκα ἐτῶν πλήρη[ς ἁγν]ῶν βασιλεὺς Πιοδάσσης εὐσέβεια[ν ἔδ]ε[ι]ξεν τοῖς ἀνϑρώποις, καὶ ἀπὸ τούτου εὐσεβεστέρους τοὺς ἀνϑρώπους ἐποίησεν καὶ πάντα εὐϑηνεῖ κατὰ πᾶσαν γῆν. Καὶ ἀπέχεται βασιλεὺς τῶν ἐμψύχων, καὶ οἱ λοιποὶ δὲ ἄνϑρωποι· καὶ ὅσοι ϑηρευταὶ ἢ ἁλιεῖς βασιλέως πέπαυνϑαι ϑηρεύοντες· καὶ εἴ τινες ἀκρατεῖς πέπαυνται τῆς ἀκρασίας κατὰ δύναμιν. Καὶ ἐνήκοοι πατρὶ καὶ μητρὶ καὶ τῶν πρεσβυτέρων παρὰ τὰ πρότερον καὶ τοῦ λοιποῦ, λῶιον καὶ ἄμεινον κατὰ πάντα, ταῦτα ποιοῦντες, διάξουσιν.</p>
+
+### Tiếng Aramaic
+
+<p class="inscription-transliteration" lang="arc" dir="rtl">𐡔𐡍𐡍 𐡉 𐡐𐡕𐡉𐡕𐡅 𐡏𐡁𐡉𐡃 𐡆𐡉 𐡌𐡓𐡀𐡍 𐡐𐡓𐡉𐡃𐡀𐡓𐡔 𐡌𐡋𐡊𐡀 𐡒𐡔𐡉𐡈𐡀 𐡌𐡄𐡒𐡔𐡈 𐡌𐡍 𐡀𐡃𐡉𐡍 𐡆𐡏𐡉𐡓 𐡌𐡓𐡏𐡀 𐡋𐡊𐡋𐡄𐡌 𐡀𐡍𐡔𐡍 𐡅𐡊𐡋𐡄𐡌 𐡀𐡃𐡅𐡔𐡉𐡀 𐡄𐡅𐡁𐡃 𐡅𐡁𐡊𐡋 𐡀𐡓𐡒𐡀 𐡓𐡀𐡌 𐡔𐡕𐡉 𐡅𐡀𐡐 𐡆𐡉 𐡆𐡍𐡄 𐡊𐡌𐡀𐡊𐡋𐡀 𐡋𐡌𐡓𐡀𐡍 𐡌𐡋𐡊𐡀 𐡆𐡏𐡉𐡓 𐡒𐡈𐡋𐡍 𐡆𐡍𐡄 𐡋𐡌𐡇𐡆𐡄 𐡊𐡋𐡄𐡌 𐡀𐡍𐡔𐡍 𐡀𐡕𐡄𐡇𐡎𐡉𐡍𐡍 𐡀𐡆𐡉 𐡍𐡅𐡍𐡉𐡀 𐡀𐡇𐡃𐡍 𐡀𐡋𐡊 𐡀𐡍𐡔𐡍 𐡐𐡕𐡉𐡆𐡁𐡕 𐡊𐡍𐡌 𐡆𐡉 𐡐𐡓𐡁𐡎𐡕 𐡄𐡅𐡉𐡍 𐡀𐡋𐡊 𐡀𐡕𐡄𐡇𐡎𐡉𐡍𐡍 𐡌𐡍 𐡐𐡓𐡁𐡎𐡕𐡉 𐡅𐡄𐡅𐡐𐡕𐡉𐡎𐡕𐡉 𐡋𐡀𐡌𐡅𐡄𐡉 𐡅𐡋𐡀𐡁𐡅𐡄𐡉 𐡅𐡋𐡌𐡆𐡉𐡔𐡕𐡉𐡀 𐡀𐡍𐡎𐡍 𐡀𐡉𐡊 𐡀𐡎𐡓𐡄𐡉 𐡇𐡋𐡒𐡅𐡕𐡀 𐡅𐡋𐡀 𐡀𐡉𐡕𐡉 𐡃𐡉𐡍𐡀 𐡋𐡊𐡋𐡄𐡌 𐡀𐡍𐡔𐡉𐡀 𐡇𐡎𐡉𐡍 𐡆𐡍𐡄 𐡄𐡅𐡕𐡉𐡓 𐡋𐡊𐡋𐡄𐡌 𐡀𐡍𐡔𐡍 𐡅𐡀𐡅𐡎𐡐 𐡉𐡄𐡅𐡕𐡓</p>
+
+## Chuyển tự Latinh
+
+Tiếng Hy Lạp: *Déka etôn plḗrē[s hagn]ôn basileùs Piodássēs eusébeian édeixen toîs anthrṓpois, kaì apò toútou eusebestérous toùs anthrṓpous epoíēsen kaì pánta euthēneî katà pâsan gên. Kaì apéchetai basileùs tôn empsýchōn, kaì hoi loipoì dè ánthrōpoi; kaì hósoi thēreutaì ē halieîs basiléōs pépauntai thēreúontes; kaì eí tines akrateîs pépauntai tês akrasías katà dýnamin. Kaì enḗkooi patrì kaì mētrì kaì tôn presbytérōn parà tà próteron kaì toû loipoû, lṓion kaì ámeinon katà pánta, taûta poioûntes, diáxousin.*
+
+Tiếng Aramaic: *šnn y ptytw ʿbyd zy mrʾn prydʾrš mlkʾ qšyṭʾ mhqšṭ mn ʾdyn zʿyr mrʿʾ lklhm ʾnšn wklhm ʾdwšyʾ hwbd wbkl ʾrqʾ rʾm šty wʾp zy znh kmʾklʾ lmrʾn mlkʾ zʿyr qṭln znh lmḥzh klhm ʾnšn ʾthhsynn ʾzy nwnyʾ ʾḥdn ʾlk ʾnšn ptyzbt knm zy prbst hwyn ʾlk ʾthḥsynn mn prbsty whwptysty lʾmwhy wlʾbwhy wlmzyštyʾ ʾnsn ʾyk ʾsrhy ḥlqwtʾ wlʾ ʾyty dynʾ lklhm ʾnšyʾ ḥsyn znh hwtyr lklhm ʾnšn wʾwsp yhwtr.*
+
+## Bản dịch tiếng Hy Lạp
+
+Phần mở đầu chứa đựng một sự phục dựng chưa chắc chắn. Bản dịch này bám sát những từ ngữ còn sót lại và cách đọc được Francesco Maniscalco thảo luận.
+
+> Sau mười năm [cụm từ mở đầu bị hư hại], Vua Piodasses đã truyền dạy lòng mộ đạo cho muôn dân. Kể từ đó, ngài đã khiến dân chúng trở nên ngoan đạo hơn, và vạn vật đều hưng thịnh khắp nơi nơi. Nhà vua từ bỏ việc sát sinh muôn loài; thứ dân cũng noi theo như vậy. Những người thợ săn và người đánh cá của vua cũng đã ngừng việc săn bắt. Những kẻ thiếu kiềm chế cũng đã từ bỏ hành vi ấy trong chừng mực có thể. Bằng cách vâng lời cha, mẹ và các bậc trưởng bối, cả hiện tại lẫn tương lai, những ai thực hành điều này sẽ có cuộc sống tốt đẹp hơn về mọi mặt.
+
+## Bản dịch tiếng Aramaic
+
+Bản tiếng Aramaic là một phiên bản song hành với cách dùng từ khác biệt. Cách đọc bản này bao gồm một số từ còn gây tranh cãi, đặc biệt ở phần mở đầu và đoạn kết.
+
+> Vào năm thứ mười, đức vua Priyadarśin của chúng ta đã kiến lập chân lý. Kể từ đó, điều ác trong nhân gian thuyên giảm và những nỗi thống khổ của họ được xua tan; hòa bình và an lạc lan tỏa khắp xứ sở. Về phần thức ăn, chỉ có một số ít động vật bị giết để dâng lên nhà vua. Thấy vậy, dân chúng đã ngừng việc giết chóc, và những người đánh cá cũng tuân theo sự ngăn cấm này. Những kẻ buông thả đã từ bỏ lối sống ấy. Họ vâng lời mẹ cha và các bậc trưởng bối theo đúng bổn phận của mình. Đối với người công chính thì không có sự phán xét [nghĩa của câu này còn tranh cãi]. Điều này đã mang lại lợi ích cho muôn người và sẽ còn mang lại nhiều lợi ích hơn nữa.
+
+## Nguồn tham khảo
+
+- Francesco Maniscalco, [“A New Interpretation of the Edicts of Aśoka from Kandahar” (2018)](https://doi.org/10.30687/AnnOr/2385-3042/2018/01/011), *Annali di Ca’ Foscari. Serie orientale* 54, pp. 239–264 (Greek text, translation, and discussion; CC BY 4.0).
+- Harry Falk, [*Aśokan Sites and Artefacts* (2006)](https://dokumen.pub/aokan-sites-and-artefacts-1nbsped-3805337124.html), pp. 241–243 (site, image, and bibliography of Aramaic editions).
+- [Image record](https://commons.wikimedia.org/wiki/File:AsokaKandahar.jpg), Wikimedia Commons (public domain).

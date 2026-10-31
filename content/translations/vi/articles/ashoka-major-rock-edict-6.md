@@ -1,0 +1,64 @@
+---
+title: "Đại sắc lệnh trên đá VI: Báo cáo việc dân vào mọi thời khắc"
+slug: ashoka-major-rock-edict-6
+excerpt: "Ashoka tuyên bố rằng các quan lại có thể tâu báo việc dân cho ngài ở bất cứ nơi đâu và vào bất kỳ lúc nào."
+publishedAt: 2026-10-16T00:00:00.000Z
+updatedAt: 2026-10-16T00:00:00.000Z
+period: mauryan
+polity: maurya
+personalities:
+  - ashoka
+relatedTo: ashoka-edicts
+tags:
+  - Ashoka
+  - sắc lệnh
+  - đại sắc lệnh trên đá
+themes: []
+books:
+  - 0349122385
+  - 935699322X
+  - 0143330802
+  - B0BPDX1MXS
+sourceHash: d47e761e96324978c64983abb92c99657aa10450610effcafed6c9159f179997
+---
+
+## Về sắc lệnh này
+
+Nhà vua miêu tả một hệ thống hành chính để tiếp nhận báo cáo ngay cả trong bữa ăn hay khi đang di chuyển. Ngài xem sự quan tâm không ngơi nghỉ đối với công vụ là bổn phận đối với muôn dân.
+
+## Chữ viết nguyên bản
+
+<figure class="article-figure inscription-plate">
+  <img src="/assets/media/images/ashoka-plate-1405541228.jpg" alt="Bản sao văn khắc chữ Brahmi từ Girnar trong ấn bản năm 1925 của Hultzsch" loading="lazy" decoding="async" />
+  <figcaption>Bản sao văn khắc tại Girnar. E. Hultzsch, <em>Inscriptions of Asoka</em> (1925), thuộc phạm vi công cộng.</figcaption>
+</figure>
+
+## Chuyển tự Latinh
+
+Văn bản dưới đây dựa theo phiên bản Girnar trong ấn bản của Hultzsch. Dấu ngoặc vuông biểu thị các chữ cái được phục dựng hoặc chưa chắc chắn; các dấu chấm đánh dấu đoạn văn bản bị hư hại hoặc mất mát. Các bản sao còn tồn tại khác có thể có sự khác biệt.
+
+<p class="inscription-transliteration" lang="pra-Latn">(A) 1 [Devā] ……… [s]i rājā evaṃ āha (B) atikrāt[a]ṃ aṃtara[ṃ] 2 na bhuta-pru[v] . [s] . [v] ... [l] . atha-kaṃme va paṭivedanā vā (C) ta mayā evaṃ kataṃ (D) 3 s[a]ve kāle bhuṃj[a]mānasa me orodhanamhi gabhāgāramhi vacamhi va 4 vinītamhi ca uyānesu ca savatra paṭivedakā sṭitā athe me [ja]nasa 5 paṭivedetha iti (E) sarvatra ca janasa athe karomi (F) ya ca kiṃci mukhato 6 āñapayāmi svayaṃ dāpakaṃ vā srāvāpakaṃ vā ya vā puna mahāmātresu 7 ācāyi[ke] aropitam bhavati tāya athāya vivādo nijhatī v[a s]aṃto parisāyaṃ 8 ānaṃtaraṃ paṭ[i]vedeta[v]yaṃ me sa[r]vatra sarve kāle (G) evaṃ maya āñapitaṃ (H) nāsti hi me to[s]o 9 usṭānamhi atha-saṃtīraṇāya va (I) katavya-mate hi me sa[rva]-loka-hitaṃ (J) 10 tasa ca puna esa mūle usṭanaṁ ca atha-saṃtīraṇā ca (K) nāsti hi kaṃmataraṃ 11 sarva-loka-hitatpa (L) ya ca kiṃci parākramāmi ahaṃ kiṃti bhūtānaṃ anaṃṇaṃ gacheyaṃ 12 idha ca nāni sukhāpayāmi paratrā ca svagaṃ ārādhayaṃtu ta (M) etāya athāya 13 ayaṃ dha[ṃ]ma-lipī lekhāpitā kiṃti ciraṁ tisṭeya iti tathā ca me putrā potā ca prapotrā ca 14 anuvataraṃ sava-loka-hitāya (N) dukaraṃ [t]u idaṃ añatra agena parakramena</p>
+
+## Bản dịch tiếng Việt
+
+Đây là bản dịch dựa trên ấn bản tiếng Anh năm 1925 của E. Hultzsch cho cùng phiên bản này. Thuật ngữ và các phần phục dựng trong dấu ngoặc phản ánh ấn bản lịch sử đó.
+
+> (A) Vua Devānāṁpriya Priyadarśin phán như sau.
+> (B) Trong thời gian trước đây, việc giải quyết công vụ cũng như việc đệ trình báo cáo vào bất cứ thời điểm nào đều chưa từng có tiền lệ.
+> (C) Nhưng ta đã ban bố (sắp xếp) như sau.
+> (D) Các sứ giả tâu báo được bố trí ở khắp mọi nơi, (với chỉ dụ) phải bẩm báo việc dân cho ta vào bất cứ lúc nào, dù khi ta đang dùng bữa, đang ở trong hậu cung, nơi nội thất, ngay cả khi ở chuồng gia súc, trên kiệu, hay trong ngự uyển.
+> (E) Và ở khắp mọi nơi, ta đều trực tiếp giải quyết việc dân.
+> (F) Và nếu trong hội đồng (các quan Mahāmātra) nảy sinh tranh luận, hoặc có ý kiến tu chỉnh liên quan đến bất kỳ việc ban tặng hay tuyên cáo nào mà đích thân ta đã truyền khẩu, hoặc (liên quan đến) một việc khẩn cấp được giao phó cho các quan Mahāmātra, thì việc đó phải được báo cáo ngay lập tức cho ta, ở bất cứ đâu, (và) vào bất kỳ lúc nào.
+> (G) Đó là mệnh lệnh của ta.
+> (H) Bởi ta không bao giờ thấy thỏa mãn trong nỗ lực của mình và trong việc xử lý công vụ.
+> (I) Bởi vì ta coi bổn phận của mình là (thúc đẩy) hạnh phúc của muôn dân.
+> (J) Nhưng gốc rễ của điều đó (chính là) điều này, (đó là) sự nỗ lực không ngừng và việc xử lý công vụ chu đáo.
+> (K) Vì không có nghĩa vụ nào trọng đại hơn việc (mưu cầu) hạnh phúc cho muôn dân.
+> (L) Và bất kỳ nỗ lực nào ta đang thực hiện, (đều được làm) để ta có thể trang trải món nợ (mà ta nợ) muôn loài sinh linh, (để) ta có thể mang lại hạnh phúc cho họ trong cõi đời (này), và (để) họ có thể đạt tới thiên giới ở cõi đời (sau).
+> (M) Vì mục đích sau đây mà sắc lệnh về đạo đức này đã được lệnh khắc, (đó là) để nó trường tồn, và để các con trai, cháu trai và chắt của ta có thể noi theo vì hạnh phúc của muôn dân.
+> (N) Nhưng thật khó để hoàn thành điều này nếu không có nhiệt huyết lớn lao.
+
+## Nguồn tham khảo
+
+- E. Hultzsch, [*Inscriptions of Asoka* (1925)](https://archive.org/details/InscriptionsOfAsoka.NewEditionByE.Hultzsch), *Corpus Inscriptionum Indicarum*, tập I.
+- [Ấn bản Bibliotheca Polyglotta](https://www2.hf.uio.no/polyglotta/index.php?mid=0&page=fulltext&vid=362&view=fulltext), Đại học Oslo (chuyển tự tiếng Magadhi, bản dịch tiếng Anh và bản sao văn khắc).

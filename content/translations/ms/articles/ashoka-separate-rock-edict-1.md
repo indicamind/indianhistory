@@ -1,0 +1,71 @@
+---
+title: "Titah Perintah Batu Berasingan I: Keadilan di Kalinga"
+slug: ashoka-separate-rock-edict-1
+excerpt: "Ashoka mengarahkan para pegawai di Kalinga yang baru ditakluki agar mengelakkan hukuman sewenang-wenangnya dan melayan rakyat secara adil."
+publishedAt: "2026-10-16T00:00:00.000Z"
+updatedAt: "2026-10-16T00:00:00.000Z"
+period: mauryan
+polity: maurya
+personalities: [ashoka]
+relatedTo: ashoka-edicts
+tags: ["Ashoka", "titah perintah", "titah perintah batu berasingan"]
+themes: []
+books: ['0349122385', '935699322X', '0143330802', 'B0BPDX1MXS']
+sourceHash: cf9e79e47f2f44909e082b805d1a567a418039c67c2e2d94d12906c008071803
+---
+
+## Tentang titah perintah ini
+
+Ditujukan kepada para pegawai di Tosali, titah perintah berasingan ini memberi tumpuan kepada keadilan saksama dan pemeriksaan berkala selepas penaklukan Kalinga. Versi Dhauli dan Jaugada berbeza dari segi pihak tempatan yang dituju.
+
+## Aksara asal
+
+<figure class="article-figure inscription-plate">
+  <img src="/assets/media/images/ashoka-plate-1405670299.jpg" alt="Faksimili inskripsi Brahmi dari Dhauli dalam edisi Hultzsch tahun 1925" loading="lazy" decoding="async" />
+  <figcaption>Faksimili inskripsi Dhauli. E. Hultzsch, <em>Inscriptions of Asoka</em> (1925), domain awam.</figcaption>
+</figure>
+
+## Transliterasi Rumi
+
+Teks di bawah mengikut versi Dhauli dalam edisi Hultzsch. Tanda kurung siku menunjukkan huruf yang dipulihkan atau tidak pasti; tanda titik menandakan teks yang rosak atau hilang. Salinan lain yang masih ada mungkin berbeza.
+
+<p class="inscription-transliteration" lang="pra-Latn">(A) 1 [Devāna]ṃ[pi]y[asa vaca]nena Tosaliyaṃ ma[hā]mata [naga]la[v]i[yo]hālak[ā] 2 [va]taviya (B) [aṃ kichi dakha]mi hakam taṃ ichāmi k[i]ṃ[t]i kaṃ[mana pa]ṭi[pāda y]ehaṃ 3 duvālate ca ālabheham (C) esa ca me mokhya-mata duva[la etasi aṭha]si aṃ tuph[esu] 4 anusathi (D) tuphe hi bahūsu pāna-sahasesuṃ ā[yata] p[a]na[yaṃ ga]ch[e]ma su munisānam (E) save 5 munise pajā mama (F) ath[ā] pajāye ichāmi h[a]ka[m kiṃti sa]ve[na hi]ta-sukhena hidalo[kika]6palalokike[na] y[ūjev]ū [t]i [tathā .... muni]sesu pi [i]chāmi [ha]ka[ṃ] (G) no ca pāpunātha āv[a]-ga-7[m]u[k]e [iyaṃ aṭhe] (H) [k]e[cha] v[a] eka-puli[se] .... nāti e[ta]ṃ se pi desaṃ no savaṃ (I) de[kha]t[a hi t]u[phe] etaṃ 8 suvi[hi]tā pi (J) [n]itiyaṃ eka-pulise [pi athi] y[e] baṃdhanaṃ vā p[a]likilesaṃ vā papunati (K) tata hoti 9 akasmā tena badhana[ṃ]tik[a] aṃne ca ...... hu jane da[v]iye dukhīyati (L) tata ichitaviye 10 tuphehi kiṃti m[a]jhath paṭipādayema ti (M) imeh[i] cu [jāteh]i no saṃpaṭipajati isāya āsulopena 11 ni[ṭhū]liyena tūlanā[ya] anāvūtiya ālasiyena k[i]lamathena (N) se ichitaviye kitiṃ ete 12 [jātā no] huvevu ma[m]ā ti (O) etasa ca sava[sa] mūle anāsulope a[tū]l[a]nā ca (P) niti[ya]ṃ e kilaṃte siyā 13 [na] te uga[cha] saṃcalitaviy[e] tu va[ṭ]ita[v]iy[e] etaviye vā (Q) hevaṃmeva e da[kheya] t[u]phāk[a] tena vataviye 14 ānaṃne dekhata hevaṃ ca hev[a]ṃ ca [D]evānaṃpiyasa anusathi (R) se mah[a-pha]le [e] t[a]sa [saṃpa]tipada 15 mahā-apāye asaṃpaṭipati (S) [vi]pat[i]pādayamīne hi etaṃ nathi svagasa [ā]l[a]dhi no lāj[ā]la[dh]i (T) 16 duā[ha]le hi i[ma]sa kaṃm[asa] m[e] kute man[o]-atileke (U) sa[ṃ]paṭipajam[ī]n[e] cu [etaṃ] svaga[ṃ] 17 ālādha[yi]sa[tha mama ca ā]naniyaṃ ehatha (V) 18 iyaṃ ca l[i]p[i] t[i]sana[kha]tena so[ta]viy[ā] (W) aṃta[l]ā [p]i ca [t]ī[s]e[na kha]nasi kha[nas]i ekena pi sotaviya (X) hevaṃ ca kalaṃtaṃ tuphe 19 caghatha saṃpa[ṭi]pād[a]y[i]tave (Y) [e]t[a]ye athāye 13 iya[ṃ l]i[p]i likhit[a h]ida ena 20 nagala-vi[y]o[hā]lakā sas[v]ataṃ samayaṃ yūjevū t[i] ...... [na]sa akasmā [pa]libodhe va 21 (a) k(a) smā paliki[l]e[s]e va no siya ti (Z) etāye ca aṭhāye haka[ṃ] .... mate p[a]ṃcasu paṃcasu [va]se22su [n]i[khā]may[i]sāmi e akhakhase a[caṃ]ḍ[e] s[a]khinālaṃbhe hosati etaṃ aṭhaṃ jānitu . . . . . . [ta]thā 23 kala[ṃ]ti atha mama anusathī ti (AA) Ujenite pi cu kumāle etāye v[a] aṭhāye [ni]khāma[yisa] . . . . . . 24 hedisameva vagaṃ no ca atikāmayisati tiṃni vasāni (BB) hemeva T[a]kha[s]ilāte pi (CC) [a]dā ...... 25 te mahāmātā nikhamisaṃti anusayānaṃ tadā ahāpayitu atane kaṃmaṃ etaṃ pi jānisaṃti 26 taṃ pi ta[th]ā kalaṃti lājine anusathī</p>
+
+## Terjemahan bahasa Melayu
+
+Ini ialah terjemahan E. Hultzsch tahun 1925 bagi versi yang sama. Istilah dan teks yang dipulihkan dalam tanda kurung mencerminkan edisi bersejarah itu.
+
+> (A) Atas titah Devānāṃpriya, para Mahāmātra di Tosali, (iaitu) para pegawai kehakiman bandar itu, mesti diberitahu (demikian).
+> (B) Apa jua yang beta yakini (sebagai benar), beta berusaha melaksanakannya melalui perbuatan, dan menyempurnakannya melalui (pelbagai) cara.
+> (C) Dan inilah yang beta anggap sebagai cara utama bagi tujuan ini, iaitu (memberikan) arahan kepada kamu.
+> (D) Kerana kamu menguruskan beribu-ribu manusia, dengan tujuan untuk meraih kasih sayang sesama manusia.
+> (E) Semua manusia adalah anak-anak beta.
+> (F) Sebagaimana bagi anak-anak beta sendiri, beta menginginkan agar mereka dikurniakan kebajikan dan kebahagiaan yang sempurna di dunia ini dan di akhirat kelak, begitu jugalah hasrat beta bagi [semua] manusia.
+> (G) Dan kamu belum memahami sejauh mana matlamat (beta) ini merangkumi.
+> (H) Segelintir individu sahaja yang memahaminya, (malah) dia pun (hanya memahami) sebahagian, (dan) bukannya keseluruhan.
+> (I) Kini kamu mesti memberikan perhatian terhadap perkara ini, walaupun keperluan kamu telah disediakan dengan baik.
+> (J) Kerap berlaku dalam pentadbiran (keadilan) bahawa seseorang individu menanggung sama ada pemenjaraan atau layanan yang kasar.
+> (K) Dalam keadaan ini, (perintah) membatalkan pemenjaraan diperolehnya secara kebetulan, manakala [ramai] orang lain terus menderita.
+> (L) Dalam hal ini kamu mesti berusaha untuk bertindak (terhadap mereka semua) secara saksama tanpa berat sebelah.
+> (M) Namun seseorang itu gagal bertindak (demikian) disebabkan oleh kecenderungan-kecenderungan berikut: hasad dengki, kemarahan, kekejaman, tergesa-gesa, kurang latihan, kemalasan, (dan) keletihan.
+> (N) (Kamu) mesti berusaha agar kecenderungan-kecenderungan ini tidak timbul dalam diri kamu.
+> (O) Dan punca kepada semua ini adalah tiadanya kemarahan dan mengelakkan sikap tergesa-gesa.
+> (P) Sesiapa yang berasa letih dalam pentadbiran (keadilan); tidak akan maju; tetapi seseorang itu wajar bergerak, melangkah, dan mara ke hadapan.
+> (Q) Sesiapa yang memberi perhatian terhadap perkara ini, mesti memberitahu kamu: ‘Pastikan (kamu) melunaskan kewajipan (yang kamu tanggung terhadap raja); begini dan begitulah arahan Devānāṃpriya.’
+> (R) Kepatuhan terhadap perkara ini membuahkan hasil yang besar, (tetapi) pengabaiannya (membawa) keburukan yang besar.
+> (S) Kerana jika seseorang gagal mematuhinya, tidak akan tercapai syurga mahupun kepuasan hati sang raja.
+> (T) Kerana bagaimanakah hati beta boleh berasa sukacita sekiranya kewajipan ini dilaksanakan dengan buruk?
+> (U) Namun sekiranya (kamu) mematuhi perkara ini, kamu akan mencapai syurga, dan kamu akan melunaskan kewajipan (yang kamu tanggung) terhadap beta.
+> (V) Dan titah perintah ini mesti didengarkan (oleh semua orang) pada (setiap hari kemunculan) buruj Tishya.
+> (W) Dan ia boleh juga didengarkan oleh seseorang individu secara kerap pada kesempatan lain di antara (hari-hari kemunculan) Tishya.
+> (X) Dan sekiranya (kamu) bertindak demikian, kamu akan dapat menyempurnakan (kewajipan ini).
+> (Y) Atas tujuan berikutlah titah bertulis ini diukir di sini, (iaitu) supaya para pegawai kehakiman bandar berusaha pada setiap masa (untuk hal ini), (agar) tiada pemenjaraan tanpa hak mahupun layanan kasar yang tidak wajar berlaku kepada [manusia].
+> (Z) Dan atas tujuan berikutlah beta akan mengutuskan [seorang Mahāmātra] pada setiap lima tahun yang tiada sifat bengis mahupun garang, (tetapi) berlembut dalam tindakannya, (iaitu bagi memastikan) sama ada (para pegawai kehakiman), dengan menumpukan perhatian terhadap tujuan ini, ..... bertindak sedemikian, sebagaimana yang dikehendaki oleh arahan beta.
+> (AA) Tetapi dari Ujjayinī juga putera raja (gabenor) akan mengutuskan orang yang mempunyai sifat yang sama bagi tujuan ini ..... dan baginda tidak akan membiarkan (lebih daripada) tiga tahun berlalu (tanpa utusan sedemikian).
+> (BB) Dengan cara yang sama (seorang pegawai akan diutuskan) dari Takshaśilā juga.
+> (CC) Apabila ..... para Mahāmātra ini keluar mengadakan rondaan, maka, tanpa mengabaikan tugas mereka sendiri, mereka juga akan memastikan hal ini, (iaitu) sama ada (para pegawai kehakiman) melaksanakan perkara ini sebagaimana yang (dikehendaki oleh) titah perintah sang raja.
+
+## Sumber
+
+- E. Hultzsch, [*Inscriptions of Asoka* (1925)](https://archive.org/details/InscriptionsOfAsoka.NewEditionByE.Hultzsch), *Corpus Inscriptionum Indicarum*, jilid I.
+- [Edisi Bibliotheca Polyglotta](https://www2.hf.uio.no/polyglotta/index.php?mid=0&page=fulltext&vid=364&view=fulltext), Universiti Oslo (transliterasi Magadhi, terjemahan bahasa Inggeris, dan faksimili inskripsi).

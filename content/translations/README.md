@@ -16,7 +16,7 @@ The user requested seven additional language editions on 2026-10-31. Completed e
 | Korean | `ko` | 418 / 418 | 47 / 47 | 1 / 1 | Released |
 | Vietnamese | `vi` | 418 / 418 | 47 / 47 | 1 / 1 | Released |
 | Turkish | `tr` | 418 / 418 | 47 / 47 | 1 / 1 | Released |
-| Malay | `ms` | 418 / 418 | 3 / 47 | 1 / 1 | In preparation |
+| Malay | `ms` | 418 / 418 | 47 / 47 | 1 / 1 | Released |
 | Swahili | `sw` | 418 / 418 | 3 / 47 | 1 / 1 | In preparation |
 | Filipino | `fil` | 418 / 418 | 3 / 47 | 1 / 1 | In preparation |
 

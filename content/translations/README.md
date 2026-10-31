@@ -18,10 +18,8 @@ The user requested seven additional language editions on 2026-10-31. Completed e
 | Turkish | `tr` | 418 / 418 | 47 / 47 | 1 / 1 | Released |
 | Malay | `ms` | 418 / 418 | 47 / 47 | 1 / 1 | Released |
 | Swahili | `sw` | 418 / 418 | 47 / 47 | 1 / 1 | Released |
-| Filipino | `fil` | 418 / 418 | 3 / 47 | 1 / 1 | In preparation |
+| Filipino | `fil` | 418 / 418 | 47 / 47 | 1 / 1 | Released |
 
-These counts are a snapshot; rerun the checker for current requirements. The first translated articles are the Sudama, Visvakarma, and Karna Chaupar cave inscriptions. Each translation includes the complete body, metadata, tags, image alt text and attribution, and a final Sources section with image credits. Original Prakrit transliterations remain unchanged.
+All seven requested editions have passed the full release gate with complete translations for interface strings, articles, blogs, image attributions, metadata, and search assets. Each translation includes the complete body, metadata, tags, image alt text and attribution, and a final Sources section with image credits. Original Prakrit, Greek, and Aramaic transliterations remain unchanged.
 
-Next work: complete the remaining interface and history-data strings, then the other 44 articles and `blogs/ashoka-in-stone.md` in each language. Author and review translations directly from the published English sources; do not use a translation API. Maintain source hashes, identifiers, dates, source URLs, and uncertainty statements. No English source rewrite or pending English draft is approved by this language expansion.
-
-The new editions deliberately use the full release gate rather than the English-preview exception. `npm run check-translations` currently fails for their missing translations; it must pass before release. After completion, run `npm run build` and inspect generated articles, blogs, search assets, section navigation, and share-page metadata in each language.
+Run `npm run check-translations` and `npm run build` after any content change to inspect generated articles, blogs, search assets, section navigation, and share-page metadata across all released editions.

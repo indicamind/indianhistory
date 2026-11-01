@@ -199,7 +199,10 @@
     "sourceEdition": "Imprint: India Viking Published: Nov/2022 ISBN: 9780670094363 (Hardback) Length : 256 Pages",
     "coverSourceUrl": "https://cdn.penguin.co.in/wp-content/uploads/2024/01/9780670094363.jpg",
     "checkedOn": "2026-09-25",
-    "verification": "Publisher explicitly supplies this Amazon.in product link; ISBN-10 and ISBN-13 match. Amazon stock and price not checked."
+    "verification": "Publisher explicitly supplies this Amazon.in product link; ISBN-10 and ISBN-13 match. Amazon stock and price not checked.",
+    "affiliateUrl": "https://link.amazon/B042ROi0f",
+    "affiliateCheckedOn": "2026-11-01",
+    "affiliateVerification": "User-supplied short link resolved via amzlinks.in to the matching Amazon.in ASIN with the indiahistor01-21 tag. Product title, author and cover checked; stock and price not asserted."
   },
   {
     "isbn10": "0143460129",
@@ -2587,5 +2590,89 @@
     "coverSourceUrl": "https://cdn.penguin.co.in/wp-content/uploads/2024/05/9780143460268.jpg",
     "checkedOn": "2026-09-25",
     "verification": "Publisher explicitly supplies this Amazon.in product link; ISBN-10 and ISBN-13 match. Amazon stock and price not checked."
+  },
+  {
+    "isbn10": "8184821875",
+    "sourceUrl": "https://www.amazon.in/dp/8184821875",
+    "observedAmazonUrl": "https://www.amazon.in/dp/8184821875",
+    "affiliateUrl": "https://link.amazon/B06rl8ufx",
+    "sourceTitle": "Rani Durgavati",
+    "sourceAuthors": "Meena Talim",
+    "sourceEdition": "Paperback; 1 January 1976; 32 pages; ISBN-13: 9788184821871",
+    "coverSourceUrl": "https://m.media-amazon.com/images/I/81MM4M0zfoL._SL1500_.jpg",
+    "checkedOn": "2026-11-01",
+    "verification": "User-supplied short link resolved via amzlinks.in to this Amazon.in product with the indiahistor01-21 tag. Title, author, edition details and cover checked on the product page. Stock and price not asserted. English edition. Amazon lists Meena Talim as author."
+  },
+  {
+    "isbn10": "938605499X",
+    "sourceUrl": "https://www.amazon.in/dp/938605499X",
+    "observedAmazonUrl": "https://www.amazon.in/dp/938605499X",
+    "affiliateUrl": "https://link.amazon/B07NUtaMP",
+    "sourceTitle": "रानी दुर्गावती",
+    "sourceAuthors": "Shankar Dayal Bhardwaj",
+    "sourceEdition": "Hardcover; 1 January 2018; 160 pages; ISBN-13: 9789386054999",
+    "coverSourceUrl": "https://m.media-amazon.com/images/I/61cJvi+XfaL._SL1360_.jpg",
+    "checkedOn": "2026-11-01",
+    "verification": "User-supplied short link resolved via amzlinks.in to this Amazon.in product with the indiahistor01-21 tag. Title, author, edition details and cover checked on the product page. Stock and price not asserted. Hindi edition; the product description calls it a novel. Amazon incorrectly repeats the 13-digit ISBN in its ISBN-10 field; the product ASIN is 938605499X and its ISBN-13 is 9789386054999."
+  },
+  {
+    "isbn10": "B0FNW5W8RK",
+    "sourceUrl": "https://www.amazon.in/dp/B0FNW5W8RK",
+    "observedAmazonUrl": "https://www.amazon.in/dp/B0FNW5W8RK",
+    "affiliateUrl": "https://link.amazon/B01QJwa4N",
+    "sourceTitle": "Rani Durgavati",
+    "sourceAuthors": "Rudra Pratap Singh",
+    "sourceEdition": "Hardcover; 14 August 2025; 237 pages; ASIN: B0FNW5W8RK",
+    "coverSourceUrl": "https://m.media-amazon.com/images/I/71iPsTJqmUL._SL1500_.jpg",
+    "checkedOn": "2026-11-01",
+    "verification": "User-supplied short link resolved via amzlinks.in to this Amazon.in product with the indiahistor01-21 tag. Title, author, edition details and cover checked on the product page. Stock and price not asserted. The product details do not supply an ISBN; the catalogue identifier is the Amazon ASIN B0FNW5W8RK."
+  },
+  {
+    "isbn10": "9355621701",
+    "sourceUrl": "https://www.amazon.in/dp/9355621701",
+    "observedAmazonUrl": "https://www.amazon.in/dp/9355621701",
+    "affiliateUrl": "https://link.amazon/B09RpLO5T",
+    "sourceTitle": "रानी दुर्गावती",
+    "sourceAuthors": "Dr. Rekha Nagar and Dr. Madan Singh Waskel",
+    "sourceEdition": "Paperback; 5 May 2025; 88 pages; ISBN-13: 9789355621702",
+    "coverSourceUrl": "https://m.media-amazon.com/images/I/81LqpILVshL._SL1500_.jpg",
+    "checkedOn": "2026-11-01",
+    "verification": "User-supplied short link resolved via amzlinks.in to this Amazon.in product with the indiahistor01-21 tag. Title, author, edition details and cover checked on the product page. Stock and price not asserted. Hindi edition; title and description retained in Hindi."
+  },
+  {
+    "isbn10": "9392573774",
+    "sourceUrl": "https://www.amazon.in/dp/9392573774",
+    "observedAmazonUrl": "https://www.amazon.in/dp/9392573774",
+    "affiliateUrl": "https://link.amazon/B0dSCyO84",
+    "sourceTitle": "वीरांगना रानी दुर्गावती",
+    "sourceAuthors": "Arun Diwaker Nath Bajpai",
+    "sourceEdition": "Paperback; 18 October 2023; 88 pages; ISBN-13: 9789392573774",
+    "coverSourceUrl": "https://m.media-amazon.com/images/I/71XBq+x2SeL._SL1500_.jpg",
+    "checkedOn": "2026-11-01",
+    "verification": "User-supplied short link resolved via amzlinks.in to this Amazon.in product with the indiahistor01-21 tag. Title, author, edition details and cover checked on the product page. Stock and price not asserted. Hindi edition; title and description retained in Hindi."
+  },
+  {
+    "isbn10": "8184823320",
+    "sourceUrl": "https://www.amazon.in/dp/8184823320",
+    "observedAmazonUrl": "https://www.amazon.in/dp/8184823320",
+    "affiliateUrl": "https://link.amazon/B0aslYqXV",
+    "sourceTitle": "रानी दुर्गावती (अमर चित्र कथा)",
+    "sourceAuthors": "Uncle Pai",
+    "sourceEdition": "Paperback; 1 January 2010; 32 pages; ISBN-13: 9788184823325",
+    "coverSourceUrl": "https://m.media-amazon.com/images/I/81spedXfmmL._SL1500_.jpg",
+    "checkedOn": "2026-11-01",
+    "verification": "User-supplied short link resolved via amzlinks.in to this Amazon.in product with the indiahistor01-21 tag. Title, author, edition details and cover checked on the product page. Stock and price not asserted. Hindi edition. Amazon lists Uncle Pai as author. The retailer blurb describes Rana Pratap instead of this title; that mismatched blurb was not reused."
+  },
+  {
+    "isbn10": "B08NTB3F2B",
+    "sourceUrl": "https://www.amazon.in/dp/B08NTB3F2B",
+    "observedAmazonUrl": "https://www.amazon.in/dp/B08NTB3F2B",
+    "affiliateUrl": "https://link.amazon/B0czNR87x",
+    "sourceTitle": "Rani Durgavati",
+    "sourceAuthors": "Indrayani Sawkar",
+    "sourceEdition": "Kindle; 17 November 2020; 351 pages; ASIN: B08NTB3F2B",
+    "coverSourceUrl": "https://m.media-amazon.com/images/I/919mjkMfW3L._SL1500_.jpg",
+    "checkedOn": "2026-11-01",
+    "verification": "User-supplied short link resolved via amzlinks.in to this Amazon.in product with the indiahistor01-21 tag. Title, author, edition details and cover checked on the product page. Stock and price not asserted. English Kindle edition. Retailer describes it as a historical romance; listed as fiction in the catalogue description. Publisher is omitted because the product details do not identify one."
   }
 ]

@@ -76,6 +76,20 @@
   color: var(--accent);
 }
 
+:host(.inline-article-books) .article-book-card {
+  padding-block: 0.65rem;
+}
+
+:host(.inline-article-books) :is(.book-meta, .book-author) {
+  margin-block: 0.15rem;
+  line-height: 1.4;
+}
+
+:host(.inline-article-books) .read-more {
+  margin-top: 0.25rem;
+  line-height: 1.4;
+}
+
 @media (max-width: 680px) {
   .article-book-list {
     grid-template-columns: 1fr;

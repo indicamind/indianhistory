@@ -1,6 +1,5 @@
 @if (books.length) {
   <section class="article-books" [attr.aria-labelledby]="headingId">
-    <p class="eyebrow">More books</p>
     <h2 [id]="headingId">Books for further reading</h2>
     <div class="article-book-list" [class.single-book]="books.length === 1">
       @for (book of books; track book.isbn10) {

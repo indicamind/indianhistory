@@ -288,6 +288,13 @@ export const personalities: Personality[] = [
     description: 'Udai Singh II founded Udaipur in 1559. He withdrew into the hills during Akbar\'s siege of Chittor, preserving the ruling house.'
   },
   {
+    slug: 'rani-durgavati',
+    name: 'Rani Durgavati',
+    range: '16th century CE',
+    shortDescription: 'Regent of Garha-Katanga who resisted a Mughal invasion in 1564.',
+    description: 'Rani Durgavati ruled Garha-Katanga on behalf of her son Vir Narayan. She led resistance to Asaf Khan’s Mughal forces and died in 1564.'
+  },
+  {
     slug: 'maharana-pratap',
     name: 'Maharana Pratap',
     range: 'r. 1572 – 1597 CE',

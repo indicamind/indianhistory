@@ -15,7 +15,6 @@ personalities:
   - ashoka
   - firuz-shah-tughlaq
 themes:
-  - rise-of-buddhism-jainism
   - islamic-conquest-of-india
 tags:
   - اشوک سٕنٛدؠ ستون

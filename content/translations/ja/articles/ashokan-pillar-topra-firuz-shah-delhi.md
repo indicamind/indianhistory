@@ -11,7 +11,6 @@ personalities:
   - ashoka
   - firuz-shah-tughlaq
 themes:
-  - rise-of-buddhism-jainism
   - islamic-conquest-of-india
 tags:
   - アショーカ王の石柱

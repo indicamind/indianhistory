@@ -13,7 +13,7 @@ updatedAt: '2026-10-30T00:00:00.000Z'
 period: medieval
 polity: tughlaq-dynasty
 personalities: [ashoka, firuz-shah-tughlaq]
-themes: [rise-of-buddhism-jainism, islamic-conquest-of-india]
+themes: [islamic-conquest-of-india]
 tags: ["अशोक स्तम्भ", "टोपरा", "फिरोज शाह तुगलक", "फिरोज शाह कोटला", "ब्राह्मी", "शम्स-इ सिराज अफिफ"]
 books: ['0349122385', '935699322X', 'B0BPDX1MXS']
 sourceHash: bc0373d37379938e11e62f42bd9ed7f55eb5e6acc71515d717a2a3e1044f8c21

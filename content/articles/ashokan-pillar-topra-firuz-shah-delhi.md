@@ -12,7 +12,7 @@ updatedAt: '2026-10-30T00:00:00.000Z'
 period: medieval
 polity: tughlaq-dynasty
 personalities: [ashoka, firuz-shah-tughlaq]
-themes: [rise-of-buddhism-jainism, islamic-conquest-of-india]
+themes: [islamic-conquest-of-india]
 tags: [Ashokan pillars, Topra, Firuz Shah Tughlaq, Firoz Shah Kotla, Brahmi, Shams-i Siraj Afif]
 books: ['0349122385', '935699322X', 'B0BPDX1MXS']
 ---

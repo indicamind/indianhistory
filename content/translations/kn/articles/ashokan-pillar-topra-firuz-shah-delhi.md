@@ -8,7 +8,7 @@ updatedAt: '2026-10-30T00:00:00.000Z'
 period: medieval
 polity: tughlaq-dynasty
 personalities: [ashoka, firuz-shah-tughlaq]
-themes: [rise-of-buddhism-jainism, islamic-conquest-of-india]
+themes: [islamic-conquest-of-india]
 tags: ["ಅಶೋಕನ ಸ್ತಂಭಗಳು", "ಟೋಪ್ರಾ", "ಫಿರೋಜ್ ಶಾ ತುಘಲಕ್", "ಫಿರೋಜ್ ಶಾ ಕೋಟ್ಲಾ", "ಬ್ರಾಹ್ಮಿ", "ಶಮ್ಸ್-ಇ ಸಿರಾಜ್ ಅಫೀಫ್"]
 books: ['0349122385', '935699322X', 'B0BPDX1MXS']
 sourceHash: bc0373d37379938e11e62f42bd9ed7f55eb5e6acc71515d717a2a3e1044f8c21

@@ -67,13 +67,7 @@
               <a [routerLink]="articleRoute(article)" [queryParams]="isPol ? { fromPolity: ent.slug, lang: locale.language } : isTh ? { fromTheme: ent.slug, lang: locale.language } : isPerson ? { fromPersonality: ent.slug, lang: locale.language } : { fromPeriod: ent.slug, lang: locale.language }">{{ article.title }}</a>
             </h3>
             <p class="excerpt">{{ article.excerpt }}</p>
-            @if (article.tags.length) {
-              <ul class="tags">
-                @for (tag of article.tags; track tag) {
-                  <li>{{ tag }}</li>
-                }
-              </ul>
-            }
+            <app-article-section-links [article]="article" />
             <a [routerLink]="articleRoute(article)" [queryParams]="isPol ? { fromPolity: ent.slug, lang: locale.language } : isTh ? { fromTheme: ent.slug, lang: locale.language } : isPerson ? { fromPersonality: ent.slug, lang: locale.language } : { fromPeriod: ent.slug, lang: locale.language }" class="read-more">Read full article →</a>
           </article>
         }

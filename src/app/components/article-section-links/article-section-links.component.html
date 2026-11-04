@@ -1,0 +1,12 @@
+@if (links().length) {
+  <nav class="article-sections" [attr.aria-label]="locale.translate('Explore related topics')">
+    <ul>
+      @for (section of links(); track section.route.join('/') + (section.fragment || '')) {
+        <li>
+          <a [routerLink]="section.route" [fragment]="section.fragment" [queryParams]="{lang: locale.language}"
+            [attr.aria-label]="locale.translate(section.kindLabel) + ': ' + section.name">{{ section.name }}</a>
+        </li>
+      }
+    </ul>
+  </nav>
+}

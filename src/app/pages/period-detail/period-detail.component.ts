@@ -8,10 +8,11 @@ import { PeriodsService } from '../../services/periods.service';
 import { Period, Personality, Polity, Theme } from '../../data/periods';
 import { LocaleService } from '../../i18n/locale.service';
 import { articleRoute } from '../../utils/article-route';
+import { ArticleSectionLinksComponent } from '../../components/article-section-links/article-section-links.component';
 
 @Component({
   selector: 'app-period-detail',
-  imports: [RouterLink, DatePipe],
+  imports: [RouterLink, DatePipe, ArticleSectionLinksComponent],
   templateUrl: './period-detail.component.html',
   styleUrl: './period-detail.component.css',
 })

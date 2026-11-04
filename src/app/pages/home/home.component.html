@@ -25,13 +25,7 @@
             <a [routerLink]="articleRoute(article)">{{ article.title }}</a>
           </h2>
           <p class="excerpt">{{ article.excerpt }}</p>
-          @if (article.tags.length) {
-            <ul class="tags">
-              @for (tag of article.tags; track tag) {
-                <li>{{ tag }}</li>
-              }
-            </ul>
-          }
+          <app-article-section-links [article]="article" />
           <a [routerLink]="articleRoute(article)" class="read-more">Read article →</a>
         </div>
       </article>

@@ -11,6 +11,7 @@ import { DevModeService } from '../../services/dev-mode.service';
 import { articleRoute } from '../../utils/article-route';
 import { WebpPipe } from '../../pipes/webp.pipe';
 import { WebpFallbackDirective } from '../../directives/webp-fallback.directive';
+import { ArticleSectionLinksComponent } from '../../components/article-section-links/article-section-links.component';
 
 interface TimelinePeriod {
   slug: string;
@@ -49,7 +50,7 @@ const PERSONALITY_DEFINITIONS = new Map(personalityDefinitions.map(person => [pe
 
 @Component({
   selector: 'app-home',
-  imports: [RouterLink, DatePipe, WorldHistoryComponent, WebpPipe, WebpFallbackDirective],
+  imports: [RouterLink, DatePipe, WorldHistoryComponent, WebpPipe, WebpFallbackDirective, ArticleSectionLinksComponent],
   templateUrl: './home.component.html',
   styleUrl: './home.component.css',
 })

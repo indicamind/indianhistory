@@ -202,7 +202,7 @@ export const themes: Theme[] = [
   },
   {
     slug: 'islamic-conquest-of-india',
-    name: 'Islamic Conquest of India',
+    name: 'Islamic Rule in India',
     range: 'c. 8th century – 1799 CE',
     shortDescription: 'Arab, Turkic, Afghan, and Central Asian campaigns, sultanates, resistance, and the formation of Indo-Islamic political cultures.',
     description: 'This theme covers the long and uneven expansion of Muslim-ruled polities into the subcontinent, from early Arab incursions to the Delhi Sultanate, Timurid (Mughal) rule, and later powers, extending through Tipu Sultan’s rule in Mysore. It includes campaigns, state formation, regional resistance, cultural exchange, and the political transformations of the medieval and early modern periods.'

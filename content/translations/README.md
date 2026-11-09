@@ -12,14 +12,16 @@ The user requested seven additional language editions on 2026-10-31. Completed e
 
 | Edition | Code | Required site strings translated | Articles translated | Blogs translated | Status |
 | --- | --- | ---: | ---: | ---: | --- |
-| Italian | `it` | 418 / 418 | 47 / 47 | 1 / 1 | Released |
-| Korean | `ko` | 418 / 418 | 47 / 47 | 1 / 1 | Released |
-| Vietnamese | `vi` | 418 / 418 | 47 / 47 | 1 / 1 | Released |
-| Turkish | `tr` | 418 / 418 | 47 / 47 | 1 / 1 | Released |
-| Malay | `ms` | 418 / 418 | 47 / 47 | 1 / 1 | Released |
-| Swahili | `sw` | 418 / 418 | 47 / 47 | 1 / 1 | Released |
-| Filipino | `fil` | 418 / 418 | 47 / 47 | 1 / 1 | Released |
+| Italian | `it` | 420 / 420 | 48 / 48 | 1 / 1 | Released |
+| Korean | `ko` | 420 / 420 | 48 / 48 | 1 / 1 | Released |
+| Vietnamese | `vi` | 420 / 420 | 48 / 48 | 1 / 1 | Released |
+| Turkish | `tr` | 420 / 420 | 48 / 48 | 1 / 1 | Released |
+| Malay | `ms` | 420 / 420 | 48 / 48 | 1 / 1 | Released |
+| Swahili | `sw` | 420 / 420 | 48 / 48 | 1 / 1 | Released |
+| Filipino | `fil` | 420 / 420 | 48 / 48 | 1 / 1 | Released |
 
 All seven requested editions have passed the full release gate with complete translations for interface strings, articles, blogs, image attributions, metadata, and search assets. Each translation includes the complete body, metadata, tags, image alt text and attribution, and a final Sources section with image credits. Original Prakrit, Greek, and Aramaic transliterations remain unchanged.
+
+The approved Rani Durgavati article is included in all 33 translation editions, with its complete narrative, sources, alt text, captions, and image credits. The approved English text remains unchanged.
 
 Run `npm run check-translations` and `npm run build` after any content change to inspect generated articles, blogs, search assets, section navigation, and share-page metadata across all released editions.

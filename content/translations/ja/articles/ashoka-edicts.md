@@ -10,12 +10,23 @@ personalities: [ashoka]
 tags: ["アショーカ王","勅令","碑文"]
 themes: []
 books: ['0349122385', '935699322X', '0143330802', 'B0BPDX1MXS']
-sourceHash: 495ce4b08b5582d84faa3fad8135db60c89cbd1db8a1d210512713d79ad89a9d
+sourceHash: c285e707b6cfea2dc0b66172564cad74e2fe40ceb50bcf492ea50881713203e1
 ---
 
 アショーカ王の碑文は、多くの地点に残された複数の写本（異本）として現存しています。以下の記事一覧では、個々の岩石ごとではなく、**独立した勅令テキストごと**に1つのページを設けています。番号が付されたプラークリット語の記事では、原碑文字の模刻、特定の地点のテキストに基づくローマ字翻字、フルッチュによる1925年版に基づく完全な現存テキストの翻訳、および簡潔な解説を掲載しています。翻訳は日本語で提供されています。破損箇所は歴史的な校訂版に従って表記されています。ギリシア語およびアラム語のページでは、それぞれの記事で引用されている個別の学術校訂版を使用しています。
 
 十四篇の大磨崖碑と七篇の大石柱碑の番号付けは、現代の学術研究に基づくものです。カリンガ別碑、より短い磨崖碑や石柱碑、ならびにバラバール洞窟の寄進碑文には慣用名が用いられています。掲載画像には、同一の岩面や図版にある前後のテキストが含まれている場合があります。
+
+<figure class="article-figure inscription-plate">
+  <picture>
+    <source srcset="assets/media/images/ashoka-plate-1405674260.webp" type="image/webp" />
+    <img src="/assets/media/images/ashoka-plate-1405674260.jpg" alt="オイゲン・フルツシュの1925年版に収録された、デリー–トープラー石柱にあるアショーカ王の大石柱碑第7のブラーフミー文字の複製写真。" loading="lazy" decoding="async" />
+  </picture>
+  <figcaption>
+    <strong>謎の背後にあるメッセージ。</strong> デリー–トープラー石柱の大石柱碑第7の複製。その古代ブラーフミー文字は、19世紀の金石学的研究を通じて読解可能となった。
+    <span class="figure-credit">複製：E・フルツシュ編『Inscriptions of Asoka』、1925年 · パブリックドメイン。オスロ大学ビブリオテカ・ポリグロッタ経由で複製。当サイト用にリサイズおよびJPEG変換、WebP版も用意。</span>
+  </figcaption>
+</figure>
 
 ## 碑文の読み方
 
@@ -30,3 +41,7 @@ sourceHash: 495ce4b08b5582d84faa3fad8135db60c89cbd1db8a1d210512713d79ad89a9d
 - E. Hultzsch, [*Inscriptions of Asoka* (1925)](https://archive.org/details/InscriptionsOfAsoka.NewEditionByE.Hultzsch), *Corpus Inscriptionum Indicarum*, volume I.
 - University of Oslo, [Bibliotheca Polyglotta Ashoka Library](https://www2.hf.uio.no/polyglotta/index.php?bid=14&page=library), for texts and translations based on Hultzsch.
 - Harry Falk, [*Aśokan Sites and Artefacts* (2006)](https://dokumen.pub/aokan-sites-and-artefacts-1nbsped-3805337124.html), pp. 241–253 (ギリシア語・アラム語碑文、帰属の議論を含む)。
+
+### 画像クレジット
+
+- **第7石柱碑の複製写真：** E・フルツシュ編『Inscriptions of Asoka』（1925年）、パブリックドメイン（編者は1927年没）。[オスロ大学ビブリオテカ・ポリグロッタの原デジタル画像](https://www2.hf.uio.no/polyglotta/public/media/img_to_txt/1405674260.png); [原典刊行物](https://archive.org/details/InscriptionsOfAsoka.NewEditionByE.Hultzsch)。ローカルコピーは最大2200ピクセルにリサイズしてJPEGに変換、最適化されたWebPコピーも作成。

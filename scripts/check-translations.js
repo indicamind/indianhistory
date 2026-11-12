@@ -5,6 +5,7 @@ const matter = require('gray-matter');
 const { marked } = require('marked');
 const compiler = require('@angular/compiler');
 const ts = require('typescript');
+const { sections: biographySections } = require('./build-personality-profiles');
 
 const ROOT = path.join(__dirname, '..');
 const { LANGUAGES, IN_PROGRESS_LANGUAGES = new Set() } = require('./translation-languages');
@@ -34,6 +35,9 @@ const DYNAMIC_COPY = [
   'English draft · Awaiting approval',
   'Translated by AI.',
   'Article navigation', 'Next article', 'Previous article', 'Explore related topics',
+  'Life timeline', 'Biography', 'Read in context', 'Sources', 'Image credits',
+  'Selected milestones. Approximate dates are marked c.',
+  'Later artwork', 'Historic site', 'Public domain', 'c.', 'BCE', 'CE',
 ];
 const STRINGS = new Set();
 
@@ -78,6 +82,13 @@ function collectSiteStrings() {
     const { data } = matter(fs.readFileSync(path.join(ROOT, 'content', 'articles', name), 'utf8'));
     if (typeof data.eventDate === 'string') STRINGS.add(data.eventDate);
   }
+  const profiles = JSON.parse(fs.readFileSync(path.join(ROOT, 'content/data/personality-profiles.json'), 'utf8'));
+  for (const profile of Object.values(profiles)) {
+    for (const event of profile.events) {
+      STRINGS.add(event.title);
+      if (event.date) STRINGS.add(event.date);
+    }
+  }
   for (const value of DYNAMIC_COPY) STRINGS.add(value);
   return [...STRINGS].filter(value => /\p{L}/u.test(value));
 }
@@ -101,6 +112,17 @@ function sourceFiles(kind) {
 
 function placeholders(value) {
   return [...String(value).matchAll(/\{([a-z]+)\}/g)].map(match => match[1]).sort().join(',');
+}
+
+function biographyOverrideStrings(language) {
+  const definitions = JSON.parse(fs.readFileSync(path.join(ROOT, 'content/data/personality-profiles.json'), 'utf8'));
+  return Object.values(definitions).filter(p => p.biography?.overrideLanguages?.includes(language)).flatMap(profile => {
+    const source = matter.read(path.join(ROOT, 'content/articles', profile.article + '.md'));
+    const section = biographySections(marked.parse(source.content)).find(s => s.heading === profile.biography.heading);
+    if (!section) throw new Error(`Missing biography source for ${profile.article}`);
+    const start = profile.biography.paragraph || 0;
+    return section.paragraphs.slice(start, start + (profile.biography.count || 1));
+  });
 }
 
 function checkContent(kind, language) {
@@ -144,7 +166,7 @@ if (require.main === module) {
       siteProblems.push(`site.json: missing ${siteStrings.length} interface and history strings`);
     } else {
       const copy = JSON.parse(fs.readFileSync(siteFile, 'utf8'));
-      const missing = siteStrings.filter(value => typeof copy[value] !== 'string' || !copy[value]);
+      const missing = [...siteStrings, ...biographyOverrideStrings(language)].filter(value => typeof copy[value] !== 'string' || !copy[value]);
       if (missing.length) siteProblems.push(`site.json: missing ${missing.length} of ${siteStrings.length} strings`);
       const mismatched = siteStrings.filter(value => copy[value] && placeholders(value) !== placeholders(copy[value]));
       if (mismatched.length) siteProblems.push(`site.json: ${mismatched.length} placeholder mismatch(es)`);

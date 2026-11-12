@@ -10,12 +10,23 @@ personalities: [ashoka]
 tags: ["آشوکا","فرمان‌ها","کتیبه‌ها"]
 themes: []
 books: ['0349122385', '935699322X', '0143330802', 'B0BPDX1MXS']
-sourceHash: 495ce4b08b5582d84faa3fad8135db60c89cbd1db8a1d210512713d79ad89a9d
+sourceHash: c285e707b6cfea2dc0b66172564cad74e2fe40ceb50bcf492ea50881713203e1
 ---
 
 کتیبه‌های آشوکا در نسخه‌های گوناگون در مکان‌های متعددی برجا مانده‌اند. فهرست زیر برای هر **متن متمایز فرمان** یک صفحه اختصاص می‌دهد، نه برای هر سنگ منفرد. مقاله‌های شماره‌دار به زبان پراکریت شامل فاکسیمیله خط اصلی، نویسه‌گردانی لاتین از نسخه یک محوطه مشخص، ترجمه کامل متن باقی‌مانده بر اساس ویرایش ۱۹۲۵ هولتز و توضیحی کوتاه هستند. در مقاله‌های محلی، ترجمه به زبان همان صفحه نمایش داده می‌شود. بخش‌های آسیب‌دیده همانند نسخه اصلی مشخص شده‌اند. صفحات یونانی و آرامی از ویرایش‌های علمی ویژه ذکرشده در همان مقاله‌ها استفاده می‌کنند.
 
 چهارده فرمان بزرگ صخره‌ای و هفت فرمان بزرگ ستونی در پژوهش‌های نوین شماره‌گذاری شده‌اند. فرمان‌های جداگانه کالینگا، پیام‌های کوچک صخره‌ای و ستونی و کتیبه‌های غارهای بارابار از نام‌های سنتی خود استفاده می‌کنند. تصویر هر صفحه ممکن است متون مجاور روی همان سنگ یا لوحه را نشان دهد.
+
+<figure class="article-figure inscription-plate">
+  <picture>
+    <source srcset="assets/media/images/ashoka-plate-1405674260.webp" type="image/webp" />
+    <img src="/assets/media/images/ashoka-plate-1405674260.jpg" alt="فاکسیمیله خط براهمی از فرمان بزرگ ستونی هفتم آشوکا بر ستون دهلی–توپرا، بازتولید شده در ویرایش ۱۹۲۵ اویگن هولتزش." loading="lazy" decoding="async" />
+  </picture>
+  <figcaption>
+    <strong>پیام نهفته در پس معما.</strong> فاکسیمیله‌ای از فرمان بزرگ ستونی هفتم ستون دهلی–توپرا. حروف براهمی باستانی آن در سده نوزدهم میلادی از طریق پژوهش‌های کتیبه‌شناسی خواندنی شد.
+    <span class="figure-credit">فاکسیمیله: E. Hultzsch، ویراستار، Inscriptions of Asoka، 1925 · مالکیت عمومی. بازتولید از طریق Bibliotheca Polyglotta، دانشگاه اسلو؛ برای این وبگاه تغییر اندازه یافته و با فرمت JPEG همراه با نسخه بهینه‌شده WebP ارائه شده است.</span>
+  </figcaption>
+</figure>
 
 ## نحوه خواندن کتیبه‌ها
 
@@ -30,3 +41,7 @@ sourceHash: 495ce4b08b5582d84faa3fad8135db60c89cbd1db8a1d210512713d79ad89a9d
 - E. Hultzsch, [*Inscriptions of Asoka* (1925)](https://archive.org/details/InscriptionsOfAsoka.NewEditionByE.Hultzsch), *Corpus Inscriptionum Indicarum*, جلد اول.
 - دانشگاه اسلو، [کتابخانه بیبلیوتکا پولی‌گلوتا آشوکا](https://www2.hf.uio.no/polyglotta/index.php?bid=14&page=library)، ویرایش‌شده بر اساس متون و ترجمه‌های هولتز.
 - Harry Falk, [*Aśokan Sites and Artefacts* (2006)](https://dokumen.pub/aokan-sites-and-artefacts-1nbsped-3805337124.html)، صفحات ۲۴۱–۲۵۳ (کتیبه‌های یونانی و آرامی، شامل انتساب‌های مورد مناقشه).
+
+### اعتبار تصاویر
+
+- **فاکسیمیله فرمان ستونی هفتم:** E. Hultzsch، ویراستار، *Inscriptions of Asoka* (1925)، مالکیت عمومی؛ ویراستار در سال ۱۹۲۷ درگذشت. [تصویر دیجیتال اصلی، Bibliotheca Polyglotta، دانشگاه اسلو](https://www2.hf.uio.no/polyglotta/public/media/img_to_txt/1405674260.png)؛ [انتشار منبع](https://archive.org/details/InscriptionsOfAsoka.NewEditionByE.Hultzsch). نسخه محلی به حداکثر ۲۲۰۰ پیکسل تغییر اندازه یافته و به فرمت JPEG تبدیل شده است، همراه با یک نسخه بهینه‌شده WebP.

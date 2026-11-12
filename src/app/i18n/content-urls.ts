@@ -11,6 +11,11 @@ export function contentPath(pathname: string): { path: string; language?: Langua
 }
 
 export function languageAtLocation(url: URL, basePath = '/'): LanguageCode {
+  if (url.protocol === 'chrome-extension:') {
+    const route = new URL(url.hash.slice(1) || '/', 'https://history.invalid');
+    return contentPath(route.pathname)?.language
+      ?? languageFromUrl(route.searchParams.get('lang') ?? url.searchParams.get('lang'));
+  }
   const relative = url.pathname.startsWith(basePath) ? '/' + url.pathname.slice(basePath.length) : url.pathname;
   return contentPath(relative)?.language ?? languageFromUrl(url.searchParams.get('lang'));
 }
@@ -24,11 +29,15 @@ export function localizedContentUrl(value: string, language: LanguageCode): stri
   return url.pathname + url.search + url.hash;
 }
 
-export function localizeContentLinks(html: string, language: LanguageCode, dev = false, basePath = '/'): string {
-  return html.replace(/href="(\/(?:article|blogs|worldhistory|post)\/[^"\s]+)"/g, (match, href: string) => {
+export function localizeContentLinks(html: string, language: LanguageCode, dev = false, basePath = '/', offline = false): string {
+  const links = offline ? /href="(\/(?!\/)[^"\s]*)"/g : /href="(\/(?:article|blogs|worldhistory|post)\/[^"\s]+)"/g;
+  return html.replace(links, (match, href: string) => {
+    if (offline && !/^\/(?:article|blogs|worldhistory|post|period|polity|theme|personality|search|books)(?:[/?#]|$)/.test(href)) return match;
     const url = new URL(localizedContentUrl(href.replace(/&amp;/g, '&'), language), 'https://history.invalid');
+    if (offline && !contentPath(url.pathname)) url.searchParams.set('lang', language);
     url.pathname = basePath.replace(/\/$/, '') + url.pathname;
     if (dev) url.searchParams.set('dev', 'true');
-    return `href="${(url.pathname + url.search + url.hash).replace(/&/g, '&amp;')}"`;
+    const destination = (offline ? basePath + 'newtab.html?lang=' + language + '#' : '') + url.pathname + url.search + url.hash;
+    return `href="${destination.replace(/&/g, '&amp;')}"`;
   });
 }

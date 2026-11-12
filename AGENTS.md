@@ -33,3 +33,20 @@ For articles and blog posts, translate the complete approved English text into e
 For an article or blog post, add a Markdown file under `content/translations/<language>/articles/` or `content/translations/<language>/blogs/` with the same filename as the English source. Translate the `title`, `excerpt`, `tags`, body, and image alt text. Set `sourceHash` to the SHA-256 value of `JSON.stringify({title, excerpt, body: content.trim()})` from the English Markdown frontmatter and body. Keep the English source file's metadata identifiers and links. Put interface and history-data translations in `content/translations/<language>/site.json`, keyed by the exact English string. Run `npm run check-translations` and `npm run build`; inspect the generated localized article, blog, and search assets. A language remains incomplete until these checks pass; do not describe it as fully released while it still shows English fallback.
 
 Do not use a translation API or browser translation service for this project unless the user explicitly changes that preference. Codex should author and review the translations directly.
+
+# Offline Chrome extension build
+
+Every `npm run build` must also build and package the complete offline Chrome
+extension under `chrome-extension/dist/india-history-new-tab/` and
+`chrome-extension/dist/india-history-new-tab.zip`. Keep this in the root build
+lifecycle, not as a manual release step. The extension must contain the app,
+all published articles and blogs in every released language, search data,
+book metadata, and all required images. Do not implement it as a redirect,
+iframe, or remote content loader. Reading, navigation, language switching,
+search, and images must work with networking disabled and make no HTTP(S)
+requests. Keep ads, remote fonts, analytics, and backend clients out of the
+extension. Keep external URLs as reference metadata without enabling outbound
+navigation. Verify the installed extension in an isolated browser profile
+with the network disabled after changes to this build or its routing.
+The toolbar icon is the reader's entry point: open the bundled reader in a tab
+only when the icon is clicked, and preserve Chrome's normal new-tab page.

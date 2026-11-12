@@ -45,7 +45,7 @@ export class BlogDetailComponent implements OnInit {
       if (requestId !== this.requestId) return;
       const post = this.blogs.getBySlug(params.get('slug') ?? '') ?? null;
       this.post.set(post);
-      const html = post ? localizeContentLinks(post.html, this.locale.language, post.draft, this.locale.basePath) : null;
+      const html = post ? localizeContentLinks(post.html, this.locale.language, post.draft, this.locale.basePath, this.locale.offline) : null;
       this.html.set(html ? this.sanitizer.bypassSecurityTrustHtml(html) : null);
       this.loading.set(false);
       if (post && !post.draft && post.slug !== this.lastCountedSlug) this.pageViews.record(post.slug);

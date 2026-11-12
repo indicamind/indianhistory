@@ -12,8 +12,9 @@ export class LocaleService {
   private readonly document = inject(DOCUMENT);
   private readonly http = inject(HttpClient);
   private copy: Record<string, string> = {};
-  readonly basePath = new URL(this.document.baseURI).pathname;
+  readonly basePath = new URL('.', this.document.baseURI).pathname;
   readonly generatedAssetsBase = new URL('assets/generated/', this.document.baseURI).pathname;
+  readonly offline = new URL(this.document.location.href).protocol === 'chrome-extension:';
   readonly languages = LANGUAGES.filter(entry => AVAILABLE_LANGUAGES.includes(entry.code));
   readonly language: LanguageCode = languageAtLocation(
     new URL(this.document.location.href), this.basePath
@@ -149,6 +150,20 @@ export class LocaleService {
   changeLanguage(code: string): void {
     const language = languageFromUrl(code);
     const url = new URL(this.document.location.href);
+    if (this.offline) {
+      const route = new URL(url.hash.slice(1) || '/', 'https://history.invalid');
+      if (contentPath(route.pathname)) {
+        url.hash = localizedContentUrl(route.pathname + route.search + route.hash, language);
+      } else {
+        route.searchParams.set('lang', language);
+        url.hash = route.pathname + route.search + route.hash;
+      }
+      // An outer query change reloads the app, rather than only changing its hash.
+      url.searchParams.set('lang', language);
+      try { this.document.defaultView?.localStorage.setItem('ih_extension_language', language); } catch { /* Use URL state. */ }
+      this.document.location.assign(url.href);
+      return;
+    }
     const base = new URL(this.document.baseURI).pathname;
     const relative = url.pathname.startsWith(base) ? '/' + url.pathname.slice(base.length) : url.pathname;
     if (contentPath(relative)) {

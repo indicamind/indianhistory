@@ -63,6 +63,13 @@ describe('AppComponent', () => {
     expect(component.menuOpen()).toBeFalsy();
   });
 
+  it('uses the full-width layout on localized personality routes and restores the sidebar for articles', async () => {
+    await (component as any).updateBookPlacement('/personality/rani-durgavati?lang=ar');
+    expect(component.isPersonalityPage()).toBeTruthy();
+    await (component as any).updateBookPlacement('/ar/article/rani-durgavati-queen-of-garha-katanga?lang=ar');
+    expect(component.isPersonalityPage()).toBeFalsy();
+  });
+
   it('hides World History navigation when there are no articles, including in dev mode', () => {
     isDevMode.set(true);
     expect(component.showWorldHistory()).toBeFalsy();

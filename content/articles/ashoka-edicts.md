@@ -16,6 +16,17 @@ Ashoka’s inscriptions survive in copies at several sites. The article list bel
 
 The fourteen major rock edicts and seven major pillar edicts are numbered in modern scholarship. The separate Kalinga edicts, shorter rock and pillar messages, and Barabar cave dedications use their conventional names. The image on a page may show neighboring texts on the same stone or plate.
 
+<figure class="article-figure inscription-plate">
+  <picture>
+    <source srcset="assets/media/images/ashoka-plate-1405674260.webp" type="image/webp" />
+    <img src="/assets/media/images/ashoka-plate-1405674260.jpg" alt="Facsimile of Brahmi writing from Ashoka's Seventh Major Pillar Edict on the Delhi–Topra pillar, reproduced in Eugen Hultzsch's 1925 edition." loading="lazy" decoding="async" />
+  </picture>
+  <figcaption>
+    <strong>The message behind the mystery.</strong> A facsimile from the Delhi–Topra pillar's Seventh Major Pillar Edict. Its ancient Brahmi letters became readable through epigraphic study in the nineteenth century.
+    <span class="figure-credit">Facsimile: E. Hultzsch, editor, Inscriptions of Asoka, 1925 · Public domain. Reproduced via Bibliotheca Polyglotta, University of Oslo; resized and converted to JPEG for this site, with a WebP copy.</span>
+  </figcaption>
+</figure>
+
 ## Reading the inscriptions
 
 Ashoka commonly calls himself Devānāṃpriya Priyadarśin (“Beloved of the Gods, Piyadasi”). The surviving texts are mainly in regional forms of Prakrit; the northwestern copies use Kharoṣṭhī script, while many other copies use Brāhmī. Spellings, damaged passages, and even wording can vary between sites. The transliteration and translation in each article follow the version named there.
@@ -29,3 +40,7 @@ Several northwest texts that mention King Priyadarśin have also been called “
 - E. Hultzsch, [*Inscriptions of Asoka* (1925)](https://archive.org/details/InscriptionsOfAsoka.NewEditionByE.Hultzsch), *Corpus Inscriptionum Indicarum*, volume I.
 - University of Oslo, [Bibliotheca Polyglotta Ashoka Library](https://www2.hf.uio.no/polyglotta/index.php?bid=14&page=library), edited from Hultzsch’s texts and translations.
 - Harry Falk, [*Aśokan Sites and Artefacts* (2006)](https://dokumen.pub/aokan-sites-and-artefacts-1nbsped-3805337124.html), pp. 241–253 (Greek and Aramaic inscriptions, including disputed attributions).
+
+### Image credits
+
+- **Seventh Pillar Edict facsimile:** E. Hultzsch, editor, *Inscriptions of Asoka* (1925), public domain; editor died in 1927. [Original digital image, Bibliotheca Polyglotta, University of Oslo](https://www2.hf.uio.no/polyglotta/public/media/img_to_txt/1405674260.png); [source publication](https://archive.org/details/InscriptionsOfAsoka.NewEditionByE.Hultzsch). The local site copy was resized to a maximum of 2200 pixels and converted to JPEG, with an optimised WebP copy.

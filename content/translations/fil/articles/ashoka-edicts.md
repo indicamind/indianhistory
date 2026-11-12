@@ -21,11 +21,22 @@ books:
   - 935699322X
   - 0143330802
   - B0BPDX1MXS
-sourceHash: 495ce4b08b5582d84faa3fad8135db60c89cbd1db8a1d210512713d79ad89a9d
+sourceHash: c285e707b6cfea2dc0b66172564cad74e2fe40ceb50bcf492ea50881713203e1
 ---
 Ang mga inskripsiyon ni Ashoka ay nananatili sa mga kopya sa ilang mga pook. Ang talaan ng mga artikulo sa ibaba ay nagbibigay ng isang pahina para sa bawat **natatanging teksto ng kautusan**, sa halip na isang pahina para sa bawat bato. Ipinapakita ng mga numeradong artikulo sa Prakrit ang isang kopya ng orihinal na sulat, ang transliterasyon sa alpabetong Latin ng isang bersyon mula sa pinangalanang pook, ang kumpletong natitirang teksto na isinalin gamit ang edisyon ni Hultzsch noong 1925, at isang maikling paliwanag. Sa mga lokalisadong artikulo, lumalabas ang salin sa wika ng pahina. Minamarkahan ang mga nasirang bahagi ayon sa pagkakalagay sa edisyong iyon. Ginagamit ng mga pahinang Griyego at Aramaiko ang magkakahiwalay na edisyong pang-iskolar na binanggit doon.
 
 Ang labing-apat na pangunahing kautusan sa bato at pitong pangunahing kautusan sa haligi ay binibilang sa makabagong pananaliksik. Ang magkakahiwalay na kautusan sa Kalinga, mas maiikling mensahe sa bato at haligi, at mga pag-aalay sa mga yungib ng Barabar ay gumagamit ng kanilang mga kumbensiyonal na pangalan. Maaaring ipakita ng imahe sa isang pahina ang mga katabing teksto sa parehong bato o plaka.
+
+<figure class="article-figure inscription-plate">
+  <picture>
+    <source srcset="assets/media/images/ashoka-plate-1405674260.webp" type="image/webp" />
+    <img src="/assets/media/images/ashoka-plate-1405674260.jpg" alt="Kopya ng sulat Brahmi mula sa Ikapitong Pangunahing Kautusan sa Haligi ni Ashoka sa haligi ng Delhi–Topra, na muling inilathala sa edisyon ni Eugen Hultzsch noong 1925." loading="lazy" decoding="async" />
+  </picture>
+  <figcaption>
+    <strong>Ang mensahe sa likod ng hiwaga.</strong> Isang kopya mula sa Ikapitong Pangunahing Kautusan sa Haligi ng Delhi–Topra. Ang mga sinaunang titik Brahmi nito ay naging nababasa sa pamamagitan ng pag-aaral ng epigrapya noong ikalabinsiyam na siglo.
+    <span class="figure-credit">Kopya: E. Hultzsch, tagapatnugot, Inscriptions of Asoka, 1925 · Pampublikong dominyo. Muling inilathala sa pamamagitan ng Bibliotheca Polyglotta, Unibersidad ng Oslo; binago ang laki at ginawang JPEG para sa site na ito, kalakip ang isang kopyang WebP.</span>
+  </figcaption>
+</figure>
 
 ## Pagbasa sa mga inskripsiyon
 
@@ -40,3 +51,7 @@ Ilang teksto sa hilagang-kanluran na bumabanggit kay Haring Priyadarśin ay tina
 - E. Hultzsch, [*Inscriptions of Asoka* (1925)](https://archive.org/details/InscriptionsOfAsoka.NewEditionByE.Hultzsch), *Corpus Inscriptionum Indicarum*, volume I.
 - [Bibliotheca Polyglotta Ashoka Library](https://www2.hf.uio.no/polyglotta/index.php?bid=14&page=library), University of Oslo, edited from Hultzsch’s texts and translations.
 - Harry Falk, [*Aśokan Sites and Artefacts* (2006)](https://dokumen.pub/aokan-sites-and-artefacts-1nbsped-3805337124.html), pp. 241–253 (Greek and Aramaic inscriptions, including disputed attributions).
+
+### Pagkilala sa mga larawan
+
+- **Kopya ng Ikapitong Kautusan sa Haligi:** E. Hultzsch, tagapatnugot, *Inscriptions of Asoka* (1925), pampublikong dominyo; namatay ang tagapatnugot noong 1927. [Orihinal na digital na larawan, Bibliotheca Polyglotta, Unibersidad ng Oslo](https://www2.hf.uio.no/polyglotta/public/media/img_to_txt/1405674260.png); [pinagmulang publikasyon](https://archive.org/details/InscriptionsOfAsoka.NewEditionByE.Hultzsch). Ang lokal na kopya sa site ay binago ang laki sa maximum na 2200 pixel at ginawang JPEG, kalakip ang isang na-optimize na kopyang WebP.

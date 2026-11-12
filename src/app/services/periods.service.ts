@@ -295,7 +295,8 @@ export class PeriodsService {
   }
 
   isVisiblePersonality(slug: string): boolean {
-    return this.devMode.isDevMode() || this.articlesForPersonality(slug).length > 0;
+    // Every personality now has a biography and life timeline of its own.
+    return !!this.getPersonalityBySlug(slug);
   }
 
   private articlesForPersonality(slug: string): ArticleSummary[] {

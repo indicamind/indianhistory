@@ -73,7 +73,7 @@ export class HomeComponent implements OnInit {
   readonly regionalKingdoms = signal<PolityDisplay[]>([]);
   readonly visibleTimelinePeriods = computed(() => this.visible(this.timelinePeriods()));
   readonly visibleThemes = computed(() => this.visible(this.themes()));
-  readonly visiblePersonalities = computed(() => this.visible(this.personalities()));
+  readonly visiblePersonalities = computed(() => this.personalities());
   readonly visibleEmpires = computed(() => this.visible(this.empires()));
   readonly visibleRegionalKingdoms = computed(() => this.visible(this.regionalKingdoms()));
   readonly expandedThemes = signal(false);

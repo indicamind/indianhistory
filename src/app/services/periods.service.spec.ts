@@ -207,6 +207,12 @@ describe('PeriodsService', () => {
     expect(personalities.length).toBeGreaterThan(0);
   });
 
+  it('makes biography profiles discoverable before related articles are available', async () => {
+    expect(service.isVisiblePersonality('mahatma-gandhi')).toBeTruthy();
+    expect(service.isVisiblePersonality('unknown-person')).toBeFalsy();
+    expect((await service.searchAll('Gandhi')).some(result => result.slug === 'mahatma-gandhi')).toBeTruthy();
+  });
+
   it('should return unified search results across entities when searched', async () => {
     isDevMode.set(true);
     const results = await service.searchAll('Maurya');

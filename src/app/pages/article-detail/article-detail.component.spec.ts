@@ -78,6 +78,20 @@ describe('ArticleDetailComponent', () => {
     expect(component.backLink()).toBe('/');
   });
 
+  it('returns to the life-story chapter and clears it when the navigation context changes', async () => {
+    mockArticles.getArticle = async slug => article(slug, slug);
+    mockPeriodsService.getPersonalityBySlug = () => ({ slug: 'ashoka', name: 'Ashoka' });
+    queryParams.next(convertToParamMap({ fromPersonality: 'ashoka', fromPersonalityChapter: 'ashoka-kalinga' }));
+    component.ngOnInit();
+    await new Promise(resolve => setTimeout(resolve, 0));
+    expect(component.backLink()).toBe('/personality/ashoka');
+    expect(component.backFragment()).toBe('ashoka-kalinga');
+    queryParams.next(convertToParamMap({ fromSearch: 'true' }));
+    await new Promise(resolve => setTimeout(resolve, 0));
+    expect(component.backLink()).toBe('/search');
+    expect(component.backFragment()).toBeUndefined();
+  });
+
   it('counts loaded articles once per slug and ignores query-only changes', async () => {
     mockArticles.getArticle = async (slug: string) => article(slug, slug);
     component.ngOnInit();
@@ -167,13 +181,13 @@ describe('ArticleDetailComponent', () => {
     expect(component.article()?.title).toBe(edict.title);
     expect(component.html()).toBe(edict.html);
     expect(component.backLink()).toBe('/article/ashoka-edicts');
-    expect(component.edictNavigation()?.next?.slug).toBe(second.slug);
+    expect(component.seriesNavigation()?.next?.slug).toBe(second.slug);
 
     params.next(convertToParamMap({ slug: second.slug }));
     await new Promise(resolve => setTimeout(resolve, 0));
     expect(component.article()?.slug).toBe(second.slug);
-    expect(component.edictNavigation()?.previous?.slug).toBe(edict.slug);
-    expect(component.edictNavigation()?.next).toBeUndefined();
+    expect(component.seriesNavigation()?.previous?.slug).toBe(edict.slug);
+    expect(component.seriesNavigation()?.next).toBeUndefined();
   });
 
   it('uses the guide order for numerical edicts and transitions between groups', () => {
@@ -192,12 +206,12 @@ describe('ArticleDetailComponent', () => {
       first.slug, second.slug, tenth.slug, lastRock.slug, separate.slug, pillar.slug,
     ]);
     component.article.set(second);
-    expect(component.edictNavigation()?.next?.slug).toBe(tenth.slug);
-    expect(component.edictNavigation()?.previous?.slug).toBe(first.slug);
+    expect(component.seriesNavigation()?.next?.slug).toBe(tenth.slug);
+    expect(component.seriesNavigation()?.previous?.slug).toBe(first.slug);
     component.article.set(lastRock);
-    expect(component.edictNavigation()?.next?.slug).toBe(separate.slug);
+    expect(component.seriesNavigation()?.next?.slug).toBe(separate.slug);
     component.article.set(separate);
-    expect(component.edictNavigation()?.next?.slug).toBe(pillar.slug);
+    expect(component.seriesNavigation()?.next?.slug).toBe(pillar.slug);
   });
 
   it('omits nonexistent neighbors and follows the available associated inscriptions', () => {
@@ -209,22 +223,50 @@ describe('ArticleDetailComponent', () => {
     mockArticles.allArticles = () => [last, taxila, first, laghman];
 
     component.article.set(first);
-    expect(component.edictNavigation()?.previous).toBeUndefined();
-    expect(component.edictNavigation()?.next?.title).toBe(laghman.title);
+    expect(component.seriesNavigation()?.previous).toBeUndefined();
+    expect(component.seriesNavigation()?.next?.title).toBe(laghman.title);
     component.article.set(laghman);
-    expect(component.edictNavigation()?.next?.slug).toBe(taxila.slug);
+    expect(component.seriesNavigation()?.next?.slug).toBe(taxila.slug);
     component.article.set(last);
-    expect(component.edictNavigation()?.next).toBeUndefined();
-    expect(component.edictNavigation()?.previous?.slug).toBe(taxila.slug);
+    expect(component.seriesNavigation()?.next).toBeUndefined();
+    expect(component.seriesNavigation()?.previous?.slug).toBe(taxila.slug);
   });
 
-  it('does not show edict navigation on the guide or unrelated articles', () => {
+  it('orders any guide by its metadata and links the available campaign siblings', () => {
+    const guide = article('mahmud-ghazni-invasions', 'Campaign guide');
+    const first = { ...article('frontier', 'Frontier', guide.slug), timelineOrder: 1 };
+    const second = { ...article('peshawar', 'Peshawar', guide.slug), timelineOrder: 2 };
+    const last = { ...article('jats', 'Jats', guide.slug), timelineOrder: 17 };
+    const unrelated = { ...article('other', 'Other', 'another-guide'), timelineOrder: 3 };
+    mockArticles.allArticles = () => [last, unrelated, second, guide, first];
+
+    component.article.set(guide);
+    expect(component.relatedArticles().map(entry => entry.slug)).toEqual([first.slug, second.slug, last.slug]);
+    expect(component.seriesNavigation()).toBeNull();
+    component.article.set(second);
+    expect(component.seriesNavigation()?.previous?.slug).toBe(first.slug);
+    expect(component.seriesNavigation()?.next?.slug).toBe(last.slug);
+    component.article.set(last);
+    expect(component.seriesNavigation()?.next).toBeUndefined();
+    expect(component.seriesNavigation()?.previous?.slug).toBe(second.slug);
+  });
+
+  it('preserves the supplied order of associated articles without an explicit order', () => {
+    const guide = article('guide', 'Guide');
+    const first = article('first', 'First', guide.slug);
+    const second = article('second', 'Second', guide.slug);
+    mockArticles.allArticles = () => [first, guide, second];
+    component.article.set(guide);
+    expect(component.relatedArticles().map(entry => entry.slug)).toEqual([first.slug, second.slug]);
+  });
+
+  it('does not show series navigation on a guide or articles without available siblings', () => {
     mockArticles.allArticles = () => [article('ashoka-major-rock-edict-1', 'Edict I', 'ashoka-edicts')];
     component.article.set(article('ashoka-edicts', 'Guide'));
-    expect(component.edictNavigation()).toBeNull();
+    expect(component.seriesNavigation()).toBeNull();
     component.article.set(article('other-article', 'Other', 'other-guide'));
-    expect(component.edictNavigation()).toBeNull();
+    expect(component.seriesNavigation()).toBeNull();
     component.article.set(article('missing-edict', 'Missing', 'ashoka-edicts'));
-    expect(component.edictNavigation()).toBeNull();
+    expect(component.seriesNavigation()).toBeNull();
   });
 });

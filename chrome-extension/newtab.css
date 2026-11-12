@@ -1,0 +1,20 @@
+@import '../src/styles.css';
+
+/* External references retain their text and original URL without opening a network destination. */
+a.offline-external-link {
+  color: inherit;
+  cursor: default;
+  text-decoration: none;
+}
+
+.offline-external-link .read-more,
+.offline-external-link .article-open,
+.book-link.offline-external-link {
+  display: none !important;
+}
+
+.offline-source-url {
+  color: var(--muted);
+  font-size: 0.85em;
+  overflow-wrap: anywhere;
+}

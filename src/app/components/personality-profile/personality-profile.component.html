@@ -1,0 +1,95 @@
+<div class="personality-page">
+  <header class="profile-hero" [class.trail-hero]="!!profile()?.story">
+    <div class="hero-copy">
+      <p class="eyebrow"><span class="eyebrow-line" aria-hidden="true"></span>{{ locale.translate('Personality') }}</p>
+      <h1>{{ personality.name }}</h1>
+      <p class="lifespan">{{ personality.range }}</p>
+      <p class="hero-intro">{{ personality.shortDescription }}</p>
+      <nav class="profile-nav" [attr.aria-label]="locale.translate('Explore related topics')">
+        @for (section of [{id: 'life-timeline', label: 'Life timeline'}, {id: 'personality-articles', label: 'Articles'}]; track section.id) {
+          <a [routerLink]="['/personality', personality.slug]" [fragment]="section.id" [queryParams]="{lang: locale.language}" queryParamsHandling="merge">{{ locale.translate(section.label) }} <span aria-hidden="true">↗</span></a>
+        }
+      </nav>
+    </div>
+    @if (profile()?.image; as image) {
+      <figure class="hero-figure">
+        <div class="image-frame" [class.landscape-frame]="image.landscape"><picture><source [srcset]="webp(image.src)" type="image/webp" /><img [src]="image.src" [alt]="image.alt" fetchpriority="high" decoding="async" /></picture></div>
+        <figcaption><span class="image-kind">{{ image.kind }}</span><span>{{ image.credit }}</span></figcaption>
+      </figure>
+    } @else {
+      <div class="hero-art" aria-hidden="true"><span class="orbit orbit-one"></span><span class="orbit orbit-two"></span><span class="hero-initial">{{ personality.name.charAt(0) }}</span><span class="orbit-dot"></span></div>
+    }
+  </header>
+
+  @if (profile()?.story; as story) {
+    @if (story.draft) { <p class="story-draft-notice">{{ locale.translate('English draft · Awaiting approval') }}</p> }
+    <section id="life-timeline" class="life-trail" aria-labelledby="life-title">
+      <h2 id="life-title" class="life-timeline-title">{{ locale.translate('Life timeline') }}</h2>
+      <ol class="life-bubbles">
+        @for (chapter of story.chapters; track chapter.id) {
+          @let dateParts = (chapter.date || '').split(' · ');
+          <li class="life-bubble" [id]="chapter.id" [attr.aria-labelledby]="chapter.id + '-heading'">
+            @if (dateParts[0]) { <p class="bubble-date">{{ dateParts[0] }}</p> }
+            <span class="bubble-node" aria-hidden="true"></span>
+            <header class="bubble-heading">
+              @if (dateParts.length > 1) { <p class="chapter-date">{{ dateParts.slice(1).join(' · ') }}</p> }
+              <h3 [id]="chapter.id + '-heading'">{{ chapter.title }}</h3>
+            </header>
+            <article class="bubble-card" [attr.aria-labelledby]="chapter.id + '-heading'">
+              <div class="chapter-prose" [innerHTML]="chapter.html"></div>
+              @if (chapter.articles.length) {
+                <div class="chapter-further">
+                  @for (article of chapter.articles.slice(0, 2); track article.slug) { <a [routerLink]="['/article', article.slug]" [queryParams]="articleParams(!!story.draft, chapter.id)" queryParamsHandling="replace" target="_blank" rel="noopener">{{ article.title }} <span aria-hidden="true">↗</span></a> }
+                </div>
+              }
+            </article>
+          </li>
+        }
+      </ol>
+      <details id="life-sources" class="life-story-sources"><summary>{{ locale.translate('Sources') }}</summary><div class="chapter-prose" [innerHTML]="story.sourcesHtml"></div></details>
+    </section>
+  } @else {
+    <section id="life-timeline" class="profile-section life-section" aria-labelledby="life-title">
+      <div class="section-intro"><h2 id="life-title">{{ locale.translate('Life timeline') }}</h2><p class="section-note">{{ locale.translate('Selected milestones. Approximate dates are marked c.') }}</p></div>
+      <div>
+        <div class="biography-copy life-opening"><p>{{ personality.description }}</p>@for (paragraph of profile()?.paragraphs || []; track $index) { <p>{{ paragraph }}</p> }</div>
+        <ol class="life-events">
+          @for (event of profile()?.events || []; track $index) {
+            <li class="life-event"><p class="event-date">{{ eventDate(event) }}</p><span class="event-node" aria-hidden="true"></span><div class="event-content"><h3>{{ event.title }}</h3>@if (event.article; as slug) { <a [routerLink]="['/article', slug]" [queryParams]="articleParams()" queryParamsHandling="replace" target="_blank" rel="noopener">{{ event.articleTitle }} <span aria-hidden="true">↗</span></a> }</div></li>
+          }
+        </ol>
+      </div>
+    </section>
+  }
+
+  <section id="personality-articles" class="profile-reading" aria-labelledby="reading-title">
+    <div class="reading-heading"><div><h2 id="reading-title">{{ locale.translate('Articles') }}</h2></div><span class="article-count">{{ locale.format('{count} articles', {count: articles.length}) }}</span></div>
+    @if (articles.length) {
+      <div class="reading-grid">
+        @for (article of (showAll() ? articles : articles.slice(0, 6)); track article.slug) {
+          <article class="reading-card">
+            @if (article.thumbnail; as thumbnail) { <a class="reading-image" [routerLink]="articleRoute(article)" [queryParams]="articleParams(!!article.draft)" queryParamsHandling="replace" tabindex="-1" aria-hidden="true"><picture><source [srcset]="webp(thumbnail.src)" type="image/webp" /><img [src]="thumbnail.src" alt="" loading="lazy" decoding="async" /></picture></a> }
+            <div class="reading-copy"><h3><a [routerLink]="articleRoute(article)" [queryParams]="articleParams(!!article.draft)" queryParamsHandling="replace">{{ article.title }}</a></h3><p>{{ article.excerpt }}</p><app-article-section-links [article]="article" /><a class="read-more" [routerLink]="articleRoute(article)" [queryParams]="articleParams(!!article.draft)" queryParamsHandling="replace">{{ locale.translate('Read full article →') }}</a></div>
+          </article>
+        }
+      </div>
+      @if (articles.length > 6) { <button class="btn btn-secondary show-articles" type="button" [attr.aria-expanded]="showAll()" (click)="showAll.set(!showAll())">{{ locale.translate(showAll() ? 'Show fewer' : 'Show all') }} <span aria-hidden="true">{{ showAll() ? '−' : '+' }}</span></button> }
+    } @else {
+      <p class="reading-empty">{{ locale.format('No articles yet for this {kind}. More articles are being added.', {kind: locale.translate('Personality')}) }}</p>
+      <a routerLink="/search" [queryParams]="{lang: locale.language}" class="read-more">{{ locale.translate('Search all articles') }}</a>
+    }
+  </section>
+
+  @if (profile(); as details) {
+    @if (!details.story) {
+    <footer class="profile-sources" aria-labelledby="profile-sources-title">
+      <h2 id="profile-sources-title">{{ locale.translate('Sources') }}</h2>
+      <ul>
+        @if (details.article; as article) { <li><a [routerLink]="['/article', article.slug]" [queryParams]="articleParams()" queryParamsHandling="replace">{{ article.title }}</a></li> }
+        @for (source of details.sources; track source.url) { <li>@if (locale.offline) { <span>{{ source.author }}</span> } @else { <a [href]="source.url" target="_blank" rel="noopener noreferrer">{{ source.author }} ↗</a> }</li> }
+        @if (details.image; as image) { <li>{{ image.author }} · @if (!locale.offline && image.licenseUrl) { <a [href]="image.licenseUrl" target="_blank" rel="noopener noreferrer">{{ image.license }}</a> } @else { <span>{{ image.license }}</span> } · @if (locale.offline) { <span>{{ locale.translate('Image credits') }}</span> } @else { <a [href]="image.sourceUrl" target="_blank" rel="noopener noreferrer">{{ locale.translate('Image credits') }} ↗</a> }</li> }
+      </ul>
+    </footer>
+    }
+  }
+</div>

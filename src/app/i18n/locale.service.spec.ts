@@ -90,6 +90,24 @@ describe('LocaleService', () => {
     expect(mockDoc.location.href).toBe('https://example.com/history/blogs/ashoka-in-stone?dev=true&fromPeriod=mauryan#sources');
   });
 
+  it('reloads an offline article in the chosen language without losing its route or citation fragment', () => {
+    mockDoc.baseURI = 'chrome-extension://reader/newtab.html';
+    mockDoc.location.href = 'chrome-extension://reader/newtab.html?lang=hi#/hi/article/ashoka-edicts?fromPeriod=mauryan#sources';
+    const saved: Record<string, string> = {};
+    mockDoc.defaultView = { localStorage: { setItem: (key: string, value: string) => { saved[key] = value; } } };
+    const injector = Injector.create({ providers: [
+      { provide: DOCUMENT, useValue: mockDoc },
+      { provide: HttpClient, useValue: { get: () => of({}) } },
+    ] });
+    const offline = runInInjectionContext(injector, () => new LocaleService());
+    expect(offline.language).toBe('hi');
+    expect(offline.basePath).toBe('/');
+    expect(offline.generatedAssetsBase).toBe('/assets/generated/');
+    offline.changeLanguage('ar');
+    expect(mockDoc.location.href).toBe('chrome-extension://reader/newtab.html?lang=ar#/ar/article/ashoka-edicts?fromPeriod=mauryan#sources');
+    expect(saved['ih_extension_language']).toBe('ar');
+  });
+
   it('loads Sanskrit locale data for the complete edition', async () => {
     mockDoc.location.href = 'http://localhost:4201/?lang=sa';
     mockDoc.title = 'India History';

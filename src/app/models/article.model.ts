@@ -15,7 +15,7 @@ export interface ArticleSummary {
   personalities: string[]; // slugs of historical people (e.g. 'ashoka')
   books: string[]; // ISBN-10 values for related recommended books
   eventDate?: string; // Display date for a world history timeline story
-  timelineOrder?: number; // Explicit order for the world history timeline
+  timelineOrder?: number; // Explicit order for timelines and article series
   relatedTo?: string; // Parent article slug for related stories
   previewOnly?: boolean; // English preview while localized editions are in progress
   draft?: boolean; // Unapproved English draft, visible only in English dev mode

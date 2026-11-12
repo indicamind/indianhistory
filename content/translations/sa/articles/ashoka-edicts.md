@@ -16,11 +16,22 @@ tags:
   - अभिलेखनानि
 themes: []
 books: ['0349122385', '935699322X', '0143330802', 'B0BPDX1MXS']
-sourceHash: 495ce4b08b5582d84faa3fad8135db60c89cbd1db8a1d210512713d79ad89a9d
+sourceHash: c285e707b6cfea2dc0b66172564cad74e2fe40ceb50bcf492ea50881713203e1
 ---
 अशोकस्य अभिलेखाः अनेकस्थलेषु प्रतिलिपिरूपेण अवशिष्टाः। अधोलिखिता लेखसूची प्रत्येकस्य **विशिष्टलेखपाठस्य** एकं पृष्ठं ददाति, प्रत्येकशिलायाः पृथक्पृष्ठस्य स्थाने। सङ्ख्याङ्कितप्राकृतलेखानां पृष्ठेषु मूललिपिप्रतिकृतिः, नामनिर्दिष्टस्थानपाठरूपस्य रोमनलिप्यन्तरणम्, हुल्त्शस्य 1925 तमवर्षस्य संस्करणाधारेण अनूदितः सम्पूर्णावशिष्टपाठः सङ्क्षिप्तव्याख्या च दृश्यन्ते। स्थानीयभाषापृष्ठेषु अनुवादः पृष्ठभाषायाम् एव भवति। क्षतपाठाः संस्करणानुसारं चिह्निताः। यवनारामायिकपृष्ठानि तत्र उद्धृतानि पृथक् विद्वत्संस्करणानि उपयुञ्जते।
 
 चतुर्दश प्रमुखशिलालेखाः सप्त प्रमुखस्तम्भलेखाश्च आधुनिकविद्यायां सङ्ख्याङ्किताः। पृथक्कलिङ्गलेखाः, लघुशिलास्तम्भसन्देशाः बराबरगुहासमर्पणलेखाश्च स्वप्रचलितनामानि उपयुञ्जते। पृष्ठस्य चित्रं तस्यामेव शिलायां फलके वा समीपवर्तिपाठान् अपि दर्शयितुं शक्नोति।
+
+<figure class="article-figure inscription-plate">
+  <picture>
+    <source srcset="assets/media/images/ashoka-plate-1405674260.webp" type="image/webp" />
+    <img src="/assets/media/images/ashoka-plate-1405674260.jpg" alt="युजेन् हुल्त्शस्य 1925 तमवर्षस्य संस्करणे मुद्रिता दिल्ली-टोप्रास्तम्भस्य सप्तमप्रमुखस्तम्भलेखस्य ब्राह्मीलिपेः प्रतिकृतिः।" loading="lazy" decoding="async" />
+  </picture>
+  <figcaption>
+    <strong>प्रहेलिकायाः पृष्ठतः स्थितः सन्देशः।</strong> दिल्ली-टोप्रास्तम्भस्य सप्तमप्रमुखस्तम्भलेखस्य काचित् प्रतिकृतिः। अस्याः प्राचीना ब्राह्मी अक्षराणि नवदशशताब्द्यामभिलेखशास्त्रीयाध्ययनेन पठनीयान्यभवन्।
+    <span class="figure-credit">प्रतिकृतिः: E. Hultzsch, संपादकः, Inscriptions of Asoka, 1925 · सार्वजनिकक्षेत्रे। ओस्लोविश्वविद्यालयस्य Bibliotheca Polyglotta माध्यमेन प्राप्ता; अस्य जालस्थानस्य कृते आकारपरिवर्तिता JPEG-रूपेण च परिवर्तिता, WebP-प्रतिकृत्या सह।</span>
+  </figcaption>
+</figure>
 
 ## अभिलेखानां पठनम्
 
@@ -35,3 +46,7 @@ sourceHash: 495ce4b08b5582d84faa3fad8135db60c89cbd1db8a1d210512713d79ad89a9d
 - ई. हुल्त्शः, [*Inscriptions of Asoka* (1925)](https://archive.org/details/InscriptionsOfAsoka.NewEditionByE.Hultzsch), *Corpus Inscriptionum Indicarum*, प्रथमः खण्डः।
 - ओस्लोविश्वविद्यालयः, [Bibliotheca Polyglotta Ashoka Library](https://www2.hf.uio.no/polyglotta/index.php?bid=14&page=library), हुल्त्शस्य पाठानुवादाभ्यां सम्पादितम्।
 - हैरी फाल्कः, [*Aśokan Sites and Artefacts* (2006)](https://dokumen.pub/aokan-sites-and-artefacts-1nbsped-3805337124.html), पृ. 241–253 (यवनारामायिकाभिलेखाः, विवादितकर्तृत्वसहिताः)।
+
+### चित्रश्रेयः
+
+- **सप्तमस्तम्भलेखस्य प्रतिकृतिः:** E. Hultzsch, संपादकः, *Inscriptions of Asoka* (1925), सार्वजनिकक्षेत्रे; संपादकस्य 1927 तमे वर्षे निधनम्। [मूलं डिजिटलचित्रम्, Bibliotheca Polyglotta, University of Oslo](https://www2.hf.uio.no/polyglotta/public/media/img_to_txt/1405674260.png); [मूलप्रकाशनम्](https://archive.org/details/InscriptionsOfAsoka.NewEditionByE.Hultzsch)। स्थानीयजालस्थानस्य प्रतिकृतिर्गुरुत्वेन 2200 पिक्सेलपरिमितं यावदाकारपरिवर्तिता JPEG-रूपेण च रूपान्तरिता, अनुकूलितया WebP-प्रतिकृत्या सह।

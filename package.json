@@ -10,7 +10,7 @@
     "prestart": "npm run build-content",
     "start": "ng serve",
     "build": "npm run fetch-view-counts && npm run fetch-article-reactions && npm run optimize-images && npm run build-content && ng build",
-    "postbuild": "node scripts/generate-share-pages.js",
+    "postbuild": "node scripts/generate-share-pages.js && npm --prefix chrome-extension run build -- --content-ready",
     "watch": "ng build --watch --configuration development",
     "test": "node scripts/run-tests.js",
     "fetch-article-reactions": "node scripts/fetch-article-reactions.js"

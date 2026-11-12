@@ -10,12 +10,23 @@ personalities: [ashoka]
 tags: ["अशोक","शिलालेख","अभिलेख"]
 themes: []
 books: ['0349122385', '935699322X', '0143330802', 'B0BPDX1MXS']
-sourceHash: 495ce4b08b5582d84faa3fad8135db60c89cbd1db8a1d210512713d79ad89a9d
+sourceHash: c285e707b6cfea2dc0b66172564cad74e2fe40ceb50bcf492ea50881713203e1
 ---
 
 अशोकका अभिलेखहरू विभिन्न स्थानहरूमा धेरै प्रतिहरूमा संरक्षित छन्। तलको सूचीमा प्रत्येक **छुट्टै शिलालेख पाठ**का लागि एउटा लेख छ, प्रत्येक ढुङ्गाका लागि छुट्टै लेख होइन। क्रमिक सङ्ख्या भएका प्राकृत लेखहरूमा मूल लिपिको प्रतिकृति, कुनै निश्चित स्थानको पाठको रोमन लिप्यन्तरण, हुल्त्शको १९२५ को संस्करण अनुसार पूर्ण संरक्षित पाठको अनुवाद र सङ्क्षिप्त व्याख्या दिइएको छ। स्थानीय भाषाका लेखहरूमा अनुवाद त्यही भाषामा तयार गरिएको छ। क्षतिग्रस्त अंशहरू ऐतिहासिक संस्करण अनुसार चिह्नित छन्। ग्रीक र अरामाईक पृष्ठहरूले त्यसमा उद्धृत गरिएका छुट्टाछुट्टै अनुसन्धानमूलक संस्करणहरूलाई पछ्याउँछन्।
 
 चौध प्रमुख शिलालेख र सात प्रमुख स्तम्भादेश आधुनिक अनुसन्धानमा सङ्ख्याबद्ध गरिएका छन्। छुट्टै कलिङ्ग शिलालेख (धौली र जौगडा), लघु शिला र स्तम्भ आदेशहरू तथा बराबर गुफाका दानलेखहरू प्रचलित नामहरूमा दिइएका छन्। कुनै पृष्ठको तस्बिरमा त्यही ढुङ्गा वा सतहमा रहेका नजिकका पाठहरू पनि देखिन सक्छन्।
+
+<figure class="article-figure inscription-plate">
+  <picture>
+    <source srcset="assets/media/images/ashoka-plate-1405674260.webp" type="image/webp" />
+    <img src="/assets/media/images/ashoka-plate-1405674260.jpg" alt="युजेन हुल्त्शको १९२५ को संस्करणमा दिल्ली–टोपरा स्तम्भको सातौँ प्रमुख स्तम्भादेशको ब्राह्मी लिपिको प्रतिकृति।" loading="lazy" decoding="async" />
+  </picture>
+  <figcaption>
+    <strong>रहस्यपछाडिको सन्देश।</strong> दिल्ली–टोपरा स्तम्भको सातौँ प्रमुख स्तम्भादेशको एक प्रतिकृति। उन्नाइसौँ शताब्दीमा अभिलेखशास्त्रीय अध्ययनमार्फत यसका प्राचीन ब्राह्मी अक्षरहरू पढ्न सकिने भएका थिए।
+    <span class="figure-credit">प्रतिकृति: E. Hultzsch, सम्पादक, Inscriptions of Asoka, 1925 · सार्वजनिक क्षेत्र। ओस्लो विश्वविद्यालयको Bibliotheca Polyglotta मार्फत प्राप्त; यस साइटका लागि आकार परिवर्तन र JPEG मा रूपान्तरण गरिएको, WebP प्रतिलिपि सहित।</span>
+  </figcaption>
+</figure>
 
 ## अभिलेखहरू कसरी पढ्ने
 
@@ -30,3 +41,7 @@ sourceHash: 495ce4b08b5582d84faa3fad8135db60c89cbd1db8a1d210512713d79ad89a9d
 - ई. हुल्त्श, [*Inscriptions of Asoka* (1925)](https://archive.org/details/InscriptionsOfAsoka.NewEditionByE.Hultzsch), *Corpus Inscriptionum Indicarum*, खण्ड १।
 - ओस्लो विश्वविद्यालय, [Bibliotheca Polyglotta Ashoka Library](https://www2.hf.uio.no/polyglotta/index.php?bid=14&page=library), हुल्त्शको पाठ र अनुवादमा आधारित।
 - ह्यारी फाल्क, [*Aśokan Sites and Artefacts* (2006)](https://dokumen.pub/aokan-sites-and-artefacts-1nbsped-3805337124.html), पृष्ठ २४१–२५३ (ग्रीक र अरामाईक अभिलेखहरू तथा सम्बद्धताका प्रश्नहरू)।
+
+### तस्बिर श्रेय
+
+- **सातौँ स्तम्भादेशको प्रतिकृति:** E. Hultzsch, सम्पादक, *Inscriptions of Asoka* (1925), सार्वजनिक क्षेत्र; सम्पादकको सन् १९२७ मा निधन भयो। [मूल डिजिटल तस्बिर, Bibliotheca Polyglotta, University of Oslo](https://www2.hf.uio.no/polyglotta/public/media/img_to_txt/1405674260.png); [स्रोत प्रकाशन](https://archive.org/details/InscriptionsOfAsoka.NewEditionByE.Hultzsch)। स्थानीय साइटको प्रतिलिपिलाई बढीमा २२०० पिक्सेलमा सीमित गरी पुनराकार दिइएको र जेपिइजीमा रूपान्तरण गरिएको छ, साथमा अप्टिमाइज्ड वेबपी प्रति पनि छ।

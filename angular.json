@@ -61,6 +61,22 @@
               ],
               "outputHashing": "all"
             },
+            "extension": {
+              "outputPath": { "base": "chrome-extension/dist/india-history-new-tab", "browser": "" },
+              "index": { "input": "chrome-extension/newtab.html", "output": "newtab.html" },
+              "browser": "chrome-extension/main.ts",
+              "tsConfig": "chrome-extension/tsconfig.app.json",
+              "styles": ["chrome-extension/newtab.css"],
+              "optimization": {
+                "scripts": true,
+                "styles": { "minify": true, "inlineCritical": false },
+                "fonts": false
+              },
+              "fileReplacements": [
+                { "replace": "src/app/services/page-view-client.ts", "with": "chrome-extension/offline-clients.ts" },
+                { "replace": "src/app/services/article-reaction-client.ts", "with": "chrome-extension/offline-clients.ts" }
+              ]
+            },
             "development": {
               "optimization": false,
               "extractLicenses": false,

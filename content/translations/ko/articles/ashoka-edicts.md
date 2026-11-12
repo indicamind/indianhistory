@@ -10,12 +10,23 @@ personalities: [ashoka]
 tags: ["아쇼카", "칙령", "마우리아 제국"]
 themes: []
 books: ['0349122385', '935699322X', '0143330802', 'B0BPDX1MXS']
-sourceHash: 495ce4b08b5582d84faa3fad8135db60c89cbd1db8a1d210512713d79ad89a9d
+sourceHash: c285e707b6cfea2dc0b66172564cad74e2fe40ceb50bcf492ea50881713203e1
 ---
 
 아쇼카의 비문은 여러 유적지에 사본 형태로 전해지고 있습니다. 아래의 글 목록은 각각의 비석마다가 아니라, 각각의 **독립된 칙령 텍스트**마다 하나의 페이지를 제공합니다. 번호가 매겨진 프라크리트어 문서들은 원문 문자 모사본, 특정 유적지 판본의 로마자 전사, 훌치의 1925년 판본을 바탕으로 한 현존 전문 번역, 그리고 간략한 해설을 담고 있습니다. 현지화된 문서에서는 해당 페이지의 언어로 번역이 제공됩니다. 훼손된 구절은 원 판본에 표기된 그대로 표시되었습니다. 그리스어 및 아람어 문서는 해당 페이지에 인용된 별도의 학술 판본을 따릅니다.
 
 14개 대마애 칙령과 7개 대석주 칙령은 현대 학계의 통상적인 번호 체계를 따릅니다. 별도의 칼링가 칙령, 단편 마애 및 석주 칙령, 바라바르 석굴 헌정 비문은 통용되는 고유 명칭을 사용합니다. 페이지의 이미지는 동일한 비석이나 도판에 새겨진 인접한 비문들을 함께 보여줄 수 있습니다.
+
+<figure class="article-figure inscription-plate">
+  <picture>
+    <source srcset="assets/media/images/ashoka-plate-1405674260.webp" type="image/webp" />
+    <img src="/assets/media/images/ashoka-plate-1405674260.jpg" alt="오이겐 훌치의 1925년 판본에 수록된 델리-토프라 석주 아쇼카 제7 대석주 칙령의 브라흐미 문자 모사본." loading="lazy" decoding="async" />
+  </picture>
+  <figcaption>
+    <strong>미스터리 뒤에 숨은 메시지.</strong> 델리-토프라 석주의 제7 대석주 칙령 모사본. 고대 브라흐미 문자는 19세기 금석학 연구를 통해 해독되었다.
+    <span class="figure-credit">모사본: E. 훌치 편집, Inscriptions of Asoka, 1925 · 퍼블릭 도메인. 오슬로 대학교 Bibliotheca Polyglotta를 통해 복제됨. 이 사이트를 위해 크기 조정 및 JPEG 변환, WebP 사본 포함.</span>
+  </figcaption>
+</figure>
 
 ## 비문 읽기
 
@@ -30,3 +41,7 @@ sourceHash: 495ce4b08b5582d84faa3fad8135db60c89cbd1db8a1d210512713d79ad89a9d
 - E. Hultzsch, [*Inscriptions of Asoka* (1925)](https://archive.org/details/InscriptionsOfAsoka.NewEditionByE.Hultzsch), *Corpus Inscriptionum Indicarum*, volume I.
 - University of Oslo, [Bibliotheca Polyglotta Ashoka Library](https://www2.hf.uio.no/polyglotta/index.php?bid=14&page=library), edited from Hultzsch’s texts and translations.
 - Harry Falk, [*Aśokan Sites and Artefacts* (2006)](https://dokumen.pub/aokan-sites-and-artefacts-1nbsped-3805337124.html), pp. 241–253 (Greek and Aramaic inscriptions, including disputed attributions).
+
+### 이미지 출처
+
+- **제7 대석주 칙령 모사본:** E. Hultzsch 편집, *Inscriptions of Asoka* (1925년), 퍼블릭 도메인; 편집자는 1927년 사망. [오슬로 대학교 Bibliotheca Polyglotta 원본 디지털 이미지](https://www2.hf.uio.no/polyglotta/public/media/img_to_txt/1405674260.png); [출처 간행물](https://archive.org/details/InscriptionsOfAsoka.NewEditionByE.Hultzsch). 로컬 사이트 사본은 최대 2200픽셀로 크기 조정 후 JPEG로 변환되었으며, 최적화된 WebP 사본이 함께 제공됨.

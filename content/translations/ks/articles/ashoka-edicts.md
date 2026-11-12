@@ -20,12 +20,23 @@ books:
   - 935699322X
   - 0143330802
   - B0BPDX1MXS
-sourceHash: 495ce4b08b5582d84faa3fad8135db60c89cbd1db8a1d210512713d79ad89a9d
+sourceHash: c285e707b6cfea2dc0b66172564cad74e2fe40ceb50bcf492ea50881713203e1
 ---
 
 اشوک کے کتبے مختلف مقامات کی نقلوں میں محفوظ ہیں۔ نیچے ہر پتھر کے بجائے ہر **الگ فرمانی متن** کے لیے ایک مضمون دیا گیا ہے۔ نمبر والے پراکرت مضامین میں اصل رسم الخط کا عکس، نامزد مقام کے نسخے کی رومن نقل، ہلٹش کی 1925 کی اشاعت کی مدد سے محفوظ مکمل متن کا ترجمہ اور مختصر وضاحت ہے۔ دوسری زبانوں کے مضامین میں ترجمہ اسی صفحے کی زبان میں ہے۔ خراب حصے اشاعت کے مطابق نشان زد ہیں۔ یونانی اور آرامی صفحات اپنے الگ درج شدہ علمی نسخوں کی پیروی کرتے ہیں۔
 
 جدید تحقیق میں چودہ بڑے سنگی اور سات بڑے ستونی فرمانوں کو نمبر دیے جاتے ہیں۔ کلنگ کے جدا فرمان، چھوٹے سنگی و ستونی پیغام اور برابر غاروں کی وقف تحریریں روایتی ناموں سے پہچانی جاتی ہیں۔ کسی صفحے کی تصویر میں اسی پتھر یا تختی کے پاس والے متون بھی دکھائی دے سکتے ہیں۔
+
+<figure class="article-figure inscription-plate">
+  <picture>
+    <source srcset="assets/media/images/ashoka-plate-1405674260.webp" type="image/webp" />
+    <img src="/assets/media/images/ashoka-plate-1405674260.jpg" alt="یوگن ہلٹش کی 1925 کی اشاعت میں شائع شدہ دہلی–ٹوپرا ستون کے ساتویں بڑے ستونی فرمان کی براہمی تحریر کا عکس۔" loading="lazy" decoding="async" />
+  </picture>
+  <figcaption>
+    <strong>معمے کے پیچھے چھپا پیغام۔</strong> دہلی–ٹوپرا ستون کے ساتویں بڑے ستونی فرمان کا عکس۔ اس کے قدیم براہمی حروف انیسویں صدی میں کتباتی مطالعے کے ذریعے پڑھے جانے کے قابل بنے۔
+    <span class="figure-credit">عکس: E. Hultzsch، مدیر، Inscriptions of Asoka، 1925 · پبلک ڈومین۔ یونیورسٹی آف اوسلو کی Bibliotheca Polyglotta کے ذریعے حاصل کیا گیا؛ اس ویب سائٹ کے لیے سائز تبدیل اور JPEG میں تبدیل کیا گیا، ساتھ ایک WebP نقل بھی ہے۔</span>
+  </figcaption>
+</figure>
 
 ## کتبوں کو پڑھنا
 
@@ -40,3 +51,7 @@ sourceHash: 495ce4b08b5582d84faa3fad8135db60c89cbd1db8a1d210512713d79ad89a9d
 - E. Hultzsch, [*Inscriptions of Asoka* (1925)](https://archive.org/details/InscriptionsOfAsoka.NewEditionByE.Hultzsch), *Corpus Inscriptionum Indicarum*, جلد اول۔
 - اوسلو یونیورسٹی، [Bibliotheca Polyglotta Ashoka Library](https://www2.hf.uio.no/polyglotta/index.php?bid=14&page=library)، ہلٹش کے متون اور تراجم کی بنیاد پر تدوین۔
 - Harry Falk, [*Aśokan Sites and Artefacts* (2006)](https://dokumen.pub/aokan-sites-and-artefacts-1nbsped-3805337124.html), صفحات 241–253 (یونانی و آرامی کتبے، بشمول متنازع انتساب)۔
+
+### تصویرن ہُنٛد اعتراف
+
+- **ساتویں ستونی فرمان کا عکس:** E. Hultzsch، مدیر، *Inscriptions of Asoka* (1925)، پبلک ڈومین؛ مدیر کا انتقال 1927 میں ہوا۔ [اصل ڈیجیٹل تصویر، Bibliotheca Polyglotta، University of Oslo](https://www2.hf.uio.no/polyglotta/public/media/img_to_txt/1405674260.png)؛ [ماخذ اشاعت](https://archive.org/details/InscriptionsOfAsoka.NewEditionByE.Hultzsch)۔ مقامی سائٹ کی کاپی کو زیادہ سے زیادہ 2200 پکسلز پر تبدیل کیا گیا اور JPEG میں تبدیل کیا گیا، ساتھ ایک ویب پی کاپی بھی ہے۔

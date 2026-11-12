@@ -189,6 +189,8 @@
 
 .page-layout > router-outlet { display: none; }
 .page-layout > app-book-sidebar { grid-area: sidebar; min-width: 0; }
+.page-layout.personality-layout,
+:host-context([dir='rtl']) .page-layout.personality-layout { grid-template-columns: minmax(0, 1fr); grid-template-areas: "page"; }
 app-must-read { display: block; }
 
 .site-footer {
@@ -270,6 +272,7 @@ app-must-read { display: block; }
   }
   .page-layout > app-book-sidebar { grid-row: 1; }
   .page-layout > :not(router-outlet):not(app-book-sidebar) { grid-row: 2; min-width: 0; }
+  .page-layout.personality-layout > :not(router-outlet) { grid-row: 1; }
 }
 
 @media (max-width: 520px) {

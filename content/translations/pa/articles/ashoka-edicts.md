@@ -10,12 +10,23 @@ personalities: [ashoka]
 tags: ["ਅਸ਼ੋਕ","ਫ਼ਰਮਾਨ","ਅਭਿਲੇਖ"]
 themes: []
 books: ['0349122385', '935699322X', '0143330802', 'B0BPDX1MXS']
-sourceHash: 495ce4b08b5582d84faa3fad8135db60c89cbd1db8a1d210512713d79ad89a9d
+sourceHash: c285e707b6cfea2dc0b66172564cad74e2fe40ceb50bcf492ea50881713203e1
 ---
 
 ਅਸ਼ੋਕ ਦੇ ਅਭਿਲੇਖ ਕਈ ਥਾਵਾਂ ਦੀਆਂ ਨਕਲਾਂ ਵਿੱਚ ਬਚੇ ਹਨ। ਹੇਠਲੀ ਸੂਚੀ ਵਿੱਚ ਹਰ ਪੱਥਰ ਲਈ ਨਹੀਂ, ਹਰ **ਵੱਖਰੇ ਫ਼ਰਮਾਨੀ ਪਾਠ** ਲਈ ਇੱਕ ਲੇਖ ਹੈ। ਨੰਬਰ ਵਾਲੇ ਪ੍ਰਾਕ੍ਰਿਤ ਲੇਖ ਮੂਲ ਲਿਪੀ ਦੀ ਨਕਲ, ਨਾਂ ਦਿੱਤੀ ਥਾਂ ਦੇ ਪਾਠ ਦਾ ਰੋਮਨ ਲਿਪਿਆਂਤਰਨ, ਹੁਲਟਸ਼ ਦੇ 1925 ਦੇ ਸੰਸਕਰਣ ਦੇ ਆਧਾਰ ਉੱਤੇ ਬਚੇ ਪੂਰੇ ਪਾਠ ਦਾ ਅਨੁਵਾਦ ਅਤੇ ਛੋਟੀ ਵਿਆਖਿਆ ਦਿੰਦੇ ਹਨ। ਸਥਾਨਕ ਭਾਸ਼ਾਵਾਂ ਦੇ ਲੇਖਾਂ ਵਿੱਚ ਅਨੁਵਾਦ ਉਸ ਪੰਨੇ ਦੀ ਭਾਸ਼ਾ ਵਿੱਚ ਹੈ। ਨੁਕਸਾਨੇ ਹਿੱਸੇ ਸੰਸਕਰਣ ਅਨੁਸਾਰ ਨਿਸ਼ਾਨਬੱਧ ਹਨ। ਯੂਨਾਨੀ ਅਤੇ ਅਰਾਮੀ ਪੰਨੇ ਉੱਥੇ ਦਿੱਤੇ ਵੱਖਰੇ ਵਿਦਵਤ ਸੰਸਕਰਣਾਂ ਦੀ ਪਾਲਣਾ ਕਰਦੇ ਹਨ।
 
 ਚੌਦਾਂ ਮੁੱਖ ਪੱਥਰ ਫ਼ਰਮਾਨਾਂ ਅਤੇ ਸੱਤ ਮੁੱਖ ਸਤੰਭ ਫ਼ਰਮਾਨਾਂ ਨੂੰ ਆਧੁਨਿਕ ਖੋਜ ਵਿੱਚ ਨੰਬਰ ਦਿੱਤੇ ਗਏ ਹਨ। ਕਲਿੰਗ ਦੇ ਵੱਖਰੇ ਫ਼ਰਮਾਨ, ਛੋਟੇ ਪੱਥਰ ਤੇ ਸਤੰਭ ਸੁਨੇਹੇ ਅਤੇ ਬਰਾਬਰ ਗੁਫ਼ਾਵਾਂ ਦੇ ਸਮਰਪਣ ਆਪਣੇ ਰਵਾਇਤੀ ਨਾਂ ਵਰਤਦੇ ਹਨ। ਕਿਸੇ ਪੰਨੇ ਦਾ ਚਿੱਤਰ ਉਸੇ ਪੱਥਰ ਜਾਂ ਫਲਕ ਉੱਤੇ ਨਾਲ ਦੇ ਪਾਠ ਵੀ ਵਿਖਾ ਸਕਦਾ ਹੈ।
+
+<figure class="article-figure inscription-plate">
+  <picture>
+    <source srcset="assets/media/images/ashoka-plate-1405674260.webp" type="image/webp" />
+    <img src="/assets/media/images/ashoka-plate-1405674260.jpg" alt="ਦਿੱਲੀ–ਟੋਪਰਾ ਸਤੰਭ ਉੱਤੇ ਅਸ਼ੋਕ ਦੇ ਸੱਤਵੇਂ ਮੁੱਖ ਸਤੰਭ ਫ਼ਰਮਾਨ ਤੋਂ ਬ੍ਰਾਹਮੀ ਲਿਖਤ ਦੀ ਨਕਲ, ਯੂਜੇਨ ਹੁਲਤਸ਼ ਦੇ 1925 ਦੇ ਸੰਸਕਰਣ ਵਿੱਚ ਮੁੜ ਛਾਪੀ ਗਈ।" loading="lazy" decoding="async" />
+  </picture>
+  <figcaption>
+    <strong>ਰਹੱਸ ਦੇ ਪਿੱਛੇ ਦਾ ਸੰਦੇਸ਼।</strong> ਦਿੱਲੀ–ਟੋਪਰਾ ਸਤੰਭ ਦੇ ਸੱਤਵੇਂ ਮੁੱਖ ਸਤੰਭ ਫ਼ਰਮਾਨ ਦੀ ਇੱਕ ਨਕਲ। ਉਨ੍ਹੀਵੀਂ ਸਦੀ ਵਿੱਚ ਪੁਰਾਲੇਖੀ ਅਧਿਐਨ ਰਾਹੀਂ ਇਸ ਦੇ ਪ੍ਰਾਚੀਨ ਬ੍ਰਾਹਮੀ ਅੱਖਰ ਪੜ੍ਹਨਯੋਗ ਬਣੇ।
+    <span class="figure-credit">ਨਕਲ: ਈ. ਹੁਲਤਸ਼, ਸੰਪਾਦਕ, Inscriptions of Asoka, 1925 · ਜਨਤਕ ਦਾਇਰਾ। ਓਸਲੋ ਯੂਨੀਵਰਸਿਟੀ ਦੀ ਬਿਬਲੀਓਥੇਕਾ ਪੋਲੀਗਲੋਟਾ ਰਾਹੀਂ ਮੁੜ ਪੇਸ਼; ਇਸ ਸਾਈਟ ਲਈ ਆਕਾਰ ਬਦਲ ਕੇ JPEG ਵਿੱਚ ਤਬਦੀਲ ਕੀਤਾ ਗਿਆ, ਨਾਲ ਹੀ ਇੱਕ ਅਨੁਕੂਲਿਤ WebP ਕਾਪੀ ਹੈ।</span>
+  </figcaption>
+</figure>
 
 ## ਅਭਿਲੇਖਾਂ ਨੂੰ ਪੜ੍ਹਨਾ
 
@@ -30,3 +41,7 @@ sourceHash: 495ce4b08b5582d84faa3fad8135db60c89cbd1db8a1d210512713d79ad89a9d
 - E. Hultzsch, [*Inscriptions of Asoka* (1925)](https://archive.org/details/InscriptionsOfAsoka.NewEditionByE.Hultzsch), *Corpus Inscriptionum Indicarum*, ਜਿਲਦ 1।
 - ਓਸਲੋ ਯੂਨੀਵਰਸਿਟੀ, [Bibliotheca Polyglotta Ashoka Library](https://www2.hf.uio.no/polyglotta/index.php?bid=14&page=library), ਹੁਲਟਸ਼ ਦੇ ਪਾਠਾਂ ਅਤੇ ਅਨੁਵਾਦਾਂ ਤੋਂ ਸੰਪਾਦਿਤ।
 - Harry Falk, [*Aśokan Sites and Artefacts* (2006)](https://dokumen.pub/aokan-sites-and-artefacts-1nbsped-3805337124.html), ਸਫ਼ੇ 241–253 (ਯੂਨਾਨੀ ਅਤੇ ਅਰਾਮੀ ਅਭਿਲੇਖ, ਵਿਵਾਦਿਤ ਲੇਖਕਤਾ ਸਮੇਤ)।
+
+### ਤਸਵੀਰਾਂ ਦਾ ਸਿਹਰਾ
+
+- **ਸੱਤਵੇਂ ਸਤੰਭ ਫ਼ਰਮਾਨ ਦੀ ਨਕਲ:** E. Hultzsch, ਸੰਪਾਦਕ, *Inscriptions of Asoka* (1925), ਜਨਤਕ ਦਾਇਰਾ; ਸੰਪਾਦਕ ਦੀ ਮੌਤ 1927 ਵਿੱਚ ਹੋਈ। [ਮੂਲ ਡਿਜੀਟਲ ਤਸਵੀਰ, ਬਿਬਲੀਓਥੇਕਾ ਪੋਲੀਗਲੋਟਾ, ਓਸਲੋ ਯੂਨੀਵਰਸਿਟੀ](https://www2.hf.uio.no/polyglotta/public/media/img_to_txt/1405674260.png); [ਸਰੋਤ ਪ੍ਰਕਾਸ਼ਨ](https://archive.org/details/InscriptionsOfAsoka.NewEditionByE.Hultzsch)। ਸਥਾਨਕ ਸਾਈਟ ਕਾਪੀ ਦਾ ਆਕਾਰ ਵੱਧ ਤੋਂ ਵੱਧ 2200 ਪਿਕਸਲ ਤੱਕ ਬਦਲ ਕੇ JPEG ਵਿੱਚ ਤਬਦੀਲ ਕੀਤਾ ਗਿਆ, ਨਾਲ ਹੀ ਇੱਕ ਅਨੁਕੂਲਿਤ WebP ਕਾਪੀ ਹੈ।

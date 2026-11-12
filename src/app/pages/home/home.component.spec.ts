@@ -133,7 +133,7 @@ describe('HomeComponent', () => {
     expect(component.shownPersonalities().length).toBe(3);
   });
 
-  it('searches localized copy and English names while respecting public visibility', () => {
+  it('searches localized copy and English names including profiles without related articles', () => {
     const pratap = personalities.find(person => person.slug === 'maharana-pratap')!;
     component.personalities.set([{ ...pratap, name: 'महाराणा प्रताप', shortDescription: 'मेवाड़ का प्रतिरोध', description: '', articleCount: 1 }]);
     component.personalityQuery.set('प्रताप');
@@ -141,7 +141,7 @@ describe('HomeComponent', () => {
     component.personalityQuery.set('Pratap');
     expect(component.shownPersonalities().length).toBe(1);
     component.personalities.set([{ ...pratap, articleCount: 0 }]);
-    expect(component.shownPersonalities().length).toBe(0);
+    expect(component.shownPersonalities().length).toBe(1);
     devMode.set(true);
     expect(component.shownPersonalities().length).toBe(1);
   });

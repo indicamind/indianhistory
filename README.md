@@ -36,6 +36,25 @@ npm run build
 
 This will compile your project and store the build artifacts in the `dist/` directory. By default, the production build optimizes your application for performance and speed.
 
+Every `npm run build` also creates the complete **offline Chrome extension**,
+automatically through `postbuild`. Clicking its toolbar icon opens the bundled
+reader in a tab; Chrome's normal new-tab page stays unchanged.
+
+- `chrome-extension/dist/india-history-new-tab/` — loadable extension.
+- `chrome-extension/dist/india-history-new-tab.zip` — packaged extension.
+
+The extension bundles the application, all published articles and blogs in
+every released language, search indexes, book metadata, and images. It reads
+from its own installed files and makes no HTTP(S) requests. Ads, remote font
+loading, analytics, backend clients, and outbound link navigation are excluded.
+Unpublished drafts are not included. A content change reaches the offline reader
+when a rebuilt extension is installed or reloaded; deploying the website does
+not change an already installed offline package.
+
+See [Chrome extension setup](chrome-extension/README.md) for installation and
+standalone builds. Keep this automatic offline package in the build lifecycle.
+
+
 Article feedback uses App Check protected Firebase functions and build-time totals;
 see [article reactions](docs/article-reactions.md) for storage, local previews,
 retrieval, and deployment details.
@@ -58,6 +77,30 @@ for English dev-mode review. Normal and translated pages continue to use
 published content, and drafts have no generated social-preview routes or
 public search entries. Dev-mode search includes their full text. Draft assets
 are separate JSON files for review; dev mode is not an access-control system.
+
+## Personality profiles
+
+Every personality has a shared page with a life timeline, biography, and related
+articles. Milestones, credited images, and biography selections are defined in
+`content/data/personality-profiles.json`. The content build generates
+`personality-profiles.json` for English and every released language, using
+approved article passages and translated interface copy. Language-specific
+biography excerpts in `site.json` cover editions with different article structures
+and are checked against their English source. Article links follow personality
+memberships; profiles remain available when no related articles are published.
+
+Life stories can be reviewed directly on a personality page as a vertical trail
+of bubbles with dates on the left. Each bubble has a short heading, about 50 words,
+and up to two centered, direct article links that open in a new tab. Keep the
+English Markdown in `content/drafts/articles/` with `personalityStoryFor` set to
+the personality slug and a `chapters` list giving stable chapter IDs, dates, and
+optional related article slugs. The build writes these separately to
+`personality-story-drafts.json`; they are shown only on the English personality
+page with `?dev=true&lang=en`, without creating a separate biography route.
+Bubble IDs remain stable when rewriting or adding moments. Article links return
+readers to the originating bubble. Keep historical uncertainty and source
+citations in the short writeups; never truncate or clamp them in the UI. The
+installed offline reader excludes unapproved stories.
 
 ## Running unit tests
 

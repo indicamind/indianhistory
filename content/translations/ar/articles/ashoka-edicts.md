@@ -10,12 +10,23 @@ personalities: [ashoka]
 tags: ["أشوكا","المراسيم","النقوش"]
 themes: []
 books: ['0349122385', '935699322X', '0143330802', 'B0BPDX1MXS']
-sourceHash: 495ce4b08b5582d84faa3fad8135db60c89cbd1db8a1d210512713d79ad89a9d
+sourceHash: c285e707b6cfea2dc0b66172564cad74e2fe40ceb50bcf492ea50881713203e1
 ---
 
 بقيت نقوش أشوكا في نسخ على عدة مواقع. وتقدم قائمة المقالات أدناه صفحة لكل **نص مرسوم متميز**، لا صفحة لكل حجر. وتعرض مقالات النصوص البراكريتية المرقمة صورة طبق الأصل بالخط الأصلي، ونقلًا بالحروف اللاتينية لنسخة موقع مسمّى، وترجمة لكامل النص الباقي باستخدام طبعة هولتزش لسنة 1925، وشرحًا موجزًا. وتظهر الترجمة في المقالات المترجمة بلغة الصفحة. وتُعلَّم المقاطع التالفة كما تظهر في الطبعة. أما الصفحات اليونانية والآرامية فتستخدم الطبعات العلمية المنفصلة المذكورة فيها.
 
 تُرقّم المراسيم الصخرية الكبيرة الأربعة عشر ومراسيم الأعمدة الكبيرة السبعة في الدراسات الحديثة. وتحمل مراسيم كالينغا المنفصلة والرسائل الصخرية ورسائل الأعمدة الأقصر ونصوص تكريس كهوف بارابار أسماءها المتعارف عليها. وقد تُظهر الصورة في إحدى الصفحات نصوصًا مجاورة على الحجر نفسه أو اللوحة نفسها.
+
+<figure class="article-figure inscription-plate">
+  <picture>
+    <source srcset="assets/media/images/ashoka-plate-1405674260.webp" type="image/webp" />
+    <img src="/assets/media/images/ashoka-plate-1405674260.jpg" alt="نسخة طبق الأصل لكتابة بالبراهمي من مرسوم العمود الكبير السابع لأشوكا على عمود دلهي–توبرا، أعيد إنتاجها في طبعة أويغن هولتزش لعام 1925." loading="lazy" decoding="async" />
+  </picture>
+  <figcaption>
+    <strong>الرسالة الكامنة خلف اللغز.</strong> نسخة طبق الأصل من مرسوم العمود الكبير السابع على عمود دلهي–توبرا. أصبحت حروفه البراهمية القديمة مقروءة بفضل الدراسات النقائشية في القرن التاسع عشر.
+    <span class="figure-credit">نسخة طبق الأصل: إ. هولتزش، محرر، Inscriptions of Asoka، 1925 · ملكية عامة. أعيد إنتاجها عبر Bibliotheca Polyglotta، جامعة أوسلو؛ جرى تغيير الحجم والتحويل إلى JPEG لهذا الموقع، مع نسخة WebP.</span>
+  </figcaption>
+</figure>
 
 ## قراءة النقوش
 
@@ -30,3 +41,7 @@ sourceHash: 495ce4b08b5582d84faa3fad8135db60c89cbd1db8a1d210512713d79ad89a9d
 - E. Hultzsch، [*Inscriptions of Asoka* (1925)](https://archive.org/details/InscriptionsOfAsoka.NewEditionByE.Hultzsch)، *Corpus Inscriptionum Indicarum*، المجلد الأول.
 - جامعة أوسلو، [مكتبة أشوكا في ببليوتيكا بوليغلوتا](https://www2.hf.uio.no/polyglotta/index.php?bid=14&page=library)، محررة اعتمادًا على نصوص هولتزش وترجماته.
 - Harry Falk، [*Aśokan Sites and Artefacts* (2006)](https://dokumen.pub/aokan-sites-and-artefacts-1nbsped-3805337124.html)، ص 241–253 (النقوش اليونانية والآرامية، بما فيها النسب المختلف فيها).
+
+### حقوق الصور
+
+- **نسخة طبق الأصل لمرسوم العمود السابع:** إ. هولتزش، محرر، *Inscriptions of Asoka* (1925)، ملكية عامة؛ توفي المحرر عام 1927. [الصورة الرقمية الأصلية، Bibliotheca Polyglotta، جامعة أوسلو](https://www2.hf.uio.no/polyglotta/public/media/img_to_txt/1405674260.png)؛ [المطبوعة المصدر](https://archive.org/details/InscriptionsOfAsoka.NewEditionByE.Hultzsch). نُسخة الموقع المحلي جرى تغيير حجمها إلى 2200 بكسل كحد أقصى وحُوّلت إلى JPEG، مع نسخة WebP محسنة.

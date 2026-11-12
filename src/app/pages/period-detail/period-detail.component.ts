@@ -9,10 +9,11 @@ import { Period, Personality, Polity, Theme } from '../../data/periods';
 import { LocaleService } from '../../i18n/locale.service';
 import { articleRoute } from '../../utils/article-route';
 import { ArticleSectionLinksComponent } from '../../components/article-section-links/article-section-links.component';
+import { PersonalityProfileComponent } from '../../components/personality-profile/personality-profile.component';
 
 @Component({
   selector: 'app-period-detail',
-  imports: [RouterLink, DatePipe, ArticleSectionLinksComponent],
+  imports: [RouterLink, DatePipe, ArticleSectionLinksComponent, PersonalityProfileComponent],
   templateUrl: './period-detail.component.html',
   styleUrl: './period-detail.component.css',
 })

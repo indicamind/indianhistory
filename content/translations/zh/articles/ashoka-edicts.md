@@ -10,12 +10,23 @@ personalities: [ashoka]
 tags: ["阿育王","敕文","铭文"]
 themes: []
 books: ['0349122385', '935699322X', '0143330802', 'B0BPDX1MXS']
-sourceHash: 495ce4b08b5582d84faa3fad8135db60c89cbd1db8a1d210512713d79ad89a9d
+sourceHash: c285e707b6cfea2dc0b66172564cad74e2fe40ceb50bcf492ea50881713203e1
 ---
 
 阿育王铭文以多个地点的副本留存。下方文章列表为每一篇**独立的敕文文本**提供一页，而非为每块石头各设一页。编号的普拉克里特语文章展示原文字形摹本、具名地点版本的罗马字母转写、依据赫尔奇 1925 年版本翻译的全部留存文本，以及简短说明。在本地化文章中，译文采用页面所用语言。受损段落按原版本标记。希腊文和阿拉米文页面使用各页引用的独立学术版本。
 
 十四篇大石敕和七篇大柱敕的编号来自现代学术研究。羯陵伽别敕、较短的石刻和柱刻文告，以及巴拉巴尔洞窟献辞，采用其通行名称。页面图片可能也包含同一石面或图版上的相邻文本。
+
+<figure class="article-figure inscription-plate">
+  <picture>
+    <source srcset="assets/media/images/ashoka-plate-1405674260.webp" type="image/webp" />
+    <img src="/assets/media/images/ashoka-plate-1405674260.jpg" alt="欧根·赫尔茨施1925年版图书中复制的德里–托普拉石柱阿育王第七号大柱敕婆罗米文摹本。" loading="lazy" decoding="async" />
+  </picture>
+  <figcaption>
+    <strong>谜团背后的昭示。</strong> 德里–托普拉石柱第七号大柱敕的摹本。其古老的婆罗米字母通过十九世纪的金石学研究才重获解读。
+    <span class="figure-credit">摹本：E·赫尔茨施主编，《Inscriptions of Asoka》，1925年 · 公有领域。经由奥斯陆大学多语图书馆复制；为本站调整尺寸并转为JPEG格式，配有优化WebP版本。</span>
+  </figcaption>
+</figure>
 
 ## 阅读铭文
 
@@ -30,3 +41,7 @@ sourceHash: 495ce4b08b5582d84faa3fad8135db60c89cbd1db8a1d210512713d79ad89a9d
 - E. Hultzsch，[*Inscriptions of Asoka*（1925）](https://archive.org/details/InscriptionsOfAsoka.NewEditionByE.Hultzsch)，*Corpus Inscriptionum Indicarum*，第一卷。
 - 奥斯陆大学，[Bibliotheca Polyglotta 阿育王文库](https://www2.hf.uio.no/polyglotta/index.php?bid=14&page=library)，依据赫尔奇文本及译文编辑。
 - Harry Falk，[*Aśokan Sites and Artefacts*（2006）](https://dokumen.pub/aokan-sites-and-artefacts-1nbsped-3805337124.html)，第 241–253 页（希腊文和阿拉米文铭文，包括有争议的归属）。
+
+### 图片署名
+
+- **第七号大柱敕摹本：** E·赫尔茨施主编，《Inscriptions of Asoka》（1925年），公有领域；主编逝于1927年。[奥斯陆大学多语图书馆原始数字图像](https://www2.hf.uio.no/polyglotta/public/media/img_to_txt/1405674260.png)；[来源出版物](https://archive.org/details/InscriptionsOfAsoka.NewEditionByE.Hultzsch)。本地副本尺寸缩放至最大2200像素并转换为JPEG，附带优化WebP版本。

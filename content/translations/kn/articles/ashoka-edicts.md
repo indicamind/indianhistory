@@ -10,12 +10,23 @@ personalities: [ashoka]
 tags: ["ಅಶೋಕ","ಶಾಸನಗಳು","ಶಿಲಾಲೇಖಗಳು"]
 themes: []
 books: ['0349122385', '935699322X', '0143330802', 'B0BPDX1MXS']
-sourceHash: 495ce4b08b5582d84faa3fad8135db60c89cbd1db8a1d210512713d79ad89a9d
+sourceHash: c285e707b6cfea2dc0b66172564cad74e2fe40ceb50bcf492ea50881713203e1
 ---
 
 ಅಶೋಕನ ಶಾಸನಗಳ ಪ್ರತಿಗಳು ಹಲವು ಸ್ಥಳಗಳಲ್ಲಿ ಉಳಿದಿವೆ. ಕೆಳಗಿನ ಪಟ್ಟಿಯಲ್ಲಿ ಪ್ರತಿ ಕಲ್ಲಿಗೊಂದು ಪುಟದ ಬದಲು ಪ್ರತಿ **ಪ್ರತ್ಯೇಕ ಶಾಸನಪಾಠಕ್ಕೆ** ಒಂದು ಲೇಖನವಿದೆ. ಸಂಖ್ಯೆಯಿರುವ ಪ್ರಾಕೃತ ಲೇಖನಗಳಲ್ಲಿ ಮೂಲ ಲಿಪಿಯ ಪ್ರತಿಕೃತಿ, ಹೆಸರಿಸಿದ ಸ್ಥಳದ ಪ್ರತಿಯ ರೋಮನ್ ಲಿಪ್ಯಂತರ, ಹುಲ್ಟ್ಶ್ ಅವರ 1925ರ ಆವೃತ್ತಿಯ ಆಧಾರದಲ್ಲಿ ಉಳಿದ ಸಂಪೂರ್ಣ ಪಾಠದ ಅನುವಾದ ಮತ್ತು ಚಿಕ್ಕ ವಿವರಣೆಯಿವೆ. ಸ್ಥಳೀಯ ಭಾಷೆಯ ಲೇಖನಗಳಲ್ಲಿ ಅನುವಾದವು ಆ ಪುಟದ ಭಾಷೆಯಲ್ಲಿದೆ. ಹಾನಿಗೊಂಡ ಭಾಗಗಳನ್ನು ಆವೃತ್ತಿಯಂತೆ ಗುರುತಿಸಲಾಗಿದೆ. ಗ್ರೀಕ್ ಮತ್ತು ಅರಾಮಿಕ್ ಪುಟಗಳು ಅಲ್ಲಿ ಉಲ್ಲೇಖಿಸಿದ ಪ್ರತ್ಯೇಕ ವಿದ್ವತ್ ಆವೃತ್ತಿಗಳನ್ನು ಅನುಸರಿಸುತ್ತವೆ.
 
 ಹದಿನಾಲ್ಕು ಪ್ರಮುಖ ಶಿಲಾಶಾಸನಗಳು ಮತ್ತು ಏಳು ಪ್ರಮುಖ ಸ್ತಂಭಶಾಸನಗಳಿಗೆ ಆಧುನಿಕ ಅಧ್ಯಯನದಲ್ಲಿ ಸಂಖ್ಯೆಗಳಿವೆ. ಪ್ರತ್ಯೇಕ ಕಳಿಂಗ ಶಾಸನಗಳು, ಚಿಕ್ಕ ಬಂಡೆ ಮತ್ತು ಸ್ತಂಭ ಸಂದೇಶಗಳು ಹಾಗೂ ಬರಾಬರ್ ಗುಹೆಗಳ ಸಮರ್ಪಣಾಶಾಸನಗಳನ್ನು ಅವುಗಳ ರೂಢಿಯ ಹೆಸರುಗಳಿಂದ ಗುರುತಿಸಲಾಗುತ್ತದೆ. ಒಂದು ಪುಟದ ಚಿತ್ರವು ಅದೇ ಕಲ್ಲು ಅಥವಾ ಫಲಕದ ಪಕ್ಕದ ಪಾಠಗಳನ್ನೂ ತೋರಿಸಬಹುದು.
+
+<figure class="article-figure inscription-plate">
+  <picture>
+    <source srcset="assets/media/images/ashoka-plate-1405674260.webp" type="image/webp" />
+    <img src="/assets/media/images/ashoka-plate-1405674260.jpg" alt="ಯುಜೆನ್ ಹುಲ್ಟ್ಷ್ ಅವರ 1925ರ ಆವೃತ್ತಿಯಲ್ಲಿ ಮರುಮುದ್ರಿಸಲಾದ ದೆಹಲಿ–ಟೋಪ್ರಾ ಸ್ತಂಭದ ಮೇಲಿನ ಅಶೋಕನ ಏಳನೇ ಪ್ರಮುಖ ಸ್ತಂಭ ಶಾಸನದ ಬ್ರಾಹ್ಮಿ ಬರವಣಿಗೆಯ ಪ್ರತಿಕೃತಿ." loading="lazy" decoding="async" />
+  </picture>
+  <figcaption>
+    <strong>ರಹಸ್ಯದ ಹಿಂದಿನ ಸಂದೇಶ.</strong> ದೆಹಲಿ–ಟೋಪ್ರಾ ಸ್ತಂಭದ ಏಳನೇ ಪ್ರಮುಖ ಸ್ತಂಭ ಶಾಸನದ ಪ್ರತಿಕೃತಿ. ಹತ್ತೊಂಬತ್ತನೇ ಶತಮಾನದಲ್ಲಿ ಶಾಸನಶಾಸ್ತ್ರದ ಅಧ್ಯಯನದ ಮೂಲಕ ಇದರ ಪ್ರಾಚೀನ ಬ್ರಾಹ್ಮಿ ಅಕ್ಷರಗಳು ಓದಲು ಸಾಧ್ಯವಾದವು.
+    <span class="figure-credit">ಪ್ರತಿಕೃತಿ: E. Hultzsch, ಸಂಪಾದಕರು, Inscriptions of Asoka, 1925 · ಸಾರ್ವಜನಿಕ ಸ್ವಾಮ್ಯ. ಓಸ್ಲೋ ವಿಶ್ವವಿದ್ಯಾಲಯದ Bibliotheca Polyglotta ಮೂಲಕ ಪಡೆಯಲಾಗಿದೆ; WebP ಪ್ರತಿಯೊಂದಿಗೆ ಈ ಸೈಟ್‌ಗಾಗಿ ಗಾತ್ರ ಬದಲಿಸಿ JPEG ಆಗಿ ಪರಿವರ್ತಿಸಲಾಗಿದೆ.</span>
+  </figcaption>
+</figure>
 
 ## ಶಾಸನಗಳನ್ನು ಓದುವುದು
 
@@ -30,3 +41,7 @@ sourceHash: 495ce4b08b5582d84faa3fad8135db60c89cbd1db8a1d210512713d79ad89a9d
 - E. Hultzsch, [*Inscriptions of Asoka* (1925)](https://archive.org/details/InscriptionsOfAsoka.NewEditionByE.Hultzsch), *Corpus Inscriptionum Indicarum*, ಸಂಪುಟ I.
 - ಒಸ್ಲೊ ವಿಶ್ವವಿದ್ಯಾಲಯ, [Bibliotheca Polyglotta Ashoka Library](https://www2.hf.uio.no/polyglotta/index.php?bid=14&page=library), ಹುಲ್ಟ್ಶ್ ಅವರ ಪಾಠಗಳು ಮತ್ತು ಅನುವಾದಗಳಿಂದ ಸಂಪಾದಿತ.
 - Harry Falk, [*Aśokan Sites and Artefacts* (2006)](https://dokumen.pub/aokan-sites-and-artefacts-1nbsped-3805337124.html), ಪುಟ 241–253 (ಗ್ರೀಕ್ ಮತ್ತು ಅರಾಮಿಕ್ ಶಾಸನಗಳು, ವಿವಾದಿತ ಕರ್ತೃತ್ವವೂ ಸೇರಿ).
+
+### ಚಿತ್ರಗಳ ಕೃಪೆ
+
+- **ಏಳನೇ ಸ್ತಂಭ ಶಾಸನದ ಪ್ರತಿಕೃತಿ:** E. Hultzsch, ಸಂಪಾದಕರು, *Inscriptions of Asoka* (1925), ಸಾರ್ವಜನಿಕ ಸ್ವಾಮ್ಯ; ಸಂಪಾದಕರು 1927ರಲ್ಲಿ ನಿಧನರಾದರು. [ಮೂಲ ಡಿಜಿಟಲ್ ಚಿತ್ರ, Bibliotheca Polyglotta, ಓಸ್ಲೋ ವಿಶ್ವವಿದ್ಯಾಲಯ](https://www2.hf.uio.no/polyglotta/public/media/img_to_txt/1405674260.png); [ಮೂಲ ಪ್ರಕಟಣೆ](https://archive.org/details/InscriptionsOfAsoka.NewEditionByE.Hultzsch). ಸ್ಥಳೀಯ ಸೈಟ್ ಪ್ರತಿಯನ್ನು ಗರಿಷ್ಠ 2200 ಪಿಕ್ಸೆಲ್‌ಗಳಿಗೆ ಮರುಗಾತ್ರಗೊಳಿಸಿ JPEG ಆಗಿ ಪರಿವರ್ತಿಸಲಾಗಿದೆ, ಆಪ್ಟಿಮೈಸ್ ಮಾಡಿದ WebP ಪ್ರತಿಯೊಂದಿಗೆ.

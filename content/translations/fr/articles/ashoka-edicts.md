@@ -10,12 +10,23 @@ personalities: [ashoka]
 tags: ["Ashoka","édits","inscriptions"]
 themes: []
 books: ['0349122385', '935699322X', '0143330802', 'B0BPDX1MXS']
-sourceHash: 495ce4b08b5582d84faa3fad8135db60c89cbd1db8a1d210512713d79ad89a9d
+sourceHash: c285e707b6cfea2dc0b66172564cad74e2fe40ceb50bcf492ea50881713203e1
 ---
 
 Les inscriptions d’Ashoka sont conservées sous forme de copies sur plusieurs sites. La liste d’articles ci-dessous propose une page par **texte d’édit distinct**, plutôt qu’une page pour chaque pierre. Les articles consacrés aux édits numérotés en prakrit présentent un fac-similé dans l’écriture originale, la translittération en caractères latins de la version d’un site nommé, le texte conservé dans son intégralité, traduit à partir de l’édition de Hultzsch de 1925, ainsi qu’une brève explication. Dans les articles localisés, la traduction est dans la langue de la page. Les passages endommagés sont signalés comme dans l’édition. Les pages grecques et araméennes utilisent les éditions savantes particulières qui y sont citées.
 
 Les quatorze édits majeurs sur roche et les sept édits majeurs sur pilier sont numérotés dans les travaux savants modernes. Les édits séparés du Kalinga, les messages plus courts sur roche et sur pilier et les dédicaces des grottes de Barabar portent leurs noms conventionnels. L’image d’une page peut montrer des textes voisins sur la même pierre ou la même planche.
+
+<figure class="article-figure inscription-plate">
+  <picture>
+    <source srcset="assets/media/images/ashoka-plate-1405674260.webp" type="image/webp" />
+    <img src="/assets/media/images/ashoka-plate-1405674260.jpg" alt="Fac-similé de l'écriture brahmi du Septième Édit majeur sur pilier d'Ashoka sur la colonne de Delhi-Topra, reproduit dans l'édition d'Eugen Hultzsch en 1925." loading="lazy" decoding="async" />
+  </picture>
+  <figcaption>
+    <strong>Le message derrière le mystère.</strong> Fac-similé du Septième Édit majeur sur pilier de la colonne de Delhi-Topra. Ses caractères brahmi antiques devinrent lisibles grâce aux travaux épigraphiques du XIXe siècle.
+    <span class="figure-credit">Fac-similé : E. Hultzsch, éditeur, Inscriptions of Asoka, 1925 · Domaine public. Reproduit via Bibliotheca Polyglotta, Université d'Oslo ; redimensionné et converti en JPEG pour ce site, avec une copie WebP.</span>
+  </figcaption>
+</figure>
 
 ## Lire les inscriptions
 
@@ -30,3 +41,7 @@ Plusieurs textes du nord-ouest qui mentionnent le roi Priyadarśin ont aussi ét
 - E. Hultzsch, [*Inscriptions of Asoka* (1925)](https://archive.org/details/InscriptionsOfAsoka.NewEditionByE.Hultzsch), *Corpus Inscriptionum Indicarum*, volume I.
 - Université d’Oslo, [Bibliotheca Polyglotta Ashoka Library](https://www2.hf.uio.no/polyglotta/index.php?bid=14&page=library), établie à partir des textes et traductions de Hultzsch.
 - Harry Falk, [*Aśokan Sites and Artefacts* (2006)](https://dokumen.pub/aokan-sites-and-artefacts-1nbsped-3805337124.html), pp. 241–253 (inscriptions grecques et araméennes, y compris les attributions discutées).
+
+### Crédits des images
+
+- **Fac-similé du Septième Édit sur pilier :** E. Hultzsch, éditeur, *Inscriptions of Asoka* (1925), domaine public ; l'éditeur est décédé en 1927. [Image numérique originale, Bibliotheca Polyglotta, Université d'Oslo](https://www2.hf.uio.no/polyglotta/public/media/img_to_txt/1405674260.png) ; [publication d'origine](https://archive.org/details/InscriptionsOfAsoka.NewEditionByE.Hultzsch). Le fichier local a été redimensionné à une largeur maximale de 2 200 pixels et converti en JPEG, avec une copie optimisée en WebP.

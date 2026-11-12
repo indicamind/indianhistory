@@ -51,4 +51,20 @@ describe('Localized content URLs', () => {
     expect(localizeContentLinks(html, 'en', true)).toContain('href="/article/ashoka-edicts?dev=true#sources"');
     expect(localizeContentLinks(html, 'hi', false, '/history/')).toContain('href="/history/hi/article/ashoka-edicts#sources"');
   });
+
+  it('detects offline language prefixes and queries independently of the new-tab filename', () => {
+    expect(languageAtLocation(new URL('chrome-extension://reader/newtab.html?lang=en#/ar/article/ashoka-edicts'))).toBe('ar');
+    expect(languageAtLocation(new URL('chrome-extension://reader/newtab.html#/search?lang=hi&q=Ashoka'))).toBe('hi');
+    expect(languageAtLocation(new URL('chrome-extension://reader/newtab.html?lang=ta#/books'))).toBe('ta');
+    expect(languageAtLocation(new URL('chrome-extension://reader/newtab.html'))).toBe('en');
+  });
+
+  it('keeps offline Markdown navigation in the bundled new-tab document', () => {
+    const html = '<a href="/article/ashoka-edicts#sources">Guide</a> <a href="/theme/islamic-conquest-of-india">Theme</a> <a href="https://example.com/source">Source</a> <a href="/assets/image.jpg">Image</a>';
+    const offline = localizeContentLinks(html, 'hi', false, '/', true);
+    expect(offline).toContain('href="/newtab.html?lang=hi#/hi/article/ashoka-edicts#sources"');
+    expect(offline).toContain('href="/newtab.html?lang=hi#/theme/islamic-conquest-of-india?lang=hi"');
+    expect(offline).toContain('href="https://example.com/source"');
+    expect(offline).toContain('href="/assets/image.jpg"');
+  });
 });

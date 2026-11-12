@@ -5,7 +5,7 @@ import { DomSanitizer, SafeHtml } from '@angular/platform-browser';
 import { ActivatedRoute, ParamMap, RouterLink } from '@angular/router';
 import { combineLatest } from 'rxjs';
 import { AssociatedBooksComponent } from '../../components/associated-books/associated-books.component';
-import { Article } from '../../models/article.model';
+import { Article, ArticleSummary } from '../../models/article.model';
 import { ArticleService } from '../../services/article.service';
 import { PeriodsService } from '../../services/periods.service';
 import { BookRecommendationsService } from '../../services/book-recommendations.service';
@@ -46,7 +46,6 @@ export class ArticleDetailComponent implements OnInit {
     const article = this.article();
     return article?.period === 'world-history' && !article.relatedTo;
   });
-  readonly isEdictIndex = computed(() => this.article()?.slug === 'ashoka-edicts');
   private readonly edictArticles = computed(() => {
     const entries = this.articles.allArticles().filter(candidate => candidate.relatedTo === 'ashoka-edicts');
     const order = (slug: string): number => {
@@ -83,19 +82,25 @@ export class ArticleDetailComponent implements OnInit {
   readonly relatedArticles = computed(() => {
     const article = this.article();
     if (!article) return [];
-    return article.slug === 'ashoka-edicts' ? this.edictArticles() :
-      this.articles.allArticles().filter(candidate => candidate.relatedTo === article.slug);
+    return this.entriesForGuide(article.slug);
   });
-  readonly edictNavigation = computed(() => {
+  private entriesForGuide(slug: string): ArticleSummary[] {
+    if (slug === 'ashoka-edicts') return this.edictArticles();
+    return this.articles.allArticles()
+      .filter(candidate => candidate.relatedTo === slug)
+      .sort((a, b) => (a.timelineOrder ?? Number.MAX_SAFE_INTEGER) - (b.timelineOrder ?? Number.MAX_SAFE_INTEGER));
+  }
+  readonly seriesNavigation = computed(() => {
     const article = this.article();
-    if (article?.relatedTo !== 'ashoka-edicts') return null;
-    const entries = this.edictArticles();
+    if (!article?.relatedTo) return null;
+    const entries = this.entriesForGuide(article.relatedTo);
     const index = entries.findIndex(entry => entry.slug === article.slug);
     if (index < 0 || entries.length < 2) return null;
     return { next: entries[index + 1], previous: entries[index - 1] };
   });
   readonly loading = signal(true);
   readonly backLink = signal<string>('/');
+  readonly backFragment = signal<string | undefined>(undefined);
   readonly backText = signal<string>(this.locale.translate('← Back to home'));
   private requestId = 0;
   private lastCountedSlug: string | null = null;
@@ -109,6 +114,7 @@ export class ArticleDetailComponent implements OnInit {
   }
 
   private async loadArticle(params: ParamMap, queryParams: ParamMap): Promise<void> {
+    this.backFragment.set(undefined);
     const requestId = ++this.requestId;
     this.loading.set(true);
     await this.articles.whenReady();
@@ -124,13 +130,13 @@ export class ArticleDetailComponent implements OnInit {
     ) ? null : loaded;
     this.article.set(found);
     this.html.set(
-      found ? this.sanitizer.bypassSecurityTrustHtml(localizeContentLinks(found.html, this.locale.language, !!found.draft, this.locale.basePath)) : null
+      found ? this.sanitizer.bypassSecurityTrustHtml(localizeContentLinks(found.html, this.locale.language, !!found.draft, this.locale.basePath, this.locale.offline)) : null
     );
     if (found) {
       const offsets = found.bookInsertionOffsets ?? [found.html.length, found.html.length];
       const boundaries = [0, ...offsets, found.html.length];
       this.htmlParts.set(boundaries.slice(1).map((end, index) => this.sanitizer.bypassSecurityTrustHtml(
-        localizeContentLinks(found.html.slice(boundaries[index], end), this.locale.language, !!found.draft, this.locale.basePath)
+        localizeContentLinks(found.html.slice(boundaries[index], end), this.locale.language, !!found.draft, this.locale.basePath, this.locale.offline)
       )));
     } else {
       this.htmlParts.set([]);
@@ -164,6 +170,8 @@ export class ArticleDetailComponent implements OnInit {
       const personality = this.periodsService.getPersonalityBySlug(fromPersonalitySlug);
       if (personality) {
         this.backLink.set(`/personality/${fromPersonalitySlug}`);
+        const chapter = queryParams.get('fromPersonalityChapter');
+        if (chapter && /^[a-z0-9]+(?:-[a-z0-9]+)*$/.test(chapter)) this.backFragment.set(chapter);
         this.backText.set(`${this.locale.translate('← Back to')} ${personality.name}`);
       } else {
         this.backLink.set('/');

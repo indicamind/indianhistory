@@ -48,9 +48,9 @@
   }
 
   <main class="site-main">
-    <div class="page-layout">
+    <div class="page-layout" [class.personality-layout]="isPersonalityPage()">
       <router-outlet />
-      <app-book-sidebar [book]="displayedBook()" />
+      @if (!isPersonalityPage()) { <app-book-sidebar [book]="displayedBook()" /> }
     </div>
     @if (!isBookLibrary()) {
       <app-must-read presentation="bottom" [excludeIsbns]="excludedBookIsbns()" />

@@ -1,0 +1,559 @@
+{
+  "gautama-buddha": {
+    "events": [
+      {
+        "title": "Renunciation",
+        "date": "Traditional accounts"
+      },
+      {
+        "title": "Awakening",
+        "date": "Dates uncertain"
+      },
+      {
+        "title": "Teaching",
+        "date": "c. 6th – 5th century BCE"
+      }
+    ],
+    "sources": [
+      {
+        "author": "The Metropolitan Museum of Art",
+        "url": "https://www.metmuseum.org/de/essays/life-of-the-buddha"
+      }
+    ]
+  },
+  "mahavira": {
+    "events": [
+      {
+        "title": "Renunciation",
+        "date": "Traditional accounts"
+      },
+      {
+        "title": "Ascetic practice",
+        "date": "Dates uncertain"
+      },
+      {
+        "title": "Teaching",
+        "date": "c. 6th century BCE"
+      }
+    ],
+    "sources": [
+      {
+        "author": "NCERT",
+        "url": "https://ncert.nic.in/textbook/pdf/lehs104.pdf"
+      }
+    ]
+  },
+  "chandragupta-maurya": {
+    "events": [
+      {
+        "title": "Founded the Maurya Empire",
+        "year": -322,
+        "approximate": true
+      },
+      {
+        "title": "Treaty with Seleucus",
+        "year": -305,
+        "approximate": true
+      },
+      {
+        "title": "Succession",
+        "year": -297,
+        "approximate": true
+      }
+    ],
+    "sources": [
+      {
+        "author": "Livius",
+        "url": "https://www.livius.org/articles/dynasty/maurya/"
+      }
+    ]
+  },
+  "bindusara": {
+    "events": [
+      {
+        "title": "Accession",
+        "year": -297,
+        "approximate": true
+      },
+      {
+        "title": "Imperial rule",
+        "date": "Early 3rd century BCE"
+      },
+      {
+        "title": "Death",
+        "year": -272,
+        "approximate": true
+      }
+    ],
+    "article": "bindusara-name-legend-poison-drop",
+    "biography": {
+      "heading": "Between Chandragupta and Ashoka, a life almost lost",
+      "paragraph": 0,
+      "count": 2
+    },
+    "sources": []
+  },
+  "ashoka": {
+    "events": [
+      {
+        "title": "Accession",
+        "year": -268,
+        "approximate": true
+      },
+      {
+        "title": "Kalinga War",
+        "year": -261,
+        "approximate": true,
+        "article": "ashoka-major-rock-edict-13"
+      },
+      {
+        "title": "Edicts and dhamma",
+        "year": -257,
+        "until": -232,
+        "approximate": true
+      },
+      {
+        "title": "Death",
+        "year": -232,
+        "approximate": true
+      }
+    ],
+    "article": "ashoka-edicts",
+    "biography": {
+      "heading": "Reading the inscriptions",
+      "paragraph": 0,
+      "count": 2
+    },
+    "image": {
+      "file": "firoz-shah-kotla-ashokan-pillar.jpg",
+      "kind": "Historic site"
+    },
+    "sources": []
+  },
+  "firuz-shah-tughlaq": {
+    "events": [
+      {
+        "title": "Accession",
+        "year": 1351
+      },
+      {
+        "title": "Pillars brought to Delhi",
+        "year": 1367,
+        "article": "ashokan-pillar-topra-firuz-shah-delhi"
+      },
+      {
+        "title": "Death",
+        "year": 1388
+      }
+    ],
+    "article": "ashokan-pillar-topra-firuz-shah-delhi",
+    "biography": {
+      "heading": "Why a Delhi sultan wanted an ancient column",
+      "paragraph": 0,
+      "count": 2
+    },
+    "image": {
+      "file": "firoz-shah-kotla-ashokan-pillar.jpg",
+      "kind": "Historic site"
+    },
+    "sources": []
+  },
+  "rana-kumbha": {
+    "events": [
+      {
+        "title": "Accession",
+        "year": 1433
+      },
+      {
+        "title": "Battle of Sarangpur",
+        "year": 1437,
+        "approximate": true
+      },
+      {
+        "title": "Death",
+        "year": 1468
+      }
+    ],
+    "article": "mewar-resistance-and-the-road-to-rajasthan",
+    "biography": {
+      "heading": "Kumbha's triumph: a sultan defeated, a victory raised to the sky",
+      "paragraph": 0,
+      "count": 1,
+      "overrideLanguages": [
+        "de",
+        "th",
+        "fa"
+      ]
+    },
+    "image": {
+      "file": "vijay-stambha-chittorgarh-full-view.jpg",
+      "kind": "Historic site"
+    },
+    "sources": []
+  },
+  "rana-sanga": {
+    "events": [
+      {
+        "title": "Rule in Mewar",
+        "date": "Early 16th century CE"
+      },
+      {
+        "title": "Battle of Khanwa",
+        "year": 1527
+      }
+    ],
+    "article": "mewar-resistance-and-the-road-to-rajasthan",
+    "biography": {
+      "heading": "Sanga's great gamble—and Chittor's second catastrophe",
+      "paragraph": 0,
+      "count": 1,
+      "overrideLanguages": [
+        "de",
+        "th",
+        "fa"
+      ]
+    },
+    "image": {
+      "file": "kumbhalgarh-walls-mewar.jpg",
+      "kind": "Historic site",
+      "landscape": true
+    },
+    "sources": []
+  },
+  "udai-singh-ii": {
+    "events": [
+      {
+        "title": "Founded Udaipur",
+        "year": 1559
+      },
+      {
+        "title": "Siege of Chittor",
+        "year": 1567,
+        "until": 1568
+      },
+      {
+        "title": "Death",
+        "year": 1572
+      }
+    ],
+    "article": "mewar-resistance-and-the-road-to-rajasthan",
+    "biography": {
+      "heading": "1568: Jaimal, Patta, and Chittor's terrible last stand",
+      "paragraph": 0,
+      "count": 1,
+      "overrideLanguages": [
+        "de",
+        "th",
+        "fa"
+      ]
+    },
+    "image": {
+      "file": "udaipur-city-palace-lake-pichola.jpg",
+      "kind": "Historic site",
+      "landscape": true
+    },
+    "sources": []
+  },
+  "rani-durgavati": {
+    "events": [
+      {
+        "title": "Birth",
+        "year": 1524,
+        "approximate": true
+      },
+      {
+        "title": "Regency",
+        "year": 1550,
+        "approximate": true
+      },
+      {
+        "title": "Battle of Narrai",
+        "year": 1564
+      },
+      {
+        "title": "Death",
+        "year": 1564
+      }
+    ],
+    "article": "rani-durgavati-queen-of-garha-katanga",
+    "biography": {
+      "heading": "The child had the title. His mother held the power.",
+      "paragraph": 0,
+      "count": 2
+    },
+    "image": {
+      "file": "rani-durgavati-mughal-portrait.jpg",
+      "kind": "Later artwork"
+    },
+    "sources": []
+  },
+  "maharana-pratap": {
+    "events": [
+      {
+        "title": "Accession",
+        "year": 1572
+      },
+      {
+        "title": "Battle of Haldighati",
+        "year": 1576
+      },
+      {
+        "title": "Recovery of territory",
+        "date": "Later life"
+      },
+      {
+        "title": "Death",
+        "year": 1597
+      }
+    ],
+    "article": "mewar-resistance-and-the-road-to-rajasthan",
+    "biography": {
+      "heading": "Pratap at Haldighati: a lost field, an unfinished war",
+      "paragraph": 0,
+      "count": 1,
+      "overrideLanguages": [
+        "de",
+        "th",
+        "fa"
+      ]
+    },
+    "image": {
+      "file": "maharana-pratap-ravi-varma.jpg",
+      "kind": "Later artwork"
+    },
+    "sources": []
+  },
+  "jaimal": {
+    "events": [
+      {
+        "title": "Siege of Chittor",
+        "year": 1567,
+        "until": 1568
+      },
+      {
+        "title": "Death",
+        "year": 1568
+      }
+    ],
+    "article": "mewar-resistance-and-the-road-to-rajasthan",
+    "biography": {
+      "heading": "1568: Jaimal, Patta, and Chittor's terrible last stand",
+      "paragraph": 1,
+      "count": 1,
+      "overrideLanguages": [
+        "de",
+        "th",
+        "fa"
+      ]
+    },
+    "image": {
+      "file": "vijay-stambha-chittorgarh.jpg",
+      "kind": "Historic site"
+    },
+    "sources": []
+  },
+  "patta": {
+    "events": [
+      {
+        "title": "Siege of Chittor",
+        "year": 1567,
+        "until": 1568
+      },
+      {
+        "title": "Death",
+        "year": 1568
+      }
+    ],
+    "article": "mewar-resistance-and-the-road-to-rajasthan",
+    "biography": {
+      "heading": "1568: Jaimal, Patta, and Chittor's terrible last stand",
+      "paragraph": 1,
+      "count": 1,
+      "overrideLanguages": [
+        "de",
+        "th",
+        "fa"
+      ]
+    },
+    "image": {
+      "file": "vijay-stambha-chittorgarh.jpg",
+      "kind": "Historic site"
+    },
+    "sources": []
+  },
+  "amar-singh-i": {
+    "events": [
+      {
+        "title": "Accession",
+        "year": 1597
+      },
+      {
+        "title": "Settlement with the Mughals",
+        "year": 1615
+      },
+      {
+        "title": "Death",
+        "year": 1620
+      }
+    ],
+    "article": "mewar-resistance-and-the-road-to-rajasthan",
+    "biography": {
+      "heading": "After Akbar: the peace that preserved a battered kingdom",
+      "paragraph": 1,
+      "count": 1,
+      "overrideLanguages": [
+        "de",
+        "th",
+        "fa"
+      ]
+    },
+    "image": {
+      "file": "kumbhalgarh-walls-mewar.jpg",
+      "kind": "Historic site",
+      "landscape": true
+    },
+    "sources": []
+  },
+  "raj-singh-i": {
+    "events": [
+      {
+        "title": "Accession",
+        "year": 1652
+      },
+      {
+        "title": "War with Aurangzeb",
+        "year": 1680
+      },
+      {
+        "title": "Death",
+        "year": 1680
+      }
+    ],
+    "article": "mewar-resistance-and-the-road-to-rajasthan",
+    "biography": {
+      "heading": "After Akbar: the peace that preserved a battered kingdom",
+      "paragraph": 2,
+      "count": 1,
+      "overrideLanguages": [
+        "de",
+        "th",
+        "fa"
+      ]
+    },
+    "image": {
+      "file": "udaipur-city-palace-lake-pichola.jpg",
+      "kind": "Historic site",
+      "landscape": true
+    },
+    "sources": []
+  },
+  "akbar": {
+    "events": [
+      {
+        "title": "Accession",
+        "year": 1556
+      },
+      {
+        "title": "Siege of Chittor",
+        "year": 1567,
+        "until": 1568
+      },
+      {
+        "title": "Death",
+        "year": 1605
+      }
+    ],
+    "article": "mewar-resistance-and-the-road-to-rajasthan",
+    "biography": {
+      "heading": "1568: Jaimal, Patta, and Chittor's terrible last stand",
+      "paragraph": 3,
+      "count": 1,
+      "overrideLanguages": [
+        "de",
+        "th",
+        "fa"
+      ]
+    },
+    "sources": [
+      {
+        "author": "Encyclopaedia Iranica",
+        "url": "https://www.iranicaonline.org/articles/akbar-i-mughal-india/"
+      }
+    ]
+  },
+  "shivaji": {
+    "events": [
+      {
+        "title": "Birth",
+        "year": 1630
+      },
+      {
+        "title": "Coronation",
+        "year": 1674
+      },
+      {
+        "title": "Death",
+        "year": 1680
+      }
+    ],
+    "sources": [
+      {
+        "author": "Maharashtra State Gazetteers",
+        "url": "https://www.gazetteers.maharashtra.gov.in/cultural.maharashtra.gov.in/english/gazetteer/SANGLI/his_maratha%20period.html"
+      }
+    ]
+  },
+  "tipu-sultan": {
+    "events": [
+      {
+        "title": "Accession",
+        "year": 1782
+      },
+      {
+        "title": "Anglo-Mysore Wars",
+        "year": 1790,
+        "until": 1792
+      },
+      {
+        "title": "Fall of Seringapatam",
+        "year": 1799
+      }
+    ],
+    "sources": [
+      {
+        "author": "National Army Museum",
+        "url": "https://www.nam.ac.uk/explore/tipu-sultans-war-turban"
+      }
+    ]
+  },
+  "mahatma-gandhi": {
+    "events": [
+      {
+        "title": "Birth",
+        "year": 1869
+      },
+      {
+        "title": "Return to India",
+        "year": 1915
+      },
+      {
+        "title": "Salt March",
+        "year": 1930
+      },
+      {
+        "title": "Quit India movement",
+        "year": 1942
+      },
+      {
+        "title": "Death",
+        "year": 1948
+      }
+    ],
+    "sources": [
+      {
+        "author": "Gandhi Smriti and Darshan Samiti",
+        "url": "https://gandhismriti.gov.in/more/chronology-mahatma-gandhi"
+      }
+    ]
+  }
+}

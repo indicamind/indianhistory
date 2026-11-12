@@ -10,12 +10,23 @@ personalities: [ashoka]
 tags: ["Ashoka","maklumat","prasasti"]
 themes: []
 books: ['0349122385', '935699322X', '0143330802', 'B0BPDX1MXS']
-sourceHash: 495ce4b08b5582d84faa3fad8135db60c89cbd1db8a1d210512713d79ad89a9d
+sourceHash: c285e707b6cfea2dc0b66172564cad74e2fe40ceb50bcf492ea50881713203e1
 ---
 
 Prasasti-prasasti Ashoka terlestarikan melalui salinan di berbagai penjuru wilayah. Daftar berikut menyediakan satu halaman untuk setiap **teks maklumat yang unik**, alih-alih untuk setiap batu fisik. Artikel-artikel berpenomoran dalam bahasa Prakerta menampilkan faksimili aksara asli, transliterasi Latin dari versi situs yang teridentifikasi, keseluruhan teks tersisa yang diterjemahkan menggunakan edisi Hultzsch tahun 1925, serta ulasan ringkas. Pada artikel yang telah dilokalisasi, terjemahan disajikan dalam bahasa halaman yang bersangkutan. Bagian-bagian yang rusak ditandai seperti dalam edisi aslinya. Halaman untuk teks Yunani dan Aram menggunakan edisi akademik tersendiri yang dikutip di dalamnya.
 
 Empat belas maklumat batu utama dan tujuh maklumat pilar utama diberi penomoran dalam kajian modern. Maklumat terpisah Kalinga, pesan minor pada batu dan pilar, serta prasasti persembahan di gua-gua Barabar memakai nama konvensional masing-masing. Gambar dalam satu halaman terkadang menampilkan teks-teks yang berdampingan pada batu atau lempengan yang sama.
+
+<figure class="article-figure inscription-plate">
+  <picture>
+    <source srcset="assets/media/images/ashoka-plate-1405674260.webp" type="image/webp" />
+    <img src="/assets/media/images/ashoka-plate-1405674260.jpg" alt="Faksimili tulisan Brahmi dari Maklumat Pilar Utama Ketujuh Ashoka pada pilar Delhi–Topra, direproduksi dalam edisi Eugen Hultzsch tahun 1925." loading="lazy" decoding="async" />
+  </picture>
+  <figcaption>
+    <strong>Pesan di balik misteri.</strong> Sebuah faksimili dari Maklumat Pilar Utama Ketujuh pada pilar Delhi–Topra. Huruf-huruf Brahmi kunonya berhasil dibaca berkat kajian epigrafi pada abad kesembilan belas.
+    <span class="figure-credit">Faksimili: E. Hultzsch, editor, Inscriptions of Asoka, 1925 · Domain publik. Direproduksi melalui Bibliotheca Polyglotta, Universitas Oslo; disesuaikan ukurannya dan dikonversi ke JPEG untuk situs ini, dengan salinan WebP.</span>
+  </figcaption>
+</figure>
 
 ## Cara membaca prasasti
 
@@ -30,3 +41,7 @@ Sejumlah naskah barat laut yang menyebut Raja Priyadarśin juga kerap disebut �
 - E. Hultzsch, [*Inscriptions of Asoka* (1925)](https://archive.org/details/InscriptionsOfAsoka.NewEditionByE.Hultzsch), *Corpus Inscriptionum Indicarum*, jilid I.
 - Universitas Oslo, [Bibliotheca Polyglotta Ashoka Library](https://www2.hf.uio.no/polyglotta/index.php?bid=14&page=library), disunting dari teks dan terjemahan Hultzsch.
 - Harry Falk, [*Aśokan Sites and Artefacts* (2006)](https://dokumen.pub/aokan-sites-and-artefacts-1nbsped-3805337124.html), hlm. 241–253 (prasasti Yunani dan Aram, termasuk atribusi yang diperdebatkan).
+
+### Kredit gambar
+
+- **Faksimili Maklumat Pilar Ketujuh:** E. Hultzsch, editor, *Inscriptions of Asoka* (1925), domain publik; editor wafat pada tahun 1927. [Gambar digital asli, Bibliotheca Polyglotta, Universitas Oslo](https://www2.hf.uio.no/polyglotta/public/media/img_to_txt/1405674260.png); [publikasi sumber](https://archive.org/details/InscriptionsOfAsoka.NewEditionByE.Hultzsch). Salinan lokal disesuaikan ukurannya hingga maksimum 2200 piksel dan dikonversi ke JPEG, dengan salinan WebP yang dioptimalkan.

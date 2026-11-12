@@ -10,12 +10,23 @@ personalities: [ashoka]
 tags: ["અશોક","શિલાલેખો","અભિલેખો"]
 themes: []
 books: ['0349122385', '935699322X', '0143330802', 'B0BPDX1MXS']
-sourceHash: 495ce4b08b5582d84faa3fad8135db60c89cbd1db8a1d210512713d79ad89a9d
+sourceHash: c285e707b6cfea2dc0b66172564cad74e2fe40ceb50bcf492ea50881713203e1
 ---
 
 અશોકના અભિલેખો અનેક સ્થળોની નકલોમાં બચ્યા છે. નીચેની યાદીમાં દરેક પથ્થર માટે નહીં, પણ દરેક **અલગ શિલાલેખના પાઠ** માટે એક લેખ છે. ક્રમાંકિત પ્રાકૃત લેખોમાં મૂળ લિપિની પ્રતિકૃતિ, નામ દર્શાવેલા સ્થળના પાઠનું રોમન લિપ્યંતરણ, હુલ્ટ્શની ૧૯૨૫ની આવૃત્તિના આધારે બચેલા સંપૂર્ણ પાઠનો અનુવાદ અને ટૂંકી સમજૂતી છે. સ્થાનિક ભાષાના લેખોમાં અનુવાદ એ પાનાની ભાષામાં છે. ક્ષતિગ્રસ્ત ભાગો આવૃત્તિ મુજબ ચિહ્નિત છે. ગ્રીક અને અરામાઇક પાનાંઓ ત્યાં ટાંકેલી જુદી વિદ્વત્તાપૂર્ણ આવૃત્તિઓ અનુસરે છે.
 
 આધુનિક અભ્યાસમાં ચૌદ મુખ્ય શિલાલેખો અને સાત મુખ્ય સ્તંભલેખોને ક્રમાંક આપવામાં આવે છે. કલિંગના અલગ શિલાલેખો, ટૂંકા ખડક અને સ્તંભ સંદેશાઓ તથા બરાબર ગુફાઓના દાનલેખો તેમના પ્રચલિત નામોથી ઓળખાય છે. એક પાનાનું ચિત્ર એ જ પથ્થર કે તકતી પરના પડોશી પાઠો પણ બતાવતું હોઈ શકે છે.
+
+<figure class="article-figure inscription-plate">
+  <picture>
+    <source srcset="assets/media/images/ashoka-plate-1405674260.webp" type="image/webp" />
+    <img src="/assets/media/images/ashoka-plate-1405674260.jpg" alt="દિલ્હી–ટોપરા સ્તંભ પર અશોકના સાતમા મુખ્ય સ્તંભલેખમાંથી બ્રાહ્મી લખાણની પ્રતિકૃતિ, યુજેન હુલ્ત્શની 1925ની આવૃત્તિમાં પુનઃપ્રકાશિત." loading="lazy" decoding="async" />
+  </picture>
+  <figcaption>
+    <strong>રહસ્ય પાછળનો સંદેશ.</strong> દિલ્હી–ટોપરા સ્તંભના સાતમા મુખ્ય સ્તંભલેખની એક પ્રતિકૃતિ. ઓગણીસમી સદીમાં અભિલેખશાસ્ત્રીય અભ્યાસ દ્વારા તેના પ્રાચીન બ્રાહ્મી અક્ષરો વાંચી શકાય તેવા બન્યા.
+    <span class="figure-credit">પ્રતિકૃતિ: ઇ. હુલ્ત્શ, સંપાદક, Inscriptions of Asoka, 1925 · સાર્વજનિક ડોમેન. બિબ્લિયોથેકા પોલિગ્લોટા, ઑસ્લો યુનિવર્સિટી દ્વારા પુનઃપ્રકાશિત; આ સાઇટ માટે માપ બદલી JPEG માં રૂપાંતરિત, સાથે ઑપ્ટિમાઇઝ કરેલી WebP નકલ.</span>
+  </figcaption>
+</figure>
 
 ## અભિલેખો કેવી રીતે વાંચવા
 
@@ -30,3 +41,7 @@ sourceHash: 495ce4b08b5582d84faa3fad8135db60c89cbd1db8a1d210512713d79ad89a9d
 - E. Hultzsch, [*Inscriptions of Asoka* (1925)](https://archive.org/details/InscriptionsOfAsoka.NewEditionByE.Hultzsch), *Corpus Inscriptionum Indicarum*, ખંડ ૧.
 - ઓસ્લો યુનિવર્સિટી, [Bibliotheca Polyglotta Ashoka Library](https://www2.hf.uio.no/polyglotta/index.php?bid=14&page=library), હુલ્ટ્શના પાઠો અને અનુવાદો પરથી સંપાદિત.
 - Harry Falk, [*Aśokan Sites and Artefacts* (2006)](https://dokumen.pub/aokan-sites-and-artefacts-1nbsped-3805337124.html), પૃષ્ઠ ૨૪૧–૨૫૩ (ગ્રીક અને અરામાઇક અભિલેખો, જેમાં વિવાદિત કર્તૃત્વ પણ સામેલ છે).
+
+### ચિત્રોનો શ્રેય
+
+- **સાતમા સ્તંભલેખની પ્રતિકૃતિ:** E. Hultzsch, સંપાદક, *Inscriptions of Asoka* (1925), સાર્વજનિક ડોમેન; સંપાદકનું 1927માં અવસાન થયું. [મૂળ ડિજિટલ છબી, બિબ્લિયોથેકા પોલિગ્લોટા, ઑસ્લો યુનિવર્સિટી](https://www2.hf.uio.no/polyglotta/public/media/img_to_txt/1405674260.png); [સ્રોત પ્રકાશન](https://archive.org/details/InscriptionsOfAsoka.NewEditionByE.Hultzsch). સ્થાનિક સાઇટ નકલ મહત્તમ 2200 પિક્સેલ સુધી માપ બદલીને JPEG માં રૂપાંતરિત કરવામાં આવી છે, સાથે ઑપ્ટિમાઇઝ કરેલી WebP નકલ છે.

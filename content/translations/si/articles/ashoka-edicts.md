@@ -10,12 +10,23 @@ personalities: [ashoka]
 tags: ["අශෝක","සෙල්ලිපි","අභිලේඛන"]
 themes: []
 books: ['0349122385', '935699322X', '0143330802', 'B0BPDX1MXS']
-sourceHash: 495ce4b08b5582d84faa3fad8135db60c89cbd1db8a1d210512713d79ad89a9d
+sourceHash: c285e707b6cfea2dc0b66172564cad74e2fe40ceb50bcf492ea50881713203e1
 ---
 
 අශෝකගේ අභිලේඛන විවිධ ස්ථානවල බොහෝ පිටපත් ලෙස ආරක්ෂා වී ඇත. පහත දැක්වෙන ලැයිස්තුවේ සෑම **සුවිශේෂී සෙල්ලිපි පාඨයක්** සඳහාම ලිපියක් ඇතුළත් වේ, එක් එක් ගල සඳහා වෙනම ලිපියක් නොවේ. අනුක්‍රමික අංක සහිත ප්‍රාකෘත ලිපිවල මුල් ලිපියේ පිටපතක්, යම් නිශ්චිත ස්ථානයක පාඨයේ රෝමානු අක්ෂර පරිවර්තනයක්, හුල්ට්ෂ්ගේ 1925 සංස්කරණයට අනුව සම්පූර්ණ ආරක්ෂිත පාඨයේ පරිවර්තනයක් සහ කෙටි පැහැදිලි කිරීමක් දක්වා ඇත. දේශීය භාෂා ලිපිවල පරිවර්තනය එම භාෂාවෙන්ම සකස් කර ඇත. හානි වූ කොටස් ඓතිහාසික සංස්කරණය අනුව සලකුණු කර ඇත. ග්‍රීක සහ ඇරමයික පිටු එහි උපුටා දක්වා ඇති වෙනම පර්යේෂණාත්මක සංස්කරණ අනුගමනය කරයි.
 
 ප්‍රධාන ගිරි ලිපි දහහතර සහ ප්‍රධාන කුළුණු ලිපි හත නූතන පර්යේෂණවලදී අංකනය කර ඇත. වෙනම කාලිංග සෙල්ලිපි (ධවුලි සහ ජෞගඩා), සුළු ගිරි සහ කුළුණු ලිපි මෙන්ම බරාබර් ලෙන් ලිපි ද පොදු නම්වලින් දක්වා ඇත. යම් පිටුවක රූපයේ එකම ගලෙහි හෝ මතුපිට ඇති යාබද පාඨ ද දැකිය හැකිය.
+
+<figure class="article-figure inscription-plate">
+  <picture>
+    <source srcset="assets/media/images/ashoka-plate-1405674260.webp" type="image/webp" />
+    <img src="/assets/media/images/ashoka-plate-1405674260.jpg" alt="ඉයුජින් හුල්ට්ෂ්ගේ 1925 සංස්කරණයේ ප්‍රතිනිෂ්පාදනය කරන ලද දිල්ලි–ටොප්රා කුළුණේ අශෝකගේ හත්වන ප්‍රධාන කුළුණු ලිපියේ බ්‍රාහ්මී අක්ෂරවල අනුරුවක්." loading="lazy" decoding="async" />
+  </picture>
+  <figcaption>
+    <strong>අභිරහස පිටුපස ඇති පණිවිඩය.</strong> දිල්ලි–ටොප්රා කුළුණේ හත්වන ප්‍රධාන කුළුණු ලිපියේ අනුරුවක්. එහි පුරාණ බ්‍රාහ්මී අක්ෂර දහනවවන සියවසේ අභිලේඛන අධ්‍යයනය තුළින් කියවිය හැකි විය.
+    <span class="figure-credit">අනුරුව: E. Hultzsch, සංස්කාරක, Inscriptions of Asoka, 1925 · පොදු වසම. ඔස්ලෝ විශ්වවිද්‍යාලයේ Bibliotheca Polyglotta හරහා ප්‍රතිනිෂ්පාදිතයි; මෙම වෙබ් අඩවිය සඳහා ප්‍රමාණය වෙනස් කර JPEG බවට පත් කරන ලදී, WebP පිටපතක් ද සහිතයි.</span>
+  </figcaption>
+</figure>
 
 ## සෙල්ලිපි කියවිය යුතු ආකාරය
 
@@ -30,3 +41,7 @@ sourceHash: 495ce4b08b5582d84faa3fad8135db60c89cbd1db8a1d210512713d79ad89a9d
 - ඊ. හුල්ට්ෂ්, [*Inscriptions of Asoka* (1925)](https://archive.org/details/InscriptionsOfAsoka.NewEditionByE.Hultzsch), *Corpus Inscriptionum Indicarum*, පළමුවන වෙළුම.
 - ඔස්ලෝ විශ්වවිද්‍යාලය, [Bibliotheca Polyglotta Ashoka Library](https://www2.hf.uio.no/polyglotta/index.php?bid=14&page=library), හුල්ට්ෂ්ගේ පාඨ සහ පරිවර්තන මත පදනම්ව.
 - හැරී ෆෝල්ක්, [*Aśokan Sites and Artefacts* (2006)](https://dokumen.pub/aokan-sites-and-artefacts-1nbsped-3805337124.html), පිටු 241–253 (ග්‍රීක සහ ඇරමයික අභිලේඛන සහ සම්බන්ධතා පිළිබඳ ප්‍රශ්න).
+
+### රූප හිමිකම්
+
+- **හත්වන කුළුණු ලිපියේ අනුරුව:** E. Hultzsch, සංස්කාරක, *Inscriptions of Asoka* (1925), පොදු වසම; සංස්කාරක 1927 දී මිය ගියේය. [මුල් ඩිජිටල් රූපය, Bibliotheca Polyglotta, University of Oslo](https://www2.hf.uio.no/polyglotta/public/media/img_to_txt/1405674260.png); [මූලාශ්‍ර ප්‍රකාශනය](https://archive.org/details/InscriptionsOfAsoka.NewEditionByE.Hultzsch). දේශීය අඩවි පිටපත උපරිම පික්සල 2200 දක්වා ප්‍රමාණය වෙනස් කර JPEG බවට පරිවර්තනය කරන ලද අතර, ප්‍රශස්ත WebP පිටපතක් ද ඇත.

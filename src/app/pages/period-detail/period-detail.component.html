@@ -10,6 +10,8 @@
     <p>The period, polity, theme, or personality you’re looking for doesn’t exist (yet). Try the overview on the home page.</p>
     <a [routerLink]="backRoute()" [fragment]="backFragment() || undefined" [queryParams]="{lang: locale.language}" class="btn btn-primary">{{ backText() }}</a>
   </div>
+} @else if (isPersonality() && personality()) {
+  <app-personality-profile [personality]="personality()!" [articles]="articles()" />
 } @else if (period() || polity() || theme() || personality()) {
   @let isPol = isPolity();
   @let isTh = isTheme();

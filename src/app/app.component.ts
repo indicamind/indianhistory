@@ -40,6 +40,7 @@ export class AppComponent implements AfterViewInit {
   private lastPlacementUrl: string | null = null;
   private placementVersion = 0;
   readonly menuOpen = signal(false);
+  readonly isPersonalityPage = signal(false);
   readonly highlightedBook = signal<RecommendedBook | null>(null);
   private readonly storyBookIsbns = signal<string[]>([]);
   readonly displayedBook = computed(() => {
@@ -96,6 +97,7 @@ export class AppComponent implements AfterViewInit {
     const version = ++this.placementVersion;
     const rawPath = url.split('?')[0].split('#')[0];
     const path = contentPath(rawPath)?.path ?? rawPath;
+    this.isPersonalityPage.set(/^\/personality\/[^/]+$/.test(path));
     this.isBookLibrary.set(path === '/books');
     let storyRecommendations: string[] = [];
     let articleBook: RecommendedBook | null = null;

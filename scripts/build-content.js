@@ -7,6 +7,7 @@ const { collectSiteStrings } = require('./check-translations');
 const { SNAPSHOT_FILE, validateSnapshot } = require('./fetch-view-counts');
 const { REACTIONS_FILE, validateReactions } = require('./fetch-article-reactions');
 const { articleBookInsertionOffsets } = require('./article-book-placement');
+const { writeProfiles, writeProfileDrafts } = require('./build-personality-profiles');
 const viewCounts = validateSnapshot(JSON.parse(fs.readFileSync(SNAPSHOT_FILE, 'utf8'))).counts;
 const reactions = validateReactions(JSON.parse(fs.readFileSync(REACTIONS_FILE, 'utf8'))).reactions;
 
@@ -161,6 +162,7 @@ function writeLocalizedContent(articles, blogs) {
     }
     fs.copyFileSync(siteFile, path.join(directory, 'site.json'));
     writeStories(directory, localizedArticles);
+    writeProfiles(ROOT, directory, articles, localizedArticles, JSON.parse(fs.readFileSync(siteFile, 'utf8')), language);
     writeBlogs(directory, localizedBlogs);
     fs.writeFileSync(path.join(directory, 'search-index.json'), JSON.stringify(localizedArticles.map(article => ({
       title: article.title,
@@ -185,6 +187,7 @@ function buildArticles(directory = CONTENT_DIR) {
     const filePath = path.join(directory, file);
     const raw = fs.readFileSync(filePath, 'utf8');
     const { data, content } = matter(raw);
+    if (data.personalityStoryFor) return null;
     const slug = data.slug || path.basename(file, '.md');
     if (!/^[a-z0-9]+(?:-[a-z0-9]+)*$/.test(slug)) throw new Error(`Invalid article slug: ${slug}`);
     const publishedAt = data.publishedAt || new Date().toISOString();
@@ -215,7 +218,7 @@ function buildArticles(directory = CONTENT_DIR) {
       previewOnly: data.previewOnly === true,
       ...(typeof data.shareImage === 'string' ? { shareImage: data.shareImage } : {}),
     };
-  });
+  }).filter(Boolean);
 
   articles.sort(
     (a, b) =>
@@ -241,6 +244,8 @@ function build() {
   }));
 
   writeStories(OUT_DIR, articles);
+  writeProfiles(ROOT, OUT_DIR, articles, articles);
+  writeProfileDrafts(ROOT, OUT_DIR, articles);
   fs.writeFileSync(
     path.join(OUT_DIR, 'search-index.json'),
     JSON.stringify(searchIndex, null, 2)

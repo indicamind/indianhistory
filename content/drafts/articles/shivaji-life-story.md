@@ -7,198 +7,458 @@ chapters:
   - id: shivaji-birth-shivneri
     date: 19 February 1630 · Shivneri fort
     articles: []
+    image:
+      file: shivaji-birthplace.jpg
+      alt: "Shivaji’s birthplace at Shivneri—a present-day view."
+      caption: "Shivaji’s birthplace at Shivneri—a present-day view."
   - id: shivaji-parents-shahaji-jijabai
     date: Origins · Deccan politics
     articles: []
+    image:
+      file: shivaji-shahaji-jejuri.jpg
+      alt: "Shahaji and Shivaji at Jejuri—a later illustration."
+      caption: "Shahaji and Shivaji at Jejuri—a later illustration."
   - id: shivaji-deccan-famine-1630
     date: 1630–1632 · The great famine
     articles: []
+    image:
+      file: shivaji-campaigns-map.jpg
+      alt: "The Deccan and places associated with Shivaji—a later historical map."
+      caption: "The Deccan and places associated with Shivaji—a later historical map."
   - id: shivaji-childhood-in-pune
     date: Childhood · The Pune jagir
     articles: []
+    image:
+      file: shivaji-lal-mahal.jpg
+      alt: "The reconstructed Lal Mahal in Pune today."
+      caption: "The reconstructed Lal Mahal in Pune today."
   - id: shivaji-golden-plow-pune
     date: Restoration · Breaking the curse
     articles: []
+    image:
+      file: shivaji-jijabai-shivaji.jpg
+      alt: "A modern monument to Jijabai and the young Shivaji."
+      caption: "A modern monument to Jijabai and the young Shivaji."
   - id: shivaji-dadoji-konddeo
     date: Youth · Mentorship and law
     articles: []
+    image:
+      file: shivaji-shahaji-jejuri.jpg
+      alt: "Shahaji and Shivaji at Jejuri—a later illustration."
+      caption: "Shahaji and Shivaji at Jejuri—a later illustration."
   - id: shivaji-mavala-comrades
     date: Sahyadri highlands · Hill comrades
     articles: []
+    image:
+      file: shivaji-sahyadri.jpg
+      alt: "The Sahyadri landscape near Bhimashankar today."
+      caption: "The Sahyadri landscape near Bhimashankar today."
   - id: shivaji-oath-of-swarajya
     date: c. 1645 · Rohideshwar temple
     articles: []
+    image:
+      file: shivaji-raireshwar.jpg
+      alt: "Raireshwar temple—a present-day view."
+      caption: "Raireshwar temple—a present-day view."
   - id: shivaji-capture-of-torna
     date: c. 1646 · The first fortress
     articles: []
+    image:
+      file: shivaji-torna-conqueror.jpg
+      alt: "Shivaji as the conqueror of Torna—a later illustration."
+      caption: "Shivaji as the conqueror of Torna—a later illustration."
   - id: shivaji-prachandagad-treasure
     date: Torna renovations · Discovered gold
     articles: []
+    image:
+      file: shivaji-torna-walls.jpg
+      alt: "The surviving walls of Torna fort."
+      caption: "The surviving walls of Torna fort."
   - id: shivaji-building-rajgad
     date: Murumbdev ridge · A new capital
     articles: []
+    image:
+      file: shivaji-rajgad.jpg
+      alt: "Rajgad’s mountain stronghold today."
+      caption: "Rajgad’s mountain stronghold today."
   - id: shivaji-chakan-and-kondana
     date: Early campaigns · Securing Pune
     articles: []
+    image:
+      file: shivaji-chakan.jpg
+      alt: "The remains of Sangram Durg at Chakan today."
+      caption: "The remains of Sangram Durg at Chakan today."
   - id: shivaji-capture-of-purandar
     date: Mountain gateway · Purandar fort
     articles: []
+    image:
+      file: shivaji-purandar.jpg
+      alt: "Purandar fort and its mountain setting today."
+      caption: "Purandar fort and its mountain setting today."
   - id: shivaji-arrest-of-shahaji
     date: 1648 · Father held hostage
     articles: []
+    image:
+      file: shivaji-shahaji-jejuri.jpg
+      alt: "Shahaji and Shivaji at Jejuri—a later illustration."
+      caption: "Shahaji and Shivaji at Jejuri—a later illustration."
   - id: shivaji-diplomacy-shah-jahan
     date: 1649 · Imperial intervention
     articles: []
+    image:
+      file: shivaji-shah-jahan.jpg
+      alt: "A seventeenth-century portrait of Emperor Shah Jahan."
+      caption: "A seventeenth-century portrait of Emperor Shah Jahan."
   - id: shivaji-conquest-of-javli
     date: 1656 · Defeating the Mores
     articles: []
+    image:
+      file: shivaji-campaigns-map.jpg
+      alt: "Places associated with Shivaji’s campaigns—a later historical map."
+      caption: "Places associated with Shivaji’s campaigns—a later historical map."
   - id: shivaji-building-pratapgad
     date: 1656 · Sentinel of the Ghats
     articles: []
+    image:
+      file: shivaji-pratapgad.jpg
+      alt: "Pratapgad fort—a present-day view."
+      caption: "Pratapgad fort—a present-day view."
   - id: shivaji-first-mughal-raids
     date: 1657 · Ahmednagar and Junnar
     articles: []
+    image:
+      file: shivaji-campaigns-map.jpg
+      alt: "Places associated with Shivaji’s campaigns—a later historical map."
+      caption: "Places associated with Shivaji’s campaigns—a later historical map."
   - id: shivaji-early-shipyards-kalyan
     date: Late 1650s · Kalyan and Bhiwandi
     articles: []
+    image:
+      file: shivaji-naval-scroll.jpg
+      alt: "Maratha warships in a seventeenth- or eighteenth-century painted scroll."
+      caption: "Maratha warships in a seventeenth- or eighteenth-century painted scroll."
   - id: shivaji-afzal-khan-march
     date: 1659 · Bijapur army marches
     articles: []
+    image:
+      file: shivaji-afzal-khan.jpg
+      alt: "A historical portrait of Afzal Khan of Bijapur."
+      caption: "A historical portrait of Afzal Khan of Bijapur."
   - id: shivaji-desecration-of-shrines
     date: 1659 · Shrines of Maharashtra
     articles: []
+    image:
+      file: shivaji-tuljapur.jpg
+      alt: "Tulja Bhavani temple at Tuljapur today."
+      caption: "Tulja Bhavani temple at Tuljapur today."
   - id: shivaji-retreat-to-pratapgad
     date: Autumn 1659 · The dense forests
     articles: []
+    image:
+      file: shivaji-pratapgad-monsoon.jpg
+      alt: "Pratapgad in the rainy season today."
+      caption: "Pratapgad in the rainy season today."
   - id: shivaji-envoy-negotiations
     date: October 1659 · Summit arranged
     articles: []
+    image:
+      file: shivaji-afzal-campaign-map.jpg
+      alt: "Afzal Khan’s campaign—a later historical map."
+      caption: "Afzal Khan’s campaign—a later historical map."
   - id: shivaji-preparing-body-armor
     date: November 1659 · Concealed chainmail
     articles: []
+    image:
+      file: shivaji-armour.jpg
+      alt: "Armour traditionally associated with Shivaji, in a historical plate."
+      caption: "Armour traditionally associated with Shivaji, in a historical plate."
   - id: shivaji-pratapgad-summit
     date: 10 November 1659 · Pavilion at Pratapgad
     articles: []
+    image:
+      file: shivaji-afzal-encounter.jpg
+      alt: "The encounter with Afzal Khan, as imagined by A. H. Muller."
+      caption: "The encounter with Afzal Khan, as imagined by A. H. Muller."
   - id: shivaji-bagh-nakh-retaliation
     date: 10 November 1659 · Slaying the general
     articles: []
+    image:
+      file: shivaji-tiger-claws.jpg
+      alt: "A bagh nakh, or tiger-claw weapon, in a historical plate."
+      caption: "A bagh nakh, or tiger-claw weapon, in a historical plate."
   - id: shivaji-battle-of-pratapgad
     date: 10 November 1659 · The forest ambush
     articles: []
+    image:
+      file: shivaji-afzal-campaign-map.jpg
+      alt: "Afzal Khan’s campaign—a later historical map."
+      caption: "Afzal Khan’s campaign—a later historical map."
   - id: shivaji-chivalry-to-captives
     date: Following the battle · Humane conduct
     articles: []
+    image:
+      file: shivaji-captive-liberation.jpg
+      alt: "A later painting of Shivaji freeing a captive woman."
+      caption: "A later painting of Shivaji freeing a captive woman."
   - id: shivaji-capture-of-panhala
     date: Late 1659 · Panhala and Vishalgad
     articles: []
+    image:
+      file: shivaji-panhala-historic.jpg
+      alt: "Panhala hill fort in a historical view."
+      caption: "Panhala hill fort in a historical view."
   - id: shivaji-siege-of-panhala
     date: 1660 · Siddi Jauhar’s cordon
     articles: []
+    image:
+      file: shivaji-panhala-rampart.jpg
+      alt: "Panhala’s outer ramparts today."
+      caption: "Panhala’s outer ramparts today."
   - id: shivaji-shiva-kashid-decoy
     date: July 1660 · The brave barber
     articles: []
+    image:
+      file: shivaji-shiva-kashid.jpg
+      alt: "The modern memorial statue of Shiva Kashid at Panhala."
+      caption: "The modern memorial statue of Shiva Kashid at Panhala."
   - id: shivaji-flight-through-monsoon
     date: July 1660 · Midnight breakout
     articles: []
+    image:
+      file: shivaji-panhala-retreat-map.jpg
+      alt: "The retreat from Panhala to Vishalgad—a later historical map."
+      caption: "The retreat from Panhala to Vishalgad—a later historical map."
   - id: shivaji-baji-prabhu-pavankhind
     date: July 1660 · The sacred pass
     articles: []
+    image:
+      file: shivaji-baji-prabhu.jpg
+      alt: "Shivaji and Baji Prabhu at Pavan Khind—a later painting."
+      caption: "Shivaji and Baji Prabhu at Pavan Khind—a later painting."
   - id: shivaji-cannon-from-vishalgad
     date: July 1660 · Safe arrival
     articles: []
+    image:
+      file: shivaji-vishalgad.jpg
+      alt: "Vishalgad fort—a present-day view."
+      caption: "Vishalgad fort—a present-day view."
   - id: shivaji-shaista-khan-pune
     date: 1660–1663 · Mughal occupation
     articles: []
+    image:
+      file: shivaji-shaista-khan.jpg
+      alt: "A historical portrait of Shaista Khan."
+      caption: "A historical portrait of Shaista Khan."
   - id: shivaji-firangoji-narsala
     date: 1660 · Defense of Chakan
     articles: []
+    image:
+      file: shivaji-chakan.jpg
+      alt: "The remains of Sangram Durg at Chakan today."
+      caption: "The remains of Sangram Durg at Chakan today."
   - id: shivaji-midnight-raid-shaista
     date: 5 April 1663 · Lal Mahal, Pune
     articles: []
+    image:
+      file: shivaji-shaista-raid.jpg
+      alt: "The raid on Shaista Khan, as imagined by M. V. Dhurandhar."
+      caption: "The raid on Shaista Khan, as imagined by M. V. Dhurandhar."
   - id: shivaji-first-sack-of-surat
     date: January 1664 · Plunder of Surat
     articles: []
+    image:
+      file: shivaji-surat-raid.jpg
+      alt: "The sack of Surat—a later historical illustration."
+      caption: "The sack of Surat—a later historical illustration."
   - id: shivaji-passing-of-shahaji
     date: 1664 · Loss of his father
     articles: []
+    image:
+      file: shivaji-shahaji-jejuri.jpg
+      alt: "Shahaji and Shivaji at Jejuri—a later illustration."
+      caption: "Shahaji and Shivaji at Jejuri—a later illustration."
   - id: shivaji-sindhudurg-sea-fort
     date: 1664 · Kurte island at Malvan
     articles: []
+    image:
+      file: shivaji-sindhudurg.jpg
+      alt: "The entrance to Sindhudurg sea fort today."
+      caption: "The entrance to Sindhudurg sea fort today."
   - id: shivaji-founding-maratha-navy
     date: 1660s · Darya Sarang’s fleet
     articles: []
+    image:
+      file: shivaji-naval-scroll.jpg
+      alt: "Maratha warships in a seventeenth- or eighteenth-century painted scroll."
+      caption: "Maratha warships in a seventeenth- or eighteenth-century painted scroll."
   - id: shivaji-arrival-jai-singh
     date: 1665 · Rajput general marches
     articles: []
+    image:
+      file: shivaji-jai-singh.jpg
+      alt: "A historical portrait of Mirza Raja Jai Singh I."
+      caption: "A historical portrait of Mirza Raja Jai Singh I."
   - id: shivaji-murarbaji-at-purandar
     date: 1665 · Heroic stand at Purandar
     articles: []
+    image:
+      file: shivaji-murarbaji.jpg
+      alt: "A modern memorial to Murarbaji Deshpande."
+      caption: "A modern memorial to Murarbaji Deshpande."
   - id: shivaji-treaty-of-purandar
     date: June 1665 · Twenty-three forts ceded
     articles: []
+    image:
+      file: shivaji-purandar-treaty.jpg
+      alt: "Shivaji and Jai Singh at Purandar—a later painting."
+      caption: "Shivaji and Jai Singh at Purandar—a later painting."
   - id: shivaji-journey-to-agra
     date: May 1666 · Riding to the Mughal court
     articles: []
+    image:
+      file: shivaji-agra-entry.jpg
+      alt: "Shivaji’s entry into Agra—a later painting."
+      caption: "Shivaji’s entry into Agra—a later painting."
   - id: shivaji-darbar-confrontation
     date: 12 May 1666 · The royal affront
     articles: []
+    image:
+      file: shivaji-agra-darbar.jpg
+      alt: "Shivaji at Aurangzeb’s darbar, as imagined by M. V. Dhurandhar."
+      caption: "Shivaji at Aurangzeb’s darbar, as imagined by M. V. Dhurandhar."
   - id: shivaji-house-arrest-agra
     date: Summer 1666 · Guarded by Fulad Khan
     articles: []
+    image:
+      file: shivaji-agra-fort.jpg
+      alt: "The Diwan-i-Khas at Agra fort today."
+      caption: "The Diwan-i-Khas at Agra fort today."
   - id: shivaji-escape-in-baskets
     date: 17 August 1666 · Concealed in sweet baskets
     articles: []
+    image:
+      file: shivaji-campaigns-map.jpg
+      alt: "Places associated with Shivaji’s life and campaigns—a later historical map."
+      caption: "Places associated with Shivaji’s life and campaigns—a later historical map."
   - id: shivaji-disguised-as-ascetic
     date: Autumn 1666 · Pilgrimage disguised
     articles: []
+    image:
+      file: shivaji-on-march.jpg
+      alt: "Shivaji on the march—a later illustration."
+      caption: "Shivaji on the march—a later illustration."
   - id: shivaji-return-to-rajgad
     date: November 1666 · Reunion in Maharashtra
     articles: []
+    image:
+      file: shivaji-rajgad-seat.jpg
+      alt: "Shivaji’s seat at Rajgad, in a historical photograph."
+      caption: "Shivaji’s seat at Rajgad, in a historical photograph."
   - id: shivaji-recovering-the-forts
     date: 1670 · Sahyadri counteroffensive
     articles: []
+    image:
+      file: shivaji-kingdom-map.jpg
+      alt: "Shivaji’s kingdom in 1680—a later historical map."
+      caption: "Shivaji’s kingdom in 1680—a later historical map."
   - id: shivaji-tanaji-sinhagad
     date: February 1670 · Scaling the cliffs
     articles: []
+    image:
+      file: shivaji-tanaji-statue.jpg
+      alt: "A modern statue of Tanaji Malusare at Sinhagad."
+      caption: "A modern statue of Tanaji Malusare at Sinhagad."
   - id: shivaji-martyrdom-of-tanaji
     date: February 1670 · The lion is lost
     articles: []
+    image:
+      file: shivaji-tanaji-memorial.jpg
+      alt: "Tanaji Malusare’s memorial at Sinhagad today."
+      caption: "Tanaji Malusare’s memorial at Sinhagad today."
   - id: shivaji-second-raid-surat
     date: October 1670 · Second strike on Surat
     articles: []
+    image:
+      file: shivaji-surat-loot.jpg
+      alt: "Dispatching the spoils of Surat—a later illustration."
+      caption: "Dispatching the spoils of Surat—a later illustration."
   - id: shivaji-battle-of-dindori
     date: October 1670 · Open-field triumph
     articles: []
+    image:
+      file: shivaji-dindori.jpg
+      alt: "Shivaji at Vani–Dindori—a later sculptural depiction."
+      caption: "Shivaji at Vani–Dindori—a later sculptural depiction."
   - id: shivaji-fort-doctrine-ajnapatra
     date: 1670s · Three hundred fortresses
     articles: []
+    image:
+      file: shivaji-torna-engraving.jpg
+      alt: "Torna’s mountain defences in an 1883 illustration."
+      caption: "Torna’s mountain defences in an 1883 illustration."
   - id: shivaji-coronation-raigad
     date: 6 June 1674 · Crowned Chhatrapati
     articles: []
+    image:
+      file: shivaji-coronation.jpg
+      alt: "The coronation of Shivaji—a Chitrashala Press print from the early 1900s."
+      caption: "The coronation of Shivaji—a Chitrashala Press print from the early 1900s."
   - id: shivaji-passing-of-jijabai
     date: June 1674 · Mother’s fulfillment
     articles: []
+    image:
+      file: shivaji-jijabai-memorial.jpg
+      alt: "Jijabai’s memorial at Pachad today."
+      caption: "Jijabai’s memorial at Pachad today."
   - id: shivaji-ashtapradhan-cabinet
     date: 1674 · Council of eight ministers
     articles: []
+    image:
+      file: shivaji-coronation-durbar.jpg
+      alt: "The coronation durbar, as imagined by M. V. Dhurandhar."
+      caption: "The coronation durbar, as imagined by M. V. Dhurandhar."
   - id: shivaji-revenue-and-peasants
     date: Administration · Measured land survey
     articles: []
+    image:
+      file: shivaji-copper-coins.jpg
+      alt: "Copper coins of Shivaji, in a historical plate."
+      caption: "Copper coins of Shivaji, in a historical plate."
   - id: shivaji-code-of-warfare
     date: Warfare ethics · Respecting religion and women
     articles: []
+    image:
+      file: shivaji-letter.jpg
+      alt: "A surviving letter of Shivaji, reproduced in a historical plate."
+      caption: "A surviving letter of Shivaji, reproduced in a historical plate."
   - id: shivaji-dakshin-digvijay
     date: 1676–1678 · Karnataka and Gingee
     articles: []
+    image:
+      file: shivaji-gingee-march-map.jpg
+      alt: "The march to Gingee (Jinji)—a later historical map."
+      caption: "The march to Gingee (Jinji)—a later historical map."
   - id: shivaji-gingee-bastion
     date: 1678 · Strategic southern citadel
     articles: []
+    image:
+      file: shivaji-gingee.jpg
+      alt: "Gingee’s hill fortifications today."
+      caption: "Gingee’s hill fortifications today."
   - id: shivaji-passing-at-raigad
     date: 3 April 1680 · Raigad mountain capital
     articles: []
+    image:
+      file: shivaji-samadhi.jpg
+      alt: "Shivaji’s memorial at Raigad, in a historical photograph."
+      caption: "Shivaji’s memorial at Raigad, in a historical photograph."
   - id: shivaji-enduring-legacy
     date: After 1680 · Twenty-seven-year resistance
     articles: []
+    image:
+      file: shivaji-royal-seal.jpg
+      alt: "A reproduction of Shivaji’s royal seal."
+      caption: "A reproduction of Shivaji’s royal seal."
 excerpt: >-
   Follow Chhatrapati Shivaji Maharaj through sixty-five pivotal moments, from
   his birth at Shivneri and oath of Swarajya to daring escapes, naval

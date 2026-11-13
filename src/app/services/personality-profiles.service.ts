@@ -4,10 +4,16 @@ import { firstValueFrom } from 'rxjs';
 import { LocaleService } from '../i18n/locale.service';
 import { DevModeService } from './dev-mode.service';
 
+export interface PersonalityChapterImage {
+  src: string; alt: string; caption: string; author: string; license: string;
+  width?: number; height?: number;
+}
+
 export interface PersonalityLifeStory {
   title: string;
   introHtml: string;
-  chapters: { id: string; date: string; title: string; html: string; articles: { slug: string; title: string }[] }[];
+  chapters: { id: string; date: string; title: string; html: string; articles: { slug: string; title: string }[]; image?: PersonalityChapterImage }[];
+  imageCredits?: { file: string; caption: string; author: string; license: string; sourceUrl: string; licenseUrl?: string; modifications?: string }[];
   sourcesHtml: string;
   draft?: boolean;
   preview?: boolean;
@@ -27,7 +33,7 @@ export interface PersonalityProfile {
   events: PersonalityMilestone[];
   paragraphs?: string[];
   article?: { slug: string; title: string };
-  image?: { src: string; alt: string; credit: string; landscape: boolean; kind: string; author: string; license: string; sourceUrl: string; licenseUrl?: string };
+  image?: { src: string; alt: string; credit: string; landscape: boolean; kind: string; author: string; license: string; sourceUrl: string; licenseUrl?: string; framedPortrait?: boolean };
   sources: { author: string; url: string }[];
   story?: PersonalityLifeStory;
 }

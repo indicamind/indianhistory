@@ -38,6 +38,7 @@ const DYNAMIC_COPY = [
   'Translated by AI.',
   'Article navigation', 'Next article', 'Previous article', 'Explore related topics',
   'Life timeline', 'Biography', 'Read in context', 'Sources', 'Image credits',
+  'View image', 'Close image', 'Resized; uncropped.',
   'Selected milestones. Approximate dates are marked c.',
   'Later artwork', 'Historic site', 'Public domain', 'c.', 'BCE', 'CE',
 ];
@@ -86,6 +87,10 @@ function collectSiteStrings() {
   }
   const profiles = JSON.parse(fs.readFileSync(path.join(ROOT, 'content/data/personality-profiles.json'), 'utf8'));
   for (const profile of Object.values(profiles)) {
+    if (profile.portrait) {
+      STRINGS.add(profile.portrait.alt);
+      STRINGS.add(profile.portrait.kind);
+    }
     for (const event of profile.events) {
       STRINGS.add(event.title);
       if (event.date) STRINGS.add(event.date);

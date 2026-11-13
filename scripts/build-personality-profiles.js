@@ -4,6 +4,7 @@ const assert = require('assert');
 const matter = require('gray-matter');
 const { marked } = require('marked');
 const { readSources, readTranslation, releaseStatus, compileStory, translationProblems } = require('./personality-life-translations');
+const { withStoryImages } = require('./personality-story-images');
 
 function text(html) {
   const entities = { amp: '&', lt: '<', gt: '>', quot: '"', apos: "'", nbsp: ' ' };
@@ -74,8 +75,24 @@ function buildProfiles(root, english, localized, copy = {}, language = 'en') {
         license: /public domain/i.test(record.license) ? translate('Public domain') : record.license,
         sourceUrl: record.sourcePageUrl, licenseUrl: record.licenseUrl };
     }
+    if (definition.portrait) {
+      const portrait = definition.portrait;
+      assert(!definition.image, `${slug}: choose one profile image`);
+      assert(/^[a-z0-9-]+\.(jpg|png)$/.test(portrait.file), `${slug}: portrait must be a local image`);
+      assert(fs.existsSync(path.join(root, 'content/media/images', portrait.file)), `${slug}: missing portrait`);
+      const record = JSON.parse(fs.readFileSync(path.join(root, 'content/media/images', portrait.file.replace(/\.[^.]+$/, '.license.json')), 'utf8'));
+      assert(record.author && record.license && /^https:\/\//.test(record.sourcePageUrl), `${slug}: portrait requires attribution and license`);
+      assert(portrait.alt && portrait.kind && (language === 'en' || (copy[portrait.alt] && copy[portrait.kind])), `${slug}: portrait needs translated alt text and artwork label`);
+      const license = /public domain/i.test(record.license) ? translate('Public domain') : record.license;
+      profile.image = { src: 'assets/media/images/' + portrait.file, alt: translate(portrait.alt),
+        kind: translate(portrait.kind), credit: record.author + ' · ' + license, framedPortrait: true,
+        landscape: false, author: record.author, license, sourceUrl: record.sourcePageUrl, licenseUrl: record.licenseUrl };
+    }
     const story = stories.find(source => source.data.personalityStoryFor === slug);
-    if (story) profile.story = compileStory(language === 'en' ? story : readTranslation(root, story, language), localized);
+    if (story) {
+      const source = language === 'en' ? story : readTranslation(root, story, language);
+      profile.story = withStoryImages(root, compileStory(source, localized), source.data);
+    }
     return [slug, profile];
   }));
 }
@@ -87,7 +104,7 @@ function writeProfiles(root, output, english, localized, copy, language) {
     for (const source of readSources(root)) {
       const translation = readTranslation(root, source, language);
       if (!releaseStatus(root, source).ready && !translationProblems(source, translation).length) {
-        previews[source.data.personalityStoryFor] = compileStory(translation, localized, { preview: true });
+        previews[source.data.personalityStoryFor] = withStoryImages(root, compileStory(translation, localized, { preview: true }), translation.data);
       }
     }
     fs.writeFileSync(path.join(output, 'personality-story-drafts.json'), JSON.stringify(previews));
@@ -99,7 +116,7 @@ function writeProfileDrafts(root, output, articles) {
   const drafts = {};
   for (const source of readSources(root)) {
     if (!releaseStatus(root, source).ready) {
-      drafts[source.data.personalityStoryFor] = compileStory(source, articles, { preview: true });
+      drafts[source.data.personalityStoryFor] = withStoryImages(root, compileStory(source, articles, { preview: true }), source.data);
     }
   }
   for (const file of fs.existsSync(directory) ? fs.readdirSync(directory).filter(f => f.endsWith('.md')) : []) {
@@ -137,7 +154,7 @@ function writeProfileDrafts(root, output, articles) {
     assert.equal(chapters.length, data.chapters.length, `${slug}: chapter metadata differs from draft`);
     assert(sourcesHtml, `${slug}: life story requires Sources`);
     assert(![introHtml, ...chapters.map(c => c.html)].some(html => /href="https?:/i.test(html)), `${slug}: external links belong in Sources`);
-    drafts[slug] = { title: data.title, introHtml, chapters, sourcesHtml, draft: true };
+    drafts[slug] = withStoryImages(root, { title: data.title, introHtml, chapters, sourcesHtml, draft: true }, data);
   }
   fs.writeFileSync(path.join(output, 'personality-story-drafts.json'), JSON.stringify(drafts));
   console.log(`Built ${Object.keys(drafts).length} English personality story review preview(s) for dev mode`);

@@ -1,5 +1,5 @@
 <div class="personality-page">
-  <header class="profile-hero" [class.trail-hero]="!!profile()?.story">
+  <header class="profile-hero" [class.trail-hero]="!!profile()?.story" [class.portrait-hero]="!!profile()?.image?.framedPortrait">
     <div class="hero-copy">
       <p class="eyebrow"><span class="eyebrow-line" aria-hidden="true"></span>{{ locale.translate('Personality') }}</p>
       <h1>{{ personality.name }}</h1>
@@ -29,13 +29,19 @@
       <ol class="life-bubbles">
         @for (chapter of story.chapters; track chapter.id) {
           @let dateParts = (chapter.date || '').split(' · ');
-          <li class="life-bubble" [id]="chapter.id" [attr.aria-labelledby]="chapter.id + '-heading'">
+          <li class="life-bubble" [class.illustrated-bubble]="!!chapter.image" [id]="chapter.id" [attr.aria-labelledby]="chapter.id + '-heading'">
             @if (dateParts[0]) { <p class="bubble-date">{{ dateParts[0] }}</p> }
             <span class="bubble-node" aria-hidden="true"></span>
             <header class="bubble-heading">
               @if (dateParts.length > 1) { <p class="chapter-date">{{ dateParts.slice(1).join(' · ') }}</p> }
               <h3 [id]="chapter.id + '-heading'">{{ chapter.title }}</h3>
             </header>
+            @if (chapter.image; as image) {
+              <figure class="bubble-figure">
+                <button class="bubble-image-frame" type="button" [attr.aria-label]="locale.translate('View image') + ': ' + image.caption" (click)="openImage(image, storyImageDialog)"><picture><source [srcset]="webp(image.src)" type="image/webp" /><img [src]="image.src" [alt]="image.alt" [attr.width]="image.width" [attr.height]="image.height" loading="lazy" decoding="async" /></picture></button>
+                <figcaption><span class="bubble-image-caption">{{ image.caption }}</span><span class="bubble-image-credit">{{ image.author }} · {{ image.license === 'Public domain' ? locale.translate('Public domain') : image.license }}</span></figcaption>
+              </figure>
+            }
             <article class="bubble-card" [attr.aria-labelledby]="chapter.id + '-heading'">
               <div class="chapter-prose" [innerHTML]="chapter.html"></div>
               @if (chapter.articles.length) {
@@ -47,8 +53,25 @@
           </li>
         }
       </ol>
-      <details id="life-sources" class="life-story-sources"><summary>{{ locale.translate('Sources') }}</summary><div class="chapter-prose" [innerHTML]="story.sourcesHtml"></div></details>
+      <details id="life-sources" class="life-story-sources"><summary>{{ locale.translate('Sources') }}</summary><div class="chapter-prose" [innerHTML]="story.sourcesHtml"></div>
+        @if (story.imageCredits?.length || profile()?.image) {
+          <div class="chapter-prose story-image-credits"><h3>{{ locale.translate('Image credits') }}</h3><ol>
+            @if (profile()?.image; as image) {
+              <li>@if (locale.offline) { {{ image.alt }} } @else { <a [href]="image.sourceUrl" target="_blank" rel="noopener noreferrer">{{ image.alt }}</a> } · {{ image.author }} · @if (!locale.offline && image.licenseUrl) { <a [href]="image.licenseUrl" target="_blank" rel="noopener noreferrer">{{ image.license }}</a> } @else { {{ image.license }} }</li>
+            }
+            @for (credit of story.imageCredits || []; track credit.file) {
+              <li>@if (locale.offline) { {{ credit.caption }} } @else { <a [href]="credit.sourceUrl" target="_blank" rel="noopener noreferrer">{{ credit.caption }}</a> } · {{ credit.author }} · @if (!locale.offline && credit.licenseUrl) { <a [href]="credit.licenseUrl" target="_blank" rel="noopener noreferrer">{{ credit.license }}</a> } @else { {{ credit.license === 'Public domain' ? locale.translate('Public domain') : credit.license }} } @if (credit.modifications) { · {{ locale.translate(credit.modifications) }} }</li>
+            }
+          </ol></div>
+        }
+      </details>
     </section>
+    <dialog #storyImageDialog class="story-image-dialog" aria-labelledby="story-image-caption" (click)="$event.target === storyImageDialog && storyImageDialog.close()" (close)="selectedImage.set(null)">
+      <button class="image-dialog-close" type="button" [attr.aria-label]="locale.translate('Close image')" (click)="storyImageDialog.close()">×</button>
+      @if (selectedImage(); as image) {
+        <figure><picture><source [srcset]="webp(image.src)" type="image/webp" /><img [src]="image.src" [alt]="image.alt" [attr.width]="image.width" [attr.height]="image.height" /></picture><figcaption id="story-image-caption"><span>{{ image.caption }}</span><span class="bubble-image-credit">{{ image.author }} · {{ image.license === 'Public domain' ? locale.translate('Public domain') : image.license }}</span></figcaption></figure>
+      }
+    </dialog>
   } @else {
     <section id="life-timeline" class="profile-section life-section" aria-labelledby="life-title">
       <div class="section-intro"><h2 id="life-title">{{ locale.translate('Life timeline') }}</h2><p class="section-note">{{ locale.translate('Selected milestones. Approximate dates are marked c.') }}</p></div>

@@ -496,6 +496,11 @@
     }
   },
   "shivaji": {
+    "portrait": {
+      "file": "shivaji-ravi-varma-portrait.jpg",
+      "alt": "Shivaji on horseback with a drawn sword, in a painting by Raja Ravi Varma.",
+      "kind": "Later artwork"
+    },
     "events": [
       {
         "title": "Birth",

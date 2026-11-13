@@ -3,7 +3,7 @@ import { RouterLink } from '@angular/router';
 import { Personality } from '../../data/periods';
 import { ArticleSummary } from '../../models/article.model';
 import { LocaleService } from '../../i18n/locale.service';
-import { PersonalityMilestone, PersonalityProfile, PersonalityProfilesService } from '../../services/personality-profiles.service';
+import { PersonalityChapterImage, PersonalityMilestone, PersonalityProfile, PersonalityProfilesService } from '../../services/personality-profiles.service';
 import { articleRoute } from '../../utils/article-route';
 import { ArticleSectionLinksComponent } from '../article-section-links/article-section-links.component';
 import { localizeContentLinks } from '../../i18n/content-urls';
@@ -12,7 +12,7 @@ import { localizeContentLinks } from '../../i18n/content-urls';
   selector: 'app-personality-profile',
   imports: [RouterLink, ArticleSectionLinksComponent],
   templateUrl: './personality-profile.component.html',
-  styleUrls: ['./personality-profile.component.css', './personality-life-story.css'],
+  styleUrls: ['./personality-profile.component.css', './personality-life-story.css', './personality-story-images.css'],
 })
 export class PersonalityProfileComponent implements OnChanges {
   @Input({ required: true }) personality!: Personality;
@@ -22,6 +22,7 @@ export class PersonalityProfileComponent implements OnChanges {
   readonly profile = signal<PersonalityProfile | null>(null);
   readonly articleRoute = articleRoute;
   readonly showAll = signal(false);
+  readonly selectedImage = signal<PersonalityChapterImage | null>(null);
   private requestId = 0;
 
   async ngOnChanges(): Promise<void> {
@@ -53,4 +54,9 @@ export class PersonalityProfileComponent implements OnChanges {
   }
 
   webp(src: string): string { return src.replace(/\.(?:jpe?g|png)$/i, '.webp'); }
+
+  openImage(image: PersonalityChapterImage, dialog: HTMLDialogElement): void {
+    this.selectedImage.set(image);
+    dialog.showModal();
+  }
 }

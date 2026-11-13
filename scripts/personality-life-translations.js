@@ -55,6 +55,12 @@ function translationProblems(source, translation) {
       JSON.stringify(chapter.articles || []) !== JSON.stringify(english?.articles || []) ||
       JSON.stringify(chapter.date.match(/\d+/g) || []) !== JSON.stringify(english?.date.match(/\d+/g) || []);
   })) problems.push('chapter dates, identifiers or memberships changed');
+  if (local.some((chapter, index) => {
+    const image = original[index]?.image;
+    if (!image) return !!chapter.image;
+    return chapter.image?.file !== image.file || !chapter.image?.alt?.trim() || !chapter.image?.caption?.trim() ||
+      chapter.image.alt === image.alt || chapter.image.caption === image.caption;
+  })) problems.push('chapter images changed or lack translated alt text and captions');
   if (JSON.stringify(targets(source.content)) !== JSON.stringify(targets(translation.content))) problems.push('links or images changed');
   if (JSON.stringify(citations(source.content)) !== JSON.stringify(citations(translation.content))) problems.push('citations changed');
   const originalParagraphs = marked.lexer(source.content.trim()).filter(token => token.type === 'paragraph').map(token => token.text.trim());

@@ -39,6 +39,17 @@ describe('Personality life translations', () => {
   it('keeps missing translations incomplete', () => {
     expect(translationProblems(source, undefined)).toEqual(['missing']);
   });
+  it('requires the same chapter image with translated alt text and caption before release', () => {
+    const illustrated = {...source, data: {...source.data, chapters: [{...source.data.chapters[0],
+      image: {file: 'fort.jpg', alt: 'A hill fort', caption: 'The fort today'}}]}};
+    const local = translation();
+    local.data.chapterSourceHash = chapterSourceHash(illustrated);
+    expect(translationProblems(illustrated, local)).toContain('chapter images changed or lack translated alt text and captions');
+    local.data.chapters[0].image = {file: 'fort.jpg', alt: 'Une forteresse de montagne', caption: 'La forteresse aujourd’hui'};
+    expect(translationProblems(illustrated, local)).toEqual([]);
+    local.data.chapters[0].image.file = 'different-fort.jpg';
+    expect(translationProblems(illustrated, local)).toContain('chapter images changed or lack translated alt text and captions');
+  });
   it('releases a timeline only when every language passes, and closes the gate again after an English revision', () => {
     const root = fs.mkdtempSync(path.join(os.tmpdir(), 'personality-release-test-'));
     const original = {file: 'ruler-life-story.md', ...source};

@@ -6,6 +6,8 @@ The existing Ashoka prototype remains available separately. Counts vary with the
 
 | Personality | English preview | Manuscript |
 | --- | --- | --- |
+| Gautama Buddha | [Open timeline](http://127.0.0.1:4201/personality/gautama-buddha?dev=true&lang=en#life-timeline) | [English draft](articles/gautama-buddha-life-story.md) |
+| Mahavira | [Open timeline](http://127.0.0.1:4201/personality/mahavira?dev=true&lang=en#life-timeline) | [English draft](articles/mahavira-life-story.md) |
 | Akbar | [Open timeline](http://127.0.0.1:4201/personality/akbar?dev=true&lang=en#life-timeline) | [English draft](../articles/akbar-life-story.md) |
 | Amar Singh I | [Open timeline](http://127.0.0.1:4201/personality/amar-singh-i?dev=true&lang=en#life-timeline) | [English draft](../articles/amar-singh-i-life-story.md) |
 | Bindusara | [Open timeline](http://127.0.0.1:4201/personality/bindusara?dev=true&lang=en#life-timeline) | [English draft](../articles/bindusara-life-story.md) |
@@ -18,7 +20,10 @@ The existing Ashoka prototype remains available separately. Counts vary with the
 | Rana Kumbha | [Open timeline](http://127.0.0.1:4201/personality/rana-kumbha?dev=true&lang=en#life-timeline) | [English draft](../articles/rana-kumbha-life-story.md) |
 | Rana Sanga | [Open timeline](http://127.0.0.1:4201/personality/rana-sanga?dev=true&lang=en#life-timeline) | [English draft](../articles/rana-sanga-life-story.md) |
 | Rani Durgavati | [Open timeline](http://127.0.0.1:4201/personality/rani-durgavati?dev=true&lang=en#life-timeline) | [English draft](../articles/rani-durgavati-life-story.md) |
+| Shivaji | [Open timeline](http://127.0.0.1:4201/personality/shivaji?dev=true&lang=en#life-timeline) | [English draft](articles/shivaji-life-story.md) |
+| Tipu Sultan | [Open timeline](http://127.0.0.1:4201/personality/tipu-sultan?dev=true&lang=en#life-timeline) | [English draft](articles/tipu-sultan-life-story.md) |
 | Udai Singh II | [Open timeline](http://127.0.0.1:4201/personality/udai-singh-ii?dev=true&lang=en#life-timeline) | [English draft](../articles/udai-singh-ii-life-story.md) |
+| Mahatma Gandhi | [Open timeline](http://127.0.0.1:4201/personality/mahatma-gandhi?dev=true&lang=en#life-timeline) | [English draft](articles/mahatma-gandhi-life-story.md) |
 
 Each timeline includes sources and the applicable profile-image credit. Related article links are drawn from the existing article memberships, with a maximum of two links per bubble.
 

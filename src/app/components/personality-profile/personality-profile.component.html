@@ -23,6 +23,7 @@
 
   @if (profile()?.story; as story) {
     @if (story.draft) { <p class="story-draft-notice">{{ locale.translate('English draft · Awaiting approval') }}</p> }
+    @if (story.preview) { <p class="story-draft-notice">{{ locale.translate('Preview · Translations in progress') }}</p> }
     <section id="life-timeline" class="life-trail" aria-labelledby="life-title">
       <h2 id="life-title" class="life-timeline-title">{{ locale.translate('Life timeline') }}</h2>
       <ol class="life-bubbles">
@@ -39,7 +40,7 @@
               <div class="chapter-prose" [innerHTML]="chapter.html"></div>
               @if (chapter.articles.length) {
                 <div class="chapter-further">
-                  @for (article of chapter.articles.slice(0, 2); track article.slug) { <a [routerLink]="['/article', article.slug]" [queryParams]="articleParams(!!story.draft, chapter.id)" queryParamsHandling="replace" target="_blank" rel="noopener">{{ article.title }} <span aria-hidden="true">↗</span></a> }
+                  @for (article of chapter.articles.slice(0, 2); track article.slug) { <a [routerLink]="['/article', article.slug]" [queryParams]="articleParams(!!story.draft || !!story.preview, chapter.id)" queryParamsHandling="replace" target="_blank" rel="noopener">{{ article.title }} <span aria-hidden="true">↗</span></a> }
                 </div>
               }
             </article>

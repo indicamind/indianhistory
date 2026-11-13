@@ -10,6 +10,7 @@ export interface PersonalityLifeStory {
   chapters: { id: string; date: string; title: string; html: string; articles: { slug: string; title: string }[] }[];
   sourcesHtml: string;
   draft?: boolean;
+  preview?: boolean;
 }
 
 export interface PersonalityMilestone {
@@ -45,11 +46,11 @@ export class PersonalityProfilesService {
       `${this.locale.generatedAssetsBase}${language}personality-profiles.json`
     )).catch(error => { this.request = undefined; throw error; });
     const profile = (await this.request)[slug];
-    if (!profile || !this.devMode.isDevMode() || this.locale.language !== 'en' || this.locale.offline) return profile;
+    if (!profile || !this.devMode.isDevMode() || this.locale.offline) return profile;
     this.draftRequest ??= firstValueFrom(this.http.get<Record<string, PersonalityLifeStory>>(
-      `${this.locale.generatedAssetsBase}personality-story-drafts.json`
+      `${this.locale.generatedAssetsBase}${language}personality-story-drafts.json`
     )).catch(() => ({}));
     const story = (await this.draftRequest)[slug];
-    return story ? { ...profile, story } : profile;
+    return story && (!story.draft || this.locale.language === 'en') ? { ...profile, story } : profile;
   }
 }

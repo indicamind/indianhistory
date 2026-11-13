@@ -2,7 +2,7 @@
   <header class="site-header">
     <a routerLink="/" class="brand">
       <span class="brand-mark notranslate" translate="no">IH</span>
-      <span class="brand-text">India History</span>
+      <span class="brand-text">{{ locale.translate('Indian and World History') }}</span>
     </a>
     <nav id="primary-navigation" class="site-nav" [class.open]="menuOpen()">
       @if (showTimeline()) { <a [routerLink]="['/']" fragment="timeline" (click)="closeMenu()">{{ locale.navigation.timeline }}</a> }
@@ -41,6 +41,7 @@
         <span aria-hidden="true"></span>
       </a>
     </div>
+    <p class="site-tagline">{{ locale.translate('The most comprehensive resource for Indian and World History') }}</p>
   </header>
 
   @if (!locale.translationAvailable()) {

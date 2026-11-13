@@ -6,6 +6,8 @@
     "build-content": "node scripts/build-content.js",
     "fetch-view-counts": "node scripts/fetch-view-counts.js",
     "check-translations": "node scripts/check-translations.js",
+    "check-personality-translations": "node scripts/check-translations.js --require-personality-stories",
+    "personality-translation-status": "node scripts/personality-life-translations.js",
     "optimize-images": "node scripts/optimize-images.js",
     "prestart": "npm run build-content",
     "start": "ng serve",

@@ -3,6 +3,7 @@ const path = require('path');
 const assert = require('assert');
 const matter = require('gray-matter');
 const { marked } = require('marked');
+const { readSources, readTranslation, releaseStatus, compileStory, translationProblems } = require('./personality-life-translations');
 
 function text(html) {
   const entities = { amp: '&', lt: '<', gt: '>', quot: '"', apos: "'", nbsp: ' ' };
@@ -22,6 +23,7 @@ function sections(html) {
 
 function buildProfiles(root, english, localized, copy = {}, language = 'en') {
   const definitions = JSON.parse(fs.readFileSync(path.join(root, 'content/data/personality-profiles.json'), 'utf8'));
+  const stories = readSources(root).filter(source => releaseStatus(root, source).ready);
   const translate = source => copy[source] || source;
   return Object.fromEntries(Object.entries(definitions).map(([slug, definition]) => {
     const profile = { events: definition.events.map(event => ({ ...event, title: translate(event.title), date: event.date ? translate(event.date) : undefined })), sources: definition.sources };
@@ -72,17 +74,34 @@ function buildProfiles(root, english, localized, copy = {}, language = 'en') {
         license: /public domain/i.test(record.license) ? translate('Public domain') : record.license,
         sourceUrl: record.sourcePageUrl, licenseUrl: record.licenseUrl };
     }
+    const story = stories.find(source => source.data.personalityStoryFor === slug);
+    if (story) profile.story = compileStory(language === 'en' ? story : readTranslation(root, story, language), localized);
     return [slug, profile];
   }));
 }
 
 function writeProfiles(root, output, english, localized, copy, language) {
   fs.writeFileSync(path.join(output, 'personality-profiles.json'), JSON.stringify(buildProfiles(root, english, localized, copy, language)));
+  if (language && language !== 'en') {
+    const previews = {};
+    for (const source of readSources(root)) {
+      const translation = readTranslation(root, source, language);
+      if (!releaseStatus(root, source).ready && !translationProblems(source, translation).length) {
+        previews[source.data.personalityStoryFor] = compileStory(translation, localized, { preview: true });
+      }
+    }
+    fs.writeFileSync(path.join(output, 'personality-story-drafts.json'), JSON.stringify(previews));
+  }
 }
 
 function writeProfileDrafts(root, output, articles) {
   const directory = path.join(root, 'content/drafts/articles');
   const drafts = {};
+  for (const source of readSources(root)) {
+    if (!releaseStatus(root, source).ready) {
+      drafts[source.data.personalityStoryFor] = compileStory(source, articles, { preview: true });
+    }
+  }
   for (const file of fs.existsSync(directory) ? fs.readdirSync(directory).filter(f => f.endsWith('.md')) : []) {
     const { data, content } = matter.read(path.join(directory, file));
     if (!data.personalityStoryFor) continue;
@@ -121,7 +140,7 @@ function writeProfileDrafts(root, output, articles) {
     drafts[slug] = { title: data.title, introHtml, chapters, sourcesHtml, draft: true };
   }
   fs.writeFileSync(path.join(output, 'personality-story-drafts.json'), JSON.stringify(drafts));
-  console.log(`Built ${Object.keys(drafts).length} English personality story draft(s) for dev mode`);
+  console.log(`Built ${Object.keys(drafts).length} English personality story review preview(s) for dev mode`);
 }
 
 module.exports = { buildProfiles, writeProfiles, writeProfileDrafts, sections };

@@ -91,6 +91,20 @@ for (const language of languages) {
   const prefix = 'assets/generated/' + (language === 'en' ? '' : language + '/');
   const articles = await json(prefix + 'articles.json');
   const blogs = await json(prefix + 'blogs.json');
+  const profiles = await json(prefix + 'personality-profiles.json');
+  for (const profile of Object.values(profiles)) {
+    if (profile.image) media.add(profile.image.src.replace(/^\//, ''));
+    if (profile.story) {
+      assert(!profile.story.draft && !profile.story.preview, language + ': unpublished personality timeline');
+      for (const chapter of profile.story.chapters) collectMedia(chapter.html);
+      collectMedia(profile.story.sourcesHtml);
+      // Keep reference text and URLs as metadata, without outbound navigation.
+      profile.story.referenceUrls = [...new Set([...profile.story.sourcesHtml.matchAll(/\bhref="(https?:[^\"]*)"/gi)].map(match => match[1]))];
+      profile.story.sourcesHtml = profile.story.sourcesHtml.replace(/<a\b[^>]*href="https?:[^\"]*"[^>]*>([\s\S]*?)<\/a>/gi, '<span>$1</span>');
+    }
+  }
+  await writeFile(path.join(output, prefix + 'personality-profiles.json'), JSON.stringify(profiles));
+  await writeFile(path.join(output, prefix + 'personality-story-drafts.json'), '{}\n');
   assert.equal(articles.length, english.length, language + ': incomplete articles');
   assert.equal(blogs.length, englishBlogs.length, language + ': incomplete blogs');
   for (const article of articles) {

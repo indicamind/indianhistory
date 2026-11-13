@@ -14,7 +14,9 @@ describe('Personality story approval gate', () => {
       {provide: DevModeService, useValue: {isDevMode: mode}},
       {provide: HttpClient, useValue: {get: (url: string) => {
         requested.push(url);
-        return of(url.includes('story-drafts') ? {ashoka: {title: 'Unapproved life story', chapters: [], draft: true}} : {ashoka: {events: [], sources: []}});
+        return of(url.includes('story-drafts') ? {ashoka: language === 'fr'
+          ? {title: 'Une vie approuvée', chapters: [], preview: true}
+          : {title: 'Unapproved life story', chapters: [], draft: true}} : {ashoka: {events: [], sources: []}});
       }}},
     ]});
     return {service: runInInjectionContext(injector, () => new PersonalityProfilesService()), requested, mode};
@@ -37,7 +39,14 @@ describe('Personality story approval gate', () => {
   it('keeps translated previews on approved localized content', async () => {
     const {service, requested} = setup('hi', true);
     expect((await service.get('ashoka'))?.story).toBeUndefined();
-    expect(requested).toEqual(['/assets/generated/hi/personality-profiles.json']);
+    expect(requested).toEqual(['/assets/generated/hi/personality-profiles.json', '/assets/generated/hi/personality-story-drafts.json']);
+  });
+
+  it('loads a complete localized approved preview from its own language directory', async () => {
+    const {service, requested} = setup('fr', true);
+    expect((await service.get('ashoka'))?.story?.title).toBe('Une vie approuvée');
+    expect((await service.get('ashoka'))?.story?.preview).toBeTruthy();
+    expect(requested).toEqual(['/assets/generated/fr/personality-profiles.json', '/assets/generated/fr/personality-story-drafts.json']);
   });
 
   it('does not load review drafts in the offline extension even when dev mode is requested', async () => {

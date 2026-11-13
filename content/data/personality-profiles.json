@@ -66,7 +66,12 @@
         "author": "Livius",
         "url": "https://www.livius.org/articles/dynasty/maurya/"
       }
-    ]
+    ],
+    "image": {
+      "file": "chanakya-chandragupta-shaheedi-park.jpg",
+      "kind": "Later artwork",
+      "landscape": true
+    }
   },
   "bindusara": {
     "events": [
@@ -91,7 +96,12 @@
       "paragraph": 0,
       "count": 2
     },
-    "sources": []
+    "sources": [],
+    "image": {
+      "file": "kumhrar-mauryan-hall-pillar.jpg",
+      "kind": "Historic site",
+      "landscape": true
+    }
   },
   "ashoka": {
     "events": [
@@ -479,7 +489,11 @@
         "author": "Encyclopaedia Iranica",
         "url": "https://www.iranicaonline.org/articles/akbar-i-mughal-india/"
       }
-    ]
+    ],
+    "image": {
+      "file": "vijay-stambha-chittorgarh-full-view.jpg",
+      "kind": "Historic site"
+    }
   },
   "shivaji": {
     "events": [

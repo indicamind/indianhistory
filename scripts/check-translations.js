@@ -6,6 +6,7 @@ const { marked } = require('marked');
 const compiler = require('@angular/compiler');
 const ts = require('typescript');
 const { sections: biographySections } = require('./build-personality-profiles');
+const { readSources, readTranslation, translationProblems } = require('./personality-life-translations');
 
 const ROOT = path.join(__dirname, '..');
 const { LANGUAGES, IN_PROGRESS_LANGUAGES = new Set() } = require('./translation-languages');
@@ -32,6 +33,7 @@ const DYNAMIC_COPY = [
   'No articles yet for this {kind}. More articles are being added.',
   'No results for “{query}”.',
   'English preview · Translations in progress',
+  'Preview · Translations in progress',
   'English draft · Awaiting approval',
   'Translated by AI.',
   'Article navigation', 'Next article', 'Previous article', 'Explore related topics',
@@ -107,7 +109,7 @@ function urls(html) {
 
 function sourceFiles(kind) {
   const directory = path.join(ROOT, 'content', kind);
-  return fs.readdirSync(directory).filter(name => name.endsWith('.md'));
+  return fs.readdirSync(directory).filter(name => name.endsWith('.md') && !matter.read(path.join(directory, name)).data.personalityStoryFor);
 }
 
 function placeholders(value) {
@@ -157,9 +159,16 @@ if (require.main === module) {
     return data.previewOnly === true;
   });
   let failed = false;
+  const personalitySources = readSources(ROOT);
+  const requirePersonalityStories = process.argv.includes('--require-personality-stories');
   for (const language of LANGUAGES) {
     const isProgress = IN_PROGRESS_LANGUAGES.has(language);
-    const contentProblems = [...checkContent('articles', language), ...checkContent('blogs', language)];
+    const personalityProblems = personalitySources.flatMap(source => translationProblems(source, readTranslation(ROOT, source, language))
+      .map(problem => `personality/${source.data.personalityStoryFor}: ${problem}`));
+    const pendingPersonalities = personalityProblems.filter(problem => problem.endsWith(': missing'));
+    const contentProblems = [...checkContent('articles', language), ...checkContent('blogs', language),
+      ...(requirePersonalityStories ? personalityProblems : personalityProblems.filter(problem => !problem.endsWith(': missing')))];
+    if (pendingPersonalities.length) console.log(`${language}: ${pendingPersonalities.length} personality timeline translation(s) pending; incomplete updates remain unpublished`);
     const siteFile = path.join(ROOT, 'content', 'translations', language, 'site.json');
     const siteProblems = [];
     if (!fs.existsSync(siteFile)) {

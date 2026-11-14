@@ -1,11 +1,11 @@
 ---
-title: 'Mahatma Gandhi: a life in 45 moments'
+title: 'Mahatma Gandhi: a life in 50 moments'
 personalityStoryFor: mahatma-gandhi
 personalities:
   - mahatma-gandhi
 chapters:
   - id: gandhi-birth-porbandar
-    date: 1869 · Porbandar, Gujarat
+    date: '1869 · Porbandar, Gujarat'
     articles: []
   - id: gandhi-parents-and-values
     date: Early life · Family traditions
@@ -17,7 +17,7 @@ chapters:
     date: Youth · Rajkot
     articles: []
   - id: gandhi-london-studies
-    date: 1888 · Inner Temple, London
+    date: '1888 · Inner Temple, London'
     articles: []
   - id: gandhi-discovering-the-gita
     date: London years · Ethical discovery
@@ -26,7 +26,7 @@ chapters:
     date: 1891 · Returning home
     articles: []
   - id: gandhi-pietermaritzburg-station
-    date: June 1893 · Natal, South Africa
+    date: 'June 1893 · Natal, South Africa'
     articles: []
   - id: gandhi-decision-to-remain
     date: 1893 · The moral turning point
@@ -37,14 +37,20 @@ chapters:
   - id: gandhi-ambulance-corps
     date: 1899–1900 · Anglo-Boer War
     articles: []
+  - id: mahatma-gandhi-indian-opinion
+    date: 1903 · South Africa
+    articles: []
+  - id: gandhi-phoenix-settlement
+    date: 1904 · Near Durban
+    articles: []
   - id: gandhi-the-black-act
     date: 1906 · Transvaal
     articles: []
   - id: gandhi-birth-of-satyagraha
     date: 11 September 1906 · Johannesburg
     articles: []
-  - id: gandhi-phoenix-settlement
-    date: 1904 · Near Durban
+  - id: mahatma-gandhi-hind-swaraj
+    date: 1909 · The voyage from Britain
     articles: []
   - id: gandhi-tolstoy-farm
     date: 1910 · Near Johannesburg
@@ -59,16 +65,16 @@ chapters:
     date: January 1915 · Bombay
     articles: []
   - id: gandhi-sabarmati-ashram
-    date: 1915 · Ahmedabad
+    date: 1915–1917 · Ahmedabad
     articles: []
   - id: gandhi-champaran-indigo
-    date: 1917 · Champaran, Bihar
+    date: '1917 · Champaran, Bihar'
     articles: []
   - id: gandhi-ahmedabad-mill-strike
     date: 1918 · Ahmedabad
     articles: []
   - id: gandhi-kheda-peasant-satyagraha
-    date: 1918 · Kheda, Gujarat
+    date: '1918 · Kheda, Gujarat'
     articles: []
   - id: gandhi-rowlatt-act-protest
     date: April 1919 · Nationwide hartal
@@ -87,6 +93,9 @@ chapters:
     articles: []
   - id: gandhi-great-trial-ahmedabad
     date: March 1922 · Court of Judge Broomfield
+    articles: []
+  - id: mahatma-gandhi-belgaum-congress
+    date: December 1924 · Belgaum
     articles: []
   - id: gandhi-constructive-programme
     date: 1924–1928 · Sabarmati Ashram
@@ -116,10 +125,13 @@ chapters:
     date: September 1932 · Poona
     articles: []
   - id: gandhi-sevagram-cottage
-    date: 1936 · Wardha, Maharashtra
+    date: '1936 · Wardha, Maharashtra'
+    articles: []
+  - id: mahatma-gandhi-individual-satyagraha
+    date: 1940–1941 · Wartime India
     articles: []
   - id: gandhi-quit-india-mantra
-    date: 8 August 1942 · Gowalia Tank, Bombay
+    date: '8 August 1942 · Gowalia Tank, Bombay'
     articles: []
   - id: gandhi-aga-khan-palace-detention
     date: 1942–1944 · Pune
@@ -128,10 +140,13 @@ chapters:
     date: 1946–1947 · East Bengal
     articles: []
   - id: gandhi-calcutta-fast-independence
-    date: 15 August 1947 · Beliaghata, Calcutta
+    date: '15 August 1947 · Beliaghata, Calcutta'
+    articles: []
+  - id: mahatma-gandhi-calcutta-september-fast
+    date: 1–4 September 1947 · Calcutta
     articles: []
   - id: gandhi-final-delhi-fast
-    date: January 1948 · Birla House, New Delhi
+    date: 'January 1948 · Birla House, New Delhi'
     articles: []
   - id: gandhi-martyrdom-at-birla-house
     date: 30 January 1948 · New Delhi
@@ -145,6 +160,7 @@ excerpt: >-
   movements in India, and his martyrdom at Birla House.
 tags: []
 ---
+
 ## A merchant’s son born in coastal Porbandar
 
 Mohandas Karamchand Gandhi was born on **2 October 1869** at **Porbandar** on the Kathiawar peninsula of Gujarat. His father Karamchand Gandhi served as the chief minister (*diwan*) of Porbandar and later Rajkot. Born into a Modh Bania merchant family, his childhood unfolded within a small princely coastal setting. [1, 2]
@@ -189,6 +205,14 @@ In 1894, when the Natal government moved to disenfranchise Indian voters, Gandhi
 
 During the Anglo-Boer War (1899–1900), Gandhi organized a voluntary **Indian Ambulance Corps** of eleven hundred men to tend wounded soldiers. He wished to demonstrate that Indians were willing to share civic duties of citizenship alongside rights. Under heavy artillery fire at Spion Kop, his stretcher-bearers earned widespread admiration. [1, 2]
 
+## Building a newspaper around a political community
+
+Gandhi helped establish Indian Opinion in 1903. The newspaper carried reports, arguments, and correspondence concerning the Indian community in South Africa. Publishing became part of his organising: a scattered readership could follow a campaign between public meetings, while editorial choices also reveal the concerns and limitations of the community he addressed. [1, 2, 5]
+
+## Communal simplicity at Phoenix Settlement
+
+In 1904, deeply moved by John Ruskin’s book *Unto This Last*, Gandhi founded the **Phoenix Settlement** near Durban. Residents drew identical modest wages, grew their own vegetables, and printed the multilingual weekly journal *Indian Opinion*. It served as a practical laboratory for community self-reliance and voluntary poverty. [1, 2]
+
 ## The hated Black Act of Transvaal
 
 In 1906, the Transvaal colonial administration passed the Asiatic Law Amendment Ordinance, known as the "Black Act." It required all Indians to register, carry fingerprint passes at all times, and submit to police inspections in their homes. The Indian community regarded the ordinance as a devastating assault on their personal honor. [1, 2, 4]
@@ -197,9 +221,9 @@ In 1906, the Transvaal colonial administration passed the Asiatic Law Amendment 
 
 On **11 September 1906**, at the Empire Theatre in Johannesburg, three thousand Indians assembled to protest the ordinance. The gathering took a solemn oath before God to refuse obedience to the law and endure imprisonment, fines, or death without violence. Gandhi named this conscious moral resistance **Satyagraha** ("holding firmly to truth"). [1, 2, 4]
 
-## Communal simplicity at Phoenix Settlement
+## Writing Hind Swaraj
 
-In 1904, deeply moved by John Ruskin’s book *Unto This Last*, Gandhi founded the **Phoenix Settlement** near Durban. Residents drew identical modest wages, grew their own vegetables, and printed the multilingual weekly journal *Indian Opinion*. It served as a practical laboratory for community self-reliance and voluntary poverty. [1, 2]
+Gandhi wrote Hind Swaraj during a sea voyage in 1909, setting out a dialogue on self-rule, modern civilisation, and political resistance. Its attack on industrial modernity went beyond demanding a change of rulers. The book became a continuing reference point, although his later campaigns developed in circumstances its dialogue did not anticipate. [1, 2, 5]
 
 ## Tolstoy Farm and moral preparation
 
@@ -217,9 +241,9 @@ The spectacle of peaceful laborers enduring imprisonment and police brutality fo
 
 In January 1915, after twenty-one years in South Africa, Gandhi returned to India at forty-five years of age. His mentor **Gopal Krishna Gokhale** advised him to spend his first year traveling across India by third-class train, observing the lives of ordinary citizens. The tour exposed Gandhi directly to rural poverty and agrarian distress. [1, 2]
 
-## Founding the Sabarmati Ashram
+## An ashram at Kochrab, later moved to Sabarmati
 
-In May 1915, Gandhi established an ashram on the banks of the Sabarmati River near Ahmedabad. He admitted a family of "untouchables" (Dalits) into the community, prompting orthodox donors to cut off financial support until an anonymous patron intervened. The ashram became his national headquarters for training satyagraha volunteers. [1, 2]
+Gandhi established an ashram at Kochrab in Ahmedabad in 1915 and moved it to the Sabarmati site in 1917. The community connected political work with shared labour, spinning, sanitation, and discipline. Its rules and experiments also exposed tensions over caste, family obligations, and the demanding expectations Gandhi placed on residents. [1, 2, 5]
 
 ## Defending indigo peasants at Champaran
 
@@ -257,6 +281,10 @@ On **4 February 1922**, a violent clash erupted at **Chauri Chaura** in Uttar Pr
 
 Arrested shortly after, Gandhi was tried for sedition before Judge C.N. Broomfield in Ahmedabad in March 1922. In a famous courtroom address, Gandhi openly pleaded guilty, declaring that sedition had become his moral duty toward an exploitative system. He was sentenced to six years in prison, spending his detention at Yerwada. [1, 2, 3]
 
+## Presiding over the Indian National Congress
+
+Gandhi presided over the Congress session at Belgaum, the only annual Congress session he chaired. The meeting followed imprisonment, the suspension of mass non-cooperation, and disagreements over political strategy. His leadership therefore involved negotiating a movement with different approaches, rather than simply issuing instructions to an undivided organisation. [2, 3, 5]
+
 ## The constructive programme and the spinning wheel
 
 Released early from prison in 1924 following surgery, Gandhi devoted himself to his **Constructive Programme**. He traveled across thousands of villages, campaigning against the evil of untouchability, promoting communal harmony, and organizing rural spinning cooperatives. He insisted that genuine freedom (*Swaraj*) required internal social reform and economic self-sufficiency. [1, 2]
@@ -289,13 +317,17 @@ In autumn 1931, Gandhi traveled to London as the sole Congress delegate for the 
 
 Re-imprisoned in Yerwada Jail in 1932, Gandhi learned of the British "Communal Award," which created separate legislative electorates for the "Depressed Classes" (Dalits). Gandhi feared this would permanently divide the Hindu community and legally entrench untouchability. He launched a "fast unto death" from his prison cell to oppose the statutory division. [1, 2, 3]
 
-## Concluding the Poona Pact with Dr. Ambedkar
+## The Poona Pact and Ambedkar’s difficult choice
 
-Confronting immense national concern for Gandhi’s life, Dalit leader **Dr. B.R. Ambedkar** negotiated with Gandhi at Yerwada Jail. On **24 September 1932**, they signed the **Poona Pact**, abandoning separate electorates in exchange for significantly increased reserved seats for Dalits in provincial legislatures. Gandhi then founded the Harijan Sevak Sangh to dismantle untouchability. [1, 2, 3]
+On 24 September 1932, representatives led by B. R. Ambedkar and caste-Hindu leaders reached the Poona Pact during Gandhi’s prison fast. It replaced separate electorates for the Depressed Classes with reserved seats in joint electorates. Gandhi supported the settlement but was not a signatory. Ambedkar’s objections to caste oppression and to the pressure surrounding the agreement remain essential to its history. [2, 3, 5]
 
 ## Rural life in the cottage at Sevagram
 
 In 1936, Gandhi moved his headquarters to **Sevagram** ("village of service") near Wardha in Maharashtra, living in a simple mud-and-bamboo cottage. He dedicated himself to rural sanitation, cottage industries, and his educational model of *Nai Talim* (learning through crafts). Sevagram became the moral nerve center of the national movement. [1, 2]
+
+## Choosing individual protest before a mass campaign
+
+During the Second World War, Gandhi initiated individual satyagraha to assert the right to oppose compulsory participation in the war. Vinoba Bhave was the first selected protester. The carefully limited campaign differed from both immediate mass revolt and support for colonial wartime policy, exposing the movement's difficult strategic choices. [2, 3, 5]
 
 ## Giving the mantra of "Do or Die"
 
@@ -303,15 +335,19 @@ On **8 August 1942**, at Gowalia Tank Maidan in Bombay, the Congress launched th
 
 ## Grief and bereavement at Aga Khan Palace
 
-Detained at the **Aga Khan Palace** in Pune, Gandhi suffered devastating personal losses. His brilliant personal secretary **Mahadev Desai** died suddenly of a heart attack in his arms within days of confinement. In February 1944, his devoted wife **Kasturba** passed away with her head resting on his lap after sixty-two years of marriage. [1, 2]
+Detained at the **Aga Khan Palace** in Pune, Gandhi suffered devastating personal losses. His brilliant personal secretary **Mahadev Desai** died suddenly of a heart attack in his arms within days of confinement. In February 1944, his devoted wife **Kasturba** passed away with her head resting on his lap after more than sixty years of marriage. [1, 2]
 
 ## Walking barefoot through the swamps of Noakhali
 
-In late 1946, as partition loomed, horrific communal violence erupted in **Noakhali** in East Bengal. At seventy-seven years of age, Gandhi walked barefoot from village to village for four months through mud and swamps, comforting grieving families and sleeping in burnt homes. His solitary moral presence quelled communal riots when military forces were helpless. [1, 2]
+In late 1946, after communal violence in Noakhali, Gandhi travelled through the affected region of eastern Bengal. He sought to restore confidence among frightened households through visits, prayer meetings, and appeals to local leaders. His efforts did not end communal violence across Bengal or prevent Partition; the limits of personal intervention are part of this episode. [2, 5]
 
 ## Fasting in Calcutta on Independence Day
 
 On **15 August 1947**, when India achieved independence amidst the agony of Partition, Gandhi stayed away from official celebrations in New Delhi. He spent the day in a dilapidated Muslim home in **Calcutta**, fasting and praying to maintain peace. Viceroy Mountbatten famously hailed him as the "One-Man Boundary Force" who preserved Bengal from bloodshed. [1, 2, 4]
+
+## Fasting after renewed violence in Calcutta
+
+When violence returned to Calcutta after independence, Gandhi began a fast on 1 September. Community representatives gave undertakings to restore peace, and he ended the fast on 4 September. This episode was separate from his observance of Independence Day and did not remove the enormous violence and displacement elsewhere during Partition. [2, 4, 5]
 
 ## A winter fast for refugee harmony in Delhi
 
@@ -334,3 +370,5 @@ Gandhi was cremated on the banks of the Yamuna River at Rajghat before more than
 3. **Bipan Chandra, Mridula Mukherjee, Aditya Mukherjee, K.N. Panikkar, and Sucheta Mahajan**, *India's Struggle for Independence (1857–1947)*, Penguin Books India (1989). Standard university historical text detailing the Champaran, Kheda, Non-Cooperation, Civil Disobedience, and Quit India mass campaigns.
 
 4. **Louis Fischer**, *The Life of Mahatma Gandhi*, Harper & Brothers, New York (1950). Celebrated contemporary biographical narrative based on firsthand interviews with Gandhi, Nehru, and British colonial officials.
+
+5. **Gandhi's writings and documented chronology:** [Gandhi Heritage Portal](https://www.gandhiheritageportal.org/), the *Collected Works of Mahatma Gandhi*, and [Mani Bhavan's arrest chronology](https://www.gandhi-manibhavan.org/about-gandhi/chrono-arrestsnimprisonments.html). Used for the publication of *Indian Opinion* and *Hind Swaraj*, the 1924 Belgaum Congress, the 1940 individual satyagraha, and the September 1947 Calcutta fast. The autobiography ends before the later independence campaigns; it is not cited as an eyewitness account of events after its narrative closes.

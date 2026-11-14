@@ -7,7 +7,9 @@
       <p class="hero-intro">{{ personality.shortDescription }}</p>
       <nav class="profile-nav" [attr.aria-label]="locale.translate('Explore related topics')">
         @for (section of [{id: 'life-timeline', label: 'Life timeline'}, {id: 'personality-articles', label: 'Articles'}]; track section.id) {
-          <a [routerLink]="['/personality', personality.slug]" [fragment]="section.id" [queryParams]="{lang: locale.language}" queryParamsHandling="merge">{{ locale.translate(section.label) }} <span aria-hidden="true">↗</span></a>
+          @if (section.id !== 'personality-articles' || articles.length) {
+            <a [routerLink]="['/personality', personality.slug]" [fragment]="section.id" [queryParams]="{lang: locale.language}" queryParamsHandling="merge">{{ locale.translate(section.label) }} <span aria-hidden="true">↗</span></a>
+          }
         }
       </nav>
     </div>

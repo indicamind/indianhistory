@@ -1,5 +1,5 @@
 ---
-title: 'Gautama Buddha: a life in 43 moments'
+title: 'Gautama Buddha: a life in 50 moments'
 personalityStoryFor: gautama-buddha
 personalities:
   - gautama-buddha
@@ -97,6 +97,9 @@ chapters:
   - id: buddha-sangha-founded
     date: Early ministry · Varanasi
     articles: []
+  - id: gautama-buddha-yasa-household
+    date: Early ministry · Varanasi
+    articles: []
   - id: buddha-chief-disciples
     date: Early ministry · Rajagriha
     articles: []
@@ -112,11 +115,29 @@ chapters:
   - id: buddha-jetavana-monastery
     date: The principal retreat · Sravasti
     articles: []
+  - id: gautama-buddha-upali-ordination
+    date: Ministry · Shakya country
+    articles: []
+  - id: gautama-buddha-visakha-support
+    date: Ministry · Savatthi
+    articles: []
   - id: buddha-caste-equality
     date: Social teaching · Gangetic plains
     articles: []
+  - id: gautama-buddha-angulimala
+    date: Ministry · Kosala
+    articles: []
+  - id: gautama-buddha-kalama-counsel
+    date: Ministry · Kesaputta
+    articles: []
   - id: buddha-devadatta-schism
     date: Internal challenge · Rajagriha
+    articles: []
+  - id: gautama-buddha-pataligama
+    date: The final journey · Magadha
+    articles: []
+  - id: gautama-buddha-ambapali
+    date: The final journey · Vesali
     articles: []
   - id: buddha-final-journey-beluva
     date: c. Age 80 · Magadha to Beluva
@@ -139,6 +160,7 @@ excerpt: >-
   his passing into Parinirvana at Kusinara.
 tags: []
 ---
+
 ## A royal birth in the sacred grove of Lumbini
 
 Siddhartha Gautama was born in the sacred grove of **Lumbini** in modern southern Nepal. His mother Queen Maya died shortly after his birth, leaving him to be raised by her sister Mahapajapati Gotami. Modern scholarly estimates date his life either to **c. 563–483 BCE** or more recently to **c. 480–400 BCE**. [1, 4, 5]
@@ -263,6 +285,10 @@ Underpinning Buddhist metaphysics is **Dependent Origination** (*Paticcasamuppad
 
 After ordaining the young merchant Yasa and his companions, the Buddha had sixty enlightened disciples (*arahants*). He sent them forth to wander in all directions, instructing them to teach for the welfare and happiness of the many. The monastic community (**Sangha**) was formally established as a missionary brotherhood. [1, 4]
 
+## Yasa and a household drawn into the community
+
+The Vinaya tells of Yasa, a merchant's son, seeking release from dissatisfaction and joining the Buddha's followers. His family becomes part of the lay support network. The narrative links the emerging monastic community with prosperous urban households, while remaining a canonical account rather than a dated family archive. [7]
+
 ## Sariputta and Moggallana join the order
 
 In Magadha, two brilliant young seekers, **Sariputta** and **Mahamoggallana**, converted after hearing a brief summary of the Buddha’s teaching on causality. They brought their followers into the Sangha and became the Buddha's two chief disciples. Sariputta was revered for his profound analytical wisdom, and Moggallana for his mastery of meditation. [1, 2, 6]
@@ -283,13 +309,37 @@ Following Suddhodana's death, the Buddha’s foster mother **Mahapajapati Gotami
 
 At Sravasti in Kosala, the wealthy merchant **Anathapindika** purchased a park from Prince Jeta by covering the ground with gold coins. He built the **Jetavana monastery**, which became the Buddha's principal residence during his later decades. The Buddha spent twenty-five rainy seasons at Sravasti, delivering many of his major discourses there. [1, 3, 4]
 
+## Upali's ordination challenges inherited rank
+
+In the Vinaya account, Upali, associated with the Shakya princes as their barber, enters the order before them. Monastic seniority thus reverses the hierarchy they brought from household life. The episode gives a concrete traditional expression to equality within the sangha, rather than proving that caste disappeared outside it. [7]
+
+## Visakha supports everyday monastic life
+
+Vinaya narratives remember Visakha as a major lay benefactor who requested permission to provide necessities, including clothing, food, and care for the sick. Her role broadens the life story beyond kings and monks: women's gifts and household resources helped sustain the community's daily existence. [7]
+
 ## Rejecting caste privilege and empty ritual
 
 The Buddha welcomed people of all social strata into the Sangha on terms of absolute equality. He ordained the humble barber **Upali**, who became the foremost authority on monastic discipline, ahead of Shakya princes. He insisted that true nobility is defined not by birth or ritual purity, but by ethical conduct and mental clarity. [1, 4]
 
+## The Angulimala story and the possibility of change
+
+Majjhima Nikaya 86 depicts the Buddha confronting the violent Angulimala, who abandons killing and becomes a monk. The text also describes the consequences of his earlier actions. Its subject is moral transformation, not an independently documented pardon or a claim that victims' suffering ceased to matter. [7]
+
+## Counsel to the people of Kesaputta
+
+In Anguttara Nikaya 3.65, the Buddha advises people troubled by competing teachers to consider whether conduct leads to harm or welfare. The passage connects inquiry with ethical judgment and practice. It should not be detached from its setting and presented as an unrestricted endorsement of every modern view of scepticism. [7]
+
 ## Devadatta’s challenge and the threat of schism
 
 In the Buddha's later years, his ambitious cousin **Devadatta** demanded leadership of the monastic community. When refused, Devadatta plotted assassination attempts and tried to cause a schism by advocating extreme mandatory ascetic rules. The Buddha remained steadfast, and Sariputta and Moggallana persuaded the divided monks to return. [1, 2]
+
+## A settlement being fortified on the Ganges
+
+Digha Nikaya 16 places the Buddha at Pataligama while Magadhan ministers supervise fortifications against the Vajjis. The encounter situates his final journey amid rivalry between northern states. The later greatness of Pataliputra belongs to the text's remembered and prophetic setting, rather than to a contemporary urban survey. [7]
+
+## Accepting Ambapali's invitation
+
+The Mahaparinibbana Sutta describes the Buddha accepting a meal from Ambapali and receiving her grove for the community. The narrative sets her hospitality alongside that of Vesali's aristocrats. Her inclusion is significant within the canonical account, although the encounter cannot be assigned a securely established modern calendar date. [7]
 
 ## The last journey and the illness at Beluva
 
@@ -313,7 +363,7 @@ Three months after the Parinirvana, five hundred arhats convened at the Saptapar
 
 ## Sources
 
-1. **The Pali Canon (Tipiṭaka)**, particularly the *Mahāparinibbāna Sutta* (Dīgha Nikāya 16), *Ariyapariyesanā Sutta* (Majjhima Nikāya 26), *Dhammacakkappavattana Sutta* (Saṃyutta Nikāya 56.11), and *Anattalakkhaṇa Sutta* (Saṃyutta Nikāya 22.59). Public domain translations by Bhikkhu Bodhi and T.W. Rhys Davids.
+1. **The Pali Canon (Tipiṭaka)**, particularly the *Mahāparinibbāna Sutta* (Dīgha Nikāya 16), *Ariyapariyesanā Sutta* (Majjhima Nikāya 26), *Dhammacakkappavattana Sutta* (Saṃyutta Nikāya 56.11), and *Anattalakkhaṇa Sutta* (Saṃyutta Nikāya 22.59). Consulted as transmitted canonical traditions; modern translations have their own copyright and licence terms.
 
 2. **Aśvaghoṣa, Buddhacarita (Acts of the Buddha)**, translated by E.B. Cowell, Sacred Books of the East, Vol. 49, Oxford University Press (1894). Sanskrit epic poem documenting the traditional life cycle, renunciation, and enlightenment of Siddhartha Gautama.
 
@@ -324,3 +374,5 @@ Three months after the Parinirvana, five hundred arhats convened at the Saptapar
 5. **Heinz Bechert (ed.)**, *The Dating of the Historical Buddha / Die Datierung des historischen Buddha*, Symposien zur Reaktivität der indischen Kulturgeschichte, Vandenhoeck & Ruprecht, Göttingen (1991–1997). Definitive scholarly compilation assessing the "long chronology" (c. 563–483 BCE) versus the "short chronology" (c. 480–400 BCE).
 
 6. **A.K. Warder**, *Indian Buddhism*, Motilal Banarsidass, Delhi (3rd revised edition, 2000). Comprehensive academic analysis of early Buddhist doctrinal development, dependent origination, non-self, and the early Buddhist monastic councils.
+
+7. **Named canonical episodes:** [Angulimala Sutta, MN 86](https://suttacentral.net/mn86), [Kesamutti Sutta, AN 3.65](https://suttacentral.net/an3.65), [Mahaparinibbana Sutta, DN 16](https://suttacentral.net/dn16), and the Vinaya Mahavagga and Cullavagga. These are transmitted religious texts, not contemporary transcripts. For older public-domain translations see T. W. Rhys Davids, *Buddhist Suttas* (1881), and T. W. Rhys Davids and Hermann Oldenberg, *Vinaya Texts* (1881–1885). Modern translations, including Bhikkhu Bodhi's, retain their respective copyright and licence terms.

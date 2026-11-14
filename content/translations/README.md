@@ -33,16 +33,13 @@ been approved. Their source manuscripts now live in `content/articles/*-life-sto
 They are inline personality content, not separate biography articles, and remain
 outside the article listings and article search index.
 
-This update is **not released**. Of the required 462 complete timeline translations
-(14 personalities × 33 languages), 70 have been authored and structurally checked:
-French 14/14, Hindi 14/14, Bengali 14/14, Tamil 14/14 and Telugu 14/14.
-The remaining 28 languages each have 0/14, leaving 392 translations to complete.
-Existing published personality content remains
-available while the new timelines are prepared. No translation API was used.
-
-Tamil and Telugu now include the complete approved timelines for all 14 personalities,
-including Akbar's 40 chapters and Ashoka's 60 chapters. Dates, uncertainty
-statements, source notes and image credits are retained in the Tamil and Telugu manuscripts.
+The original approved versions have now passed the shared translation gate:
+**462 / 462** complete timeline translations (14 personalities × 33 languages),
+with all 14 original timelines released. `npm run personality-translation-status`
+reports 14/14 for every supported language. English source hashes and chapter
+hashes match all existing translations. This completion applies to the original
+approved versions; it does not approve or release the expanded English drafts
+listed below. No translation API was used.
 
 Every translated manuscript includes the full narrative, chapter headings and
 dates, source notes and image credits. `sourceHash` covers the English title,
@@ -50,9 +47,10 @@ excerpt and trimmed Markdown body; `chapterSourceHash` also detects changes to
 English chapter dates, qualifiers, identifiers and article memberships.
 
 Each timeline is published only after **all 33 translations** pass its shared
-validation. Until then, approved English and complete localized translations can
-be reviewed with `?dev=true&lang=<code>` on the personality page. These previews
-are excluded from the offline extension in every language. Unapproved English
+validation. While a timeline is incomplete, approved English and complete localized translations can
+be reviewed with `?dev=true&lang=<code>` on the personality page. Pending dev previews
+are excluded from the offline extension in every language; the released original
+versions are included. Unapproved English
 rewrites still follow the separate draft approval workflow.
 
 `npm run check-translations` validates existing translations and reports missing
@@ -63,3 +61,14 @@ does not mean this timeline update is complete.
 
 `npm run personality-translation-status` prints the current per-language counts
 and the number of timelines that have cleared the full release gate.
+
+## Expanded personality English review, 2026-11-14
+
+Fourteen expanded English timelines now have 50 bubbles each under
+`content/drafts/articles/`. See the [English review index](../drafts/personality-life-timelines-review.md)
+for counts, dev previews, sources, and the three evidence-limited exceptions.
+These revisions await fresh English approval. They shadow the original text
+only in English dev mode; approved source hashes, existing translations, and
+the shared release gate remain unchanged. The 462 existing translated timelines still cover the earlier approved text,
+not these expanded drafts.
+Do not translate or publish the expanded narratives before explicit approval.

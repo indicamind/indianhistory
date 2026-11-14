@@ -32,4 +32,29 @@ describe('Personality life-story draft build', () => {
     fs.writeFileSync(path.join(root, 'content/drafts/articles/life.md'), draft('Text'));
     expect(() => writeProfileDrafts(root, root, [{slug:'edict', title:'Another person', personalities:['someone-else']}])).toThrow('chapter article must belong to this personality');
   });
+
+  it('reviews an English revision without changing the approved manuscript', () => {
+    const directory = path.join(root, 'content/articles');
+    fs.mkdirSync(directory, {recursive:true});
+    const original = draft('Approved paragraph.');
+    fs.writeFileSync(path.join(directory, 'life.md'), original);
+    fs.writeFileSync(path.join(root, 'content/drafts/articles/life.md'), draft('Expanded paragraph for approval.'));
+    writeProfileDrafts(root, root, [{slug:'edict', title:'An edict', personalities:['ashoka']}]);
+    const result = JSON.parse(fs.readFileSync(path.join(root, 'personality-story-drafts.json')));
+    expect(result.ashoka.draft).toBeTruthy();
+    expect(result.ashoka.chapters[0].html.includes('Expanded paragraph')).toBeTruthy();
+    expect(fs.readFileSync(path.join(directory, 'life.md'), 'utf8')).toBe(original);
+  });
+
+  it('still rejects two unapproved manuscripts for the same personality', () => {
+    for (const file of ['first.md','second.md']) fs.writeFileSync(path.join(root, 'content/drafts/articles', file), draft('Text'));
+    expect(() => writeProfileDrafts(root, root, [{slug:'edict', title:'An edict', personalities:['ashoka']}])).toThrow('Duplicate personality story draft');
+  });
+
+  it('requires a revision to retain its approved source filename', () => {
+    fs.mkdirSync(path.join(root, 'content/articles'), {recursive:true});
+    fs.writeFileSync(path.join(root, 'content/articles/life.md'), draft('Approved paragraph.'));
+    fs.writeFileSync(path.join(root, 'content/drafts/articles/renamed.md'), draft('Expanded paragraph.'));
+    expect(() => writeProfileDrafts(root, root, [{slug:'edict', title:'An edict', personalities:['ashoka']}])).toThrow('revision must use its approved source filename');
+  });
 });

@@ -1,5 +1,5 @@
 ---
-title: 'Tipu Sultan: a life in 38 moments'
+title: 'Tipu Sultan: a life in 50 moments'
 personalityStoryFor: tipu-sultan
 personalities:
   - tipu-sultan
@@ -25,6 +25,9 @@ chapters:
   - id: tipu-battle-of-pollilur
     date: September 1780 · Rocket barrages
     articles: []
+  - id: tipu-sultan-porto-novo
+    date: 1781 · The Carnatic
+    articles: []
   - id: tipu-capture-braithwaite
     date: 1782 · Carnatic campaigns
     articles: []
@@ -40,6 +43,9 @@ chapters:
   - id: tipu-treaty-of-mangalore
     date: March 1784 · Company yields
     articles: []
+  - id: tipu-sultan-mangalorean-catholics
+    date: 1784 onward · Kanara and the interior
+    articles: []
   - id: tipu-iron-cased-rockets
     date: 1780s · Seringapatam armouries
     articles: []
@@ -51,6 +57,12 @@ chapters:
     articles: []
   - id: tipu-mysore-silk-industry
     date: 1780s · Mulberry plantations
+    articles: []
+  - id: tipu-sultan-coinage
+    date: During his reign · The royal mints
+    articles: []
+  - id: tipu-sultan-mauludi-calendar
+    date: From 1787 · State documents
     articles: []
   - id: tipu-industrial-workshops
     date: Capital works · Seringapatam
@@ -64,6 +76,15 @@ chapters:
   - id: tipu-fathul-mujahidin
     date: 1783 · Standing army reforms
     articles: []
+  - id: tipu-sultan-tiger-emblem
+    date: Court culture · Seringapatam
+    articles: []
+  - id: tipu-sultan-dream-book
+    date: 1780s–1790s · Personal and political hopes
+    articles: []
+  - id: tipu-sultan-coorg-campaign
+    date: Mid-1780s · Kodagu
+    articles: []
   - id: tipu-embassy-to-ottomans
     date: 1786–1789 · Red Sea to Bosphorus
     articles: []
@@ -76,6 +97,9 @@ chapters:
   - id: tipu-treaty-of-gajendragad
     date: 1787 · Mutual recognition
     articles: []
+  - id: tipu-sultan-malabar-coercion
+    date: Late 1780s · Malabar
+    articles: []
   - id: tipu-invasion-of-travancore
     date: December 1789 · The spark of war
     articles: []
@@ -85,6 +109,9 @@ chapters:
   - id: tipu-fall-of-bangalore
     date: 1791 · Fortress besieged
     articles: []
+  - id: tipu-sultan-sringeri-assistance
+    date: 1791 onward · Sringeri
+    articles: []
   - id: tipu-encirclement-seringapatam
     date: February 1792 · Capital under fire
     articles: []
@@ -92,19 +119,25 @@ chapters:
     date: February 1792 · Crippling indemnity
     articles: []
   - id: tipu-the-hostage-princes
-    date: 1792 · Emotional farewell
+    date: 1792 · The treaty hostages
     articles: []
   - id: tipu-repayment-and-reunion
     date: 1794 · Reclaiming the princes
     articles: []
   - id: tipu-jacobin-club-liberty
-    date: May 1797 · French revolutionary ties
+    date: 1790s · French revolutionary connections
+    articles: []
+  - id: tipu-sultan-mauritius-mission
+    date: 1797–1798 · Mauritius
     articles: []
   - id: tipu-letters-from-napoleon
-    date: 1798–1799 · Bonaparte in Egypt
+    date: 1798–1799 · Egypt and Mysore
     articles: []
   - id: tipu-wellesley-ultimatum
     date: 1799 · Rejecting vassalage
+    articles: []
+  - id: tipu-sultan-malavalli
+    date: 27 March 1799 · The road to the capital
     articles: []
   - id: tipu-final-siege-seringapatam
     date: April–May 1799 · Seringapatam
@@ -115,6 +148,9 @@ chapters:
   - id: tipu-plunder-and-burial
     date: May 1799 · Gumbaz mausoleum
     articles: []
+  - id: tipu-sultan-library-dispersal
+    date: After 1799 · India and Britain
+    articles: []
   - id: tipu-enduring-legacy
     date: After 1799 · Global resistance
     articles: []
@@ -124,6 +160,7 @@ excerpt: >-
   innovations, global embassies, and his last stand at Seringapatam.
 tags: []
 ---
+
 ## A prince born at Devanahalli
 
 Tipu Sultan was born on **20 November 1750** at the fortress of **Devanahalli** near modern Bengaluru. Named after the local Sufi saint Tipu Mastan Aulia, he grew up in a kingdom rising swiftly to regional prominence. His youth was steeped in the martial and diplomatic upheavals of eighteenth-century southern India. [1, 2]
@@ -152,6 +189,10 @@ In 1780, Mysore went to war again after the British captured the French port of 
 
 On **10 September 1780**, Tipu intercepted Colonel William Baillie’s British detachment at **Pollilur** near Kanchipuram. Deploying massed iron rocket barrages and heavy cavalry charges, Tipu blew up the British ammunition wagons, killing or capturing the entire force. It was one of the worst battlefield defeats suffered by the British in India. [1, 2, 4]
 
+## A British recovery at Porto Novo
+
+The Company's army under Eyre Coote defeated Hyder Ali's forces at Porto Novo in 1781. Tipu's early career unfolded within this changing war, rather than an uninterrupted sequence of Mysorean victories. The result helped preserve the Company's position in the Carnatic after the disaster at Pollilur. [1, 3]
+
 ## Intercepting Colonel Braithwaite in Tanjore
 
 In February 1782, Tipu scored another major victory by encircling Colonel Braithwaite’s detachment at the Coleroon River in Tanjore. Operating in concert with French allies under Lally, Tipu forced the entire British force to surrender. His reputation as Mysore’s most effective field commander was firmly established. [1, 2]
@@ -162,15 +203,19 @@ In December 1782, Hyder Ali died of a cancerous growth in camp near Chittur whil
 
 ## Assuming leadership amidst active war
 
-Arriving in camp on **29 December 1782**, Tipu assumed sovereignty over the Mysore kingdom without civil conflict. He immediately faced active British counter-offensives on the western coast, where General Matthews had captured Bednore and Mangalore. Tipu marched across the Ghats to confront the invasion. [1, 2]
+Tipu succeeded Hyder Ali in December 1782 while the Second Anglo-Mysore War continued. Securing the army and the cooperation of senior officials was essential to the transfer of power. British operations on the western coast in the following months brought further crises, including the struggle for Bednore and Mangalore. [1, 2]
 
 ## Marching across the Ghats to Mangalore
 
 Tipu laid siege to the British garrison inside **Mangalore** in 1783, trapping Colonel Campbell's troops through a bitter nine-month blockade. He constructed sophisticated siege trenches and artillery redoubts along the coast. Cut off from naval relief, the surviving British troops were compelled to surrender. [1, 2]
 
-## The Treaty of Mangalore dictates peace
+## Peace through the Treaty of Mangalore
 
-Signed on **11 March 1784**, the **Treaty of Mangalore** brought the Second Anglo-Mysore War to an end on terms of mutual territorial restoration. It was the last treaty in which an Indian sovereign directly dictated peace terms to the British East India Company, infuriating Governor-General Warren Hastings in Calcutta. [1, 2, 3]
+The Treaty of Mangalore, signed on 11 March 1784, ended the Second Anglo-Mysore War through mutual territorial restoration and arrangements for prisoners. It preserved Mysore as a major independent power. Its terms were a negotiated settlement, and should not be described as proof that one side dictated every provision. [1, 2, 3]
+
+## Deporting Mangalorean Catholic communities
+
+After recovering the coast, Tipu's government deported large numbers of Mangalorean Catholics into the interior, where many endured captivity. Allegations of assistance to the Company were used against the community. Estimates of numbers and deaths vary; the coercion itself belongs in the account alongside his resistance to British expansion. [1, 3, 5]
 
 ## Mechanizing the iron-cased rocket corps
 
@@ -180,7 +225,7 @@ Tipu mechanized and expanded the specialized rocket corps (*kushoon*) developed 
 
 Tipu’s iron rockets carried ranges approaching nearly two kilometers, scattering shrapnel and sparking panic among cavalry formations. Rocket wagons transported multiple firing tubes into battle, providing mobile artillery barrage. Captured Mysorean rockets shipped to London after 1799 inspired William Congreve's invention of British military rocketry. [1, 4]
 
-## Foundering the state trading corporation
+## Organising state-directed trade
 
 To free Mysore from European commercial dominance, Tipu founded a state trading monopoly (**Tijarat Khana**). He established overseas commercial factories at Muscat, Ormuz, and Cutch, trading sandalwood, pepper, and cardamom for horses and weapons. He barred foreign European companies from trading directly within his inland provinces. [1, 2]
 
@@ -188,21 +233,41 @@ To free Mysore from European commercial dominance, Tipu founded a state trading 
 
 Tipu established the **Mysore silk industry** by importing silkworm eggs and mulberry cuttings from Bengal, Oman, and China. He set up twenty-one state-run sericulture centers across his kingdom, offering subsidies to cultivators. The industry flourished, creating an enduring agro-industrial heritage that remains vital to modern Karnataka. [1, 2]
 
+## Minting an independent royal identity
+
+Tipu issued gold, silver, and copper coins with distinctive names and inscriptions. Coinage linked ordinary exchange with royal authority and religious language. Surviving specimens offer material evidence of his state that can be compared with written fiscal orders, while changing designs and dates require careful identification. [1, 3]
+
+## Introducing the Mauludi dating system
+
+Tipu introduced a Mauludi era in official dating, alongside changes to the names used for months and years. This makes his administrative records unusually distinctive but also creates problems when converting dates. A letter's original calendar should therefore be established before assigning it a modern day and month. [1, 5]
+
 ## Water-powered mills and cannon foundries
 
 At Seringapatam, Tipu constructed state-run industrial workshops using water power from the Cauvery River. He manufactured paper, cast bronze and iron cannon, built musket barrels, and refined sugar. He recruited French, Turkish, and Indian artisans, seeking total military and economic self-sufficiency for his kingdom. [1, 2]
 
 ## Establishing the Board of Admiralty
 
-Recognizing that colonial power rested on maritime supremacy, Tipu established a formal Naval Board (**Mir Yam**) in 1796. He drew up ambitious blueprints for an oceanic fleet of forty warships, including two-decked battleships carrying seventy cannons. His naval regulations governed crew discipline, signals, and gunnery practice. [1, 2]
+In 1796, Tipu issued plans and regulations for a naval establishment, including the organisation of ships, officers, and crews. They reveal a concern with maritime power and commercial protection. The projected fleet should not be confused with a fully operational force of the strength specified in the plans. [1, 2]
 
 ## Dockyards at Mangalore and Tadadi
 
-Tipu established modern naval dockyards at **Mangalore**, Tadadi, and Wajidabad on the Arabian Sea coast. His shipbuilders utilized local Malabar teak and copper-sheathed hulls to protect against shipworms. His fledgling navy patrolled the coast, combating piracy and protecting merchant shipping from British interception. [1, 2]
+Mangalore and other western coastal sites were associated with Tipu’s shipbuilding and maritime plans. Access to timber, skilled workers, ports, and finance mattered as much as written regulations. The ambitions of these projects are better documented than the existence of a large fleet capable of matching British naval power. [1, 2]
 
 ## Codifying military discipline in the manual
 
-Tipu authored and issued a comprehensive military treatise titled **Fathul Mujahidin** in 1783, standardizing unit structures, drill, and ballistics. He eliminated feudal mercenary levies, paying all soldiers in direct cash salaries from the state treasury. His standing army was among the most professionally trained and disciplined in eighteenth-century Asia. [1, 2]
+The military manual Fathul Mujahidin is associated with Tipu’s programme of army organisation. Drill, unit structures, equipment, and the use of rockets formed part of his effort to strengthen a salaried fighting force. The manual is evidence of intended practice, rather than proof that every unit followed its prescriptions uniformly. [1, 2]
+
+## The tiger becomes a language of rule
+
+Tiger heads and stylised stripes decorated Tipu's throne, weapons, textiles, and equipment. The mechanical tiger now at the V&A depicts an attack on a European soldier. Such objects made opposition to the Company visible within court culture; they were symbols of kingship, not evidence that Mysore possessed effortless military superiority. [6]
+
+## Recording dreams in the royal manuscript
+
+A surviving dream manuscript attributed to Tipu records visions associated with religion, victory, and kingship. It offers a different kind of evidence from a treaty or a battlefield report: the ruler's symbolic expectations and concerns. Dreams cannot be read as proof that the events imagined in them occurred. [6]
+
+## Military rule and forced conversion in Kodagu
+
+Campaigns in Kodagu involved resistance to Mysorean authority, deportations, and forced conversions. Tipu's translated correspondence includes orders and claims concerning these operations. The documents require scrutiny of language and numbers, but they cannot be reconciled with an account that presents his government only through innovation and anti-colonial warfare. [1, 3, 5]
 
 ## Diplomatic embassy to Constantinople
 
@@ -220,6 +285,10 @@ Between 1785 and 1787, Mysore fought a grueling war against a combined coalition
 
 The war with the Marathas ended in 1787 with the **Treaty of Gajendragad**, under which Tipu paid an indemnity and returned disputed border territories in exchange for recognized boundaries. The peace was short-lived, as the British actively sought to unite the Marathas and the Nizam in a permanent alliance against Mysore. [1, 3]
 
+## Religious coercion on the western frontier
+
+In Malabar, political resistance and Tipu's campaigns were accompanied by coercive religious policies, flight, and captivity. The experiences of affected Hindu and Christian communities complicate the court's account of successful government. Specific claims should be traced to local records and correspondence, rather than reduced to either communal legend or blanket denial. [1, 3, 5]
+
 ## Assaulting the lines of Travancore
 
 In December 1789, Tipu launched an assault on the northern fortifications of **Travancore**—the **Nedumkotta**—alleging territorial encroachment by a British ally. After an initial repulse, Tipu breached the earthen ramparts in April 1790. This border campaign gave Governor-General Lord Cornwallis the long-sought pretext to declare war. [1, 2, 3]
@@ -232,6 +301,10 @@ In the **Third Anglo-Mysore War (1790–1792)**, Lord Cornwallis united the Brit
 
 In March 1791, Cornwallis stormed the crucial fortress of **Bangalore**, capturing its rich storehouses after a bloody breach. Tipu counterattacked vigorously, using cavalry and rocket units to harass the allied baggage lines. However, allied supply networks and numerical superiority slowly pushed the defenders back toward their island capital. [1, 2]
 
+## Supporting the restoration of a Hindu monastery
+
+After a Maratha force attacked Sringeri in 1791, Tipu corresponded with its head and provided assistance for restoration and worship. The monastery preserves this relationship in its records. His support for this institution must be recorded together with, rather than substituted for, evidence of forced conversion and captivity in other regions. [7]
+
 ## Encirclement of Seringapatam island
 
 By February 1792, allied armies had encircled Tipu’s island capital of **Seringapatam** on the Cauvery River. Cornwallis launched a surprise night attack on the outer redoubts, establishing siege batteries within cannon range of the royal palace. Confronting starvation and overwhelming artillery, Tipu was forced to negotiate terms. [1, 2, 3]
@@ -242,23 +315,31 @@ The **Treaty of Seringapatam (1792)** stripped Mysore of half its territory, ced
 
 ## Surrender of his two young sons to Cornwallis
 
-To guarantee payment of the indemnity, Cornwallis demanded two of Tipu's young sons as hostages. On **26 February 1792**, Princes Abdul Khaliq and Muiz-ud-din were surrendered in an emotional ceremony that captured European artistic attention. Tipu disciplined his court, raised emergency revenues, and fully repaid the debt within two years. [1, 2, 4]
+The 1792 settlement required two of Tipu’s sons to be delivered as hostages while the indemnity was paid. Their reception by Cornwallis became a prominent subject for British artists, who portrayed imperial magnanimity. The children were instruments of a coercive peace, and those paintings should be read as political representations rather than neutral records of family feeling. [1, 2, 3]
 
 ## Repaying the indemnity to redeem his sons
 
 By 1794, having fully cleared the financial indemnity through state economy and taxation, Tipu welcomed his young sons safely back to Seringapatam. He immediately turned his energies to restoring his kingdom's fortifications, replenishing arms foundries, and seeking fresh external alliances to break British isolation. [1, 2]
 
-## Planting the Tree of Liberty as Citizen Tipu
+## French republican rituals at Seringapatam
 
-In May 1797, French troops and mercenaries in Seringapatam formed a chapter of the **Jacobin Club**, firing artillery salutes in honor of the French Republic. Tipu allowed himself to be addressed as **"Citizen Tipu"** and planted a **Tree of Liberty** in the fortress, hoping to secure revolutionary French military intervention. [1, 2, 4]
+French residents and soldiers at Seringapatam brought revolutionary language and ceremonies into Tipu’s political world. Accounts of a Jacobin club, a liberty tree, and the title “Citizen Tipu” vary in detail and are often repeated too confidently. His search for French military aid is better established than every theatrical scene attached to it. [1, 2, 6]
 
-## Napoleon's intercepted letters from Cairo
+## Seeking French troops from an island colony
 
-In 1799, **Napoleon Bonaparte** invaded Egypt, seeking to threaten British commerce in India. Napoleon wrote to Tipu from Cairo, promising an invincible army to liberate Mysore from the British yoke. Intercepted by British intelligence, this correspondence gave the hawkish Governor-General **Lord Wellesley** the justification to eliminate Mysore permanently. [1, 2, 4]
+Tipu's envoys sought assistance from the French authorities in Mauritius. Governor Malartic's public proclamation and the small body of volunteers that followed became central to British allegations against Mysore. The scale of actual French assistance was far smaller than the threat Wellesley's government represented in its arguments for war. [1, 2, 6]
+
+## A letter from Napoleon’s Egyptian campaign
+
+Napoleon invaded Egypt in 1798 and wrote from Cairo to Tipu in January 1799, proposing contact against their common British adversary. The letter does not establish that a French army was about to reach Mysore. Tipu’s diplomacy, French ambitions, and Wellesley’s use of the perceived threat need to be distinguished. [1, 2]
 
 ## Lord Wellesley's subsidiary alliance ultimatum
 
-Lord Wellesley demanded that Tipu disarm his forces, accept a British subsidiary garrison at state expense, and sever all French connections. Tipu refused to accept subjugation, reportedly declaring: "It is better to live a single day as a tiger than a thousand years as a sheep." Wellesley launched a two-pronged invasion in March 1799. [1, 2, 3]
+Wellesley demanded arrangements that would subordinate Mysore to British strategic control and exclude French assistance. Tipu did not accept the settlement sought by the Company. The famous tiger-and-sheep saying belongs to his later heroic image and should not be treated as a verified transcript of these negotiations. Allied forces invaded in 1799. [1, 2, 3]
+
+## Fighting the advancing army at Malavalli
+
+Mysorean forces fought the Company's advancing army at Malavalli before the final investment of Seringapatam. The encounter failed to halt the invasion. Tipu then had to defend the island capital while allied armies controlled more of the surrounding country and brought siege equipment into position. [1, 3]
 
 ## The Fourth War and bombardment of the breach
 
@@ -266,11 +347,15 @@ Allied forces under General George Harris and Colonel Arthur Wellesley besieged 
 
 ## The final stand and death at the Water Gate
 
-On the afternoon of **4 May 1799**, British assault columns stormed the breach. Tipu abandoned his midday meal, took his sword, and rushed to the front lines near the **Water Gate** to rally his soldiers. Fighting on foot amidst hand-to-hand combat, he was shot three times before falling beneath the bodies of his loyal guards. [1, 2, 4]
+British assault columns entered the breached defences on 4 May 1799. Tipu died during the fighting near a gateway, and his body was subsequently identified among the dead. Later paintings and biographies supply vivid final gestures and speeches, but the exact sequence of his last moments cannot be recovered with the same certainty as the date and outcome. [1, 3, 6]
 
 ## The sack of the city and royal burial
 
 British troops plundered the wealthy capital, looting Tipu's golden tiger-head throne, jeweled weapons, and royal library of Arabic and Persian manuscripts. His body was found late that evening and buried the next day beside his parents at the **Gumbaz** mausoleum amidst an intense thunderstorm. Mysore's sovereign independence was extinguished. [1, 2, 4]
+
+## The royal library becomes a colonial archive
+
+Books, correspondence, and court manuscripts were taken from Seringapatam and dispersed among colonial collections. Some records were lost in the sack, while others survive because institutions preserved the captured material. The resulting archive is extensive, but its survival and arrangement reflect conquest as well as Tipu's own government. [5, 6]
 
 ## The Tiger of Mysore in historical memory
 
@@ -285,3 +370,9 @@ Following Tipu's death, Mysore's core was restored to the Wodeyar dynasty under 
 3. **C. Hayavadana Rao**, *History of Mysore (1399–1799 A.D.)*, Vol. III, Government Press, Bangalore (1946). Exhaustive regional archival documentation covering the Anglo-Mysore Wars, land tenure, revenue administration, and court treaties.
 
 4. **William Dalrymple**, *The Anarchy: The Relentless Rise of the East India Company*, Bloomsbury Publishing (2019). Modern narrative synthesis utilizing contemporary East India Company records and Persian memoirs detailing the military campaigns, rocketry, and the fall of Seringapatam.
+
+5. **Tipu Sultan, *Select Letters*, translated and annotated by William Kirkpatrick (1811)**, [primary correspondence](https://persian.packhum.org/text/021201010). The letters preserve orders on administration, war, prisoners, and coercion, mediated through an East India Company officer's selection and translation. Kirkpatrick's hostile commentary is distinguished from the translated documents; reported numbers are not adopted as audited totals.
+
+6. **Museum and manuscript records:** [National Army Museum, Tipu's war turban](https://www.nam.ac.uk/explore/tipu-sultans-war-turban), [V&A, Tipu's Tiger](https://www.vam.ac.uk/articles/tipus-tiger), [British Library, the dream book IO Islamic 3563](https://bl.iro.bl.uk/entities/publication/7ced20ef-3e47-4082-8c21-526b6adce785), and [India Office records on Mauritius, IOR/H/572](https://searcharchives.bl.uk/catalog/040-000004655). These identify surviving objects and archival records; later battle paintings are not eyewitness photographs.
+
+7. **Sringeri Sharada Peetham, institutional account of Sacchidananda Bharati III**, [the correspondence with Tipu](https://www.sringeri.net/jagadgurus/sri-sacchidananda-bharati-iii-1770-1814). The letters concern aid after the 1791 attack on the monastery and subsequent relations. This institutionally preserved correspondence is considered alongside evidence of coercion elsewhere, rather than used to erase it.

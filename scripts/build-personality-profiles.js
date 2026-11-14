@@ -114,7 +114,9 @@ function writeProfiles(root, output, english, localized, copy, language) {
 function writeProfileDrafts(root, output, articles) {
   const directory = path.join(root, 'content/drafts/articles');
   const drafts = {};
-  for (const source of readSources(root)) {
+  const approved = readSources(root);
+  const draftSlugs = new Set();
+  for (const source of approved) {
     if (!releaseStatus(root, source).ready) {
       drafts[source.data.personalityStoryFor] = withStoryImages(root, compileStory(source, articles, { preview: true }), source.data);
     }
@@ -123,7 +125,13 @@ function writeProfileDrafts(root, output, articles) {
     const { data, content } = matter.read(path.join(directory, file));
     if (!data.personalityStoryFor) continue;
     const slug = data.personalityStoryFor;
-    assert(!drafts[slug], `Duplicate personality story draft: ${slug}`);
+    assert(!draftSlugs.has(slug), `Duplicate personality story draft: ${slug}`);
+    // A revised English manuscript shadows its approved version only in dev mode.
+    // The approved source and all translations keep their existing release status.
+    const original = approved.find(source => source.data.personalityStoryFor === slug);
+    assert(!original || original.file === file,
+      `Personality revision must use its approved source filename: ${slug}`);
+    draftSlugs.add(slug);
     const tokens = marked.lexer(content.trim());
     const chapters = [];
     let current = [];

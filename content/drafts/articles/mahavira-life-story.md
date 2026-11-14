@@ -1,5 +1,5 @@
 ---
-title: 'Mahavira: a life in 44 moments'
+title: 'Mahavira: a life in 50 moments'
 personalityStoryFor: mahavira
 personalities:
   - mahavira
@@ -46,6 +46,9 @@ chapters:
   - id: mahavira-twelve-years-penance
     date: Twelve and a half years · Relentless tapas
     articles: []
+  - id: mahavira-rainy-season-residences
+    date: Traditional chronology · The rains retreats
+    articles: []
   - id: mahavira-enduring-torment
     date: The Radha wilderness · Patient endurance
     articles: []
@@ -82,6 +85,9 @@ chapters:
   - id: mahavira-fourfold-sangha
     date: Community organization · Magadha
     articles: []
+  - id: mahavira-kesi-gautama
+    date: Canonical dialogue · Two lineages
+    articles: []
   - id: mahavira-chandanbala-nuns
     date: Spiritual equality · Order of nuns
     articles: []
@@ -93,6 +99,9 @@ chapters:
     articles: []
   - id: mahavira-vows-celibacy-property
     date: Renunciation · Celibacy and non-possession
+    articles: []
+  - id: mahavira-three-jewels
+    date: 'The Jain path · Faith, knowledge, and conduct'
     articles: []
   - id: mahavira-jiva-and-ajiva
     date: Jain metaphysics · Soul and matter
@@ -121,6 +130,12 @@ chapters:
   - id: mahavira-merchant-lay-vows
     date: Urban society · The twelve householder vows
     articles: []
+  - id: mahavira-ananda-householder
+    date: Lay tradition · A merchant's commitments
+    articles: []
+  - id: mahavira-samayika
+    date: Lay and monastic discipline · Equanimity
+    articles: []
   - id: mahavira-schism-jamali
     date: Internal challenge · Kosambi
     articles: []
@@ -129,6 +144,9 @@ chapters:
     articles: []
   - id: mahavira-attaining-moksha
     date: c. 527 BCE or c. 468 BCE · Pavapuri
+    articles: []
+  - id: mahavira-gautama-after-mahavira
+    date: After Mahavira's liberation · Jain tradition
     articles: []
   - id: mahavira-lamps-of-diwali
     date: The night of liberation · Earthen lights
@@ -142,6 +160,7 @@ excerpt: >-
   omniscience, the consolidation of the Jain Sangha, and liberation at Pavapuri.
 tags: []
 ---
+
 ## The twenty-fourth ford-maker in an ancient lineage
 
 In the Jain perspective, Vardhamana Mahavira is the twenty-fourth and concluding **Tirthankara** ("ford-maker") of the current cosmic era. He is not regarded as the inventor of a new faith, but as a restorer who revitalized an eternal spiritual path. His life represents the culmination of an ancient ascetic lineage. [1, 4, 5]
@@ -198,6 +217,10 @@ By walking "sky-clad" (*digambara*), Mahavira discarded all social status, caste
 
 For over twelve years, Mahavira wandered through the rugged country of Bihar and western Bengal (then called Radha). He avoided settled towns except during the monsoon rains, rarely spending more than one night in a single village. He slept only a few hours during these years, maintaining constant introspective vigilance. [1, 2]
 
+## Wandering has a seasonal rhythm
+
+The Kalpa Sutra enumerates places where Mahavira is traditionally said to have spent rainy seasons, including Rajagriha and the Vesali region. Remaining in one place reduced the dangers of travel during the rains and the injury movement could cause to small living beings. The list is a canonical chronology, not a contemporary travel diary. [6]
+
 ## Bearing attacks and insults with equanimity
 
 In tribal regions, inhabitants frequently set dogs upon the silent, naked ascetic, struck him with sticks, and mocked his presence. The *Acaranga Sutra* records that Mahavira bore all abuse with unwavering patience and compassion. He harbored no anger toward his persecutors, viewing bodily pain as a purifying fire. [1, 2]
@@ -246,6 +269,10 @@ These eleven prominent scholars became the **Ganadharas** ("leaders of the assem
 
 Mahavira organized his followers into the **Chaturvidha Sangha** (Fourfold Community): monks (*sadhus*), nuns (*sadhvis*), laymen (*shravakas*), and laywomen (*shravikas*). This structure gave lay people an integral role in religious life while maintaining a dedicated monastic core, ensuring the long-term survival of the tradition. [1, 4]
 
+## Kesi and Gautama discuss different disciplines
+
+Uttaradhyayana 23 presents Kesi, associated with Parshva's tradition, and Gautama, Mahavira's disciple, discussing apparent differences in ascetic rules. Their agreement explains continuity between two teaching lineages. It is evidence for how Jain scripture understands that relationship, rather than a word-for-word record independently dated to a particular meeting. [6]
+
 ## Princess Chandanbala leads the order of nuns
 
 Mahavira granted women equal spiritual dignity and monastic standing within the Sangha. He appointed **Chandanbala** (Chandana), a former royal princess who had endured enslavement, to lead the order of nuns. Under her guidance, the community of nuns grew to outnumber the monks, demonstrating broad social inclusion. [1, 4]
@@ -261,6 +288,10 @@ The second and third vows are **Satya** (truthfulness) and **Asteya** (non-steal
 ## The vows of celibacy and non-possession
 
 Mahavira explicitly added **Brahmacharya** (complete celibacy) as the fourth vow, making distinct what earlier traditions had included under general restraint. The fifth vow, **Aparigraha**, requires total renunciation of property and inward possessiveness, breaking the psychological roots of greed and attachment. [1, 2, 4]
+
+## Liberation requires more than knowledge alone
+
+The Jain path brings right faith or vision, right knowledge, and right conduct together as the three jewels. They connect an understanding of reality with a disciplined way of living. This formulation explains the tradition shaped by Mahavira; its later systematic presentation should not be mistaken for a dated lecture preserved unchanged. [4, 5]
 
 ## Jain metaphysics: soul and matter
 
@@ -298,6 +329,14 @@ Mahavira's teachings were received with profound respect by leading contemporary
 
 Recognizing that householders could not practice the radical renunciation of monks, Mahavira established the **Twelve Vows of the Layperson** (*Anuvratas*). These adapted non-violence, honesty, and limitation of wealth to practical daily life. The code encouraged honest commerce, charitable giving (*dana*), and peaceful vocations. [1, 4]
 
+## Ananda and the obligations of a lay follower
+
+The Upasakadasanga remembers Ananda as a wealthy householder who accepts restraints under Mahavira's guidance. His example makes lay discipline concrete: possessions and livelihood require limits even when a follower does not become a mendicant. The account belongs to Svetambara canonical tradition, with its own history of transmission. [4, 5]
+
+## Setting aside time for equanimity
+
+Samayika asks practitioners to cultivate equanimity and suspend harmful activity for a defined period. For householders, it offers a recurring discipline alongside ordinary responsibilities. It illuminates the tradition's practical reception of Mahavira's teaching; it is not an additional journey or a securely dated incident in his personal life. [4, 5]
+
 ## The early challenge and dissension of Jamali
 
 During his later ministry, Mahavira faced internal challenge from his disciple **Jamali**, who disputed a subtle point regarding when an action is completed. Jamali seceded with a faction of followers, creating the first minor dissension (*nihnava*). Mahavira handled the dispute with calm doctrinal clarity, keeping the community united. [1, 4]
@@ -309,6 +348,10 @@ At seventy-two years of age, Mahavira spent his final monsoon retreat at **Pavap
 ## Attaining final liberation at Pavapuri
 
 On the new moon night of the month of Kartika (traditionally calculated as **527 BCE** or **c. 468 BCE**), Mahavira severed his remaining karmas and attained **Moksha**. His soul ascended to the apex of the universe (*Siddhashila*), dwelling forever in boundless bliss and knowledge, freed from all rebirth. [1, 3, 4]
+
+## Gautama's insight after the teacher's death
+
+Jain tradition connects Gautama's attainment of perfect knowledge with the time of Mahavira's liberation. The episode addresses a disciple's attachment to his teacher and the continuing possibility of spiritual attainment. Its sacred chronology belongs to the tradition and should remain distinct from independently verified political dates. [1, 4, 5]
 
 ## The eighteen kings light the lamps of Diwali
 
@@ -329,3 +372,5 @@ Following Mahavira’s passing, leadership of the community passed to **Sudharma
 4. **Padmanabh S. Jaini**, *The Jaina Path of Purification*, University of California Press, Berkeley (1979); Motilal Banarsidass, Delhi. Scholarly study analyzing Jain cosmology, the Tirthankara tradition, the ontology of karma, Anekantavada, and the monastic community.
 
 5. **Paul Dundas**, *The Jains*, Routledge, London and New York (2nd revised edition, 2002). Modern academic study detailing the historical setting of Mahavira, relations with the Licchavis and Magadha, and textual transmission of the Agamas.
+
+6. **Hermann Jacobi, *Jaina Sutras*, Sacred Books of the East 22 (1884) and 45 (1895)**, [digitised volume 22](https://archive.org/details/jainasutraspart100jaco) and [volume 45](https://archive.org/details/jainasutraspart200jaco). The Kalpa Sutra records traditional rainy-season residences; Uttaradhyayana 23 preserves the Kesi–Gautama dialogue, and the canonical literature describes ascetic and lay disciplines. The texts were transmitted and redacted over time; later doctrinal formulations are not verbatim speeches recoverable from Mahavira's lifetime.

@@ -338,7 +338,7 @@ export const personalities: Personality[] = [
   },
   {
     slug: 'shivaji',
-    name: 'Shivaji',
+    name: 'Chhatrapati Shivaji Maharaj',
     range: 'c. 1630 – 1680 CE',
     shortDescription: 'Founder of the Maratha state, known for fort warfare, naval policy, and resistance to larger imperial powers.',
     description: 'Shivaji built a resilient Maratha kingdom in western India through mobile warfare, fort networks, administrative innovation, and symbolic kingship. His career became central to later Maratha expansion and political memory.'

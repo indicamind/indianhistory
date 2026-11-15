@@ -43,6 +43,10 @@ async function processArticleImages() {
         .webp({ quality: 80 })
         .toFile(path.join(PUBLIC_IMAGES_DIR, `${base}.webp`));
 
+      const bubble = sharp(src).resize({ width: 640, height: 640, fit: 'inside', withoutEnlargement: true });
+      await bubble.clone().jpeg({ quality: 78, progressive: true, mozjpeg: true }).toFile(path.join(PUBLIC_IMAGES_DIR, `${base}-bubble.jpg`));
+      await bubble.clone().webp({ quality: 78 }).toFile(path.join(PUBLIC_IMAGES_DIR, `${base}-bubble.webp`));
+
       count++;
     } else if (ext === '.png') {
       const resized = sharp(src).resize({ width: 1200, withoutEnlargement: true });
@@ -56,6 +60,10 @@ async function processArticleImages() {
         .clone()
         .webp({ quality: 80 })
         .toFile(path.join(PUBLIC_IMAGES_DIR, `${base}.webp`));
+
+      const bubble = sharp(src).resize({ width: 640, height: 640, fit: 'inside', withoutEnlargement: true });
+      await bubble.clone().png().toFile(path.join(PUBLIC_IMAGES_DIR, `${base}-bubble.png`));
+      await bubble.clone().webp({ quality: 78 }).toFile(path.join(PUBLIC_IMAGES_DIR, `${base}-bubble.webp`));
 
       count++;
     }

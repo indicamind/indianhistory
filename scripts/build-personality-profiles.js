@@ -91,7 +91,7 @@ function buildProfiles(root, english, localized, copy = {}, language = 'en') {
     const story = stories.find(source => source.data.personalityStoryFor === slug);
     if (story) {
       const source = language === 'en' ? story : readTranslation(root, story, language);
-      profile.story = withStoryImages(root, compileStory(source, localized), source.data);
+      profile.story = withStoryImages(root, compileStory(source, localized), source.data, {copy, language});
     }
     return [slug, profile];
   }));
@@ -104,7 +104,7 @@ function writeProfiles(root, output, english, localized, copy, language) {
     for (const source of readSources(root)) {
       const translation = readTranslation(root, source, language);
       if (!releaseStatus(root, source).ready && !translationProblems(source, translation).length) {
-        previews[source.data.personalityStoryFor] = withStoryImages(root, compileStory(translation, localized, { preview: true }), translation.data);
+        previews[source.data.personalityStoryFor] = withStoryImages(root, compileStory(translation, localized, { preview: true }), translation.data, {copy, language});
       }
     }
     fs.writeFileSync(path.join(output, 'personality-story-drafts.json'), JSON.stringify(previews));

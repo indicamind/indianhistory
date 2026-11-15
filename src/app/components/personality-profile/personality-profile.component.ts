@@ -55,6 +55,8 @@ export class PersonalityProfileComponent implements OnChanges {
 
   webp(src: string): string { return src.replace(/\.(?:jpe?g|png)$/i, '.webp'); }
 
+  bubbleImage(src: string): string { return src.replace(/\.(jpg|png)$/i, '-bubble.$1'); }
+
   openImage(image: PersonalityChapterImage, dialog: HTMLDialogElement): void {
     this.selectedImage.set(image);
     dialog.showModal();

@@ -32,7 +32,7 @@ The bubbles cover distinct life events, documented government and diplomacy, rel
 
 The research used public-domain primary texts and historical editions alongside archaeological, manuscript, museum and institutional records. These include the Akbarnama, Baburnama, Jahangir’s account, Afif and the Futuhat, Greek accounts of the Mauryan world, named Buddhist discourses and Jain texts, Gandhi’s collected writings and chronology, and archival material for Tipu. Later Mewar histories are compared with contemporary sources, and romantic details remain attributed. Source lists in each manuscript identify the particular works used.
 
-The review also corrects inherited draft problems, including the attribution of Gandhi’s role in the Poona Pact, the chronology of Tipu’s contact with Napoleon, and the distinction between commissioning the Rajprashasti and engraving it after Raj Singh’s death. Existing chapter identifiers and article associations are retained. Images already present, including Shivaji’s illustrated timeline, are preserved. This expansion does not add images to the new bubbles.
+The review also corrects inherited draft problems, including the attribution of Gandhi’s role in the Poona Pact, the chronology of Tipu’s contact with Napoleon, and the distinction between commissioning the Rajprashasti and engraving it after Raj Singh’s death. Existing chapter identifiers and article associations are retained. Images already present, including Shivaji’s illustrated timeline, are preserved. The subsequent [image association update](personality-images-review.md) now illustrates every bubble in these English drafts and the unchanged approved timelines.
 
 ## Evidence-limited timelines
 

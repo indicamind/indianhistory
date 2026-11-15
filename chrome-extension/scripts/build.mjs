@@ -96,7 +96,16 @@ for (const language of languages) {
     if (profile.image) media.add(profile.image.src.replace(/^\//, ''));
     if (profile.story) {
       assert(!profile.story.draft && !profile.story.preview, language + ': unpublished personality timeline');
-      for (const chapter of profile.story.chapters) collectMedia(chapter.html);
+      for (const chapter of profile.story.chapters) {
+        collectMedia(chapter.html);
+        if (chapter.image) {
+          assert(!/^(?:https?:)?\/\//i.test(chapter.image.src), 'Remote personality image');
+          media.add(chapter.image.src.replace(/^\//, ''));
+          media.add(chapter.image.src.replace(/^\//, '').replace(/\.(?:jpg|png)$/i, '.webp'));
+          media.add(chapter.image.src.replace(/^\//, '').replace(/\.(jpg|png)$/i, '-bubble.$1'));
+          media.add(chapter.image.src.replace(/^\//, '').replace(/\.(?:jpg|png)$/i, '-bubble.webp'));
+        }
+      }
       collectMedia(profile.story.sourcesHtml);
       // Keep reference text and URLs as metadata, without outbound navigation.
       profile.story.referenceUrls = [...new Set([...profile.story.sourcesHtml.matchAll(/\bhref="(https?:[^\"]*)"/gi)].map(match => match[1]))];

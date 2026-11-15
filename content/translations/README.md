@@ -72,3 +72,13 @@ only in English dev mode; approved source hashes, existing translations, and
 the shared release gate remain unchanged. The 462 existing translated timelines still cover the earlier approved text,
 not these expanded drafts.
 Do not translate or publish the expanded narratives before explicit approval.
+
+## Personality image associations, 2026-11-15
+
+The shared chapter image catalogue now covers all 804 bubbles in the other
+18 English timelines, alongside Shivaji’s existing illustrated draft. All 33
+translation editions include the image labels in site.json. Images are selected
+by stable chapter identifiers, so adding them does not change the approved
+narrative source hashes or release the expanded English drafts. Linked image
+credits, local WebP/JPEG assets and the image viewer also work offline. See the
+[image review and provenance table](../drafts/personality-images-review.md).

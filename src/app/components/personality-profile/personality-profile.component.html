@@ -40,7 +40,7 @@
             </header>
             @if (chapter.image; as image) {
               <figure class="bubble-figure">
-                <button class="bubble-image-frame" type="button" [attr.aria-label]="locale.translate('View image') + ': ' + image.caption" (click)="openImage(image, storyImageDialog)"><picture><source [srcset]="webp(image.src)" type="image/webp" /><img [src]="image.src" [alt]="image.alt" [attr.width]="image.width" [attr.height]="image.height" loading="lazy" decoding="async" /></picture></button>
+                <button class="bubble-image-frame" type="button" [attr.aria-label]="locale.translate('View image') + ': ' + image.caption" (click)="openImage(image, storyImageDialog)"><picture><source [srcset]="webp(bubbleImage(image.src))" type="image/webp" /><img [src]="bubbleImage(image.src)" [alt]="image.alt" [attr.width]="image.width" [attr.height]="image.height" loading="lazy" decoding="async" /></picture></button>
                 <figcaption><span class="bubble-image-caption">{{ image.caption }}</span><span class="bubble-image-credit">{{ image.author }} · {{ image.license === 'Public domain' ? locale.translate('Public domain') : image.license }}</span></figcaption>
               </figure>
             }

@@ -86,6 +86,13 @@ function collectSiteStrings() {
     if (typeof data.eventDate === 'string') STRINGS.add(data.eventDate);
   }
   const profiles = JSON.parse(fs.readFileSync(path.join(ROOT, 'content/data/personality-profiles.json'), 'utf8'));
+  const imageCatalog = path.join(ROOT, 'content/data/personality-story-images.json');
+  if (fs.existsSync(imageCatalog)) {
+    for (const image of Object.values(JSON.parse(fs.readFileSync(imageCatalog, 'utf8')).images)) {
+      STRINGS.add(image.kind);
+      STRINGS.add(image.subject);
+    }
+  }
   for (const profile of Object.values(profiles)) {
     if (profile.portrait) {
       STRINGS.add(profile.portrait.alt);

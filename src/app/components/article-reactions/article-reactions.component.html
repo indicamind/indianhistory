@@ -1,4 +1,4 @@
-<div class="reactions" role="group" [attr.aria-label]="locale.translate('Article feedback')">
+<div class="reactions" role="group" [attr.aria-label]="feedbackLabel()">
   <button type="button" [class.selected]="vote() === 'up'" [attr.aria-pressed]="vote() === 'up'"
     [attr.aria-label]="locale.translate('Thumbs up')" [attr.aria-describedby]="'thumbs-up-count-' + article().slug"
     [title]="locale.translate('Thumbs up')" [disabled]="busy()" (click)="react('up')">

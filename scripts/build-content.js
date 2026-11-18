@@ -285,6 +285,8 @@ function buildBlogs(directory = BLOGS_DIR) {
       return {
         slug,
         viewCount: directory === BLOGS_DIR ? (viewCounts[slug] ?? 0) : undefined,
+        thumbsUp: directory === BLOGS_DIR ? (reactions[slug]?.thumbsUp ?? 0) : undefined,
+        thumbsDown: directory === BLOGS_DIR ? (reactions[slug]?.thumbsDown ?? 0) : undefined,
         title: String(data.title),
         excerpt: data.excerpt || stripHtml(html).slice(0, 220),
         html,

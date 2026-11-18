@@ -14,7 +14,7 @@ const SOURCE_FILES = ['src/app/data/periods.ts'];
 const VISIBLE_FIELDS = new Set(['name', 'range', 'shortDescription', 'description', 'date', 'title', 'summary']);
 const DYNAMIC_COPY = [
   'Saving…', 'Vote removed.',
-  "Article feedback", "Thumbs up", "Thumbs down", "Thanks for your feedback.", "Could not save your vote. Please try again.",
+  "Article feedback", "Blog feedback", "Thumbs up", "Thumbs down", "Thanks for your feedback.", "Could not save your vote. Please try again.",
   'Explore kingdoms', 'Explore dynasties', 'Dynasty', 'Dynasties', 'Explore sub-periods & topics', '{count} articles across these kingdoms', '{count} articles across these dynasties',
   'All', 'Articles', 'Periods', 'Article', 'Period', 'Empire', 'Kingdom', 'Theme', 'Personality', 'Book',
   '← Back to', '← Back to home', '← Back to Empires', '← Back to Kingdoms', '← Back to Themes',

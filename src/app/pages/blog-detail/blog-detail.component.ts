@@ -14,10 +14,11 @@ import { DevModeService } from '../../services/dev-mode.service';
 import { PageViewService } from '../../services/page-view.service';
 import { PeriodsService } from '../../services/periods.service';
 import { ArticleSectionLinksComponent } from '../../components/article-section-links/article-section-links.component';
+import { ArticleReactionsComponent } from '../../components/article-reactions/article-reactions.component';
 
 @Component({
   selector: 'app-blog-detail',
-  imports: [DatePipe, RouterLink, AssociatedBooksComponent, ArticleSectionLinksComponent],
+  imports: [DatePipe, RouterLink, AssociatedBooksComponent, ArticleSectionLinksComponent, ArticleReactionsComponent],
   templateUrl: './blog-detail.component.html',
   styleUrl: './blog-detail.component.css',
 })

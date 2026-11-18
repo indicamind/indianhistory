@@ -49,6 +49,20 @@ describe('Article reactions stored per browser', () => {
     expect(service().choice('mewar')).toBeNull();
     expect(calls).toEqual(['up', 'down', null].map(vote => ({ slug: 'mewar', voterId: id, vote })));
   });
+  it('registers votes for a localized blog through the shared writer without changing article votes', async () => {
+    const slug = 'how-deep-are-indias-civilizational-roots';
+    document.location.href = `https://www.indiahistory.info/te/blogs/${slug}?lang=te`;
+    const reactions = service();
+    await reactions.save(slug, 'up');
+    await reactions.save('mewar', 'down');
+    expect(service().choice(slug)).toBe('up');
+    expect(service().choice('mewar')).toBe('down');
+    expect(calls).toEqual([
+      { slug, voterId: id, vote: 'up' },
+      { slug: 'mewar', voterId: id, vote: 'down' },
+    ]);
+    expect(loads).toBe(1);
+  });
   it('preserves the saved choice after failure and allows retry', async () => {
     const reactions = service();
     await reactions.save('mewar', 'up');

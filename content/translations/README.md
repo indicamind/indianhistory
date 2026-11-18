@@ -12,13 +12,13 @@ The user requested seven additional language editions on 2026-10-31. Completed e
 
 | Edition | Code | Required site strings translated | Articles translated | Blogs translated | Status |
 | --- | --- | ---: | ---: | ---: | --- |
-| Italian | `it` | 467 / 467 | 48 / 48 | 2 / 2 | Released |
-| Korean | `ko` | 467 / 467 | 48 / 48 | 2 / 2 | Released |
-| Vietnamese | `vi` | 467 / 467 | 48 / 48 | 2 / 2 | Released |
-| Turkish | `tr` | 467 / 467 | 48 / 48 | 2 / 2 | Released |
-| Malay | `ms` | 467 / 467 | 48 / 48 | 2 / 2 | Released |
-| Swahili | `sw` | 467 / 467 | 48 / 48 | 2 / 2 | Released |
-| Filipino | `fil` | 467 / 467 | 48 / 48 | 2 / 2 | Released |
+| Italian | `it` | 521 / 521 | 48 / 48 | 2 / 2 | Released |
+| Korean | `ko` | 521 / 521 | 48 / 48 | 2 / 2 | Released |
+| Vietnamese | `vi` | 521 / 521 | 48 / 48 | 2 / 2 | Released |
+| Turkish | `tr` | 521 / 521 | 48 / 48 | 2 / 2 | Released |
+| Malay | `ms` | 521 / 521 | 48 / 48 | 2 / 2 | Released |
+| Swahili | `sw` | 521 / 521 | 48 / 48 | 2 / 2 | Released |
+| Filipino | `fil` | 521 / 521 | 48 / 48 | 2 / 2 | Released |
 
 All seven requested editions have passed the full release gate with complete translations for interface strings, articles, blogs, image attributions, metadata, and search assets. Each translation includes the complete body, metadata, tags, image alt text and attribution, and a final Sources section with image credits. Original Prakrit, Greek, and Aramaic transliterations remain unchanged.
 
@@ -39,6 +39,8 @@ The completeness gate includes both published blogs in every released language; 
 Blogs can use the same `period`, `polity`, `themes` and `personalities` metadata as articles. Set the identifiers in the English source and every translated source. The content build carries the English membership identifiers into each localized blog asset; translated titles, excerpts and tags remain local to each edition.
 
 The section service shares membership and ancestor rules between articles and blogs. Section pages list associated blogs under a separate, localized Blogs heading; home cards count blogs separately and stay visible when a section has blogs alone. Blog topic links and contextual back links use the same section definitions, including localized names. English dev drafts follow the existing blog visibility rules.
+
+Published blogs also share the article upvote/downvote controls and aggregate reaction snapshot. Drafts hide the controls. Blog feedback labels are translated in every edition; saved choices, switching, removal and offline/local previews follow the existing article reaction service. Mobile blog image dialogs fill the viewport width, preserve image proportions, and keep the close control accessible while tall images scroll.
 
 The civilizational roots post belongs to `indus-valley` and `indigenous-aryanism-out-of-india-theory` in English and all 33 translations. Its narrative, citations and source hashes are unchanged by these metadata additions.
 

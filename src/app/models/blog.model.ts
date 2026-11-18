@@ -3,6 +3,8 @@ import { SectionEntry } from './section-membership.model';
 export interface BlogPost extends SectionEntry {
   slug: string;
   viewCount?: number; // Firestore snapshot embedded during the production build
+  thumbsUp?: number;
+  thumbsDown?: number;
   title: string;
   excerpt: string;
   html: string;

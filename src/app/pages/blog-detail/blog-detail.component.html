@@ -18,6 +18,9 @@
       <p class="eyebrow">{{ locale.translate('English preview · Translations in progress') }}</p>
     }
     <h1>{{ post()!.title }}</h1>
+    @if (!post()!.draft) {
+      <app-article-reactions [article]="post()!" kind="blog" />
+    }
     <app-article-section-links [blog]="post()!" />
     @if (!post()!.draft && post()!.viewCount !== undefined && (devMode.isDevMode() || post()!.viewCount! >= 10)) {
       <p class="view-count">

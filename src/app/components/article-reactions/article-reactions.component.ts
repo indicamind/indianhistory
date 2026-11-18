@@ -9,8 +9,11 @@ import { activeLocalVote, ArticleReactionService, ArticleVote, LOCAL_REACTION_LI
   styleUrl: './article-reactions.component.css',
 })
 export class ArticleReactionsComponent {
-  readonly article = input.required<ArticleSummary>();
+  readonly article = input.required<Pick<ArticleSummary, 'slug' | 'thumbsUp' | 'thumbsDown'>>();
+  readonly kind = input<'article' | 'blog'>('article');
   readonly locale = inject(LocaleService);
+  readonly feedbackLabel = computed(() => this.kind() === 'blog'
+    ? this.locale.translate('Blog feedback') : this.locale.translate('Article feedback'));
   private readonly reactions = inject(ArticleReactionService);
   readonly vote = signal<ArticleVote>(null);
   readonly busy = signal(false);

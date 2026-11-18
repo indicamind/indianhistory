@@ -1,6 +1,10 @@
 ---
 title: '4,500 ବର୍ଷ ପରେ ବି ପରିଚିତ: ସିନ୍ଧୁ-ସରସ୍ୱତୀ ଜୀବନର 25ଟି ଦୃଶ୍ୟ ପ୍ରତିଧ୍ୱନି'
 slug: how-deep-are-indias-civilizational-roots
+period: indus-valley
+themes:
+  - indigenous-aryanism-out-of-india-theory
+personalities: []
 excerpt: >-
   ଚୁଡ଼ି, ସିନ୍ଦୂର, ପଶାକାଠି, ଗାଡ଼ି, ମାଟିପାତ୍ର ଓ ପବିତ୍ର ଗଛ: ବି. ବି. ଲାଲଙ୍କ
   ପୁରାତାତ୍ତ୍ୱିକ ଉଦାହରଣରୁ ଆରମ୍ଭ କରି ହରପ୍ପା ଜଗତ ଓ ପରବର୍ତ୍ତୀ ଦକ୍ଷିଣ ଏସୀୟ ଜୀବନର 25ଟି

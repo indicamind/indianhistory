@@ -1,6 +1,10 @@
 ---
 title: 'هنوز آشنا پس از 4,500 سال: 25 بازتاب تصویری از زندگی سند و ساراسواتی'
 slug: how-deep-are-indias-civilizational-roots
+period: indus-valley
+themes:
+  - indigenous-aryanism-out-of-india-theory
+personalities: []
 excerpt: >-
   النگو، سیندور، تاس، گاری، سفال و درختان مقدس: 25 مقایسهٔ تصویری میان دنیای
   هاراپایی و زندگی متأخر جنوب آسیا را، با آغاز از نمونه‌های باستان‌شناختی بی.

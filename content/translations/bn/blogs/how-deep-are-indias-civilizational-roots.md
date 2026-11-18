@@ -1,6 +1,10 @@
 ---
 title: '4,500 বছর পরেও পরিচিত: সিন্ধু-সরস্বতীর জীবনের 25টি দৃশ্যপ্রতিধ্বনি'
 slug: how-deep-are-indias-civilizational-roots
+period: indus-valley
+themes:
+  - indigenous-aryanism-out-of-india-theory
+personalities: []
 excerpt: >-
   চুড়ি, সিঁদুর, পাশা, গাড়ি, মৃৎপাত্র ও পবিত্র গাছ: বি. বি. লালের
   প্রত্নতাত্ত্বিক উদাহরণ দিয়ে শুরু করে হরপ্পার জগৎ ও পরবর্তী দক্ষিণ এশীয়

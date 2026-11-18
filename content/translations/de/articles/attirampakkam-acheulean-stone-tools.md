@@ -4,8 +4,7 @@ slug: attirampakkam-acheulean-stone-tools
 excerpt: "Acheuléen-Faustkeile nahe Chennai belegen, dass Frühmenschen vor mindestens 1,07 Millionen Jahren – und wahrscheinlich noch viel früher – im südlichen Indien Werkzeuge herstellten."
 publishedAt: 2026-10-23T00:00:00.000Z
 updatedAt: 2026-10-23T00:00:00.000Z
-period: prehistoric
-polity: null
+period: lower-paleolithic
 personalities: []
 tags:
   - Archäologie

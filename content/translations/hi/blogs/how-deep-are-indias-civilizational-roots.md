@@ -1,6 +1,10 @@
 ---
 title: '4,500 वर्ष बाद भी परिचित: सिंधु-सरस्वती जीवन की 25 दृश्य झलकियाँ'
 slug: how-deep-are-indias-civilizational-roots
+period: indus-valley
+themes:
+  - indigenous-aryanism-out-of-india-theory
+personalities: []
 excerpt: >-
   चूड़ियाँ, सिंदूर, पासे, गाड़ियाँ, मिट्टी के बर्तन और पवित्र वृक्ष: बी. बी. लाल
   के पुरातात्त्विक उदाहरणों से आरंभ करते हुए हड़प्पा जगत और बाद के दक्षिण एशियाई

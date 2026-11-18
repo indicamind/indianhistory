@@ -4,7 +4,7 @@ slug: poompuhar-15000-year-old-port-claim
 excerpt: "การสำรวจใต้น้ำนอกชายฝั่งทมิฬนาฑูทำแผนที่ภูมิประเทศที่จมอยู่ใต้น้ำ รูปทรงเหล่านั้นพิสูจน์การมีอยู่ของเมืองท่าในยุคน้ำแข็งตอนปลายจริงหรือไม่?"
 publishedAt: 2026-08-21T05:00:00.000Z
 updatedAt: 2026-08-21T05:00:00.000Z
-period: early-historic
+period: upper-paleolithic
 tags:
   - โบราณคดี
   - โบราณคดีใต้น้ำ

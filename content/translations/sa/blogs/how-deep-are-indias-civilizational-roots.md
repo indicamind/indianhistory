@@ -1,6 +1,10 @@
 ---
 title: '4,500 वर्षाणामनन्तरमपि परिचितम्: सिन्धुसरस्वतीजीवनस्य 25 दृश्यप्रतिध्वनयः'
 slug: how-deep-are-indias-civilizational-roots
+period: indus-valley
+themes:
+  - indigenous-aryanism-out-of-india-theory
+personalities: []
 excerpt: >-
   वलयानि, सिन्दूरम्, पाशकाः, शकटानि, मृद्भाण्डानि पवित्रवृक्षाश्च—बी. बी.
   लालमहोदयस्य पुरातत्त्वोदाहरणैः आरभ्य हडप्पाजगत उत्तरकालीनदक्षिणासियाजीवनस्य च

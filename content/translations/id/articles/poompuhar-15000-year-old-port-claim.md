@@ -4,7 +4,7 @@ slug: poompuhar-15000-year-old-port-claim
 excerpt: "Survei bawah laut di lepas pantai Tamil Nadu memetakan bentang alam yang tenggelam. Apakah bentukan tersebut membuktikan keberadaan kota pelabuhan dari zaman es akhir?"
 publishedAt: 2026-08-21T05:00:00.000Z
 updatedAt: 2026-08-21T05:00:00.000Z
-period: early-historic
+period: upper-paleolithic
 tags:
   - arkeologi
   - arkeologi bawah air

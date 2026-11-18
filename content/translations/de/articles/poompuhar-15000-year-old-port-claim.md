@@ -4,8 +4,7 @@ slug: poompuhar-15000-year-old-port-claim
 excerpt: "Sonarmessungen kartierten hafenähnliche Strukturen auf dem Meeresgrund vor Tamil Nadu. Doch die These eines 15.000 Jahre alten Hafens bleibt wissenschaftlich unbewiesen."
 publishedAt: 2026-10-23T00:00:00.000Z
 updatedAt: 2026-10-23T00:00:00.000Z
-period: early-historic
-polity: chola-early
+period: upper-paleolithic
 personalities: []
 tags:
   - Archäologie

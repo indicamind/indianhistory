@@ -18,3 +18,10 @@ Validation completed:
 - Installed Chrome extension in an isolated profile with networking disabled: English, Hindi, Urdu, Kashmiri, Tamil, Chinese, Japanese, Korean and Swahili article views plus French language switching pass. All article images and book covers load, localized listings and search work, external navigation stays disabled, and no HTTP(S) request occurs. Chrome's normal new-tab page and toolbar entry point are preserved.
 
 The package contains 48 articles and two blogs in 34 languages (1,632 article editions and 68 blog editions), with 904 media files. The final site and extension bundles both contain the mobile-heading correction. No translation work remains for this post.
+
+
+## Section associations
+
+The user requested placement under the Indigenous Aryanism theme and the Sindhu Saraswati Vedic Civilization arc. The English source and all 33 translations now declare `period: indus-valley` and `themes: [indigenous-aryanism-out-of-india-theory]`. Blog membership is included in the shared section listing/navigation rules, separate blog counts on home cards, localized Blogs lists, and contextual return links. Narrative text and hashes are unchanged.
+
+Verification: 250 unit tests; full site/extension build; 136 section/blog round trips across all 34 languages in public and dev modes, including mobile layouts; 429 existing article membership checks; and installed offline section/blog round trips in English, Hindi, Arabic and Chinese without HTTP(S) requests. The metadata audit covered 1,650 translated article/blog sources and corrected stale explicit references in 14 older translations. Translations with omitted optional metadata inherit the canonical English identifiers during content generation.

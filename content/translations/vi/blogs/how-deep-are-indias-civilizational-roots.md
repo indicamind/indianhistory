@@ -3,6 +3,10 @@ title: >-
   Vẫn quen thuộc sau 4.500 năm: 25 tiếng vọng bằng hình ảnh về đời sống
   Sindhu-Saraswati
 slug: how-deep-are-indias-civilizational-roots
+period: indus-valley
+themes:
+  - indigenous-aryanism-out-of-india-theory
+personalities: []
 excerpt: >-
   Vòng tay, sindoor, xúc xắc, xe, gốm và cây linh thiêng: khám phá 25 đối chiếu
   hình ảnh giữa thế giới Harappa và đời sống Nam Á về sau, bắt đầu từ các ví dụ

@@ -10,10 +10,12 @@ import { LocaleService } from '../../i18n/locale.service';
 import { BookRecommendationsService } from '../../services/book-recommendations.service';
 import { DevModeService } from '../../services/dev-mode.service';
 import { PageViewService } from '../../services/page-view.service';
+import { PeriodsService } from '../../services/periods.service';
 
 describe('BlogDetailComponent', () => {
   let component: BlogDetailComponent;
   let recordedSlugs: string[];
+  let origin: Record<string, string>;
   const samplePost: BlogPost = {
     slug: 'post-1',
     title: 'Post 1',
@@ -26,8 +28,9 @@ describe('BlogDetailComponent', () => {
 
   beforeEach(() => {
     recordedSlugs = [];
+    origin = {};
     const mockRoute = {
-      queryParamMap: of({ get: () => null }),
+      queryParamMap: of({ get: (key: string) => origin[key] || null }),
       paramMap: of({
         get: (key: string) => (key === 'slug' ? 'post-1' : null),
       }),
@@ -51,6 +54,7 @@ describe('BlogDetailComponent', () => {
         { provide: ActivatedRoute, useValue: mockRoute },
         { provide: DestroyRef, useValue: mockDestroyRef },
         { provide: BlogService, useValue: mockBlogs },
+        { provide: PeriodsService, useValue: { getSectionsForBlog: () => [{ route: ['/theme', 'indigenous'], name: 'Localized theme', kindLabel: 'Theme' }] } },
         { provide: PageViewService, useValue: { record: (slug: string) => recordedSlugs.push(slug) } },
         { provide: DomSanitizer, useValue: mockSanitizer },
         { provide: DOCUMENT, useValue: document },
@@ -114,4 +118,16 @@ describe('BlogDetailComponent', () => {
       delete samplePost.bookInsertionOffsets;
     }
   });
+  it('returns to an associated section while ignoring unrelated origin parameters', async () => {
+    origin.fromTheme = 'indigenous';
+    component.ngOnInit();
+    await new Promise(resolve => setTimeout(resolve, 0));
+    expect(component.backRoute()).toEqual(['/theme', 'indigenous']);
+    expect(component.backText()).toBe('← Back to Localized theme');
+    origin.fromTheme = 'unrelated';
+    component.ngOnInit();
+    await new Promise(resolve => setTimeout(resolve, 0));
+    expect(component.backRoute()).toEqual(['/blogs']);
+  });
+
 });

@@ -4,8 +4,7 @@ slug: attirampakkam-acheulean-stone-tools
 excerpt: "تبرهای دستی آشولی مدفون در نزدیکی چنای نشان می‌دهند که انسان‌تباران دست‌کم ۱٫۰۷ میلیون سال پیش — و احتمالاً بسیار پیش‌تر — در جنوب هند ابزار می‌ساختند."
 publishedAt: 2026-10-23T00:00:00.000Z
 updatedAt: 2026-10-23T00:00:00.000Z
-period: prehistoric
-polity: null
+period: lower-paleolithic
 personalities: []
 tags:
   - باستان‌شناسی

@@ -4,10 +4,11 @@ import { RouterLink } from '@angular/router';
 import { BlogPost } from '../../models/blog.model';
 import { BlogService } from '../../services/blog.service';
 import { LocaleService } from '../../i18n/locale.service';
+import { ArticleSectionLinksComponent } from '../../components/article-section-links/article-section-links.component';
 
 @Component({
   selector: 'app-blogs',
-  imports: [DatePipe, RouterLink],
+  imports: [DatePipe, RouterLink, ArticleSectionLinksComponent],
   templateUrl: './blogs.component.html',
   styleUrl: './blogs.component.css',
 })

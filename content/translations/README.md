@@ -34,6 +34,14 @@ Every translation matches the approved English source hash and preserves image/r
 
 The completeness gate includes both published blogs in every released language; no English blog fallback is required.
 
+## Blogs in history sections
+
+Blogs can use the same `period`, `polity`, `themes` and `personalities` metadata as articles. Set the identifiers in the English source and every translated source. The content build carries the English membership identifiers into each localized blog asset; translated titles, excerpts and tags remain local to each edition.
+
+The section service shares membership and ancestor rules between articles and blogs. Section pages list associated blogs under a separate, localized Blogs heading; home cards count blogs separately and stay visible when a section has blogs alone. Blog topic links and contextual back links use the same section definitions, including localized names. English dev drafts follow the existing blog visibility rules.
+
+The civilizational roots post belongs to `indus-valley` and `indigenous-aryanism-out-of-india-theory` in English and all 33 translations. Its narrative, citations and source hashes are unchanged by these metadata additions.
+
 ## Colonization theme timeline awaiting English approval
 
 The 100-bubble English timeline is under `content/drafts/articles/colonization-of-india-timeline.md` and can be reviewed at `/theme/colonization-of-india?lang=en&dev=true`. Its `themeStoryFor` metadata identifies an inline theme narrative, rather than a standalone article. It is excluded from normal views, translated previews and the offline extension. English approval must precede complete translations of the narrative, chapter dates, image captions, alt text and sources into all 33 editions. Theme stories use the same source and chapter hash checks and all-language release gate as personality timelines. See `content/drafts/colonization-theme-review.md` for scope and verification.

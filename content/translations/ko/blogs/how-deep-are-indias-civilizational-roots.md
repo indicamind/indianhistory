@@ -1,6 +1,10 @@
 ---
 title: '4,500년 뒤에도 익숙한 모습: 신두–사라스와티 삶의 25가지 시각적 메아리'
 slug: how-deep-are-indias-civilizational-roots
+period: indus-valley
+themes:
+  - indigenous-aryanism-out-of-india-theory
+personalities: []
 excerpt: >-
   팔찌, 신두르, 주사위, 수레, 토기, 신성한 나무. B. B. 랄의 고고학 사례에서 출발해 하라파 세계와 후대 남아시아 생활을 25가지
   시각적 비교로 살펴봅니다.

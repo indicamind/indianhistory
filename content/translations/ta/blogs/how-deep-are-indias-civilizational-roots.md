@@ -3,6 +3,10 @@ title: >-
   4,500 ஆண்டுகளுக்குப் பிறகும் பழக்கமானவை: சிந்து–சரஸ்வதி வாழ்வின் 25 காட்சி
   எதிரொலிகள்
 slug: how-deep-are-indias-civilizational-roots
+period: indus-valley
+themes:
+  - indigenous-aryanism-out-of-india-theory
+personalities: []
 excerpt: >-
   வளையல்கள், சிந்தூர், பகடைகள், வண்டிகள், மண்பாண்டங்கள், புனித மரங்கள்: பி. பி.
   லாலின் அகழாய்வு எடுத்துக்காட்டுகளிலிருந்து தொடங்கி ஹரப்பா உலகத்துக்கும்

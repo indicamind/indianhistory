@@ -12,10 +12,12 @@ import { AssociatedBooksComponent } from '../../components/associated-books/asso
 import { BookRecommendationsService } from '../../services/book-recommendations.service';
 import { DevModeService } from '../../services/dev-mode.service';
 import { PageViewService } from '../../services/page-view.service';
+import { PeriodsService } from '../../services/periods.service';
+import { ArticleSectionLinksComponent } from '../../components/article-section-links/article-section-links.component';
 
 @Component({
   selector: 'app-blog-detail',
-  imports: [DatePipe, RouterLink, AssociatedBooksComponent],
+  imports: [DatePipe, RouterLink, AssociatedBooksComponent, ArticleSectionLinksComponent],
   templateUrl: './blog-detail.component.html',
   styleUrl: './blog-detail.component.css',
 })
@@ -23,6 +25,7 @@ export class BlogDetailComponent implements OnInit {
   private readonly route = inject(ActivatedRoute);
   private readonly destroyRef = inject(DestroyRef);
   private readonly blogs = inject(BlogService);
+  private readonly periods = inject(PeriodsService);
   private readonly pageViews = inject(PageViewService);
   private readonly sanitizer = inject(DomSanitizer);
   private readonly document = inject(DOCUMENT);
@@ -35,6 +38,8 @@ export class BlogDetailComponent implements OnInit {
   @ViewChild('imageDialog') private imageDialog?: ElementRef<HTMLDialogElement>;
 
   readonly post = signal<BlogPost | null>(null);
+  readonly backRoute = signal<string[]>(['/blogs']);
+  readonly backText = signal(this.locale.translate('← Back to blogs'));
   readonly bottomBooks = computed(() => this.recommendations.forBlog(this.post(), this.devMode.isDevMode()).below);
   readonly html = signal<SafeHtml | null>(null);
   readonly htmlParts = signal<SafeHtml[]>([]);
@@ -47,7 +52,7 @@ export class BlogDetailComponent implements OnInit {
 
   ngOnInit(): void {
     combineLatest([this.route.paramMap, this.route.queryParamMap])
-      .pipe(takeUntilDestroyed(this.destroyRef)).subscribe(async ([params]) => {
+      .pipe(takeUntilDestroyed(this.destroyRef)).subscribe(async ([params, query]) => {
       const requestId = ++this.requestId;
       this.imageDialog?.nativeElement.close();
       this.imageClosed();
@@ -56,6 +61,13 @@ export class BlogDetailComponent implements OnInit {
       if (requestId !== this.requestId) return;
       const post = this.blogs.getBySlug(params.get('slug') ?? '') ?? null;
       this.post.set(post);
+      const parameters: Record<string, string> = { '/period': 'fromPeriod', '/polity': 'fromPolity', '/theme': 'fromTheme', '/personality': 'fromPersonality' };
+      const section = post ? this.periods.getSectionsForBlog(post).find(section => {
+        const parameter = parameters[section.route[0]];
+        return parameter && query.get(parameter) === section.route[1];
+      }) : undefined;
+      this.backRoute.set(section?.route || ['/blogs']);
+      this.backText.set(section ? `${this.locale.translate('← Back to')} ${section.name}` : this.locale.translate('← Back to blogs'));
       const html = post ? localizeContentLinks(post.html, this.locale.language, post.draft, this.locale.basePath, this.locale.offline) : null;
       this.html.set(html ? this.sanitizer.bypassSecurityTrustHtml(this.imageButtons(html)) : null);
       if (post) {

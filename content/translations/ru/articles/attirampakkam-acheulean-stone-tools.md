@@ -4,8 +4,7 @@ slug: attirampakkam-acheulean-stone-tools
 excerpt: "Ашельские рубила близ Ченнаи доказывают, что ранние гоминины изготовляли каменные орудия в Южной Индии по меньшей мере 1,07 миллиона лет назад — а возможно, и гораздо раньше."
 publishedAt: 2026-10-23T00:00:00.000Z
 updatedAt: 2026-10-23T00:00:00.000Z
-period: prehistoric
-polity: null
+period: lower-paleolithic
 personalities: []
 tags:
   - Археология

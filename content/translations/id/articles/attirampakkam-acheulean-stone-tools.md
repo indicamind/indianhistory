@@ -4,7 +4,7 @@ slug: attirampakkam-acheulean-stone-tools
 excerpt: "Kapak genggam Acheulean yang terkubur di dekat Chennai menunjukkan bahwa hominin telah membuat perkakas batu di India selatan setidaknya 1,07 juta tahun silam, dan kemungkinan jauh lebih awal."
 publishedAt: 2026-10-27T00:00:00.000Z
 updatedAt: 2026-10-27T00:00:00.000Z
-period: prehistoric
+period: lower-paleolithic
 tags:
   - arkeologi
   - Paleolitikum

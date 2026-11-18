@@ -1,6 +1,10 @@
 ---
 title: '4,500 वर्षपछि पनि परिचित: सिन्धु–सरस्वती जीवनका 25 दृश्य प्रतिध्वनि'
 slug: how-deep-are-indias-civilizational-roots
+period: indus-valley
+themes:
+  - indigenous-aryanism-out-of-india-theory
+personalities: []
 excerpt: >-
   चुरा, सिन्दूर, पासा, गाडा, माटाका भाँडा र पवित्र रूख: बी. बी. लालका
   पुरातात्त्विक उदाहरणबाट सुरु गरी हडप्पा संसार र पछिल्लो दक्षिण एसियाली जीवनका

@@ -3,6 +3,10 @@ title: >-
   По-прежнему знакомо спустя 4 500 лет: 25 визуальных отголосков жизни
   Синдху-Сарасвати
 slug: how-deep-are-indias-civilizational-roots
+period: indus-valley
+themes:
+  - indigenous-aryanism-out-of-india-theory
+personalities: []
 excerpt: >-
   Браслеты, синдура, игральные кости, повозки, керамика и священные деревья:
   изучите 25 визуальных сравнений хараппского мира с поздней жизнью Южной Азии,

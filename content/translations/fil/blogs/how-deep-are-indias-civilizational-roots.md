@@ -3,6 +3,10 @@ title: >-
   Pamilyar Pa Rin Pagkalipas ng 4,500 Taon: 25 Biswal na Alingawngaw ng Buhay sa
   Sindhu-Saraswati
 slug: how-deep-are-indias-civilizational-roots
+period: indus-valley
+themes:
+  - indigenous-aryanism-out-of-india-theory
+personalities: []
 excerpt: >-
   Mga pulseras, sindoor, dais, kariton, palayok at sagradong puno: tuklasin ang
   25 paghahambing sa larawan ng mundong Harappan at mas huling buhay sa Timog

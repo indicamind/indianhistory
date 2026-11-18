@@ -1,6 +1,10 @@
 ---
 title: 'Ainda familiar após 4.500 anos: 25 ecos visuais da vida no Sindhu-Saraswati'
 slug: how-deep-are-indias-civilizational-roots
+period: indus-valley
+themes:
+  - indigenous-aryanism-out-of-india-theory
+personalities: []
 excerpt: >-
   Pulseiras, sindoor, dados, carros, cerâmica e árvores sagradas: explore 25
   comparações visuais entre o mundo harapiano e a vida posterior no sul da Ásia,

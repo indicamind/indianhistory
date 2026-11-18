@@ -47,7 +47,10 @@
         <div class="timeline-content">
           <div class="period-head">
             <span class="period-range">{{ p.range }}</span>
+            @if (p.articleCount || !p.blogCount) {
             <span class="article-badge">{{ locale.format('{count} articles', { count: p.articleCount }) }}</span>
+          }
+          @if (p.blogCount) { <span class="article-badge">{{ locale.translate('Blogs') }} ({{ p.blogCount }})</span> }
           </div>
           <h3 class="period-name">{{ p.name }} <span class="drill">→</span></h3>
           <p class="period-desc">{{ p.description }}</p>
@@ -79,7 +82,10 @@
         </div>
         <p class="polity-desc">{{ theme.shortDescription }}</p>
         <div class="polity-footer">
-          <span class="article-badge">{{ locale.format('{count} articles', { count: theme.articleCount }) }}</span>
+          @if (theme.articleCount || !theme.blogCount) {
+            <span class="article-badge">{{ locale.format('{count} articles', { count: theme.articleCount }) }}</span>
+          }
+          @if (theme.blogCount) { <span class="article-badge">{{ locale.translate('Blogs') }} ({{ theme.blogCount }})</span> }
           <span class="drill">Explore →</span>
         </div>
       </a>
@@ -109,7 +115,10 @@
         </div>
         <p class="polity-desc">{{ polity.description }}</p>
         <div class="polity-footer">
-          <span class="article-badge">{{ locale.format('{count} articles', { count: polity.articleCount }) }}</span>
+          @if (polity.articleCount || !polity.blogCount) {
+            <span class="article-badge">{{ locale.format('{count} articles', { count: polity.articleCount }) }}</span>
+          }
+          @if (polity.blogCount) { <span class="article-badge">{{ locale.translate('Blogs') }} ({{ polity.blogCount }})</span> }
           <span class="drill">Explore →</span>
         </div>
       </a>
@@ -139,7 +148,10 @@
         </div>
         <p class="polity-desc">{{ polity.description }}</p>
         <div class="polity-footer">
-          <span class="article-badge">{{ locale.format('{count} articles', { count: polity.articleCount }) }}</span>
+          @if (polity.articleCount || !polity.blogCount) {
+            <span class="article-badge">{{ locale.format('{count} articles', { count: polity.articleCount }) }}</span>
+          }
+          @if (polity.blogCount) { <span class="article-badge">{{ locale.translate('Blogs') }} ({{ polity.blogCount }})</span> }
           <span class="drill">Explore →</span>
         </div>
       </a>
@@ -183,7 +195,10 @@
         <div class="personality-head">
           <h3>{{ personality.name }}</h3>
           <span class="personality-meta">{{ personality.range }}</span>
-          <span class="article-badge">{{ locale.format('{count} articles', { count: personality.articleCount }) }}</span>
+          @if (personality.articleCount || !personality.blogCount) {
+            <span class="article-badge">{{ locale.format('{count} articles', { count: personality.articleCount }) }}</span>
+          }
+          @if (personality.blogCount) { <span class="article-badge">{{ locale.translate('Blogs') }} ({{ personality.blogCount }})</span> }
         </div>
         <p>{{ personality.shortDescription }}</p>
       </a>

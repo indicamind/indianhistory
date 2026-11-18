@@ -292,6 +292,11 @@ function buildBlogs(directory = BLOGS_DIR) {
         updatedAt: data.updatedAt || data.publishedAt,
         author: data.author || '',
         tags: Array.isArray(data.tags) ? data.tags : [],
+        period: data.period,
+        polity: data.polity,
+        themes: Array.isArray(data.themes) ? data.themes : [],
+        personalities: Array.isArray(data.personalities) ? data.personalities : [],
+        relatedTo: data.relatedTo,
         books: Array.isArray(data.books) ? data.books.map(String) : [],
         ...(typeof data.shareImage === 'string' ? { shareImage: data.shareImage } : {}),
       };

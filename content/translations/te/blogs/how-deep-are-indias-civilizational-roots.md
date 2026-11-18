@@ -1,6 +1,10 @@
 ---
 title: '4,500 ఏళ్ల తరువాతా పరిచయమే: సింధు–సరస్వతి జీవితపు 25 దృశ్య ప్రతిధ్వనులు'
 slug: how-deep-are-indias-civilizational-roots
+period: indus-valley
+themes:
+  - indigenous-aryanism-out-of-india-theory
+personalities: []
 excerpt: >-
   గాజులు, సింధూరం, పాచికలు, బండ్లు, కుండలు, పవిత్ర చెట్లు: బి. బి. లాల్
   పురావస్తు ఉదాహరణలతో మొదలుపెట్టి హరప్పా ప్రపంచం, తరువాతి దక్షిణాసియా జీవితాల

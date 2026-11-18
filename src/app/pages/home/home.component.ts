@@ -19,6 +19,7 @@ interface TimelinePeriod {
   range: string;
   description: string;
   articleCount: number;
+  blogCount?: number;
 }
 
 interface PolityDisplay {
@@ -27,16 +28,19 @@ interface PolityDisplay {
   range: string;
   description: string;
   articleCount: number;
+  blogCount?: number;
   period: string;
   kind: PolityKind;
 }
 
 interface ThemeDisplay extends Theme {
   articleCount: number;
+  blogCount?: number;
 }
 
 interface PersonalityDisplay extends Personality {
   articleCount: number;
+  blogCount?: number;
 }
 
 interface StoryThumbnail {
@@ -99,8 +103,8 @@ export class HomeComponent implements OnInit {
     ? this.filteredPersonalities() : this.filteredPersonalities().slice(0, INITIAL_SECTION_ITEMS));
   readonly initialSectionItems = INITIAL_SECTION_ITEMS;
 
-  private visible<T extends { articleCount: number }>(items: T[]): T[] {
-    return this.devMode.isDevMode() ? items : items.filter(item => item.articleCount > 0);
+  private visible<T extends { articleCount: number; blogCount?: number }>(items: T[]): T[] {
+    return this.devMode.isDevMode() ? items : items.filter(item => item.articleCount > 0 || (item.blogCount || 0) > 0);
   }
 
   async ngOnInit(): Promise<void> {
@@ -122,6 +126,7 @@ export class HomeComponent implements OnInit {
         range: p.range,
         description: p.shortDescription,
         articleCount: count,
+        blogCount: await this.periodsSvc.getBlogCountForSection('period', slug),
       });
     }
 
@@ -133,6 +138,7 @@ export class HomeComponent implements OnInit {
       themeDisplays.push({
         ...theme,
         articleCount: count,
+        blogCount: await this.periodsSvc.getBlogCountForSection('theme', theme.slug),
       });
     }
     this.themes.set(themeDisplays);
@@ -143,6 +149,7 @@ export class HomeComponent implements OnInit {
       personalityDisplays.push({
         ...personality,
         articleCount: count,
+        blogCount: await this.periodsSvc.getBlogCountForSection('personality', personality.slug),
       });
     }
     this.personalities.set(personalityDisplays);
@@ -161,6 +168,7 @@ export class HomeComponent implements OnInit {
         range: p.range,
         description: p.shortDescription,
         articleCount: count,
+        blogCount: await this.periodsSvc.getBlogCountForSection('polity', p.slug),
         period: p.period,
         kind: p.kind,
       });
@@ -176,6 +184,7 @@ export class HomeComponent implements OnInit {
         range: p.range,
         description: p.shortDescription,
         articleCount: count,
+        blogCount: await this.periodsSvc.getBlogCountForSection('polity', p.slug),
         period: p.period,
         kind: p.kind,
       });

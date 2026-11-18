@@ -1,6 +1,10 @@
 ---
 title: '4,500 वर्षांनंतरही परिचित: सिंधू-सरस्वती जीवनाची 25 दृश्यप्रतिबिंबे'
 slug: how-deep-are-indias-civilizational-roots
+period: indus-valley
+themes:
+  - indigenous-aryanism-out-of-india-theory
+personalities: []
 excerpt: >-
   बांगड्या, सिंदूर, फासे, गाड्या, मातीची भांडी आणि पवित्र वृक्ष: बी. बी. लाल
   यांच्या पुरातात्त्विक उदाहरणांपासून सुरुवात करून हडप्पाचे जग आणि नंतरचे दक्षिण

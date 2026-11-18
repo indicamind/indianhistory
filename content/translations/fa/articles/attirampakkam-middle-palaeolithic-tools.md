@@ -4,8 +4,7 @@ slug: attirampakkam-middle-palaeolithic-tools
 excerpt: "لایه‌ای متأخر در آتیرام‌پاکام زوال تبرهای دستی آشولی و پیدایش کهن ابزارهای تراشه‌ای پارینه‌سنگی میانی را در حدود ۳۸۵ هزار سال پیش نشان می‌دهد."
 publishedAt: 2026-10-23T00:00:00.000Z
 updatedAt: 2026-10-23T00:00:00.000Z
-period: prehistoric
-polity: null
+period: middle-paleolithic
 personalities: []
 tags:
   - باستان‌شناسی

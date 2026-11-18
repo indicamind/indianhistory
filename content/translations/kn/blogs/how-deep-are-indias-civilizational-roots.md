@@ -1,6 +1,10 @@
 ---
 title: '4,500 ವರ್ಷಗಳ ಬಳಿಕವೂ ಪರಿಚಿತ: ಸಿಂಧು-ಸರಸ್ವತಿ ಬದುಕಿನ 25 ದೃಶ್ಯ ಪ್ರತಿಧ್ವನಿಗಳು'
 slug: how-deep-are-indias-civilizational-roots
+period: indus-valley
+themes:
+  - indigenous-aryanism-out-of-india-theory
+personalities: []
 excerpt: >-
   ಬಳೆಗಳು, ಸಿಂಧೂರ, ದಾಳಗಳು, ಗಾಡಿಗಳು, ಮಡಕೆಗಳು ಮತ್ತು ಪವಿತ್ರ ಮರಗಳು: ಬಿ. ಬಿ. ಲಾಲ್ ಅವರ
   ಪುರಾತತ್ತ್ವ ಉದಾಹರಣೆಗಳಿಂದ ಆರಂಭಿಸಿ ಹರಪ್ಪ ಜಗತ್ತು ಮತ್ತು ನಂತರದ ದಕ್ಷಿಣ ಏಷ್ಯಾ ಬದುಕಿನ

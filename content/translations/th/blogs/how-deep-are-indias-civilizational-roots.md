@@ -1,6 +1,10 @@
 ---
 title: 'ยังคุ้นตาหลังผ่าน 4,500 ปี: 25 ภาพสะท้อนชีวิตสินธุ–สรัสวดี'
 slug: how-deep-are-indias-civilizational-roots
+period: indus-valley
+themes:
+  - indigenous-aryanism-out-of-india-theory
+personalities: []
 excerpt: >-
   กำไล สินทูร ลูกเต๋า เกวียน เครื่องปั้น และต้นไม้ศักดิ์สิทธิ์ สำรวจ 25
   การเปรียบเทียบภาพระหว่างโลกฮารัปปากับชีวิตเอเชียใต้ยุคหลัง

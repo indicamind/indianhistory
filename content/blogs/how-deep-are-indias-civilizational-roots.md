@@ -1,6 +1,10 @@
 ---
 title: 'Still Familiar After 4,500 Years: 25 Visual Echoes of Sindhu-Saraswati Life'
 slug: how-deep-are-indias-civilizational-roots
+period: indus-valley
+themes:
+  - indigenous-aryanism-out-of-india-theory
+personalities: []
 excerpt: >-
   Bangles, sindoor, dice, carts, pottery and sacred trees: explore 25 visual
   comparisons between the Harappan world and later South Asian life, beginning

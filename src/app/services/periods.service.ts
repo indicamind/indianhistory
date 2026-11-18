@@ -2,6 +2,9 @@ import { Injectable, inject } from '@angular/core';
 import { ArticleSummary, SearchResult, SearchResultKind } from '../models/article.model';
 import { booksForMode } from '../data/recommended-books';
 import { ArticleService } from './article.service';
+import { BlogService } from './blog.service';
+import { BlogPost } from '../models/blog.model';
+import { SectionEntry } from '../models/section-membership.model';
 import { LocaleService } from '../i18n/locale.service';
 import { DevModeService } from './dev-mode.service';
 import { articleRoute } from '../utils/article-route';
@@ -20,6 +23,8 @@ import {
   themes,
 } from '../data/periods';
 
+export type SectionKind = 'period' | 'polity' | 'theme' | 'personality';
+
 export interface ArticleSectionLink {
   name: string;
   route: string[];
@@ -30,6 +35,7 @@ export interface ArticleSectionLink {
 @Injectable({ providedIn: 'root' })
 export class PeriodsService {
   private readonly articlesService = inject(ArticleService);
+  private readonly blogsService = inject(BlogService);
   private readonly locale = inject(LocaleService);
   private readonly devMode = inject(DevModeService);
   private readonly localizedPeriods = periods.map(period => this.localizePeriod(period));
@@ -104,27 +110,22 @@ export class PeriodsService {
   }
 
   isVisiblePeriod(slug: string): boolean {
-    return this.devMode.isDevMode() || this.articlesForPeriod(slug).length > 0;
+    return this.devMode.isDevMode() || this.articlesForPeriod(slug).length > 0 || this.blogsForSection('period', slug).length > 0;
   }
 
   private articlesForPeriod(slug: string): ArticleSummary[] {
-    const all = this.articlesService.allArticles();
-    const p = this.getBySlug(slug);
-    if (!p) return [];
+    return this.sortArticlesForListing(this.articlesService.allArticles().filter(entry => this.belongsToPeriod(entry, slug)));
+  }
 
-    const allowedSlugs = new Set(getSubtreeSlugs(p));
-
-    return this.sortArticlesForListing(all.filter((a) => {
-      if (a.period) return allowedSlugs.has(a.period);
-      // Older stories without period metadata can still be found by a specific tag.
-      const lowerTags = a.tags.map((t) => t.toLowerCase());
-      if (slug === 'mauryan') return lowerTags.includes('mauryan');
-      if (slug === 'early-historic') return lowerTags.includes('early historic') || lowerTags.includes('mauryan');
-      if (slug === 'indus-valley') {
-        return lowerTags.includes('indus') || lowerTags.includes('harappan') || lowerTags.includes('sindhu') || lowerTags.includes('saraswati');
-      }
-      return false;
-    }));
+  private belongsToPeriod(entry: SectionEntry, slug: string): boolean {
+    const period = this.getBySlug(slug);
+    if (!period) return false;
+    if (entry.period) return getSubtreeSlugs(period).includes(entry.period);
+    const tags = (entry.tags || []).map(tag => tag.toLowerCase());
+    if (slug === 'mauryan') return tags.includes('mauryan');
+    if (slug === 'early-historic') return tags.includes('early historic') || tags.includes('mauryan');
+    if (slug === 'indus-valley') return ['indus', 'harappan', 'sindhu', 'saraswati'].some(tag => tags.includes(tag));
+    return false;
   }
 
   /** Count of articles under a period (including subtree) */
@@ -184,26 +185,33 @@ export class PeriodsService {
 
   /** Use the section listing rules so article navigation includes every matching ancestor. */
   getSectionsForArticle(article: ArticleSummary): ArticleSectionLink[] {
-    const containsArticle = (entries: ArticleSummary[]) => entries.some(entry => entry.slug === article.slug);
+    return this.sectionsForEntry(article);
+  }
+
+  getSectionsForBlog(blog: BlogPost): ArticleSectionLink[] {
+    return this.sectionsForEntry(blog);
+  }
+
+  private sectionsForEntry(article: SectionEntry): ArticleSectionLink[] {
     const links: ArticleSectionLink[] = [];
 
     for (const period of this.getAll()) {
-      if (containsArticle(this.articlesForPeriod(period.slug))) {
+      if (this.belongsToPeriod(article, period.slug)) {
         links.push({ name: period.name, route: ['/period', period.slug], kindLabel: 'Period' });
       }
     }
     for (const polity of this.getPolities()) {
-      if (containsArticle(this.articlesForPolity(polity.slug))) {
+      if (this.belongsToPolity(article, polity.slug)) {
         links.push({ name: polity.name, route: ['/polity', polity.slug], kindLabel: polity.kind === 'dynasty' ? 'Dynasty' : polity.kind === 'empire' ? 'Empire' : 'Kingdom' });
       }
     }
     for (const theme of this.getThemes()) {
-      if (containsArticle(this.articlesForTheme(theme.slug))) {
+      if (this.belongsToSection(article, 'theme', theme.slug)) {
         links.push({ name: theme.name, route: ['/theme', theme.slug], kindLabel: 'Theme' });
       }
     }
     for (const person of this.getPersonalities()) {
-      if (containsArticle(this.articlesForPersonality(person.slug))) {
+      if (this.belongsToSection(article, 'personality', person.slug)) {
         links.push({ name: person.name, route: ['/personality', person.slug], kindLabel: 'Personality' });
       }
     }
@@ -232,28 +240,25 @@ export class PeriodsService {
   }
 
   isVisiblePolity(slug: string): boolean {
-    return this.devMode.isDevMode() || this.articlesForPolity(slug).length > 0;
+    return this.devMode.isDevMode() || this.articlesForPolity(slug).length > 0 || this.blogsForSection('polity', slug).length > 0;
   }
 
   private articlesForPolity(slug: string): ArticleSummary[] {
-    const all = this.articlesService.allArticles();
-    const polity = this.getPolityBySlug(slug);
-    if (!polity) return [];
+    return this.sortArticlesForListing(this.articlesService.allArticles().filter(entry => this.belongsToPolity(entry, slug)));
+  }
 
+  private belongsToPolity(entry: SectionEntry, slug: string): boolean {
+    if (!this.getPolityBySlug(slug)) return false;
     const allowed = new Set<string>();
-    const include = (slug: string) => {
-      if (allowed.has(slug)) return;
-      allowed.add(slug);
-      this.getPolityChildren(slug).forEach(child => include(child.slug));
+    const include = (current: string) => {
+      if (allowed.has(current)) return;
+      allowed.add(current);
+      this.getPolityChildren(current).forEach(child => include(child.slug));
     };
     include(slug);
-
-    return this.sortArticlesForListing(all.filter((a) => {
-      if (a.polity) return allowed.has(a.polity);
-      // Match only the named polity for older stories without polity metadata.
-      const lowerTags = a.tags.map((t) => t.toLowerCase());
-      return [...allowed].some(slug => lowerTags.includes(slug)) || (slug === 'maurya' && lowerTags.includes('mauryan'));
-    }));
+    if (entry.polity) return allowed.has(entry.polity);
+    const tags = (entry.tags || []).map(tag => tag.toLowerCase());
+    return [...allowed].some(value => tags.includes(value)) || (slug === 'maurya' && tags.includes('mauryan'));
   }
 
   /** Count of articles for a specific polity */
@@ -271,15 +276,11 @@ export class PeriodsService {
   }
 
   isVisibleTheme(slug: string): boolean {
-    return this.devMode.isDevMode() || this.articlesForTheme(slug).length > 0;
+    return this.devMode.isDevMode() || this.articlesForTheme(slug).length > 0 || this.blogsForSection('theme', slug).length > 0;
   }
 
   private articlesForTheme(slug: string): ArticleSummary[] {
-    const all = this.articlesService.allArticles();
-    const theme = this.getThemeBySlug(slug);
-    if (!theme) return [];
-
-    return all.filter((a) => !a.relatedTo && a.themes.includes(slug));
+    return this.articlesService.allArticles().filter(entry => this.belongsToSection(entry, 'theme', slug));
   }
 
   /** Count of articles for a specific theme */
@@ -300,11 +301,28 @@ export class PeriodsService {
   }
 
   private articlesForPersonality(slug: string): ArticleSummary[] {
-    const all = this.articlesService.allArticles();
-    const personality = this.getPersonalityBySlug(slug);
-    if (!personality) return [];
+    return this.sortArticlesForListing(this.articlesService.allArticles().filter(entry => this.belongsToSection(entry, 'personality', slug)));
+  }
 
-    return this.sortArticlesForListing(all.filter((a) => a.personalities.includes(slug)));
+  /** Blogs use the same explicit section and ancestor rules as articles. */
+  async getBlogsForSection(kind: SectionKind, slug: string): Promise<BlogPost[]> {
+    await this.blogsService.whenReady();
+    return this.blogsForSection(kind, slug);
+  }
+
+  async getBlogCountForSection(kind: SectionKind, slug: string): Promise<number> {
+    return (await this.getBlogsForSection(kind, slug)).length;
+  }
+
+  private blogsForSection(kind: SectionKind, slug: string): BlogPost[] {
+    return this.blogsService.allPosts().filter(entry => this.belongsToSection(entry, kind, slug));
+  }
+
+  private belongsToSection(entry: SectionEntry, kind: SectionKind, slug: string): boolean {
+    if (kind === 'period') return this.belongsToPeriod(entry, slug);
+    if (kind === 'polity') return this.belongsToPolity(entry, slug);
+    if (kind === 'theme') return !!this.getThemeBySlug(slug) && !entry.relatedTo && (entry.themes || []).includes(slug);
+    return !!this.getPersonalityBySlug(slug) && (entry.personalities || []).includes(slug);
   }
 
   private sortArticlesForListing(entries: ArticleSummary[]): ArticleSummary[] {

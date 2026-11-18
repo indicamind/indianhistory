@@ -1,6 +1,10 @@
 ---
 title: '4,500年後も身近に：シンドゥ・サラスワティの暮らしに響く25の視覚的なつながり'
 slug: how-deep-are-indias-civilizational-roots
+period: indus-valley
+themes:
+  - indigenous-aryanism-out-of-india-theory
+personalities: []
 excerpt: >-
   腕輪、シンドゥール、サイコロ、車、土器、聖なる木。B. B.
   ラールの考古学的な例を出発点に、ハラッパーの世界と後世の南アジアの暮らしを25の画像で比べます。

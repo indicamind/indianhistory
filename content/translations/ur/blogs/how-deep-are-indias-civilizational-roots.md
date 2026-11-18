@@ -1,6 +1,10 @@
 ---
 title: '4,500 برس بعد بھی مانوس: سندھو سرسوتی زندگی کی 25 تصویری بازگشتیں'
 slug: how-deep-are-indias-civilizational-roots
+period: indus-valley
+themes:
+  - indigenous-aryanism-out-of-india-theory
+personalities: []
 excerpt: >-
   چوڑیاں، سندور، پاسے، گاڑیاں، برتن اور مقدس درخت: بی بی لال کی آثارِ قدیمہ کی
   مثالوں سے شروع کرتے ہوئے ہڑپائی دنیا اور بعد کی جنوبی ایشیائی زندگی کے 25

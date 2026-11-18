@@ -22,6 +22,8 @@ describe('PeriodDetailComponent', () => {
       getThemeBySlug: () => null,
       getPersonalityBySlug: () => null,
       getArticlesForPeriod: async () => [],
+      getBlogsForSection: async () => [],
+      getBlogCountForSection: async () => 0,
       getArticlesForPolity: async () => [],
       getArticlesForTheme: async () => [],
       getArticlesForPersonality: async () => [],
@@ -133,4 +135,15 @@ describe('PeriodDetailComponent', () => {
     expect(component.backText()).toBe('← Back to Rajputs');
     expect(component.children().length).toBe(0);
   });
+  it('loads section blogs with the correct origin context and clears them when navigating', async () => {
+    periodsMock.getThemeBySlug = (slug: string) => slug === 'indigenous' ? { slug, name: 'Indigenous', description: '' } : null;
+    periodsMock.getBlogsForSection = async (kind: string, slug: string) => slug === 'indigenous' ? [{ slug: 'continuity' }] : [];
+    await (component as any).loadPeriod('indigenous');
+    expect(component.articles()).toEqual([]);
+    expect(component.blogs().map(post => post.slug)).toEqual(['continuity']);
+    expect(component.blogQueryParams()).toEqual({ lang: 'en', fromTheme: 'indigenous' });
+    await (component as any).loadPeriod('missing');
+    expect(component.blogs()).toEqual([]);
+  });
+
 });

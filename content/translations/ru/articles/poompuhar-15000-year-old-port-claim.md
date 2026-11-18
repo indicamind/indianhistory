@@ -4,8 +4,7 @@ slug: poompuhar-15000-year-old-port-claim
 excerpt: "Сонарные исследования выявили гаваноподобные структуры на морском дне у побережья Тамилнада. Однако гипотеза о порте возрастом 15 000 лет остаётся научно недоказанной."
 publishedAt: 2026-10-23T00:00:00.000Z
 updatedAt: 2026-10-23T00:00:00.000Z
-period: early-historic
-polity: chola-early
+period: upper-paleolithic
 personalities: []
 tags:
   - Археология

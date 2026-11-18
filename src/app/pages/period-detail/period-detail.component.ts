@@ -3,6 +3,7 @@ import { Component, DestroyRef, computed, inject, OnInit, signal } from '@angula
 import { takeUntilDestroyed } from '@angular/core/rxjs-interop';
 import { ActivatedRoute, RouterLink } from '@angular/router';
 import { ArticleSummary } from '../../models/article.model';
+import { BlogPost } from '../../models/blog.model';
 import { ArticleService } from '../../services/article.service';
 import { PeriodsService } from '../../services/periods.service';
 import { Period, Personality, Polity, Theme } from '../../data/periods';
@@ -39,7 +40,9 @@ export class PeriodDetailComponent implements OnInit {
   readonly visibleChildren = computed(() => this.children().filter(child => this.isPolity()
     ? this.periodsService.isVisiblePolity(child.slug) : this.periodsService.isVisiblePeriod(child.slug)));
   readonly articles = signal<ArticleSummary[]>([]);
+  readonly blogs = signal<BlogPost[]>([]);
   readonly childCounts = signal<Record<string, number>>({});
+  readonly childBlogCounts = signal<Record<string, number>>({});
   readonly loading = signal(true);
   readonly notFound = signal(false);
   readonly isPolity = signal(false);
@@ -59,6 +62,13 @@ export class PeriodDetailComponent implements OnInit {
   readonly backRoute = signal<any>(['/']);
   readonly backFragment = signal<string | undefined>(undefined);
   readonly backText = signal<string>(this.locale.translate('← Back to home'));
+  readonly blogQueryParams = computed(() => ({
+    lang: this.locale.language,
+    ...(this.theme() ? { fromTheme: this.theme()!.slug }
+      : this.polity() ? { fromPolity: this.polity()!.slug }
+      : this.personality() ? { fromPersonality: this.personality()!.slug }
+      : this.period() ? { fromPeriod: this.period()!.slug } : {}),
+  }));
 
   kindLabel(): string {
     const source = this.isPolity()
@@ -90,6 +100,9 @@ export class PeriodDetailComponent implements OnInit {
     this.personality.set(null);
     this.children.set([]);
     this.childCounts.set({});
+    this.childBlogCounts.set({});
+    this.articles.set([]);
+    this.blogs.set([]);
 
     await this.articlesService.whenReady();
 
@@ -193,6 +206,19 @@ export class PeriodDetailComponent implements OnInit {
           }
         }
       }
+    }
+
+    if (!this.notFound()) {
+      const kind = this.isPolity() ? 'polity' : this.isTheme() ? 'theme' : this.isPersonality() ? 'personality' : 'period';
+      const blogs = await this.periodsService.getBlogsForSection(kind, slug);
+      const entity = this.period() || this.polity() || this.theme() || this.personality();
+      if (entity?.slug !== slug) return;
+      this.blogs.set(blogs);
+      const childKind = this.isPolity() ? 'polity' : 'period';
+      const counts = await Promise.all(this.children().map(async child =>
+        [child.slug, await this.periodsService.getBlogCountForSection(childKind, child.slug)] as const));
+      if (entity !== (this.period() || this.polity() || this.theme() || this.personality())) return;
+      this.childBlogCounts.set(Object.fromEntries(counts));
     }
 
     // If the user came via search, prefer "back to search" over the normal hierarchy back

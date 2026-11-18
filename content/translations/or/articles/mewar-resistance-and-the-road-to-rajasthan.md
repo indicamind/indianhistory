@@ -4,9 +4,9 @@ slug: mewar-resistance-and-the-road-to-rajasthan
 excerpt: "ଜଣେ ସୁଲତାନଙ୍କ ପରାଜୟ। ପ୍ରସ୍ତରରେ ଖୋଦିତ ବିଜୟ। ବିପର୍ଯ୍ୟୟ ପରେ ପୁନର୍ଗଠିତ ଏକ ରାଜ୍ୟ। କୁମ୍ଭାଙ୍କ ବିଜୟ ଓ ପ୍ରତାପଙ୍କ ଅଦମ୍ୟ ମନୋବଳଠାରୁ ମରାଠା, ବ୍ରିଟିଶ ଏବଂ ଆଧୁନିକ ରାଜସ୍ଥାନ ପର୍ଯ୍ୟନ୍ତ—ଏହା ହେଉଛି ମେୱାଡ଼ର ତିଷ୍ଠି ରହିବାର ଅସାଧାରଣ ସଂଗ୍ରାମ।"
 publishedAt: 2026-08-20T10:00:00.000Z
 updatedAt: 2026-08-20T10:00:00.000Z
-period: early-modern
+period: medieval
 polity: mewar
-personalities: [rana-kumbha, maharana-pratap]
+personalities: ["rana-kumbha","rana-sanga","udai-singh-ii","maharana-pratap","jaimal","patta","amar-singh-i","raj-singh-i","akbar"]
 tags:
   - ମେୱାଡ଼
   - ଚିତ୍ତୌଡ଼ଗଡ଼

@@ -1,6 +1,10 @@
 ---
 title: 'لا تزال مألوفة بعد 4,500 عام: 25 صدى بصريًا لحياة السند والساراسواتي'
 slug: how-deep-are-indias-civilizational-roots
+period: indus-valley
+themes:
+  - indigenous-aryanism-out-of-india-theory
+personalities: []
 excerpt: >-
   أساور وسندور ونرد وعربات وفخار وأشجار مقدسة: استكشف 25 مقارنة بصرية بين عالم
   هارابا وحياة جنوب آسيا اللاحقة، بدءًا من أمثلة ب. ب. لال الأثرية.

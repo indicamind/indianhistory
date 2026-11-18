@@ -4,7 +4,7 @@ slug: attirampakkam-acheulean-stone-tools
 excerpt: "ขวานมือยุคอะชูเลียนที่ฝังอยู่ใต้ดินใกล้เมืองเจนไนแสดงให้เห็นว่าโฮมินินได้สร้างเครื่องมือในอินเดียใต้เมื่ออย่างน้อย 1.07 ล้านปีก่อน และอาจเก่าแก่กว่านั้นมาก"
 publishedAt: 2026-08-21T05:00:00.000Z
 updatedAt: 2026-08-21T05:00:00.000Z
-period: prehistoric
+period: lower-paleolithic
 tags:
   - โบราณคดี
   - ยุคหินเก่า

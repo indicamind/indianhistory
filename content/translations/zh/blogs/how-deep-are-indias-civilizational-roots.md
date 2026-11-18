@@ -1,6 +1,10 @@
 ---
 title: '4,500年后仍然熟悉：信度—萨拉斯瓦蒂生活的25组视觉回响'
 slug: how-deep-are-indias-civilizational-roots
+period: indus-valley
+themes:
+  - indigenous-aryanism-out-of-india-theory
+personalities: []
 excerpt: 手镯、辛杜尔朱砂、骰子、车辆、陶器与神树：从B. B. 拉尔的考古例子出发，探索哈拉帕世界与后世南亚生活之间的25组视觉比较。
 publishedAt: '2026-11-15T00:00:00.000Z'
 updatedAt: '2026-11-17T00:00:00.000Z'

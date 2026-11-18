@@ -1,6 +1,10 @@
 ---
 title: '4.500 yıl sonra hâlâ tanıdık: Sindhu-Saraswati yaşamından 25 görsel yankı'
 slug: how-deep-are-indias-civilizational-roots
+period: indus-valley
+themes:
+  - indigenous-aryanism-out-of-india-theory
+personalities: []
 excerpt: >-
   Bilezikler, sindoor, zarlar, arabalar, çanak çömlek ve kutsal ağaçlar: B. B.
   Lal'ın arkeolojik örneklerinden başlayarak Harappa dünyası ile daha sonraki

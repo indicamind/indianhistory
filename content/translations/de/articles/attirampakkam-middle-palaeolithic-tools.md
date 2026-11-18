@@ -4,8 +4,7 @@ slug: attirampakkam-middle-palaeolithic-tools
 excerpt: "Eine jüngere Schicht in Attirampakkam zeigt den Rückgang klassischer Faustkeile und den frühen Aufstieg mittelpaläolithischer Abschlagwerkzeuge vor rund 385.000 Jahren."
 publishedAt: 2026-10-23T00:00:00.000Z
 updatedAt: 2026-10-23T00:00:00.000Z
-period: prehistoric
-polity: null
+period: middle-paleolithic
 personalities: []
 tags:
   - Archäologie

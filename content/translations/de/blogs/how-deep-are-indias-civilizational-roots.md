@@ -3,6 +3,10 @@ title: >-
   Nach 4.500 Jahren noch vertraut: 25 bildliche Nachklänge des Lebens am
   Sindhu-Saraswati
 slug: how-deep-are-indias-civilizational-roots
+period: indus-valley
+themes:
+  - indigenous-aryanism-out-of-india-theory
+personalities: []
 excerpt: >-
   Armreifen, Sindoor, Würfel, Karren, Keramik und heilige Bäume: Entdecken Sie
   25 Bildvergleiche zwischen der Harappa-Welt und dem späteren südasiatischen

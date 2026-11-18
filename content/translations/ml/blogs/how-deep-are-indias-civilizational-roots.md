@@ -3,6 +3,10 @@ title: >-
   4,500 വർഷങ്ങൾക്കുശേഷവും പരിചിതം: സിന്ധു-സരസ്വതി ജീവിതത്തിന്റെ 25
   ദൃശ്യപ്രതിധ്വനികൾ
 slug: how-deep-are-indias-civilizational-roots
+period: indus-valley
+themes:
+  - indigenous-aryanism-out-of-india-theory
+personalities: []
 excerpt: >-
   വളകൾ, സിന്ദൂരം, പകിടകൾ, വണ്ടികൾ, മൺപാത്രങ്ങൾ, പവിത്ര മരങ്ങൾ: ബി. ബി. ലാലിന്റെ
   പുരാവസ്തു ഉദാഹരണങ്ങളിൽനിന്നു തുടങ്ങി ഹാരപ്പൻ ലോകവും പിൽക്കാല ദക്ഷിണേഷ്യൻ

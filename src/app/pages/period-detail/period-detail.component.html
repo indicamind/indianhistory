@@ -26,7 +26,10 @@
     </p>
     <h1>{{ ent.name }}</h1>
     <p class="period-range">{{ ent.range }}</p>
-    <p class="period-count">{{ locale.format(isPol && children().length ? (hasDynasties() ? '{count} articles across these dynasties' : '{count} articles across these kingdoms') : !isPol && !isTh && !isPerson && visibleChildren().length ? '{count} articles across this {kind} and its sub-periods' : '{count} articles across this {kind}', { count: articles().length, kind: kindLabel() }) }}</p>
+    @if (articles().length || !blogs().length) {
+      <p class="period-count">{{ locale.format(isPol && children().length ? (hasDynasties() ? '{count} articles across these dynasties' : '{count} articles across these kingdoms') : !isPol && !isTh && !isPerson && visibleChildren().length ? '{count} articles across this {kind} and its sub-periods' : '{count} articles across this {kind}', { count: articles().length, kind: kindLabel() }) }}</p>
+    }
+    @if (blogs().length) { <p class="period-count">{{ locale.translate('Blogs') }} ({{ blogs().length }})</p> }
 
     <p class="period-lede">{{ ent.description }}</p>
   </header>
@@ -43,7 +46,12 @@
             </div>
             <p class="sub-desc">{{ child.shortDescription }}</p>
             <div class="sub-footer">
-              <span class="sub-count">{{ locale.format('{count} articles', { count: childCounts()[child.slug] || 0 }) }}</span>
+              @if (childCounts()[child.slug] || !childBlogCounts()[child.slug]) {
+                <span class="sub-count">{{ locale.format('{count} articles', { count: childCounts()[child.slug] || 0 }) }}</span>
+              }
+              @if (childBlogCounts()[child.slug]) {
+                <span class="sub-count">{{ locale.translate('Blogs') }} ({{ childBlogCounts()[child.slug] }})</span>
+              }
               <span class="drill">Explore →</span>
             </div>
           </a>
@@ -52,6 +60,7 @@
     </section>
   }
 
+  @if (articles().length || !blogs().length) {
   <section class="period-articles">
     <h2>
       Articles <span class="count">({{ articles().length }})</span>
@@ -77,5 +86,23 @@
         }
       </div>
     }
+  </section>
+  }
+}
+
+@if (!loading() && !notFound() && visible() && blogs().length) {
+  <section class="period-blogs">
+    <h2>{{ locale.translate('Blogs') }} <span class="count">({{ blogs().length }})</span></h2>
+    <div class="article-list">
+      @for (blog of blogs(); track blog.slug) {
+        <article class="card article-item blog-item">
+          <p class="meta">{{ blog.publishedAt | date: 'mediumDate' }}</p>
+          <h3><a [routerLink]="['/blogs', blog.slug]" [queryParams]="blogQueryParams()">{{ blog.title }}</a></h3>
+          <p class="excerpt">{{ blog.excerpt }}</p>
+          <app-article-section-links [blog]="blog" />
+          <a [routerLink]="['/blogs', blog.slug]" [queryParams]="blogQueryParams()" class="read-more">{{ locale.translate('Read blog →') }}</a>
+        </article>
+      }
+    </div>
   </section>
 }

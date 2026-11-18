@@ -1,6 +1,10 @@
 ---
 title: '4,500 ਵਰ੍ਹਿਆਂ ਮਗਰੋਂ ਵੀ ਜਾਣਿਆ-ਪਛਾਣਿਆ: ਸਿੰਧੂ-ਸਰਸਵਤੀ ਜੀਵਨ ਦੀਆਂ 25 ਦ੍ਰਿਸ਼ ਗੂੰਜਾਂ'
 slug: how-deep-are-indias-civilizational-roots
+period: indus-valley
+themes:
+  - indigenous-aryanism-out-of-india-theory
+personalities: []
 excerpt: >-
   ਚੂੜੀਆਂ, ਸਿੰਦੂਰ, ਪਾਸੇ, ਗੱਡੀਆਂ, ਭਾਂਡੇ ਅਤੇ ਪਵਿੱਤਰ ਰੁੱਖ: ਬੀ. ਬੀ. ਲਾਲ ਦੀਆਂ
   ਪੁਰਾਤੱਤਵੀ ਮਿਸਾਲਾਂ ਤੋਂ ਸ਼ੁਰੂ ਕਰਕੇ ਹੜੱਪਾ ਸੰਸਾਰ ਅਤੇ ਬਾਅਦ ਦੇ ਦੱਖਣੀ ਏਸ਼ੀਆਈ ਜੀਵਨ

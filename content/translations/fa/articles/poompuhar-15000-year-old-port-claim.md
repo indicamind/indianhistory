@@ -4,8 +4,7 @@ slug: poompuhar-15000-year-old-port-claim
 excerpt: "پیمایش‌های سونار عوارضی شبیه بندر را در کف خلیج بنگال آشکار ساخته‌اند، اما فرضیه بندری ۱۵ هزار ساله از نظر علمی اثبات‌نشده باقی مانده است."
 publishedAt: 2026-10-23T00:00:00.000Z
 updatedAt: 2026-10-23T00:00:00.000Z
-period: early-historic
-polity: chola-early
+period: upper-paleolithic
 personalities: []
 tags:
   - باستان‌شناسی

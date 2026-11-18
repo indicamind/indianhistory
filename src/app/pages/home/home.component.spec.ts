@@ -25,6 +25,7 @@ describe('HomeComponent', () => {
     const mockPeriodsSvc = {
       getBySlug: () => null,
       getArticleCount: async () => 0,
+      getBlogCountForSection: async () => 0,
       getThemes: () => [],
       getPersonalities: () => [],
       getEmpires: () => [],
@@ -176,4 +177,11 @@ describe('HomeComponent', () => {
     const thumb = component.thumbnail(articleWithoutImage);
     expect(thumb).toBeNull();
   });
+  it('shows sections with blogs even when they have no articles', () => {
+    component.timelinePeriods.set([{ slug: 'indus-valley', name: 'Indus', range: '', description: '', articleCount: 0, blogCount: 1 }]);
+    component.themes.set([{ ...themes[1], articleCount: 0, blogCount: 1 }]);
+    expect(component.visibleTimelinePeriods().map(period => period.slug)).toEqual(['indus-valley']);
+    expect(component.visibleThemes().map(theme => theme.slug)).toEqual([themes[1].slug]);
+  });
+
 });

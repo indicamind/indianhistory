@@ -3,6 +3,10 @@ title: >-
   වසර 4,500 කට පසුවත් හුරුපුරුදුයි: සින්ධු–සරස්වතී ජීවිතයේ දෘශ්‍ය ප්‍රතිරාව 25
   ක්
 slug: how-deep-are-indias-civilizational-roots
+period: indus-valley
+themes:
+  - indigenous-aryanism-out-of-india-theory
+personalities: []
 excerpt: >-
   වළලු, සින්දූර්, දාදු කැට, කරත්ත, මැටි බඳුන් හා පූජනීය ගස්: බී. බී. ලාල්ගේ
   පුරාවිද්‍යා උදාහරණවලින් ඇරඹෙන හරප්පා ලෝකය හා පසුකාලීන දකුණු ආසියානු ජීවිතය අතර

@@ -1,6 +1,7 @@
 import { Injector, runInInjectionContext, signal } from '@angular/core';
 import { PeriodsService } from './periods.service';
 import { ArticleService } from './article.service';
+import { BlogService } from './blog.service';
 import { LocaleService } from '../i18n/locale.service';
 import { DevModeService } from './dev-mode.service';
 import { recommendedBooks } from '../data/recommended-books';
@@ -9,10 +10,12 @@ describe('PeriodsService', () => {
   let service: PeriodsService;
   let isDevMode: ReturnType<typeof signal<boolean>>;
   let articles: any[];
+  let blogs: any[];
 
   beforeEach(() => {
     isDevMode = signal(false);
     articles = [];
+    blogs = [];
     const mockArticlesService = {
       whenReady: async () => {},
       allArticles: () => articles,
@@ -29,6 +32,7 @@ describe('PeriodsService', () => {
     const injector = Injector.create({
       providers: [
         { provide: ArticleService, useValue: mockArticlesService },
+        { provide: BlogService, useValue: { whenReady: async () => {}, allPosts: () => blogs.filter(blog => !blog.draft || isDevMode()) } },
         { provide: LocaleService, useValue: mockLocaleService },
         { provide: DevModeService, useValue: { isDevMode } },
       ],
@@ -291,4 +295,39 @@ describe('PeriodsService', () => {
     expect(await service.getArticleCount('mauryan')).toBe(3);
     expect(await service.getArticleCountForPolity('maurya')).toBe(3);
   });
+  it('lists blogs in their sections and ancestors without treating them as articles', async () => {
+    const blog = {
+      slug: 'continuity', period: 'mature-harappan', themes: ['indigenous-aryanism-out-of-india-theory'],
+      personalities: [], tags: [],
+    } as any;
+    blogs = [blog];
+    expect((await service.getBlogsForSection('period', 'indus-valley')).map(post => post.slug)).toEqual(['continuity']);
+    expect((await service.getBlogsForSection('theme', 'indigenous-aryanism-out-of-india-theory')).map(post => post.slug)).toEqual(['continuity']);
+    expect(await service.getBlogCountForSection('period', 'mature-harappan')).toBe(1);
+    expect(service.getSectionsForBlog(blog).map(link => link.route.join('/'))).toEqual([
+      '/period/indus-valley', '/period/mature-harappan', '/theme/indigenous-aryanism-out-of-india-theory',
+    ]);
+    expect(await service.getArticleCount('indus-valley')).toBe(0);
+    expect(service.isVisiblePeriod('indus-valley')).toBeTruthy();
+    expect(service.isVisibleTheme('indigenous-aryanism-out-of-india-theory')).toBeTruthy();
+    expect(await service.getBlogsForSection('period', 'prehistory')).toEqual([]);
+    expect(service.isVisibleTheme('the-vedas')).toBeFalsy();
+  });
+
+  it('supports polity and personality memberships while respecting draft visibility and slug collisions', async () => {
+    const article = { slug: 'shared-slug', period: 'mauryan', themes: [], personalities: [], tags: [] } as any;
+    const blog = { slug: 'shared-slug', polity: 'mewar', themes: [], personalities: ['shivaji'], tags: [], draft: true } as any;
+    articles = [article];
+    blogs = [blog];
+    expect(service.isVisiblePolity('mewar')).toBeFalsy();
+    expect(await service.getBlogsForSection('polity', 'rajputs')).toEqual([]);
+    isDevMode.set(true);
+    expect((await service.getBlogsForSection('polity', 'rajputs')).map(post => post.slug)).toEqual(['shared-slug']);
+    expect((await service.getBlogsForSection('personality', 'shivaji')).length).toBe(1);
+    expect(service.getSectionsForBlog(blog).map(link => link.route.join('/'))).toEqual([
+      '/polity/rajputs', '/polity/mewar', '/personality/shivaji',
+    ]);
+    expect(service.getSectionsForArticle(article).map(link => link.route.join('/'))).toEqual(['/period/early-historic', '/period/mauryan']);
+  });
+
 });

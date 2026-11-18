@@ -1,4 +1,6 @@
-export interface ArticleSummary {
+import { SectionEntry } from './section-membership.model';
+
+export interface ArticleSummary extends SectionEntry {
   slug: string;
   viewCount?: number; // Firestore snapshot embedded during the production build
   thumbsUp?: number;

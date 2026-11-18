@@ -3,6 +3,10 @@ title: >-
   Bado Vinafahamika Baada ya Miaka 4,500: Mifanano 25 ya Maisha ya
   Sindhu–Saraswati katika Picha
 slug: how-deep-are-indias-civilizational-roots
+period: indus-valley
+themes:
+  - indigenous-aryanism-out-of-india-theory
+personalities: []
 excerpt: >-
   Bangili, sindoor, kete, mikokoteni, vyombo vya udongo na miti takatifu:
   chunguza milinganisho 25 ya picha kati ya ulimwengu wa Harappa na maisha ya

@@ -1,6 +1,10 @@
 ---
 title: '4,500 ؤرؠن پَتہٕ تہِ پؠژراون وول: سِنٛدھ–سرسوتی زندگی ہِنٛدۍ 25 تصویری بازگشت'
 slug: how-deep-are-indias-civilizational-roots
+period: indus-valley
+themes:
+  - indigenous-aryanism-out-of-india-theory
+personalities: []
 excerpt: >-
   چوٗڑۍ، سِندور، پاسہٕ، گاڑۍ، گِلہٕ ہِنٛدۍ بانہٕ تہٕ مقدس کُل: بی۔ بی۔ لال
   ہِنٛدؠن آثارِ قدیمہٕ مثالن پؠٹھہٕ شروٗع کٔرِتھ ہڑپہ دُنیا تہٕ پتِمِ جنوبی

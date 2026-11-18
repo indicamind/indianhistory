@@ -4,8 +4,7 @@ slug: attirampakkam-middle-palaeolithic-tools
 excerpt: "Более поздний слой в Аттирампаккаме демонстрирует закат классических рубил и раннее появление технологии отщепов среднего палеолита около 385 000 лет назад."
 publishedAt: 2026-10-23T00:00:00.000Z
 updatedAt: 2026-10-23T00:00:00.000Z
-period: prehistoric
-polity: null
+period: middle-paleolithic
 personalities: []
 tags:
   - Археология

@@ -1,6 +1,10 @@
 ---
 title: '4,500 વર્ષ પછી પણ પરિચિત: સિંધુ-સરસ્વતી જીવનનાં 25 દૃશ્ય પ્રતિધ્વનિ'
 slug: how-deep-are-indias-civilizational-roots
+period: indus-valley
+themes:
+  - indigenous-aryanism-out-of-india-theory
+personalities: []
 excerpt: >-
   બંગડીઓ, સિંદૂર, પાસાં, ગાડાં, માટીનાં વાસણો અને પવિત્ર વૃક્ષો: બી. બી. લાલનાં
   પુરાતાત્ત્વિક ઉદાહરણોથી શરૂઆત કરીને હડપ્પાના જગત અને પછીના દક્ષિણ એશિયાઈ જીવન

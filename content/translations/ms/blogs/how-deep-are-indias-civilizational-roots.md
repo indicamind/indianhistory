@@ -1,6 +1,10 @@
 ---
 title: 'Masih Dikenali Selepas 4,500 Tahun: 25 Gema Visual Kehidupan Sindhu-Saraswati'
 slug: how-deep-are-indias-civilizational-roots
+period: indus-valley
+themes:
+  - indigenous-aryanism-out-of-india-theory
+personalities: []
 excerpt: >-
   Gelang, sindoor, dadu, kereta, tembikar dan pokok suci: terokai 25
   perbandingan visual antara dunia Harappa dengan kehidupan Asia Selatan

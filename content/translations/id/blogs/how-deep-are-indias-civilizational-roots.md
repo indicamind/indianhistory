@@ -1,6 +1,10 @@
 ---
 title: 'Masih Akrab Setelah 4,500 Tahun: 25 Gema Visual Kehidupan Sindhu–Saraswati'
 slug: how-deep-are-indias-civilizational-roots
+period: indus-valley
+themes:
+  - indigenous-aryanism-out-of-india-theory
+personalities: []
 excerpt: >-
   Gelang, sindoor, dadu, pedati, tembikar, dan pohon sakral: jelajahi 25
   perbandingan visual dunia Harappa dengan kehidupan Asia Selatan masa kemudian,

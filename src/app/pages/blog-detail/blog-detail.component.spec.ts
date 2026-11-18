@@ -1,4 +1,5 @@
 import { DestroyRef, Injector, runInInjectionContext } from '@angular/core';
+import { DOCUMENT } from '@angular/common';
 import { DomSanitizer } from '@angular/platform-browser';
 import { ActivatedRoute } from '@angular/router';
 import { of } from 'rxjs';
@@ -52,7 +53,8 @@ describe('BlogDetailComponent', () => {
         { provide: BlogService, useValue: mockBlogs },
         { provide: PageViewService, useValue: { record: (slug: string) => recordedSlugs.push(slug) } },
         { provide: DomSanitizer, useValue: mockSanitizer },
-        { provide: LocaleService, useValue: { language: 'hi' } },
+        { provide: DOCUMENT, useValue: document },
+        { provide: LocaleService, useValue: { language: 'hi', translate: (source: string) => source } },
         BookRecommendationsService,
         { provide: DevModeService, useValue: { isDevMode: () => false } },
       ],
@@ -87,6 +89,29 @@ describe('BlogDetailComponent', () => {
       expect(recordedSlugs).toEqual([]);
     } finally {
       delete samplePost.draft;
+    }
+  });
+
+  it('renders intact content parts around two assigned book placements while retaining image buttons', async () => {
+    const original = samplePost.html;
+    const first = '<h3>First comparison</h3><div class="blog-comparison"><figure><img src="ancient.jpg" alt="Ancient object"></figure><figure><img src="later.jpg" alt="Later object"></figure></div><p>First explanation.</p>';
+    const middle = '<h3>Second comparison</h3><p>Second explanation.</p>';
+    const last = '<h3>Third comparison</h3><p>Third explanation.</p>';
+    samplePost.html = first + middle + last;
+    samplePost.bookInsertionOffsets = [first.length, first.length + middle.length];
+    try {
+      component.ngOnInit();
+      await new Promise(resolve => setTimeout(resolve, 0));
+      const parts = component.htmlParts().map(String);
+      expect(parts.length).toBe(3);
+      expect(parts[0]).toContain('First explanation.');
+      expect(parts[0]).toContain('blog-image-trigger');
+      expect(parts[1]).toBe(middle);
+      expect(parts[2]).toBe(last);
+      expect(component.bottomBooks().length).toBe(2);
+    } finally {
+      samplePost.html = original;
+      delete samplePost.bookInsertionOffsets;
     }
   });
 });

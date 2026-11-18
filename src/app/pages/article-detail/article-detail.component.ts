@@ -161,6 +161,8 @@ export class ArticleDetailComponent implements OnInit {
       const theme = this.periodsService.getThemeBySlug(fromThemeSlug);
       if (theme) {
         this.backLink.set(`/theme/${fromThemeSlug}`);
+        const chapter = queryParams.get('fromThemeChapter');
+        if (chapter && /^[a-z0-9]+(?:-[a-z0-9]+)*$/.test(chapter)) this.backFragment.set(chapter);
         this.backText.set(`${this.locale.translate('← Back to')} ${theme.name}`);
       } else {
         this.backLink.set('/');

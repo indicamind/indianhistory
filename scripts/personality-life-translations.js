@@ -13,14 +13,15 @@ function sourceHash(source) {
 }
 
 function chapterSourceHash(source) {
-  return crypto.createHash('sha256').update(JSON.stringify(source.data.chapters)).digest('hex');
+  const metadata = source.data.themeStoryFor ? {chapters: source.data.chapters, image: source.data.image} : source.data.chapters;
+  return crypto.createHash('sha256').update(JSON.stringify(metadata)).digest('hex');
 }
 
-function readSources(root) {
+function readSources(root, kind = 'personality') {
   const directory = path.join(root, 'content/articles');
   return fs.existsSync(directory) ? fs.readdirSync(directory).filter(file => file.endsWith('.md'))
     .map(file => ({ file, ...matter.read(path.join(directory, file)) }))
-    .filter(source => source.data.personalityStoryFor) : [];
+    .filter(source => source.data[`${kind}StoryFor`]) : [];
 }
 
 function targets(content) {
@@ -46,7 +47,8 @@ function translationProblems(source, translation) {
   if (!translation.data.title || !translation.data.excerpt || !translation.content.trim()) problems.push('incomplete');
   if (translation.data.sourceHash !== sourceHash(source)) problems.push('stale');
   if (translation.data.chapterSourceHash !== chapterSourceHash(source)) problems.push('stale chapter metadata');
-  if (translation.data.personalityStoryFor !== source.data.personalityStoryFor) problems.push('personality changed');
+  const field = source.data.themeStoryFor ? 'themeStoryFor' : 'personalityStoryFor';
+  if (translation.data[field] !== source.data[field]) problems.push(`${field === 'themeStoryFor' ? 'theme' : 'personality'} changed`);
   const original = source.data.chapters || [], local = translation.data.chapters || [];
   if (headings(translation.content).length !== original.length + 1) problems.push('chapter count changed');
   if (local.length !== original.length || local.some((chapter, index) => {
@@ -61,6 +63,11 @@ function translationProblems(source, translation) {
     return chapter.image?.file !== image.file || !chapter.image?.alt?.trim() || !chapter.image?.caption?.trim() ||
       chapter.image.alt === image.alt || chapter.image.caption === image.caption;
   })) problems.push('chapter images changed or lack translated alt text and captions');
+  if (source.data.themeStoryFor && source.data.image) {
+    const image = translation.data.image;
+    if (image?.file !== source.data.image.file || !image.alt?.trim() || !image.caption?.trim() ||
+        image.alt === source.data.image.alt || image.caption === source.data.image.caption) problems.push('theme hero lacks a matching localized image');
+  }
   if (JSON.stringify(targets(source.content)) !== JSON.stringify(targets(translation.content))) problems.push('links or images changed');
   if (JSON.stringify(citations(source.content)) !== JSON.stringify(citations(translation.content))) problems.push('citations changed');
   const originalParagraphs = marked.lexer(source.content.trim()).filter(token => token.type === 'paragraph').map(token => token.text.trim());
@@ -71,7 +78,8 @@ function translationProblems(source, translation) {
 }
 
 function compileStory(source, articles, flags = {}) {
-  const slug = source.data.personalityStoryFor;
+  const kind = source.data.themeStoryFor ? 'theme' : 'personality';
+  const slug = source.data.themeStoryFor || source.data.personalityStoryFor;
   const tokens = marked.lexer(source.content.trim());
   const groups = [];
   let current = { title: '', tokens: [] };
@@ -90,7 +98,7 @@ function compileStory(source, articles, flags = {}) {
     assert(metadata?.id && metadata.date, `${slug}: chapter needs a stable id and date`);
     const related = (metadata.articles || []).map(articleSlug => {
       const article = articles.find(entry => entry.slug === articleSlug);
-      assert(article?.personalities.includes(slug), `${slug}: chapter article must belong to this personality: ${articleSlug}`);
+      assert(article?.[kind === 'theme' ? 'themes' : 'personalities']?.includes(slug), `${slug}: chapter article must belong to this ${kind}: ${articleSlug}`);
       return { slug: article.slug, title: article.title };
     });
     return { id: metadata.id, date: metadata.date, title: group.title, html: marked.parser(group.tokens), articles: related };

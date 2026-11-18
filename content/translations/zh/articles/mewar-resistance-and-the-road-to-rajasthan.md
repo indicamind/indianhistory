@@ -14,7 +14,7 @@ tags:
   - 马哈拉纳·普拉塔普
   - 胜利塔
   - 拉贾斯坦
-themes: []
+themes: [colonization-of-india]
 books:
   - '8184822170'
   - '9364111591'

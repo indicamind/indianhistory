@@ -12,6 +12,8 @@
   </div>
 } @else if (isPersonality() && personality()) {
   <app-personality-profile [personality]="personality()!" [articles]="articles()" />
+} @else if (isTheme() && theme() && themeProfile()?.story) {
+  <app-personality-profile [personality]="theme()!" kind="theme" [profileOverride]="themeProfile()" [articles]="articles()" />
 } @else if (period() || polity() || theme() || personality()) {
   @let isPol = isPolity();
   @let isTh = isTheme();

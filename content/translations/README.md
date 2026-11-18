@@ -12,19 +12,31 @@ The user requested seven additional language editions on 2026-10-31. Completed e
 
 | Edition | Code | Required site strings translated | Articles translated | Blogs translated | Status |
 | --- | --- | ---: | ---: | ---: | --- |
-| Italian | `it` | 467 / 467 | 48 / 48 | 1 / 1 | Released |
-| Korean | `ko` | 467 / 467 | 48 / 48 | 1 / 1 | Released |
-| Vietnamese | `vi` | 467 / 467 | 48 / 48 | 1 / 1 | Released |
-| Turkish | `tr` | 467 / 467 | 48 / 48 | 1 / 1 | Released |
-| Malay | `ms` | 467 / 467 | 48 / 48 | 1 / 1 | Released |
-| Swahili | `sw` | 467 / 467 | 48 / 48 | 1 / 1 | Released |
-| Filipino | `fil` | 467 / 467 | 48 / 48 | 1 / 1 | Released |
+| Italian | `it` | 467 / 467 | 48 / 48 | 2 / 2 | Released |
+| Korean | `ko` | 467 / 467 | 48 / 48 | 2 / 2 | Released |
+| Vietnamese | `vi` | 467 / 467 | 48 / 48 | 2 / 2 | Released |
+| Turkish | `tr` | 467 / 467 | 48 / 48 | 2 / 2 | Released |
+| Malay | `ms` | 467 / 467 | 48 / 48 | 2 / 2 | Released |
+| Swahili | `sw` | 467 / 467 | 48 / 48 | 2 / 2 | Released |
+| Filipino | `fil` | 467 / 467 | 48 / 48 | 2 / 2 | Released |
 
 All seven requested editions have passed the full release gate with complete translations for interface strings, articles, blogs, image attributions, metadata, and search assets. Each translation includes the complete body, metadata, tags, image alt text and attribution, and a final Sources section with image credits. Original Prakrit, Greek, and Aramaic transliterations remain unchanged.
 
 The approved Rani Durgavati article is included in all 33 translation editions, with its complete narrative, sources, alt text, captions, and image credits. The approved English text remains unchanged.
 
 Run `npm run check-translations` and `npm run build` after any content change to inspect generated articles, blogs, search assets, section navigation, and share-page metadata across all released editions.
+
+## Civilizational roots blog, 18 November 2026
+
+The approved [civilizational roots blog](../blogs/how-deep-are-indias-civilizational-roots.md) is complete in all 33 translation editions. Each includes the entire narrative, title, excerpt, tags, 25 numbered comparisons, 53 image descriptions and captions, Sources and Image credits. Both replacement images at point 7 are included. Publication titles and book descriptions remain in their published language.
+
+Every translation matches the approved English source hash and preserves image/reference targets, book identifiers, dates, numbered citations and factual qualifiers. Direct authorship and independent cross-review corrected material terminology, period labels and image details. No translation API or browser translation service was used. The shared renderer places the two book recommendations between complete blocks near one-third and two-thirds of the prose in every edition.
+
+The completeness gate includes both published blogs in every released language; no English blog fallback is required.
+
+## Colonization theme timeline awaiting English approval
+
+The 100-bubble English timeline is under `content/drafts/articles/colonization-of-india-timeline.md` and can be reviewed at `/theme/colonization-of-india?lang=en&dev=true`. Its `themeStoryFor` metadata identifies an inline theme narrative, rather than a standalone article. It is excluded from normal views, translated previews and the offline extension. English approval must precede complete translations of the narrative, chapter dates, image captions, alt text and sources into all 33 editions. Theme stories use the same source and chapter hash checks and all-language release gate as personality timelines. See `content/drafts/colonization-theme-review.md` for scope and verification.
 
 ## Personality life timelines approved on 2026-11-12
 

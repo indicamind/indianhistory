@@ -8,7 +8,7 @@ period: medieval
 polity: mewar
 personalities: [rana-kumbha, rana-sanga, udai-singh-ii, maharana-pratap, jaimal, patta, amar-singh-i, raj-singh-i, akbar]
 tags: [Mewar, Chittorgarh, Rana Kumbha, Maharana Pratap, Vijay Stambha, Rajasthan]
-themes: []
+themes: [colonization-of-india]
 books: ['8184822170', '9364111591', '9353450640']
 ---
 

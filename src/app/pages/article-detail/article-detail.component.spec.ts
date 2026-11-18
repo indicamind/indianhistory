@@ -103,6 +103,19 @@ describe('ArticleDetailComponent', () => {
     expect(recordedSlugs).toEqual(['attirampakkam-acheulean-stone-tools', 'ashoka-edicts']);
   });
 
+  it('returns to a theme chapter and rejects an invalid fragment', async () => {
+    mockArticles.getArticle = async slug => article(slug, slug);
+    mockPeriodsService.getThemeBySlug = () => ({slug: 'colonization-of-india', name: 'Colonization of India'});
+    queryParams.next(convertToParamMap({fromTheme: 'colonization-of-india', fromThemeChapter: 'colonization-subsidiary-alliances'}));
+    component.ngOnInit();
+    await new Promise(resolve => setTimeout(resolve, 0));
+    expect(component.backLink()).toBe('/theme/colonization-of-india');
+    expect(component.backFragment()).toBe('colonization-subsidiary-alliances');
+    queryParams.next(convertToParamMap({fromTheme: 'colonization-of-india', fromThemeChapter: '../outside'}));
+    await new Promise(resolve => setTimeout(resolve, 0));
+    expect(component.backFragment()).toBeUndefined();
+  });
+
   it('does not count missing articles', async () => {
     component.ngOnInit();
     await new Promise(resolve => setTimeout(resolve, 0));

@@ -4,6 +4,7 @@ import { PeriodDetailComponent } from './period-detail.component';
 import { PeriodsService } from '../../services/periods.service';
 import { ArticleService } from '../../services/article.service';
 import { LocaleService } from '../../i18n/locale.service';
+import { ThemeStoriesService } from '../../services/theme-stories.service';
 
 describe('PeriodDetailComponent', () => {
   let component: PeriodDetailComponent;
@@ -47,6 +48,7 @@ describe('PeriodDetailComponent', () => {
         { provide: ActivatedRoute, useValue: mockRoute },
         { provide: PeriodsService, useValue: mockPeriodsService },
         { provide: ArticleService, useValue: mockArticlesService },
+        { provide: ThemeStoriesService, useValue: {get: async () => undefined} },
         { provide: LocaleService, useValue: mockLocale },
         { provide: DestroyRef, useValue: mockDestroyRef },
       ],

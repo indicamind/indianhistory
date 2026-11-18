@@ -40,4 +40,15 @@ describe('PersonalityProfileComponent', () => {
     component.personality = { slug: 'ashoka', name: '', range: '', description: '', shortDescription: '' };
     expect(component.articleParams(true)).toEqual({ lang: 'hi', fromPersonality: 'ashoka', dev: true });
   });
+
+  it('uses a supplied theme story and preserves the theme chapter backlink', async () => {
+    const component = create('en', async () => { throw new Error('Theme must not request a personality profile'); });
+    component.kind = 'theme';
+    component.personality = { slug: 'colonization-of-india', name: '', range: '', description: '', shortDescription: '' };
+    component.profileOverride = {events: [], sources: []};
+    await component.ngOnChanges();
+    expect(component.profile()).toBe(component.profileOverride);
+    expect(component.profileRoute).toBe('/theme');
+    expect(component.articleParams(true, 'colonization-salt')).toEqual({lang: 'en', dev: true, fromTheme: 'colonization-of-india', fromThemeChapter: 'colonization-salt'});
+  });
 });

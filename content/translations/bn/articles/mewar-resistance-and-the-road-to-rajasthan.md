@@ -17,7 +17,7 @@ tags:
   - মহারানা প্রতাপ
   - বিজয় স্তম্ভ
   - রাজস্থান
-themes: []
+themes: [colonization-of-india]
 books:
   - '8184822170'
   - '9364111591'

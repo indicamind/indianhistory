@@ -10,6 +10,8 @@ import { LocaleService } from '../../i18n/locale.service';
 import { articleRoute } from '../../utils/article-route';
 import { ArticleSectionLinksComponent } from '../../components/article-section-links/article-section-links.component';
 import { PersonalityProfileComponent } from '../../components/personality-profile/personality-profile.component';
+import { PersonalityProfile } from '../../services/personality-profiles.service';
+import { ThemeStoriesService } from '../../services/theme-stories.service';
 
 @Component({
   selector: 'app-period-detail',
@@ -21,6 +23,7 @@ export class PeriodDetailComponent implements OnInit {
   private readonly route = inject(ActivatedRoute);
   private readonly periodsService = inject(PeriodsService);
   private readonly articlesService = inject(ArticleService);
+  private readonly themeStories = inject(ThemeStoriesService);
   readonly locale = inject(LocaleService);
   readonly articleRoute = articleRoute;
   private readonly destroyRef = inject(DestroyRef);
@@ -28,6 +31,7 @@ export class PeriodDetailComponent implements OnInit {
   readonly period = signal<Period | null>(null);
   readonly polity = signal<Polity | null>(null);
   readonly theme = signal<Theme | null>(null);
+  readonly themeProfile = signal<PersonalityProfile | null>(null);
   readonly personality = signal<Personality | null>(null);
   readonly parent = signal<Period | null>(null);
   readonly children = signal<(Period | Polity)[]>([]);
@@ -47,7 +51,7 @@ export class PeriodDetailComponent implements OnInit {
     const polity = this.polity();
     if (polity) return this.periodsService.isVisiblePolity(polity.slug);
     const theme = this.theme();
-    if (theme) return this.periodsService.isVisibleTheme(theme.slug);
+    if (theme) return !!this.themeProfile()?.story || this.periodsService.isVisibleTheme(theme.slug);
     const personality = this.personality();
     return personality ? this.periodsService.isVisiblePersonality(personality.slug) : false;
   });
@@ -82,6 +86,7 @@ export class PeriodDetailComponent implements OnInit {
     this.period.set(null);
     this.polity.set(null);
     this.theme.set(null);
+    this.themeProfile.set(null);
     this.personality.set(null);
     this.children.set([]);
     this.childCounts.set({});
@@ -157,8 +162,12 @@ export class PeriodDetailComponent implements OnInit {
           this.isTheme.set(true);
           this.children.set([]);
 
-          const arts = await this.periodsService.getArticlesForTheme(slug);
+          const [arts, profile] = await Promise.all([
+            this.periodsService.getArticlesForTheme(slug), this.themeStories.get(slug),
+          ]);
+          if (!this.isTheme() || this.theme()?.slug !== slug) return;
           this.articles.set(arts);
+          this.themeProfile.set(profile || null);
           this.childCounts.set({});
 
           this.backRoute.set(['/']);

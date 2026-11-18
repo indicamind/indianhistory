@@ -17,7 +17,7 @@ tags:
   - ਮਹਾਰਾਣਾ ਪ੍ਰਤਾਪ
   - ਵਿਜੈ ਸਤੰਭ
   - ਰਾਜਸਥਾਨ
-themes: []
+themes: [colonization-of-india]
 books:
   - '8184822170'
   - '9364111591'

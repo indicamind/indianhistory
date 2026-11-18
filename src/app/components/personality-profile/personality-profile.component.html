@@ -1,14 +1,14 @@
 <div class="personality-page">
   <header class="profile-hero" [class.trail-hero]="!!profile()?.story" [class.portrait-hero]="!!profile()?.image?.framedPortrait">
     <div class="hero-copy">
-      <p class="eyebrow"><span class="eyebrow-line" aria-hidden="true"></span>{{ locale.translate('Personality') }}</p>
+      <p class="eyebrow"><span class="eyebrow-line" aria-hidden="true"></span>{{ locale.translate(kind === 'theme' ? 'Theme' : 'Personality') }}</p>
       <h1>{{ personality.name }}</h1>
       <p class="lifespan">{{ personality.range }}</p>
       <p class="hero-intro">{{ personality.shortDescription }}</p>
       <nav class="profile-nav" [attr.aria-label]="locale.translate('Explore related topics')">
-        @for (section of [{id: 'life-timeline', label: 'Life timeline'}, {id: 'personality-articles', label: 'Articles'}]; track section.id) {
+        @for (section of [{id: 'life-timeline', label: kind === 'theme' ? 'Timeline' : 'Life timeline'}, {id: 'personality-articles', label: 'Articles'}]; track section.id) {
           @if (section.id !== 'personality-articles' || articles.length) {
-            <a [routerLink]="['/personality', personality.slug]" [fragment]="section.id" [queryParams]="{lang: locale.language}" queryParamsHandling="merge">{{ locale.translate(section.label) }} <span aria-hidden="true">↗</span></a>
+            <a [routerLink]="[profileRoute, personality.slug]" [fragment]="section.id" [queryParams]="{lang: locale.language}" queryParamsHandling="merge">{{ kind === 'theme' && section.id === 'life-timeline' ? locale.navigation.timeline : locale.translate(section.label) }} <span aria-hidden="true">↗</span></a>
           }
         }
       </nav>
@@ -27,7 +27,8 @@
     @if (story.draft) { <p class="story-draft-notice">{{ locale.translate('English draft · Awaiting approval') }}</p> }
     @if (story.preview) { <p class="story-draft-notice">{{ locale.translate('Preview · Translations in progress') }}</p> }
     <section id="life-timeline" class="life-trail" aria-labelledby="life-title">
-      <h2 id="life-title" class="life-timeline-title">{{ locale.translate('Life timeline') }}</h2>
+      <h2 id="life-title" class="life-timeline-title">{{ kind === 'theme' ? locale.navigation.timeline : locale.translate('Life timeline') }}</h2>
+      @if (kind === 'theme' && story.introHtml) { <div class="chapter-prose life-opening" [innerHTML]="story.introHtml"></div> }
       <ol class="life-bubbles">
         @for (chapter of story.chapters; track chapter.id) {
           @let dateParts = (chapter.date || '').split(' · ');
@@ -101,7 +102,7 @@
       </div>
       @if (articles.length > 6) { <button class="btn btn-secondary show-articles" type="button" [attr.aria-expanded]="showAll()" (click)="showAll.set(!showAll())">{{ locale.translate(showAll() ? 'Show fewer' : 'Show all') }} <span aria-hidden="true">{{ showAll() ? '−' : '+' }}</span></button> }
     } @else {
-      <p class="reading-empty">{{ locale.format('No articles yet for this {kind}. More articles are being added.', {kind: locale.translate('Personality')}) }}</p>
+      <p class="reading-empty">{{ locale.format('No articles yet for this {kind}. More articles are being added.', {kind: locale.translate(kind === 'theme' ? 'Theme' : 'Personality')}) }}</p>
       <a routerLink="/search" [queryParams]="{lang: locale.language}" class="read-more">{{ locale.translate('Search all articles') }}</a>
     }
   </section>

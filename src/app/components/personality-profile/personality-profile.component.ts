@@ -1,6 +1,6 @@
 import { Component, Input, OnChanges, inject, signal } from '@angular/core';
 import { RouterLink } from '@angular/router';
-import { Personality } from '../../data/periods';
+import { Personality, Theme } from '../../data/periods';
 import { ArticleSummary } from '../../models/article.model';
 import { LocaleService } from '../../i18n/locale.service';
 import { PersonalityChapterImage, PersonalityMilestone, PersonalityProfile, PersonalityProfilesService } from '../../services/personality-profiles.service';
@@ -15,7 +15,9 @@ import { localizeContentLinks } from '../../i18n/content-urls';
   styleUrls: ['./personality-profile.component.css', './personality-life-story.css', './personality-story-images.css'],
 })
 export class PersonalityProfileComponent implements OnChanges {
-  @Input({ required: true }) personality!: Personality;
+  @Input({ required: true }) personality!: Personality | Theme;
+  @Input() kind: 'personality' | 'theme' = 'personality';
+  @Input() profileOverride: PersonalityProfile | null = null;
   @Input() articles: ArticleSummary[] = [];
   readonly locale = inject(LocaleService);
   private readonly profiles = inject(PersonalityProfilesService);
@@ -29,7 +31,8 @@ export class PersonalityProfileComponent implements OnChanges {
     const id = ++this.requestId;
     this.showAll.set(false);
     this.profile.set(null);
-    const profile = await this.profiles.get(this.personality.slug).catch(() => undefined);
+    const profile = this.kind === 'theme' ? this.profileOverride
+      : await this.profiles.get(this.personality.slug).catch(() => undefined);
     if (profile?.story) {
       const html = (source: string) => localizeContentLinks(source, this.locale.language, !!profile.story?.draft, this.locale.basePath, this.locale.offline);
       profile.story = { ...profile.story, introHtml: html(profile.story.introHtml), sourcesHtml: html(profile.story.sourcesHtml),
@@ -49,9 +52,11 @@ export class PersonalityProfileComponent implements OnChanges {
   }
 
   articleParams(draft = false, chapter?: string): Record<string, string | boolean | null> {
-    return { lang: this.locale.language, fromPersonality: this.personality.slug, dev: draft ? true : null,
-      ...(chapter ? { fromPersonalityChapter: chapter } : {}) };
+    return { lang: this.locale.language, [this.kind === 'theme' ? 'fromTheme' : 'fromPersonality']: this.personality.slug, dev: draft ? true : null,
+      ...(chapter ? { [this.kind === 'theme' ? 'fromThemeChapter' : 'fromPersonalityChapter']: chapter } : {}) };
   }
+
+  get profileRoute(): string { return this.kind === 'theme' ? '/theme' : '/personality'; }
 
   webp(src: string): string { return src.replace(/\.(?:jpe?g|png)$/i, '.webp'); }
 

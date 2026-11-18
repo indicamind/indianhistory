@@ -918,6 +918,20 @@
       "kind": "Inscription facsimile",
       "width": 1200,
       "height": 1892
+    },
+    "sanchi-stupa3": {
+      "file": "colonization-sanchi-stupa3.jpg",
+      "kind": "Historic site",
+      "subject": "Sanchi",
+      "width": 960,
+      "height": 640
+    },
+    "venu-vana": {
+      "file": "colonization-venu-vana.jpg",
+      "kind": "Historic site",
+      "subject": "Venuvana, Rajgir",
+      "width": 500,
+      "height": 361
     }
   },
   "personalities": {
@@ -954,8 +968,8 @@
       "buddha-dependent-origination": "sanchi-relief",
       "buddha-sangha-founded": "sanchi",
       "gautama-buddha-yasa-household": "buddha-sermon",
-      "buddha-chief-disciples": "jetavana",
-      "buddha-bimbisara-patronage": "jetavana",
+      "buddha-chief-disciples": "sanchi-stupa3",
+      "buddha-bimbisara-patronage": "venu-vana",
       "buddha-return-kapilavastu": "buddha-birth",
       "buddha-bhikkhuni-sangha": "sanchi-relief",
       "buddha-jetavana-monastery": "jetavana",

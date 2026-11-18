@@ -17,7 +17,7 @@ tags:
   - ಮಹಾರಾಣಾ ಪ್ರತಾಪ
   - ವಿಜಯ ಸ್ತಂಭ
   - ರಾಜಸ್ಥಾನ
-themes: []
+themes: [colonization-of-india]
 books:
   - '8184822170'
   - '9364111591'

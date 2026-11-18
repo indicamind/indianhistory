@@ -14,7 +14,7 @@ tags:
   - ମହାରାଣା ପ୍ରତାପ
   - ବିଜୟ ସ୍ତମ୍ଭ
   - ରାଜସ୍ଥାନ
-themes: []
+themes: [colonization-of-india]
 books: ['0195676019', '8120804439', '0198077612']
 sourceHash: 01bcca619ee3dfcb480f3827b45be3ff311ec400f4c905e400af6d4a94060b29
 ---

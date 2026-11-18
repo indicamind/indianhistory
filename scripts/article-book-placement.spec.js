@@ -37,6 +37,12 @@ describe('Books distributed through an article', () => {
     expect(split(first + middle + last).parts).toEqual([first, middle, last]);
   });
 
+  it('keeps each blog comparison heading, image pair and explanatory paragraph together', () => {
+    const comparison = (title, prose) => `<h3>${title}</h3><div class="blog-comparison"><figure><img src="ancient.jpg"><figcaption>Ancient</figcaption></figure><figure><img src="later.jpg"><figcaption>Later</figcaption></figure></div><p>${prose}</p>`;
+    const parts = [comparison('First', 'AAAA'), comparison('Second', 'BBBB'), comparison('Third', 'CCCC')];
+    expect(split(parts.join('')).parts).toEqual(parts);
+  });
+
   it('uses the available boundary then the end for two-paragraph content', () => {
     const first = '<p>AAAA</p>\n';
     const last = '<p>BBBB</p>';

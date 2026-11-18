@@ -4,6 +4,7 @@ export interface BlogPost {
   title: string;
   excerpt: string;
   html: string;
+  bookInsertionOffsets?: [number, number];
   publishedAt: string;
   updatedAt: string;
   author: string;

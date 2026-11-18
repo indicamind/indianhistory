@@ -11,6 +11,11 @@ function textLength(node, proseOnly) {
   return (node.children || []).reduce((sum, child) => sum + textLength(child, proseOnly), 0);
 }
 
+function isComparison(node) {
+  return node.name === 'div' && node.attrs?.some(attribute =>
+    attribute.name === 'class' && attribute.value.split(/\s+/).includes('blog-comparison'));
+}
+
 // Return character offsets in the original HTML, so no content is reserialized
 // and the client can insert an Angular component without splitting an element.
 function articleBookInsertionOffsets(html) {
@@ -25,7 +30,8 @@ function articleBookInsertionOffsets(html) {
   for (let i = 1; i < blocks.length; i++) {
     before += weights[i - 1];
     // Keep headings with their content, and lists/media with their lead-in.
-    if (headings.has(blocks[i - 1].name) || attachedBlocks.has(blocks[i].name)) continue;
+    if (headings.has(blocks[i - 1].name) || attachedBlocks.has(blocks[i].name) ||
+        isComparison(blocks[i - 1]) || isComparison(blocks[i])) continue;
     if (!before) continue;
     candidates.push({ offset: blocks[i].sourceSpan.start.offset, before });
   }

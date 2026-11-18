@@ -32,7 +32,28 @@
         @for (tag of post()!.tags; track tag) { <li>{{ tag }}</li> }
       </ul>
     }
-    <div class="blog-body" [innerHTML]="html()"></div>
-    <app-associated-books [books]="bottomBooks()" />
+    <div class="blog-body" (click)="openImage($event, imageDialog)">
+      @if (bottomBooks().length) {
+        @for (part of htmlParts(); track $index) {
+          <div class="blog-body-part" [innerHTML]="part"></div>
+          @if (bottomBooks()[$index]; as book) {
+            <app-associated-books class="inline-article-books" [books]="[book]"
+              [headingId]="'blog-book-' + post()!.slug + '-' + $index" />
+          }
+        }
+      } @else {
+        <div class="blog-body-part" [innerHTML]="html()"></div>
+      }
+    </div>
   </article>
 }
+
+<dialog #imageDialog class="blog-image-dialog" [attr.aria-label]="locale.translate('View image')" aria-describedby="blog-image-caption" (click)="$event.target === imageDialog && imageDialog.close()" (close)="imageClosed()">
+  <button class="blog-image-close" type="button" autofocus [attr.aria-label]="locale.translate('Close image')" (click)="imageDialog.close()">×</button>
+  @if (selectedImage(); as image) {
+    <figure>
+      <img [src]="image.src" [alt]="image.alt" />
+      <figcaption id="blog-image-caption">{{ image.caption }}</figcaption>
+    </figure>
+  }
+</dialog>

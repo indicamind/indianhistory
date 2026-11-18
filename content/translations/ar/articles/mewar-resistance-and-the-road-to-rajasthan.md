@@ -17,7 +17,7 @@ tags:
   - ماهارانا براتاب
   - فيجاي ستامبها
   - راجستان
-themes: []
+themes: [colonization-of-india]
 books:
   - '8184822170'
   - '9364111591'

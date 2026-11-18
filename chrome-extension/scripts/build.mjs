@@ -92,10 +92,11 @@ for (const language of languages) {
   const articles = await json(prefix + 'articles.json');
   const blogs = await json(prefix + 'blogs.json');
   const profiles = await json(prefix + 'personality-profiles.json');
-  for (const profile of Object.values(profiles)) {
+  const themes = await json(prefix + 'theme-stories.json');
+  for (const profile of [...Object.values(profiles), ...Object.values(themes)]) {
     if (profile.image) media.add(profile.image.src.replace(/^\//, ''));
     if (profile.story) {
-      assert(!profile.story.draft && !profile.story.preview, language + ': unpublished personality timeline');
+      assert(!profile.story.draft && !profile.story.preview, language + ': unpublished timeline');
       for (const chapter of profile.story.chapters) {
         collectMedia(chapter.html);
         if (chapter.image) {
@@ -113,7 +114,9 @@ for (const language of languages) {
     }
   }
   await writeFile(path.join(output, prefix + 'personality-profiles.json'), JSON.stringify(profiles));
+  await writeFile(path.join(output, prefix + 'theme-stories.json'), JSON.stringify(themes));
   await writeFile(path.join(output, prefix + 'personality-story-drafts.json'), '{}\n');
+  await writeFile(path.join(output, prefix + 'theme-story-drafts.json'), '{}\n');
   assert.equal(articles.length, english.length, language + ': incomplete articles');
   assert.equal(blogs.length, englishBlogs.length, language + ': incomplete blogs');
   for (const article of articles) {

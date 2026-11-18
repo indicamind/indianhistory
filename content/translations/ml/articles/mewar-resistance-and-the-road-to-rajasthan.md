@@ -18,7 +18,7 @@ tags:
   - മഹാറാണാ പ്രതാപ്
   - വിജയസ്തംഭം
   - രാജസ്ഥാൻ
-themes: []
+themes: [colonization-of-india]
 books:
   - '8184822170'
   - '9364111591'

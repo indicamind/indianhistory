@@ -121,7 +121,11 @@ function urls(html) {
 
 function sourceFiles(kind) {
   const directory = path.join(ROOT, 'content', kind);
-  return fs.readdirSync(directory).filter(name => name.endsWith('.md') && !matter.read(path.join(directory, name)).data.personalityStoryFor);
+  return fs.readdirSync(directory).filter(name => {
+    if (!name.endsWith('.md')) return false;
+    const {data} = matter.read(path.join(directory, name));
+    return !data.personalityStoryFor && !data.themeStoryFor;
+  });
 }
 
 function placeholders(value) {
@@ -171,12 +175,12 @@ if (require.main === module) {
     return data.previewOnly === true;
   });
   let failed = false;
-  const personalitySources = readSources(ROOT);
+  const personalitySources = [...readSources(ROOT), ...readSources(ROOT, 'theme')];
   const requirePersonalityStories = process.argv.includes('--require-personality-stories');
   for (const language of LANGUAGES) {
     const isProgress = IN_PROGRESS_LANGUAGES.has(language);
     const personalityProblems = personalitySources.flatMap(source => translationProblems(source, readTranslation(ROOT, source, language))
-      .map(problem => `personality/${source.data.personalityStoryFor}: ${problem}`));
+      .map(problem => `${source.data.themeStoryFor ? 'theme' : 'personality'}/${source.data.themeStoryFor || source.data.personalityStoryFor}: ${problem}`));
     const pendingPersonalities = personalityProblems.filter(problem => problem.endsWith(': missing'));
     const contentProblems = [...checkContent('articles', language), ...checkContent('blogs', language),
       ...(requirePersonalityStories ? personalityProblems : personalityProblems.filter(problem => !problem.endsWith(': missing')))];

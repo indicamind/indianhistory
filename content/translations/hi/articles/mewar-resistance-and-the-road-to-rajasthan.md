@@ -17,7 +17,7 @@ tags:
   - महाराणा प्रताप
   - विजय स्तंभ
   - राजस्थान
-themes: []
+themes: [colonization-of-india]
 books:
   - '8184822170'
   - '9364111591'

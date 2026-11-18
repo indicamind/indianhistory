@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-15T06:49:43.545Z",
+  "fetchedAt": "2026-11-18T02:50:16.582Z",
   "reactions": {
     "ashoka-bairat-edict": {
       "thumbsUp": 0,
@@ -82,7 +82,7 @@
       "thumbsDown": 0
     },
     "ashoka-major-rock-edict-2": {
-      "thumbsUp": 0,
+      "thumbsUp": 1,
       "thumbsDown": 0
     },
     "ashoka-major-rock-edict-3": {
@@ -138,6 +138,10 @@
       "thumbsDown": 0
     },
     "ashoka-separate-rock-edict-1": {
+      "thumbsUp": 0,
+      "thumbsDown": 0
+    },
+    "ashoka-separate-rock-edict-2": {
       "thumbsUp": 0,
       "thumbsDown": 0
     },

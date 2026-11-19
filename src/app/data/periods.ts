@@ -411,6 +411,13 @@ export const personalities: Personality[] = [
     range: '1869 – 1948 CE',
     shortDescription: 'Leader of mass anticolonial movements who made satyagraha and non-violent resistance central to Indian nationalism.',
     description: 'Mahatma Gandhi transformed Indian nationalism through satyagraha, non-cooperation, civil disobedience, and mass mobilization. His political methods, social campaigns, and moral language shaped the independence movement and global traditions of non-violent protest.'
+  },
+  {
+    slug: 'veer-savarkar',
+    name: 'Veer Savarkar',
+    range: '1883 – 1966 CE',
+    shortDescription: 'Vinayak Damodar Savarkar: revolutionary, writer, social reformer, Hindutva theorist and Hindu Mahasabha leader.',
+    description: 'Vinayak Damodar Savarkar: revolutionary, writer, social reformer, Hindutva theorist and Hindu Mahasabha leader.'
   }
 ];
 

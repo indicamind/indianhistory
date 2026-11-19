@@ -574,5 +574,27 @@
         "url": "https://gandhismriti.gov.in/more/chronology-mahatma-gandhi"
       }
     ]
+  },
+  "veer-savarkar": {
+    "events": [],
+    "sources": [
+      {
+        "author": "Lok Sabha Secretariat",
+        "url": "https://sansad.in/uploads/04022022_163843_1021206200_40ac79f44e.pdf"
+      },
+      {
+        "author": "Permanent Court of Arbitration",
+        "url": "https://pca-cpa.org/en/cases/79/"
+      },
+      {
+        "author": "Supreme Court of India",
+        "url": "https://api.sci.gov.in/supremecourt/2017/15103/15103_2017_Judgement_28-Mar-2018.pdf"
+      }
+    ],
+    "portrait": {
+      "file": "savarkar-portrait.jpg",
+      "alt": "Historical photograph of Vinayak Damodar Savarkar.",
+      "kind": "Historical photograph"
+    }
   }
 }

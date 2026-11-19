@@ -12,13 +12,13 @@ The user requested seven additional language editions on 2026-10-31. Completed e
 
 | Edition | Code | Required site strings translated | Articles translated | Blogs translated | Status |
 | --- | --- | ---: | ---: | ---: | --- |
-| Italian | `it` | 542 / 542 | 48 / 48 | 2 / 2 | Released |
-| Korean | `ko` | 542 / 542 | 48 / 48 | 2 / 2 | Released |
-| Vietnamese | `vi` | 542 / 542 | 48 / 48 | 2 / 2 | Released |
-| Turkish | `tr` | 542 / 542 | 48 / 48 | 2 / 2 | Released |
-| Malay | `ms` | 542 / 542 | 48 / 48 | 2 / 2 | Released |
-| Swahili | `sw` | 542 / 542 | 48 / 48 | 2 / 2 | Released |
-| Filipino | `fil` | 542 / 542 | 48 / 48 | 2 / 2 | Released |
+| Italian | `it` | 546 / 546 | 48 / 48 | 2 / 2 | Released |
+| Korean | `ko` | 546 / 546 | 48 / 48 | 2 / 2 | Released |
+| Vietnamese | `vi` | 546 / 546 | 48 / 48 | 2 / 2 | Released |
+| Turkish | `tr` | 546 / 546 | 48 / 48 | 2 / 2 | Released |
+| Malay | `ms` | 546 / 546 | 48 / 48 | 2 / 2 | Released |
+| Swahili | `sw` | 546 / 546 | 48 / 48 | 2 / 2 | Released |
+| Filipino | `fil` | 546 / 546 | 48 / 48 | 2 / 2 | Released |
 
 All seven requested editions have passed the full release gate with complete translations for interface strings, articles, blogs, image attributions, metadata, and search assets. Each translation includes the complete body, metadata, tags, image alt text and attribution, and a final Sources section with image credits. Original Prakrit, Greek, and Aramaic transliterations remain unchanged.
 
@@ -110,3 +110,10 @@ credits, local WebP/JPEG assets and the image viewer also work offline. See the
 `antisemitism` has five subthemes: `pre-christian-antisemitism`, `christian-antisemitism`, `islamic-antisemitism`, `national-socialist-antisemitism` and `international-socialist-antisemitism`. All six names, ranges, descriptions and the subtheme navigation label are translated in all 33 editions. Empty sections follow the existing dev-mode visibility rule. Theme memberships include ancestors for both articles and blogs; the home page lists root themes.
 
 `persecution-of-hindus` is a separate root theme with its name and description translated into all 33 editions. The published Firuz Shah Tughlaq persecution article belongs to it in every edition. Relevant Ghazni review drafts carry the same theme without being published or translated; the parent series guide supplies their theme listing.
+
+
+## Veer Savarkar personality draft, 19 November 2026
+
+The new `veer-savarkar` profile has its name, date range, summary and portrait alt text authored in all 33 translation editions. All 546 required site strings remain complete. The detailed English timeline has **85 illustrated bubbles** and **32 numbered source records**, under `content/drafts/articles/veer-savarkar-life-story.md`. Review it at `/personality/veer-savarkar?dev=true&lang=en`.
+
+The narrative, chapter dates, image descriptions and source notes await explicit English approval before translation or publication. They are excluded from normal and localized views and the offline extension; the translated catalogue entry and historical portrait are available independently. The existing 462 approved personality timeline translations remain unchanged. See the [Savarkar review notes](../drafts/savarkar-personality-review.md) for coverage and provenance.

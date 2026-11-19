@@ -379,8 +379,7 @@ chapters:
       height: 408
   - id: colonization-subsidiary-alliances
     date: 1798 onward · Indian states
-    articles:
-      - mewar-resistance-and-the-road-to-rajasthan
+    articles: []
     image:
       file: colonization-diwani.jpg
       alt: Later artwork · The grant of the diwani
@@ -1386,8 +1385,7 @@ chapters:
       height: 408
   - id: colonization-independence
     date: August 1947 · Two independent dominions
-    articles:
-      - mewar-resistance-and-the-road-to-rajasthan
+    articles: []
     image:
       file: colonization-independence.jpg
       alt: Historical photograph · The Constituent Assembly at independence · 1947
@@ -1407,8 +1405,7 @@ chapters:
       height: 336
   - id: colonization-republic-and-enclaves
     date: 1950 · The Republic
-    articles:
-      - mewar-resistance-and-the-road-to-rajasthan
+    articles: []
     image:
       file: colonization-independence.jpg
       alt: Historical photograph · The Constituent Assembly at independence · 1947

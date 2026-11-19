@@ -17,7 +17,7 @@ tags:
   - మహారాణా ప్రతాప్
   - విజయ స్తంభం
   - రాజస్థాన్
-themes: [colonization-of-india]
+themes: []
 books:
   - '8184822170'
   - '9364111591'

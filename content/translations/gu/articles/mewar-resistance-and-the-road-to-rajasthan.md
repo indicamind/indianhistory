@@ -17,7 +17,7 @@ tags:
   - મહારાણા પ્રતાપ
   - વિજય સ્તંભ
   - રાજસ્થાન
-themes: [colonization-of-india]
+themes: []
 books:
   - '8184822170'
   - '9364111591'

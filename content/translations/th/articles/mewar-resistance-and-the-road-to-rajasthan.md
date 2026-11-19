@@ -14,7 +14,7 @@ tags:
   - มหาราณา ปรตาป
   - วิชัยสตัมภ์
   - ราชสถาน
-themes: [colonization-of-india]
+themes: []
 books: ['8184822170', '9364111591', '9353450640']
 sourceHash: 01bcca619ee3dfcb480f3827b45be3ff311ec400f4c905e400af6d4a94060b29
 ---

@@ -23,7 +23,7 @@ tags:
   - Maharana Pratap
   - Vijay Stambha
   - Rajasthan
-themes: [colonization-of-india]
+themes: []
 books:
   - '8184822170'
   - '9364111591'

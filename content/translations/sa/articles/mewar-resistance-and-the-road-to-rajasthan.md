@@ -26,7 +26,7 @@ tags:
   - महाराणाप्रतापः
   - विजयस्तम्भः
   - राजस्थानम्
-themes: [colonization-of-india]
+themes: []
 books:
   - '8184822170'
   - '9364111591'

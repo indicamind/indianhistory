@@ -18,7 +18,7 @@ tags:
   - மகாராணா பிரதாப்
   - விஜய ஸ்தம்பம்
   - ராஜஸ்தான்
-themes: [colonization-of-india]
+themes: []
 books:
   - '8184822170'
   - '9364111591'

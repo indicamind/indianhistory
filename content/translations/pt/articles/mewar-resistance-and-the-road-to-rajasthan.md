@@ -18,7 +18,7 @@ tags:
   - Maharana Pratap
   - Vijay Stambha
   - Rajastão
-themes: [colonization-of-india]
+themes: []
 books:
   - '8184822170'
   - '9364111591'

@@ -26,7 +26,7 @@ tags:
   - مہارانا پرتاپ
   - وجے استمبھ
   - راجستھان
-themes: [colonization-of-india]
+themes: []
 books:
   - '8184822170'
   - '9364111591'

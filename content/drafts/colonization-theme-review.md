@@ -24,7 +24,7 @@ Theme timelines now allocate slightly more space to the text cards, with less pa
 
 Every bubble has numbered citations into 45 source references. These identify original charters, treaties, statutes, correspondence, proclamations, inquiry reports, newspapers, speeches, court statements and assembly proceedings. Later participant memoirs and retrospective colonial administrative compilations are identified as such. Official and revolutionary accounts retain their different perspectives; political declarations are evidence of their authors' aims, rather than proof of every claim they make.
 
-The 140 bubbles use 33 distinct freely licensed images, including maps, original documents, portraits, historic sites, photographs and later artwork. Twenty-four new colonization assets supplement existing site images. Captions distinguish later artwork and geographical context from documentary depictions of an event. A 1909 map used for geographical context is explicitly dated rather than presented as a map of earlier political boundaries. Attribution is visible beside images; original links, licenses and modification details appear in Sources → Image credits.
+The 140 bubbles now use 35 distinct freely licensed images, including maps, original documents, portraits, historic sites, photographs and later artwork. Twenty-seven new colonization assets supplement existing site images. Captions distinguish later artwork and geographical context from documentary depictions of an event. A 1909 map used for geographical context is explicitly dated rather than presented as a map of earlier political boundaries. Attribution is visible beside images; original links, licenses and modification details appear in Sources → Image credits.
 
 The shared layout places images to the left of the bubble text on desktop and above it on mobile. Images use local lazy-loaded WebP thumbnails with a full-image viewer. The hero depicts members taking the pledge at the independence session of the Constituent Assembly.
 
@@ -57,3 +57,9 @@ The two repeated Buddha images now use different sites: Sanchi for the chief dis
 - The final root `npm run build` passed and packaged the complete offline reader and ZIP with 48 articles and two blogs in all 34 languages. Existing bundle/CSS budget warnings remain.
 - The installed extension was verified in an isolated Chrome profile with networking disabled: toolbar entry, reading in English/Hindi/Korean, images and article navigation worked with no HTTP(S) requests. Unapproved theme drafts remained absent from all 34 bundled asset sets.
 - Final generated source and deployment draft assets exactly match the 140 revised entries. All 34 published language asset sets retain their article/blog counts and exclude the unapproved timeline.
+
+## Bose photograph revision
+
+The repeated standing portrait is replaced in all three affected bubbles: Bose reviewing INA troops; Captain Lakshmi Sahgal alongside Bose for the provisional-government and women-soldiers entry; and the Red Fort baoli, photographed in 2016, for the INA trials. The first two photographs are marked public domain in India by their Commons records; Ramesh lalwani’s site photograph uses CC BY-SA 4.0. Each image has local license metadata, a visible plain-text credit and a linked source in the generated final image credits. The narrative, dates and 140 chapter identifiers are unchanged.
+
+The photo revision passed desktop/mobile Chromium checks for all three thumbnails, captions, visible credits, final source links and zoom, plus all 33 translation checks. The full site and offline-extension build passed.

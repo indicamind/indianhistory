@@ -1290,22 +1290,26 @@ chapters:
     date: 1942–1945 · Southeast Asia and the northeastern frontier
     articles: []
     image:
-      file: colonization-bose-ina.jpg
-      alt: Historical photograph · Subhas Chandra Bose in INA uniform
-      caption: Historical photograph · Subhas Chandra Bose in INA uniform
+      file: colonization-bose-reviews-ina.jpg
+      alt: Historical photograph · Subhas Chandra Bose reviewing INA troops · 1940s
+      caption: Historical photograph · Subhas Chandra Bose reviewing INA troops · 1940s
       kind: Historical photograph
-      width: 960
-      height: 1439
+      width: 792
+      height: 561
   - id: colonization-azad-hind-government
     date: 1943 · Bose’s wartime strategy
     articles: []
     image:
-      file: colonization-bose-ina.jpg
-      alt: Historical photograph · Subhas Chandra Bose in INA uniform
-      caption: Historical photograph · Subhas Chandra Bose in INA uniform
+      file: colonization-bose-lakshmi-sahgal.jpg
+      alt: >-
+        Historical photograph · Captain Lakshmi Sahgal alongside Subhas Chandra
+        Bose · 1940s
+      caption: >-
+        Historical photograph · Captain Lakshmi Sahgal alongside Subhas Chandra
+        Bose · 1940s
       kind: Historical photograph
-      width: 960
-      height: 1439
+      width: 552
+      height: 341
   - id: colonization-bengal-1943
     date: 1943 · Bengal
     articles: []
@@ -1320,12 +1324,16 @@ chapters:
     date: 1945–1946 · The Red Fort and public mobilisation
     articles: []
     image:
-      file: colonization-bose-ina.jpg
-      alt: Historical photograph · Subhas Chandra Bose in INA uniform
-      caption: Historical photograph · Subhas Chandra Bose in INA uniform
-      kind: Historical photograph
-      width: 960
-      height: 1439
+      file: colonization-ina-trials-red-fort.jpg
+      alt: >-
+        Historic site · Red Fort baoli, whose chambers held INA trial defendants
+        · photographed in 2016
+      caption: >-
+        Historic site · Red Fort baoli, whose chambers held INA trial defendants
+        · photographed in 2016
+      kind: Historic site
+      width: 1200
+      height: 800
   - id: colonization-naval-revolt
     date: 1946 · Bombay and other naval centres
     articles: []

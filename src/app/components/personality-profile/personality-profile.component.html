@@ -1,4 +1,4 @@
-<div class="personality-page">
+<div class="personality-page" [class.theme-page]="kind === 'theme'">
   <header class="profile-hero" [class.trail-hero]="!!profile()?.story" [class.portrait-hero]="!!profile()?.image?.framedPortrait">
     <div class="hero-copy">
       <p class="eyebrow"><span class="eyebrow-line" aria-hidden="true"></span>{{ locale.translate(kind === 'theme' ? 'Theme' : 'Personality') }}</p>

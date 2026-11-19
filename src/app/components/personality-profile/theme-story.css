@@ -1,0 +1,83 @@
+.theme-page .illustrated-bubble {
+  --timeline-axis: 7.75rem;
+  grid-template-columns: 6.75rem 2rem minmax(0, .55fr) minmax(0, 1fr);
+  padding-bottom: 1.25rem;
+}
+
+.theme-page .bubble-heading {
+  padding: 0 .5rem .45rem;
+}
+
+.theme-page .bubble-heading h3 {
+  font-size: 1.4rem;
+  line-height: 1.25;
+}
+
+.theme-page .illustrated-bubble .bubble-card {
+  padding: 1.7rem 2.25rem;
+  border-radius: 46% / 28%;
+}
+
+.theme-page .bubble-card .chapter-prose {
+  font-size: 1.06rem;
+  line-height: 1.5;
+}
+
+.theme-page .bubble-date {
+  font-size: .95rem;
+}
+
+.theme-page .bubble-figure {
+  margin-inline-end: 1rem;
+}
+
+.theme-page .bubble-image-frame img {
+  height: 190px;
+}
+
+.theme-page .chapter-further {
+  font-size: .95rem;
+  margin-top: .6rem;
+}
+
+.theme-page .life-opening {
+  max-width: 70ch;
+  margin-bottom: 1rem;
+  font-size: 1.02rem;
+  line-height: 1.5;
+}
+
+@media (max-width: 760px) {
+  .theme-page .illustrated-bubble {
+    grid-template-columns: minmax(0, 1fr);
+    padding-bottom: 1.4rem;
+  }
+
+  .theme-page .bubble-heading h3 {
+    font-size: 1.25rem;
+  }
+
+  .theme-page .illustrated-bubble .bubble-card {
+    padding: 1.4rem 1.6rem;
+    border-radius: 43% / 20%;
+  }
+
+  .theme-page .bubble-card .chapter-prose {
+    font-size: 1rem;
+    line-height: 1.55;
+  }
+
+  .theme-page .bubble-figure {
+    width: 64%;
+    max-width: 220px;
+    margin: 0 auto .65rem;
+  }
+
+  .theme-page .bubble-image-frame img {
+    height: 150px;
+  }
+
+  .theme-page .bubble-date {
+    font-size: .85rem;
+  }
+}

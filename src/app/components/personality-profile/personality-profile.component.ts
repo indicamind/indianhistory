@@ -12,7 +12,7 @@ import { localizeContentLinks } from '../../i18n/content-urls';
   selector: 'app-personality-profile',
   imports: [RouterLink, ArticleSectionLinksComponent],
   templateUrl: './personality-profile.component.html',
-  styleUrls: ['./personality-profile.component.css', './personality-life-story.css', './personality-story-images.css'],
+  styleUrls: ['./personality-profile.component.css', './personality-life-story.css', './personality-story-images.css', './theme-story.css'],
 })
 export class PersonalityProfileComponent implements OnChanges {
   @Input({ required: true }) personality!: Personality | Theme;

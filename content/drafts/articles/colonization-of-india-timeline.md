@@ -1,6 +1,6 @@
 ---
 title: >-
-  Colonization of India: trade, conquest, resistance and independence in 100
+  Colonization of India: trade, conquest, resistance and independence in 140
   moments
 excerpt: >-
   A primary-source timeline of European footholds, colonial expansion,
@@ -38,6 +38,16 @@ chapters:
       kind: Later artwork
       width: 960
       height: 1309
+  - id: colonization-calicut-negotiations
+    date: 1498 · The Zamorin’s court
+    articles: []
+    image:
+      file: colonization-company-ships.jpg
+      alt: Later artwork · East India Company ships
+      caption: Later artwork · East India Company ships
+      kind: Later artwork
+      width: 960
+      height: 466
   - id: colonization-coercive-seapower
     date: 1502 · The Malabar coast
     articles: []
@@ -50,6 +60,16 @@ chapters:
       height: 466
   - id: colonization-goa-conquest
     date: 1510 · Goa
+    articles: []
+    image:
+      file: colonization-goa.jpg
+      alt: Historic site · Portuguese Goa
+      caption: Historic site · Portuguese Goa
+      kind: Historic site
+      width: 960
+      height: 641
+  - id: colonization-goa-administration
+    date: 1510 onward · Portuguese Goa
     articles: []
     image:
       file: colonization-goa.jpg
@@ -88,6 +108,16 @@ chapters:
       kind: Later artwork
       width: 960
       height: 466
+  - id: colonization-charter-and-sovereignty
+    date: 1600 onward · Company privileges
+    articles: []
+    image:
+      file: colonization-india-map.jpg
+      alt: 'Map · India in 1909, for geographical context · 1909'
+      caption: 'Map · India in 1909, for geographical context · 1909'
+      kind: Map
+      width: 500
+      height: 408
   - id: colonization-dutch-company
     date: 1602 onward · Coastal trading networks
     articles: []
@@ -108,6 +138,16 @@ chapters:
       kind: Later artwork
       width: 960
       height: 466
+  - id: colonization-roe-at-court
+    date: 1610s · The Mughal court
+    articles: []
+    image:
+      file: colonization-india-map.jpg
+      alt: 'Map · India in 1909, for geographical context · 1909'
+      caption: 'Map · India in 1909, for geographical context · 1909'
+      kind: Map
+      width: 500
+      height: 408
   - id: colonization-danish-tranquebar
     date: 1620 · Tarangambadi
     articles: []
@@ -148,6 +188,16 @@ chapters:
       kind: Map
       width: 960
       height: 423
+  - id: colonization-bombay-company-lease
+    date: 1668 · Bombay
+    articles: []
+    image:
+      file: colonization-india-map.jpg
+      alt: 'Map · India in 1909, for geographical context · 1909'
+      caption: 'Map · India in 1909, for geographical context · 1909'
+      kind: Map
+      width: 500
+      height: 408
   - id: colonization-company-defeat
     date: 1686–1690 · Mughal India
     articles: []
@@ -168,6 +218,16 @@ chapters:
       kind: Map
       width: 500
       height: 408
+  - id: colonization-bengal-customs-disputes
+    date: 1717 onward · Bengal
+    articles: []
+    image:
+      file: colonization-company-ships.jpg
+      alt: Later artwork · East India Company ships
+      caption: Later artwork · East India Company ships
+      kind: Later artwork
+      width: 960
+      height: 466
   - id: colonization-carnatic-wars
     date: 1746–1763 · Southern India
     articles: []
@@ -188,6 +248,16 @@ chapters:
       kind: Later artwork
       width: 960
       height: 748
+  - id: colonization-plassey-conspiracy
+    date: 1757 · Bengal
+    articles: []
+    image:
+      file: colonization-india-map.jpg
+      alt: 'Map · India in 1909, for geographical context · 1909'
+      caption: 'Map · India in 1909, for geographical context · 1909'
+      kind: Map
+      width: 500
+      height: 408
   - id: colonization-buxar
     date: 1764 · Bengal and the Gangetic plain
     articles: []
@@ -208,6 +278,25 @@ chapters:
       kind: Later artwork
       width: 960
       height: 678
+  - id: colonization-revenue-and-armies
+    date: 1765 onward · Company government
+    articles: []
+    image:
+      file: colonization-company-ships.jpg
+      alt: Later artwork · East India Company ships
+      caption: Later artwork · East India Company ships
+      kind: Later artwork
+      width: 960
+      height: 466
+  - id: colonization-mysore-resistance
+    date: 1767–1792 · Mysore
+    articles: []
+    image:
+      file: personality-tipu-portrait.jpg
+      alt: Later artwork · Tipu Sultan
+      caption: Later artwork · Tipu Sultan
+      width: 500
+      height: 689
   - id: colonization-bengal-famine
     date: 1769–1770 · Bengal
     articles: []
@@ -228,6 +317,26 @@ chapters:
       kind: Later artwork
       width: 960
       height: 678
+  - id: colonization-calcutta-supreme-court
+    date: 1773 · Calcutta
+    articles: []
+    image:
+      file: colonization-india-map.jpg
+      alt: 'Map · India in 1909, for geographical context · 1909'
+      caption: 'Map · India in 1909, for geographical context · 1909'
+      kind: Map
+      width: 500
+      height: 408
+  - id: colonization-maratha-salbai
+    date: 1775–1782 · Western India
+    articles: []
+    image:
+      file: colonization-india-map.jpg
+      alt: 'Map · India in 1909, for geographical context · 1909'
+      caption: 'Map · India in 1909, for geographical context · 1909'
+      kind: Map
+      width: 500
+      height: 408
   - id: colonization-pitts-act
     date: 1784 · Britain and India
     articles: []
@@ -238,17 +347,8 @@ chapters:
       kind: Later artwork
       width: 960
       height: 466
-  - id: colonization-mysore-resistance
-    date: 1767–1792 · Mysore
-    articles: []
-    image:
-      file: personality-tipu-portrait.jpg
-      alt: Later artwork · Tipu Sultan
-      caption: Later artwork · Tipu Sultan
-      width: 500
-      height: 689
-  - id: colonization-maratha-salbai
-    date: 1775–1782 · Western India
+  - id: colonization-pazhassi
+    date: 1790s–1805 · Malabar
     articles: []
     image:
       file: colonization-india-map.jpg
@@ -267,8 +367,8 @@ chapters:
       kind: Map
       width: 500
       height: 408
-  - id: colonization-other-settlements
-    date: Early nineteenth century · Different revenue regions
+  - id: colonization-zamindars-and-tenants
+    date: 1793 onward · Bengal
     articles: []
     image:
       file: colonization-india-map.jpg
@@ -297,6 +397,15 @@ chapters:
       caption: Map · Srirangapatna · 1799
       width: 960
       height: 558
+  - id: colonization-mysore-settlement
+    date: 1799 · Mysore
+    articles: []
+    image:
+      file: personality-tipu-portrait.jpg
+      alt: Later artwork · Tipu Sultan
+      caption: Later artwork · Tipu Sultan
+      width: 500
+      height: 689
   - id: colonization-poligar-wars
     date: 1799–1801 · Southern Tamil country
     articles: []
@@ -307,8 +416,8 @@ chapters:
       kind: Historical print
       width: 960
       height: 720
-  - id: colonization-maratha-defeat
-    date: 1803–1818 · Central and western India
+  - id: colonization-other-settlements
+    date: Early nineteenth century · Different revenue regions
     articles: []
     image:
       file: colonization-india-map.jpg
@@ -317,8 +426,18 @@ chapters:
       kind: Map
       width: 500
       height: 408
-  - id: colonization-pazhassi
-    date: 1790s–1805 · Malabar
+  - id: colonization-mahalwari-settlements
+    date: Early nineteenth century · Northern India
+    articles: []
+    image:
+      file: colonization-india-map.jpg
+      alt: 'Map · India in 1909, for geographical context · 1909'
+      caption: 'Map · India in 1909, for geographical context · 1909'
+      kind: Map
+      width: 500
+      height: 408
+  - id: colonization-maratha-defeat
+    date: 1803–1818 · Central and western India
     articles: []
     image:
       file: colonization-india-map.jpg
@@ -347,6 +466,26 @@ chapters:
       kind: Map
       width: 500
       height: 408
+  - id: colonization-mewar-protection
+    date: 1818 · Mewar
+    articles: []
+    image:
+      file: colonization-india-map.jpg
+      alt: 'Map · India in 1909, for geographical context · 1909'
+      caption: 'Map · India in 1909, for geographical context · 1909'
+      kind: Map
+      width: 500
+      height: 408
+  - id: colonization-maratha-indirect-rule
+    date: 1818 onward · Surviving ruling houses
+    articles: []
+    image:
+      file: colonization-india-map.jpg
+      alt: 'Map · India in 1909, for geographical context · 1909'
+      caption: 'Map · India in 1909, for geographical context · 1909'
+      kind: Map
+      width: 500
+      height: 408
   - id: colonization-reform-and-law
     date: 1829 · Bengal
     articles: []
@@ -357,18 +496,8 @@ chapters:
       kind: Map
       width: 500
       height: 408
-  - id: colonization-kol-uprising
-    date: 1831–1832 · Chotanagpur
-    articles: []
-    image:
-      file: colonization-india-map.jpg
-      alt: 'Map · India in 1909, for geographical context · 1909'
-      caption: 'Map · India in 1909, for geographical context · 1909'
-      kind: Map
-      width: 500
-      height: 408
-  - id: colonization-education-minute
-    date: 1835 · Colonial education policy
+  - id: colonization-indian-reform-debate
+    date: 1829 · Bengal
     articles: []
     image:
       file: colonization-india-map.jpg
@@ -387,6 +516,46 @@ chapters:
       kind: Later artwork
       width: 960
       height: 466
+  - id: colonization-indenture-conditions
+    date: 1830s onward · Imperial workplaces
+    articles: []
+    image:
+      file: colonization-company-ships.jpg
+      alt: Later artwork · East India Company ships
+      caption: Later artwork · East India Company ships
+      kind: Later artwork
+      width: 960
+      height: 466
+  - id: colonization-kol-uprising
+    date: 1831–1832 · Chotanagpur
+    articles: []
+    image:
+      file: colonization-india-map.jpg
+      alt: 'Map · India in 1909, for geographical context · 1909'
+      caption: 'Map · India in 1909, for geographical context · 1909'
+      kind: Map
+      width: 500
+      height: 408
+  - id: colonization-company-without-commerce
+    date: 1833 · Corporate rule
+    articles: []
+    image:
+      file: colonization-company-ships.jpg
+      alt: Later artwork · East India Company ships
+      caption: Later artwork · East India Company ships
+      kind: Later artwork
+      width: 960
+      height: 466
+  - id: colonization-education-minute
+    date: 1835 · Colonial education policy
+    articles: []
+    image:
+      file: colonization-india-map.jpg
+      alt: 'Map · India in 1909, for geographical context · 1909'
+      caption: 'Map · India in 1909, for geographical context · 1909'
+      kind: Map
+      width: 500
+      height: 408
   - id: colonization-punjab-annexation
     date: 1845–1849 · Punjab
     articles: []
@@ -407,6 +576,36 @@ chapters:
       kind: Later artwork
       width: 960
       height: 1146
+  - id: colonization-punjab-dynasty
+    date: 1849 · Punjab
+    articles: []
+    image:
+      file: colonization-india-map.jpg
+      alt: 'Map · India in 1909, for geographical context · 1909'
+      caption: 'Map · India in 1909, for geographical context · 1909'
+      kind: Map
+      width: 500
+      height: 408
+  - id: colonization-railways-and-empire
+    date: 1850s onward · Infrastructure and imperial priorities
+    articles: []
+    image:
+      file: colonization-india-map.jpg
+      alt: 'Map · India in 1909, for geographical context · 1909'
+      caption: 'Map · India in 1909, for geographical context · 1909'
+      kind: Map
+      width: 500
+      height: 408
+  - id: colonization-railway-costs
+    date: 1850s onward · Railway finance
+    articles: []
+    image:
+      file: colonization-naoroji.jpg
+      alt: Historical photograph · Dadabhai Naoroji · 1892
+      caption: Historical photograph · Dadabhai Naoroji · 1892
+      kind: Historical photograph
+      width: 430
+      height: 601
   - id: colonization-santhal-hul
     date: 1855–1856 · The Santal country
     articles: []
@@ -427,6 +626,16 @@ chapters:
       kind: Map
       width: 500
       height: 408
+  - id: colonization-awadh-disruption
+    date: 1856–1857 · Awadh’s communities
+    articles: []
+    image:
+      file: colonization-india-map.jpg
+      alt: 'Map · India in 1909, for geographical context · 1909'
+      caption: 'Map · India in 1909, for geographical context · 1909'
+      kind: Map
+      width: 500
+      height: 408
   - id: colonization-meerut-delhi
     date: May 1857 · Meerut and Delhi
     articles: []
@@ -437,6 +646,16 @@ chapters:
       kind: Map
       width: 960
       height: 688
+  - id: colonization-uprising-alliances
+    date: 1857 · Military and civilian resistance
+    articles: []
+    image:
+      file: colonization-india-map.jpg
+      alt: 'Map · India in 1909, for geographical context · 1909'
+      caption: 'Map · India in 1909, for geographical context · 1909'
+      kind: Map
+      width: 500
+      height: 408
   - id: colonization-rebel-programmes
     date: 1857 · Rebel proclamations
     articles: []
@@ -457,16 +676,6 @@ chapters:
       kind: Map
       width: 500
       height: 408
-  - id: colonization-jhansi-gwalior
-    date: 1858 · Jhansi and Gwalior
-    articles: []
-    image:
-      file: colonization-lakshmibai.jpg
-      alt: Later artwork · Lakshmibai of Jhansi
-      caption: Later artwork · Lakshmibai of Jhansi
-      kind: Later artwork
-      width: 960
-      height: 1146
   - id: colonization-violence-and-reprisals
     date: 1857–1858 · The contested country
     articles: []
@@ -477,6 +686,16 @@ chapters:
       kind: Map
       width: 960
       height: 688
+  - id: colonization-jhansi-gwalior
+    date: 1858 · Jhansi and Gwalior
+    articles: []
+    image:
+      file: colonization-lakshmibai.jpg
+      alt: Later artwork · Lakshmibai of Jhansi
+      caption: Later artwork · Lakshmibai of Jhansi
+      kind: Later artwork
+      width: 960
+      height: 1146
   - id: colonization-crown-rule
     date: 1858 · British India
     articles: []
@@ -487,18 +706,18 @@ chapters:
       kind: Map
       width: 500
       height: 408
-  - id: colonization-indigo-resistance
-    date: 1859–1860 · Bengal
+  - id: colonization-victoria-proclamation
+    date: 1858 · Crown promises
     articles: []
     image:
-      file: colonization-india-map.jpg
-      alt: 'Map · India in 1909, for geographical context · 1909'
-      caption: 'Map · India in 1909, for geographical context · 1909'
+      file: colonization-delhi-1857.jpg
+      alt: Map · Delhi during the uprising · 1857
+      caption: Map · Delhi during the uprising · 1857
       kind: Map
-      width: 500
-      height: 408
-  - id: colonization-railways-and-empire
-    date: 1850s onward · Infrastructure and imperial priorities
+      width: 960
+      height: 688
+  - id: colonization-indigo-resistance
+    date: 1859–1860 · Bengal
     articles: []
     image:
       file: colonization-india-map.jpg
@@ -551,6 +770,16 @@ chapters:
       kind: Historical photograph
       width: 960
       height: 630
+  - id: colonization-early-congress-demands
+    date: 1885 onward · Congress proceedings
+    articles: []
+    image:
+      file: colonization-naoroji.jpg
+      alt: Historical photograph · Dadabhai Naoroji · 1892
+      caption: Historical photograph · Dadabhai Naoroji · 1892
+      kind: Historical photograph
+      width: 430
+      height: 601
   - id: colonization-birsa-ulgulan
     date: 1890s–1900 · The Munda country
     articles: []
@@ -581,6 +810,16 @@ chapters:
       kind: Historical photograph
       width: 430
       height: 601
+  - id: colonization-muslim-league-founded
+    date: 1906 · Dacca
+    articles: []
+    image:
+      file: colonization-india-map.jpg
+      alt: 'Map · India in 1909, for geographical context · 1909'
+      caption: 'Map · India in 1909, for geographical context · 1909'
+      kind: Map
+      width: 500
+      height: 408
   - id: colonization-surat-split
     date: 1907 · Surat
     articles: []
@@ -596,6 +835,16 @@ chapters:
       width: 960
       height: 630
   - id: colonization-revolutionary-bengal
+    date: 1908 onward · Bengal
+    articles: []
+    image:
+      file: colonization-bengal-map.jpg
+      alt: Map · The partition of Bengal · 1905
+      caption: Map · The partition of Bengal · 1905
+      kind: Map
+      width: 960
+      height: 636
+  - id: colonization-alipore-trial
     date: 1908 onward · Bengal
     articles: []
     image:
@@ -634,6 +883,16 @@ chapters:
       kind: Historical print
       width: 500
       height: 670
+  - id: colonization-ghadar-networks
+    date: 1913 onward · Diaspora and India
+    articles: []
+    image:
+      file: colonization-india-map.jpg
+      alt: 'Map · India in 1909, for geographical context · 1909'
+      caption: 'Map · India in 1909, for geographical context · 1909'
+      kind: Map
+      width: 500
+      height: 408
   - id: colonization-world-war-one
     date: 1914–1918 · An empire at war
     articles: []
@@ -646,6 +905,20 @@ chapters:
       height: 408
   - id: colonization-home-rule-lucknow
     date: 1916 · Organising and negotiation
+    articles: []
+    image:
+      file: colonization-congress-1885.jpg
+      alt: >-
+        Historical photograph · The first Indian National Congress session ·
+        1885
+      caption: >-
+        Historical photograph · The first Indian National Congress session ·
+        1885
+      kind: Historical photograph
+      width: 960
+      height: 630
+  - id: colonization-lucknow-agreement
+    date: 1916 · Lucknow
     articles: []
     image:
       file: colonization-congress-1885.jpg
@@ -676,6 +949,15 @@ chapters:
       caption: Historic site · Sabarmati Ashram
       width: 960
       height: 723
+  - id: colonization-ahmedabad-strike
+    date: 1918 · Ahmedabad
+    articles: []
+    image:
+      file: personality-sabarmati.jpg
+      alt: Historic site · Sabarmati Ashram
+      caption: Historic site · Sabarmati Ashram
+      width: 960
+      height: 723
   - id: colonization-rowlatt
     date: 1919 · Emergency powers after the war
     articles: []
@@ -688,6 +970,15 @@ chapters:
       height: 408
   - id: colonization-amritsar
     date: April 1919 · Amritsar
+    articles: []
+    image:
+      file: personality-jallianwala.jpg
+      alt: Historic site · Mahatma Gandhi
+      caption: Historic site · Mahatma Gandhi
+      width: 960
+      height: 640
+  - id: colonization-tagore-renunciation
+    date: 1919 · A public act of protest
     articles: []
     image:
       file: personality-jallianwala.jpg
@@ -714,6 +1005,15 @@ chapters:
       caption: Historic site · Sabarmati Ashram
       width: 960
       height: 723
+  - id: colonization-khilafat-mobilisation
+    date: 1920–1922 · The non-cooperation movement
+    articles: []
+    image:
+      file: personality-gandhi-tolstoy.jpg
+      alt: Historical photograph · Mahatma Gandhi · 1912
+      caption: Historical photograph · Mahatma Gandhi · 1912
+      width: 479
+      height: 398
   - id: colonization-malabar
     date: 1921 · Malabar
     articles: []
@@ -749,6 +1049,16 @@ chapters:
       height: 630
   - id: colonization-kakori
     date: 1925 · Revolutionary organisation
+    articles: []
+    image:
+      file: colonization-bismil.jpg
+      alt: Historical photograph · Ram Prasad Bismil
+      caption: Historical photograph · Ram Prasad Bismil
+      kind: Historical photograph
+      width: 500
+      height: 681
+  - id: colonization-kakori-trial
+    date: After 1925 · Courts and prisons
     articles: []
     image:
       file: colonization-bismil.jpg
@@ -805,6 +1115,15 @@ chapters:
       kind: Historical photograph
       width: 960
       height: 630
+  - id: colonization-independence-pledge
+    date: 26 January 1930 · Independence Day
+    articles: []
+    image:
+      file: personality-gandhi-tolstoy.jpg
+      alt: Historical photograph · Mahatma Gandhi · 1912
+      caption: Historical photograph · Mahatma Gandhi · 1912
+      width: 479
+      height: 398
   - id: colonization-salt-satyagraha
     date: 1930 · Dandi and the salt campaigns
     articles: []
@@ -814,6 +1133,15 @@ chapters:
       caption: Historical photograph · Mahatma Gandhi · 1930
       width: 960
       height: 1342
+  - id: colonization-salt-campaign-repression
+    date: 1930 · Dharasana and beyond
+    articles: []
+    image:
+      file: personality-sabarmati.jpg
+      alt: Historic site · Sabarmati Ashram
+      caption: Historic site · Sabarmati Ashram
+      width: 960
+      height: 723
   - id: colonization-chittagong
     date: 1930 · Chittagong
     articles: []
@@ -843,6 +1171,15 @@ chapters:
       caption: Historical photograph · Mahatma Gandhi · 1931
       width: 960
       height: 565
+  - id: colonization-gandhi-irwin-pact
+    date: 1931 · Negotiation and protest
+    articles: []
+    image:
+      file: personality-gandhi-roundtable.jpg
+      alt: Historical photograph · Mahatma Gandhi · 1931
+      caption: Historical photograph · Mahatma Gandhi · 1931
+      width: 960
+      height: 565
   - id: colonization-revolutionary-executions
     date: 1931 · Lahore
     articles: []
@@ -865,6 +1202,20 @@ chapters:
       height: 345
   - id: colonization-provincial-elections
     date: 1935–1937 · Provincial autonomy
+    articles: []
+    image:
+      file: colonization-congress-1885.jpg
+      alt: >-
+        Historical photograph · The first Indian National Congress session ·
+        1885
+      caption: >-
+        Historical photograph · The first Indian National Congress session ·
+        1885
+      kind: Historical photograph
+      width: 960
+      height: 630
+  - id: colonization-provincial-ministries
+    date: 1937 · Provincial governments
     articles: []
     image:
       file: colonization-congress-1885.jpg
@@ -925,8 +1276,28 @@ chapters:
       caption: Historical photograph · Mahatma Gandhi · 1946
       width: 960
       height: 643
+  - id: colonization-quit-india-underground
+    date: 1942 onward · Resistance after the arrests
+    articles: []
+    image:
+      file: colonization-india-map.jpg
+      alt: 'Map · India in 1909, for geographical context · 1909'
+      caption: 'Map · India in 1909, for geographical context · 1909'
+      kind: Map
+      width: 500
+      height: 408
   - id: colonization-ina
     date: 1942–1945 · Southeast Asia and the northeastern frontier
+    articles: []
+    image:
+      file: colonization-bose-ina.jpg
+      alt: Historical photograph · Subhas Chandra Bose in INA uniform
+      caption: Historical photograph · Subhas Chandra Bose in INA uniform
+      kind: Historical photograph
+      width: 960
+      height: 1439
+  - id: colonization-azad-hind-government
+    date: 1943 · Bose’s wartime strategy
     articles: []
     image:
       file: colonization-bose-ina.jpg
@@ -1027,421 +1398,610 @@ chapters:
       width: 500
       height: 336
   - id: colonization-republic-and-enclaves
-    date: After 1947 · An epilogue to decolonisation
+    date: 1950 · The Republic
     articles:
       - mewar-resistance-and-the-road-to-rajasthan
     image:
-      file: colonization-constitution.jpg
-      alt: Historical photograph · B. R. Ambedkar and Rajendra Prasad · 1949
-      caption: Historical photograph · B. R. Ambedkar and Rajendra Prasad · 1949
+      file: colonization-independence.jpg
+      alt: Historical photograph · The Constituent Assembly at independence · 1947
+      caption: Historical photograph · The Constituent Assembly at independence · 1947
       kind: Historical photograph
-      width: 460
-      height: 345
+      width: 500
+      height: 322
+  - id: colonization-french-de-facto-transfer
+    date: 1954 · The French settlements
+    articles: []
+    image:
+      file: colonization-pondicherry.jpg
+      alt: Map · Pondicherry and its surroundings
+      caption: Map · Pondicherry and its surroundings
+      kind: Map
+      width: 960
+      height: 423
+  - id: colonization-goa-decolonisation
+    date: 1961 · Goa
+    articles: []
+    image:
+      file: colonization-goa.jpg
+      alt: Historic site · Portuguese Goa
+      caption: Historic site · Portuguese Goa
+      kind: Historic site
+      width: 960
+      height: 641
+  - id: colonization-french-legal-transfer
+    date: 1962 · The French settlements
+    articles: []
+    image:
+      file: colonization-pondicherry.jpg
+      alt: Map · Pondicherry and its surroundings
+      caption: Map · Pondicherry and its surroundings
+      kind: Map
+      width: 960
+      height: 423
 ---
+European power grew through trade, fortified ports, treaties, taxation and conquest. These short, sourced moments follow resistance through regional wars, collective refusal, constitutional politics, nonviolent campaigns and revolutionary action.
 
-European colonial power developed through trading privileges, fortified settlements, alliances, revenue collection and conquest. Resistance changed alongside it: regional wars, collective refusal, constitutional campaigns, organised nonviolence, revolutionary action and wartime armed movements all form part of this history.
+The main sequence reaches independence and Partition in 1947. A brief epilogue follows the Republic and the remaining European enclaves through 1962. Sources identify the perspectives of officials, rebels and participants, including later memoirs.
 
-The entries identify the perspectives of traders, officials, rebels and political participants whose accounts often conflicted. Later memoirs and colonial administrative compilations are identified in the Sources. The main sequence ends with independence and Partition in 1947; the final entry follows the process into the Republic and the remaining European enclaves.
+## An existing ocean economy
 
-## Europeans entered an existing trading world
+Indian merchants, ports and producers already traded with East Africa, Arabia and Southeast Asia. European newcomers entered these networks and negotiated with established rulers; they did not create India’s overseas commerce. [1]
 
-Indian Ocean commerce already connected Indian merchants, ports and producers with East Africa, Arabia and Southeast Asia. The first Portuguese voyage encountered established markets and rulers who could bargain with newcomers. European arrival began a new contest within those networks; it did not create overseas trade or immediately place India under European government. [1]
+## Da Gama reaches Calicut
 
-## Vasco da Gama reached the Malabar coast
+Vasco da Gama reached Calicut in 1498 through the sea route around Africa. His expedition sought access to Asian markets, encountering an established commercial world on the Malabar coast. [1]
 
-Vasco da Gama’s expedition reached Calicut in 1498 and negotiated with the Zamorin’s court. The surviving voyage journal records commercial expectations, misunderstandings and friction with existing merchants. A sea route around Africa gave Portugal a new connection to Asian markets, while access ashore still depended on relationships with Indian authorities. [1]
+## Negotiating access ashore
 
-## Trade was pursued through armed coercion
+The voyage journal records commercial expectations, misunderstandings and friction with established merchants. A sea route gave Portugal access to Asian markets, but trading ashore still required Indian political relationships. [1]
 
-The second voyage associated with da Gama used naval violence to demand trading advantages and submission. Gaspar Correia’s Portuguese chronicle describes attacks on shipping and the destruction of a pilgrim vessel. It is a later sixteenth-century account with its own perspective, but it makes coercion central to this expansion rather than a peaceful commercial afterthought. [2]
+## Trade backed by naval violence
 
-## A conquered port became a territorial base
+Da Gama’s second voyage used force to demand commercial advantages. Gaspar Correia’s later Portuguese chronicle describes attacks on shipping and the destruction of a pilgrim vessel. [2]
 
-Afonso de Albuquerque captured Goa, lost it and retook it in 1510. His campaigns relied on fleets, soldiers and Indian allies as well as Portuguese resources. Goa became an administrative and commercial centre of the Estado da Índia, giving the Portuguese a fortified territorial base within a much larger Indian political landscape. [3]
+## The conquest of Goa
 
-## Forts and fleets linked a wider empire
+Albuquerque captured Goa, lost it and retook it in 1510. Portuguese fleets and soldiers worked with Indian allies to establish a fortified territorial foothold. [3]
 
-The conquests of Malacca and Hormuz connected Portuguese positions around India with strategic passages farther east and west. Albuquerque’s correspondence and the Commentaries present an effort to direct maritime commerce through fortified nodes. Control remained uneven: holding a harbour or challenging a ship did not amount to governing the entire subcontinent. [3]
+## Goa becomes an imperial centre
 
-## Missionary projects drew on royal power
+Goa became an administrative and commercial centre of the Estado da Índia. Its fortified base supported a wider Portuguese network within a much larger Indian political landscape. [3]
 
-Francis Xavier’s letters connect religious conversion with requests for support from the Portuguese crown and its officers. Missions formed part of the colonial encounter alongside trade and warfare. These missionary writings express the author’s aims and judgments; they need to be distinguished from the varied experiences of converts and communities subjected to religious pressure. [4]
+## A network of fortified ports
 
-## An English company received a royal charter
+The conquests of Malacca and Hormuz linked Portuguese positions around India with strategic sea passages. Forts and fleets sought to direct commerce, although maritime control remained uneven. [3]
 
-Elizabeth I’s charter incorporated the English East India Company on 31 December 1600. It granted an English trading monopoly over an immense eastern area claimed in the charter. The document authorised a corporation within English law; it did not confer legitimate sovereignty over the Indian rulers and populations with whom the company would deal. [5]
+## Missions and royal authority
 
-## The Dutch organised a competing company
+Francis Xavier’s letters sought support from the Portuguese crown and its officers for religious conversion. Missionary projects accompanied colonial trade and warfare, bringing religious pressure into encounters with local communities. [4]
 
-The Dutch East India Company, or VOC, received its charter in 1602. Its commercial privileges were accompanied by powers to make agreements and maintain armed establishments overseas. Dutch factories on Indian coasts joined a competitive maritime world in which European companies depended on Asian goods, labour, credit and political negotiations. [6]
+## The English company is chartered
 
-## English factories needed Indian permission
+Elizabeth I incorporated the English East India Company on 31 December 1600. Its royal charter granted a trading monopoly over an immense eastern area claimed in English law. [5]
 
-English merchants established themselves at Surat, while Thomas Roe’s embassy sought favourable conditions from Jahangir’s court. Roe’s journal and company correspondence show negotiation over customs, access and official protection. A factory was principally a trading establishment; its existence should not be confused with the later company government that collected revenue and commanded extensive territories. [5]
+## A charter was not Indian sovereignty
 
-## A Danish settlement rested on a negotiated treaty
+The English charter authorised a corporation within English law. Its monopoly did not itself give the company sovereignty over Indian rulers and populations with whom it would trade. [5]
 
-The agreement between the Danish expedition and Raghunatha Nayak of Thanjavur permitted a settlement and fort at Tarangambadi, known to Europeans as Tranquebar. The treaty and Jon Ólafsson’s account preserve this negotiated beginning. European establishments differed in scale and political setting, and smaller powers also became part of India’s colonial coastal history. [6]
+## A Dutch company competes
 
-## A trading settlement acquired a permanent fortress
+The VOC received its charter in 1602, with powers to make agreements and maintain armed establishments. Dutch factories relied on Asian goods, labour, credit and political negotiation. [6]
 
-A grant on the Coromandel coast enabled the English to establish Madras and Fort St George. Merchants, textile producers, intermediaries and communities around the settlement made its commerce possible. Company correspondence records the combination of local negotiation and fortification through which a trading station could become a durable centre of corporate power. [5]
+## English merchants at Surat
 
-## An imperial marriage transferred a strategic harbour
+English merchants established a factory at Surat. It was a trading establishment whose access, customs arrangements and protection depended on negotiation with Indian authorities. [5]
 
-Bombay passed through the Portuguese-English royal marriage settlement and was subsequently leased to the East India Company in 1668. Company records show the practical difficulty of converting diplomatic arrangements into possession and administration. The harbour strengthened the company’s western position, although its future importance developed through later investment, commerce and political expansion. [5]
+## Roe seeks imperial protection
 
-## French establishments added another colonial competitor
+Thomas Roe sought favourable conditions from Jahangir’s court. His journal and company correspondence describe negotiations over customs, access and protection for merchants operating under Mughal authority. [5]
 
-The French East India Company was founded in 1664, and Pondicherry developed as an important French settlement from the 1670s. Official correspondence records efforts to secure commerce and political influence. French ambitions later competed with those of the English company, while Indian rulers and merchants pursued their own interests in these changing relationships. [7]
+## The Tranquebar treaty
 
-## The company could still be defeated and disciplined
+Raghunatha Nayak of Thanjavur permitted a Danish settlement and fort at Tarangambadi. The treaty and Jon Ólafsson’s account record a negotiated beginning for this smaller European establishment. [6]
 
-The English company’s attempt to use force against Mughal authority ended in failure and renewed negotiation. Its establishments and trade depended on restoring an acceptable relationship with imperial power. This reversal is an important limit on a story of inevitable conquest: late seventeenth-century company resources did not make it the master of Mughal India. [5]
+## Madras and Fort St George
 
-## Commercial privileges became objects of political struggle
+A Coromandel grant enabled the English to establish Madras and Fort St George. Local merchants, textile producers and intermediaries sustained the trade behind the growing fortified settlement. [5]
 
-Calcutta grew around company settlements, and Farrukhsiyar’s 1717 farman confirmed important trading privileges. The exercise and interpretation of those privileges generated later conflicts with Bengal’s government. Company correspondence reveals how customs exemptions, private trade and the protection of establishments became political questions within an Indian province before outright territorial conquest. [5]
+## Bombay passes between crowns
 
-## European rivalry entered Indian succession struggles
+The Portuguese-English royal marriage settlement transferred Bombay to the English crown. Turning the diplomatic agreement into possession and administration proved difficult, as company records show. [5]
 
-English and French forces fought in southern India while backing competing Indian claimants and negotiating with regional powers. Orme’s military narrative and French correspondence show armies operating through alliances, finance and fortified settlements. English success in these wars weakened a major European rival, but Indian participation and political disputes were central to their course. [7]
+## A French foothold
 
-## Plassey joined battlefield action to political conspiracy
+The French East India Company was founded in 1664. Pondicherry grew as a major settlement from the 1670s, adding another European competitor for commerce and political influence. [7]
 
-Robert Clive’s forces defeated Siraj ud-Daulah at Plassey on 23 June 1757 amid agreements with opponents of the nawab, including Mir Jafar. Clive’s letters celebrate the result from the victor’s position. The battle opened the way to intervention in Bengal’s government; it was neither a conquest of all India nor a victory explained by battlefield numbers alone. [8]
+## Bombay is leased to the company
 
-## Buxar strengthened the company’s military position
+The English crown leased Bombay to the East India Company in 1668. The harbour strengthened its western position, with commercial importance growing through later investment and expansion. [5]
 
-The company’s conflict with Mir Qasim widened into war involving Shuja ud-Daula of Awadh and the Mughal emperor Shah Alam II. Its victory at Buxar in 1764 strengthened its bargaining position. Subsequent treaties turned military success into durable political advantages over several Indian authorities, extending the consequences beyond the earlier arrangements made after Plassey. [8,9]
+## Mughal power checks the company
 
-## The right to collect revenue changed the company’s power
+The English company’s attempt to use force against Mughal authority failed. Restoring trade required renewed negotiation with an imperial government it could not yet overcome. [5]
 
-Shah Alam II’s grant of the diwani gave the company revenue-collecting authority over Bengal, Bihar and Orissa in 1765. Tax income could sustain armies and corporate government as well as trade. Administrative records show the difficult and coercive work behind the grant; the transfer did not create a simple, uniform system of rule overnight. [9,11]
+## Calcutta and imperial privileges
 
-## Famine exposed the human stakes of revenue government
+Company settlements developed around Calcutta. Farrukhsiyar’s 1717 farman confirmed important trading privileges, creating advantages whose interpretation would become a source of conflict with Bengal’s government. [5]
 
-A devastating famine struck Bengal amid crop failure, high prices and a revenue system increasingly directed by the company. Company correspondence and later parliamentary inquiries record both the crisis and the administration’s concerns. Their evidence should not be turned into a securely counted modern death toll, but it reveals the suffering beneath accounts of commercial and fiscal expansion. [11]
+## Privileges become political disputes
 
-## Parliament began to supervise company government
+Customs exemptions, private trade and the protection of company establishments became political questions in Bengal. Disputes over privileges preceded the company’s later territorial conquest. [5]
 
-The Regulating Act reorganised the company’s Indian government and established a governor-general in Bengal and a Supreme Court at Calcutta. Financial troubles and accusations about company conduct helped bring its affairs before Parliament. The resulting arrangements created new conflicts of jurisdiction while recognising that this corporation now exercised governmental power over extensive Indian territories. [10]
+## The Carnatic Wars
 
-## The British state tightened political oversight
+English and French forces backed rival Indian claimants and negotiated regional alliances. Warfare depended on finance and fortified settlements; English victories weakened France’s position in southern India. [7]
 
-Pitt’s India Act created a Board of Control to supervise the company’s political affairs. Directors and shareholders continued to matter, but corporate rule became more closely connected with British state policy. The statute helps explain why later conquest cannot be understood simply as the independent business of merchants acting without metropolitan involvement. [10]
+## Plassey changes Bengal’s politics
 
-## Hyder Ali and Tipu Sultan challenged company expansion
+Clive’s forces defeated Siraj ud-Daulah at Plassey on 23 June 1757. The victory opened Bengal’s government to deeper company intervention, rather than bringing all India under British rule. [8]
 
-Mysore’s wars with the company involved Hyder Ali, Tipu Sultan, Indian allies and rival states, and changing European connections. Tipu’s correspondence and British military dispatches preserve competing political purposes. Mysore developed substantial military resources and sought diplomatic partners; its resistance belonged to a contest among powerful states, not to a single united Indian national command. [12]
+## Allies behind the battlefield
 
-## Maratha power could force a negotiated peace
+Clive negotiated with opponents of Siraj ud-Daulah, including Mir Jafar. These political agreements were central to Plassey; Clive’s letters celebrate the outcome from the victor’s perspective. [8]
 
-The First Anglo-Maratha War ended with the Treaty of Salbai in 1782 after the company had failed to secure all its ambitions. The treaty record shows negotiation among powers whose military and political resources remained consequential. Company expansion was interrupted by reverses and settlements, even as its leaders sought new opportunities for influence. [9]
+## Victory at Buxar
 
-## A permanent revenue demand reshaped landed power
+The company defeated the coalition involving Mir Qasim, Shuja ud-Daula and Shah Alam II in 1764. Subsequent treaties converted military success into stronger political leverage across the Gangetic plain. [8,9]
 
-The Permanent Settlement fixed the state’s assessed revenue demand upon participating zamindars and strengthened a particular form of landed property. Regulation I of 1793 sets out the government’s arrangement. Permanence applied to the official assessment, not to the security or prosperity of every cultivator; tenants continued to face demands, disputes and vulnerability within the countryside. [11]
+## The diwani grant
 
-## Colonial land systems differed across India
+Shah Alam II granted the company revenue-collecting authority over Bengal, Bihar and Orissa in 1765. A trading corporation now gained access to the income of extensive Indian territories. [9,11]
 
-Ryotwari arrangements dealt with individual cultivators in important southern and western regions, while mahalwari settlements organised assessment through villages or estates in parts of northern India. Revenue minutes and parliamentary evidence record the arguments behind these systems. Their differences matter: colonial taxation was not administered through a single identical settlement across every province. [11]
+## Revenue sustains military power
 
-## Alliances could place rulers under growing dependence
+Tax income could finance armies and government as well as commerce. Administrative records show the coercive work behind revenue collection, rather than an effortless transition to uniform rule. [9,11]
 
-Subsidiary treaties required Indian rulers to support British-controlled forces and accept restrictions on diplomacy and military independence. Other protection treaties also imposed subordination: Mewar’s agreement of 13 January 1818 acknowledged British supremacy while preserving internal hereditary government. Treaty texts reveal how protection, fiscal obligations and political restrictions extended company power without immediately annexing every allied state. [9,12]
+## Mysore resists expansion
 
-## Mysore’s defeat removed a major opponent
+Hyder Ali and Tipu Sultan fought the company through wars, alliances and diplomacy. Mysore’s military resources and foreign partnerships challenged company expansion within a wider contest among Indian powers. [12]
 
-Tipu Sultan died when company and allied forces stormed Srirangapatna in May 1799. British dispatches record the capture, while the subsequent settlement divided territory and restored a Wodeyar ruler under restrictive conditions. The outcome expanded British influence in southern India and ended Tipu’s government; it did not mean that every population in the region had accepted company rule. [12]
+## The Bengal famine
 
-## Poligars fought the extension of company authority
+Crop failure, high prices and a company-directed revenue system accompanied Bengal’s devastating famine. Company correspondence and parliamentary inquiries record suffering beneath the expansion of colonial fiscal power. [11]
 
-Resistance associated with Kattabomman, the Marudhu brothers and other poligars confronted demands over tribute, military power and local authority. Company correspondence and proclamations record campaigns, executions and the dismantling of fortified positions. These struggles had distinct regional settings and constituencies, while showing the violence through which colonial authority displaced existing political arrangements. [13]
+## Parliament intervenes
 
-## Further wars broke Maratha political supremacy
+Financial troubles and accusations about company conduct prompted parliamentary action. The Regulating Act reorganised Indian government and established a governor-general in Bengal. [10]
 
-Company victories and treaties during the later Anglo-Maratha wars weakened the major Maratha powers and ended the peshwa’s rule in 1818. Military dispatches and settlement documents show a combination of armed conquest and imposed agreements. Some ruling houses survived within a subordinate political order, making indirect rule an important part of the expanding colonial system. [9,12]
+## A Supreme Court is established
 
-## Pazhassi Raja sustained resistance in difficult country
+The Regulating Act created a Supreme Court at Calcutta. Its relationship with the reorganised government generated jurisdictional disputes, exposing tensions within the company’s new governing arrangements. [10]
 
-Kerala Varma Pazhassi Raja and his supporters resisted the company’s growing demands and authority in Malabar. British campaign correspondence records the difficulty of pursuing resistance through forested and hilly country. Local communities and fighters were essential to its endurance. His death in 1805 ended a leading role, but the documents also expose the wider social setting of the conflict. [13]
+## The Treaty of Salbai
 
-## The company lost commercial monopolies while retaining power
+The First Anglo-Maratha War ended with the Treaty of Salbai in 1782. Maratha power forced negotiation, interrupting company ambitions and demonstrating that expansion faced consequential reverses. [9]
 
-The Charter Acts progressively ended the company’s trading monopolies, and the 1833 settlement terminated its commercial role. Government and commercial expansion remained closely connected, but the legal arrangements changed. Parliamentary records distinguish the company’s continued administrative authority from its earlier position as a privileged trading corporation, while opening India further to other British commercial interests. [10]
+## Pitt’s India Act
 
-## The Paika uprising contested a new political order
+A Board of Control brought company political affairs under closer British state supervision. Directors and shareholders retained influence, but corporate government became increasingly tied to metropolitan policy. [10]
 
-The uprising associated with Bakshi Jagabandhu brought together groups affected by the company’s conquest and changes in revenue, landholding and authority in Odisha. Official correspondence, preserved in documentary collections, records attacks and repression. Calling it a regional uprising preserves its importance without assuming that all participants shared the political programme of the later twentieth-century independence movement. [13]
+## Pazhassi Raja’s resistance
 
-## Social reform became a field of Indian argument and colonial law
+Pazhassi Raja and his supporters resisted company demands in Malabar’s forests and hills. Local communities sustained the struggle; his death in 1805 ended a leading role. [13]
 
-The Bengal regulation prohibiting sati made a major change in colonial law. Indian reformers including Rammohan Roy had already argued against the practice, while other Indian petitioners opposed the prohibition. The regulation and contemporary writings reveal active Indian debate alongside official intervention. The episode should not turn a violent and unequal colonial system into an uncomplicated story of rescue. [14]
+## The Permanent Settlement
 
-## Adivasi resistance challenged outsiders and administration
+Regulation I of 1793 fixed the government’s assessed revenue demand upon participating zamindars. The arrangement strengthened a particular form of landed property in Bengal. [11]
 
-The Kol uprising involved communities confronting changes in land control, revenue demands and the power of outsiders in Chotanagpur. Colonial reports describe attacks and military repression through the administration’s categories. Reading those reports critically helps recover a struggle over the country’s social order without treating the government’s language as the participants’ own explanation of their resistance. [13]
+## A fixed assessment, insecure tenants
 
-## Macaulay argued for a hierarchy of knowledge and language
+Permanence applied to the government’s assessment upon zamindars. It did not guarantee cultivators secure land or prosperity: tenants still faced demands, disputes and vulnerability. [11]
 
-Macaulay’s Minute on Education promoted English education while disparaging Indian and Arabic learning. Its language exposes assumptions about cultural authority within colonial government. Indian uses of English education later included criticism of that government itself. The minute records an influential policy argument, not a complete description of education or intellectual life across the subcontinent. [14]
+## Subsidiary alliances
 
-## Indenture carried Indian labour into other colonies
+Indian rulers supporting British-controlled forces accepted fiscal obligations and limits on diplomacy and military independence. Treaty arrangements extended company power without immediately annexing every subordinated state. [9,12]
 
-Recruitment under indenture sent Indian workers to plantations and other colonial workplaces overseas. Contracts, official inquiries and migrants’ testimony record disputed recruitment, demanding conditions and restrictions on freedom. These movements connected India to a wider imperial labour system. They also created communities whose experiences of racial exclusion and political organising became part of the history of anticolonial resistance. [14]
+## Tipu Sultan’s final battle
 
-## The Anglo-Sikh wars ended in annexation
+Tipu Sultan died when company and allied forces stormed Srirangapatna in May 1799. The victory removed a major opponent of British expansion in southern India. [12]
 
-The company fought two wars against the Sikh kingdom and annexed Punjab in 1849. Treaties, dispatches and Dalhousie’s proclamations document the transition from negotiated relations to direct colonial administration. British narratives of order and necessity should be read alongside the defeat and displacement of an existing state, including the removal of its young ruler, Duleep Singh. [15]
+## A kingdom survives under restrictions
 
-## Succession disputes became opportunities for expansion
+The postwar settlement divided territory and restored a Wodeyar ruler under restrictive conditions. Company influence expanded through a new political arrangement after the destruction of Tipu’s government. [12]
 
-Under the policy commonly called the Doctrine of Lapse, the company refused to recognise certain adopted heirs as successors to sovereignty and annexed several states. Official minutes frame these decisions as questions of legal authority. Rulers and claimants experienced them as dispossession, and the loss of dynastic rights helped produce grievances that later shaped resistance. [15]
+## The Poligar Wars
 
-## The Hul brought a major Adivasi challenge
+Kattabomman, the Marudhu brothers and other poligars resisted demands over tribute, military power and local authority. Company campaigns brought executions and the dismantling of fortified positions. [13]
 
-The uprising led by Sidhu and Kanhu emerged against exploitation involving moneylenders, landlords, police and the colonial order. Officials’ correspondence preserves the government’s response, including proclamations and military measures. These records reveal the scale of the challenge and repression while filtering Santal actions through an administration trying to restore its own authority. [16]
+## Revenue from individual cultivators
 
-## Annexation unsettled a densely connected political society
+Ryotwari arrangements assessed individual cultivators in important southern and western regions. Colonial land taxation developed through different provincial systems rather than one uniform settlement. [11]
 
-The company annexed Awadh on grounds of alleged misgovernment and removed Wajid Ali Shah from power. Official papers explain the British justification, while the change affected court dependants, landholders, soldiers and cultivators. The resulting disruptions help explain the intensity of the resistance that developed there in 1857, rather than reducing it solely to a dispute over cartridges. [15]
+## Village-based revenue assessments
 
-## A military revolt became a wider political crisis
+Mahalwari settlements assessed revenue through villages or estates in parts of northern India. Official minutes and parliamentary evidence record the arguments behind this distinct arrangement. [11]
 
-Sepoys at Meerut rose on 10 May, and rebels reached Delhi the following day, seeking the authority of Bahadur Shah Zafar. The uprising spread through changing military and civilian alliances. Rebel proclamations and British records show struggles over religion, pay, land and political authority, while different regions and groups made different decisions about participation. [17,18]
+## Maratha supremacy is broken
 
-## The rebels addressed economic and political grievances
+Later Anglo-Maratha wars combined military conquest with imposed treaties. Company victories weakened the major Maratha powers and ended the peshwa’s rule in 1818. [9,12]
 
-The Azamgarh Proclamation appealed to groups including landholders, merchants, officials, artisans and religious figures. It promised remedies to grievances against British rule and invoked shared action by Hindus and Muslims. Its programme is evidence of a particular rebel appeal, with questions of authorship and transmission; it should not be treated as the unanimous constitution of the entire uprising. [17]
+## Trading monopolies are dismantled
 
-## Begum Hazrat Mahal defended an alternative authority
+The Charter Acts progressively removed the company’s commercial monopolies. Parliamentary settlements opened India further to other British business interests while changing the corporation’s legal role. [10]
 
-Begum Hazrat Mahal helped sustain resistance in Awadh in the name of her son Birjis Qadr. Rebel declarations and British campaign records reveal a conflict involving courtly legitimacy, local power and opposition to annexation. Her later response to Victoria’s proclamation challenged British assurances, showing that surrender was not the only political answer to the new Crown government. [17,18]
+## The Paika uprising
 
-## Lakshmibai fought as the rebellion faced reconquest
+Bakshi Jagabandhu’s uprising drew together groups affected by conquest and changes in Odisha’s revenue, landholding and authority. Official correspondence records resistance and the colonial response. [13]
 
-Lakshmibai’s role developed amid the loss of Jhansi’s sovereignty and the wider uprising. She fought during the campaigns around Jhansi, Kalpi and Gwalior and died in June 1858. British military dispatches preserve the opposing army’s account; later heroic portrayals should be distinguished from what those records establish about her actions and the war’s course. [18]
+## Protection under British supremacy
 
-## The war brought atrocities and collective punishment
+Mewar’s treaty of 13 January 1818 acknowledged British supremacy while preserving internal hereditary government. Protection agreements could therefore subordinate a state without turning it immediately into annexed territory. [9]
 
-The uprising included the killing of civilians by rebel forces and severe British reprisals, including executions and attacks on communities. Contemporary correspondence and participants’ memoirs preserve evidence of violence while often excusing their own side. Responsibility should be assigned to particular actions and actors; neither a heroic national narrative nor an imperial narrative of restoration accounts for all the victims. [18]
+## Indirect rule after conquest
 
-## The Crown replaced the company as the governing authority
+Some Maratha ruling houses survived within a subordinate order. Military dispatches and settlements show how imposed agreements could preserve local dynasties while extending colonial political control. [9,12]
 
-The Government of India Act transferred company government to the British Crown. Victoria’s proclamation promised protection of religious practice, respect for certain princely rights and impartial treatment under the law. These were official commitments after a devastating conflict. Subsequent experiences of racial hierarchy and political exclusion must be assessed against the promises, rather than assumed away by their publication. [19]
+## The prohibition of sati
 
-## Cultivators collectively refused coercive indigo cultivation
+The Bengal regulation prohibiting sati changed colonial law in 1829. The measure followed Indian arguments over the practice and became part of a contested field of reform. [14]
 
-Indigo cultivators resisted contracts and pressures that subordinated their livelihoods to European planters. Refusal, organisation and public controversy helped force an official inquiry. The Indigo Commission’s evidence records cultivators’ grievances and the operation of coercion. This was an important form of collective resistance whose significance extended beyond the later national movements usually associated with mass protest. [20]
+## Indian arguments over reform
 
-## Railways served commerce and government as well as travellers
+Rammohan Roy had argued against sati, while other Indian petitioners opposed prohibition. Contemporary writings reveal an active Indian debate alongside the colonial government’s legal intervention. [14]
 
-Railway construction changed transport and economic relationships, while official guarantees and military requirements shaped investment. Parliamentary evidence and Indian critics examined costs, returns and priorities. Recognising the usefulness of transport does not settle who paid, who controlled the system or how its benefits were distributed within an economy governed by an external imperial power. [21,22]
+## Indentured labour crosses oceans
 
-## Naoroji made the drain of wealth a political argument
+Recruitment under indenture carried Indian workers to plantations and other colonial workplaces overseas. These migrations connected India to a wider imperial labour system and formed enduring diaspora communities. [14]
 
-Dadabhai Naoroji argued that remittances, official employment and the financial structure of British rule transferred resources out of India. His published calculations and speeches made economic criticism part of the demand for political power. These are a participant’s arguments, with estimates and assumptions that can be examined, not a single uncontested measurement of every colonial economic effect. [21]
+## Contracts and constrained freedom
 
-## Famine policy became a test of colonial priorities
+Contracts, inquiries and migrants’ testimony describe disputed recruitment, demanding work and restrictions on freedom. Racial exclusion overseas also shaped the political organising of Indian diaspora communities. [14]
 
-Repeated famines prompted official commissions, relief rules and disputes over responsibility. Their reports discussed food access, employment, transport and the organisation of relief alongside harvest failure. Indian critics challenged the adequacy of state action. These documents expose choices made during catastrophe and the unequal ability of people to obtain food within an imperial economy. [22]
+## The Kol uprising
 
-## The government sought special powers over the vernacular press
+Communities in Chotanagpur confronted changing land control, revenue demands and outsiders’ power. The uprising challenged the social order emerging under colonial administration and faced military repression. [13]
 
-The Vernacular Press Act gave the government additional means to control Indian-language publications it regarded as dangerous. Its provisions reveal anxiety about criticism circulating beyond official and English-speaking circles. Editors and political opponents challenged this unequal treatment. The press became both an instrument of public organisation and a repeated target of colonial restrictions. [23]
+## A government without a trading business
 
-## Congress created a continuing forum for political demands
+The 1833 settlement ended the company’s commercial role but retained its administrative authority. Parliamentary records distinguish this governing institution from the privileged trading corporation of earlier centuries. [10]
 
-The first Indian National Congress met in Bombay in December 1885. Its early proceedings sought administrative reform, wider representation and changes in the distribution of public employment and expenditure. The delegates did not yet present the later programme of complete independence. Their meetings nevertheless helped build a continuing organisation through which political demands could be debated across regions. [24]
+## Macaulay’s education argument
 
-## Birsa’s movement joined religious renewal to resistance
+Macaulay’s Minute promoted English education while disparaging Indian and Arabic learning. Its assumptions about cultural authority influenced colonial policy; Indians also used English education to criticise imperial rule. [14]
 
-Birsa Munda’s movement challenged the erosion of customary rights and the authority of landlords, missionaries and the colonial state. The Ulgulan included armed confrontation and severe repression. Official reports preserve an adversarial view of the movement; its local social and religious aspirations require attention alongside the wider history of resistance to British power. [25]
+## The conquest of Punjab
 
-## Partition provoked boycott and swadeshi mobilisation
+Two Anglo-Sikh wars ended in the company’s annexation of Punjab in 1849. Treaties, dispatches and proclamations record the transition from negotiated relations to direct colonial administration. [15]
 
-The partition of Bengal generated a major movement involving public meetings, boycott of imported goods, promotion of Indian production and new forms of political organisation. Participants connected daily consumption with national power. The movement also contained internal differences over methods, social participation and community relations, while colonial authorities responded with surveillance and repression. [24,26]
+## The Doctrine of Lapse
 
-## Political organisations articulated different routes to power
+The company refused to recognise certain adopted heirs as successors to sovereignty and annexed several states. Dispossession and lost dynastic rights generated grievances that later shaped resistance. [15]
 
-Naoroji’s Congress presidential address placed self-government at the centre of political aspiration. The founding of the All-India Muslim League in Dacca introduced another organisation that would develop its own constitutional claims. These beginnings did not determine every later position: cooperation, competition and changing definitions of representation shaped the decades that followed. [21,24,39]
+## An existing state is displaced
 
-## Disagreement over leadership and methods divided Congress
+Annexation ended the Sikh kingdom’s sovereignty and displaced its young ruler, Duleep Singh. British proclamations presented the takeover through claims of order and administrative necessity. [15]
 
-The Surat session broke down amid conflict between groups conventionally called moderates and extremists. Congress proceedings and participants’ accounts reveal disputes over tactics, organisation and political direction. Neither label describes a permanently uniform camp. The split illustrates how the growth of anticolonial politics also produced contests over who could speak for it and how it should act. [24]
+## Railways and imperial priorities
 
-## Secret revolutionary organisations adopted political violence
+Railways transformed transport and economic relationships. Government guarantees and military requirements shaped investment, linking infrastructure to commerce and colonial control as well as passenger travel. [21,22]
 
-Revolutionary groups in Bengal attempted attacks on colonial officials and developed clandestine networks. The Muzaffarpur bombing killed two women who were not the intended target, and the Alipore proceedings became a major trial. The Sedition Committee’s later account is an official attempt to explain and suppress these organisations; its categories and allegations need critical reading. [26]
+## Who paid for the railways?
 
-## Limited representation came with separate electorates
+Parliamentary evidence and Indian critics examined railway costs, returns and priorities. The benefits of improved transport did not resolve questions about who financed, controlled or profited from the system. [21,22]
 
-The Indian Councils Act enlarged legislative councils and introduced new electoral arrangements, including separate Muslim electorates. The statute and related official papers show concessions combined with continued imperial control. Representation created opportunities for political action while also making the definition of communities and constituencies a lasting subject of negotiation and conflict. [27]
+## The Santal Hul
 
-## Gandhi questioned the meaning of self-rule
+Sidhu and Kanhu led an uprising against exploitation involving moneylenders, landlords, police and the colonial order. Official correspondence records the scale of the challenge and military repression. [16]
 
-In Hind Swaraj, Gandhi argued that replacing British rulers would not by itself create the freedom he sought. He connected political independence with self-discipline, ethical conduct and criticism of modern civilisation. The dialogue became an influential statement of his thought, while other nationalists and revolutionaries advanced different ideas about industry, state power and social change. [28]
+## Awadh is annexed
 
-## Ghadar called for an armed overthrow of colonial rule
+The company annexed Awadh on grounds of alleged misgovernment and removed Wajid Ali Shah. British official papers presented their justification for displacing an existing political authority. [15]
 
-Ghadar activists organised among migrants, especially in North America, and circulated a newspaper advocating revolt against British rule. The newspaper supplies the movement’s own public voice, while colonial intelligence reports record surveillance and attempted suppression. Its networks linked experiences of racial exclusion overseas with plans for rebellion and military defections in India. [26]
+## The social consequences of annexation
 
-## War expanded demands upon Indian soldiers and civilians
+The change affected court dependants, landholders, soldiers and cultivators. These disruptions help explain Awadh’s intense resistance in 1857, alongside the grievances surrounding military service. [15]
 
-British India supplied soldiers, money and material for the First World War. Wartime restrictions strengthened the government’s powers, while revolutionary groups sought opportunities to challenge it. Official reports and political declarations reveal the connection between imperial military needs and expectations of reform. Those expectations intensified disputes over the political settlement that would follow the war. [26,27]
+## Meerut and Delhi rise
 
-## Home Rule campaigns accompanied a Congress-League agreement
+Sepoys at Meerut rose on 10 May 1857. Reaching Delhi the following day, rebels sought Bahadur Shah Zafar’s authority as the military revolt widened into a political crisis. [17,18]
 
-Annie Besant and Bal Gangadhar Tilak promoted Home Rule through leagues, meetings and political education. Congress and the Muslim League reached an agreement at Lucknow on constitutional demands and representation. Participants’ resolutions show the possibility of negotiated cooperation, alongside unresolved questions about the form of self-government and the distribution of political power. [24]
+## A widening field of grievances
 
-## An investigation into indigo grievances became satyagraha
+Religion, pay, land and political authority shaped participation in the uprising. Changing military and civilian alliances spread the crisis, while regions and communities made different choices. [17,18]
 
-Gandhi’s intervention in Champaran combined investigation, organisation and refusal to obey an order to leave. His own account emphasises recording cultivators’ testimony and building confidence through practical work. The campaign addressed a specific agrarian system while helping establish a style of political action that connected local grievances with a broader challenge to authority. [28]
+## A rebel proclamation
 
-## Tax refusal and a workers’ strike tested nonviolent methods
+The Azamgarh Proclamation appealed to landholders, merchants, officials, artisans and religious figures. It promised remedies against British rule and invoked joint Hindu-Muslim action, expressing one rebel programme. [17]
 
-The Kheda campaign contested revenue collection during agricultural distress, while the Ahmedabad textile dispute concerned workers’ wages and industrial relations. Gandhi’s account treats these as demanding experiments in collective discipline. Their aims and participants differed, showing that satyagraha developed through particular social conflicts before becoming the method of larger national campaigns. [28]
+## Begum Hazrat Mahal’s resistance
 
-## Opposition to the Rowlatt legislation spread through protest
+Begum Hazrat Mahal sustained resistance in Awadh in her son Birjis Qadr’s name. Her response to Victoria’s proclamation challenged British assurances rather than accepting the new Crown settlement. [17,18]
 
-The government carried wartime-style restrictions into peacetime through the Rowlatt legislation. Gandhi called for satyagraha, and hartals and demonstrations developed in several regions. Some places also saw violence and repression. The official committee report and Gandhi’s writings preserve opposing arguments about security, liberty and the responsibilities of a mass political movement. [26,29]
+## Atrocities and reprisals
 
-## Jallianwala Bagh made imperial coercion unmistakable
+Rebel forces killed civilians, while British reprisals included executions and attacks on communities. Correspondence and participant memoirs record violence against people caught on different sides of the conflict. [18]
 
-General Dyer ordered firing on a gathering at Jallianwala Bagh on 13 April 1919. The official inquiry, its disagreements and Dyer’s testimony document the act and its justification by those responsible. Rabindranath Tagore’s renunciation of his knighthood records an Indian response to the humiliation and violence. Disputed casualty totals require careful attribution. [30]
+## Lakshmibai’s final campaigns
 
-## Reforms divided responsibility without transferring sovereignty
+Lakshmibai fought around Jhansi, Kalpi and Gwalior after the loss of Jhansi’s sovereignty. She died in June 1858 as the rebellion faced British reconquest. [18]
 
-The Government of India Act introduced dyarchy in the provinces, separating subjects administered by ministers from those retained under official control. Its constitutional arrangements created new political arenas and limits. Participation in the councils became a strategic question for nationalists, particularly as expanding protest challenged the legitimacy of cooperation with the colonial government. [27]
+## Company rule ends
 
-## Non-cooperation challenged everyday supports of colonial rule
+The Government of India Act transferred company government to the British Crown in 1858. Imperial authority continued through a changed governing structure after the uprising. [19]
 
-Congress adopted a programme involving rejection of honours, withdrawal from institutions and promotion of swadeshi and khadi. The Khilafat issue helped mobilise many Muslims, while participants brought varied local grievances. Gandhi’s writings insisted on nonviolence and discipline. The campaign widened political participation, and its actual course exposed tensions between national instructions and local action. [24,29]
+## Victoria’s proclamation
 
-## An uprising combined anticolonial conflict with other violence
+The proclamation promised religious protection, respect for certain princely rights and impartial legal treatment. These official commitments coexisted with continuing racial hierarchy and political exclusion under colonial rule. [19]
 
-The Malabar rebellion emerged amid agrarian tensions and Khilafat mobilisation and developed into armed confrontation with the state. It also included attacks on civilians and religious coercion, followed by severe colonial repression. The official account and Gandhi’s contemporary comments should be compared critically; treating every act as either pure national liberation or simple criminality obscures the evidence. [31]
+## Indigo cultivators refuse
 
-## A police-station killing led Gandhi to halt the campaign
+Bengal cultivators collectively resisted coercive indigo contracts and European planters’ pressures. Organisation and public controversy helped force an inquiry, whose evidence recorded grievances and the operation of coercion. [20]
 
-At Chauri Chaura, a clash culminated in a police station being burned and policemen killed. Gandhi judged that the movement lacked the necessary nonviolent discipline and suspended the planned mass campaign. His published explanation made the relationship between means and ends explicit, while many colleagues and participants disputed the political consequences of his decision. [29]
+## Naoroji’s drain argument
 
-## Nationalists pursued more than one political strategy
+Dadabhai Naoroji argued that remittances, official employment and imperial financial arrangements transferred resources out of India. His calculations and speeches made economic criticism part of the demand for political power. [21]
 
-The Swaraj Party sought to use legislative councils to obstruct or challenge colonial government from within. Other Congress workers concentrated on constructive programmes, social work and organisation outside those institutions. Proceedings and political writings record disagreement as well as cooperation. National politics continued through elections, labour and local activity between the great nationwide campaigns. [24,29]
+## Famine relief and responsibility
 
-## The Kakori action targeted government money and brought a major trial
+Repeated famines brought commissions and relief rules. Their reports examined food access, employment and transport alongside harvest failure, while Indian critics challenged the adequacy of government action. [22]
 
-Members of the Hindustan Republican Association took government money from a train near Kakori. A passenger was killed, and the subsequent case led to executions and long prison sentences. Participants’ prison writings and the prosecution record preserve different accounts of motive and responsibility. The episode belongs to the revolutionary struggle, alongside the human consequences of its chosen methods. [32]
+## Restrictions on Indian-language newspapers
 
-## An all-British commission faced organised opposition
+The Vernacular Press Act expanded government control over Indian-language publications deemed dangerous. Editors challenged unequal treatment as newspapers became instruments of political organisation and targets of colonial restriction. [23]
 
-The appointment of the Simon Commission without Indian members provoked widespread protest. At Lahore, police action injured Lala Lajpat Rai, who died later in 1928. Official records and nationalist statements preserve sharply different assessments of the confrontation. The commission’s work intensified demands for Indians to determine their own constitutional arrangements. [27,33]
+## The first Congress session
 
-## Revolutionaries killed Saunders in an intended act of retaliation
+The Indian National Congress first met in Bombay in December 1885. Continuing meetings created an organisation in which political demands could be debated across regions. [24]
 
-Bhagat Singh and his associates sought retaliation after Lajpat Rai’s death and killed police officer John Saunders, who was not their intended target. Their subsequent public explanations linked the action to resistance against imperial violence. The episode needs both elements of its record: the revolutionary political claim and the actual killing and mistaken identification. [33]
+## Reform before complete independence
 
-## Bhagat Singh and Dutt used the Assembly as a political stage
+Early Congress delegates sought administrative reform, wider representation and changes in public employment and expenditure. Complete independence was not yet their declared programme. [24]
 
-Bhagat Singh and Batukeshwar Dutt threw bombs in the Central Legislative Assembly, distributed a leaflet and accepted arrest. Their courtroom statement explained the intended political message and their conception of revolution. People were injured, even though the defendants denied an intention to kill. Their own words allow the action’s claimed purpose to be examined alongside its consequences. [33]
+## Birsa Munda and Ulgulan
 
-## Complete independence became an explicit national programme
+Birsa’s movement combined religious renewal with opposition to lost customary rights, landlords, missionaries and colonial authority. Ulgulan brought armed confrontation and severe repression in the Munda country. [25]
 
-The Lahore Congress adopted complete independence as its goal, and the pledge observed on 26 January 1930 presented British rule as a system to be ended. The resolution and pledge mark a change from earlier constitutional demands. They also framed a programme of disciplined collective action rather than leaving independence solely as an abstract future aspiration. [24,36]
+## Swadeshi and boycott
 
-## Salt made an everyday monopoly a national issue
+Bengal’s partition provoked meetings, boycott of imported goods and promotion of Indian production. Daily consumption became political, while disagreements over methods and participation accompanied surveillance and repression. [24,26]
 
-Gandhi’s march to Dandi and the breaking of the salt law were followed by campaigns in many regions. His letter to the viceroy explained the grievances and planned civil disobedience. Protesters at places including Dharasana faced violent repression. Women participated prominently, connecting a public challenge to imperial taxation with organisation extending far beyond the original marchers. [36]
+## Self-government at Congress
 
-## Surya Sen’s group attempted an armed challenge
+Naoroji’s Congress presidential address placed self-government at the centre of political aspiration. Debates over swaraj developed alongside changing organisations and competing claims to political representation. [21,24]
 
-Revolutionaries associated with Surya Sen attacked colonial armouries and communications in Chittagong. Fighting, underground resistance and trials followed. Kalpana Dutt’s later participant memoir records the movement’s commitments and sacrifices, including women’s participation, from within its political world. It should be read alongside the official record when reconstructing particular engagements and the authorities’ response. [34]
+## The Muslim League is founded
 
-## The Khudai Khidmatgars developed organised nonviolent resistance
+The All-India Muslim League introduced another organisation making constitutional claims. Cooperation, competition and changing definitions of representation would shape its relations with Congress over subsequent decades. [24,39]
 
-Abdul Ghaffar Khan’s Khudai Khidmatgar movement connected social reform, discipline and resistance to colonial power. The violence at Peshawar and the government’s military response brought the Frontier into the civil-disobedience struggle. Official parliamentary statements and participants’ accounts offer conflicting perspectives. Muslim participation in this movement is essential to the history of organised nonviolent anticolonial action. [35]
+## The Surat split
 
-## Negotiation and imprisonment accompanied civil disobedience
+The Congress session broke down over leadership, tactics and organisation. Groups called moderates and extremists contested political direction, although neither label described a permanently uniform camp. [24]
 
-The Round Table Conferences debated constitutional arrangements while civil disobedience and repression continued. The Gandhi-Irwin Pact temporarily suspended the campaign and enabled Gandhi’s participation in London. Conference proceedings and correspondence show extensive disagreement over representation, safeguards and power. Neither the conferences nor the pact immediately delivered the independence demanded in the preceding campaigns. [27,36]
+## The Muzaffarpur bombing
 
-## The execution of three revolutionaries intensified public debate
+Revolutionary organisations pursued attacks on colonial officials. The Muzaffarpur bombing killed two women who were not the intended target, exposing the human consequences of clandestine political violence. [26]
 
-Bhagat Singh, Rajguru and Sukhdev were executed in March 1931. Their prosecution, prison writings and the campaigns around them made revolutionary politics widely visible. Bhagat Singh’s address to young political workers argued for sustained organisation and social transformation. His political thought should therefore be read in his writings as well as through the dramatic actions surrounding his trial. [33]
+## The Alipore proceedings
 
-## The Poona Pact changed arrangements for the Depressed Classes
+The Alipore case became a major trial of revolutionary networks. The later Sedition Committee report preserves the colonial administration’s account of organisations it sought to suppress. [26]
 
-Gandhi’s fast against separate electorates and Ambedkar’s negotiations produced the Poona Pact, which provided reserved seats within joint electorates. The agreement and Ambedkar’s later critique reveal a profound dispute over representation, caste power and political safeguards. Gandhi was central to the pressure surrounding the negotiations, but was not a signatory to the pact itself. [37]
+## Councils and separate electorates
 
-## Elections gave Indian parties a larger governing arena
+The Indian Councils Act enlarged legislative councils and introduced separate Muslim electorates. Limited representation opened political opportunities while retaining imperial control and making community representation increasingly contested. [27]
 
-The Government of India Act provided a new constitutional structure, including provincial autonomy, while retaining major imperial safeguards and powers. The 1937 elections brought Congress ministries to several provinces and strengthened other political organisations in different regions. Office-holding created opportunities and tensions, including disputes over minorities, workers, cultivators and the limits of action under colonial authority. [27]
+## Gandhi’s Hind Swaraj
 
-## India entered another war without a sovereign Indian decision
+Gandhi argued that replacing British rulers alone would not deliver his vision of freedom. He connected self-rule with self-discipline, ethics and criticism of modern civilisation. [28]
 
-The viceroy announced India’s participation in the war without a decision by an independent Indian government. Congress ministries resigned, while parties and leaders adopted different wartime positions. Official statements and political correspondence show how the demand to define India’s future became entangled with Britain’s urgent military needs and claims to be defending freedom. [27,40]
+## Ghadar calls for revolt
 
-## The Lahore Resolution proposed a different political future
+Ghadar activists organised among migrants, especially in North America. Their newspaper advocated the armed overthrow of British rule, while colonial intelligence followed and attempted to suppress the movement. [26]
 
-The Muslim League’s Lahore Resolution called for arrangements involving independent states in Muslim-majority areas, with safeguards for minorities. Its wording and Jinnah’s accompanying arguments are primary evidence for the League’s position at that moment. The subsequent path to Pakistan involved further interpretation, negotiation and conflict; the resolution should not be silently rewritten in the terms of every later settlement. [39]
+## From overseas exclusion to rebellion
 
-## Gandhi chose individual protest before another mass campaign
+Ghadar networks linked racial exclusion overseas with plans for rebellion and military defections in India. Their newspaper supplies a public voice distinct from the colonial intelligence record. [26]
 
-Individual satyagraha challenged restrictions on political speech and opposition to the war while limiting the scale of mobilisation. Vinoba Bhave was selected as the first satyagrahi, and others followed into imprisonment. Gandhi’s statements explain the intended discipline and purpose of this action during a wartime situation that had divided anticolonial political opinion. [38]
+## India in the First World War
 
-## The Cripps proposals left fundamental disagreements unresolved
+British India supplied soldiers, money and material for the war. Emergency restrictions strengthened government powers, while revolutionary groups sought openings and expectations of political reform grew. [26,27]
 
-The British offer associated with Stafford Cripps proposed a postwar constitutional process while reserving crucial wartime control. Congress, the Muslim League and other political interests found different grounds for objection or dissatisfaction. The published proposals and responses show why a promise of future constitutional change did not secure agreement over India’s immediate political position. [40]
+## The Home Rule leagues
 
-## Quit India combined a nonviolent call with a varied uprising
+Annie Besant and Bal Gangadhar Tilak promoted Home Rule through leagues, meetings and political education. Organised campaigning pressed the demand for self-government during the war. [24]
 
-Congress demanded British withdrawal, and Gandhi called for disciplined mass action. The arrest of national leaders was followed by strikes, demonstrations, underground organising, attacks on communications and harsh repression. Aruna Asaf Ali, Usha Mehta and many less-known participants sustained resistance. The stated nonviolent programme and the varied actions that followed should both remain visible in the account. [38]
+## Congress and the League agree
 
-## The INA pursued liberation through wartime military action
+Congress and the Muslim League reached agreement on constitutional demands and representation. Their resolutions showed negotiated cooperation alongside unresolved questions about self-government and the distribution of power. [24]
 
-The Indian National Army developed first under Mohan Singh and was reorganised and expanded under Subhas Chandra Bose with Japanese support. Bose proclaimed a provisional government in 1943, and INA forces joined campaigns towards India. Its soldiers and the Rani of Jhansi Regiment embodied another strategy for independence, entangled with the power and purposes of Japan’s own empire. [41]
+## Champaran satyagraha
 
-## Famine devastated a colony mobilised for war
+Gandhi investigated indigo cultivators’ grievances and refused an order to leave. His account emphasises testimony, organisation and practical work that connected a local agrarian struggle with resistance to authority. [28]
 
-The Bengal famine killed on an enormous scale while wartime demands, price changes and failures of access and administration compounded the food crisis. The Famine Inquiry Commission examined responsibility and policy in its 1945 report. Its official conclusions require critical reading, but they supply direct evidence that the catastrophe involved government decisions as well as conditions of food production. [42]
+## Kheda’s tax refusal
 
-## The INA trials became a political cause beyond the defendants
+The Kheda campaign opposed revenue collection during agricultural distress. Gandhi’s account presents collective refusal as an experiment in disciplined nonviolent action arising from a specific rural conflict. [28]
 
-The trial of Shah Nawaz Khan, Prem Kumar Sahgal and Gurbaksh Singh Dhillon generated major public mobilisation. The defence challenged the basis on which soldiers fighting for Indian independence could be treated as ordinary offenders against British authority. Court proceedings, defence arguments and government correspondence reveal how military defeat could be followed by a politically influential campaign. [43]
+## A textile workers’ strike
 
-## Naval ratings rebelled amid a wider crisis of authority
+The Ahmedabad dispute concerned wages and industrial relations. Gandhi’s account presents the strike as another demanding experiment in collective discipline, distinct from the agrarian campaign at Kheda. [28]
 
-The Royal Indian Navy revolt joined grievances over treatment and conditions with political demands. Sailors’ actions drew civilian support and were accompanied by strikes, clashes and deaths. Leading political organisations urged an end to the revolt. Official reports, parliamentary statements and participants’ recollections expose tensions within the armed services and between different strategies for ending colonial rule. [43]
+## Protest against the Rowlatt laws
 
-## The Cabinet Mission tried to preserve a common union
+Wartime-style restrictions continued through the Rowlatt legislation. Gandhi called for satyagraha; hartals and demonstrations spread, with violence and repression in some places challenging the movement’s discipline. [26,29]
 
-The Cabinet Mission proposed a union with limited central subjects, provincial groupings and a constituent assembly. Its statement of 16 May is essential to understanding what was offered and why interpretations differed. Elections and negotiations gave the plans political substance, while Congress and League disagreements over authority and grouping undermined the possibility of an agreed settlement. [40]
+## The Jallianwala Bagh massacre
 
-## Political breakdown accompanied escalating communal violence
+Dyer ordered firing on a gathering at Jallianwala Bagh on 13 April 1919. The inquiry and his testimony document the act and the justification offered by those responsible. [30]
 
-Direct Action Day in Calcutta was followed by wider cycles of communal violence and retaliation in different regions. Contemporary reports and correspondence record fear, displacement and failures of protection, while often revealing partisan judgments. The killing of civilians must be distinguished from armed anticolonial resistance; it helped destroy the conditions for an agreed, inclusive transfer of power. [40,44]
+## Tagore renounces his knighthood
 
-## Britain announced a deadline for transferring power
+Tagore rejected his knighthood in response to the humiliation and violence at Amritsar. His letter records an Indian answer to the imperial justification of repression. [30]
 
-On 20 February, Clement Attlee announced that power would be transferred by a date no later than June 1948. The parliamentary statement acknowledged the failure to secure a fully representative agreed constitution. It marked a decisive public commitment to departure, made amid overlapping political, military and financial pressures rather than a single event that explains the whole decision. [40]
+## Dyarchy divides provincial power
 
-## The timetable accelerated and division became the framework
+The Government of India Act separated provincial subjects administered by ministers from those retained under official control. New political arenas opened without a transfer of sovereignty. [27]
 
-The plan announced on 3 June set out procedures for partition and transfer of power. Its implementation involved provincial decisions, boundary commissions and the division of institutions, assets and armed forces. Official announcements and political responses show decisions made under severe time pressure, with consequences extending far beyond the leaders and governments conducting the negotiations. [40,44]
+## The non-cooperation programme
 
-## British paramountcy ended as India and Pakistan became independent
+Congress called for rejection of honours, withdrawal from institutions and promotion of swadeshi and khadi. Gandhi insisted on nonviolence as the campaign drew wider participation and varied local grievances. [24,29]
 
-The Indian Independence Act created the legal framework for the two dominions, with the appointed day of 15 August. Pakistan held its transfer ceremonies on 14 August, and India’s Constituent Assembly met through the midnight transition. Nehru’s address and Jinnah’s earlier assembly speech preserve different visions of citizenship and freedom as colonial rule gave way to new governments. [44]
+## Khilafat and mass participation
 
-## Independence came with Partition’s enormous human cost
+The Khilafat issue helped mobilise many Muslims within non-cooperation. Participants brought different local concerns, creating tensions between national instructions, collective discipline and action on the ground. [24,29]
 
-The Radcliffe awards were published on 17 August, after the transfer of power. Mass migration, killings, abductions and the loss of homes accompanied the new borders, with violence in more than one direction. Official records and survivors’ testimony must be read together. Political independence did not immediately supply safety, secure citizenship or recovery for the people uprooted. [44]
+## The Malabar rebellion
 
-## The Republic and the remaining enclaves extended the process
+Agrarian tensions and Khilafat mobilisation fed armed confrontation with the state. The rebellion also included attacks on civilians and religious coercion, followed by severe colonial repression. [31]
 
-The Constitution established the Republic in 1950, while integration and the distribution of rights remained major tasks. The remaining French settlements underwent de facto transfer in 1954 and legal transfer in 1962. Portuguese rule in Goa ended after Indian military action in 1961. These later stages explain why the end of British rule and the completion of every territorial decolonisation were different milestones. [45]
+## Chauri Chaura and suspension
+
+A clash at Chauri Chaura ended with a police station burned and policemen killed. Gandhi suspended the planned mass campaign, judging that the necessary nonviolent discipline was lacking. [29]
+
+## Councils and constructive work
+
+The Swaraj Party sought to challenge government through legislative councils. Other Congress workers pursued constructive programmes and organisation outside them, sustaining politics between nationwide campaigns. [24,29]
+
+## The Kakori action
+
+Hindustan Republican Association members took government money from a train near Kakori. A passenger was killed during the action, which brought a major prosecution of the revolutionary organisation. [32]
+
+## The Kakori trial and sentences
+
+The prosecution led to executions and long prison sentences. Participants’ prison writings and court records preserve different accounts of the action’s motives and responsibilities. [32]
+
+## Opposition to the Simon Commission
+
+The commission’s exclusion of Indian members provoked widespread protest. Police action injured Lala Lajpat Rai at Lahore; his death later in 1928 intensified nationalist anger. [27,33]
+
+## Saunders is killed
+
+Bhagat Singh and his associates sought retaliation after Lajpat Rai’s death. They killed officer John Saunders, who was not their intended target, and linked the action to resistance against imperial violence. [33]
+
+## Bombs in the Assembly
+
+Bhagat Singh and Batukeshwar Dutt threw bombs in the Central Legislative Assembly, circulated a leaflet and accepted arrest. People were injured; the defendants denied intending to kill and explained their political purpose. [33]
+
+## Congress adopts complete independence
+
+The Lahore Congress adopted complete independence as its goal. This moved its declared programme beyond earlier constitutional demands and prepared the ground for further collective action. [24,36]
+
+## A pledge to end British rule
+
+The independence pledge presented British rule as a system to be ended. It connected the demand for freedom with a programme of disciplined collective action. [24,36]
+
+## Dandi challenges the salt monopoly
+
+Gandhi marched to Dandi and broke the salt law. His letter to the viceroy set out grievances and planned civil disobedience, followed by salt campaigns across many regions. [36]
+
+## The salt campaign spreads
+
+Protesters at Dharasana faced violent repression. Women participated prominently across the salt campaigns, extending civil disobedience far beyond Gandhi’s original marchers. [36]
+
+## The Chittagong armoury raids
+
+Surya Sen’s revolutionaries attacked colonial armouries and communications. Fighting, underground resistance and trials followed; Kalpana Dutt’s later memoir records participants’ commitments, sacrifices and women’s involvement. [34]
+
+## The Khudai Khidmatgars
+
+Abdul Ghaffar Khan linked social reform and disciplined nonviolent resistance in the Frontier. Violence at Peshawar and the government’s military response brought the movement into the wider civil-disobedience struggle. [35]
+
+## The Round Table Conferences
+
+Conferences in London debated constitutional arrangements while civil disobedience and repression continued. Representation, safeguards and the distribution of power remained subjects of profound disagreement. [27,36]
+
+## The Gandhi-Irwin Pact
+
+The pact temporarily suspended civil disobedience and enabled Gandhi to attend the London conference. Negotiation did not immediately secure the independence demanded by the movement. [27,36]
+
+## Bhagat Singh, Rajguru and Sukhdev
+
+The three revolutionaries were executed in March 1931. Their trial and prison writings widened political debate; Bhagat Singh’s address to young workers urged sustained organisation and social transformation. [33]
+
+## The Poona Pact
+
+Gandhi’s fast against separate electorates and Ambedkar’s negotiations produced reserved seats within joint electorates. The pact concerned caste and representation; Gandhi himself was not a signatory. [37]
+
+## Provincial autonomy with imperial safeguards
+
+The Government of India Act created a wider framework for provincial autonomy. Major imperial safeguards and powers remained, setting limits on what elected Indian governments could do. [27]
+
+## Indian parties enter office
+
+Elections brought Congress ministries to several provinces and strengthened other organisations elsewhere. Governing created opportunities and disputes over minorities, workers, cultivators and the limits of colonial autonomy. [27]
+
+## India enters the Second World War
+
+The viceroy announced India’s participation without a sovereign Indian decision. Congress ministries resigned, while leaders and parties took different positions on the war and India’s political future. [27,40]
+
+## The Lahore Resolution
+
+The Muslim League called for arrangements involving independent states in Muslim-majority areas, with minority safeguards. Its wording records the League’s position in 1940, before subsequent negotiations and conflict. [39]
+
+## Individual satyagraha
+
+Gandhi chose limited individual protest against restrictions on political speech and opposition to war. Vinoba Bhave was the first satyagrahi, followed by others into imprisonment. [38]
+
+## The Cripps proposals
+
+Cripps offered a postwar constitutional process while reserving crucial wartime control. Congress, the League and other interests objected on different grounds, leaving fundamental disagreements unresolved. [40]
+
+## The Quit India call
+
+Congress demanded British withdrawal, and Gandhi called for disciplined nonviolent mass action. The arrest of national leaders was followed by a much more varied uprising and harsh repression. [38]
+
+## An underground struggle continues
+
+Aruna Asaf Ali, Usha Mehta and others sustained resistance. Strikes, demonstrations, underground organisation and attacks on communications followed the arrests, differing from the leadership’s stated nonviolent programme. [38]
+
+## The Indian National Army
+
+The INA developed first under Mohan Singh and was reorganised under Subhas Chandra Bose with Japanese support. Its forces joined wartime campaigns towards India as another strategy for independence. [41]
+
+## A provisional government and women soldiers
+
+Bose proclaimed a provisional government in 1943. The Rani of Jhansi Regiment joined this military strategy for independence, which depended on Japanese support within Japan’s own imperial war. [41]
+
+## Bengal’s wartime famine
+
+Bengal’s famine killed on an enormous scale. Wartime demands, prices and failures of food access and administration compounded the crisis; the 1945 inquiry examined responsibility. [42]
+
+## The INA trials
+
+The trial of Shah Nawaz Khan, Prem Kumar Sahgal and Gurbaksh Singh Dhillon prompted major mobilisation. Defence arguments challenged treating soldiers fighting for independence as ordinary offenders against British authority. [43]
+
+## The naval revolt
+
+Naval ratings linked grievances over treatment and conditions with political demands. Civilian support, strikes, clashes and deaths followed; leading political organisations urged an end to the revolt. [43]
+
+## The Cabinet Mission plan
+
+The mission proposed a union with limited central subjects, provincial groupings and a constituent assembly. Congress-League disagreements over authority and grouping undermined efforts to secure a common settlement. [40]
+
+## Communal violence spreads
+
+Direct Action Day in Calcutta was followed by wider communal violence and retaliation. Fear, displacement and failures of protection eroded conditions for an agreed transfer of power. [40,44]
+
+## Attlee announces a deadline
+
+On 20 February 1947, Attlee announced transfer of power no later than June 1948. The commitment followed failed constitutional agreement amid overlapping political, military and financial pressures. [40]
+
+## The 3 June plan
+
+Partition became the framework for transfer of power. Provincial decisions, boundary commissions and division of institutions, assets and armed forces proceeded under an accelerated timetable. [40,44]
+
+## Two independent dominions
+
+The Indian Independence Act set 15 August as the appointed day; British paramountcy ended. Pakistan held ceremonies on 14 August, and India’s Assembly met through the midnight transition. [44]
+
+## Partition’s human cost
+
+The Radcliffe awards appeared on 17 August, after independence. Migration, killings, abductions and lost homes accompanied the borders; freedom did not immediately bring safety or recovery for displaced people. [44]
+
+## India becomes a republic
+
+The Constitution established the Republic in 1950. Integration and the distribution of rights remained major tasks, while some French and Portuguese territories still awaited the end of European rule. [45]
+
+## French settlements transfer in practice
+
+The remaining French settlements underwent de facto transfer in 1954. Their change of administration continued territorial decolonisation after British rule had ended and the Republic had been established. [45]
+
+## Portuguese rule ends in Goa
+
+Indian military action ended Portuguese rule in Goa in 1961. The end of this remaining colonial government marked another territorial stage beyond British withdrawal in 1947. [45]
+
+## Legal transfer follows
+
+The French settlements’ legal transfer followed in 1962, after the de facto transfer of 1954. British withdrawal, the Republic and these territorial changes were separate milestones of decolonisation. [45]
 
 ## Sources
 

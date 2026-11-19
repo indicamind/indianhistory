@@ -46,7 +46,7 @@ The civilizational roots post belongs to `indus-valley` and `indigenous-aryanism
 
 ## Colonization theme timeline awaiting English approval
 
-The 100-bubble English timeline is under `content/drafts/articles/colonization-of-india-timeline.md` and can be reviewed at `/theme/colonization-of-india?lang=en&dev=true`. Its `themeStoryFor` metadata identifies an inline theme narrative, rather than a standalone article. It is excluded from normal views, translated previews and the offline extension. English approval must precede complete translations of the narrative, chapter dates, image captions, alt text and sources into all 33 editions. Theme stories use the same source and chapter hash checks and all-language release gate as personality timelines. See `content/drafts/colonization-theme-review.md` for scope and verification.
+The revised 140-bubble English timeline is under `content/drafts/articles/colonization-of-india-timeline.md` and can be reviewed at `/theme/colonization-of-india?lang=en&dev=true`. Its `themeStoryFor` metadata identifies an inline theme narrative, rather than a standalone article. It is excluded from normal views, translated previews and the offline extension. English approval must precede complete translations of the narrative, chapter dates, image captions, alt text and sources into all 33 editions. Theme stories use the same source and chapter hash checks and all-language release gate as personality timelines. See `content/drafts/colonization-theme-review.md` for scope and verification.
 
 ## Personality life timelines approved on 2026-11-12
 

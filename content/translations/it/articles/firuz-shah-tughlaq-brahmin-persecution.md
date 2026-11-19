@@ -1,23 +1,31 @@
 ---
-title: "Bruciato per la sua fede: il brahmano che sfidò Firuz Shah Tughlaq"
+title: 'Bruciato per la sua fede: il brahmano che sfidò Firuz Shah Tughlaq'
 slug: firuz-shah-tughlaq-brahmin-persecution
 excerpt: >-
-  Un anziano brahmano. Fedeli che oltrepassano i confini religiosi. Un
-  ultimatum regale: convertirsi o bruciare. Un cronista legato alla corte
-  registra l'uccisione — ed elogia il sultano per averla ordinata. Dietro
-  l'esecuzione si cela una più vasta storia di jizya, distruzione di templi e
-  lotta per professare la propria fede sotto Firuz Shah Tughlaq.
+  Un anziano brahmano. Fedeli che oltrepassano i confini religiosi. Un ultimatum
+  regale: convertirsi o bruciare. Un cronista legato alla corte registra
+  l'uccisione — ed elogia il sultano per averla ordinata. Dietro l'esecuzione si
+  cela una più vasta storia di jizya, distruzione di templi e lotta per
+  professare la propria fede sotto Firuz Shah Tughlaq.
 publishedAt: '2026-10-29T00:00:00.000Z'
 updatedAt: '2026-10-29T00:00:00.000Z'
 period: medieval
 polity: tughlaq-dynasty
-personalities: [firuz-shah-tughlaq]
+personalities:
+  - firuz-shah-tughlaq
 themes:
   - islamic-conquest-of-india
-tags: ["Firuz Shah Tughlaq", "Sultanato di Delhi", "Persecuzione dei brahmani", "Libertà religiosa", "Shams-i Siraj Afif", "Firoz Shah Kotla"]
+  - persecution-of-hindus
+tags:
+  - Firuz Shah Tughlaq
+  - Sultanato di Delhi
+  - Persecuzione dei brahmani
+  - Libertà religiosa
+  - Shams-i Siraj Afif
+  - Firoz Shah Kotla
 books:
   - '8173056811'
-  - '014342226X'
+  - 014342226X
 sourceHash: 2414870394bb5e288aef8c0cf42114578bbeb2832077ae7467df2a60802d0d26
 ---
 

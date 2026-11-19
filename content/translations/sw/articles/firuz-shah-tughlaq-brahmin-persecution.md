@@ -11,9 +11,11 @@ publishedAt: '2026-10-29T00:00:00.000Z'
 updatedAt: '2026-10-29T00:00:00.000Z'
 period: medieval
 polity: tughlaq-dynasty
-personalities: [firuz-shah-tughlaq]
+personalities:
+  - firuz-shah-tughlaq
 themes:
   - islamic-conquest-of-india
+  - persecution-of-hindus
 tags:
   - Firuz Shah Tughlaq
   - Usultani wa Delhi
@@ -23,7 +25,7 @@ tags:
   - Firoz Shah Kotla
 books:
   - '8173056811'
-  - '014342226X'
+  - 014342226X
 sourceHash: 2414870394bb5e288aef8c0cf42114578bbeb2832077ae7467df2a60802d0d26
 ---
 

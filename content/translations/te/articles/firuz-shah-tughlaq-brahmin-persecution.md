@@ -14,6 +14,7 @@ personalities:
   - firuz-shah-tughlaq
 themes:
   - islamic-conquest-of-india
+  - persecution-of-hindus
 tags:
   - ఫిరోజ్ షా తుగ్లక్
   - ఢిల్లీ సుల్తానత్

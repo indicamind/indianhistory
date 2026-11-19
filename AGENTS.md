@@ -1,3 +1,7 @@
+# Temporary helper scripts
+
+Create task-specific helper, research and verification scripts inside this repository, for example under `.codex-tmp/`, rather than `/tmp` or `/private/tmp`. Reuse them while completing the task, then delete the helper scripts and temporary inputs created for that task. Prefer running them in the normal workspace sandbox; request elevated permissions only when the operation itself requires them.
+
 # Article and blog approval workflow
 
 For new articles and blog posts, and substantive rewrites of existing ones, write the English draft first. Present it to the user and wait for explicit approval before creating or updating translations. Do not treat approval of an earlier version as approval of a rewritten draft.

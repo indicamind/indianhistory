@@ -11,6 +11,7 @@ personalities:
   - firuz-shah-tughlaq
 themes:
   - islamic-conquest-of-india
+  - persecution-of-hindus
 tags:
   - フィールーズ・シャー・トゥグルク
   - デリー・スルタン朝

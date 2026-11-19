@@ -1,14 +1,31 @@
 ---
-title: "Mahmud of Ghazni’s invasions of India: conquest, plunder, resistance, and the original sources"
+title: >-
+  Mahmud of Ghazni’s invasions of India: conquest, plunder, resistance, and the
+  original sources
 slug: mahmud-ghazni-invasions
-excerpt: "A source-based guide to the seventeen conventionally counted campaigns, from the frontier and the Hindu Shahis to Mathura, Somnath, and the Indus: what contemporary writers report, what later chronicles add, and what remains uncertain."
+excerpt: >-
+  A source-based guide to the seventeen conventionally counted campaigns, from
+  the frontier and the Hindu Shahis to Mathura, Somnath, and the Indus: what
+  contemporary writers report, what later chronicles add, and what remains
+  uncertain.
 publishedAt: 2026-11-11T00:00:00.000Z
 updatedAt: 2026-11-11T00:00:00.000Z
 period: medieval
-themes: [islamic-conquest-of-india]
+themes:
+  - islamic-conquest-of-india
+  - persecution-of-hindus
 personalities: []
-tags: [Mahmud of Ghazni, Ghaznavids, Hindu Shahis, temple destruction, enslavement, primary sources]
-books: ['0143064681', '0143029894', '067009322X']
+tags:
+  - Mahmud of Ghazni
+  - Ghaznavids
+  - Hindu Shahis
+  - temple destruction
+  - enslavement
+  - primary sources
+books:
+  - 0143064681
+  - 0143029894
+  - 067009322X
 ---
 
 An army could leave Ghazna, defeat a king in the Punjab, seize elephants and captives, and return to Afghanistan without having conquered the country through which it had marched. It could come back to the same region years later because the earlier settlement had failed. It could strip a temple treasury while leaving a distant kingdom outside its permanent administration. These distinctions matter throughout the invasions of **Mahmud of Ghazni**, whose Indian campaigns between about 1000 and 1027 combined territorial expansion, tribute, religiously proclaimed warfare, enslavement, and the spectacular extraction of wealth. [1, 5]

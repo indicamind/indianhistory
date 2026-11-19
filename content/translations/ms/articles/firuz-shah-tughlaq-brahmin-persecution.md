@@ -2,7 +2,12 @@
 title: 'Dibakar Kerana Imannya: Tokoh Brahmin yang Menentang Firuz Shah Tughlaq'
 slug: firuz-shah-tughlaq-brahmin-persecution
 excerpt: >-
-  Seorang Brahmin warga emas. Para penganut merentasi batas agama. Kata dua diraja: memeluk Islam atau dibakar. Seorang penulis kronik yang berkait rapat dengan istana merakamkan pembunuhan tersebut—dan memuji sang sultan kerananya. Di sebalik hukuman mati itu terbentang sejarah yang lebih luas mengenai jizyah, pemusnahan kuil, dan perjuangan mengamalkan pegangan agama di bawah pemerintahan Firuz Shah Tughlaq.
+  Seorang Brahmin warga emas. Para penganut merentasi batas agama. Kata dua
+  diraja: memeluk Islam atau dibakar. Seorang penulis kronik yang berkait rapat
+  dengan istana merakamkan pembunuhan tersebut—dan memuji sang sultan kerananya.
+  Di sebalik hukuman mati itu terbentang sejarah yang lebih luas mengenai
+  jizyah, pemusnahan kuil, dan perjuangan mengamalkan pegangan agama di bawah
+  pemerintahan Firuz Shah Tughlaq.
 publishedAt: '2026-10-29T00:00:00.000Z'
 updatedAt: '2026-10-29T00:00:00.000Z'
 period: medieval
@@ -11,6 +16,7 @@ personalities:
   - firuz-shah-tughlaq
 themes:
   - islamic-conquest-of-india
+  - persecution-of-hindus
 tags:
   - Firuz Shah Tughlaq
   - Kesultanan Delhi

@@ -13,6 +13,7 @@ personalities:
   - firuz-shah-tughlaq
 themes:
   - islamic-conquest-of-india
+  - persecution-of-hindus
 tags:
   - فيروز شاه تغلق
   - سلطنة دلهي

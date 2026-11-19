@@ -29,6 +29,9 @@ describe('PeriodDetailComponent', () => {
       getArticlesForPersonality: async () => [],
       getPolityChildren: () => [],
       getPolityParent: () => undefined,
+      getThemeChildren: () => [],
+      getThemeParent: () => undefined,
+      isVisibleTheme: () => true,
       isVisiblePolity: () => true,
       isVisiblePeriod: () => true,
     };
@@ -144,6 +147,25 @@ describe('PeriodDetailComponent', () => {
     expect(component.blogQueryParams()).toEqual({ lang: 'en', fromTheme: 'indigenous' });
     await (component as any).loadPeriod('missing');
     expect(component.blogs()).toEqual([]);
+  });
+
+  it('loads subthemes with separate article and blog counts and returns to the parent theme', async () => {
+    const parent = { slug: 'antisemitism', name: 'Antisemitism', range: '', description: '', shortDescription: '' };
+    const child = { ...parent, slug: 'christian-antisemitism', name: 'Christian antisemitism', parent: parent.slug };
+    periodsMock.getThemeBySlug = (slug: string) => slug === parent.slug ? parent : child;
+    periodsMock.getThemeChildren = (slug: string) => slug === parent.slug ? [child] : [];
+    periodsMock.getThemeParent = (slug: string) => slug === child.slug ? parent : undefined;
+    periodsMock.getArticleCountForTheme = async () => 2;
+    periodsMock.getBlogCountForSection = async (kind: string) => kind === 'theme' ? 1 : 0;
+    await (component as any).loadPeriod(parent.slug);
+    expect(component.visibleChildren().map(value => value.slug)).toEqual([child.slug]);
+    expect(component.childCounts()).toEqual({ [child.slug]: 2 });
+    expect(component.childBlogCounts()).toEqual({ [child.slug]: 1 });
+    await (component as any).loadPeriod(child.slug);
+    expect(component.backRoute()).toEqual(['/theme', parent.slug]);
+    expect(component.backText()).toBe('← Back to Antisemitism');
+    expect(component.children()).toEqual([]);
+    expect(component.childCounts()).toEqual({});
   });
 
 });

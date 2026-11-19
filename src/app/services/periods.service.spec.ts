@@ -47,6 +47,37 @@ describe('PeriodsService', () => {
     expect(top.some(p => p.slug === 'prehistory')).toBeTruthy();
   });
 
+  it('aggregates subtheme articles and blogs into their parent without duplicates or sibling memberships', async () => {
+    const article = { slug: 'nazi-record', title: 'Nazi record', themes: ['antisemitism', 'national-socialist-antisemitism'], tags: [] } as any;
+    const blog = { slug: 'soviet-record', themes: ['international-socialist-antisemitism'], tags: [] } as any;
+    articles = [article]; blogs = [blog];
+    expect((await service.getArticlesForTheme('antisemitism')).map(entry => entry.slug)).toEqual(['nazi-record']);
+    expect(await service.getArticleCountForTheme('antisemitism')).toBe(1);
+    expect(await service.getArticlesForTheme('christian-antisemitism')).toEqual([]);
+    expect((await service.getBlogsForSection('theme', 'antisemitism')).map(entry => entry.slug)).toEqual(['soviet-record']);
+    expect(service.getSectionsForArticle(article).map(link => link.route.join('/'))).toEqual([
+      '/theme/antisemitism', '/theme/national-socialist-antisemitism',
+    ]);
+    expect(service.getSectionsForBlog(blog).map(link => link.route.join('/'))).toEqual([
+      '/theme/antisemitism', '/theme/international-socialist-antisemitism',
+    ]);
+    expect(service.getThemeChildren('antisemitism').length).toBe(5);
+    expect(service.getThemeParent('christian-antisemitism')?.slug).toBe('antisemitism');
+  });
+
+  it('uses the existing visibility gate for empty subthemes and makes a parent visible through a child blog', () => {
+    expect(service.isVisibleTheme('antisemitism')).toBeFalsy();
+    expect(service.isVisibleTheme('islamic-antisemitism')).toBeFalsy();
+    isDevMode.set(true);
+    expect(service.isVisibleTheme('antisemitism')).toBeTruthy();
+    expect(service.isVisibleTheme('islamic-antisemitism')).toBeTruthy();
+    isDevMode.set(false);
+    blogs = [{ slug: 'record', themes: ['islamic-antisemitism'] }];
+    expect(service.isVisibleTheme('antisemitism')).toBeTruthy();
+    expect(service.isVisibleTheme('islamic-antisemitism')).toBeTruthy();
+    expect(service.isVisibleTheme('christian-antisemitism')).toBeFalsy();
+  });
+
   it('links an article to its actual period, polity, themes and personalities', () => {
     const article = {
       slug: 'firuz-story', period: 'medieval', polity: 'delhi-sultanate',

@@ -1,16 +1,34 @@
 ---
-title: "Mathura and Kannauj, 1018–1019: temples burned, cities plundered, people enslaved"
+title: >-
+  Mathura and Kannauj, 1018–1019: temples burned, cities plundered, people
+  enslaved
 slug: mahmud-ghazni-1018-mathura-kannauj
-excerpt: "Al-Utbi’s near-contemporary narrative records coercive submission, killings, the burning of Mathura’s temples, plunder at Kannauj, and the sale of captives across the Ghaznavid world. Its detail demands an equally careful account of names, dates, and exaggerated totals."
+excerpt: >-
+  Al-Utbi’s near-contemporary narrative records coercive submission, killings,
+  the burning of Mathura’s temples, plunder at Kannauj, and the sale of captives
+  across the Ghaznavid world. Its detail demands an equally careful account of
+  names, dates, and exaggerated totals.
 publishedAt: 2026-11-11T00:00:00.000Z
 updatedAt: 2026-11-11T00:00:00.000Z
 period: medieval
-themes: [islamic-conquest-of-india]
+themes:
+  - islamic-conquest-of-india
+  - persecution-of-hindus
 personalities: []
 relatedTo: mahmud-ghazni-invasions
 timelineOrder: 12
-tags: [Mahmud of Ghazni, Mathura, Kannauj, Baran, Asi, temple destruction, slavery]
-books: ['0143064681', '0143029894', '067009322X']
+tags:
+  - Mahmud of Ghazni
+  - Mathura
+  - Kannauj
+  - Baran
+  - Asi
+  - temple destruction
+  - slavery
+books:
+  - 0143064681
+  - 0143029894
+  - 067009322X
 ---
 
 In the winter of 1018–1019, Mahmud’s army crossed into the Ganges–Yamuna region and attacked a succession of political and religious centres. The campaign was not one battle. It included submission under threat at Baran, a deadly engagement with Kulchand, the plunder and burning of temples at Mathura, the seizure of Kannauj’s fortifications, attacks on other strongholds, and a pursuit ending in killing and captivity at Sharwa. The return brought prisoners into markets extending far beyond northern India.[1]

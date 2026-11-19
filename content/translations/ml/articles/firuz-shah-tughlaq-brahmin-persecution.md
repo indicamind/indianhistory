@@ -17,6 +17,7 @@ personalities:
   - firuz-shah-tughlaq
 themes:
   - islamic-conquest-of-india
+  - persecution-of-hindus
 tags:
   - ഫിറോസ് ഷാ തുഗ്ലക്ക്
   - ഡൽഹി സുൽത്താനത്ത്

@@ -12,13 +12,13 @@ The user requested seven additional language editions on 2026-10-31. Completed e
 
 | Edition | Code | Required site strings translated | Articles translated | Blogs translated | Status |
 | --- | --- | ---: | ---: | ---: | --- |
-| Italian | `it` | 521 / 521 | 48 / 48 | 2 / 2 | Released |
-| Korean | `ko` | 521 / 521 | 48 / 48 | 2 / 2 | Released |
-| Vietnamese | `vi` | 521 / 521 | 48 / 48 | 2 / 2 | Released |
-| Turkish | `tr` | 521 / 521 | 48 / 48 | 2 / 2 | Released |
-| Malay | `ms` | 521 / 521 | 48 / 48 | 2 / 2 | Released |
-| Swahili | `sw` | 521 / 521 | 48 / 48 | 2 / 2 | Released |
-| Filipino | `fil` | 521 / 521 | 48 / 48 | 2 / 2 | Released |
+| Italian | `it` | 542 / 542 | 48 / 48 | 2 / 2 | Released |
+| Korean | `ko` | 542 / 542 | 48 / 48 | 2 / 2 | Released |
+| Vietnamese | `vi` | 542 / 542 | 48 / 48 | 2 / 2 | Released |
+| Turkish | `tr` | 542 / 542 | 48 / 48 | 2 / 2 | Released |
+| Malay | `ms` | 542 / 542 | 48 / 48 | 2 / 2 | Released |
+| Swahili | `sw` | 542 / 542 | 48 / 48 | 2 / 2 | Released |
+| Filipino | `fil` | 542 / 542 | 48 / 48 | 2 / 2 | Released |
 
 All seven requested editions have passed the full release gate with complete translations for interface strings, articles, blogs, image attributions, metadata, and search assets. Each translation includes the complete body, metadata, tags, image alt text and attribution, and a final Sources section with image credits. Original Prakrit, Greek, and Aramaic transliterations remain unchanged.
 
@@ -104,3 +104,9 @@ by stable chapter identifiers, so adding them does not change the approved
 narrative source hashes or release the expanded English drafts. Linked image
 credits, local WebP/JPEG assets and the image viewer also work offline. See the
 [image review and provenance table](../drafts/personality-images-review.md).
+
+## Antisemitism theme hierarchy
+
+`antisemitism` has five subthemes: `pre-christian-antisemitism`, `christian-antisemitism`, `islamic-antisemitism`, `national-socialist-antisemitism` and `international-socialist-antisemitism`. All six names, ranges, descriptions and the subtheme navigation label are translated in all 33 editions. Empty sections follow the existing dev-mode visibility rule. Theme memberships include ancestors for both articles and blogs; the home page lists root themes.
+
+`persecution-of-hindus` is a separate root theme with its name and description translated into all 33 editions. The published Firuz Shah Tughlaq persecution article belongs to it in every edition. Relevant Ghazni review drafts carry the same theme without being published or translated; the parent series guide supplies their theme listing.

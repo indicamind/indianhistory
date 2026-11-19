@@ -11,6 +11,7 @@ personalities:
   - firuz-shah-tughlaq
 themes:
   - islamic-conquest-of-india
+  - persecution-of-hindus
 tags:
   - 菲鲁兹沙·图格鲁克
   - 德里苏丹国

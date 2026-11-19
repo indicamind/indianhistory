@@ -35,10 +35,11 @@ export class PeriodDetailComponent implements OnInit {
   readonly themeProfile = signal<PersonalityProfile | null>(null);
   readonly personality = signal<Personality | null>(null);
   readonly parent = signal<Period | null>(null);
-  readonly children = signal<(Period | Polity)[]>([]);
+  readonly children = signal<(Period | Polity | Theme)[]>([]);
   readonly hasDynasties = computed(() => this.children().some(child => 'kind' in child && child.kind === 'dynasty'));
   readonly visibleChildren = computed(() => this.children().filter(child => this.isPolity()
-    ? this.periodsService.isVisiblePolity(child.slug) : this.periodsService.isVisiblePeriod(child.slug)));
+    ? this.periodsService.isVisiblePolity(child.slug) : this.isTheme()
+      ? this.periodsService.isVisibleTheme(child.slug) : this.periodsService.isVisiblePeriod(child.slug)));
   readonly articles = signal<ArticleSummary[]>([]);
   readonly blogs = signal<BlogPost[]>([]);
   readonly childCounts = signal<Record<string, number>>({});
@@ -173,7 +174,8 @@ export class PeriodDetailComponent implements OnInit {
         if (theme) {
           this.theme.set(theme);
           this.isTheme.set(true);
-          this.children.set([]);
+          const children = this.periodsService.getThemeChildren(slug);
+          this.children.set(children);
 
           const [arts, profile] = await Promise.all([
             this.periodsService.getArticlesForTheme(slug), this.themeStories.get(slug),
@@ -181,11 +183,14 @@ export class PeriodDetailComponent implements OnInit {
           if (!this.isTheme() || this.theme()?.slug !== slug) return;
           this.articles.set(arts);
           this.themeProfile.set(profile || null);
-          this.childCounts.set({});
+          const counts = await Promise.all(children.map(async child =>
+            [child.slug, await this.periodsService.getArticleCountForTheme(child.slug)] as const));
+          this.childCounts.set(Object.fromEntries(counts));
 
-          this.backRoute.set(['/']);
-          this.backFragment.set('themes');
-          this.backText.set(this.locale.translate('← Back to Themes'));
+          const parent = this.periodsService.getThemeParent(slug);
+          this.backRoute.set(parent ? ['/theme', parent.slug] : ['/']);
+          this.backFragment.set(parent ? undefined : 'themes');
+          this.backText.set(parent ? `${this.locale.translate('← Back to')} ${parent.name}` : this.locale.translate('← Back to Themes'));
         } else {
           // Try as a historical personality
           const personality = this.periodsService.getPersonalityBySlug(slug);
@@ -214,7 +219,7 @@ export class PeriodDetailComponent implements OnInit {
       const entity = this.period() || this.polity() || this.theme() || this.personality();
       if (entity?.slug !== slug) return;
       this.blogs.set(blogs);
-      const childKind = this.isPolity() ? 'polity' : 'period';
+      const childKind = this.isPolity() ? 'polity' : this.isTheme() ? 'theme' : 'period';
       const counts = await Promise.all(this.children().map(async child =>
         [child.slug, await this.periodsService.getBlogCountForSection(childKind, child.slug)] as const));
       if (entity !== (this.period() || this.polity() || this.theme() || this.personality())) return;

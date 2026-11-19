@@ -2,17 +2,20 @@
 title: 'Burned for His Faith: The Brahmin Who Defied Firuz Shah Tughlaq'
 slug: firuz-shah-tughlaq-brahmin-persecution
 excerpt: >-
-  An elderly Brahmin. Worshippers crossing religious boundaries. A royal ultimatum:
-  convert or burn. A court-connected chronicler records the killing—and praises
-  the sultan for it. Behind the execution lies a wider history of jizya, temple
-  destruction, and the struggle to practise a faith under Firuz Shah Tughlaq.
+  An elderly Brahmin. Worshippers crossing religious boundaries. A royal
+  ultimatum: convert or burn. A court-connected chronicler records the
+  killing—and praises the sultan for it. Behind the execution lies a wider
+  history of jizya, temple destruction, and the struggle to practise a faith
+  under Firuz Shah Tughlaq.
 publishedAt: '2026-10-29T00:00:00.000Z'
 updatedAt: '2026-10-29T00:00:00.000Z'
 period: medieval
 polity: tughlaq-dynasty
-personalities: [firuz-shah-tughlaq]
+personalities:
+  - firuz-shah-tughlaq
 themes:
   - islamic-conquest-of-india
+  - persecution-of-hindus
 tags:
   - Firuz Shah Tughlaq
   - Delhi Sultanate
@@ -22,7 +25,7 @@ tags:
   - Firoz Shah Kotla
 books:
   - '8173056811'
-  - '014342226X'
+  - 014342226X
 ---
 
 <figure class="article-figure history-illustration history-hero">

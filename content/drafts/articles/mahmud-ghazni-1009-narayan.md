@@ -1,16 +1,30 @@
 ---
-title: "Narayan, 1009: Mahmud’s raid, an elephant tribute, and a coerced peace"
+title: 'Narayan, 1009: Mahmud’s raid, an elephant tribute, and a coerced peace'
 slug: mahmud-ghazni-1009-narayan
-excerpt: "Al-Utbi records killing, plunder, and the overthrow of sacred images at Narayan, followed by a bargain for elephants, soldiers, and safe caravans. The location and the identity of the negotiating ruler require care."
+excerpt: >-
+  Al-Utbi records killing, plunder, and the overthrow of sacred images at
+  Narayan, followed by a bargain for elephants, soldiers, and safe caravans. The
+  location and the identity of the negotiating ruler require care.
 publishedAt: 2026-11-11T00:00:00.000Z
 updatedAt: 2026-11-11T00:00:00.000Z
 period: medieval
-themes: [islamic-conquest-of-india]
+themes:
+  - islamic-conquest-of-india
+  - persecution-of-hindus
 personalities: []
 relatedTo: mahmud-ghazni-invasions
 timelineOrder: 7
-tags: [Mahmud of Ghazni, Narayan, Narayanpur, tribute, elephants, original sources]
-books: ['0143064681', '0143029894', '067009322X']
+tags:
+  - Mahmud of Ghazni
+  - Narayan
+  - Narayanpur
+  - tribute
+  - elephants
+  - original sources
+books:
+  - 0143064681
+  - 0143029894
+  - 067009322X
 ---
 
 After the riches seized at Nagarkot had been displayed at Ghazna, Mahmud led another expedition into northern India. Its destination appears in al-Utbi’s account as Narain or Narayan. The narrative is brief, but its consequences are explicit: chiefs defeated, sacred images overthrown, people killed, property taken, and a subsequent agreement promising elephants and soldiers to the conqueror. The same account ends with caravans travelling safely between Hind and Khurasan. Violence and commerce appear within a few paragraphs of each other.[1]

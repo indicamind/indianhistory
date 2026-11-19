@@ -15,6 +15,7 @@ personalities:
   - firuz-shah-tughlaq
 themes:
   - islamic-conquest-of-india
+  - persecution-of-hindus
 tags:
   - ฟิรูซ ชาห์ ตุฆลัก
   - รัฐสุลต่านเดลี

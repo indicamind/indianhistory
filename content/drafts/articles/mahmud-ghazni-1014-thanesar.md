@@ -1,16 +1,30 @@
 ---
-title: "Thanesar, 1014–1015: the river battle and the removal of Cakrasvamin"
+title: 'Thanesar, 1014–1015: the river battle and the removal of Cakrasvamin'
 slug: mahmud-ghazni-1014-thanesar
-excerpt: "Al-Utbi describes a contested river crossing, captured elephants, and plunder. Al-Biruni supplies a sharper material consequence: Thanesar’s bronze Cakrasvamin lay at Ghazna, removed from the city that venerated it."
+excerpt: >-
+  Al-Utbi describes a contested river crossing, captured elephants, and plunder.
+  Al-Biruni supplies a sharper material consequence: Thanesar’s bronze
+  Cakrasvamin lay at Ghazna, removed from the city that venerated it.
 publishedAt: 2026-11-11T00:00:00.000Z
 updatedAt: 2026-11-11T00:00:00.000Z
 period: medieval
-themes: [islamic-conquest-of-india]
+themes:
+  - islamic-conquest-of-india
+  - persecution-of-hindus
 personalities: []
 relatedTo: mahmud-ghazni-invasions
 timelineOrder: 10
-tags: [Mahmud of Ghazni, Thanesar, Cakrasvamin, al-Biruni, elephants, sacred images]
-books: ['0143064681', '0143029894', '067009322X']
+tags:
+  - Mahmud of Ghazni
+  - Thanesar
+  - Cakrasvamin
+  - al-Biruni
+  - elephants
+  - sacred images
+books:
+  - 0143064681
+  - 0143029894
+  - 067009322X
 ---
 
 The most tangible consequence of Mahmud’s attack on Thanesar appears in al-Biruni’s description of a displaced sacred image. The bronze Cakrasvamin, nearly the size of a person, had been removed from the city that venerated it and lay in the hippodrome at Ghazna. It was there alongside the sacred object later taken from Somnath. The scholar’s account gives the campaign a material aftermath beyond a list of victories: a religious object had become a public sign of its worshippers’ defeat.[1]

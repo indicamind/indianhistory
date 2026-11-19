@@ -16,6 +16,7 @@ personalities:
   - firuz-shah-tughlaq
 themes:
   - islamic-conquest-of-india
+  - persecution-of-hindus
 tags:
   - ෆිරූස් ෂා තුග්ලක්
   - දිල්ලි සුල්තාන් රාජ්‍යය

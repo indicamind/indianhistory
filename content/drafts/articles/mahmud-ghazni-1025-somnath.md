@@ -1,16 +1,30 @@
 ---
-title: "Somnath, 1025–1026: the assault, the shattered linga, and the sources"
+title: 'Somnath, 1025–1026: the assault, the shattered linga, and the sources'
 slug: mahmud-ghazni-1025-somnath
-excerpt: "Mahmud crossed the desert to attack Somnath and carried its broken sacred image to Ghazna. Near-contemporary testimony, later siege narratives, and the ordeal of the return reveal a history more disturbing and more complex than the familiar legends."
+excerpt: >-
+  Mahmud crossed the desert to attack Somnath and carried its broken sacred
+  image to Ghazna. Near-contemporary testimony, later siege narratives, and the
+  ordeal of the return reveal a history more disturbing and more complex than
+  the familiar legends.
 publishedAt: 2026-11-11T00:00:00.000Z
 updatedAt: 2026-11-11T00:00:00.000Z
 period: medieval
-themes: [islamic-conquest-of-india]
+themes:
+  - islamic-conquest-of-india
+  - persecution-of-hindus
 personalities: []
 relatedTo: mahmud-ghazni-invasions
 timelineOrder: 16
-tags: [Mahmud of Ghazni, Somnath, Gujarat, al-Biruni, temple destruction]
-books: ['0143064681', '0143029894', '067009322X']
+tags:
+  - Mahmud of Ghazni
+  - Somnath
+  - Gujarat
+  - al-Biruni
+  - temple destruction
+books:
+  - 0143064681
+  - 0143029894
+  - 067009322X
 ---
 
 In January 1026, Mahmud of Ghazni’s army reached Somnath on the coast of western India. The sacred image was broken, its valuable coverings taken, and portions carried to Ghazna. There they were placed in public settings designed to advertise the conqueror’s triumph: the hippodrome and the entrance of a mosque, where people wiped their feet. This destruction and deliberate humiliation of a sacred object are recorded by al-Biruni, a scholar writing close to the events.[1]

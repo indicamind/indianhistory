@@ -17,6 +17,7 @@ personalities:
   - firuz-shah-tughlaq
 themes:
   - islamic-conquest-of-india
+  - persecution-of-hindus
 tags:
   - ஃபிரூஸ் ஷா துக்ளக்
   - தில்லி சுல்தானகம்

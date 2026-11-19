@@ -173,6 +173,29 @@ export class PeriodsService {
     return this.localizedThemes.find((t) => t.slug === slug);
   }
 
+  getThemeChildren(slug: string): Theme[] {
+    return this.localizedThemes.filter(theme => theme.parent === slug);
+  }
+
+  getThemeParent(slug: string): Theme | undefined {
+    const parent = this.getThemeBySlug(slug)?.parent;
+    return parent ? this.getThemeBySlug(parent) : undefined;
+  }
+
+  private belongsToTheme(entry: SectionEntry, slug: string): boolean {
+    if (!this.getThemeBySlug(slug) || entry.relatedTo) return false;
+    return (entry.themes || []).some(membership => {
+      const seen = new Set<string>();
+      let theme = this.getThemeBySlug(membership);
+      while (theme && !seen.has(theme.slug)) {
+        if (theme.slug === slug) return true;
+        seen.add(theme.slug);
+        theme = this.getThemeParent(theme.slug);
+      }
+      return false;
+    });
+  }
+
   /** Historical personalities available for deep dives */
   getPersonalities(): Personality[] {
     return this.localizedPersonalities;
@@ -268,7 +291,7 @@ export class PeriodsService {
   }
 
   /**
-   * Return articles whose `themes` array contains this slug.
+   * Return articles assigned to this theme or any of its subthemes.
    */
   async getArticlesForTheme(slug: string): Promise<ArticleSummary[]> {
     await this.articlesService.whenReady();
@@ -321,7 +344,7 @@ export class PeriodsService {
   private belongsToSection(entry: SectionEntry, kind: SectionKind, slug: string): boolean {
     if (kind === 'period') return this.belongsToPeriod(entry, slug);
     if (kind === 'polity') return this.belongsToPolity(entry, slug);
-    if (kind === 'theme') return !!this.getThemeBySlug(slug) && !entry.relatedTo && (entry.themes || []).includes(slug);
+    if (kind === 'theme') return this.belongsToTheme(entry, slug);
     return !!this.getPersonalityBySlug(slug) && (entry.personalities || []).includes(slug);
   }
 

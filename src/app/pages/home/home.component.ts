@@ -133,7 +133,7 @@ export class HomeComponent implements OnInit {
     this.timelinePeriods.set(withCounts);
 
     const themeDisplays: ThemeDisplay[] = [];
-    for (const theme of this.periodsSvc.getThemes()) {
+    for (const theme of this.periodsSvc.getThemes().filter(theme => !theme.parent)) {
       const count = await this.periodsSvc.getArticleCountForTheme(theme.slug);
       themeDisplays.push({
         ...theme,

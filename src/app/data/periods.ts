@@ -168,6 +168,7 @@ export interface Theme {
   range: string;
   shortDescription: string;
   description: string;
+  parent?: string;
 }
 
 export interface Personality {
@@ -179,6 +180,60 @@ export interface Personality {
 }
 
 export const themes: Theme[] = [
+  {
+    slug: 'persecution-of-hindus',
+    name: 'Persecution of Hindus',
+    range: 'Antiquity – present',
+    shortDescription: 'Religious persecution, discrimination and violence against Hindus across different regions and historical periods.',
+    description: 'Religious persecution, discrimination and violence against Hindus across different regions and historical periods.'
+  },
+  {
+    slug: 'antisemitism',
+    name: 'Antisemitism',
+    range: 'Antiquity – present',
+    shortDescription: 'The history of prejudice, discrimination and violence against Jews across religious, political and social settings.',
+    description: 'The history of prejudice, discrimination and violence against Jews across religious, political and social settings.'
+  },
+  {
+    slug: 'pre-christian-antisemitism',
+    parent: 'antisemitism',
+    name: 'Pre-Christian antisemitism',
+    range: 'Before Christianity',
+    shortDescription: 'Hostility towards Jews in ancient societies before Christianity, including the Greek and Roman worlds.',
+    description: 'Hostility towards Jews in ancient societies before Christianity, including the Greek and Roman worlds.'
+  },
+  {
+    slug: 'christian-antisemitism',
+    parent: 'antisemitism',
+    name: 'Christian antisemitism',
+    range: 'From the 1st century CE',
+    shortDescription: 'Anti-Jewish teachings, restrictions and violence in Christian societies, and Christian opposition to antisemitism.',
+    description: 'Anti-Jewish teachings, restrictions and violence in Christian societies, and Christian opposition to antisemitism.'
+  },
+  {
+    slug: 'islamic-antisemitism',
+    parent: 'antisemitism',
+    name: 'Islamic antisemitism',
+    range: 'From the 7th century CE',
+    shortDescription: 'Anti-Jewish ideas, discrimination and violence in Islamic societies and movements, considered in their changing historical contexts.',
+    description: 'Anti-Jewish ideas, discrimination and violence in Islamic societies and movements, considered in their changing historical contexts.'
+  },
+  {
+    slug: 'national-socialist-antisemitism',
+    parent: 'antisemitism',
+    name: 'National Socialist antisemitism',
+    range: 'c. 1920 – 1945 CE',
+    shortDescription: 'Nazi racial ideology, anti-Jewish laws and persecution, and the genocide of European Jews during the Holocaust.',
+    description: 'Nazi racial ideology, anti-Jewish laws and persecution, and the genocide of European Jews during the Holocaust.'
+  },
+  {
+    slug: 'international-socialist-antisemitism',
+    parent: 'antisemitism',
+    name: 'International socialist antisemitism',
+    range: 'From the 19th century CE',
+    shortDescription: 'Anti-Jewish ideas and persecution in socialist movements and states, including Soviet campaigns against Jews.',
+    description: 'Anti-Jewish ideas and persecution in socialist movements and states, including Soviet campaigns against Jews.'
+  },
   {
     slug: 'the-vedas',
     name: 'The Vedas',

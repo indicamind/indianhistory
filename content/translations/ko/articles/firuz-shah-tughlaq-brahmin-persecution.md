@@ -2,14 +2,18 @@
 title: '신앙을 위해 불태워진 자: 피루즈 샤 투글루크에 맞선 바라문'
 slug: firuz-shah-tughlaq-brahmin-persecution
 excerpt: >-
-  한 노년의 바라문. 종교적 경계를 넘어 모여든 신도들. 개종할 것인가, 불탈 것인가라는 왕실의 최후통첩. 궁정과 결탁한 연대기 작가는 처형을 기록하고 술탄을 찬양한다. 이 처형 이면에는 지즈야와 사원 파괴, 그리고 피루즈 샤 투글루크의 치세 아래 신앙을 지키기 위한 투쟁이라는 더 넓은 역사가 놓여 있다.
+  한 노년의 바라문. 종교적 경계를 넘어 모여든 신도들. 개종할 것인가, 불탈 것인가라는 왕실의 최후통첩. 궁정과 결탁한 연대기 작가는 처형을
+  기록하고 술탄을 찬양한다. 이 처형 이면에는 지즈야와 사원 파괴, 그리고 피루즈 샤 투글루크의 치세 아래 신앙을 지키기 위한 투쟁이라는 더
+  넓은 역사가 놓여 있다.
 publishedAt: '2026-10-29T00:00:00.000Z'
 updatedAt: '2026-10-29T00:00:00.000Z'
 period: medieval
 polity: tughlaq-dynasty
-personalities: [firuz-shah-tughlaq]
+personalities:
+  - firuz-shah-tughlaq
 themes:
   - islamic-conquest-of-india
+  - persecution-of-hindus
 tags:
   - 피루즈 샤 투글루크
   - 델리 술탄국
@@ -19,7 +23,7 @@ tags:
   - 피루즈 샤 코틀라
 books:
   - '8173056811'
-  - '014342226X'
+  - 014342226X
 sourceHash: 2414870394bb5e288aef8c0cf42114578bbeb2832077ae7467df2a60802d0d26
 ---
 

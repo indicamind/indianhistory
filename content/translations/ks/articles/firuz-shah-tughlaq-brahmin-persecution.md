@@ -14,6 +14,7 @@ personalities:
   - firuz-shah-tughlaq
 themes:
   - islamic-conquest-of-india
+  - persecution-of-hindus
 tags:
   - فیروز شاہ تغلق
   - دِلّی سلطنت

@@ -55,6 +55,7 @@ export interface SearchResult {
   fragment?: string;
   excerptLanguage?: string;
   draft?: boolean;
+  preview?: boolean;
   // For display: e.g. "Empire", "Kingdom", "Period", "Story"
   kindLabel: string;
 }

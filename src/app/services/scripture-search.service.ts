@@ -7,11 +7,11 @@ import { SearchResult } from '../models/article.model';
 
 export interface ScriptureVerseHit {
   book: string; name: string; chapter: number; verse: number; id: string;
-  excerpt: string; language: string; draft: boolean;
+  excerpt: string; language: string; draft: boolean; preview?: boolean;
 }
 interface IndexedVerse {
   book: string; name: string; chapter: number; verse: number; id: string;
-  sanskrit: string; transliteration: string; commentary: string; draft: boolean;
+  sanskrit: string; transliteration: string; commentary: string; draft: boolean; preview?: boolean;
 }
 export function normalizeScriptureQuery(text: string): string {
   return text.normalize('NFD').replace(/[\u0300-\u036f]/g,'').toLowerCase()
@@ -42,7 +42,7 @@ export class ScriptureSearchService {
           return {book:book.slug,name:book.name,chapter:chapter.number,verse:verse.number,id:verse.id,
             sanskrit:verse.sanskrit,transliteration:verse.transliteration,
             commentary:commentary?this.text(commentary.meaningHtml+' '+commentary.explanationHtml):'',
-            draft:!!(chapter.commentary?.draft || chapter.commentary?.preview)};
+            draft:!!(chapter.commentary?.draft || chapter.commentary?.preview),preview:!!chapter.commentary?.preview};
         });
       })))).then(chapters=>chapters.flat()).catch(error=>{this.indexes.delete(key);throw error;});
       this.indexes.set(key,index);
@@ -69,13 +69,13 @@ export class ScriptureSearchService {
       const source=normalizeScriptureQuery(entry.sanskrit+' '+entry.transliteration);
       const draft=section.draft || (entry.draft && !reference && !terms.every(term=>source.includes(term)));
       hits.push({book:entry.book,name:entry.name,chapter:entry.chapter,verse:entry.verse,id:entry.id,
-        excerpt:(at?'…':'')+plain.slice(at,at+240)+(plain.length>at+240?'…':''),language:section.language,draft});
+        excerpt:(at?'…':'')+plain.slice(at,at+240)+(plain.length>at+240?'…':''),language:section.language,draft,preview:draft&&entry.preview});
     }
     return hits;
   }
   result(hit: ScriptureVerseHit): SearchResult {
     return {kind:'scripture',slug:`${hit.book}/${hit.id}`,title:`${hit.name} · ${this.locale.translate('Verse')} ${hit.id}`,
       excerpt:hit.excerpt,routerLink:['/scriptures',hit.book,hit.chapter],fragment:`verse-${hit.chapter}-${hit.verse}`,
-      queryParams:{lang:this.locale.language},kindLabel:this.locale.translate('Scripture'),draft:hit.draft,excerptLanguage:hit.language};
+      queryParams:{lang:this.locale.language},kindLabel:this.locale.translate('Scripture'),draft:hit.draft,preview:hit.preview,excerptLanguage:hit.language};
   }
 }

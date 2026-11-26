@@ -1,8 +1,8 @@
-# Complete Gita English review
+# Complete Gita approved English source
 
 [Begin Chapter 1](http://localhost:4201/scriptures/bhagavad-gita/1?dev=true&lang=en) · [Chapter 2](http://localhost:4201/scriptures/bhagavad-gita/2?dev=true&lang=en) · [Chapter 18](http://localhost:4201/scriptures/bhagavad-gita/18?dev=true&lang=en) · [Library](http://localhost:4201/scriptures?lang=en).
 
-All 18 chapters now have original English meanings and explanations for all 701 verses, approximately 73,212 whitespace-separated words including introductions and source notes. The manuscripts are `content/drafts/articles/bhagavad-gita-chapter-01.md` through `bhagavad-gita-chapter-18.md`. After the initial Chapter 1 review, the user explicitly chose completing English Chapters 2–18 before translations, using parallel drafting followed by consistency review.
+All 18 chapters now have original English meanings and explanations for all 701 verses, approximately 73,212 whitespace-separated words including introductions and source notes. The manuscripts are `content/articles/bhagavad-gita-chapter-01.md` through `bhagavad-gita-chapter-18.md`. After the initial Chapter 1 review, the user explicitly chose completing English Chapters 2–18 before translations, using parallel drafting followed by consistency review.
 
 | Review chapter | Verses | Words, including notes |
 | --- | ---: | ---: |
@@ -42,9 +42,9 @@ Parallel drafting covered Chapters 3–6, 7–11 and 13–17; the coordinating a
 
 ## Approval and translations
 
-The English manuscripts remain unapproved drafts. They are available only in English web dev mode. Public, localized and offline readers retain the complete Sanskrit and IAST, with localized preparation notices; the offline package excludes all draft prose. The 583 required interface/history strings are already authored in all 33 translation editions. This does not constitute translated commentary.
+The user explicitly approved all 18 English chapters on 26 November 2026: “Approved for english, so commit that.” All 18 manuscripts were moved unchanged from `content/drafts/articles/` into `content/articles/`. Their approved English source is available in English web dev mode with the “Preview · Translations in progress” notice. Public, localized and offline readers retain the complete Sanskrit and IAST, with localized preparation notices, until the all-language gate passes; the offline package excludes preview prose. The 583 required interface/history strings are already authored in all 33 translation editions. This does not constitute translated commentary.
 
-After explicit English approval, move approved chapter sources into `content/articles/` and author complete translations in all 33 language editions. Preserve the identifiers, Sanskrit-source hash, citations and source URLs, and set each translation’s English source hash. A chapter’s commentary is publicly released only after the complete all-language gate passes. The approval workflow is documented in [AGENTS.md](../../AGENTS.md) and the [source notes](../scriptures/README.md).
+English approval is complete. Author complete translations from these approved sources in all 33 language editions. Preserve the identifiers, Sanskrit-source hash, citations and source URLs, and set each translation’s English source hash. A chapter’s commentary is publicly released only after the complete all-language gate passes. The approval workflow is documented in [AGENTS.md](../../AGENTS.md) and the [source notes](../scriptures/README.md).
 
 ## Memberships
 
@@ -52,11 +52,17 @@ These inline chapter manuscripts are excluded from ordinary article lists and ar
 
 ## Validation
 
-- All 289 unit tests pass, including a regression check for the Sanskrit words restored in this review.
-- All 33 translation editions pass `npm run check-translations`; the current interface gate remains 583 strings. No commentary translations were created.
+- All 290 unit tests pass, including checks for restored Sanskrit words and the distinction between approved translation previews and unapproved drafts.
+- All 33 translation editions pass `npm run check-translations`; the current interface gate remains 583 strings. No commentary translations were created in the English approval change.
 - The manuscript compiler and independent audit confirm all 701 ordered meaning/explanation pairs, current Sanskrit-source hashes and distinct explanation text throughout.
 - The full root `npm run build` succeeds and generates the complete web application and offline Chrome extension directory and ZIP. The extension retains 48 published articles and 2 blogs in 34 editions. Existing non-fatal bundle and stylesheet budget warnings remain.
 - Production Chrome checks compare every rendered Devanagari verse, IAST, meaning and explanation with the generated assets across all 18 English dev chapters. Normal English views show source text only across all 18 chapters.
-- Browser checks pass for cross-chapter and circular verse navigation, keyboard controls, the verse grid, reload progress, reader and global search linking to the new Chapter 18 prose, and exclusion of that prose from public search. English, Hindi, Telugu and Arabic readers fit a 390px viewport without horizontal overflow; localized views do not display English draft explanations.
+- Browser checks pass for cross-chapter and circular verse navigation, keyboard controls, the verse grid, reload progress, reader and global search linking to the new Chapter 18 prose, and exclusion of that prose from public search. English, Hindi, Telugu and Arabic readers fit a 390px viewport without horizontal overflow; localized views do not display English preview explanations.
 - All 34 generated article, blog and search editions retain the published counts and exclude inline scripture manuscripts. The live localhost:4201 review link serves the new Chapter 18 explanations.
-- The installed extension passes in an isolated Chrome profile with networking disabled. Corrected Sanskrit, localized reading and source search work; no draft prose or outbound source links are present. It makes zero HTTP(S) requests, the toolbar opens the bundled reader, and Chrome retains its normal new-tab page.
+- The installed extension passes in an isolated Chrome profile with networking disabled. Corrected Sanskrit, localized reading and source search work; no preview prose or outbound source links are present. It makes zero HTTP(S) requests, the toolbar opens the bundled reader, and Chrome retains its normal new-tab page.
+
+### English approval verification
+
+All 18 moved files retain the exact bytes of the approved drafts. Search results and chapter pages identify them as translation previews rather than awaiting English approval. The approved-source compiler generates 18 English translation previews without the unapproved-draft flag; public commentary remains gated. Article and blog memberships and counts remain unchanged because scripture manuscripts are inline reader sources.
+
+After the approval move, all 290 tests and the translation checker pass (Gita translations are explicitly pending). The full root build and offline package succeed. Production Chrome verifies all 18 approved-preview chapter labels and verse counts, the corrected search status, public search exclusion, and English/Telugu/Arabic mobile isolation. The installed extension loads localized source text and search with networking disabled, excludes preview prose and makes zero HTTP(S) requests.

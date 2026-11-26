@@ -48,7 +48,7 @@
       <li class="card result-item" [class.affiliate-pending]="devMode.isDevMode() && item.affiliatePending">
         <span class="result-kind" [class.kind-article]="item.kind === 'article'" [class.kind-book]="item.kind === 'book'" [class.kind-period]="item.kind === 'period'" [class.kind-theme]="item.kind === 'theme'" [class.kind-personality]="item.kind === 'personality'" [class.kind-polity]="item.kind === 'polity'">{{ item.kindLabel }}</span>
         @if (devMode.isDevMode() && item.affiliatePending) { <p class="affiliate-status">Affiliate link pending · Regular Amazon.in link</p> }
-        @if (item.draft) {<p>{{ locale.translate('English draft · Awaiting approval') }}</p>}
+        @if (item.draft) {<p>{{ locale.translate(item.preview?'Preview · Translations in progress':'English draft · Awaiting approval') }}</p>}
         <h2 [class.notranslate]="item.kind === 'book'" [attr.translate]="item.kind === 'book' ? 'no' : null">
           @if (item.externalUrl) {
             <a [href]="item.externalUrl" target="_blank" [attr.rel]="item.affiliatePending ? 'noopener' : 'sponsored noopener'">{{ item.title }}</a>

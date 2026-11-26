@@ -5,6 +5,7 @@ export function contentPath(pathname: string): { path: string; language?: Langua
   const language = LANGUAGES.find(entry => entry.code === parts[0])?.code;
   const route = language ? parts.slice(1) : parts;
   const valid = (['article', 'blogs', 'post', 'worldhistory'].includes(route[0]) && route.length === 2)
+    || (route[0] === 'scriptures' && (route.length === 1 || route.length === 2 || (route.length === 3 && /^[1-9]\d*$/.test(route[2]))))
     || (route[0] === 'worldhistory' && route.length === 3);
   return valid && route.slice(1).every(slug => /^[a-z0-9]+(?:-[a-z0-9]+)*$/.test(slug))
     ? { path: '/' + route.join('/'), language } : null;
@@ -30,9 +31,9 @@ export function localizedContentUrl(value: string, language: LanguageCode): stri
 }
 
 export function localizeContentLinks(html: string, language: LanguageCode, dev = false, basePath = '/', offline = false): string {
-  const links = offline ? /href="(\/(?!\/)[^"\s]*)"/g : /href="(\/(?:article|blogs|worldhistory|post)\/[^"\s]+)"/g;
+  const links = offline ? /href="(\/(?!\/)[^"\s]*)"/g : /href="(\/(?:article|blogs|worldhistory|post|scriptures)\/[^"\s]+)"/g;
   return html.replace(links, (match, href: string) => {
-    if (offline && !/^\/(?:article|blogs|worldhistory|post|period|polity|theme|personality|search|books)(?:[/?#]|$)/.test(href)) return match;
+    if (offline && !/^\/(?:article|blogs|worldhistory|post|period|polity|theme|personality|search|books|scriptures)(?:[/?#]|$)/.test(href)) return match;
     const url = new URL(localizedContentUrl(href.replace(/&amp;/g, '&'), language), 'https://history.invalid');
     if (offline && !contentPath(url.pathname)) url.searchParams.set('lang', language);
     url.pathname = basePath.replace(/\/$/, '') + url.pathname;

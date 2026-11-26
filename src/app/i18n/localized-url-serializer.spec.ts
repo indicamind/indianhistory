@@ -14,6 +14,18 @@ describe('Localized content URLs', () => {
     expect(installed.serialize(installed.parse('/article/ashoka-edicts?lang=hi'))).toBe('/hi/article/ashoka-edicts');
   });
 
+  it('preserves scripture chapters and verse anchors through language switching, including offline', () => {
+    for (const {code} of LANGUAGES) {
+      const prefix=code==='en'?'':'/'+code;
+      const url=`${prefix}/scriptures/bhagavad-gita/2?dev=true#verse-2-47`;
+      expect(serializer.serialize(serializer.parse(url))).toBe(url);
+      expect(languageAtLocation(new URL('https://example.com'+url))).toBe(code);
+      expect(languageAtLocation(new URL('chrome-extension://reader/newtab.html#'+url))).toBe(code);
+    }
+    expect(localizedContentUrl('/scriptures/bhagavad-gita/2#verse-2-47','te')).toBe('/te/scriptures/bhagavad-gita/2#verse-2-47');
+    expect(localizedContentUrl('/scriptures','hi')).toBe('/hi/scriptures');
+  });
+
   it('routes every language through existing components and round-trips its public URL', () => {
     for (const { code } of LANGUAGES) {
       const prefix = code === 'en' ? '' : '/' + code;

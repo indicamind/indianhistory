@@ -63,6 +63,14 @@ describe('AppComponent', () => {
     expect(component.menuOpen()).toBeFalsy();
   });
 
+  it('keeps scripture reading in the full-width reader without unrelated book placements', async () => {
+    await (component as any).updateBookPlacement('/te/scriptures/bhagavad-gita/1#verse-1-1');
+    expect(component.isScripturePage()).toBeTruthy();
+    expect(component.highlightedBook()).toBeNull();
+    await (component as any).updateBookPlacement('/article/example');
+    expect(component.isScripturePage()).toBeFalsy();
+  });
+
   it('uses the full-width layout on localized personality routes and restores the sidebar for articles', async () => {
     await (component as any).updateBookPlacement('/personality/rani-durgavati?lang=ar');
     expect(component.isPersonalityPage()).toBeTruthy();

@@ -41,6 +41,7 @@ export class AppComponent implements AfterViewInit {
   private placementVersion = 0;
   readonly menuOpen = signal(false);
   readonly isPersonalityPage = signal(false);
+  readonly isScripturePage = signal(false);
   readonly highlightedBook = signal<RecommendedBook | null>(null);
   private readonly storyBookIsbns = signal<string[]>([]);
   readonly displayedBook = computed(() => {
@@ -98,7 +99,13 @@ export class AppComponent implements AfterViewInit {
     const rawPath = url.split('?')[0].split('#')[0];
     const path = contentPath(rawPath)?.path ?? rawPath;
     this.isPersonalityPage.set(/^\/personality\/[^/]+$/.test(path));
+    this.isScripturePage.set(/^\/scriptures(?:\/|$)/.test(path));
     this.isBookLibrary.set(path === '/books');
+    if (this.isScripturePage()) {
+      this.highlightedBook.set(null);
+      this.storyBookIsbns.set([]);
+      return;
+    }
     let storyRecommendations: string[] = [];
     let articleBook: RecommendedBook | null = null;
     const articleMatch = path.match(/^\/article\/([^/]+)$/)

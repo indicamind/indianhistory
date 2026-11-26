@@ -12,13 +12,13 @@ The user requested seven additional language editions on 2026-10-31. Completed e
 
 | Edition | Code | Required site strings translated | Articles translated | Blogs translated | Status |
 | --- | --- | ---: | ---: | ---: | --- |
-| Italian | `it` | 546 / 546 | 48 / 48 | 2 / 2 | Released |
-| Korean | `ko` | 546 / 546 | 48 / 48 | 2 / 2 | Released |
-| Vietnamese | `vi` | 546 / 546 | 48 / 48 | 2 / 2 | Released |
-| Turkish | `tr` | 546 / 546 | 48 / 48 | 2 / 2 | Released |
-| Malay | `ms` | 546 / 546 | 48 / 48 | 2 / 2 | Released |
-| Swahili | `sw` | 546 / 546 | 48 / 48 | 2 / 2 | Released |
-| Filipino | `fil` | 546 / 546 | 48 / 48 | 2 / 2 | Released |
+| Italian | `it` | 576 / 576 | 48 / 48 | 2 / 2 | Released |
+| Korean | `ko` | 576 / 576 | 48 / 48 | 2 / 2 | Released |
+| Vietnamese | `vi` | 576 / 576 | 48 / 48 | 2 / 2 | Released |
+| Turkish | `tr` | 576 / 576 | 48 / 48 | 2 / 2 | Released |
+| Malay | `ms` | 576 / 576 | 48 / 48 | 2 / 2 | Released |
+| Swahili | `sw` | 576 / 576 | 48 / 48 | 2 / 2 | Released |
+| Filipino | `fil` | 576 / 576 | 48 / 48 | 2 / 2 | Released |
 
 All seven requested editions have passed the full release gate with complete translations for interface strings, articles, blogs, image attributions, metadata, and search assets. Each translation includes the complete body, metadata, tags, image alt text and attribution, and a final Sources section with image credits. Original Prakrit, Greek, and Aramaic transliterations remain unchanged.
 
@@ -114,6 +114,17 @@ credits, local WebP/JPEG assets and the image viewer also work offline. See the
 
 ## Veer Savarkar personality draft, 19 November 2026
 
-The new `veer-savarkar` profile has its name, date range, summary and portrait alt text authored in all 33 translation editions. All 546 required site strings remain complete. The detailed English timeline has **85 illustrated bubbles** and **32 numbered source records**, under `content/drafts/articles/veer-savarkar-life-story.md`. Review it at `/personality/veer-savarkar?dev=true&lang=en`.
+The new `veer-savarkar` profile has its name, date range, summary and portrait alt text authored in all 33 translation editions. All 576 required site strings remain complete. The detailed English timeline has **85 illustrated bubbles** and **32 numbered source records**, under `content/drafts/articles/veer-savarkar-life-story.md`. Review it at `/personality/veer-savarkar?dev=true&lang=en`.
 
 The narrative, chapter dates, image descriptions and source notes await explicit English approval before translation or publication. They are excluded from normal and localized views and the offline extension; the translated catalogue entry and historical portrait are available independently. The existing 462 approved personality timeline translations remain unchanged. See the [Savarkar review notes](../drafts/savarkar-personality-review.md) for coverage and provenance.
+
+
+## Indian Scriptures reader, 26 November 2026
+
+The `/scriptures` library starts with the Bhagavad Gita. Its complete 18-chapter Sanskrit source and directly generated IAST transliteration are available independently of commentary. The selected source includes Arjuna’s opening question as 13.1 and therefore has 701 numbered verses; the edition note is localized and displayed in Sources. All 30 new library, reader, search and source-interface strings are directly authored in all 33 translation editions, bringing required site strings to 576. Original Sanskrit and its transliteration remain unchanged when the site language changes.
+
+At the user’s request, only Chapter 1’s original English meanings and detailed explanations are prepared for style approval. The 47-verse manuscript is `content/drafts/articles/bhagavad-gita-chapter-01.md`, identified by `scriptureChapterFor` and `chapter`. Review it at `/scriptures/bhagavad-gita/1?dev=true&lang=en`. Its English commentary is excluded from normal mode, translated views and the offline package. Other chapters display their complete source text with a localized preparation note. This is not a release of translated commentary.
+
+After explicit approval, the English manuscript moves into `content/articles` and full translations use the same filename under each language’s `articles` directory. These inline chapter manuscripts are excluded from ordinary article listings. Preserve `scriptureChapterFor`, `chapter` and `textSourceHash`, translate title, excerpt, tags and the complete body, and set `sourceHash` from the approved English title, excerpt and trimmed body. Keep the numbered verse headings and citations unchanged; translate the two third-level headings and all associated prose. Publication requires every verse’s meaning and explanation, matching source links and citations, matching Sanskrit-source metadata, and all 33 valid translations. The generator rejects identical English copies and withdraws public commentary assets when a required translation becomes stale.
+
+See [source and authoring notes](../scriptures/README.md) and [the Chapter 1 review](../drafts/gita-reader-review.md). No translation API or browser translation service was used.

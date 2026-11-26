@@ -1,0 +1,51 @@
+@if (loading()) { <p class="status" role="status">{{ locale.translate('Loading text…') }}</p> }
+@else if (failed()) { <div class="card status"><p>{{ locale.translate('The text could not be loaded. Please try again.') }}</p><a routerLink="/scriptures">{{ locale.translate('Indian Scriptures') }}</a></div> }
+@else if (notFound()) { <div class="card status"><h1>{{ locale.translate('Text not found') }}</h1><a routerLink="/scriptures">{{ locale.translate('Indian Scriptures') }}</a></div> }
+@else if (!book()) {
+  <header class="library-hero"><p class="eyebrow">{{ locale.translate('Read the texts') }}</p><h1>{{ locale.translate('Indian Scriptures') }}</h1><p>{{ locale.translate('Scriptures, philosophy and other Indian classics, read on this website.') }}</p></header>
+  <div class="library-grid">@for (item of books(); track item.slug) {
+    <a class="scripture-book" [routerLink]="['/scriptures',item.slug]" [queryParams]="{lang:locale.language}" queryParamsHandling="merge">
+      <div class="book-cover notranslate" translate="no" aria-hidden="true"><span>॥</span><strong lang="sa" dir="ltr">{{ item.originalTitle }}</strong><span>॥</span></div>
+      <div><p class="eyebrow">{{ locale.translate('Sanskrit') }} · {{ locale.format('{count} chapters',{count:item.chapters.length}) }}</p><h2>{{ item.name }}</h2><p>{{ item.shortDescription }}</p><span class="read-link">{{ locale.translate('Start reading') }} →</span></div>
+    </a>
+  }</div>
+}
+@else {
+  <a class="back-link" routerLink="/scriptures" [queryParams]="{lang:locale.language}" queryParamsHandling="merge">← {{ locale.translate('Indian Scriptures') }}</a>
+  <header class="text-hero"><p class="eyebrow">{{ locale.translate('Sanskrit') }} · {{ locale.format('{count} chapters',{count:book()!.chapters.length}) }}</p><h1>{{ book()!.name }}</h1><p>{{ book()!.shortDescription }}</p></header>
+  @if (!chapter()) {
+    <div class="book-intro"><p>{{ locale.translate('Read each verse in Devanagari and Roman transliteration, with meaning and explanation as they become available.') }}</p><a class="btn btn-primary" [routerLink]="['/scriptures',book()!.slug,1]" [queryParams]="{lang:locale.language}" queryParamsHandling="merge">{{ locale.translate('Start reading') }} →</a></div>
+    <section class="chapter-index" [attr.aria-label]="locale.translate('Chapters')">@for (item of book()!.chapters; track item.number) {
+      <a class="chapter-tile" [routerLink]="['/scriptures',book()!.slug,item.number]" [queryParams]="{lang:locale.language}" queryParamsHandling="merge"><span class="chapter-number">{{ locale.format('Chapter {number}',{number:item.number}) }}</span><h2 class="notranslate" lang="sa" dir="ltr" translate="no">{{ item.title }}</h2><p class="notranslate roman" lang="sa-Latn" dir="ltr" translate="no">{{ item.transliteration }}</p><span>{{ locale.format('{count} verses',{count:item.verseCount}) }}</span></a>
+    }</section>
+  } @else {
+    <form class="reader-controls" (submit)="$event.preventDefault();goToVerse()">
+      <label>{{ locale.translate('Chapter') }}<select [ngModel]="chapter()!.number" name="chapter" (ngModelChange)="selectChapter($event)">@for (item of book()!.chapters; track item.number) {<option [value]="item.number">{{ locale.format('Chapter {number}',{number:item.number}) }}</option>}</select></label>
+      <label>{{ locale.translate('Verse') }}<input type="number" name="verse" [(ngModel)]="verseNumber" min="1" [max]="chapter()!.verses.length" required /></label><button class="btn btn-secondary" type="submit">{{ locale.translate('Go to verse') }}</button>
+    </form>
+    <div class="reader-layout">
+      <aside class="chapter-sidebar"><h2>{{ locale.translate('Chapters') }}</h2><nav [attr.aria-label]="locale.translate('Chapter navigation')">@for (item of book()!.chapters; track item.number) {<a [routerLink]="['/scriptures',book()!.slug,item.number]" [queryParams]="{lang:locale.language}" queryParamsHandling="merge" [attr.aria-current]="item.number===chapter()!.number?'page':null">{{ locale.format('Chapter {number}',{number:item.number}) }}<span class="notranslate" lang="sa" dir="ltr" translate="no">{{ item.title }}</span></a>}</nav></aside>
+      <div class="reader-content">
+        <header class="chapter-heading"><p class="eyebrow">{{ locale.format('Chapter {number}',{number:chapter()!.number}) }}</p><h2 class="notranslate" lang="sa" dir="ltr" translate="no">{{ chapter()!.title }}</h2><p class="notranslate roman" lang="sa-Latn" dir="ltr" translate="no">{{ chapter()!.transliteration }}</p></header>
+        @if (commentary(); as textCommentary) {
+          @if (textCommentary.draft || textCommentary.preview) {<p class="review-notice">{{ locale.translate(textCommentary.draft?'English draft · Awaiting approval':'Preview · Translations in progress') }}</p>}
+          <div class="chapter-intro" [innerHTML]="textCommentary.introHtml"></div>
+        } @else {<p class="preparation-note">{{ locale.translate('Meanings and explanations are being prepared.') }}</p>}
+        @for (verse of chapter()!.verses; track verse.id) {
+          <article class="verse" [id]="anchor(verse.id)"><header><a class="verse-reference" [routerLink]="['/scriptures',book()!.slug,chapter()!.number]" [fragment]="anchor(verse.id)" [queryParams]="{lang:locale.language}" queryParamsHandling="merge">{{ locale.translate('Verse') }} <bdi>{{ verse.id }}</bdi></a></header>
+            <p class="sanskrit notranslate" lang="sa" dir="ltr" translate="no">{{ verse.sanskrit }}</p>
+            <details class="transliteration" open><summary>{{ locale.translate('Roman transliteration (IAST)') }}</summary><p class="roman notranslate" lang="sa-Latn" dir="ltr" translate="no">{{ verse.transliteration }}</p></details>
+            @if (explanation(verse.id); as text) {<section class="verse-meaning"><h3>{{ locale.translate('Meaning') }}</h3><div [innerHTML]="text.meaningHtml"></div></section><section class="verse-explanation"><h3>{{ locale.translate('Explanation') }}</h3><div [innerHTML]="text.explanationHtml"></div></section>}
+          </article>
+        }
+        <nav class="chapter-pager" [attr.aria-label]="locale.translate('Chapter navigation')">
+          @if (chapter()!.number>1) {<a class="btn btn-secondary" [routerLink]="['/scriptures',book()!.slug,chapter()!.number-1]" [queryParams]="{lang:locale.language}" queryParamsHandling="merge">← {{ locale.translate('Previous chapter') }}</a>}
+          @if (chapter()!.number<book()!.chapters.length) {<a class="btn btn-primary" [routerLink]="['/scriptures',book()!.slug,chapter()!.number+1]" [queryParams]="{lang:locale.language}" queryParamsHandling="merge">{{ locale.translate('Next chapter') }} →</a>}
+        </nav>
+      </div>
+    </div>
+  }
+  <section class="text-sources"><h2>{{ locale.translate('Sources') }}</h2><p>{{ book()!.editionNote }}</p><ul>@for (source of book()!.sources; track source.url) {<li>@if (locale.offline) { {{ locale.translate(source.label) }} } @else {<a [href]="source.url" target="_blank" rel="noopener noreferrer">{{ locale.translate(source.label) }}</a>} · {{ source.author }} · @if (locale.offline) { {{ source.license }} } @else {<a [href]="source.licenseUrl" target="_blank" rel="noopener noreferrer">{{ source.license }}</a>}</li>}</ul>
+    @if (commentary(); as textCommentary) {<div [innerHTML]="textCommentary.sourcesHtml"></div>}
+  </section>
+}

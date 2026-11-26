@@ -13,6 +13,7 @@
       @if (showWorldHistory()) { <a [routerLink]="['/']" fragment="world-history" (click)="closeMenu()">{{ locale.navigation.worldHistory }}</a> }
       @if (showBlogs()) { <a routerLink="/blogs" routerLinkActive="active" (click)="closeMenu()">{{ locale.navigation.blogs }}</a> }
       <a routerLink="/books" routerLinkActive="active" (click)="closeMenu()">{{ locale.navigation.books }}</a>
+      <a routerLink="/scriptures" routerLinkActive="active" (click)="closeMenu()">{{ locale.translate('Scriptures') }}</a>
       <a routerLink="/search" routerLinkActive="active" class="search-text" (click)="closeMenu()">{{ locale.navigation.search }}</a>
     </nav>
     <label class="language-picker">
@@ -49,11 +50,11 @@
   }
 
   <main class="site-main">
-    <div class="page-layout" [class.personality-layout]="isPersonalityPage()">
+    <div class="page-layout" [class.personality-layout]="isPersonalityPage() || isScripturePage()">
       <router-outlet />
-      @if (!isPersonalityPage()) { <app-book-sidebar [book]="displayedBook()" /> }
+      @if (!isPersonalityPage() && !isScripturePage()) { <app-book-sidebar [book]="displayedBook()" /> }
     </div>
-    @if (!isBookLibrary()) {
+    @if (!isBookLibrary() && !isScripturePage()) {
       <app-must-read presentation="bottom" [excludeIsbns]="excludedBookIsbns()" />
     }
   </main>

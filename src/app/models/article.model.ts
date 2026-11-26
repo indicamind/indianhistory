@@ -36,7 +36,7 @@ export interface SearchEntry {
   text: string;
 }
 
-export type SearchResultKind = 'article' | 'period' | 'polity' | 'theme' | 'personality' | 'book';
+export type SearchResultKind = 'article' | 'period' | 'polity' | 'theme' | 'personality' | 'book' | 'scripture';
 
 export interface SearchResult {
   kind: SearchResultKind;

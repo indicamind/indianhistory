@@ -77,6 +77,18 @@ const englishBlogs = await json('assets/generated/blogs.json');
 let articleEditions = 0;
 let blogEditions = 0;
 const media = new Set();
+const scriptureIndex = await json('assets/generated/scriptures.json');
+let scriptureVerses = 0;
+for (const book of scriptureIndex) {
+  for (const chapter of book.chapters) {
+    const text = await json(`assets/generated/scriptures/${book.slug}/${chapter.number}.json`);
+    assert.equal(text.verses.length,chapter.verseCount,'Incomplete scripture chapter');
+    for (const verse of text.verses) assert(verse.sanskrit && verse.transliteration,'Missing scripture text or transliteration');
+    scriptureVerses += text.verses.length;
+  }
+}
+await rm(path.join(output,'assets/generated/scripture-drafts'),{recursive:true,force:true});
+await writeFile(path.join(output,'assets/generated/scripture-drafts.json'),'{}\n');
 function collectMedia(html) {
   for (const match of html.matchAll(/\b(?:src|srcset|poster)="([^"]+)"/g)) {
     if (match[1].startsWith('data:')) continue;
@@ -93,6 +105,18 @@ for (const language of languages) {
   const blogs = await json(prefix + 'blogs.json');
   const profiles = await json(prefix + 'personality-profiles.json');
   const themes = await json(prefix + 'theme-stories.json');
+  for (const book of scriptureIndex) for (const chapter of book.commentaryChapters) {
+    const file = prefix + `scripture-commentary/${book.slug}/${chapter}.json`;
+    const commentary = await json(file);
+    assert(!commentary.draft && !commentary.preview,'Unpublished scripture commentary');
+    for (const verse of commentary.verses) {
+      assert(!/<a\b[^>]*href="https?:/i.test(verse.meaningHtml+verse.explanationHtml),'External scripture narrative link');
+      collectMedia(verse.meaningHtml+verse.explanationHtml);
+    }
+    commentary.referenceUrls=[...commentary.sourcesHtml.matchAll(/href="(https?:[^"]+)"/g)].map(m=>m[1]);
+    commentary.sourcesHtml=commentary.sourcesHtml.replace(/<a\b[^>]*href="https?:[^"]*"[^>]*>([\s\S]*?)<\/a>/gi,'<span>$1</span>');
+    await writeFile(path.join(output,file),JSON.stringify(commentary));
+  }
   for (const profile of [...Object.values(profiles), ...Object.values(themes)]) {
     if (profile.image) media.add(profile.image.src.replace(/^\//, ''));
     if (profile.story) {
@@ -159,6 +183,7 @@ await writeFile(path.join(output, 'offline-content.json'), JSON.stringify({
   builtAt: new Date().toISOString(), languages,
   articles: english.length, blogs: englishBlogs.length, articleEditions, blogEditions,
   mediaFiles: media.size, networkAccess: false,
+  scriptures: scriptureIndex.length, scriptureVerses,
 }, null, 2) + '\n');
 const archive = path.join(dist, 'india-history-new-tab.zip');
 await rm(archive, { force: true });

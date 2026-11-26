@@ -12,7 +12,7 @@ import { DevModeService } from '../../services/dev-mode.service';
 
 const SEARCH_DEBOUNCE_MS = 300;
 
-type SearchFilter = 'all' | 'article' | 'book' | 'period' | 'theme' | 'personality' | 'empire' | 'kingdom' | 'dynasty';
+type SearchFilter = 'all' | 'article' | 'book' | 'period' | 'theme' | 'personality' | 'empire' | 'kingdom' | 'dynasty' | 'scripture';
 
 interface SearchFilterOption {
   label: string;
@@ -23,6 +23,7 @@ const FILTER_OPTIONS: SearchFilterOption[] = [
   { label: 'All', value: 'all' },
   { label: 'Articles', value: 'article' },
   { label: 'Books', value: 'book' },
+  { label: 'Scriptures', value: 'scripture' },
   { label: 'Periods', value: 'period' },
   { label: 'Themes', value: 'theme' },
   { label: 'Personalities', value: 'personality' },
@@ -145,7 +146,7 @@ export class SearchComponent implements OnInit {
 
   private filterHasContent(value: SearchFilter): boolean {
     if (this.devMode.isDevMode()) return true;
-    if (value === 'all' || value === 'book') return true;
+    if (value === 'all' || value === 'book' || value === 'scripture') return true;
     if (value === 'article') return this.articles.allArticles().length > 0;
     if (value === 'period') return this.periods.getAll().some(period => this.periods.isVisiblePeriod(period.slug));
     if (value === 'theme') return this.periods.getThemes().some(theme => this.periods.isVisibleTheme(theme.slug));

@@ -1,12 +1,12 @@
 {
-  "fetchedAt": "2026-11-23T14:50:09.078Z",
+  "fetchedAt": "2026-11-26T05:40:10.596Z",
   "counts": {
-    "ashoka-bairat-edict": 6,
+    "ashoka-bairat-edict": 7,
     "ashoka-edicts": 20,
     "ashoka-in-stone": 4,
     "ashoka-kandahar-aramaic-inscription": 1,
-    "ashoka-kandahar-bilingual-inscription": 3,
-    "ashoka-kandahar-greek-inscription": 4,
+    "ashoka-kandahar-bilingual-inscription": 4,
+    "ashoka-kandahar-greek-inscription": 10,
     "ashoka-karna-chaupar-cave-inscription": 1,
     "ashoka-lumbini-edict": 1,
     "ashoka-major-pillar-edict-1": 1,
@@ -15,7 +15,7 @@
     "ashoka-major-pillar-edict-4": 1,
     "ashoka-major-pillar-edict-5": 5,
     "ashoka-major-pillar-edict-6": 3,
-    "ashoka-major-pillar-edict-7": 6,
+    "ashoka-major-pillar-edict-7": 7,
     "ashoka-major-rock-edict-1": 4,
     "ashoka-major-rock-edict-10": 1,
     "ashoka-major-rock-edict-11": 2,
@@ -32,7 +32,7 @@
     "ashoka-major-rock-edict-9": 1,
     "ashoka-minor-rock-edict-1": 3,
     "ashoka-minor-rock-edict-2": 2,
-    "ashoka-nigali-sagar-edict": 5,
+    "ashoka-nigali-sagar-edict": 6,
     "ashoka-pul-i-darunta-inscription": 4,
     "ashoka-queens-edict": 5,
     "ashoka-schism-edict": 2,
@@ -46,7 +46,7 @@
     "bindusara-name-legend-poison-drop": 7,
     "firuz-shah-tughlaq-brahmin-persecution": 13,
     "how-deep-are-indias-civilizational-roots": 18,
-    "mewar-resistance-and-the-road-to-rajasthan": 13,
+    "mewar-resistance-and-the-road-to-rajasthan": 14,
     "poompuhar-15000-year-old-port-claim": 2
   }
 }

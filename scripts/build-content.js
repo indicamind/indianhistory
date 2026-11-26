@@ -9,6 +9,7 @@ const { REACTIONS_FILE, validateReactions } = require('./fetch-article-reactions
 const { articleBookInsertionOffsets } = require('./article-book-placement');
 const { writeProfiles, writeProfileDrafts } = require('./build-personality-profiles');
 const { writeThemeStories } = require('./build-theme-stories');
+const { writeScriptures } = require('./build-scriptures');
 const viewCounts = validateSnapshot(JSON.parse(fs.readFileSync(SNAPSHOT_FILE, 'utf8'))).counts;
 const reactions = validateReactions(JSON.parse(fs.readFileSync(REACTIONS_FILE, 'utf8'))).reactions;
 
@@ -189,7 +190,7 @@ function buildArticles(directory = CONTENT_DIR) {
     const filePath = path.join(directory, file);
     const raw = fs.readFileSync(filePath, 'utf8');
     const { data, content } = matter(raw);
-    if (data.personalityStoryFor || data.themeStoryFor) return null;
+    if (data.personalityStoryFor || data.themeStoryFor || data.scriptureChapterFor) return null;
     const slug = data.slug || path.basename(file, '.md');
     if (!/^[a-z0-9]+(?:-[a-z0-9]+)*$/.test(slug)) throw new Error(`Invalid article slug: ${slug}`);
     const publishedAt = data.publishedAt || new Date().toISOString();
@@ -260,6 +261,7 @@ function build() {
   writeBlogs(OUT_DIR, drafts, 'blog-drafts.json');
 
   writeLocalizedContent(articles, blogs);
+  writeScriptures(ROOT, OUT_DIR);
 
   copyMedia();
 

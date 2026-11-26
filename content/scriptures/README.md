@@ -1,0 +1,23 @@
+# Indian Scriptures source and authoring notes
+
+The first work is the Bhagavad Gita. The library is intended to accommodate religious works, philosophy and nonreligious Indian classics. The initial reader supports Devanagari Sanskrit and IAST; additional original scripts need an appropriate transcription/transliteration path before they are added.
+
+`bhagavad-gita.json` contains the complete classical Sanskrit source, its chapter and verse identifiers, source links and provenance. It imports only `chapter_number`, `verse_number` and `text` from the [gita/gita dataset](https://github.com/gita/gita/blob/c6fce39595445768876ddbb8d1268a9c935e1d2b/data/verse.json), pinned to revision `c6fce39595445768876ddbb8d1268a9c935e1d2b`. Its [Unlicense](https://github.com/gita/gita/blob/c6fce39595445768876ddbb8d1268a9c935e1d2b/LICENSE) is retained in `GITA-SOURCE-LICENSE.txt`. Modern upstream translations, word meanings and commentary are not redistributed.
+
+The source records its upstream SHA-256 and each local correction. These include misplaced combining marks, a transcription error in 1.34, vocalic-r length errors, and the placement of Arjuna’s speaker label after Sanjaya’s introductory line in 1.21 and 1.28. Logical Unicode ordering is restored for legacy pre-base i signs. The generator normalizes doubled single dandas and displays verse numerals in Devanagari; its IAST is computed from exactly that displayed text. It does not mix the source with a separate romanized edition.
+
+This edition has 701 numbered verses, including Arjuna’s question at 13.1; Chapter 13 consequently has 35 verses. This convention is retained and explained in the reader’s Sources. Other editions omit or leave that opening question unnumbered. Do not silently shift verse numbers when comparing commentaries.
+
+The small discovery catalogue is `src/app/data/scriptures.ts`. Library listings, navigation, site search and chapter fetching share it. Chapter bodies are emitted by `scripts/build-scriptures.js` as separate local JSON assets. A reader loads the index and chosen chapter, not the entire work. The offline package contains every chapter.
+
+## English commentary workflow
+
+English review manuscripts belong under `content/drafts/articles/`. Chapter 1 is `bhagavad-gita-chapter-01.md`. Frontmatter includes `title`, `excerpt`, `tags`, `scriptureChapterFor: bhagavad-gita`, numeric `chapter`, and a `textSourceHash` matching the source chapter. A change to the source text invalidates that association and requires review.
+
+After the introduction, each second-level heading is an invariant verse reference such as `1.1`. Under it, use exactly two third-level sections in this order: Meaning, then Explanation. Their heading text can be translated; their order is the schema. Every verse in the chapter must appear exactly once, in order. Finish with a Sources section. External links belong only in that final section.
+
+On explicit English approval, move the source to `content/articles/` and author the complete translations in `content/translations/<language>/articles/` using the same filename. Retain identifiers, `chapter`, `textSourceHash`, verse headings, citations and source URLs. Set `sourceHash` to SHA-256 of `JSON.stringify({title, excerpt, body: content.trim()})` from the approved English source. Translate all prose and metadata, including the two section headings.
+
+The all-language gate releases a chapter’s explanations only after every one of the 33 translations passes. Incomplete approved chapters can be reviewed in English dev mode; unapproved drafts shadow them only there. Translated pages do not fall back to English explanations. The offline build removes all draft indices and commentary draft files and disables outbound source navigation.
+
+Use `npm test`, `npm run check-translations` and the full root `npm run build`. Changes to routing or extension packaging require an installed-extension check in an isolated browser profile with networking disabled. Verify original text, IAST, chapter and verse navigation, language changes, draft isolation, and sources in both web and offline readers.

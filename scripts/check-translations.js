@@ -7,12 +7,21 @@ const compiler = require('@angular/compiler');
 const ts = require('typescript');
 const { sections: biographySections } = require('./build-personality-profiles');
 const { readSources, readTranslation, translationProblems } = require('./personality-life-translations');
+const scriptures = require('./build-scriptures');
 
 const ROOT = path.join(__dirname, '..');
 const { LANGUAGES, IN_PROGRESS_LANGUAGES = new Set() } = require('./translation-languages');
-const SOURCE_FILES = ['src/app/data/periods.ts'];
+const SOURCE_FILES = ['src/app/data/periods.ts', 'src/app/data/scriptures.ts'];
 const VISIBLE_FIELDS = new Set(['name', 'range', 'shortDescription', 'description', 'date', 'title', 'summary']);
 const DYNAMIC_COPY = [
+  'Scriptures', 'Indian Scriptures', 'Read the texts', 'Scripture',
+  'Scriptures, philosophy and other Indian classics, read on this website.',
+  'Sanskrit', '{count} chapters', 'Start reading', 'Chapters', 'Chapter {number}', '{count} verses',
+  'Read each verse in Devanagari and Roman transliteration, with meaning and explanation as they become available.',
+  'Chapter', 'Verse', 'Go to verse', 'Chapter navigation', 'Meanings and explanations are being prepared.',
+  'Roman transliteration (IAST)', 'Meaning', 'Explanation', 'Previous chapter', 'Next chapter',
+  'Loading text…', 'The text could not be loaded. Please try again.', 'Text not found', 'Sanskrit text', 'Text edition',
+  'This edition includes Arjuna’s opening question in Chapter 13 (701 numbered verses).',
   'Saving…', 'Vote removed.',
   "Article feedback", "Blog feedback", "Thumbs up", "Thumbs down", "Thanks for your feedback.", "Could not save your vote. Please try again.",
   'Explore kingdoms', 'Explore dynasties', 'Explore subthemes', 'Dynasty', 'Dynasties', 'Explore sub-periods & topics', '{count} articles across these kingdoms', '{count} articles across these dynasties',
@@ -124,7 +133,7 @@ function sourceFiles(kind) {
   return fs.readdirSync(directory).filter(name => {
     if (!name.endsWith('.md')) return false;
     const {data} = matter.read(path.join(directory, name));
-    return !data.personalityStoryFor && !data.themeStoryFor;
+    return !data.personalityStoryFor && !data.themeStoryFor && !data.scriptureChapterFor;
   });
 }
 
@@ -177,12 +186,24 @@ if (require.main === module) {
   let failed = false;
   const personalitySources = [...readSources(ROOT), ...readSources(ROOT, 'theme')];
   const requirePersonalityStories = process.argv.includes('--require-personality-stories');
+  const scriptureBooks = scriptures.readBooks(ROOT);
+  const scriptureSources = scriptures.manuscripts(ROOT);
   for (const language of LANGUAGES) {
     const isProgress = IN_PROGRESS_LANGUAGES.has(language);
     const personalityProblems = personalitySources.flatMap(source => translationProblems(source, readTranslation(ROOT, source, language))
       .map(problem => `${source.data.themeStoryFor ? 'theme' : 'personality'}/${source.data.themeStoryFor || source.data.personalityStoryFor}: ${problem}`));
     const pendingPersonalities = personalityProblems.filter(problem => problem.endsWith(': missing'));
+    const scriptureProblems = scriptureSources.flatMap(source => {
+      const chapter = scriptureBooks.find(b=>b.slug===source.data.scriptureChapterFor)?.chapters.find(c=>c.number===source.data.chapter);
+      if (!chapter) return ['scripture: unknown chapter'];
+      scriptures.compileCommentary(source,chapter);
+      const file = path.join(ROOT,'content/translations',language,'articles',source.file);
+      const translated = fs.existsSync(file) ? matter.read(file) : undefined;
+      return scriptures.translationProblems(source,translated,chapter).map(p=>`scripture/${source.file}: ${p}`);
+    });
+    if (scriptureProblems.some(p=>p.endsWith(': missing'))) console.log(`${language}: scripture commentary translations pending; commentary remains unpublished`);
     const contentProblems = [...checkContent('articles', language), ...checkContent('blogs', language),
+      ...scriptureProblems.filter(p=>!p.endsWith(': missing')),
       ...(requirePersonalityStories ? personalityProblems : personalityProblems.filter(problem => !problem.endsWith(': missing')))];
     if (pendingPersonalities.length) console.log(`${language}: ${pendingPersonalities.length} personality timeline translation(s) pending; incomplete updates remain unpublished`);
     const siteFile = path.join(ROOT, 'content', 'translations', language, 'site.json');

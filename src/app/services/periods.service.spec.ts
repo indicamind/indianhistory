@@ -47,6 +47,13 @@ describe('PeriodsService', () => {
     expect(top.some(p => p.slug === 'prehistory')).toBeTruthy();
   });
 
+  it('finds the on-site Gita reader independently of external book recommendations', async () => {
+    const result=(await service.searchAll('Gita')).find(hit=>hit.kind==='scripture');
+    expect(result?.routerLink).toEqual(['/scriptures','bhagavad-gita']);
+    expect(result?.externalUrl).toBeUndefined();
+    expect((await service.searchAll('गीता')).some(hit=>hit.kind==='scripture')).toBeTruthy();
+  });
+
   it('aggregates subtheme articles and blogs into their parent without duplicates or sibling memberships', async () => {
     const article = { slug: 'nazi-record', title: 'Nazi record', themes: ['antisemitism', 'national-socialist-antisemitism'], tags: [] } as any;
     const blog = { slug: 'soviet-record', themes: ['international-socialist-antisemitism'], tags: [] } as any;

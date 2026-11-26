@@ -8,6 +8,7 @@ import { SectionEntry } from '../models/section-membership.model';
 import { LocaleService } from '../i18n/locale.service';
 import { DevModeService } from './dev-mode.service';
 import { articleRoute } from '../utils/article-route';
+import { scriptureBooks } from '../data/scriptures';
 import {
   Period,
   Personality,
@@ -458,6 +459,15 @@ export class PeriodsService {
       }
     }
 
+    for (const book of scriptureBooks) {
+      const name = this.locale.translate(book.name), description = this.locale.translate(book.shortDescription);
+      if (`${book.slug} ${book.name} ${book.originalTitle} ${name} ${description}`.toLowerCase().includes(q)) results.push({
+        kind: 'scripture', slug: book.slug, title: name, excerpt: description,
+        routerLink: ['/scriptures', book.slug], kindLabel: this.locale.translate('Scripture'),
+        queryParams: {lang: this.locale.language},
+      });
+    }
+
     // Recommended books
     for (const book of booksForMode(this.devMode.isDevMode())) {
       const haystack = `${book.title} ${book.author} ${book.description} ${book.category ?? ''} ${book.publisher ?? ''} ${book.format} ${book.publicationDate ?? ''} ${book.isbn10} ${book.isbn13 ?? ''}`.toLowerCase();
@@ -488,7 +498,7 @@ export class PeriodsService {
     }
 
     // Rank: prefer title hits that start with the query, then contain, then by kind (Story first), then name
-    const kindRank: Record<SearchResultKind, number> = { article: 0, book: 1, period: 2, personality: 3, theme: 4, polity: 5 };
+    const kindRank: Record<SearchResultKind, number> = { article: 0, scripture: 1, book: 2, period: 3, personality: 4, theme: 5, polity: 6 };
     unique.sort((a, b) => {
       const aTitle = a.title.toLowerCase();
       const bTitle = b.title.toLowerCase();

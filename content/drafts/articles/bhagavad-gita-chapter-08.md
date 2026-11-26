@@ -1,0 +1,303 @@
+---
+title: "Bhagavad Gita, Chapter 8: remembrance and the imperishable"
+excerpt: "Original meanings and explanations for all 28 verses on the self, death, cosmic cycles and the highest destination."
+scriptureChapterFor: bhagavad-gita
+chapter: 8
+tags:
+  - Bhagavad Gita
+  - Sanskrit
+  - Philosophy
+textSourceHash: b1a35f91ef9c8992526a0806d55fc4d1b012119fcdb0d3843d31dbcd84ee97a2
+---
+
+Arjuna asks Krishna to explain the terms introduced at the end of Chapter 7. The answers lead into remembrance at death, the formation of attention through lifelong practice, and the distinction between recurring cosmic existence and the imperishable goal. The chapter alternates concentrated definitions with images of vast periods of time. Its central practical connection is between how a person lives and the orientation carried into the final departure.
+
+Each **Meaning** gives an original English rendering of the displayed Sanskrit. Each **Explanation** follows the verse’s wording, its place in the dialogue and its philosophical or devotional context. These are original reader explanations; named traditional interpretations are identified where they are compared. [1–3]
+
+## 8.1
+
+### Meaning
+
+Arjuna said: What is Brahman? What is the reality pertaining to the self? What is action, highest Person? What is called the domain of beings, and what is called the divine domain?
+
+### Explanation
+
+Arjuna asks for definitions before proceeding with the promised understanding. The names have been introduced as parts of a comprehensive knowledge of Krishna, but their relationship is not yet clear. His questions distinguish metaphysical reality, embodied selfhood, action and different domains of experience. This opening models careful listening: technical vocabulary becomes useful when its meanings and connections are made explicit within the conversation.
+
+## 8.2
+
+### Meaning
+
+Who is the lord of sacrifice here in this body, and how is he present, Madhusudana? How are you to be known at departure by those whose selves are disciplined?
+
+### Explanation
+
+The second question brings the terms back to embodied practice. Arjuna wants to know how sacrifice and divine presence concern the body in which a person actually lives. The final question takes up the previous chapter's assurance about knowing Krishna at death. The dialogue is therefore asking both what these realities are and how the understanding of them can remain effective under the pressure of departure.
+
+## 8.3
+
+### Meaning
+
+Krishna said: Brahman is the supreme imperishable. One's own essential nature is called adhyātma. The outgoing act that brings the conditions of living beings into existence is called karma.
+
+### Explanation
+
+Three definitions are supplied in a compact sequence. Brahman names the imperishable highest reality, adhyātma concerns the nature of the self, and karma is described through an act of sending forth or offering that brings beings into existence. The word visarga carries this productive or sacrificial sense. Here action is being considered at the level of the processes that sustain embodied becoming, beyond one person's immediate choice.
+
+## 8.4
+
+### Meaning
+
+The domain of beings is perishable existence; the divine domain is the Person. I myself am the lord of sacrifice here in the body, best of embodied beings.
+
+### Explanation
+
+The remaining definitions relate changing existence, the cosmic Person and Krishna's own presence. The statement that Krishna is adhiyajña in the body draws sacrificial life into the same divine relationship that the previous chapter described throughout the world. Arjuna's questions about separate domains are answered through a connected account: what changes, what presides, and what receives or grounds sacrifice are all to be understood together.
+
+## 8.5
+
+### Meaning
+
+Whoever departs at the final moment, leaving the body while remembering me alone, attains my state. Of this there is no doubt.
+
+### Explanation
+
+The assurance concerns a final orientation of consciousness toward Krishna. Mad-bhāva can be rendered as his state or being, a phrase whose fuller metaphysical meaning is interpreted within different traditions. The following verses explain why this remembrance cannot be separated from the life that precedes it. The chapter's interest is sustained formation of attention and devotion, culminating in a departure aligned with their enduring object.
+
+## 8.6
+
+### Meaning
+
+Whatever state a person remembers when leaving the body at the end, that very state is reached, son of Kunti, because the person has continually been formed by it.
+
+### Explanation
+
+The final phrase connects the last remembrance with repeated formation throughout life. A mind has a history of attention, attachment and practice; its final orientation arises within that history. The verse states this connection in the Gita's framework of rebirth and destination. It prepares the next instruction, which concerns remembrance “at all times” and directs Arjuna back toward the action standing before him.
+
+## 8.7
+
+### Meaning
+
+Therefore remember me at all times, and fight. With mind and understanding offered to me, you will certainly come to me.
+
+### Explanation
+
+Remembrance and action are joined in one instruction. Arjuna is not told to wait until death before beginning, or to abandon the duty around which the dialogue began. Offering both mind and understanding gives the instruction an inward as well as an outward dimension: the person acts while the governing attention and judgement are directed toward Krishna. This supplies the chapter's practical link with karma-yoga.
+
+## 8.8
+
+### Meaning
+
+Through a mind joined to the yoga of repeated practice, going nowhere else, the person who continually contemplates the supreme divine Person reaches that Person, Partha.
+
+### Explanation
+
+Abhyāsa again places repetition at the centre of mental discipline. The verse describes the direction of attention and the object that gives the practice its coherence. “Going nowhere else” expresses sustained concentration rather than a succession of competing aims. In the surrounding argument, the continuity of practice explains how remembrance at the final departure can become the culmination of an established disposition.
+
+## 8.9
+
+### Meaning
+
+One should remember the ancient seer, the ruler, subtler than the subtle, the sustainer of all, whose form surpasses thought, radiant like the sun and beyond darkness.
+
+### Explanation
+
+The description supplies the content of contemplation. Its terms combine intelligence, sovereignty, subtlety, sustaining power and radiance, so that the object of remembrance exceeds an ordinary visible thing. “Beyond thought” also marks the inadequacy of reducing that reality to the image alone. The solar comparison conveys illuminating splendour within a spiritual description, while the next verse links contemplation with devotion and yogic concentration at death.
+
+## 8.10
+
+### Meaning
+
+At departure, with an unwavering mind, joined to devotion and the power of yoga, properly placing the life-breath between the brows, that person reaches the supreme divine Person.
+
+### Explanation
+
+This verse brings together the dispositions already named: steadiness, devotion and the trained power of yoga. It also uses the traditional language of directing prāṇa, the vital breath, within a yogic account of the body. The promised destination belongs to that combined discipline. Read with verse 8.7, the final act is supported by a life of remembrance and dedication rather than being presented as an isolated last-minute accomplishment.
+
+## 8.11
+
+### Meaning
+
+I shall briefly explain that imperishable goal which knowers of the Vedas proclaim, which striving ascetics free from attachment enter, and desiring which people practise brahmacarya.
+
+### Explanation
+
+Several established forms of spiritual aspiration are gathered around one goal. Vedic learning, ascetic effort, freedom from attachment and brahmacarya are named as ways of orienting a life toward the imperishable. Brahmacarya includes disciplined conduct and continence in its religious setting. The verse gives context for the concentrated account that follows: the departure practice belongs within a sustained search for the highest reality.
+
+## 8.12
+
+### Meaning
+
+Restraining all the gateways, holding the mind within the heart and placing one's life-breath in the head, one remains established in yogic concentration.
+
+### Explanation
+
+The “gateways” evoke the senses through which attention usually moves outward. Bringing them under restraint and gathering the mind in the heart describe an inward integration. The reference to the head continues the traditional account of directing the vital breath. This is a compact description within the chapter's religious teaching about departure; its meaning depends on the broader discipline, devotion and settled purpose surrounding it.
+
+## 8.13
+
+### Meaning
+
+Uttering Om, the single syllable that is Brahman, and remembering me, whoever departs while leaving the body reaches the highest destination.
+
+### Explanation
+
+Sound and remembrance are brought together. Om is identified with Brahman, while the inward orientation remains directed toward Krishna. Recitation therefore has a place within an integrated act of recollection and dedication. The verse gathers the definitions from the chapter's beginning into a concentrated practice: the imperishable reality, divine presence in embodied life and the seeker's final direction are presented as belonging together.
+
+## 8.14
+
+### Meaning
+
+For the yogin who remembers me constantly and daily, with attention directed to no other end, I am easy to reach, Partha.
+
+### Explanation
+
+The emphasis shifts from the demanding concentration of departure to the accessibility of a continuing relationship. Constant remembrance is expressed through daily continuity, and Krishna speaks personally of being easy to attain for such a yogin. The movement also clarifies the preceding descriptions: their culmination grows from an established life of devotion. The language of closeness balances the chapter's descriptions of a reality beyond ordinary thought.
+
+## 8.15
+
+### Meaning
+
+Having reached me, the great souls who have attained supreme fulfilment do not undergo rebirth, this impermanent abode of suffering.
+
+### Explanation
+
+The promised fulfilment is described through freedom from renewed embodied existence. Calling rebirth an impermanent abode of suffering recalls the instability of pleasure, possession and bodily life discussed earlier in the Gita. The verse sets the highest goal apart from an improved position within that cycle. Its claim is stated within the text's metaphysical account of repeated birth and liberation, which the following cosmic images expand.
+
+## 8.16
+
+### Meaning
+
+All worlds, as far as Brahma's world, are subject to return, Arjuna. But after reaching me, son of Kunti, there is no further birth.
+
+### Explanation
+
+Even the highest realm named within the cosmic hierarchy remains within recurrence. Brahma here is the creator associated with a world and a measurable cosmic duration, while Brahman in the opening definition named the imperishable reality. Keeping that distinction clear explains the contrast. Krishna offers a destination beyond the entire graded range of worlds, rather than merely a longer residence at the summit of that range.
+
+## 8.17
+
+### Meaning
+
+Those who know that Brahma's day extends for a thousand yugas, and his night for a thousand yugas, understand cosmic day and night.
+
+### Explanation
+
+The timescale now expands far beyond a human lifetime. In the traditional reckoning used here, a yuga means a complete cycle of four ages; a thousand such cycles form Brahma’s day, with a night of equal length. The immediate purpose is to show that even an unimaginably extended duration has limits and recurrence. The verse itself gives its measure in yugas; its argument does not require converting that traditional unit into a prediction about modern physical cosmology. [3]
+
+## 8.18
+
+### Meaning
+
+At the coming of the day, all manifest forms arise from the unmanifest. At the coming of the night, they dissolve into that very condition called unmanifest.
+
+### Explanation
+
+Day and night now describe manifestation and withdrawal. The unmanifest here functions as the condition from which forms emerge and into which they return within the cosmic cycle. This use must be followed carefully, because verse 8.20 will speak of a further unmanifest reality beyond that cycle. At this point, the concern is the periodic appearance and dissolution of the world of differentiated beings.
+
+## 8.19
+
+### Meaning
+
+This same multitude of beings comes into existence again and again, dissolves at the coming of the night, and arises helplessly at the coming of the day, Partha.
+
+### Explanation
+
+The repeated movement gives the cosmic picture an existential force. Beings participate in a process whose arising and withdrawal they do not individually command; avaśa expresses that lack of control. The chapter thus connects enormous periods of time with the earlier problem of dependence. A very long cycle still contains the vulnerability of becoming, which is why liberation is sought beyond recurrence itself.
+
+## 8.20
+
+### Meaning
+
+Beyond that unmanifest there is another reality, eternal and unmanifest, which does not perish when all beings perish.
+
+### Explanation
+
+The contrast turns on two uses of “unmanifest.” A condition can lack visible differentiation and still belong to the cycle of emergence and dissolution. The reality introduced here is distinguished by enduring when that whole cycle's beings pass away. The distinction keeps the highest goal from being confused with a temporary absence of forms. Its permanence gives substance to the earlier promise of freedom from return.
+
+## 8.21
+
+### Meaning
+
+It is called unmanifest and imperishable; it is said to be the highest destination. Having reached it, people do not return. That is my supreme abode.
+
+### Explanation
+
+The earlier terms are gathered around the goal. Unmanifest, imperishable, highest destination and Krishna's supreme abode describe a fulfilment beyond recurring birth. Dhāma can convey abode, domain or luminous presence, and the verse's central concern is the permanence of what is attained. Its closing identification brings the discussion of cosmic conditions back to the personal relationship with Krishna that structures the chapter's teaching.
+
+## 8.22
+
+### Meaning
+
+That supreme Person is reached through undivided devotion, Partha: the one within whom beings dwell and by whom all this is pervaded.
+
+### Explanation
+
+The description combines an all-encompassing presence with an explicitly devotional approach. Beings are within the supreme Person, and the world is pervaded by that Person. Ananyā bhakti supplies the seeker's corresponding orientation: devotion with no separate highest end. The verse connects the metaphysical account of the imperishable with the practice of dedication, so that the goal and the way of approaching it remain part of one argument.
+
+## 8.23
+
+### Meaning
+
+I shall explain the time or course of departure by which yogins go to non-return, and that by which they return, best of the Bharatas.
+
+### Explanation
+
+The word kāla introduces a description organised through temporal and cosmic signs. Two destinations are to be distinguished: a course culminating in non-return and one that leads back into embodied existence. The following verses present them through light, darkness and solar periods. Their significance becomes clearer at the conclusion, when Krishna again directs Arjuna to remain established in yoga at all times.
+
+## 8.24
+
+### Meaning
+
+Fire, light, day, the bright fortnight and the six months of the sun's northern course: departing by that course, those who know Brahman reach Brahman.
+
+### Explanation
+
+A sequence of luminous signs describes the course associated with reaching Brahman. Fire, daylight, the waxing half of the lunar month and the sun's northern course belong to a traditional cosmological account of passage beyond death. Their arrangement contrasts with the dark sequence in the next verse. The chapter's earlier requirement of knowledge and sustained practice remains present: the travellers here are specifically described as knowers of Brahman.
+
+## 8.25
+
+### Meaning
+
+Smoke, night, the dark fortnight and the six months of the sun's southern course: departing by that course, the yogin reaches the lunar light and returns.
+
+### Explanation
+
+The second sequence presents a destination still followed by return. Lunar light is a genuine attained realm within this account, but it remains within the movement of coming and going. The contrast therefore concerns permanence, a theme already established through Brahma's world and the cycles of manifestation. The two sets of images should be read through that stated distinction, rather than simply as a preference for one kind of weather or season.
+
+## 8.26
+
+### Meaning
+
+These bright and dark courses are regarded as the world's enduring paths. By one a person reaches non-return; by the other, one returns again.
+
+### Explanation
+
+The paired descriptions are now summarised in terms of their consequences. One course moves beyond recurrence, while the other remains within it. “Enduring” marks their place in the chapter's inherited cosmic framework. The structure repeats an important distinction throughout the Gita: a desirable result can still be finite, whereas the supreme goal is defined by release from the need to enter the cycle again.
+
+## 8.27
+
+### Meaning
+
+Knowing these two courses, no yogin is deluded, Partha. Therefore remain established in yoga at all times, Arjuna.
+
+### Explanation
+
+The practical conclusion returns attention to a continuing way of life. Knowledge of the two courses is meant to clarify purpose and remove confusion; the resulting instruction concerns yoga “at all times.” This phrase echoes verse 8.7 and keeps sustained dedication at the centre of the chapter. Its account of death is thus framed by a teaching about the orientation cultivated while a person is alive.
+
+## 8.28
+
+### Meaning
+
+Knowing this, the yogin goes beyond all the meritorious fruits promised through the Vedas, sacrifices, austerities and gifts, and reaches the supreme, primordial state.
+
+### Explanation
+
+The chapter closes by placing its goal beyond the particular rewards of respected religious practices. Vedic learning, sacrifice, austerity and giving can have meritorious results, yet those results are distinguished from the highest state. The verse completes the movement begun with Arjuna's definitions: understanding Krishna, action and the imperishable is meant to change the seeker's destination, rather than merely enlarge the store of benefits sought within recurring existence.
+
+## Sources
+
+1. **Bhagavad Gita, Chapter 8, Sanskrit source.** The displayed Devanagari and its generated IAST follow the classical Sanskrit transcription in the `gita/gita` collection, pinned to revision `c6fce39595445768876ddbb8d1268a9c935e1d2b`, with the local transcription corrections recorded by this reader. Modern upstream translations and commentary are not imported. [Pinned Sanskrit source](https://github.com/gita/gita/blob/c6fce39595445768876ddbb8d1268a9c935e1d2b/data/verse.json); [Unlicense](https://github.com/gita/gita/blob/c6fce39595445768876ddbb8d1268a9c935e1d2b/LICENSE).
+
+2. **Kashinath Trimbak Telang, *The Bhagavadgîtâ*, Sacred Books of the East, volume VIII (1882), Chapter VIII.** Public-domain comparison for the chapter’s sequence and terminology. The meanings and explanations here are original writing based on the displayed Sanskrit, rather than a reproduction of Telang’s translation. [Chapter VIII](https://sacred-texts.com/book/the-bhagavadgita/chapter-viii).
+
+3. **Original Sanskrit commentaries on 8.17.** Shridhara explicitly explains the term *yuga* here as a complete cycle of four ages (*caturyuga*). [Verse 8.17 and commentaries](https://www.bhagavadgita.eu/en/?p=3806).

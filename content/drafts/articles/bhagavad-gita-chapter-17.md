@@ -1,0 +1,303 @@
+---
+title: "Bhagavad Gita, Chapter 17: faith, discipline and giving"
+excerpt: "An original meaning and contextual explanation of every verse about faith, food, sacrifice, austerity, giving and Om Tat Sat."
+scriptureChapterFor: bhagavad-gita
+chapter: 17
+tags:
+  - Bhagavad Gita
+  - Sanskrit
+  - Philosophy
+textSourceHash: ee82a9c19928f0666982ac3ea580e0c5be6852efb7e1b0e0eebc762377cae716
+---
+
+Chapter 17 asks how faith should be understood when a person worships outside scriptural directions. Krishna examines faith through the three qualities, then follows their influence into food, sacrifice, discipline and giving. The chapter closes by relating these practices to Om Tat Sat, a threefold sacred designation. Its repeated concern is the relation between outward action, inward intention and the reality toward which practice is directed.
+
+Each **Meaning** gives an original English rendering of the displayed Sanskrit. Each **Explanation** follows the verse’s wording, its place in the dialogue and its philosophical or devotional context. These are original reader explanations; named traditional interpretations are identified where they are compared. [1–3]
+
+## 17.1
+
+### Meaning
+
+Arjuna said: Krishna, those who set aside scriptural directions but offer worship with faith—what is their condition? Is it sattva, rajas or tamas?
+
+### Explanation
+
+Arjuna develops a question left open by the previous chapter’s appeal to scripture. A person may possess genuine conviction without following its prescribed forms. He asks how such faith should be understood through the qualities already described. The question holds outward procedure and inward commitment together: the presence of faith calls for examination, since faith itself can take different forms and pursue different ends.
+
+## 17.2
+
+### Meaning
+
+The Lord said: The faith of embodied beings is threefold, arising from their own disposition: sattvic, rajasic and tamasic. Hear about it.
+
+### Explanation
+
+Krishna begins with the character from which faith arises. The term *svabhava* points to an established disposition that shapes attraction, judgment and commitment. The chapter will make this visible through particular choices and practices. Its threefold account continues Chapter 14’s analysis of the qualities operating within nature; those qualities can change in predominance, so this verse should be read within that dynamic account of embodied life.
+
+## 17.3
+
+### Meaning
+
+Everyone’s faith accords with their inner disposition, descendant of Bharata. A person is formed of faith: whatever their faith is, that is what they are.
+
+### Explanation
+
+Faith here reaches beyond an opinion that someone happens to state. It helps organise the person’s orientation toward what deserves trust, effort and reverence. The word *sattva* in the first line refers to inward constitution or disposition, rather than naming only the luminous quality among the three. The second line stresses how deeply a person’s commitments shape life, preparing the concrete examples of worship and conduct that follow.
+
+## 17.4
+
+### Meaning
+
+Those of sattvic disposition worship the gods; those of rajasic disposition worship yakshas and rakshasas; others of tamasic disposition worship departed spirits and hosts of beings.
+
+### Explanation
+
+The examples belong to the Gita’s religious world, in which gods, yakshas, rakshasas and spirits are distinct kinds of beings. The objects of worship reveal different orientations of faith within that setting. Krishna’s account places worship within the operation of the qualities, continuing the earlier discussion of desires and their chosen divine objects. The following verses turn from the beings approached to the character and effects of religious practice itself.
+
+## 17.5
+
+### Meaning
+
+Those people who practise dreadful austerities not prescribed by scripture, joined with pretence and ego, and driven by the force of desire and attachment—
+
+### Explanation
+
+The sentence identifies the motives of a severe practice before the next verse describes its damage. Outward difficulty alone does not establish spiritual worth. Pretence and ego can turn austerity into a display, while desire and attachment can sustain even painful exertion. The reference to scriptural prescription answers Arjuna’s opening question by asking whether religious intensity has the guidance and orientation required for a beneficial discipline.
+
+## 17.6
+
+### Meaning
+
+Senselessly tormenting the collection of elements within the body, and me also dwelling within the body—know them to possess a destructive, asuric resolve.
+
+### Explanation
+
+The criticism combines the body’s elemental constitution with Krishna’s indwelling presence. Bodily torment is therefore assessed within both the account of nature and the chapter’s theology. Its severity does not become a virtue merely because it takes a religious form. The expression “asuric resolve” links this behaviour with Chapter 16’s destructive dispositions, while the later account of bodily discipline will include purity, restraint and non-injury.
+
+## 17.7
+
+### Meaning
+
+Even the food that each person prefers is of three kinds, as are sacrifice, austerity and giving. Hear the distinctions among them.
+
+### Explanation
+
+The inquiry moves into four recurring areas of life. Food shows how disposition shapes an ordinary preference; sacrifice, austerity and giving show its operation in expressly religious and ethical practice. The repeated pattern lets Krishna examine both what is done and the manner in which it is done. A single outward category, such as giving, can contain actions of very different quality because intention, treatment of others and observance also matter.
+
+## 17.8
+
+### Meaning
+
+Foods that increase life, vitality, strength, health, happiness and satisfaction, and are juicy, nourishing, sustaining and pleasing, are dear to those of sattvic disposition.
+
+### Explanation
+
+The first food description emphasises nourishment, steadiness and an agreeable experience of eating. These qualities fit sattva’s association with clarity and well-being in Chapter 14. The verse offers a broad description of preferred food within the text’s account of life and discipline. It does not provide a list of named ingredients; its emphasis falls on the qualities of food and the kind of satisfaction around which preference is organised.
+
+## 17.9
+
+### Meaning
+
+Foods that are excessively bitter, sour, salty, hot, pungent, dry and burning are preferred by those of rajasic disposition; they bring pain, distress and illness.
+
+### Explanation
+
+The description gathers forceful sensations together with their painful consequences. It corresponds to rajas as a restless pursuit of stimulation and satisfaction. Read beside the preceding verse, it contrasts nourishment and steadiness with an attraction that can become excessive and troubling. These are the chapter’s traditional associations between food and disposition. The emphasis falls on a pattern of preference and its consequences, continuing the analysis of desire and restlessness in the account of the qualities.
+
+## 17.10
+
+### Meaning
+
+Food that has stood too long, lost its taste, become putrid or stale, along with another’s leftovers and ritually impure food, is dear to those of tamasic disposition.
+
+### Explanation
+
+The final food description combines deterioration with categories belonging to ritual practice. Staleness and putrefaction suggest neglect, while leftovers and ritual impurity carry meanings within the text’s social and religious setting. Keeping those categories distinct makes the wording clearer: ritual unsuitability is not simply another name for spoilage. The verse connects this pattern of preference with tamas, whose obscuring and neglectful effects were described earlier.
+
+## 17.11
+
+### Meaning
+
+A sacrifice offered according to the prescribed rule, by those who expect no reward and settle their minds on the thought “this sacrifice ought to be offered,” is sattvic.
+
+### Explanation
+
+Three features work together: proper observance, freedom from bargaining for a reward, and a settled recognition of what ought to be done. The sacrifice retains its religious form and obligation, while its motive is released from personal acquisition. This applies the Gita’s earlier account of action without attachment to a particular ritual setting. The quality of the act depends upon its disciplined performance and the intention sustaining it.
+
+## 17.12
+
+### Meaning
+
+But a sacrifice offered with its reward in view, or for the sake of display, is rajasic. Know this, best of the Bharatas.
+
+### Explanation
+
+The outward act may still resemble the sacrifice just described. What changes is its centre of concern: the performer seeks a return or an impressive public identity. This illustrates why the chapter examines the qualities of practice rather than merely sorting activities by name. Desire for results and concern with appearing important bring sacrifice into the movement of rajas, renewing the attachment that disciplined offering is intended to loosen.
+
+## 17.13
+
+### Meaning
+
+A sacrifice lacking the prescribed procedure, distribution of food, mantras, gifts to its officiants and faith is called tamasic.
+
+### Explanation
+
+The list presents sacrifice as an organised practice with verbal, material, social and inward dimensions. Food is shared, mantras are spoken, officiants receive their due and faith gives the performance its orientation. Their absence produces an impoverished and neglectful act. The verse’s evaluation belongs to that ritual framework, making clear that the chapter’s emphasis on intention continues alongside attention to the responsibilities and forms involved in performance.
+
+## 17.14
+
+### Meaning
+
+Honouring gods, the twice-born, teachers and the wise; purity, straightforwardness, brahmacharya and non-injury—these are called austerity of the body.
+
+### Explanation
+
+Bodily austerity is described through conduct and restraint after the rejection of bodily torment. “Twice-born” names the traditional social and religious category associated with initiation into Vedic life; the term belongs to that setting. *Brahmacharya* includes disciplined sexual continence and conduct appropriate to sacred learning. Honour, cleanliness, integrity and non-injury together show a body trained for respectful and restrained action, giving discipline a form that extends beyond endurance of hardship.
+
+## 17.15
+
+### Meaning
+
+Speech that does not cause agitation, that is truthful, pleasing and beneficial, together with regular recitation and study of sacred texts, is called austerity of speech.
+
+### Explanation
+
+Several requirements qualify speech at once. Truthfulness is joined with benefit and a considerate manner, so the speaker must attend to both the content and the effect of words. Regular sacred recitation also belongs to this verbal discipline, placing speech within the cultivation of understanding. The verse treats speaking as an activity that requires practice and restraint, continuous with the bodily discipline described before it.
+
+## 17.16
+
+### Meaning
+
+Serenity of mind, gentleness, silence, self-restraint and purity of intention—these are called austerity of the mind.
+
+### Explanation
+
+The mental list completes the three domains of discipline. Silence appears among inward qualities, pointing toward a composed and restrained mind alongside outward quiet. Purity of intention draws attention to what animates apparently correct conduct. Taken with the bodily and verbal lists, this verse shows why severe external effort is an incomplete measure of austerity: disciplined practice also involves the quality of attention, motive and response within the person.
+
+## 17.17
+
+### Meaning
+
+This threefold austerity, practised with deep faith by disciplined people who do not seek its rewards, is called sattvic.
+
+### Explanation
+
+The threefold discipline refers to body, speech and mind in the preceding verses. Its sattvic quality comes from the way those practices are undertaken: faith sustains them, discipline steadies them and expectation of personal reward is relinquished. The structure matches the earlier account of sattvic sacrifice. It also answers Arjuna’s question by showing faith working together with the content and motive of a practice.
+
+## 17.18
+
+### Meaning
+
+Austerity practised for recognition, honour and reverence, and with pretence, is declared here to be rajasic: it is unstable and impermanent.
+
+### Explanation
+
+The performer’s attention turns toward the audience and the position that austerity can secure. Recognition becomes its hoped-for reward, leaving the discipline dependent upon responses that can change. The verse calls such practice unstable and impermanent because its orientation lacks the steadiness described in the previous verse. This develops the chapter’s opening criticism of pretence, now within the detailed threefold analysis of religious discipline.
+
+## 17.19
+
+### Meaning
+
+Austerity undertaken with deluded obstinacy, through tormenting oneself or with the aim of destroying another, is called tamasic.
+
+### Explanation
+
+The lowest form of austerity is governed by a confused fixation that directs effort toward injury. The verse includes both torment inflicted on oneself and a hostile purpose directed at another. It recalls the dreadful practices rejected at the chapter’s beginning and places them under tamas. The intensity of determination therefore requires examination: determination becomes destructive when its object and understanding are obscured.
+
+## 17.20
+
+### Meaning
+
+A gift given with the thought “it ought to be given,” to someone from whom no return is expected, at the proper place and time and to a worthy recipient, is regarded as sattvic.
+
+### Explanation
+
+The gift is considered through motive, circumstance and recipient. The giver recognises an obligation to give without constructing an exchange in which the recipient must repay. Proper place, time and fitness call for discernment about the act’s setting and purpose. This continues the pattern of sattvic sacrifice and austerity: careful action retains its responsibilities while relinquishing the demand for personal reward.
+
+## 17.21
+
+### Meaning
+
+But a gift given for the sake of repayment, with a reward in view, or grudgingly, is regarded as rajasic.
+
+### Explanation
+
+The return sought may come from the recipient or from the result the giver expects the act to produce. Giving can also retain an inward resistance, described here as grudging effort. These conditions make the gift part of a continuing calculation around the giver’s interests. The contrast with the preceding verse concerns the relation established through giving, as well as the material object that changes hands.
+
+## 17.22
+
+### Meaning
+
+A gift given at an improper place and time, to unsuitable recipients, without respect and with contempt, is declared to be tamasic.
+
+### Explanation
+
+The final description joins poor discernment with a degrading manner. The giver disregards the suitability of the occasion and recipient, then compounds this neglect through disrespect. This makes the recipient’s treatment part of the moral quality of giving. Together, the three gift verses show why the chapter considers an action’s purpose, circumstances and manner: transferring something of value alone does not settle the quality of the act.
+
+## 17.23
+
+### Meaning
+
+Om Tat Sat is remembered as the threefold designation of Brahman. By it, the brahmins, the Vedas and sacrifices were established in ancient times.
+
+### Explanation
+
+The chapter now places sacrifice, austerity and giving within a sacred account of their foundation. Om Tat Sat is introduced as a threefold designation, and the following verses unfold the role of each expression. The reference to ancient establishment links these sounds with the Vedic order of practitioners, scripture and sacrifice. They provide a way of orienting the practices just examined toward their sacred ground. [3]
+
+## 17.24
+
+### Meaning
+
+Therefore, the prescribed activities of sacrifice, giving and austerity among those who speak of Brahman always begin with the utterance “Om.”
+
+### Explanation
+
+The first expression is connected with the beginning of prescribed practice. Its utterance places the act within an acknowledged sacred orientation, recalling the threefold designation introduced in the preceding verse. The sequence still concerns sacrifice, giving and austerity, so the sound is attached to concrete activities with their own requirements. It forms part of their religious performance and the practitioner’s recognition of what the act serves.
+
+## 17.25
+
+### Meaning
+
+With the utterance “Tat,” and without aiming at a reward, those who seek liberation perform sacrifices, austerities and gifts of various kinds.
+
+### Explanation
+
+“Tat” means “That,” directing practice toward the sacred reality designated beyond the performer’s private claims. The verse explicitly connects this orientation with seekers of liberation and the relinquishment of expected reward. Its teaching therefore gathers the chapter’s repeated accounts of unattached sacrifice, discipline and giving into a single religious expression. The act continues, while the demand that it produce a personal return is set aside.
+
+## 17.26
+
+### Meaning
+
+“Sat” is used in the sense of being and goodness. The word “Sat” is also applied to a commendable action, Partha.
+
+### Explanation
+
+The third expression carries related senses of reality, goodness and an action worthy of approval. The verse draws these meanings together before applying the term to steadfast practice in the next verse. Its account is therefore both metaphysical and ethical: the sacred designation connects with what is real and with the good quality of conduct. This prepares the closing distinction between an action grounded in faith and an act called asat.
+
+## 17.27
+
+### Meaning
+
+Steadfastness in sacrifice, austerity and giving is also called “Sat,” and action undertaken for that purpose is likewise named “Sat.”
+
+### Explanation
+
+The term is extended to constancy in the three recurring practices and to acts directed toward their purpose. Steadfastness matters because a valuable intention must persist through actual performance. Within the chapter’s structure, Sat gathers reality and goodness into continuing religious work. The verse also returns attention from sacred words to the activity they orient, preparing the final warning about practices performed without faith.
+
+## 17.28
+
+### Meaning
+
+Whatever is offered, given, practised as austerity or otherwise done without faith is called “asat,” Partha. It has no worth hereafter or here.
+
+### Explanation
+
+The chapter ends by returning to the faith with which Arjuna’s question began. Its absence deprives even recognisable religious acts of the value claimed for them, both in this life and after death. This conclusion belongs alongside the preceding distinctions: faith has a quality and direction, and worthy practice also involves appropriate action and intention. The final verse keeps outward performance connected with the inward commitment through which the act receives its meaning.
+
+## Sources
+
+1. **Bhagavad Gita, Chapter 17, Sanskrit source.** The displayed Devanagari and its generated IAST follow the classical Sanskrit transcription in the `gita/gita` collection, pinned to revision `c6fce39595445768876ddbb8d1268a9c935e1d2b`, with the local transcription corrections recorded by this reader. Modern upstream translations and commentary are not imported. [Pinned Sanskrit source](https://github.com/gita/gita/blob/c6fce39595445768876ddbb8d1268a9c935e1d2b/data/verse.json); [Unlicense](https://github.com/gita/gita/blob/c6fce39595445768876ddbb8d1268a9c935e1d2b/LICENSE).
+
+2. **Kashinath Trimbak Telang, *The Bhagavadgîtâ*, Sacred Books of the East, volume VIII (1882), Chapter XVII.** Public-domain comparison for the chapter’s sequence and terminology. The meanings and explanations here are original writing based on the displayed Sanskrit, rather than a reproduction of Telang’s translation. [Chapter XVII](https://sacred-texts.com/book/the-bhagavadgita/chapter-xvii).
+
+3. **Classical Sanskrit commentaries on 17.23.** The opening Om, the threefold designation and its relation to the Vedic practices are checked against the Sanskrit verse and the commentarial discussion. [Bhagavadgita.eu, 17.23](https://www.bhagavadgita.eu/en/?p=5307).

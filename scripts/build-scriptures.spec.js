@@ -25,6 +25,17 @@ describe('Scripture text and commentary release',()=>{
   for(const chapter of book.chapters)for(const verse of chapter.verses)expect(verse.transliteration).toBe(toIAST(verse.sanskrit));
   expect(book.chapters[0].verses[20].sanskrit.indexOf('अर्जुन उवाच')).toBeGreaterThan(book.chapters[0].verses[20].sanskrit.indexOf('हृषीकेशं'));
  });
+ it('retains the Sanskrit words restored during the complete chapter review',()=>{
+  const chapters=readBooks(repo)[0].chapters;
+  const verse=(chapter,number)=>chapters[chapter-1].verses[number-1];
+  expect(verse(4,29).sanskrit).toContain('प्राणं प्राणे');
+  expect(verse(15,4).sanskrit).toContain('परिमार्गितव्यं');
+  expect(verse(16,20).sanskrit.startsWith('आसुरीं')).toBeTruthy();
+  expect(verse(17,23).sanskrit.startsWith('ॐ तत्सदिति')).toBeTruthy();
+  expect(verse(17,23).transliteration.startsWith('oṃ tatsaditi')).toBeTruthy();
+  expect(verse(17,25).sanskrit).toContain('मोक्षकाङ्क्षिभिः');
+  expect(verse(2,29).transliteration).toContain('śṛṇoti');
+ });
  it('rejects reordered or missing verse explanations and stale Sanskrit metadata',()=>{
   const{source,chapter}=fixture();assert.throws(()=>compileCommentary({...source,content:source.content.replace('## 1.1','## 1.2')},chapter));
   assert.throws(()=>compileCommentary({...source,content:source.content.replace('### Explanation','### Extra\n\nExtra.\n\n### Explanation')},chapter));

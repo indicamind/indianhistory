@@ -1,36 +1,62 @@
-# Gita reader and Chapter 1 review
+# Complete Gita English review
 
-[Review Chapter 1](http://localhost:4201/scriptures/bhagavad-gita/1?dev=true&lang=en) · [Library](http://localhost:4201/scriptures?lang=en).
+[Begin Chapter 1](http://localhost:4201/scriptures/bhagavad-gita/1?dev=true&lang=en) · [Chapter 2](http://localhost:4201/scriptures/bhagavad-gita/2?dev=true&lang=en) · [Chapter 18](http://localhost:4201/scriptures/bhagavad-gita/18?dev=true&lang=en) · [Library](http://localhost:4201/scriptures?lang=en).
 
-The user selected original explanations with interpretive context and one chapter for style approval before expansion. All 47 verses in Chapter 1 have an original English meaning and a detailed explanation, about 5,750 words including introductory and source notes. The manuscript is `content/drafts/articles/bhagavad-gita-chapter-01.md`.
+All 18 chapters now have original English meanings and explanations for all 701 verses, approximately 73,212 whitespace-separated words including introductions and source notes. The manuscripts are `content/drafts/articles/bhagavad-gita-chapter-01.md` through `bhagavad-gita-chapter-18.md`. After the initial Chapter 1 review, the user explicitly chose completing English Chapters 2–18 before translations, using parallel drafting followed by consistency review.
 
-The reader separately contains the complete source in Devanagari and directly generated IAST across all 18 chapters. The chosen source numbers Arjuna’s opening question in Chapter 13, giving 701 verses. Its edition, pinned upstream revision, licence and local transcription corrections are recorded in `content/scriptures/` and the final Sources. No modern translation or commentary was imported from the upstream dataset.
+| Review chapter | Verses | Words, including notes |
+| --- | ---: | ---: |
+| [Chapter 1](http://localhost:4201/scriptures/bhagavad-gita/1?dev=true&lang=en) | 47 | 5,747 |
+| [Chapter 2](http://localhost:4201/scriptures/bhagavad-gita/2?dev=true&lang=en) | 72 | 7,605 |
+| [Chapter 3](http://localhost:4201/scriptures/bhagavad-gita/3?dev=true&lang=en) | 43 | 4,041 |
+| [Chapter 4](http://localhost:4201/scriptures/bhagavad-gita/4?dev=true&lang=en) | 42 | 4,099 |
+| [Chapter 5](http://localhost:4201/scriptures/bhagavad-gita/5?dev=true&lang=en) | 29 | 2,866 |
+| [Chapter 6](http://localhost:4201/scriptures/bhagavad-gita/6?dev=true&lang=en) | 47 | 4,584 |
+| [Chapter 7](http://localhost:4201/scriptures/bhagavad-gita/7?dev=true&lang=en) | 30 | 3,088 |
+| [Chapter 8](http://localhost:4201/scriptures/bhagavad-gita/8?dev=true&lang=en) | 28 | 2,934 |
+| [Chapter 9](http://localhost:4201/scriptures/bhagavad-gita/9?dev=true&lang=en) | 34 | 3,573 |
+| [Chapter 10](http://localhost:4201/scriptures/bhagavad-gita/10?dev=true&lang=en) | 42 | 4,271 |
+| [Chapter 11](http://localhost:4201/scriptures/bhagavad-gita/11?dev=true&lang=en) | 55 | 5,907 |
+| [Chapter 12](http://localhost:4201/scriptures/bhagavad-gita/12?dev=true&lang=en) | 20 | 2,305 |
+| [Chapter 13](http://localhost:4201/scriptures/bhagavad-gita/13?dev=true&lang=en) | 35 | 3,654 |
+| [Chapter 14](http://localhost:4201/scriptures/bhagavad-gita/14?dev=true&lang=en) | 27 | 2,840 |
+| [Chapter 15](http://localhost:4201/scriptures/bhagavad-gita/15?dev=true&lang=en) | 20 | 2,339 |
+| [Chapter 16](http://localhost:4201/scriptures/bhagavad-gita/16?dev=true&lang=en) | 24 | 2,558 |
+| [Chapter 17](http://localhost:4201/scriptures/bhagavad-gita/17?dev=true&lang=en) | 28 | 2,920 |
+| [Chapter 18](http://localhost:4201/scriptures/bhagavad-gita/18?dev=true&lang=en) | 78 | 7,881 |
+| **Total** | **701** | **73,212** |
 
-## Commentary choices
+## Reading and review
 
-The chapter is read as a dialogue: Dhritarashtra’s question, Sanjaya’s narration, Arjuna’s speech and Krishna’s initial responses remain distinct. The explanation considers particular words, family relationships, the movement from military survey to moral crisis, and the questions raised by the narrative. It does not claim to follow a single traditional commentary.
+Each card presents Meaning, Explanation, Devanagari Sanskrit and IAST, in that order. The side arrows, keyboard Left/Right and touch swipes move between verses, continue across chapter boundaries and wrap around the book. The reader remembers chapter and verse on reload. The chapter selector and direct verse grid support longer jumps; reader search and the shared site search link to exact verses. Search covers source scripts, IAST without diacritics, verse references and available commentary. Filtered matches loop within their chapter.
 
-Verse 1.10 identifies the difference between reading *aparyāptam* as insufficient or unlimited and cites Shridhara and Baladeva’s Sanskrit commentaries. The speaker transitions in 1.21 and 1.28 follow the narrative’s actual transition into Arjuna’s words. References to parental generations in 1.26 do not place Pandu on the field. The discussion of 1.40–1.44 explains family ritual, inherited social rank and Arjuna’s statements about women and varna without removing those statements or turning them into present-day instructions.
+The selected Sanskrit source numbers Arjuna’s opening question as 13.1, giving Chapter 13 thirty-five verses and the work 701. Comparisons with editions that omit that numbered question must account for this offset. Devanagari and IAST are generated from the same text. The upstream revision, Unlicense and all local transcription corrections are recorded in `content/scriptures/`. No modern upstream translation or commentary is imported.
 
-Meaning and Explanation are separate sections for every verse. Sanskrit and IAST remain visible and retain left-to-right direction in right-to-left editions. Every chapter has a stable route, and verses have individual fragment links. The chapter selector, verse jump and previous/next chapter links support continuous reading. The reader does not insert unrelated book advertisements into its text column.
+## Explanation choices and cross-review
 
-## Approval and localization
+The prose follows the dialogue, the wording of individual verses and the larger argument. Meanings and explanations are original writing, with public-domain Telang and original Sanskrit commentaries used for comparison. External references appear only in each chapter’s final Sources. Difficult terms retain their philosophical, devotional and historical context rather than being silently recast as modern advice.
 
-The English commentary is visible only in English web dev mode. Public views and all translated views show the original text and an explicitly localized preparation note. The offline package excludes all unapproved commentary files. Approval of this draft is needed before it is translated or published, and before this style is expanded into the remaining chapter explanations.
+Named differences among traditional readings are identified where material: divine manifestation at 4.6; equal vision at 6.29; the self and unmanifest at 12.3; knowledge and relinquishment at 12.12; self and field in Chapter 13; Brahman at 14.27; the self at 15.7; the five causes and non-agency at 18.14–20; and surrender at 18.66. The explanations preserve the text’s statements on varna, gender, warfare and religious hierarchy while locating them in the argument. These are not presented as a single traditional commentary.
 
-All 30 new interface/catalogue strings are directly authored in all 33 translation editions. The existing approved article, blog and personality content remains unchanged. Sanskrit and IAST are source text, not English fallback. Fully translated commentary is not yet released.
+Parallel drafting covered Chapters 3–6, 7–11 and 13–17; the coordinating author wrote Chapters 2, 12 and 18. Independent cross-reviews checked the remaining batches, including all Meaning passages in Chapters 3–11 and 13–17 and the important agency, duty and surrender passages in Chapter 18. Refinements include the cycle-of-four-ages sense of yuga at 8.17, the distinction among traditional readings at 12.12, and explicit philosophical readings of agency at 18.17. Compiler and manuscript audits verify current Sanskrit hashes, exactly one ordered meaning/explanation pair per verse, final Sources placement and distinct explanation text throughout.
 
-## Membership audit
+## Approval and translations
 
-Existing English article/blog sources and their translated memberships were reviewed. No published standalone article or blog provides a direct Bhagavad Gita membership. Gandhi’s unapproved expanded personality draft discusses discovering the Gita; Kumbha’s Gita Govinda is a different work, and the Ashoka narrative’s Mundaka Upanishad reference is not a Gita association. No unrelated article was assigned to the reader. Existing memberships and ancestor navigation are preserved; the library and on-site Gita reader are discoverable through the main navigation, home section and localized site search.
+The English manuscripts remain unapproved drafts. They are available only in English web dev mode. Public, localized and offline readers retain the complete Sanskrit and IAST, with localized preparation notices; the offline package excludes all draft prose. The 583 required interface/history strings are already authored in all 33 translation editions. This does not constitute translated commentary.
+
+After explicit English approval, move approved chapter sources into `content/articles/` and author complete translations in all 33 language editions. Preserve the identifiers, Sanskrit-source hash, citations and source URLs, and set each translation’s English source hash. A chapter’s commentary is publicly released only after the complete all-language gate passes. The approval workflow is documented in [AGENTS.md](../../AGENTS.md) and the [source notes](../scriptures/README.md).
+
+## Memberships
+
+These inline chapter manuscripts are excluded from ordinary article lists and article navigation memberships. No existing article or blog was reassigned. Existing memberships and ancestor navigation remain intact; the library and verse reader are discoverable through main navigation, the home section and localized site search.
 
 ## Validation
 
-- 267 unit tests pass, including the original suite plus source/transliteration checks, chapter-only fetching, English draft isolation, all-language publication gates, stale-translation withdrawal, language-specific routes, verse fragments and on-site search.
-- All 33 translation editions pass `npm run check-translations`, with 576 required interface/history strings.
-- Browser checks cover the 18-chapter index, all 47 meanings and explanations in Chapter 1, 78 verses in Chapter 18, source-to-IAST fidelity, chapter-only loading, verse jumping, missing chapter routes and native-language preparation notes. At 390px there is no horizontal overflow, including Hindi, Telugu and Arabic views.
-- Final production assets match the reviewed English manuscript, including its 47 complete meaning/explanation pairs. English review text is not exposed in normal or translated views.
-- The membership audit covered 64 existing English source documents and 2,112 translated documents; existing identifiers and generated memberships are unchanged.
-- `npm run build` produced the application and complete offline extension/ZIP, containing the 701 source verses and the existing 48 articles and 2 blogs in 34 editions. Non-fatal stylesheet budget warnings remain; the new reader stylesheet is 482 bytes above its 4 kB warning threshold.
-- Production browser checks confirm that the language picker preserves chapter 2 and verse 2.47 while changing to Telugu, in addition to the chapter/verse and responsive checks above.
-- The installed extension was checked in an isolated Chrome profile with networking disabled. English, Telugu and Arabic source chapters load, all unapproved commentary files are absent, sources have no outbound navigation, the reader makes zero HTTP(S) requests, the toolbar opens the bundled reader, and Chrome retains its normal new-tab page.
+- All 289 unit tests pass, including a regression check for the Sanskrit words restored in this review.
+- All 33 translation editions pass `npm run check-translations`; the current interface gate remains 583 strings. No commentary translations were created.
+- The manuscript compiler and independent audit confirm all 701 ordered meaning/explanation pairs, current Sanskrit-source hashes and distinct explanation text throughout.
+- The full root `npm run build` succeeds and generates the complete web application and offline Chrome extension directory and ZIP. The extension retains 48 published articles and 2 blogs in 34 editions. Existing non-fatal bundle and stylesheet budget warnings remain.
+- Production Chrome checks compare every rendered Devanagari verse, IAST, meaning and explanation with the generated assets across all 18 English dev chapters. Normal English views show source text only across all 18 chapters.
+- Browser checks pass for cross-chapter and circular verse navigation, keyboard controls, the verse grid, reload progress, reader and global search linking to the new Chapter 18 prose, and exclusion of that prose from public search. English, Hindi, Telugu and Arabic readers fit a 390px viewport without horizontal overflow; localized views do not display English draft explanations.
+- All 34 generated article, blog and search editions retain the published counts and exclude inline scripture manuscripts. The live localhost:4201 review link serves the new Chapter 18 explanations.
+- The installed extension passes in an isolated Chrome profile with networking disabled. Corrected Sanskrit, localized reading and source search work; no draft prose or outbound source links are present. It makes zero HTTP(S) requests, the toolbar opens the bundled reader, and Chrome retains its normal new-tab page.

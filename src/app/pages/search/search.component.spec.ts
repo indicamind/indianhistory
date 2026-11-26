@@ -7,6 +7,7 @@ import { PeriodsService } from '../../services/periods.service';
 import { LocaleService } from '../../i18n/locale.service';
 import { DevModeService } from '../../services/dev-mode.service';
 import { SearchResult } from '../../models/article.model';
+import { ScriptureSearchService } from '../../services/scripture-search.service';
 
 describe('SearchComponent', () => {
   let component: SearchComponent;
@@ -56,6 +57,7 @@ describe('SearchComponent', () => {
       providers: [
         { provide: ArticleService, useValue: mockArticles },
         { provide: PeriodsService, useValue: mockPeriods },
+        { provide: ScriptureSearchService, useValue: {search:async()=>[],result:(hit:unknown)=>hit} },
         { provide: LocaleService, useValue: mockLocale },
         { provide: DevModeService, useValue: { isDevMode } },
         { provide: ActivatedRoute, useValue: mockRoute },
@@ -103,6 +105,29 @@ describe('SearchComponent', () => {
     expect(component.filteredResults().length).toBe(1);
     isDevMode.set(false);
     expect(component.filteredResults().length).toBe(0);
+  });
+  it('hides review-only verse search results immediately when dev mode is switched off',()=>{
+    component.results.set([{kind:'scripture',slug:'bhagavad-gita/1.1',title:'Verse 1.1',excerpt:'English review',kindLabel:'Scripture',draft:true,fragment:'verse-1-1'}]);
+    isDevMode.set(true);expect(component.filteredResults().length).toBe(1);
+    isDevMode.set(false);expect(component.filteredResults().length).toBe(0);
+  });
+  it('merges exact verse destinations into the scripture filter',async()=>{
+    const scriptures=(component as any).scriptures;
+    scriptures.search=async()=>[{id:'2.47'}];
+    scriptures.result=()=>({kind:'scripture',slug:'bhagavad-gita/2.47',title:'Gita 2.47',excerpt:'karma',kindLabel:'Scripture',routerLink:['/scriptures','bhagavad-gita',2],fragment:'verse-2-47'});
+    component.onQueryInput('karma');component.submit();
+    await new Promise(resolve=>setTimeout(resolve,0));
+    component.activeFilter.set('scripture');
+    expect(component.filteredResults()[0].fragment).toBe('verse-2-47');
+    expect(component.searching()).toBeFalsy();
+  });
+  it('keeps history results available when scripture search cannot load',async()=>{
+    (component as any).scriptures.search=async()=>{throw new Error('Unavailable scripture asset');};
+    (component as any).periods.searchAll=async()=>[{kind:'article',slug:'history',title:'History',excerpt:'',kindLabel:'Article'}];
+    component.onQueryInput('history');component.submit();
+    await new Promise(resolve=>setTimeout(resolve,0));
+    expect(component.scriptureSearchFailed()).toBeTruthy();
+    expect(component.filteredResults()[0].slug).toBe('history');
   });
 
   it('should match results correctly with active filters', () => {

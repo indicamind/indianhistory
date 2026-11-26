@@ -636,5 +636,9 @@
   "Previous verse": "ಹಿಂದಿನ ಶ್ಲೋಕ",
   "Next verse": "ಮುಂದಿನ ಶ್ಲೋಕ",
   "Verse {number} of {count}": "ಒಟ್ಟು {count}ರಲ್ಲಿ {number}ನೇ ಶ್ಲೋಕ",
-  "Swipe left or right to change verse": "ಶ್ಲೋಕ ಬದಲಿಸಲು ಎಡಕ್ಕೆ ಅಥವಾ ಬಲಕ್ಕೆ ಸ್ವೈಪ್ ಮಾಡಿ"
+  "Swipe left or right to change verse": "ಶ್ಲೋಕ ಬದಲಿಸಲು ಎಡಕ್ಕೆ ಅಥವಾ ಬಲಕ್ಕೆ ಸ್ವೈಪ್ ಮಾಡಿ",
+  "Search this scripture": "ಈ ಗ್ರಂಥದಲ್ಲಿ ಹುಡುಕಿ",
+  "Words, names or verse number": "ಪದಗಳು, ಹೆಸರುಗಳು ಅಥವಾ ಶ್ಲೋಕ ಸಂಖ್ಯೆ",
+  "No matching verses in this chapter.": "ಈ ಅಧ್ಯಾಯದಲ್ಲಿ ಹೊಂದಿಕೆಯಾಗುವ ಶ್ಲೋಕಗಳಿಲ್ಲ.",
+  "Scripture search could not be loaded. Please try again.": "ಗ್ರಂಥದ ಹುಡುಕಾಟವನ್ನು ಲೋಡ್ ಮಾಡಲು ಸಾಧ್ಯವಾಗಲಿಲ್ಲ. ದಯವಿಟ್ಟು ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಿ."
 }

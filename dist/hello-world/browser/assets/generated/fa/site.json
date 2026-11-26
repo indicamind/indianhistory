@@ -644,5 +644,9 @@
   "Previous verse": "بیت قبلی",
   "Next verse": "بیت بعدی",
   "Verse {number} of {count}": "بیت {number} از {count}",
-  "Swipe left or right to change verse": "برای رفتن به بیت دیگر، به چپ یا راست بکشید"
+  "Swipe left or right to change verse": "برای رفتن به بیت دیگر، به چپ یا راست بکشید",
+  "Search this scripture": "جست‌وجو در این متن",
+  "Words, names or verse number": "واژه، نام یا شمارهٔ بند",
+  "No matching verses in this chapter.": "در این فصل بندی مطابق جست‌وجو نیست.",
+  "Scripture search could not be loaded. Please try again.": "جست‌وجوی متن بارگیری نشد. لطفاً دوباره تلاش کنید."
 }

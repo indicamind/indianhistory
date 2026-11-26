@@ -9,6 +9,7 @@ import { ArticleService } from '../../services/article.service';
 import { PeriodsService } from '../../services/periods.service';
 import { LocaleService } from '../../i18n/locale.service';
 import { DevModeService } from '../../services/dev-mode.service';
+import { ScriptureSearchService } from '../../services/scripture-search.service';
 
 const SEARCH_DEBOUNCE_MS = 300;
 
@@ -41,6 +42,7 @@ const FILTER_OPTIONS: SearchFilterOption[] = [
 export class SearchComponent implements OnInit {
   private readonly articles = inject(ArticleService);
   private readonly periods = inject(PeriodsService);
+  private readonly scriptures = inject(ScriptureSearchService);
   readonly locale = inject(LocaleService);
   readonly devMode = inject(DevModeService);
   private readonly route = inject(ActivatedRoute);
@@ -58,10 +60,14 @@ export class SearchComponent implements OnInit {
   readonly activeFilter = signal<SearchFilter>('all');
   readonly results = signal<SearchResult[]>([]);
   readonly filteredResults = computed(() => this.results().filter(result =>
-    (this.devMode.isDevMode() || result.kind !== 'book' || !result.affiliatePending) && this.matchesFilter(result)
+    (this.devMode.isDevMode() || result.kind !== 'book' || !result.affiliatePending)
+    && (!result.draft || (this.devMode.isDevMode() && this.locale.language==='en' && !this.locale.offline)) && this.matchesFilter(result)
   ));
   readonly loading = signal(true);
   readonly searched = signal(false);
+  readonly searching=signal(false);
+  readonly scriptureSearchFailed=signal(false);
+  private searchVersion=0;
 
   async ngOnInit(): Promise<void> {
     const initialQueryFromUrl = this.route.snapshot.queryParamMap.get('q') ?? '';
@@ -122,10 +128,16 @@ export class SearchComponent implements OnInit {
   private applySearch(): void {
     this.searched.set(this.query.trim().length > 0);
     const currentQuery = this.query;
-    // Unified search across articles, periods, empires and regional kingdoms
-    void this.periods.searchAll(currentQuery).then((res) => {
-      if (this.query === currentQuery) {
-        this.results.set(res);
+    const version=++this.searchVersion;
+    this.searching.set(!!currentQuery.trim());this.scriptureSearchFailed.set(false);
+    const verses=this.scriptures.search(currentQuery).catch(()=>{
+      if(version===this.searchVersion)this.scriptureSearchFailed.set(true);
+      return [];
+    });
+    void Promise.all([this.periods.searchAll(currentQuery),verses]).then(([res,hits]) => {
+      if (this.query === currentQuery && version===this.searchVersion) {
+        this.results.set([...res,...hits.map(hit=>this.scriptures.result(hit))]);
+        this.searching.set(false);
       }
     });
   }

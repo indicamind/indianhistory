@@ -583,5 +583,9 @@
   "Previous verse": "Nakaraang taludtod",
   "Next verse": "Susunod na taludtod",
   "Verse {number} of {count}": "Taludtod {number} sa {count}",
-  "Swipe left or right to change verse": "Mag-swipe pakaliwa o pakanan upang lumipat ng taludtod"
+  "Swipe left or right to change verse": "Mag-swipe pakaliwa o pakanan upang lumipat ng taludtod",
+  "Search this scripture": "Maghanap sa tekstong ito",
+  "Words, names or verse number": "Mga salita, pangalan o numero ng taludtod",
+  "No matching verses in this chapter.": "Walang katugmang taludtod sa kabanatang ito.",
+  "Scripture search could not be loaded. Please try again.": "Hindi ma-load ang paghahanap sa teksto. Pakisubukan muli."
 }

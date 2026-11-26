@@ -583,5 +583,9 @@
   "Previous verse": "Önceki dize",
   "Next verse": "Sonraki dize",
   "Verse {number} of {count}": "{count} dizeden {number}. dize",
-  "Swipe left or right to change verse": "Dize değiştirmek için sola veya sağa kaydırın"
+  "Swipe left or right to change verse": "Dize değiştirmek için sola veya sağa kaydırın",
+  "Search this scripture": "Bu metinde ara",
+  "Words, names or verse number": "Sözcük, ad veya dize numarası",
+  "No matching verses in this chapter.": "Bu bölümde eşleşen dize yok.",
+  "Scripture search could not be loaded. Please try again.": "Metin araması yüklenemedi. Lütfen yeniden deneyin."
 }

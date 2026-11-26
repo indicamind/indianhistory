@@ -636,5 +636,9 @@
   "Previous verse": "முந்தைய சுலோகம்",
   "Next verse": "அடுத்த சுலோகம்",
   "Verse {number} of {count}": "{count} சுலோகங்களில் {number}வது",
-  "Swipe left or right to change verse": "சுலோகத்தை மாற்ற இடது அல்லது வலது பக்கம் ஸ்வைப் செய்யவும்"
+  "Swipe left or right to change verse": "சுலோகத்தை மாற்ற இடது அல்லது வலது பக்கம் ஸ்வைப் செய்யவும்",
+  "Search this scripture": "இந்த நூலில் தேடவும்",
+  "Words, names or verse number": "சொற்கள், பெயர்கள் அல்லது சுலோக எண்",
+  "No matching verses in this chapter.": "இந்த அத்தியாயத்தில் பொருந்தும் சுலோகங்கள் இல்லை.",
+  "Scripture search could not be loaded. Please try again.": "நூலின் தேடலை ஏற்ற முடியவில்லை. மீண்டும் முயற்சிக்கவும்."
 }

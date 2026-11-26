@@ -1,0 +1,11 @@
+<section class="scripture-search" [attr.aria-label]="locale.translate('Search this scripture')">
+  <label for="scripture-query">{{ locale.translate('Search this scripture') }}</label>
+  <div class="query-row"><input id="scripture-query" type="search" autocomplete="off" [value]="query()" (input)="updateQuery($any($event.target).value)" [placeholder]="locale.translate('Words, names or verse number')" />@if (query()) {<button type="button" (click)="clear()">{{ locale.translate('Clear search') }}</button>}</div>
+  @if (query().trim()) {
+    <div class="search-status" role="status">@if (busy()) {{{ locale.translate('Loading index…') }}} @else if (failed()) {{{ locale.translate('Scripture search could not be loaded. Please try again.') }}} @else {{{ locale.format('{count} results',{count:results().length}) }}}</div>
+    @if (!busy()&&!failed()) {
+      @if (!results().length) {<p>{{ locale.format('No results for “{query}”.',{query:query().trim()}) }}</p>}
+      @else {<ol class="verse-results">@for (hit of results().slice(0,limit()); track hit.book+hit.id) {<li><a [routerLink]="['/scriptures',hit.book,hit.chapter]" [fragment]="'verse-'+hit.chapter+'-'+hit.verse" [queryParams]="{lang:locale.language}" queryParamsHandling="merge" (click)="choose($event,hit)"><strong>{{ locale.translate('Verse') }} <bdi>{{ hit.id }}</bdi></strong><span class="notranslate" translate="no" [attr.lang]="hit.language" [attr.dir]="hit.language.startsWith('sa')?'ltr':null">{{ hit.excerpt }}</span></a></li>}</ol>@if (results().length>limit()) {<button class="show-all" type="button" (click)="limit.set(results().length)">{{ locale.translate('Show all') }}</button>}}
+    }
+  }
+</section>

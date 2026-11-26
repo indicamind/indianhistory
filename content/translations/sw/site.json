@@ -583,5 +583,9 @@
   "Previous verse": "Ubeti uliotangulia",
   "Next verse": "Ubeti unaofuata",
   "Verse {number} of {count}": "Ubeti wa {number} kati ya {count}",
-  "Swipe left or right to change verse": "Telezesha kushoto au kulia ili kubadili ubeti"
+  "Swipe left or right to change verse": "Telezesha kushoto au kulia ili kubadili ubeti",
+  "Search this scripture": "Tafuta katika maandiko haya",
+  "Words, names or verse number": "Maneno, majina au namba ya ubeti",
+  "No matching verses in this chapter.": "Hakuna beti zinazolingana katika sura hii.",
+  "Scripture search could not be loaded. Please try again.": "Utafutaji wa maandiko haukuweza kupakiwa. Tafadhali jaribu tena."
 }

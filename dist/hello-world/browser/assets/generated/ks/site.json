@@ -636,5 +636,9 @@
   "Previous verse": "پٔتِم شلوک",
   "Next verse": "بیاکھ شلوک",
   "Verse {number} of {count}": "کُل {count} مَنٛز شلوک {number}",
-  "Swipe left or right to change verse": "شلوک بدلاونہٕ خٲطرٕ کھوورِ یا دَچھنِ کُن سوایِپ کٔرِو"
+  "Swipe left or right to change verse": "شلوک بدلاونہٕ خٲطرٕ کھوورِ یا دَچھنِ کُن سوایِپ کٔرِو",
+  "Search this scripture": "اَتھ گرنٛتھس مَنٛز ژھانٛڈِو",
+  "Words, names or verse number": "لَفظ، ناو یا شلوک نَمبر",
+  "No matching verses in this chapter.": "اَتھ بابس مَنٛز چھُ نہٕ کانٛہہ مِلان وول شلوک۔",
+  "Scripture search could not be loaded. Please try again.": "گرنٛتھُک ژھانٛڈ لوڈ گٔژھِ نہٕ۔ مہربٲنی کٔرِتھ کٔرِو دوبارٕ کوٗشِش۔"
 }

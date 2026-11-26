@@ -101,4 +101,18 @@ describe('Scripture verse navigation',()=>{
     component.loading.set(true);component.navigateByKeyboard(key());
     expect(navigations.length).toBe(0);
   });
+  it('steps through filtered verse matches and restores the whole chapter when a verse is selected',()=>{
+    const{component,navigations}=setup();
+    component.setMatches({query:'arjuna',hits:[{chapter:1,id:'1.1'},{chapter:1,id:'1.3'},{chapter:2,id:'2.47'}] as any});
+    expect(component.visibleVerses().map(verse=>verse.number)).toEqual([1,3]);
+    component.navigateAdjacent(1,1);expect(navigations[0].fragment).toBe('verse-1-3');
+    component.selectVerse(2);expect(navigations[1].fragment).toBe('verse-1-2');
+    expect(component.visibleVerses().length).toBe(3);
+  });
+  it('keeps a short final verse selected when the document cannot scroll it to the top',()=>{
+    const{component,doc,positions,frames}=setup();
+    Object.assign(doc.defaultView,{scrollY:1000,innerHeight:800});Object.assign(doc.documentElement,{scrollHeight:1800});
+    positions['verse-1-3']=500;component.trackReading();frames[0]();
+    expect(component.activeVerse()).toBe(3);
+  });
 });

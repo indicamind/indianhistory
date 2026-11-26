@@ -636,5 +636,9 @@
   "Previous verse": "الآية السابقة",
   "Next verse": "الآية التالية",
   "Verse {number} of {count}": "الآية {number} من {count}",
-  "Swipe left or right to change verse": "اسحب إلى اليسار أو اليمين للانتقال بين الآيات"
+  "Swipe left or right to change verse": "اسحب إلى اليسار أو اليمين للانتقال بين الآيات",
+  "Search this scripture": "البحث في هذا النص",
+  "Words, names or verse number": "كلمات أو أسماء أو رقم البيت",
+  "No matching verses in this chapter.": "لا توجد أبيات مطابقة في هذا الفصل.",
+  "Scripture search could not be loaded. Please try again.": "تعذّر تحميل البحث في النص. يُرجى المحاولة مجددًا."
 }

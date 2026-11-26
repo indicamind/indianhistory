@@ -636,5 +636,9 @@
   "Previous verse": "Предыдущий стих",
   "Next verse": "Следующий стих",
   "Verse {number} of {count}": "Стих {number} из {count}",
-  "Swipe left or right to change verse": "Проведите влево или вправо, чтобы перейти к другому стиху"
+  "Swipe left or right to change verse": "Проведите влево или вправо, чтобы перейти к другому стиху",
+  "Search this scripture": "Поиск в этом тексте",
+  "Words, names or verse number": "Слова, имена или номер стиха",
+  "No matching verses in this chapter.": "В этой главе нет подходящих стихов.",
+  "Scripture search could not be loaded. Please try again.": "Не удалось загрузить поиск по тексту. Попробуйте ещё раз."
 }

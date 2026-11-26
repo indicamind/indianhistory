@@ -636,5 +636,9 @@
   "Previous verse": "మునుపటి శ్లోకం",
   "Next verse": "తదుపరి శ్లోకం",
   "Verse {number} of {count}": "మొత్తం {count} శ్లోకాలలో {number}వ శ్లోకం",
-  "Swipe left or right to change verse": "శ్లోకాన్ని మార్చడానికి ఎడమ లేదా కుడి వైపు స్వైప్ చేయండి"
+  "Swipe left or right to change verse": "శ్లోకాన్ని మార్చడానికి ఎడమ లేదా కుడి వైపు స్వైప్ చేయండి",
+  "Search this scripture": "ఈ గ్రంథంలో వెతకండి",
+  "Words, names or verse number": "పదాలు, పేర్లు లేదా శ్లోక సంఖ్య",
+  "No matching verses in this chapter.": "ఈ అధ్యాయంలో సరిపోలే శ్లోకాలు లేవు.",
+  "Scripture search could not be loaded. Please try again.": "గ్రంథ శోధనను లోడ్ చేయలేకపోయాం. దయచేసి మళ్లీ ప్రయత్నించండి."
 }

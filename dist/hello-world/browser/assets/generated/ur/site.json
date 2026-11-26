@@ -636,5 +636,9 @@
   "Previous verse": "پچھلا شلوک",
   "Next verse": "اگلا شلوک",
   "Verse {number} of {count}": "کل {count} میں سے شلوک {number}",
-  "Swipe left or right to change verse": "شلوک بدلنے کے لیے بائیں یا دائیں سوائپ کریں"
+  "Swipe left or right to change verse": "شلوک بدلنے کے لیے بائیں یا دائیں سوائپ کریں",
+  "Search this scripture": "اس متن میں تلاش کریں",
+  "Words, names or verse number": "الفاظ، نام یا شلوک کا نمبر",
+  "No matching verses in this chapter.": "اس باب میں کوئی مماثل شلوک نہیں ہے۔",
+  "Scripture search could not be loaded. Please try again.": "متن کی تلاش لوڈ نہیں ہو سکی۔ براہ کرم دوبارہ کوشش کریں۔"
 }

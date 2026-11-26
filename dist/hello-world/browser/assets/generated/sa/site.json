@@ -638,5 +638,9 @@
   "Previous verse": "पूर्वः श्लोकः",
   "Next verse": "अग्रिमः श्लोकः",
   "Verse {number} of {count}": "कुलश्लोकाः {count} · श्लोकः {number}",
-  "Swipe left or right to change verse": "श्लोकान्तरं गन्तुं वामतः दक्षिणतो वा अङ्गुल्या सारयतु"
+  "Swipe left or right to change verse": "श्लोकान्तरं गन्तुं वामतः दक्षिणतो वा अङ्गुल्या सारयतु",
+  "Search this scripture": "अस्मिन् ग्रन्थे अन्विष्यतु",
+  "Words, names or verse number": "शब्दाः, नामानि अथवा श्लोकसङ्ख्या",
+  "No matching verses in this chapter.": "अस्मिन्नध्याये अनुरूपाः श्लोकाः न सन्ति।",
+  "Scripture search could not be loaded. Please try again.": "ग्रन्थान्वेषणं न उपलब्धम्। कृपया पुनः प्रयतताम्।"
 }

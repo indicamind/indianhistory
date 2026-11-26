@@ -636,5 +636,9 @@
   "Previous verse": "ପୂର୍ବ ଶ୍ଳୋକ",
   "Next verse": "ପରବର୍ତ୍ତୀ ଶ୍ଳୋକ",
   "Verse {number} of {count}": "ମୋଟ {count}ରୁ ଶ୍ଳୋକ {number}",
-  "Swipe left or right to change verse": "ଶ୍ଳୋକ ବଦଳାଇବା ପାଇଁ ବାମ କିମ୍ବା ଡାହାଣକୁ ସ୍ୱାଇପ୍ କରନ୍ତୁ"
+  "Swipe left or right to change verse": "ଶ୍ଳୋକ ବଦଳାଇବା ପାଇଁ ବାମ କିମ୍ବା ଡାହାଣକୁ ସ୍ୱାଇପ୍ କରନ୍ତୁ",
+  "Search this scripture": "ଏହି ଗ୍ରନ୍ଥରେ ଖୋଜନ୍ତୁ",
+  "Words, names or verse number": "ଶବ୍ଦ, ନାମ କିମ୍ବା ଶ୍ଳୋକ ସଂଖ୍ୟା",
+  "No matching verses in this chapter.": "ଏହି ଅଧ୍ୟାୟରେ ମେଳ ଖାଉଥିବା ଶ୍ଳୋକ ନାହିଁ।",
+  "Scripture search could not be loaded. Please try again.": "ଗ୍ରନ୍ଥର ସନ୍ଧାନ ଲୋଡ୍ ହୋଇପାରିଲା ନାହିଁ। ଦୟାକରି ପୁଣି ଚେଷ୍ଟା କରନ୍ତୁ।"
 }

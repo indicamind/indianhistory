@@ -33,7 +33,8 @@
   </div>
 </form>
 
-@if (loading()) {
+@if (scriptureSearchFailed()) {<p role="status">{{ locale.translate('Scripture search could not be loaded. Please try again.') }}</p>}
+@if (loading() || searching()) {
   <p class="status">Loading index…</p>
 } @else if (!searched()) {
 } @else if (filteredResults().length === 0) {
@@ -47,17 +48,18 @@
       <li class="card result-item" [class.affiliate-pending]="devMode.isDevMode() && item.affiliatePending">
         <span class="result-kind" [class.kind-article]="item.kind === 'article'" [class.kind-book]="item.kind === 'book'" [class.kind-period]="item.kind === 'period'" [class.kind-theme]="item.kind === 'theme'" [class.kind-personality]="item.kind === 'personality'" [class.kind-polity]="item.kind === 'polity'">{{ item.kindLabel }}</span>
         @if (devMode.isDevMode() && item.affiliatePending) { <p class="affiliate-status">Affiliate link pending · Regular Amazon.in link</p> }
+        @if (item.draft) {<p>{{ locale.translate('English draft · Awaiting approval') }}</p>}
         <h2 [class.notranslate]="item.kind === 'book'" [attr.translate]="item.kind === 'book' ? 'no' : null">
           @if (item.externalUrl) {
             <a [href]="item.externalUrl" target="_blank" [attr.rel]="item.affiliatePending ? 'noopener' : 'sponsored noopener'">{{ item.title }}</a>
           } @else {
-            <a [routerLink]="item.routerLink" [queryParams]="item.queryParams || {}">{{ item.title }}</a>
+            <a [routerLink]="item.routerLink" [fragment]="item.fragment" [queryParams]="item.queryParams || {}">{{ item.title }}</a>
           }
         </h2>
         @if (item.kind === 'book') {
           <p><span>{{ locale.translate('Book by') }}</span> <span class="notranslate" translate="no">{{ item.bookAuthor }}. {{ item.bookDescription }}</span></p>
         } @else {
-          <p>{{ item.excerpt }}</p>
+          <p [class.notranslate]="item.kind==='scripture'" [attr.translate]="item.kind==='scripture'?'no':null" [attr.lang]="item.excerptLanguage||null" [attr.dir]="item.excerptLanguage?.startsWith('sa')?'ltr':null">{{ item.excerpt }}</p>
         }
       </li>
     }

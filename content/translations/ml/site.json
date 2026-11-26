@@ -636,5 +636,9 @@
   "Previous verse": "മുമ്പത്തെ ശ്ലോകം",
   "Next verse": "അടുത്ത ശ്ലോകം",
   "Verse {number} of {count}": "ആകെ {count} ശ്ലോകങ്ങളിൽ {number}ാമത്തേത്",
-  "Swipe left or right to change verse": "ശ്ലോകം മാറ്റാൻ ഇടത്തോട്ടോ വലത്തോട്ടോ സ്വൈപ്പ് ചെയ്യുക"
+  "Swipe left or right to change verse": "ശ്ലോകം മാറ്റാൻ ഇടത്തോട്ടോ വലത്തോട്ടോ സ്വൈപ്പ് ചെയ്യുക",
+  "Search this scripture": "ഈ ഗ്രന്ഥത്തിൽ തിരയുക",
+  "Words, names or verse number": "വാക്കുകൾ, പേരുകൾ അല്ലെങ്കിൽ ശ്ലോക നമ്പർ",
+  "No matching verses in this chapter.": "ഈ അധ്യായത്തിൽ പൊരുത്തപ്പെടുന്ന ശ്ലോകങ്ങളില്ല.",
+  "Scripture search could not be loaded. Please try again.": "ഗ്രന്ഥത്തിലെ തിരയൽ ലോഡ് ചെയ്യാനായില്ല. വീണ്ടും ശ്രമിക്കുക."
 }

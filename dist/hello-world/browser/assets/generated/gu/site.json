@@ -636,5 +636,9 @@
   "Previous verse": "પાછલો શ્લોક",
   "Next verse": "આગલો શ્લોક",
   "Verse {number} of {count}": "કુલ {count}માંથી શ્લોક {number}",
-  "Swipe left or right to change verse": "શ્લોક બદલવા ડાબે અથવા જમણે સ્વાઇપ કરો"
+  "Swipe left or right to change verse": "શ્લોક બદલવા ડાબે અથવા જમણે સ્વાઇપ કરો",
+  "Search this scripture": "આ ગ્રંથમાં શોધો",
+  "Words, names or verse number": "શબ્દો, નામો અથવા શ્લોક નંબર",
+  "No matching verses in this chapter.": "આ અધ્યાયમાં મેળ ખાતા શ્લોકો નથી.",
+  "Scripture search could not be loaded. Please try again.": "ગ્રંથની શોધ લોડ થઈ શકી નથી. કૃપા કરીને ફરી પ્રયાસ કરો."
 }

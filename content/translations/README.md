@@ -12,13 +12,13 @@ The user requested seven additional language editions on 2026-10-31. Completed e
 
 | Edition | Code | Required site strings translated | Articles translated | Blogs translated | Status |
 | --- | --- | ---: | ---: | ---: | --- |
-| Italian | `it` | 580 / 580 | 48 / 48 | 2 / 2 | Released |
-| Korean | `ko` | 580 / 580 | 48 / 48 | 2 / 2 | Released |
-| Vietnamese | `vi` | 580 / 580 | 48 / 48 | 2 / 2 | Released |
-| Turkish | `tr` | 580 / 580 | 48 / 48 | 2 / 2 | Released |
-| Malay | `ms` | 580 / 580 | 48 / 48 | 2 / 2 | Released |
-| Swahili | `sw` | 580 / 580 | 48 / 48 | 2 / 2 | Released |
-| Filipino | `fil` | 580 / 580 | 48 / 48 | 2 / 2 | Released |
+| Italian | `it` | 583 / 583 | 48 / 48 | 2 / 2 | Released |
+| Korean | `ko` | 583 / 583 | 48 / 48 | 2 / 2 | Released |
+| Vietnamese | `vi` | 583 / 583 | 48 / 48 | 2 / 2 | Released |
+| Turkish | `tr` | 583 / 583 | 48 / 48 | 2 / 2 | Released |
+| Malay | `ms` | 583 / 583 | 48 / 48 | 2 / 2 | Released |
+| Swahili | `sw` | 583 / 583 | 48 / 48 | 2 / 2 | Released |
+| Filipino | `fil` | 583 / 583 | 48 / 48 | 2 / 2 | Released |
 
 All seven requested editions have passed the full release gate with complete translations for interface strings, articles, blogs, image attributions, metadata, and search assets. Each translation includes the complete body, metadata, tags, image alt text and attribution, and a final Sources section with image credits. Original Prakrit, Greek, and Aramaic transliterations remain unchanged.
 
@@ -130,3 +130,5 @@ After explicit approval, the English manuscript moves into `content/articles` an
 See [source and authoring notes](../scriptures/README.md) and [the Chapter 1 review](../drafts/gita-reader-review.md). No translation API or browser translation service was used.
 
 The Gita reading interface now uses flowing verse cards with previous/next arrows on their left and right edges, touch swipes, and a chapter/verse progress bar. Its four additional navigation strings are authored in all 33 translation editions (580 required site strings). Sanskrit, IAST and the unapproved English commentary remain unchanged.
+
+The Gita reader now has a direct verse grid and full-text verse search across all 18 chapters. The shared site search links to exact verses too. Search covers Devanagari, IAST (with or without diacritics), verse references and available commentary in the selected language; unapproved English commentary remains restricted to English web dev mode. The four new search labels are authored in all 33 translation editions; the obsolete “Go to verse” label is no longer required, bringing the current interface gate to 583 strings.

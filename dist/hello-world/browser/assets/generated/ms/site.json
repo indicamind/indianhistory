@@ -583,5 +583,9 @@
   "Previous verse": "Rangkap sebelumnya",
   "Next verse": "Rangkap seterusnya",
   "Verse {number} of {count}": "Rangkap {number} daripada {count}",
-  "Swipe left or right to change verse": "Leret ke kiri atau kanan untuk menukar rangkap"
+  "Swipe left or right to change verse": "Leret ke kiri atau kanan untuk menukar rangkap",
+  "Search this scripture": "Cari dalam teks ini",
+  "Words, names or verse number": "Perkataan, nama atau nombor rangkap",
+  "No matching verses in this chapter.": "Tiada rangkap yang sepadan dalam bab ini.",
+  "Scripture search could not be loaded. Please try again.": "Carian teks tidak dapat dimuatkan. Sila cuba lagi."
 }

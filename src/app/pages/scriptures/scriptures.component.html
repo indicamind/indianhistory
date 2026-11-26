@@ -19,11 +19,8 @@
       <a class="chapter-tile" [routerLink]="['/scriptures',book()!.slug,item.number]" [queryParams]="{lang:locale.language}" queryParamsHandling="merge"><span class="chapter-number">{{ locale.format('Chapter {number}',{number:item.number}) }}</span><h2 class="notranslate" lang="sa" dir="ltr" translate="no">{{ item.title }}</h2><p class="notranslate roman" lang="sa-Latn" dir="ltr" translate="no">{{ item.transliteration }}</p><span>{{ locale.format('{count} verses',{count:item.verseCount}) }}</span></a>
     }</section>
   } @else {
-    <form class="reader-controls" (submit)="$event.preventDefault();goToVerse()">
-      <label>{{ locale.translate('Chapter') }}<select [ngModel]="chapter()!.number" name="chapter" (ngModelChange)="selectChapter($event)">@for (item of book()!.chapters; track item.number) {<option [value]="item.number">{{ locale.format('Chapter {number}',{number:item.number}) }}</option>}</select></label>
-      <label>{{ locale.translate('Verse') }}<input type="number" name="verse" [(ngModel)]="verseNumber" min="1" [max]="chapter()!.verses.length" required /></label><button class="btn btn-secondary verse-jump" type="submit" [attr.aria-label]="locale.translate('Go to verse')" [title]="locale.translate('Go to verse')"><span class="jump-label">{{ locale.translate('Go to verse') }}</span><span class="jump-icon" aria-hidden="true">↵</span></button>
-      <div class="reading-position"><span>{{ locale.format('Verse {number} of {count}',{number:activeVerse(),count:chapter()!.verses.length}) }}</span><progress [value]="activeVerse()" [max]="chapter()!.verses.length" [attr.aria-label]="locale.format('Verse {number} of {count}',{number:activeVerse(),count:chapter()!.verses.length})"></progress></div>
-    </form>
+    <app-scripture-search [book]="book()!.slug" (matches)="setMatches($event)" (selected)="openHit($event)" />
+    <app-scripture-controls [book]="book()!" [chapter]="chapter()!" [activeVerse]="activeVerse()" (chapterChange)="selectChapter($event)" (verseChange)="selectVerse($event)" />
     <div class="reader-layout">
       <aside class="chapter-sidebar"><h2>{{ locale.translate('Chapters') }}</h2><nav [attr.aria-label]="locale.translate('Chapter navigation')">@for (item of book()!.chapters; track item.number) {<a [routerLink]="['/scriptures',book()!.slug,item.number]" [queryParams]="{lang:locale.language}" queryParamsHandling="merge" [attr.aria-current]="item.number===chapter()!.number?'page':null" [attr.aria-label]="locale.format('Chapter {number}',{number:item.number})" [title]="item.transliteration">{{ item.number }}</a>}</nav><p class="sidebar-title notranslate" lang="sa" dir="ltr" translate="no">{{ chapter()!.title }}</p></aside>
       <div class="reader-content">
@@ -33,14 +30,15 @@
           <div class="chapter-intro" [innerHTML]="textCommentary.introHtml"></div>
         } @else {<p class="preparation-note">{{ locale.translate('Meanings and explanations are being prepared.') }}</p>}
         <p class="swipe-hint">↔ {{ locale.translate('Swipe left or right to change verse') }}</p>
-        @for (verse of chapter()!.verses; track verse.id) {
+        @if (!visibleVerses().length && searchQuery()) {<p class="preparation-note">{{ locale.translate('No matching verses in this chapter.') }}</p>}
+        @for (verse of visibleVerses(); track verse.id) {
           <article class="verse" [class.current-verse]="activeVerse()===verse.number" [id]="anchor(verse.id)" tabindex="-1" [attr.aria-labelledby]="anchor(verse.id)+'-heading'" (pointerdown)="startSwipe($event,verse.number)" (pointerup)="endSwipe($event)" (pointercancel)="cancelSwipe()">
-            <div class="verse-rail rail-left" dir="ltr"><button type="button" class="verse-arrow previous-verse" aria-keyshortcuts="ArrowLeft" (click)="navigateVerse(verse.number-1)" [disabled]="verse.number===1" [attr.aria-label]="locale.translate('Previous verse')" [title]="locale.translate('Previous verse')"><span aria-hidden="true">‹</span></button></div>
+            <div class="verse-rail rail-left" dir="ltr"><button type="button" class="verse-arrow previous-verse" aria-keyshortcuts="ArrowLeft" (click)="navigateAdjacent(verse.number,-1)" [disabled]="adjacentVerse(verse.number,-1)===undefined" [attr.aria-label]="locale.translate('Previous verse')" [title]="locale.translate('Previous verse')"><span aria-hidden="true">‹</span></button></div>
             <div class="verse-body" [attr.dir]="textDirection"><header><h3 class="verse-reference" [id]="anchor(verse.id)+'-heading'"><a [routerLink]="['/scriptures',book()!.slug,chapter()!.number]" [fragment]="anchor(verse.id)" [queryParams]="{lang:locale.language}" queryParamsHandling="merge">{{ locale.translate('Verse') }} <bdi>{{ verse.id }}</bdi></a></h3><span class="verse-ornament" aria-hidden="true">॥</span></header>
             @if (explanation(verse.id); as text) {<section class="verse-meaning"><h4>{{ locale.translate('Meaning') }}</h4><div [innerHTML]="text.meaningHtml"></div></section><section class="verse-explanation"><h4>{{ locale.translate('Explanation') }}</h4><div [innerHTML]="text.explanationHtml"></div></section>}
             <p class="sanskrit notranslate" lang="sa" dir="ltr" translate="no">{{ verse.sanskrit }}</p>
             <details class="transliteration" open><summary>{{ locale.translate('Roman transliteration (IAST)') }}</summary><p class="roman notranslate" lang="sa-Latn" dir="ltr" translate="no">{{ verse.transliteration }}</p></details>
-            </div><div class="verse-rail rail-right" dir="ltr"><button type="button" class="verse-arrow next-verse" aria-keyshortcuts="ArrowRight" (click)="navigateVerse(verse.number+1)" [disabled]="verse.number===chapter()!.verses.length" [attr.aria-label]="locale.translate('Next verse')" [title]="locale.translate('Next verse')"><span aria-hidden="true">›</span></button></div>
+            </div><div class="verse-rail rail-right" dir="ltr"><button type="button" class="verse-arrow next-verse" aria-keyshortcuts="ArrowRight" (click)="navigateAdjacent(verse.number,1)" [disabled]="adjacentVerse(verse.number,1)===undefined" [attr.aria-label]="locale.translate('Next verse')" [title]="locale.translate('Next verse')"><span aria-hidden="true">›</span></button></div>
           </article>
         }
         <nav class="chapter-pager" [attr.aria-label]="locale.translate('Chapter navigation')">

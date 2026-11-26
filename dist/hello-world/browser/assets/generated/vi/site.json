@@ -583,5 +583,9 @@
   "Previous verse": "Câu kệ trước",
   "Next verse": "Câu kệ tiếp theo",
   "Verse {number} of {count}": "Câu kệ {number} trên {count}",
-  "Swipe left or right to change verse": "Vuốt sang trái hoặc phải để chuyển câu kệ"
+  "Swipe left or right to change verse": "Vuốt sang trái hoặc phải để chuyển câu kệ",
+  "Search this scripture": "Tìm trong văn bản này",
+  "Words, names or verse number": "Từ, tên hoặc số câu kệ",
+  "No matching verses in this chapter.": "Không có câu kệ phù hợp trong chương này.",
+  "Scripture search could not be loaded. Please try again.": "Không thể tải chức năng tìm kiếm văn bản. Vui lòng thử lại."
 }

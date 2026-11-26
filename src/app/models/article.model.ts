@@ -52,6 +52,9 @@ export interface SearchResult {
   bookDescription?: string;
   // Optional query params (e.g. fromSearch for articles)
   queryParams?: Record<string, any>;
+  fragment?: string;
+  excerptLanguage?: string;
+  draft?: boolean;
   // For display: e.g. "Empire", "Kingdom", "Period", "Story"
   kindLabel: string;
 }

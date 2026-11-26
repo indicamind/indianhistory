@@ -636,5 +636,9 @@
   "Previous verse": "मागील श्लोक",
   "Next verse": "पुढील श्लोक",
   "Verse {number} of {count}": "एकूण {count} पैकी श्लोक {number}",
-  "Swipe left or right to change verse": "श्लोक बदलण्यासाठी डावीकडे किंवा उजवीकडे स्वाइप करा"
+  "Swipe left or right to change verse": "श्लोक बदलण्यासाठी डावीकडे किंवा उजवीकडे स्वाइप करा",
+  "Search this scripture": "या ग्रंथात शोधा",
+  "Words, names or verse number": "शब्द, नावे किंवा श्लोक क्रमांक",
+  "No matching verses in this chapter.": "या अध्यायात जुळणारे श्लोक नाहीत.",
+  "Scripture search could not be loaded. Please try again.": "ग्रंथातील शोध लोड करता आला नाही. कृपया पुन्हा प्रयत्न करा."
 }

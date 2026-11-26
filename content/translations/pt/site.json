@@ -636,5 +636,9 @@
   "Previous verse": "Verso anterior",
   "Next verse": "Próximo verso",
   "Verse {number} of {count}": "Verso {number} de {count}",
-  "Swipe left or right to change verse": "Deslize para a esquerda ou direita para mudar de verso"
+  "Swipe left or right to change verse": "Deslize para a esquerda ou direita para mudar de verso",
+  "Search this scripture": "Pesquisar neste texto",
+  "Words, names or verse number": "Palavras, nomes ou número do verso",
+  "No matching verses in this chapter.": "Nenhum verso correspondente neste capítulo.",
+  "Scripture search could not be loaded. Please try again.": "Não foi possível carregar a pesquisa do texto. Tente novamente."
 }

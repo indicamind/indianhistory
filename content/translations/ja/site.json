@@ -636,5 +636,9 @@
   "Previous verse": "前の詩節",
   "Next verse": "次の詩節",
   "Verse {number} of {count}": "全{count}詩節中の第{number}詩節",
-  "Swipe left or right to change verse": "左右にスワイプして詩節を切り替えます"
+  "Swipe left or right to change verse": "左右にスワイプして詩節を切り替えます",
+  "Search this scripture": "この書の中を検索",
+  "Words, names or verse number": "語句、人名、詩節番号",
+  "No matching verses in this chapter.": "この章に一致する詩節はありません。",
+  "Scripture search could not be loaded. Please try again.": "本文検索を読み込めませんでした。もう一度お試しください。"
 }

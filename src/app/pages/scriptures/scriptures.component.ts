@@ -1,13 +1,15 @@
-import { Component, DestroyRef, HostListener, computed, inject, signal } from '@angular/core';
+import { Component, DestroyRef, HostListener, computed, inject, signal, viewChild } from '@angular/core';
 import { DOCUMENT, ViewportScroller } from '@angular/common';
 import { ActivatedRoute, Router, RouterLink, Scroll } from '@angular/router';
-import { FormsModule } from '@angular/forms';
 import { takeUntilDestroyed } from '@angular/core/rxjs-interop';
 import { LocaleService } from '../../i18n/locale.service';
 import { DevModeService } from '../../services/dev-mode.service';
 import { ScriptureBook, ScriptureChapter, ScripturesService } from '../../services/scriptures.service';
 import { ScriptureProgressService } from '../../services/scripture-progress.service';
-@Component({selector:'app-scriptures',imports:[RouterLink,FormsModule],templateUrl:'./scriptures.component.html',styleUrl:'./scriptures.component.css'})
+import { ScriptureControlsComponent } from '../../components/scripture-controls/scripture-controls.component';
+import { ScriptureSearchComponent } from '../../components/scripture-search/scripture-search.component';
+import { ScriptureVerseHit } from '../../services/scripture-search.service';
+@Component({selector:'app-scriptures',imports:[RouterLink,ScriptureControlsComponent,ScriptureSearchComponent],templateUrl:'./scriptures.component.html',styleUrl:'./scriptures.component.css'})
 export class ScripturesComponent {
   readonly locale=inject(LocaleService);
   readonly devMode=inject(DevModeService);
@@ -30,6 +32,10 @@ export class ScripturesComponent {
   readonly failed=signal(false);
   readonly notFound=signal(false);
   readonly activeVerse=signal(1);
+  readonly search=viewChild(ScriptureSearchComponent);
+  readonly searchQuery=signal('');
+  private readonly verseFilter=signal<Set<string>|null>(null);
+  readonly visibleVerses=computed(()=>this.chapter()?.verses.filter(verse=>!this.verseFilter() || this.verseFilter()!.has(verse.id))??[]);
   private generation=0;
   private fragment: string|null=null;
   private scrollFrame: number|null=null;
@@ -37,7 +43,6 @@ export class ScripturesComponent {
   private smoothAnchor: string|null=null;
   private initialLoad=true;
   private restoring=false;
-  verseNumber=1;
   constructor() {
     this.route.paramMap.pipe(takeUntilDestroyed(this.destroy)).subscribe(params=>void this.load(params.get('slug'),params.get('chapter')));
     this.route.fragment.pipe(takeUntilDestroyed(this.destroy)).subscribe(fragment=>{this.fragment=fragment;this.scrollToFragment();});
@@ -54,7 +59,7 @@ export class ScripturesComponent {
     const navigation=this.document.defaultView?.performance?.getEntriesByType('navigation')[0] as PerformanceNavigationTiming|undefined;
     const reloading=firstLoad && !this.router.navigated && navigation?.type==='reload';
     this.restoring=false;
-    this.loading.set(true);this.failed.set(false);this.notFound.set(false);this.chapter.set(null);this.book.set(null);this.verseNumber=1;this.activeVerse.set(1);this.swipe=null;this.smoothAnchor=null;
+    this.loading.set(true);this.failed.set(false);this.notFound.set(false);this.chapter.set(null);this.book.set(null);this.activeVerse.set(1);this.swipe=null;this.smoothAnchor=null;this.setMatches(null);
     try {
       const books=await this.service.getBooks();if(version!==this.generation)return;this.books.set(books);
       if(slug){const book=books.find(b=>b.slug===slug);if(!book){this.notFound.set(true);return;}this.book.set(book);
@@ -76,14 +81,31 @@ export class ScripturesComponent {
     finally {if(version===this.generation){this.loading.set(false);this.scrollToFragment();}}
   }
   selectChapter(value: string): void { if(this.book())void this.router.navigate(['/scriptures',this.book()!.slug,value],{queryParams:{lang:this.locale.language},queryParamsHandling:'merge'}); }
-  goToVerse(): void {
-    this.navigateVerse(Number(this.verseNumber));
+  setMatches(result: {query:string;hits:ScriptureVerseHit[]}|null): void {
+    this.searchQuery.set(result?.query??'');
+    this.verseFilter.set(result?new Set(result.hits.filter(hit=>hit.chapter===this.chapter()?.number).map(hit=>hit.id)):null);
+  }
+  selectVerse(number: number): void {this.search()?.clear();this.setMatches(null);this.navigateVerse(number);}
+  openHit(hit: ScriptureVerseHit): void {
+    this.setMatches(null);
+    // The result's RouterLink owns navigation; keep focus and same-URL jumps working.
+    if(hit.chapter===this.chapter()?.number){
+      this.smoothAnchor=this.anchor(hit.id);
+      if(this.fragment===this.smoothAnchor)this.scrollToFragment();
+    }
+  }
+  adjacentVerse(number: number,direction: number): number|undefined {
+    const verses=this.visibleVerses(),index=verses.findIndex(verse=>verse.number===number);
+    return verses[index+direction]?.number;
+  }
+  navigateAdjacent(number: number,direction: number): void {
+    const next=this.adjacentVerse(number,direction);if(next!==undefined)this.navigateVerse(next);
   }
   navigateVerse(number: number): void {
     const verse=this.chapter()?.verses.find(v=>v.number===number);
     if(!verse)return;
     const anchor=this.anchor(verse.id);
-    this.activeVerse.set(number);this.verseNumber=number;
+    this.activeVerse.set(number);
     this.rememberVerse(number);
     this.smoothAnchor=anchor;
     if(this.fragment===anchor)this.scrollToFragment();
@@ -98,8 +120,8 @@ export class ScripturesComponent {
     if(target?.closest('input,textarea,select,[contenteditable]:not([contenteditable="false"]),[role="textbox"],[role="slider"],[role="combobox"]'))return;
     if(target?.closest('a,button,summary,[role="button"]') && !target.closest('.verse'))return;
     if(this.document.querySelector('dialog[open],[aria-modal="true"],[role="menu"]'))return;
-    const number=this.activeVerse()+(event.key==='ArrowRight'?1:-1);
-    if(!this.chapter()!.verses.some(verse=>verse.number===number))return;
+    const number=this.adjacentVerse(this.activeVerse(),event.key==='ArrowRight'?1:-1);
+    if(number===undefined)return;
     event.preventDefault();
     this.navigateVerse(number);
   }
@@ -115,7 +137,7 @@ export class ScripturesComponent {
     if(!swipe || swipe.id!==event.pointerId)return;
     const dx=event.clientX-swipe.x,dy=event.clientY-swipe.y;
     if(Math.abs(dx)<70 || Math.abs(dy)>Math.abs(dx)*.55 || event.timeStamp-swipe.time>800 || this.document.getSelection()?.toString())return;
-    this.navigateVerse(swipe.verse+(dx<0?1:-1));
+    this.navigateAdjacent(swipe.verse,dx<0?1:-1);
   }
   cancelSwipe(): void {this.swipe=null;}
   @HostListener('window:scroll')
@@ -126,10 +148,16 @@ export class ScripturesComponent {
       this.scrollFrame=null;
       const boundary=(this.document.querySelector('.reader-controls')?.getBoundingClientRect().bottom??100)+48;
       let number: number|undefined;
-      for(const verse of this.chapter()?.verses??[]){
+      for(const verse of this.visibleVerses()){
         const card=this.document.getElementById(this.anchor(verse.id));
         if(!card || card.getBoundingClientRect().top>boundary)break;
         number=verse.number;
+      }
+      // Short final verses cannot always reach the top before the page ends.
+      const last=this.visibleVerses().at(-1);
+      if(last && win.scrollY+win.innerHeight>=this.document.documentElement.scrollHeight-2){
+        const card=this.document.getElementById(this.anchor(last.id));
+        if(card && card.getBoundingClientRect().top<win.innerHeight)number=last.number;
       }
       if(number!==undefined){
         this.activeVerse.set(number);
@@ -152,12 +180,12 @@ export class ScripturesComponent {
     if(this.loading()||!this.fragment||!/^verse-\d+-\d+$/.test(this.fragment))return;
     const fragment=this.fragment,version=this.generation;
     setTimeout(()=>{
-      if(version!==this.generation)return;
+      if(version!==this.generation || fragment!==this.fragment)return;
       const verse=this.chapter()?.verses.find(v=>this.anchor(v.id)===fragment);
       if(!verse)return;
       const restoring=this.restoring;
       this.restoring=false;
-      this.activeVerse.set(verse.number);this.verseNumber=verse.number;
+      this.activeVerse.set(verse.number);
       this.rememberVerse(verse.number);
       const card=this.document.getElementById(fragment);
       if(card && restoring)card.scrollIntoView({behavior:'instant',block:'start'});

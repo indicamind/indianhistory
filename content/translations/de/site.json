@@ -644,5 +644,9 @@
   "Previous verse": "Vorheriger Vers",
   "Next verse": "Nächster Vers",
   "Verse {number} of {count}": "Vers {number} von {count}",
-  "Swipe left or right to change verse": "Nach links oder rechts wischen, um den Vers zu wechseln"
+  "Swipe left or right to change verse": "Nach links oder rechts wischen, um den Vers zu wechseln",
+  "Search this scripture": "In diesem Text suchen",
+  "Words, names or verse number": "Wörter, Namen oder Versnummer",
+  "No matching verses in this chapter.": "Keine passenden Verse in diesem Kapitel.",
+  "Scripture search could not be loaded. Please try again.": "Die Textsuche konnte nicht geladen werden. Bitte erneut versuchen."
 }

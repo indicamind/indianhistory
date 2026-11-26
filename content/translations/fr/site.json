@@ -636,5 +636,9 @@
   "Previous verse": "Verset précédent",
   "Next verse": "Verset suivant",
   "Verse {number} of {count}": "Verset {number} sur {count}",
-  "Swipe left or right to change verse": "Balayez vers la gauche ou la droite pour changer de verset"
+  "Swipe left or right to change verse": "Balayez vers la gauche ou la droite pour changer de verset",
+  "Search this scripture": "Rechercher dans ce texte",
+  "Words, names or verse number": "Mots, noms ou numéro de verset",
+  "No matching verses in this chapter.": "Aucun verset correspondant dans ce chapitre.",
+  "Scripture search could not be loaded. Please try again.": "La recherche dans le texte n’a pas pu être chargée. Veuillez réessayer."
 }

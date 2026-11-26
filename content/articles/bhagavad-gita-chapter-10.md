@@ -10,9 +10,9 @@ tags:
 textSourceHash: e68cb7292f7ceb3d8242addb5dd05582aa736653eeb274e6b99ba3df7982c8e1
 ---
 
-Arjuna asks how he can keep recognising Krishna while encountering a world of many things. Krishna responds with examples of vibhūti: distinctive manifestations of power, excellence and sustaining presence. The catalogue ranges through gods, sages, natural phenomena, language, human capacities and even unsettling forms of power. It is framed as a selection whose purpose is to direct attention toward the source that exceeds every list.
+Krishna describes his greatness and the understanding he gives his devotees. Arjuna asks which forms and manifestations he should contemplate. Krishna names examples among gods, sages, animals, rulers, natural phenomena, words and human qualities, including kingship, punishment and gambling. He ends by saying that he sustains the whole world with a single portion of himself.
 
-Each **Meaning** gives an original English rendering of the displayed Sanskrit. Each **Explanation** follows the verse’s wording, its place in the dialogue and its philosophical or devotional context. These are original reader explanations; named traditional interpretations are identified where they are compared. [1–3]
+Each **Meaning** renders the Sanskrit in English. Each **Explanation** follows the verse’s statements, terms and argument. Named traditional interpretations are distinguished where they differ. [1–3]
 
 ## 10.1
 
@@ -42,7 +42,7 @@ Whoever among mortals knows me as unborn, without beginning and the great Lord o
 
 ### Explanation
 
-The knowledge described here concerns the nature of Krishna's sourcehood. “Unborn” and “without beginning” distinguish him from a being whose origin would lie within the cosmic sequence he sustains. The verse gives this recognition a liberating consequence. It is therefore more than a classification of divine rank: the chapter presents understanding the world's dependence as something that changes the knower's orientation and relation to bondage.
+The person who knows Krishna as unborn, beginningless and the great Lord of the worlds is freed from delusion and all wrongdoing. The three descriptions distinguish him from the gods and sages whose origin he claims to be. Knowing him in truth therefore has a stated result for mortals: release from the sins that bind them.
 
 ## 10.4
 
@@ -52,7 +52,7 @@ Understanding, knowledge, freedom from delusion, patience, truthfulness, control
 
 ### Explanation
 
-The sentence begins a list completed in the next verse. It includes cultivated virtues alongside conditions that living beings experience without simply choosing them. By placing understanding and self-control near pleasure, pain and fear, the text gives the account of divine sourcehood a broad scope. The list is not yet a set of instructions to adopt every condition named; its common predicate concerns their arising from Krishna.
+This list continues into the next verse. Understanding, knowledge and freedom from delusion appear alongside restraint, patience and truthfulness; pleasure, pain, birth, death, fear and fearlessness are included as well. All receive the same predicate in 10.5: these varied conditions of beings arise from Krishna alone. He claims to be their source across their opposing forms.
 
 ## 10.5
 
@@ -62,7 +62,7 @@ Non-harming, equality, contentment, austerity, giving, honour and dishonour: the
 
 ### Explanation
 
-The concluding line supplies the claim governing both verses' lists. Many different capacities, dispositions and experiences depend upon the same divine source. Favourable and unfavourable conditions appear together, while the Gita elsewhere evaluates how people respond to them. That distinction matters for reading the catalogue: an account of what can arise within existence is broader than a catalogue of actions being recommended to the seeker.
+Non-harming, equality, contentment, austerity, giving, honour and dishonour complete the list. Krishna says that all these varied conditions of beings arise from him alone. The declaration encompasses both virtues and opposed experiences such as honour and dishonour, continuing the pairs of pleasure and pain, fear and fearlessness in the preceding verse.
 
 ## 10.6
 
@@ -82,7 +82,7 @@ Whoever truly knows this manifestation and yoga of mine becomes joined through u
 
 ### Explanation
 
-Vibhūti and yoga together name the divine expression and the power through which it operates. Recognising them is said to steady the seeker's own yoga, giving the coming examples a practical purpose. They are aids to a settled understanding of dependence upon Krishna. The catalogue therefore belongs to the teaching about an integrated life of attention and devotion, rather than standing apart as an independent collection of remarkable names.
+True knowledge of Krishna's vibhūti and yoga brings unwavering yoga to the knower. Vibhūti names his divine manifestations, and yoga his power or sovereign activity. Knowledge of these has the stated effect of firmly joining the practitioner to him. Krishna closes the declaration by excluding doubt about this result.
 
 ## 10.8
 
@@ -102,7 +102,7 @@ With minds directed to me and lives devoted to me, enlightening one another and 
 
 ### Explanation
 
-Devotion here includes a shared life of conversation and mutual understanding. The devotees are not described only as solitary contemplatives; they help one another recognise and discuss the object of their commitment. Satisfaction and delight are effects of that relationship. This also reflects the dialogue's own form, in which Arjuna's questions and Krishna's answers make sustained attention possible through speech between persons.
+The devotees direct their minds and their lives toward Krishna. They teach one another about him and speak of him continually, finding satisfaction and delight in doing so. The verse specifies the activities of the wise worshippers named in 10.8. Their knowledge that everything proceeds from Krishna is accompanied by continuing conversation, instruction and joy in him.
 
 ## 10.10
 
@@ -182,7 +182,7 @@ How may I know you, yogin, by continually contemplating you? In which particular
 
 ### Explanation
 
-The practical question is one of sustained recognition. Arjuna wants points of attention through which remembrance can continue amid particular experiences. His request gives the examples their pedagogical function: an exceptional manifestation can direct the mind toward the divine presence on which it depends. The catalogue that follows is therefore connected with the everyday discipline of contemplation, even when some of its examples belong to the cosmic or mythic world.
+Arjuna asks how to know Krishna through continual contemplation and which particular manifestations should be its objects. He wants Krishna to name the forms in which he should be remembered. The question leads to the catalogue of gods, sages, creatures, powers and natural phenomena, each identified as a divine manifestation within its class.
 
 ## 10.18
 
@@ -202,7 +202,7 @@ Krishna said: Yes, I shall describe to you my divine manifestations in their chi
 
 ### Explanation
 
-The answer sets the method and the limit of what follows. The examples are principal manifestations, not an exhaustive enclosure of divine reality within a list. This framing prevents the reader from treating the named things as the only places where Krishna can be recognised. The concluding verses will repeat the point and provide a general way of extending the contemplation beyond the examples explicitly supplied.
+Krishna agrees to describe his chief divine manifestations. He states that his extent has no end, so the account will name principal examples. This answers Arjuna's request for the particular forms through which to contemplate him. The same inexhaustibility is repeated at the catalogue's close, before Krishna states the general relation between every distinguished manifestation and his radiance.
 
 ## 10.20
 
@@ -222,7 +222,7 @@ Among the Adityas I am Vishnu; among lights, the radiant sun. Among the Maruts I
 
 ### Explanation
 
-The examples move through groups of divine and celestial powers. Each group is given a distinguished manifestation through which Krishna can be contemplated. Nakṣatra belongs to the traditional language of the starry and lunar sky, so the moon's place in the list follows that setting. The structure teaches attention through prominence and luminosity while keeping each manifestation related to the larger source announced at the chapter's opening.
+Among the Adityas Krishna names Vishnu, among lights the radiant sun, among the Maruts Marichi, and among nakṣatras the moon. Nakṣatra refers to the stars or lunar mansions. Each group receives one named identification with Krishna. The verse begins the detailed catalogue after his universal declaration that he is the self in every being and their beginning, middle and end.
 
 ## 10.22
 
@@ -242,7 +242,7 @@ Among the Rudras I am Shankara; among yakshas and rakshasas, the lord of wealth.
 
 ### Explanation
 
-Divine groups, guardianship of wealth, elemental fire and the cosmic mountain supply the next comparisons. The lord of wealth is the figure commonly called Kubera in this setting, while Shankara names Shiva among the Rudras. The point of the verse is the selection of a commanding or distinctive presence within each class. Its cosmological and religious references give the contemplative practice a recognisable cultural world.
+Shankara is Shiva, named here among the Rudras. The lord of wealth among yakshas and rakshasas is Kubera. Fire is selected among the Vasus, and Meru among peaked mountains. The verse identifies Krishna with these particular gods and with the cosmic mountain, continuing the account of his chief manifestations within the divine and natural worlds.
 
 ## 10.24
 
@@ -252,7 +252,7 @@ Among household priests, know me as the chief, Brihaspati, Partha. Among army co
 
 ### Explanation
 
-Priestly guidance and military leadership connect the catalogue with two forms of authority important in the epic. The ocean then supplies an image of natural vastness. Brihaspati and Skanda are named within their traditional divine roles, allowing the listener to contemplate knowledge, command and immensity through specific examples. The verse's movement across these domains reinforces the breadth of the manifestations rather than limiting recognition to one kind of excellence.
+Brihaspati is named as the foremost household priest, Skanda among commanders and the ocean among bodies of water. Priesthood, command in war and the vastness of the sea supply three distinct classes of manifestation. Krishna tells Arjuna to know him through the principal figure in each class, as he has agreed to describe at the catalogue's opening.
 
 ## 10.25
 
@@ -282,7 +282,7 @@ Among horses, know me as Ucchaihshravas, born with the nectar of immortality; am
 
 ### Explanation
 
-The first two examples come from the traditional narrative of the churning for nectar, which explains the phrase “born with immortality's nectar.” The royal example then brings the sequence into human social order. The verse selects figures of exceptional stature within their classes, continuing the chapter's contemplative method. Its recognition of a king's prominence belongs to that method and its epic setting, rather than settling the conduct of every individual ruler.
+Ucchaihshravas is the horse born when the gods and asuras churned the ocean for the nectar of immortality. Airavata, named among lordly elephants, belongs to the same account. Among human beings Krishna identifies himself with the king. The verse joins these exceptional animals with the ruler who holds the highest place in the human political order.
 
 ## 10.28
 
@@ -302,7 +302,7 @@ Among nagas I am Ananta; among beings of the waters, Varuna. Among ancestors I a
 
 ### Explanation
 
-The verse moves through serpent, aquatic, ancestral and regulative domains. Its distinction between the serpent categories in this and the previous verse follows the inherited classification rather than a modern zoological scheme. Varuna, Aryaman and Yama connect cosmic order with the bonds and limits of living existence. The examples make support, ancestral relationship and restraint further points through which the divine presence can be contemplated.
+Krishna names Ananta among nagas and Varuna among beings of the waters. Aryaman is his identification among the ancestors, while Yama is named among those who restrain. The verse continues the serpent imagery of Vasuki in 10.28 and extends the catalogue through water, ancestral beings and the power of restraint. These named rulers and powers are presented as his manifestations.
 
 ## 10.30
 
@@ -312,7 +312,7 @@ Among the daityas I am Prahlada; among those who reckon, I am time. Among animal
 
 ### Explanation
 
-Prahlada places a distinguished devotee within the daitya lineage, complicating any assumption that the catalogue merely follows a single group's social or cosmic prestige. Time then names the measure within which reckoning occurs. The lion and Vinata's son, Garuda, supply powerful animal and bird examples. Together they continue to expand the kinds of prominence through which recognition is possible, including devotion, measurement, strength and mythic sovereignty.
+Prahlada is named among daityas, time among those who reckon, the lion among animals and Garuda, the son of Vinata, among birds. Prahlada is a devotee born within the daitya lineage. The four identifications include a revered person, the measure governing reckoning and the foremost animal and bird named in their classes. Krishna claims each as his manifestation.
 
 ## 10.31
 
@@ -322,7 +322,7 @@ Among purifiers I am the wind; among bearers of weapons, Rama. Among creatures o
 
 ### Explanation
 
-Purifying movement, armed excellence, an imposing aquatic creature and a sacred river form the next sequence. The makara belongs to the text's traditional aquatic imagery; its exact identification need not be reduced to one modern animal species for the verse's purpose. Jahnavi names the Ganga through its inherited story and sacred identity. These examples connect the contemplative practice with motion, protection, water and familiar religious geography.
+Krishna identifies himself with wind among purifiers, Rama among bearers of weapons, the makara among aquatic creatures and Jahnavi, the Ganga, among rivers. Makara names a great water creature whose identification varies in traditional accounts. Jahnavi is the Ganga's name associated with the sage Jahnu. The verse gives each its place in the catalogue of principal manifestations.
 
 ## 10.32
 
@@ -352,7 +352,7 @@ I am death, which takes everything away, and the arising of those yet to be. Amo
 
 ### Explanation
 
-The verse names both the removal of existing forms and the emergence of new ones. It then turns to a group of qualities expressed in feminine terms, with resonances of their personified divine forms. The list includes capacities of speech, memory and judgement alongside patience and forgiveness. Its placement gives birth, loss and cultivated excellence a shared setting within the chapter's account of the powers sustaining and transforming the world.
+Krishna identifies himself with death that takes everything and with the arising of beings yet to be born. Among feminine powers he names fame, prosperity, speech, memory, intelligence, steadfastness and forgiveness. These qualities have feminine names and divine personifications. The declaration includes both the end and beginning of life and the distinguished powers named in the second half of the verse.
 
 ## 10.35
 
@@ -362,7 +362,7 @@ Among Sama chants I am the Brihat Saman; among metres, Gayatri. Among months I a
 
 ### Explanation
 
-Particular forms of sacred sound and particular divisions of the year are selected for contemplation. The Brihat Saman and Gayatri concern the organisation of recitation, while Margashirsha and the flowering season locate excellence within recurrent time. The verse encourages recognition through features of religious and seasonal life that listeners can encounter repeatedly. Its specificity is part of its usefulness: remembrance is given concrete occasions rather than remaining only a general abstraction.
+The Brihat Saman is selected among Sama chants, Gayatri among metres, Margashirsha among months and spring among seasons. The last is literally the flower-bearing season. These particular chants, metrical forms and divisions of the year are Krishna's named manifestations within their classes. Sacred recitation and the recurring calendar continue the catalogue alongside its gods, creatures and human capacities.
 
 ## 10.36
 
@@ -372,7 +372,7 @@ Among deceivers I am gambling; I am the brilliance of the brilliant. I am victor
 
 ### Explanation
 
-Gambling is an intentionally unsettling example within a catalogue otherwise easy to associate with admired qualities. It identifies a commanding power within deception, broadening the account of manifestation beyond a simple list of moral recommendations. Victory and resolve then name forceful human capacities, while sattva carries senses of goodness, vigour and steadiness. The surrounding teaching still evaluates conduct; recognising dependence upon a source does not remove those distinctions.
+Krishna identifies himself with gambling among deceivers. He then names the brilliance of the brilliant, victory, determined effort and the sattva of those who possess it. Sattva here carries the senses of goodness, strength or vigour. Gambling and deception are stated directly among the manifestations, alongside successful and forceful human capacities.
 
 ## 10.37
 
@@ -382,7 +382,7 @@ Among the Vrishnis I am Vasudeva; among the Pandavas, Dhananjaya. Among sages I 
 
 ### Explanation
 
-The catalogue enters the immediate world of the speakers. Vasudeva names Krishna himself, and Dhananjaya names Arjuna, the listener receiving the teaching. The exemplars are therefore not confined to distant mythic or cosmic domains. Vyasa and Ushanas add forms of seership and inspired speech, bringing the production and transmission of understanding into view. Arjuna can recognise his own capacity within the larger dependence Krishna has described.
+Vasudeva names Krishna among the Vrishnis; Dhananjaya names Arjuna among the Pandavas. Vyasa is chosen among sages, and Ushanas among inspired poets. Krishna thus includes himself and the person he is addressing in the catalogue. The four names identify distinguished persons within lineages and classes of seers, continuing his account of principal manifestations.
 
 ## 10.38
 
@@ -392,7 +392,7 @@ Among those who discipline I am the rod of authority; among those seeking victor
 
 ### Explanation
 
-The examples concern how power and understanding are exercised. Discipline and strategy connect the verse with governance, while silence gives secrecy its effective form. Knowledge finally identifies the distinguishing capacity of the knower. The varied sequence invites attention to what makes an activity effective or a role meaningful. Within the chapter, those enabling powers become occasions for contemplating their divine ground and their place in an integrated life.
+The rod, daṇḍa, is the instrument of punishment or discipline. Krishna identifies himself with it among those who govern through restraint, and with policy among those seeking victory. Silence is his identification among secrets, and knowledge among knowers. The verse brings authority, strategy, secrecy and understanding into the account of his manifestations.
 
 ## 10.39
 
@@ -402,7 +402,7 @@ Whatever is the seed of all beings, I am that, Arjuna. No moving or unmoving bei
 
 ### Explanation
 
-The seed image returns from Chapter 7 to summarise a universal dependence. The many exceptional examples have not replaced the claim concerning every being. Moving and unmoving together express that breadth, while “without me” states its ontological force. This verse gives the catalogue its foundation: distinguished manifestations are useful points of recognition because the whole field of existence already depends upon the reality they help disclose.
+Krishna calls himself the seed of all beings and says that no moving or unmoving being can exist without him. The declaration extends across the whole world after the particular manifestations just listed. Seed names him as their source, while “without me” states their continuing dependence. Every being is included in this relation, beyond the distinguished examples individually named.
 
 ## 10.40
 
@@ -412,7 +412,7 @@ There is no end to my divine manifestations, scorcher of foes. This account of t
 
 ### Explanation
 
-Krishna repeats the limitation with which he introduced the examples. The list points toward an inexhaustible reality and cannot fully enumerate it. This matters for the reader's use of the chapter: the exercise is to learn a manner of recognition that can continue beyond the named cases. The following verse supplies a general principle for making that extension while preserving the relation between a manifestation and its source.
+Krishna says that his divine manifestations have no end. The account just given is only an indication of their extent, repeating the qualification at 10.19. Arjuna asked for the full description; Krishna has named principal manifestations and now states their inexhaustibility. The following verse gives a rule encompassing further beings distinguished by splendour, prosperity or power.
 
 ## 10.41
 

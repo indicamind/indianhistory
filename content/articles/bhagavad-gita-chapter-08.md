@@ -10,9 +10,9 @@ tags:
 textSourceHash: b1a35f91ef9c8992526a0806d55fc4d1b012119fcdb0d3843d31dbcd84ee97a2
 ---
 
-Arjuna asks Krishna to explain the terms introduced at the end of Chapter 7. The answers lead into remembrance at death, the formation of attention through lifelong practice, and the distinction between recurring cosmic existence and the imperishable goal. The chapter alternates concentrated definitions with images of vast periods of time. Its central practical connection is between how a person lives and the orientation carried into the final departure.
+Arjuna asks about Brahman, the self, action and the divine, and how Krishna is known at death. Krishna teaches remembrance of him at the final moment, describes the states reached after death, and sets out the cosmic cycle of Brahma’s days and nights. The chapter distinguishes return to rebirth from attainment of the imperishable goal.
 
-Each **Meaning** gives an original English rendering of the displayed Sanskrit. Each **Explanation** follows the verse’s wording, its place in the dialogue and its philosophical or devotional context. These are original reader explanations; named traditional interpretations are identified where they are compared. [1–3]
+Each **Meaning** renders the Sanskrit in English. Each **Explanation** follows the verse’s statements, terms and argument. Named traditional interpretations are distinguished where they differ. [1–3]
 
 ## 8.1
 
@@ -22,7 +22,7 @@ Arjuna said: What is Brahman? What is the reality pertaining to the self? What i
 
 ### Explanation
 
-Arjuna asks for definitions before proceeding with the promised understanding. The names have been introduced as parts of a comprehensive knowledge of Krishna, but their relationship is not yet clear. His questions distinguish metaphysical reality, embodied selfhood, action and different domains of experience. This opening models careful listening: technical vocabulary becomes useful when its meanings and connections are made explicit within the conversation.
+Arjuna asks for the meanings of terms introduced at the end of Chapter 7. Brahman, adhyātma and karma concern the imperishable, the self and action; adhibhūta and adhidaiva concern beings and divine power. He addresses Krishna as the highest Person while asking how these terms are to be understood. His questions continue in the next verse with sacrifice and knowledge at death.
 
 ## 8.2
 
@@ -62,7 +62,7 @@ Whoever departs at the final moment, leaving the body while remembering me alone
 
 ### Explanation
 
-The assurance concerns a final orientation of consciousness toward Krishna. Mad-bhāva can be rendered as his state or being, a phrase whose fuller metaphysical meaning is interpreted within different traditions. The following verses explain why this remembrance cannot be separated from the life that precedes it. The chapter's interest is sustained formation of attention and devotion, culminating in a departure aligned with their enduring object.
+Krishna promises his own state to whoever remembers him alone while leaving the body at death. Mad-bhāva means his state or being; traditions differ over the precise relation to Krishna that this attainment entails. The assurance is emphatic: there is no doubt about the result. The next verse states the corresponding rule for whatever state a dying person remembers.
 
 ## 8.6
 
@@ -72,7 +72,7 @@ Whatever state a person remembers when leaving the body at the end, that very st
 
 ### Explanation
 
-The final phrase connects the last remembrance with repeated formation throughout life. A mind has a history of attention, attachment and practice; its final orientation arises within that history. The verse states this connection in the Gita's framework of rebirth and destination. It prepares the next instruction, which concerns remembrance “at all times” and directs Arjuna back toward the action standing before him.
+The state remembered at death determines the state attained after departure. Krishna explains this through the person's continual dwelling on that state during life. Remembering at death is thus linked with habitual contemplation. This rule gives the reason for his next command: Arjuna should remember Krishna at all times, directing mind and understanding toward the destination he is to attain.
 
 ## 8.7
 
@@ -82,7 +82,7 @@ Therefore remember me at all times, and fight. With mind and understanding offer
 
 ### Explanation
 
-Remembrance and action are joined in one instruction. Arjuna is not told to wait until death before beginning, or to abandon the duty around which the dialogue began. Offering both mind and understanding gives the instruction an inward as well as an outward dimension: the person acts while the governing attention and judgement are directed toward Krishna. This supplies the chapter's practical link with karma-yoga.
+Krishna commands Arjuna both to remember him continually and to fight. Mind and understanding are to be offered to Krishna while the battle is undertaken. The promised result is certain attainment of him. The instruction applies the teaching about remembrance at death directly to Arjuna's present situation: he must fight with his inward faculties dedicated to Krishna.
 
 ## 8.8
 
@@ -102,7 +102,7 @@ One should remember the ancient seer, the ruler, subtler than the subtle, the su
 
 ### Explanation
 
-The description supplies the content of contemplation. Its terms combine intelligence, sovereignty, subtlety, sustaining power and radiance, so that the object of remembrance exceeds an ordinary visible thing. “Beyond thought” also marks the inadequacy of reducing that reality to the image alone. The solar comparison conveys illuminating splendour within a spiritual description, while the next verse links contemplation with devotion and yogic concentration at death.
+The supreme Person is the ancient seer and ruler, subtler than the smallest thing and the sustainer of all. His form surpasses thought, while his radiance is compared to the sun and placed beyond darkness. These are the attributes to be remembered in contemplation. The following verse describes the devotion, concentration and direction of the life-breath accompanying that remembrance at death.
 
 ## 8.10
 
@@ -112,7 +112,7 @@ At departure, with an unwavering mind, joined to devotion and the power of yoga,
 
 ### Explanation
 
-This verse brings together the dispositions already named: steadiness, devotion and the trained power of yoga. It also uses the traditional language of directing prāṇa, the vital breath, within a yogic account of the body. The promised destination belongs to that combined discipline. Read with verse 8.7, the final act is supported by a life of remembrance and dedication rather than being presented as an isolated last-minute accomplishment.
+At death the practitioner holds the mind steady, maintains devotion and uses the power of yoga to place prāṇa between the brows. Krishna says that this person attains the supreme divine Person. The verse specifies the mind's condition, its devotion and the position of the vital breath. These accompany the remembrance of the divine attributes listed in the preceding verse.
 
 ## 8.11
 
@@ -122,7 +122,7 @@ I shall briefly explain that imperishable goal which knowers of the Vedas procla
 
 ### Explanation
 
-Several established forms of spiritual aspiration are gathered around one goal. Vedic learning, ascetic effort, freedom from attachment and brahmacarya are named as ways of orienting a life toward the imperishable. Brahmacarya includes disciplined conduct and continence in its religious setting. The verse gives context for the concentrated account that follows: the departure practice belongs within a sustained search for the highest reality.
+Krishna announces the imperishable goal proclaimed by knowers of the Vedas and entered by striving ascetics free from attachment. It is also the goal for which people practise brahmacarya, celibacy and disciplined sacred life. The common destination joins these descriptions of learning and practice. The following verses specify restraint of the senses, concentration, direction of the life-breath and utterance of Om.
 
 ## 8.12
 
@@ -132,7 +132,7 @@ Restraining all the gateways, holding the mind within the heart and placing one'
 
 ### Explanation
 
-The “gateways” evoke the senses through which attention usually moves outward. Bringing them under restraint and gathering the mind in the heart describe an inward integration. The reference to the head continues the traditional account of directing the vital breath. This is a compact description within the chapter's religious teaching about departure; its meaning depends on the broader discipline, devotion and settled purpose surrounding it.
+The practitioner closes the sensory gateways, confines the mind within the heart and places the vital breath in the head. These actions establish yogic concentration at departure. The bodily locations are part of the practice described: the heart holds the mind, while the head holds prāṇa. The sentence continues with the utterance of Om and remembrance of Krishna in the next verse.
 
 ## 8.13
 
@@ -162,7 +162,7 @@ Having reached me, the great souls who have attained supreme fulfilment do not u
 
 ### Explanation
 
-The promised fulfilment is described through freedom from renewed embodied existence. Calling rebirth an impermanent abode of suffering recalls the instability of pleasure, possession and bodily life discussed earlier in the Gita. The verse sets the highest goal apart from an improved position within that cycle. Its claim is stated within the text's metaphysical account of repeated birth and liberation, which the following cosmic images expand.
+Those who attain Krishna do not return to birth. Rebirth is described as an impermanent abode of suffering, and release from it is the supreme fulfilment attained by these great souls. The distinction is between continued birth and attainment of Krishna. The next verse extends it to all cosmic worlds, including the highest world of Brahma.
 
 ## 8.16
 
@@ -182,7 +182,7 @@ Those who know that Brahma's day extends for a thousand yugas, and his night for
 
 ### Explanation
 
-The timescale now expands far beyond a human lifetime. In the traditional reckoning used here, a yuga means a complete cycle of four ages; a thousand such cycles form Brahma’s day, with a night of equal length. The immediate purpose is to show that even an unimaginably extended duration has limits and recurrence. The verse itself gives its measure in yugas; its argument does not require converting that traditional unit into a prediction about modern physical cosmology. [3]
+Brahma's day and night each last a thousand yugas. In the reckoning used here, a yuga is a complete cycle of four ages, so a thousand such cycles constitute his day and another thousand his night. The alternation governs the manifestation and dissolution described in the next verses. Even Brahma's world therefore has its day, its night and its recurring end. [3]
 
 ## 8.18
 
@@ -192,7 +192,7 @@ At the coming of the day, all manifest forms arise from the unmanifest. At the c
 
 ### Explanation
 
-Day and night now describe manifestation and withdrawal. The unmanifest here functions as the condition from which forms emerge and into which they return within the cosmic cycle. This use must be followed carefully, because verse 8.20 will speak of a further unmanifest reality beyond that cycle. At this point, the concern is the periodic appearance and dissolution of the world of differentiated beings.
+All manifest beings arise from the unmanifest when Brahma's day begins. At the beginning of his night, they dissolve into that same unmanifest condition. The alternation describes the recurring appearance and withdrawal of the world. This unmanifest source belongs within the cycle; verse 8.20 will distinguish another unmanifest reality that remains when all beings perish.
 
 ## 8.19
 
@@ -202,7 +202,7 @@ This same multitude of beings comes into existence again and again, dissolves at
 
 ### Explanation
 
-The repeated movement gives the cosmic picture an existential force. Beings participate in a process whose arising and withdrawal they do not individually command; avaśa expresses that lack of control. The chapter thus connects enormous periods of time with the earlier problem of dependence. A very long cycle still contains the vulnerability of becoming, which is why liberation is sought beyond recurrence itself.
+The same multitude of beings repeatedly emerges and dissolves with Brahma's day and night. Krishna calls it avaśa, helpless or without control: its appearance and disappearance are governed by that cosmic alternation. The beings arise again at daybreak after dissolving at night. Their repeated existence within this cycle is contrasted with the eternal reality introduced next.
 
 ## 8.20
 
@@ -242,7 +242,7 @@ I shall explain the time or course of departure by which yogins go to non-return
 
 ### Explanation
 
-The word kāla introduces a description organised through temporal and cosmic signs. Two destinations are to be distinguished: a course culminating in non-return and one that leads back into embodied existence. The following verses present them through light, darkness and solar periods. Their significance becomes clearer at the conclusion, when Krishna again directs Arjuna to remain established in yoga at all times.
+Krishna announces two departures with different results: one leads to non-return and the other to renewed birth. Kāla means time and introduces the periods named in the next two verses. The descriptions include fire or smoke, day or night, lunar fortnights and the sun's northern or southern course. Their distinction is the destination reached by the departing yogin.
 
 ## 8.24
 
@@ -252,7 +252,7 @@ Fire, light, day, the bright fortnight and the six months of the sun's northern 
 
 ### Explanation
 
-A sequence of luminous signs describes the course associated with reaching Brahman. Fire, daylight, the waxing half of the lunar month and the sun's northern course belong to a traditional cosmological account of passage beyond death. Their arrangement contrasts with the dark sequence in the next verse. The chapter's earlier requirement of knowledge and sustained practice remains present: the travellers here are specifically described as knowers of Brahman.
+The bright course comprises fire, light, daytime, the bright lunar fortnight and the six months of the sun's northern movement. Those who know Brahman depart by this course and reach Brahman. Its result is non-return, as the summary in 8.26 makes explicit. The corresponding dark course leads to the lunar light and a subsequent return.
 
 ## 8.25
 
@@ -262,7 +262,7 @@ Smoke, night, the dark fortnight and the six months of the sun's southern course
 
 ### Explanation
 
-The second sequence presents a destination still followed by return. Lunar light is a genuine attained realm within this account, but it remains within the movement of coming and going. The contrast therefore concerns permanence, a theme already established through Brahma's world and the cycles of manifestation. The two sets of images should be read through that stated distinction, rather than simply as a preference for one kind of weather or season.
+The dark course comprises smoke, night, the dark lunar fortnight and the six months of the sun's southern movement. A yogin departing by this course reaches the lunar light and then returns. The lunar destination is therefore distinct from the attainment of Brahman described in the preceding verse. The chapter contrasts the two courses by their results: return and non-return.
 
 ## 8.26
 
@@ -272,7 +272,7 @@ These bright and dark courses are regarded as the world's enduring paths. By one
 
 ### Explanation
 
-The paired descriptions are now summarised in terms of their consequences. One course moves beyond recurrence, while the other remains within it. “Enduring” marks their place in the chapter's inherited cosmic framework. The structure repeats an important distinction throughout the Gita: a desirable result can still be finite, whereas the supreme goal is defined by release from the need to enter the cycle again.
+The bright and dark courses are called the world's enduring paths. The bright course leads beyond return; the dark course leads back to embodied existence after the lunar destination. Krishna states the difference as the result of each departure. He then tells Arjuna that knowing the two removes delusion and commands him to remain established in yoga.
 
 ## 8.27
 
@@ -282,7 +282,7 @@ Knowing these two courses, no yogin is deluded, Partha. Therefore remain establi
 
 ### Explanation
 
-The practical conclusion returns attention to a continuing way of life. Knowledge of the two courses is meant to clarify purpose and remove confusion; the resulting instruction concerns yoga “at all times.” This phrase echoes verse 8.7 and keeps sustained dedication at the centre of the chapter. Its account of death is thus framed by a teaching about the orientation cultivated while a person is alive.
+Knowledge of the two courses removes the yogin's delusion about departure and its result. Krishna therefore commands Arjuna to remain established in yoga at all times. This returns to the continuous remembrance enjoined in 8.7. The account of the bright and dark courses ends with a command governing Arjuna's practice throughout life.
 
 ## 8.28
 

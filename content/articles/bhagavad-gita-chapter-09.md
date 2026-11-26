@@ -10,9 +10,9 @@ tags:
 textSourceHash: d52bafc3c0e59b9240baeb1c5ffd27ad54b0688595e3c0fd17c822d2b08259c3
 ---
 
-Krishna calls this teaching a royal knowledge and a royal secret. He describes a divine presence that pervades the world without being confined by it, then brings the discussion into sacrifice, daily activity and devotion. The chapter's expansive welcome is expressed within its inherited religious and social vocabulary. Its theological distinctions and its assurances of refuge both need to remain visible as the argument develops.
+Krishna calls this teaching royal knowledge and a royal secret. He describes his relation to the world, creation, sacrifice and the gods, and distinguishes the destinations reached through different forms of worship. He promises attainment to those who take refuge in him and commands Arjuna to direct his mind, devotion, worship and reverence toward him.
 
-Each **Meaning** gives an original English rendering of the displayed Sanskrit. Each **Explanation** follows the verse’s wording, its place in the dialogue and its philosophical or devotional context. These are original reader explanations; named traditional interpretations are identified where they are compared. [1–3]
+Each **Meaning** renders the Sanskrit in English. Each **Explanation** follows the verse’s statements, terms and argument. Named traditional interpretations are distinguished where they differ. [1–3]
 
 ## 9.1
 
@@ -22,7 +22,7 @@ Krishna said: To you, who are free from resentment, I shall explain this most se
 
 ### Explanation
 
-The opening connects the depth of the teaching with a receptive disposition. Anasūyā suggests freedom from a fault-finding resentment that would prevent the speaker's claims from being seriously considered. Knowledge is again paired with realised understanding, as in Chapter 7. The promise of freedom from aśubha links what follows to the problem of bondage and suffering, giving the teaching a transformative purpose beyond the possession of religious information.
+Krishna addresses Arjuna as anasūyu, one without resentful fault-finding. To him he will teach the most secret knowledge together with its realised understanding. Knowing it brings freedom from aśubha, evil or what is harmful. The promise states the result of the teaching before Krishna describes its supremacy, purity and imperishable character in the next verse.
 
 ## 9.2
 
@@ -42,7 +42,7 @@ Those who have no faith in this dharma, scorcher of foes, fail to reach me and r
 
 ### Explanation
 
-Śraddhā is the trusting commitment that allows the teaching to be practised, rather than merely heard as a detached proposition. Its absence is linked here with remaining within recurrence. The verse states a theological consequence within the Gita's account of liberation. In context, the contrast is between the imperishable relation Krishna is about to explain and the repeated coming and going of ordinary embodied existence.
+Those without faith in this dharma do not attain Krishna. They return instead to the path of saṃsāra, the recurring cycle of birth and death. Śraddhā is the faith whose absence Krishna names as the cause of that failure. The contrast is direct: attainment of him brings release, while lack of faith leaves the person within repeated birth and death.
 
 ## 9.4
 
@@ -52,7 +52,7 @@ By my unmanifest form, this whole world is pervaded. All beings abide in me, yet
 
 ### Explanation
 
-The verse brings together pervasion and an unequal dependence. Beings have their being in Krishna, while Krishna's reality is not enclosed or exhausted by them. Avyakta-mūrti gives the description its paradoxical texture: a form or presence that is not available as an ordinary manifest object. The next verse presses the language further, showing why these statements cannot be treated simply as descriptions of one physical container holding smaller objects.
+Krishna pervades the whole world through his unmanifest form. All beings exist in him, but he says that he does not exist in them. Avyakta-mūrti combines “unmanifest” with “form,” describing the manner of his presence. The two assertions establish an unequal relation: beings depend on him, while his being is not confined to theirs. The following verse carries the statement further.
 
 ## 9.5
 
@@ -62,7 +62,7 @@ And yet beings do not abide in me. See my sovereign yoga: my self sustains being
 
 ### Explanation
 
-The apparent reversal of the preceding sentence challenges a spatial picture of divine dependence. Krishna sustains beings without acquiring their limits or becoming one component among them. Traditions explain this relation in different metaphysical terms, including nondual knowledge and the dependence of real selves and nature upon the Lord. The immediate emphasis is the extraordinary divine power by which support and transcendence belong together.
+Krishna now says that beings do not abide in him, following the declaration in 9.4 that they do. He calls Arjuna to behold his sovereign yoga. His self supports beings and produces them while remaining unestablished in them. The paired declarations describe his power both to sustain the world and to remain free of the relation of residence stated of its beings.
 
 ## 9.6
 
@@ -72,7 +72,7 @@ As the great wind, moving everywhere, always rests in space, understand that all
 
 ### Explanation
 
-The comparison returns to something the reader can imagine after the dense preceding claims. The wind moves widely but does so within space; its activity does not make space share each particular movement. Krishna uses that asymmetry to illustrate beings' dependence upon him. The analogy serves the argument about sustaining presence and freedom from limitation, rather than giving an exhaustive account of every aspect of the divine-world relationship.
+The great wind moves everywhere while remaining within space. Krishna tells Arjuna to understand the existence of all beings in him through this comparison. Their many movements and changes occur within the one who sustains them. The image follows his declaration that he brings beings into existence and supports them without being situated in them.
 
 ## 9.7
 
@@ -92,7 +92,7 @@ Taking command of my own nature, I send forth again and again this whole multitu
 
 ### Explanation
 
-The repeated act of manifestation is described through two contrasting positions. Krishna presides over his nature, while the multitude of beings is subject to its power. The word avaśa expresses their lack of mastery over the process of becoming. This account connects cosmology with the Gita's practical concern: a person seeks freedom while living within conditions and dispositions whose operation is not simply chosen at will.
+Krishna takes command of his own prakṛti and repeatedly sends forth the entire multitude of beings. Those beings are avaśa, powerless, under nature's sway. The verse distinguishes the Lord who commands nature from the beings subject to it. Their repeated manifestation is his act, undertaken through the nature he calls his own.
 
 ## 9.9
 
@@ -122,7 +122,7 @@ The deluded disregard me when I take on a human body, failing to recognise my hi
 
 ### Explanation
 
-The issue of Krishna's human appearance returns from Chapter 7. Ordinary perception can see an embodied person while missing the divine reality claimed by that person. In the narrative this has particular force: Arjuna's charioteer and friend is also speaking as the world's source. The verse asks the reader to reconsider what can be disclosed through a human relationship when its significance is judged only by outward familiarity.
+Krishna says that the deluded disregard him because he has taken a human body. They fail to know his higher nature as the great Lord of beings. The human appearance and divine lordship belong to the same speaker. Their error is to see the former without recognising the latter, as Krishna had also stated in 7.24–25.
 
 ## 9.12
 
@@ -132,7 +132,7 @@ Their hopes, actions and knowledge are fruitless; without clear understanding, t
 
 ### Explanation
 
-The repeated word mogha connects frustrated hope, ineffective action and misdirected knowledge. These are gathered under a destructive, deluding disposition described through the religious categories of rakshasa and asura. The following verse supplies the contrasting divine disposition. Reading the pair together keeps the emphasis on the character and orientation through which a person lives and acts, rather than treating the labels as merely decorative names.
+The hopes, actions and knowledge of those who disregard Krishna are all called mogha, fruitless. Their understanding is lost, and they have adopted the deluding nature of rakshasas and asuras. These are the consequences Krishna assigns to their failure to recognise him. The next verse contrasts them with the great souls who take refuge in divine nature and worship him.
 
 ## 9.13
 
@@ -142,7 +142,7 @@ But great souls, Partha, taking refuge in the divine nature and knowing me as th
 
 ### Explanation
 
-The alternative to the previous pattern includes both knowledge and a changed disposition. Knowing Krishna as the source leads into undivided worship, while “divine nature” names the quality of life supporting that orientation. This is a further development of the chapter's opening claims about knowledge that can be lived. The great soul is identified through the integration of understanding, commitment and devotion.
+The great souls take refuge in divine nature and know Krishna as the imperishable origin of beings. Their minds are undivided in worship of him. They are contrasted with the deluded people of the preceding verse, whose hopes, acts and knowledge are fruitless. Knowledge of the Lord's imperishable nature accompanies the devotion by which these great souls worship him.
 
 ## 9.14
 
@@ -182,7 +182,7 @@ I am this world's father, mother, sustainer and grandfather; I am what is to be 
 
 ### Explanation
 
-The account joins familial origins, sustaining activity and sacred knowledge. Calling Krishna both father and mother gives a many-sided expression to sourcehood, while “grandfather” carries the chain of origins further back. The named Vedas and Om place revelation within the same divine relation. The verse does not merely add religious objects to a list; it identifies the ground, means and goal of knowing within one comprehensive presence.
+Krishna identifies himself with the world's father, mother, sustainer and grandfather, giving both immediate and ancestral sources of life. He is also the object of knowledge, the purifier and sacred Om. The Rig, Sama and Yajur Vedas are included in the same declaration. Origin, support, purification and Vedic revelation are all identified with him.
 
 ## 9.18
 
@@ -202,7 +202,7 @@ I give heat; I hold back the rain and release it. I am immortality and death, an
 
 ### Explanation
 
-The statement includes both sides of processes that sustain and limit life. Heat and rain lead into the larger pairs of immortality and death, being and non-being. Sat and asat have a range of metaphysical meanings, including what is manifest and what is unmanifest, so their relation to the preceding account of cosmic emergence matters. The verse presents a source encompassing opposed conditions, rather than only what beings immediately welcome.
+Krishna declares that he gives heat, withholds rain and releases it. He identifies himself with immortality and death, and with sat and asat, being and non-being. The latter pair also bears the senses of manifest and unmanifest within accounts of cosmic existence. Both sustaining and destructive powers, and both sides of these paired conditions, are included in his declaration.
 
 ## 9.20
 
@@ -212,7 +212,7 @@ Those who know the three Vedas, drink soma and are purified of wrongdoing worshi
 
 ### Explanation
 
-The verse recognises the efficacy and religious standing of Vedic sacrificial practice. Its practitioners seek a specific destination and obtain its pleasures within the account being given. Krishna also says that their sacrifice is directed toward him, anticipating the discussion of other deities. The limitation appears in the following verse: a genuinely obtained heavenly reward can still remain subject to exhaustion and return.
+The knowers of the three Vedas drink soma, are purified of wrongdoing and offer sacrifices to Krishna while seeking heaven. They reach Indra's realm and enjoy the pleasures of the gods there. The verse describes the result of their sacrifice: heavenly enjoyment. Its duration and the return that follows are explained in the next verse.
 
 ## 9.21
 
@@ -222,7 +222,7 @@ After enjoying that vast heavenly world, they enter the mortal world when their 
 
 ### Explanation
 
-The description turns on the exhaustion of puṇya, the merit supporting the heavenly result. The chapter's criticism concerns the continued pursuit of finite rewards, which leaves the seeker within recurrence. This distinction helps explain why the earlier verses could affirm both sacrificial efficacy and a higher destination. The problem addressed here is the governing desire for benefits that must eventually end and be sought again.
+Heavenly enjoyment lasts until the merit supporting it is exhausted. The worshippers then return to the mortal world. Following the three Vedas while desiring their promised pleasures thus produces repeated going and coming. The reward is obtained and consumed, after which mortal existence resumes. This is the course Krishna contrasts with the steadfast worship of himself alone.
 
 ## 9.22
 
@@ -232,7 +232,7 @@ Those who contemplate me alone and worship me, always steadfast in their dedicat
 
 ### Explanation
 
-Yoga-kṣema joins gaining what is needed with preserving what has been gained. Krishna personally assumes that care for the devotees described here, giving a relational answer to the anxious pursuit of security. The verse follows the account of finite heavenly rewards, so its concern is the trust accompanying undivided devotion. Its assurance belongs to that theological relationship and is expressed through the practical language of support and sustenance.
+Yoga-kṣema means acquisition and preservation: gaining what is lacking and keeping what has been gained. Krishna says that he himself carries this care for those who continually contemplate and worship him alone. The promise is made to the exclusively devoted. It follows the account of heavenly rewards that run out and require a return to mortal existence.
 
 ## 9.23
 
@@ -242,7 +242,7 @@ Even devotees of other deities who sacrifice with faith are sacrificing to me al
 
 ### Explanation
 
-The sentence includes both a broad claim of divine reception and a qualification. Worship directed elsewhere still reaches Krishna as its underlying recipient, yet avidhi-pūrvakam marks a defect in its manner or understanding. The following verse identifies failure to know him truly as the issue. The passage therefore recognises faith in other worship while maintaining Krishna's claim to be the ultimate Lord and the highest destination.
+Krishna says that worshippers of other deities sacrifice to him alone, even though they address those other deities with faith. He nevertheless calls their worship avidhi-pūrvakam, not performed in the proper manner. The next verse gives his reason: they do not know him in truth as the enjoyer and Lord of every sacrifice. Their faithful sacrifice is directed to him without that knowledge.
 
 ## 9.24
 
@@ -252,7 +252,7 @@ For I am the enjoyer and the Lord of all sacrifices. But they do not recognise m
 
 ### Explanation
 
-Krishna explains the qualification in the preceding verse through the relation between a rite and its ultimate recipient. Knowing the Lord of sacrifice changes what the worshipper understands the act to be. Cyavanti conveys falling or moving away from the intended ultimate attainment; it fits the chapter's repeated distinction between limited rewards and lasting fulfilment. The argument gives knowledge a decisive place within devotion rather than treating the outer act alone as sufficient.
+Krishna identifies himself as both the enjoyer of all sacrifices and their Lord. Worshippers of other deities fail to recognise him in this capacity, and he says that they therefore fall away. Cyavanti expresses this falling or departure. The following verse distinguishes the destinations they reach from the destination reached by those who worship Krishna himself.
 
 ## 9.25
 
@@ -262,7 +262,7 @@ Those devoted to the gods go to the gods; those devoted to the ancestors go to t
 
 ### Explanation
 
-The destinations are arranged according to the orientation of worship. Gods, ancestors and other beings or spirits occupy distinct places within the religious world described by the text. Krishna's devotees are then given their corresponding destination in him. The verse continues the chapter's theological hierarchy openly: different acts of worship are related through divine sourcehood while their immediate aims and attained results remain differentiated.
+Worship determines destination. Those devoted to gods reach gods, those devoted to ancestors reach ancestors, and those who worship spirits reach spirits. Krishna's worshippers come to him. The verse gives four corresponding results and distinguishes his attainment from the others. It continues his account of worship directed to other beings without knowledge of the Lord of all sacrifice.
 
 ## 9.26
 
@@ -272,7 +272,7 @@ Whoever offers me a leaf, a flower, a fruit or water with devotion: I accept tha
 
 ### Explanation
 
-The materials are simple and widely available, shifting attention toward the disposition of the giver. Bhakti appears in both the offering and its acceptance, making devotion the connecting relation. The word aśnāmi literally carries the sense of eating or partaking; “accept” expresses its meaning within the act of offering. The verse makes a direct devotional approach possible without requiring the elaborate resources associated with larger sacrificial ceremonies.
+Krishna accepts a leaf, flower, fruit or water when it is offered with devotion by a disciplined and sincere person. Bhakti occurs in the description of both the act and its giver. Aśnāmi literally means “I eat” or “I partake,” describing his reception of the offering. The named materials are simple, while devotion and the giver's condition qualify their presentation.
 
 ## 9.27
 
@@ -282,7 +282,7 @@ Whatever you do, whatever you eat, whatever you offer in sacrifice, whatever you
 
 ### Explanation
 
-The scope of offering expands from particular materials to the whole course of a person's activity. Ordinary eating and doing stand alongside recognised acts of sacrifice, giving and austerity. This makes devotion a way of orienting life, rather than only an activity set apart from it. The instruction also connects the chapter with karma-yoga: action is continued while its relation to the self and its intended recipient is transformed.
+Every act is to be made an offering to Krishna. The instruction covers eating and ordinary activity as well as sacrifice, giving and austerity. The repeated “whatever” extends dedication across all these acts. Krishna is to be their recipient, and the next verse states the result: release from the binding favourable and unfavourable fruits of action.
 
 ## 9.28
 
@@ -292,7 +292,7 @@ In this way you will be freed from the bonds of action that bear favourable and 
 
 ### Explanation
 
-The consequence of offering is expressed through freedom from karmic bondage. Both favourable and unfavourable results are included because either can sustain attachment and renewed becoming. Renunciation here accompanies continuing activity, as the previous verse's “whatever you do” makes clear. The chapter therefore gives a devotional expression to the Gita's recurring question of how a person can act fully while relinquishing the binding claim of possession over action and result.
+Offering every act to Krishna frees Arjuna from the bonds of action and its favourable and unfavourable results. Both kinds of fruit are included in the bondage from which he will be released. The yoga of renunciation here follows the command to dedicate continuing activity. Krishna promises that the person thus liberated will come to him.
 
 ## 9.29
 
@@ -302,7 +302,7 @@ I am equal toward all beings; none is hateful or specially dear to me. Yet those
 
 ### Explanation
 
-Equality and reciprocal intimacy are placed together. Krishna denies a pre-existing preference or hostility toward particular beings, while describing a relationship realised through devotion. The verse allows the following assurances to rest on access rather than inherited favouritism. Its closing mutual language also returns to the chapter's earlier account of divine presence, now expressed through the lived relation between the devotee and the one worshipped.
+Krishna declares himself equal toward all beings, with none hateful or dear to him. He then states that those who worship him with devotion dwell in him and that he dwells in them. Both assertions stand together: equality toward beings and mutual dwelling with devotees. The latter describes the particular relation established through their worship.
 
 ## 9.30
 
@@ -312,7 +312,7 @@ Even if a person of very bad conduct worships me with undivided devotion, that p
 
 ### Explanation
 
-The statement gives great weight to a decisive reorientation, even when the person's previous or present conduct is gravely compromised. Its reason is explicitly the direction of resolve, and the next verse describes a rapid movement into a life of dharma. Reading the two together preserves both the strong assurance and its transformative trajectory: the devotion being praised is connected with a changed way of living.
+Even a person of very bad conduct is to be regarded as good if that person worships Krishna with undivided devotion. The stated reason is that the resolve is rightly directed. Krishna places this decisive weight on exclusive worship of himself. The following verse adds that such a devotee soon becomes righteous and attains lasting peace.
 
 ## 9.31
 
@@ -322,7 +322,7 @@ That person soon becomes established in dharma and reaches enduring peace. Decla
 
 ### Explanation
 
-The preceding promise is completed through transformation of character. The movement from serious wrongdoing to dharmic conduct is part of the assurance, and lasting peace is its stated outcome. Krishna then asks Arjuna to proclaim the reliability of divine refuge. In the wider dialogue this matters to a listener struggling with fear, fault and uncertainty: a person's past need not determine the final possibilities of a sincerely redirected life.
+The devotee just described soon becomes righteous and reaches enduring peace. Krishna then commands Arjuna to proclaim that his devotee does not perish. The two verses join the judgement that an exclusively devoted wrongdoer should be regarded as good with a promise of ensuing righteousness, peace and preservation. The assurance is stated as Krishna's word to his devotee.
 
 ## 9.32
 
@@ -332,7 +332,7 @@ For, Partha, even those of sinful birth, women, Vaishyas and Shudras, reach the 
 
 ### Explanation
 
-Pāpa-yoni literally means “sinful birth.” Shankara reads the named groups as examples of that category; Shridhara distinguishes low birth from the further groups, discussing their positions in inherited religious eligibility. Both retain a hierarchy while affirming that refuge in Krishna opens the highest destination across it. This difference in how the list is read matters, alongside the shared emphasis on access to liberation. Verse 9.33 continues the ranked comparison. [3]
+Pāpa-yoni literally means “sinful birth.” Shankara identifies women, Vaishyas and Shudras as the groups so named. Shridhara treats low birth separately, then names Vaishyas engaged in agriculture and women and Shudras excluded from Vedic study. These readings differ in how they group the list. Krishna says that those named attain the highest destination by taking refuge in him. Verse 9.33 makes the further comparison with Brahmins and royal sages. [3]
 
 ## 9.33
 
@@ -342,7 +342,7 @@ How much more, then, meritorious Brahmins and devoted royal sages! Having come i
 
 ### Explanation
 
-The “how much more” continues the ranked comparison of the previous verse rather than erasing its social setting. Brahmins and royal sages represent recognised positions of religious and political distinction. Krishna then turns from that comparison to a direct instruction addressed to Arjuna. The world's impermanence and unsatisfactoriness supply the urgency: inherited advantage, like other limited circumstances, is placed within a life that still requires its governing orientation.
+The comparison gives meritorious Brahmins and devoted royal sages a higher standing than the groups named in the preceding verse: if those groups can attain the highest destination, how much more these. Krishna then commands Arjuna to worship him. The reason given is the condition of the world Arjuna has entered—impermanent and unhappy. Worship is the direct instruction following the ranked comparison.
 
 ## 9.34
 
@@ -352,7 +352,7 @@ Set your mind on me, become my devotee, sacrifice to me and bow to me. Uniting y
 
 ### Explanation
 
-The conclusion gathers the chapter into a sequence of accessible commitments. Mind, devotion, offering and reverence are directed toward the same end, giving coherence to the larger account of divine presence. The promise of coming to Krishna answers the chapter's concern with finite destinations and return. This verse will be echoed near the close of Chapter 18, where the dialogue again brings its many teachings into a personal instruction of devotion.
+Krishna commands Arjuna to direct his mind toward him, become his devotee, sacrifice to him and bow to him. With the self thus joined to Krishna and Krishna taken as the highest aim, Arjuna will come to him. Mind, worship and bodily homage have the same object. The promise concludes the chapter and will be repeated in 18.65.
 
 ## Sources
 

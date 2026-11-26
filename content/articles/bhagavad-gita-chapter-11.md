@@ -10,9 +10,9 @@ tags:
 textSourceHash: 8ba7fdd31991e1edd3b81a56c4a40f7b8269487eda22614b831b80c5f8b7ea29
 ---
 
-Arjuna asks to see the greatness he has heard described. Krishna grants a divine eye, and the conversation becomes a vision narrated first by Sanjaya and then by the overwhelmed Arjuna. The form holds gods, creatures and the entire world, but its radiance also reveals devouring mouths and the death of the assembled warriors. Awe, terror, responsibility and devotion meet in this chapter. Its ending returns from the universal spectacle to the relationship between Krishna and Arjuna.
+Arjuna asks to see Krishna’s universal form and receives the divine eye needed to behold it. He sees gods, worlds and warriors entering its devouring mouths. Krishna declares himself Time, destroyer of worlds, and tells Arjuna to rise and kill the warriors already slain by him. Arjuna praises Krishna, asks forgiveness and requests a gentler form. The chapter concludes with the requirement of undivided devotion.
 
-Each **Meaning** gives an original English rendering of the displayed Sanskrit. Each **Explanation** follows the verse’s wording, its place in the dialogue and its philosophical or devotional context. These are original reader explanations; named traditional interpretations are identified where they are compared. [1–2]
+Each **Meaning** renders the Sanskrit in English. Each **Explanation** follows the verse’s statements, terms and argument. Named traditional interpretations are distinguished where they differ. [1–2]
 
 ## 11.1
 
@@ -22,7 +22,7 @@ Arjuna said: Through the supreme, inward teaching that you have spoken out of ki
 
 ### Explanation
 
-Arjuna begins with gratitude before making his request. Adhyātma concerns the self and the deepest reality, connecting the coming vision with the teaching already given. His statement that delusion has gone belongs to this moment in the dialogue; the vision will still challenge his composure and understanding. Hearing has changed his outlook, and he now wants a more immediate encounter with the divine greatness that Krishna has described.
+Arjuna says that the supreme secret teaching about the self has removed his delusion. He attributes the instruction to Krishna's kindness toward him. Adhyātma names its subject as the self and its deepest reality. This acknowledgement introduces his request to see the divine form: the one whose teaching has dispelled his confusion is now asked to disclose his sovereign appearance.
 
 ## 11.2
 
@@ -42,7 +42,7 @@ Supreme Lord, it is as you have declared yourself to be. Yet I wish to see your 
 
 ### Explanation
 
-Arjuna accepts Krishna's account and asks to see its object. The movement from hearing to seeing drives the chapter, but seeing will require a capacity he does not ordinarily possess. Aiśvara points to divine sovereignty or lordly power. The request therefore concerns the form in which that power becomes visible, going beyond the familiar appearance of the companion who has been speaking with him on the chariot.
+Arjuna affirms that Krishna is as he has declared himself to be, then asks to see his sovereign form. Aiśvara describes divine lordship and its power. Arjuna has heard of Krishna's sourcehood, pervasion and manifestations; he now wants that greatness made visible. He addresses him as the highest Person while requesting the form in which his sovereignty can be seen.
 
 ## 11.4
 
@@ -52,7 +52,7 @@ If you think that I am able to see it, Lord, then, master of yoga, show me your 
 
 ### Explanation
 
-The request includes an acknowledgement of dependence. Arjuna does not claim that desire alone qualifies him to see the form; he leaves both his capacity and the disclosure to Krishna. Calling him the master of yoga recalls the power by which he sustains and manifests the world. That power will also supply the means of vision, so the ensuing experience is presented as a granted revelation rather than an achievement Arjuna independently commands.
+Arjuna asks Krishna to show his imperishable self if Krishna considers him able to see it. The decision is left with the Lord, addressed as the master of yoga. The request links Arjuna's capacity to receive the vision with Krishna's judgement and power. Krishna will answer by granting a divine eye through which the form can be seen.
 
 ## 11.5
 
@@ -62,7 +62,7 @@ The blessed Lord said: Look, Partha, at my forms in their hundreds and thousands
 
 ### Explanation
 
-Krishna answers a request for his form by announcing a multitude of forms. Number, colour and shape exceed any single familiar depiction. The repeated invitation to look begins the visual movement of the chapter, while “divine” marks the disclosure as different from ordinary perception. The hundreds and thousands indicate an abundance whose purpose is to reveal unity through multiplicity, not to furnish a complete numerical inventory.
+Krishna commands Arjuna to look at his divine forms in their hundreds and thousands. They differ in colour and shape. The reply to the request for his sovereign form begins with this multitude, which the following verses fill with named divine hosts and the entire world. Arjuna is to behold these many forms through the sight Krishna grants.
 
 ## 11.6
 
@@ -92,7 +92,7 @@ But you cannot see me with this eye of your own. I give you a divine eye: behold
 
 ### Explanation
 
-The ordinary eye is insufficient for the vision Krishna proposes. He supplies a divine eye, making the event dependent on his gift as well as Arjuna's request. “Sovereign yoga” names the power that brings the revelation about. The verse gives no physical account of an altered organ or a technique for reproducing the experience. Within the narrative, the new capacity allows a finite observer to encounter a form exceeding ordinary limits.
+Krishna says that Arjuna's own eye cannot see him in this form. He therefore gives Arjuna a divine eye and commands him to behold his sovereign yoga. Both the form and the capacity to see it come from Krishna. The disclosure that follows is made possible by this grant of divine sight.
 
 ## 11.9
 
@@ -102,7 +102,7 @@ Sanjaya said: Having spoken in this way, king, Hari, the great master of yoga, t
 
 ### Explanation
 
-The narrative briefly returns to Sanjaya addressing Dhritarashtra, the king who hears the battlefield dialogue. Hari is a name of Krishna, and the repeated description as master of yoga ties the revealed form to the power just announced. Sanjaya's report confirms that the requested vision has begun. The framing also reminds us that the reader receives this encounter through narration, even while Arjuna experiences it as immediate sight.
+Sanjaya addresses Dhritarashtra, the king to whom he narrates the battlefield dialogue. He reports that Hari, Krishna, has shown Arjuna the supreme sovereign form. The description as the great master of yoga identifies the power by which Krishna discloses it. The preceding promise of divine sight is now followed by the revelation itself, whose features Sanjaya describes in the next verses.
 
 ## 11.10
 
@@ -132,7 +132,7 @@ If the radiance of a thousand suns were to rise together in the sky, it might re
 
 ### Explanation
 
-The verse uses a deliberately immense comparison to convey brightness beyond familiar experience. Its conditional wording leaves even a thousand suns as an approximation. In the narrative the image expresses the overwhelming radiance of a divine form; it offers no account of a physical energy source or technological event. It also prepares the reversal to come, when the same blazing brilliance is encountered through mouths that consume the world.
+Sanjaya compares the splendour of the great form to a thousand suns rising simultaneously in the sky. The comparison conveys the immense radiance of the vision, and its conditional wording presents even that brightness as a possible likeness. It follows the description of divine ornaments, garlands and weapons and precedes Arjuna's sight of the whole world gathered within the divine body.
 
 ## 11.13
 
@@ -152,7 +152,7 @@ Then Dhananjaya, filled with wonder and with the hairs of his body standing up, 
 
 ### Explanation
 
-Arjuna's body registers the encounter before he can explain it. Raised hairs, a bowed head and joined hands express wonder and reverence, while the return to his speech brings the reader inside his response. Dhananjaya is another name for Arjuna. The bodily detail matters because the chapter will trace further changes in him: astonishment will become fear, pleading and, finally, restored composure before Krishna's gentler form.
+Arjuna is filled with wonder, his hair stands on end, and he bows his head with his hands joined. Dhananjaya is another name for him. Sanjaya describes these bodily signs of astonishment and reverence before giving Arjuna's own words. Arjuna then names the gods, sages and beings he sees within the form and declares that he can find none of its limits.
 
 ## 11.15
 
@@ -182,7 +182,7 @@ I see you crowned, bearing a mace and a discus, a mass of radiance shining every
 
 ### Explanation
 
-Crown, mace and discus retain recognisable marks of divine sovereignty amid the immeasurable form. The familiar signs offer points of recognition, but their radiance makes the whole difficult to behold. The comparison with fire and sun intensifies the thousand-sun image without turning it into a physical description. Arjuna's account holds recognisability and excess together: he addresses the Krishna he knows through a vision that strains his capacity to look.
+Arjuna sees a crown, mace and discus within the immeasurable form. Its radiance shines on every side, like the brightness of fire and the sun, making it difficult to behold. The familiar divine attributes are joined to overwhelming brilliance. The statement continues his account of the form whose beginning, middle and end he has been unable to find.
 
 ## 11.18
 
@@ -192,7 +192,7 @@ You are the imperishable, the supreme reality to be known. You are the highest r
 
 ### Explanation
 
-Arjuna interprets the sight through the teaching he has heard. Imperishability, the world's resting place and the eternal Person connect vision with earlier philosophical language. His words “I understand” identify these statements as his recognition of the form before him. Eternal dharma introduces order and its guardianship into a chapter that will soon show destruction, making clear that the terrible aspect belongs within a larger claim about divine sovereignty.
+Arjuna identifies Krishna as the imperishable, the highest reality to be known and the supreme resting place of the universe. He also calls him the guardian of eternal dharma and the eternal Person. These declarations apply the names of ultimate reality to the form before him. Arjuna states this as his understanding of the one he now sees.
 
 ## 11.19
 
@@ -202,7 +202,7 @@ I see you without beginning, middle or end, of infinite power and with innumerab
 
 ### Explanation
 
-The cosmic identification becomes explicit: sun and moon are eyes, and the fiery face heats the world. Repeating the absence of beginning, middle and end stresses that the vision has not become bounded through description. The radiance is now active rather than merely beautiful. Its heat begins to turn wonder toward alarm, preparing Arjuna's recognition that the sustaining universal presence also possesses a destructive force he cannot comfortably contain.
+Arjuna sees a form with neither beginning, middle nor end, possessed of infinite power and innumerable arms. The sun and moon are its eyes, and its face blazes like fire. Its radiance heats the whole universe. These cosmic features continue the account of the immeasurable form, while the burning face and heat lead into the terror and destruction described next.
 
 ## 11.20
 
@@ -212,7 +212,7 @@ For the space between heaven and earth, and every direction, is filled by you al
 
 ### Explanation
 
-No direction supplies an outside position from which to observe the form safely. Its presence fills the space between heaven and earth, and the response extends to the three worlds of the traditional cosmos. The description now explicitly joins wonder with terror. This is a crucial change in the chapter: the vision Arjuna desired does not merely confirm a comforting image of greatness but exposes him to its overwhelming scale and power.
+Krishna alone fills the space between heaven and earth and every direction. The three worlds tremble on seeing his extraordinary and terrible form. Arjuna describes the extent of the form and the fear it produces throughout the cosmos. The divine hosts named next enter it or stand praising it in fear and astonishment.
 
 ## 11.21
 
@@ -232,7 +232,7 @@ The Rudras, Adityas, Vasus, Sadhyas, Vishvedevas, the two Ashvins, Maruts and he
 
 ### Explanation
 
-The detailed catalogue expands the divine assembly first introduced in verse 11.6. It includes celestial musicians, Yakshas, Asuras and ancestral beings as well as gods and perfected beings. Uṣmapāḥ, literally those who drink warmth, is a traditional designation for ancestors receiving offerings. Preserving the many names conveys the reach of the vision across the inherited sacred cosmos; its significance is not confined to one class of beings or worshippers.
+Arjuna lists the divine and celestial hosts gazing at Krishna in astonishment. They include the Rudras, Adityas, Vasus, Sadhyas, Vishvedevas, Ashvins and Maruts, together with Gandharvas, Yakshas, Asuras and perfected beings. Uṣmapāḥ, “heat-drinkers,” names the ancestors who receive offerings. All these groups stand within the scene and witness the universal form.
 
 ## 11.23
 
@@ -242,7 +242,7 @@ Seeing your vast form, mighty-armed one, with many mouths and eyes, many arms, t
 
 ### Explanation
 
-Arjuna now states his own fear alongside that of the worlds. The multiplied limbs that earlier signalled wonder are joined by terrible fangs, changing the emotional meaning of the bodily imagery. His phrase “and so do I” breaks through the catalogue with a direct personal admission. Seeing the universal form does not remove his vulnerability; it makes him aware of a power before which even the boundaries of his familiar world are unstable.
+The vast form has many mouths, eyes, arms, thighs, feet and bellies, together with terrible fangs. Arjuna says that the worlds tremble at its sight and that he too trembles. The fangs add the destructive feature that will dominate the following descriptions. His own fear is stated alongside the fear of the worlds.
 
 ## 11.24
 
@@ -252,7 +252,7 @@ Seeing you touching the sky, blazing with many colours, with gaping mouths and e
 
 ### Explanation
 
-The sight now disrupts Arjuna inwardly. The immense eyes and open mouths exceed the scale of a reassuring divine portrait, and the sky itself becomes a measure of their reach. Addressing Krishna as Vishnu connects the universal disclosure to a familiar divine name without reducing its terror. His loss of steadiness also contrasts with the composed awareness recommended in earlier chapters, showing how demanding the granted vision has become for its recipient.
+The form reaches the sky, blazes in many colours and has enormous shining eyes and open mouths. Arjuna says that the sight shakes his inner being and deprives him of steadiness and peace. He addresses Krishna as Vishnu. The account joins the visible features of the form to Arjuna's declared fear and loss of composure.
 
 ## 11.25
 
@@ -262,7 +262,7 @@ Seeing your mouths with terrible fangs, like the fires at the end of time, I no 
 
 ### Explanation
 
-The comparison invokes cosmic dissolution, when the world's ordinary arrangements no longer provide security. Arjuna's loss of direction is both spatial and emotional: no path out of the vision offers him relief. He therefore turns from describing it to asking for grace. Calling the terrifying presence the world's dwelling place preserves the paradox at the heart of the scene: the one in whom beings rest also appears as the fire that ends their world.
+The fanged mouths appear like the fires that destroy the world at the end of time. Arjuna loses his sense of direction and finds no comfort or refuge. He asks for grace from the very Lord whose form terrifies him, calling him the Lord of gods and dwelling place of the universe. The appeal follows directly from the sight of those consuming mouths.
 
 ## 11.26
 
@@ -282,7 +282,7 @@ They rush into your frightening mouths, terrible with fangs. Some are seen caugh
 
 ### Explanation
 
-The description is explicitly violent. The named warriors of the preceding verse enter the mouths, and some appear with shattered heads between the teeth. The image brings Arjuna's original fear of slaughter into the vision rather than dissolving it into an abstract doctrine. Its force depends on the collision between identifiable persons and a cosmic process that appears already to contain their deaths. Krishna's account of time will soon address that collision.
+The warriors named in 11.26 rush into Krishna's fanged mouths. Some are caught between the teeth with their heads crushed to pieces. The vision shows the deaths of Bhishma, Drona, Karna, Dhritarashtra's sons and warriors on Arjuna's own side. These identifiable persons enter the destructive divine form that Arjuna has been describing.
 
 ## 11.28
 
@@ -292,7 +292,7 @@ As the many currents of rivers rush toward the ocean alone, so these heroes of t
 
 ### Explanation
 
-The first comparison presents the warriors' movement as a convergence, like separate rivers reaching a single sea. It gives the vision a sense of vast direction and apparent inevitability. The warriors remain heroes of the human world, so their stature is recognised even while their individual powers cannot halt the movement. The ocean image is familiar and majestic, but here it leads into blazing mouths rather than a tranquil resting place.
+The movement of the warriors into Krishna's mouths is compared to rivers rushing into the ocean. Many streams converge upon one destination, just as the heroes of the human world enter the blazing mouths. The comparison describes the force and direction of their entry. The following verse adds the image of moths entering a fire toward destruction.
 
 ## 11.29
 
@@ -302,7 +302,7 @@ As moths hurry into a blazing flame toward their destruction, so these people hu
 
 ### Explanation
 
-The second comparison sharpens the first. Rivers entering the sea suggested convergence; moths entering fire make destruction explicit and introduce a disturbing haste toward it. The repeated language of destruction prevents the image from being read simply as peaceful union. Arjuna is seeing the approaching deaths of people, not merely the disappearance of abstract forms. The spectacle deepens the urgency of his question about the identity and purpose of the power before him.
+Moths rush into a burning flame and perish in it. Arjuna sees the same haste toward destruction in the people entering Krishna's mouths. Destruction is repeated in the comparison and its application to the warriors. The river image described their convergence; the moth image states the death that awaits those entering the blazing form.
 
 ## 11.30
 
@@ -312,7 +312,7 @@ Devouring all the worlds with blazing mouths, you lick them up on every side. Yo
 
 ### Explanation
 
-The scale expands again from the warriors to all worlds. Devouring and licking are visceral acts, while the radiance that first inspired wonder now scorches the universe. This change is part of the chapter's narrative movement, not a separate form unrelated to the earlier splendour. Arjuna remains in address to Vishnu, recognising divine identity while struggling with what that identity includes. Beauty and terror have become inseparable features of his encounter.
+Krishna's blazing mouths devour all the worlds, licking them up on every side. His fierce radiance fills and scorches the universe. Arjuna again addresses him as Vishnu while describing this destruction. The sight moves beyond the warriors entering the mouths to the consumption of all worlds, leading to his question about the terrible form's identity and purpose.
 
 ## 11.31
 
@@ -332,7 +332,7 @@ The blessed Lord said: I am Time, grown mighty, destroyer of worlds, engaged her
 
 ### Explanation
 
-Kāla means time and carries the force of death in this declaration. Krishna identifies himself with the power that brings worlds and warriors to their end. The statement directly answers Arjuna's question about the terrible form's undertaking. “Even without you” diminishes Arjuna's control over the ultimate outcome, but the next verse still commands him to act. The tension between an already determined end and personal participation is deliberately present in the dialogue.
+Krishna identifies himself as Kāla, Time, grown mighty and destroying worlds. He says that his present undertaking is their destruction. All the warriors in the opposing ranks will cease to exist even without Arjuna's action. This answers the question about the terrible form's purpose and precedes the command that Arjuna arise and take part in the killing already accomplished by Krishna.
 
 ## 11.33
 
@@ -342,7 +342,7 @@ Therefore arise, win renown, defeat your enemies and enjoy a flourishing kingdom
 
 ### Explanation
 
-The vision turns into an instruction to fight. Savyasachin, an epithet praising Arjuna's skill with either hand, addresses the warrior whose action is now required. Krishna describes the opponents as already slain by him and assigns Arjuna the role of instrument. The promise includes renown and a kingdom, retaining the concrete stakes of the battle. The verse joins divine determination to human participation rather than offering withdrawal as the consequence of the revelation.
+Krishna commands Arjuna to arise, win renown, defeat his enemies and enjoy a prosperous kingdom. He says that he has already slain the opponents and that Arjuna is to be merely his instrument. Savyasachin praises Arjuna's ability to wield the bow with either hand. That skilled warrior is now ordered to accomplish the victory whose victims Krishna declares already killed.
 
 ## 11.34
 
@@ -352,7 +352,7 @@ Strike down Drona, Bhishma, Jayadratha, Karna and the other warrior heroes whom 
 
 ### Explanation
 
-The command names particular people, including Arjuna's revered elders and teacher. This specificity keeps the chapter tied to the moral crisis that began the dialogue. Krishna's assurance of victory and claim to have already slain them reinforce the preceding account of instrumental action. The instruction is addressed to Arjuna in this narrated battle; its immediate meaning cannot be replaced by a purely inward struggle without losing the verse's explicit persons and acts.
+Krishna names Drona, Bhishma, Jayadratha and Karna among the warriors Arjuna must strike down. Drona is his teacher and Bhishma his revered elder. Krishna again says that he has already slain them. He commands Arjuna to overcome his trembling and fight, promising victory over his enemies in battle. The names specify the killing required of him.
 
 ## 11.35
 
@@ -362,7 +362,7 @@ Sanjaya said: Hearing these words of Keshava, the crowned Arjuna trembled, joine
 
 ### Explanation
 
-Sanjaya's intervention describes the effect of the answer on Arjuna. The warrior's crown recalls his public standing, while trembling and faltering speech reveal his vulnerability before Keshava. The repeated bows convey an encounter that exceeds his ability to respond with steady words. Krishna has offered a course of action, but emotional resolution has not instantly followed. Arjuna next seeks a way to speak to the overwhelming presence as a devotee and companion.
+Arjuna trembles after hearing Krishna's declaration and command. He bows repeatedly with joined hands and answers in a faltering voice, overcome by fear. Sanjaya describes him as crowned, identifying the warrior who receives the order. The visible trembling and broken speech continue Arjuna's response to the destructive form even after Krishna has explained its undertaking.
 
 ## 11.36
 
@@ -372,7 +372,7 @@ Arjuna said: It is fitting, Hrishikesha, that the world delights in your praise 
 
 ### Explanation
 
-Arjuna begins his renewed speech by affirming that different responses to Krishna's greatness are fitting. Delight and devotion stand alongside the fear and flight of Rakshasas, while perfected beings bow. Hrishikesha, a name associated with lordship over the senses, addresses the same Krishna who guides his chariot. The verse begins a sustained praise that gives verbal order to the experience, even though its terror has not yet been removed.
+Arjuna says that the world's delight and devotion are fitting responses to Krishna's praise. Rakshasas flee from him in terror, while the hosts of perfected beings bow. These responses are presented together as appropriate to his greatness. Hrishikesha, the name used in the address, describes Krishna as Lord of the senses. Arjuna continues by declaring why all beings should bow before him.
 
 ## 11.37
 
@@ -382,7 +382,7 @@ Why should they not bow to you, great self, greater even than Brahma and the fir
 
 ### Explanation
 
-Arjuna grounds the universal homage in Krishna's priority to even the creator Brahma. Being and non-being, sat and asat, extend the claim across the categories through which existence is ordinarily understood, while “beyond” refuses to confine him within that pair. The verse belongs to the language of praise, expressing the scope of Arjuna's recognition. It reconnects the terrifying sight to the metaphysical descriptions through which Krishna had earlier explained his relation to the world.
+Arjuna says that Krishna is greater than Brahma and the first creator, so all beings have reason to bow before him. He calls him infinite, Lord of gods and the universe's dwelling place. Krishna is identified as the imperishable, as sat and asat—being and non-being—and as what lies beyond both. The praise asserts his priority to the creator and his transcendence of these paired terms.
 
 ## 11.38
 
@@ -392,7 +392,7 @@ You are the primal God, the ancient Person. You are the highest resting place of
 
 ### Explanation
 
-The praise brings together origin, knowledge and refuge. Krishna is described as both the knower and the object of knowledge, moving beyond a simple separation between a detached observer and the reality observed. Resting place and supreme abode recall the goal of earlier teaching about liberation. Arjuna is therefore interpreting the vision as a disclosure of the reality already discussed, even as its infinite form remains far more overwhelming than hearing about it had been.
+Arjuna calls Krishna the primal God and ancient Person, the universe's highest resting place and supreme abode. He identifies him as both the knower and what is to be known. The universe is pervaded by his infinite form. These names join origin, knowledge, support and destination in Arjuna's account of the God before whom he bows.
 
 ## 11.39
 
@@ -402,7 +402,7 @@ You are Vayu, Yama, Agni, Varuna, the moon, Prajapati and the great-grandfather.
 
 ### Explanation
 
-Wind, death's ruler, fire, Varuna, the moon and the progenitor are gathered into the address to Krishna. The great-grandfather extends the praise to a source beyond the familiar progenitors themselves. These identifications recall Chapter 10's manifestations, now spoken in response to the comprehensive vision. The repeated homage is not an added argument but a devotional response: language turns into recurring salutation before a presence that Arjuna cannot finish describing.
+Arjuna identifies Krishna with Vayu, Yama, Agni, Varuna, the moon and Prajapati. The great-grandfather places him before the world's progenitors as well. These divine identities are followed by repeated homage, offered a thousand times and again and again. The many names and salutations continue his recognition of the universal form as encompassing the gods and their powers.
 
 ## 11.40
 
@@ -432,7 +432,7 @@ And whatever disrespect I showed you in jest, while playing, resting, sitting or
 
 ### Explanation
 
-The list makes their friendship concrete: recreation, rest, meals and conversation had allowed playful familiarity. Arjuna now measures those moments against the divine greatness he has seen. His request is directed both to the unfailing companion and to the immeasurable Lord, keeping those aspects together in one address. The apology prepares the return to a gentler form; the vision has altered the meaning of intimacy without making the personal relationship disappear.
+Arjuna asks forgiveness for disrespect shown through joking during recreation, rest, sitting and meals. He includes occasions when they were alone and when others were present. The confession continues the preceding account of addressing Krishna simply as friend without knowing his greatness. Calling him unfailing and immeasurable, Arjuna asks pardon for all those acts of familiarity.
 
 ## 11.43
 
@@ -442,7 +442,7 @@ You are the father of the world, of all that moves and does not move. You are it
 
 ### Explanation
 
-Fatherhood gives the encompassing reality a relational expression, while the greatest teacher recalls Krishna's role in the dialogue itself. The claim of having no equal or superior is explicit and belongs to Arjuna's devotional recognition of this Lord. Moving and unmoving again give the statement its universal reach. The verse leads toward an appeal to the patience of a father and friend, asking whether supreme greatness can also receive a familiar person's failings.
+Arjuna calls Krishna the father of all moving and unmoving beings and their greatest, most venerable teacher. No one in the three worlds equals him, and no one can therefore be greater. The declaration gives universal scope to his authority and power. It leads into Arjuna's appeal that this supreme father and teacher forgive his former familiarity.
 
 ## 11.44
 
@@ -452,7 +452,7 @@ Therefore I bow down, prostrating my body, and ask your grace, worshipful Lord. 
 
 ### Explanation
 
-Arjuna asks for patience through three relationships: parent and child, friendship, and love. These comparisons restore the possibility of closeness after the terror of the universal form. His bodily prostration acknowledges the difference in power, while the relational examples ask that greatness express itself as forbearance. The verse shows devotion as an exchange involving vulnerability and trust, not simply admiration for a remote cosmic force.
+Arjuna prostrates his body and asks Krishna to bear with him. He gives three comparisons for the forgiveness he seeks: a father with a son, a friend with a friend, and a beloved with the beloved. The request concerns the disrespect through familiarity confessed in 11.41–42. Arjuna asks for grace from the Lord whom he has just declared unequalled in all three worlds.
 
 ## 11.45
 
@@ -462,7 +462,7 @@ I am delighted to have seen what was never seen before, yet my mind is shaken by
 
 ### Explanation
 
-Delight and fear remain simultaneous. Arjuna does not retract the value of the vision, but he acknowledges that he cannot remain composed within it. “That form” points toward a more approachable appearance, specified in the following verse. His request completes the emotional movement from the wish to see the universal form to the need for relief from it. Grace is asked for both in receiving revelation and in returning from its overwhelming intensity.
+Arjuna declares both delight at the unprecedented vision and fear that shakes his mind. He asks Krishna to show the earlier form and to be gracious. The same Lord is addressed as Lord of gods and dwelling place of the universe. The following verse specifies the appearance Arjuna wants to see: crowned, bearing mace and discus, with four arms.
 
 ## 11.46
 
@@ -472,7 +472,7 @@ I wish to see you just so, crowned, holding the mace and discus. Take that same 
 
 ### Explanation
 
-Arjuna explicitly asks for a four-armed form with crown, mace and discus. The contrast with the thousand-armed universal form concerns an appearance he can recognise and approach more steadily. It is useful to preserve the detail of four arms, since verse 11.51 will speak of a gentle human form. The chapter moves through these descriptions without supplying a separate account here of every transition between them.
+Arjuna asks Krishna to take the four-armed form bearing crown, mace and discus. He addresses the universal form as thousand-armed while requesting this particular appearance. The many arms of the terrifying disclosure are thus contrasted with the four arms he wishes to see. His request follows the admission that the universal vision has filled him with both delight and fear.
 
 ## 11.47
 
@@ -482,7 +482,7 @@ The blessed Lord said: Out of favour toward you, Arjuna, I have shown you throug
 
 ### Explanation
 
-Krishna answers the plea by recalling the gift through which the vision became possible. His own yoga, rather than ordinary sight, disclosed the radiant and infinite form. The statement emphasises Arjuna's exceptional favour within this encounter. It also helps explain why the vision has exceeded what he could comfortably bear: its scale was never a measure of his independent capacity. The next verses distinguish this granted seeing from achievements obtained through religious practices alone.
+Krishna says that he has shown the supreme form out of favour toward Arjuna and through his own yoga. He names it radiant, universal, infinite and primal. No one other than Arjuna has seen it before. The verse attributes the revelation to Krishna's power and grace and states the exceptional position of its recipient.
 
 ## 11.48
 
@@ -492,7 +492,7 @@ Neither through Vedic study and sacrifice, nor through gifts, rites or severe au
 
 ### Explanation
 
-The practices named carry recognised religious weight: sacred learning, sacrifice, generosity, rites and austerity. Krishna says they do not themselves make this particular vision available to others. The distinction concerns the form just revealed and the favour granted to Arjuna; it does not erase the discussion of meaningful disciplined action elsewhere in the Gita. The verse prepares the later emphasis on undivided devotion as the means of truly knowing and entering Krishna.
+Vedic learning, sacrifice, gifts, rites and severe austerities cannot produce the sight of this form that Arjuna has received. Krishna says that no one else in the human world can see him in this way through those practices. The statement continues his declaration that the vision has been given to Arjuna through favour and his own yoga.
 
 ## 11.49
 
@@ -512,7 +512,7 @@ Sanjaya said: Having spoken so to Arjuna, Vasudeva again showed his own form. Be
 
 ### Explanation
 
-The narration confirms the change Krishna promised. Vasudeva is another name for Krishna, whose own gentle form now comforts Arjuna. Sanjaya emphasises the relation between the change of appearance and the frightened recipient, rather than providing a full visual inventory. The return demonstrates that the personal companion has not been displaced by the universal disclosure. The one who revealed the terrible form also responds to the person's need for reassurance.
+Sanjaya reports that Vasudeva shows his own form again and becomes gentle in appearance. He comforts Arjuna, who remains afraid after the universal vision. Vasudeva is Krishna's name. The change fulfils the promise in 11.49 that Arjuna will again behold the earlier form, free from the terror produced by the devouring mouths.
 
 ## 11.51
 
@@ -522,7 +522,7 @@ Arjuna said: Seeing this gentle human form of yours, Janardana, I have now regai
 
 ### Explanation
 
-Arjuna himself confirms the effect of the gentle appearance. His language is direct: the form is human, his awareness is steady again, and he has returned to his usual condition. The verse should be read alongside his earlier request for a four-armed appearance, preserving both descriptions. Emotional recovery does not cancel what he has seen. It allows the dialogue to continue with Krishna once more encountered in an approachable personal form.
+Arjuna calls the form now before him gentle and human. On seeing it, he regains his composure and returns to his normal state. This follows the request for the four-armed appearance in 11.46 and Sanjaya's report that Krishna has shown his own gentle form. Arjuna's reply states the relief that the change of form brings him.
 
 ## 11.52
 
@@ -532,7 +532,7 @@ The blessed Lord said: This form of mine which you have seen is very difficult t
 
 ### Explanation
 
-Krishna emphasises the rarity of the vision after Arjuna has regained composure. Even divine status does not automatically supply the desired sight. The reference to “this form” comes after the movement from universal to gentle appearance, and readers should attend to that sequence when considering its scope. The following verses develop the main practical point: sacred achievement alone does not replace the devotion through which Krishna is known, seen and entered.
+Krishna says that the form Arjuna has seen is very difficult to behold and that even the gods continually desire its sight. The words follow the return to a gentle human appearance after the universal vision. “This form” is thus spoken within that sequence. Krishna then explains which practices cannot secure such a sight and names undivided devotion as its means.
 
 ## 11.53
 
@@ -542,7 +542,7 @@ Neither through the Vedas, nor through austerity, gifts or sacrifice, can I be s
 
 ### Explanation
 
-The list recalls verse 11.48, returning from the extraordinary vision to the question of access. Learning, self-discipline, giving and sacrifice do not independently amount to the seeing Arjuna has received. This repetition stresses the insufficiency of external achievement as a claim upon the divine disclosure. The positive account arrives immediately next, where undivided devotion supplies the relation in which knowing, seeing and entering Krishna become possible.
+Krishna repeats that the Vedas, austerities, gifts and sacrifice do not enable a person to see him as Arjuna has seen him. The same practices were excluded as means in 11.48. Here the exclusion leads immediately to the declaration that undivided devotion enables true knowledge, sight and entry into him.
 
 ## 11.54
 
@@ -552,7 +552,7 @@ But through undivided devotion, Arjuna, I can in this way be known, seen in trut
 
 ### Explanation
 
-Ananyā bhakti is devotion without a divided allegiance or competing ultimate aim. Krishna joins three expressions—knowing, seeing and entering—so the goal goes beyond witnessing an impressive form. The phrase “in truth” recalls the Gita's concern with understanding reality as it is, while entering points toward the fulfilment of the devotee's relation to him. This verse prepares the concrete description of a devotee's life with which the chapter ends.
+Krishna states that undivided devotion enables him to be known, seen in truth and entered. Ananyā bhakti means devotion directed to him without another object. The three acts of knowing, seeing and entering are all included in the promise. This follows the exclusion of Vedic learning, austerity, gifts and sacrifice as means of obtaining the sight Arjuna has received.
 
 ## 11.55
 
@@ -562,7 +562,7 @@ One who acts for me, holds me as the highest end, is devoted to me, is free from
 
 ### Explanation
 
-The chapter concludes with a pattern of living rather than another visual marvel. Action is directed toward Krishna, devotion gives it an ultimate aim, and freedom from attachment changes its motive. The instruction to bear hostility toward no being stands beside the chapter's explicit command to Arjuna to fight, leaving readers to consider how disposition, duty and violence are held together in the dialogue. The final promise is personal and direct: such a devotee comes to Krishna.
+Krishna names five conditions of the person who comes to him: acting for him, taking him as the highest goal, being his devotee, abandoning attachment and bearing hostility toward no being. Action, purpose, devotion and disposition are all specified. The promise of coming to Krishna is attached to this combination of service to him, exclusive aim, non-attachment and absence of enmity.
 
 ## Sources
 

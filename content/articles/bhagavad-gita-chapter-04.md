@@ -10,9 +10,9 @@ tags:
 textSourceHash: 3ba571de74be9bd1a569bfe64eb1924bed1cdadedfcdbda3d1b2719ea92b80a5
 ---
 
-Chapter 4 gives the teaching a longer history and asks who Krishna is as its speaker. From the account of divine manifestation, it turns to the difficult distinction between action and freedom from action. Sacrifice then becomes a language for many forms of disciplined offering, culminating in the understanding that changes how a person sees the self, other beings and Krishna.
+Krishna describes the ancient transmission of yoga and his own repeated manifestations to protect the good, destroy wrongdoers and establish dharma. He explains action and non-action, several forms of sacrifice, and knowledge that burns away karma. Arjuna is instructed to obtain knowledge from those who have seen the truth and to cut through his doubt.
 
-Each **Meaning** gives an original English rendering of the displayed Sanskrit. Each **Explanation** follows the verse’s wording, its place in the dialogue and its philosophical or devotional context. These are original reader explanations; named traditional interpretations are identified where they are compared. [1–3]
+Each **Meaning** renders the Sanskrit in English. Each **Explanation** follows the verse’s statements, terms and argument. Named traditional interpretations are distinguished where they differ. [1–3]
 
 ## 4.1
 
@@ -22,7 +22,7 @@ The Lord said: I taught this enduring yoga to Vivasvan; Vivasvan taught it to Ma
 
 ### Explanation
 
-Krishna places the teaching within a sacred line of transmission. Vivasvan, Manu and Ikshvaku connect it with the solar and royal traditions of the epic world. Calling the yoga enduring identifies its continuing significance even before the next verse describes its disappearance from human practice. The teaching Arjuna hears is presented as a recovery of wisdom that earlier rulers were expected to embody.
+Krishna says he taught this imperishable yoga to Vivasvan, the sun god. Vivasvan transmitted it to Manu, and Manu to Ikshvaku. The teaching is thus traced through divine and royal ancestors before being taught again to Arjuna.
 
 ## 4.2
 
@@ -42,7 +42,7 @@ That same ancient yoga has been taught by me to you today, because you are my de
 
 ### Explanation
 
-Arjuna’s relationship with Krishna is given as a reason for this renewed teaching. Devotion and friendship establish a setting of trust in which a difficult instruction can be received. Calling it a secret suggests depth and a need for genuine understanding. The verse also links the intimate conversation on the chariot with the much longer transmission described in the preceding two verses.
+Krishna teaches the same ancient yoga to Arjuna because Arjuna is both his devotee and his friend. He calls it the highest secret. The verse identifies their relationship as the reason Arjuna receives the teaching that had been lost from the line of transmission.
 
 ## 4.4
 
@@ -82,7 +82,7 @@ Whenever dharma declines and adharma rises, descendant of Bharata, then I bring 
 
 ### Explanation
 
-The reason for manifestation is expressed through the condition of *dharma*, the order of right conduct and obligation. Krishna’s language is responsive: the rise of its opposite calls forth divine presence. The verse develops the previous account of a manifestation governed by Krishna’s own power. Its focus is the relationship between that freedom and the repair of a world in which right order has weakened.
+Krishna declares that he brings himself forth whenever dharma declines and adharma rises. His manifestation responds to the deterioration of righteousness and prescribed order. The statement explains when the divine manifestation described in 4.6 occurs.
 
 ## 4.8
 
@@ -92,7 +92,7 @@ For the protection of the good, the destruction of wrongdoers and the re-establi
 
 ### Explanation
 
-Three purposes give the preceding promise its shape: protecting, overcoming destructive conduct and restoring dharma. “Age after age” places such manifestation within recurring time. The immediate epic setting contains a struggle over rule and responsibility, while the wording reaches beyond this one moment. Krishna presents divine action as serving a sustaining order, continuing the account of action without private need from Chapter 3.
+Krishna names three purposes of his recurring manifestation: protection of the good, destruction of wrongdoers and restoration of dharma. “Age after age” states that these divine manifestations recur.
 
 ## 4.9
 
@@ -122,7 +122,7 @@ In whatever way people approach me, I respond to them accordingly. In every way,
 
 ### Explanation
 
-Krishna describes a responsive relationship between the seeker’s approach and the result encountered. The following verse gives one example: worship directed toward a desired success. The breadth of “in every way” places many human pursuits within Krishna’s encompassing order. The chapter still distinguishes their aims and fruits, asking the reader to consider what kind of fulfilment a particular approach actually seeks.
+Krishna responds to people according to the manner in which they approach him. He also declares that people follow his path in every way. Different approaches receive corresponding results; the next verse identifies quick success in action as one such aim.
 
 ## 4.12
 
@@ -132,7 +132,7 @@ Those who desire success in their actions worship the gods here, for success bor
 
 ### Explanation
 
-The attraction of worship for a particular result is its apparent immediacy. Krishna describes it as a pursuit of outcomes arising from action, continuing the distinction between limited rewards and freedom from dependence on them. The gods remain part of the text’s religious world. The verse identifies the aim of this mode of worship before the chapter returns to the action that does not bind its divine source.
+People who want success in action worship the gods because action produces success quickly in the human world. Krishna states the efficacy of this worship and identifies its aim as success, in contrast with the liberation discussed in the surrounding verses.
 
 ## 4.13
 
@@ -152,7 +152,7 @@ Actions do not stain me, and I have no longing for their fruits. One who underst
 
 ### Explanation
 
-Krishna explains the non-doership stated in the preceding verse through freedom from craving for results. Action does not attach to him as a stain because it does not proceed from an unmet personal need. Understanding this supplies a model for the seeker’s practice. The discussion therefore links knowledge of the divine speaker with a changed way of performing ordinary human action.
+Krishna says actions do not stain him because he has no desire for their fruits. The person who knows him in this way is likewise not bound by action. Knowledge of Krishna’s freedom from action’s effects is therefore said to free the knower from those bonds.
 
 ## 4.15
 
@@ -162,7 +162,7 @@ Knowing this, earlier seekers of liberation also performed action. Therefore you
 
 ### Explanation
 
-The appeal to earlier seekers answers the temptation to treat freedom as a reason to stop acting prematurely. Their understanding of unbound action supported conduct appropriate to their path. Arjuna is asked to enter that continuity of practice. The verse recalls the chapter’s opening transmission while preparing a closer examination of why action, inaction and their consequences are difficult to distinguish.
+Earlier seekers of liberation knew this freedom from bondage and nevertheless performed action. Krishna commands Arjuna to act as they did. Their example supports the continued performance of action by one who seeks liberation.
 
 ## 4.16
 
@@ -192,7 +192,7 @@ One who sees inaction in action and action in inaction is wise among people; tha
 
 ### Explanation
 
-The verse challenges an equation between visible movement and binding agency. A person may act while free from possessive identification, while another may appear inactive yet remain occupied by desire or avoidance. The following verses explain this discernment through freedom from craving and attachment to fruits. The paradox therefore directs attention to the understanding that accompanies conduct, which is central to the chapter’s account of liberation.
+The wise person sees inaction within action and action within inaction. The distinction concerns the true character of agency rather than the mere presence or absence of bodily movement. The following verses describe the knower who continues to act while free from desire, attachment and the binding effects of action.
 
 ## 4.19
 
@@ -202,7 +202,7 @@ Those whose undertakings are all free from desire-driven intentions, and whose a
 
 ### Explanation
 
-Knowledge is pictured as fire because it transforms the binding force of action. *Kāma-saṅkalpa* points to intentions formed around desired possession or enjoyment. Their absence changes how an undertaking is inhabited. The verse begins a series of portraits showing what the preceding paradox means in practice: the wise person’s activity continues, but its roots in craving and egoic appropriation have been removed.
+The undertakings of the wise are free from desires and the intentions formed around them. Knowledge burns their actions as fire burns fuel, destroying their capacity to bind. These are the conditions by which Krishna identifies the person whom the discerning call wise.
 
 ## 4.20
 
@@ -212,7 +212,7 @@ Having abandoned attachment to the fruits of action, always content and dependin
 
 ### Explanation
 
-“Does nothing” describes the freedom of the knower from the binding identification of the doer. The sentence expressly retains full engagement in activity. Contentment and freedom from dependence explain how the two claims belong together: the person no longer needs an outcome to complete the self. The verse develops the “inaction in action” of 4.18 by describing the orientation of someone who has realised it.
+The person has relinquished attachment to action’s fruits, is always content and depends on nothing. Krishna says that even while fully engaged in action, this person does nothing at all. The verse states non-doership alongside continuing outward activity, extending the distinction between action and inaction introduced in 4.18.
 
 ## 4.21
 
@@ -222,7 +222,7 @@ Free from expectation, with mind and self governed and all possessiveness relinq
 
 ### Explanation
 
-The portrait becomes deliberately spare. Expectations and acquisitive claims have fallen away, and remaining activity attends to the needs of embodied existence. In this setting, self-governance means that desire does not continually generate fresh demands. The verse shows one form of the freedom discussed in 4.18–20, locating spiritual discipline in the actual manner of living with a body.
+The person has relinquished expectation and possessions and brought mind and self under control. Activity continues only for the maintenance of the body. Krishna declares that this person incurs no sin through such action, continuing the account of action that does not bind.
 
 ## 4.22
 
@@ -252,7 +252,7 @@ The offering instrument is Brahman; the offering is Brahman; it is offered by Br
 
 ### Explanation
 
-The verse names the parts of a sacrifice and places every one within Brahman: instrument, substance, agent, fire and destination. Its repeated naming changes the worshipper’s vision of the act. The offering is seen in relation to the sacred reality that encompasses it. Read within this passage, such understanding removes the narrow claim that an isolated ego owns the whole process and its result.
+Every element of the sacrifice is identified with Brahman: the instrument of offering, the substance offered, the agent, the fire and the act. The person absorbed in action as Brahman reaches Brahman. This is the vision of sacrifice expressed through knowledge.
 
 ## 4.25
 
@@ -262,7 +262,7 @@ Some yogins attend to sacrifice offered to the gods; others offer sacrifice itse
 
 ### Explanation
 
-Different forms of offering begin to appear. One retains worship directed toward the gods, while another is described through the encompassing fire of Brahman introduced in 4.24. The compressed wording allows sacrifice to include the transformation of the worshipper’s own understanding. The coming verses continue this expansion by presenting restraint, sense experience, breath, study and knowledge through the same language of offering.
+Some yogins offer sacrifice to the gods. Others offer sacrifice into the fire of Brahman, continuing the identification of sacrificial elements with Brahman in 4.24. Krishna begins a list of forms of sacrifice that includes ritual offerings, restraint, study and control of the vital breaths.
 
 ## 4.26
 
@@ -272,7 +272,7 @@ Some offer the senses, beginning with hearing, into the fires of restraint; othe
 
 ### Explanation
 
-The sacrificial image is applied to two kinds of engagement. In one, sensory activity is gathered into restraint. In the other, objects are received through the senses within a disciplined orientation. Both are presented as offerings. The point is to examine how sensory life is governed and given a purpose, extending the earlier inquiry into attachment beyond the setting of an external ritual.
+The senses themselves are offered into the fires of restraint in one sacrifice. In another, sound and the other sense objects are offered into the fires of the senses. The verse uses the structure of sacrifice to describe restraint of sensory activity and the reception of objects by the senses.
 
 ## 4.27
 
@@ -282,7 +282,7 @@ Others offer all the activities of the senses and the life-breaths into the fire
 
 ### Explanation
 
-The offering now includes the whole range of sensory and vital activity. Knowledge lights the fire, giving self-restraint an intelligible aim. This is a fuller surrender of embodied processes into discipline rather than a focus on one object or one sense alone. The verse keeps understanding close to practice: the power to transform activity depends on how the person sees what is being offered.
+All the activities of the senses and the vital breaths are offered into the fire of yogic self-restraint. Knowledge kindles this fire. The sacrifice encompasses the sensory and vital operations together, rather than one sense or one object alone.
 
 ## 4.28
 
@@ -292,7 +292,7 @@ Others offer material goods, austerity or yoga; still others, striving with firm
 
 ### Explanation
 
-Krishna’s catalogue includes both material and inward disciplines. Resources, ascetic effort, sustained practice, recitation or study, and knowledge can each enter the structure of sacrifice. Their variety connects people with different capacities and forms of dedication. The description also prepares the later comparison in 4.33, where knowledge is given a special place because it clarifies the purpose and meaning of the other offerings.
+The sacrifices named here consist of material goods, austerity, yoga, sacred study and knowledge. The practitioners are ascetics who strive and observe firm vows. These forms belong to the catalogue of sacrifices whose purifying effect Krishna states in 4.30.
 
 ## 4.29
 
@@ -312,7 +312,7 @@ Others, disciplined in food, offer the life-breaths into the life-breaths. All t
 
 ### Explanation
 
-The catalogue reaches another form of bodily restraint and then draws its examples together. Regulation of food and vital activity belongs to the same broad pattern as study, austerity and material offering. Krishna identifies a shared purifying direction across these practices. The verse’s concluding statement concerns the practitioners as a group, preparing the image of a sustaining remainder in the next verse.
+Some regulate their food and offer the vital breaths into the vital breaths. Krishna then describes all the practitioners in the catalogue as knowers of sacrifice whose sins or impurities are destroyed through sacrifice. Purification is attributed to the sacrifices they perform.
 
 ## 4.31
 
@@ -322,7 +322,7 @@ Those who partake of the nectar remaining from sacrifice reach eternal Brahman. 
 
 ### Explanation
 
-The remainder of sacrifice represents sustenance received through offering, an image already used for food in 3.13. Here it is called nectar and connected with the movement toward Brahman. Krishna’s rhetorical question makes participation fundamental: a life that only takes cannot fully inhabit the order described in Chapter 3. The religious horizon of another world extends that argument beyond immediate human welfare.
+Those who eat the nectar left after sacrifice attain eternal Brahman. Krishna denies even this world to the person who performs no sacrifice and asks how such a person could attain another world. Sacrifice is presented as necessary for worldly and otherworldly attainment.
 
 ## 4.32
 
@@ -332,7 +332,7 @@ Thus many forms of sacrifice are spread out in sacred revelation. Know them all 
 
 ### Explanation
 
-The variety just described is presented as grounded in sacred teaching. Even inward disciplines involve activity, so their spiritual value cannot depend simply on eliminating every form of action. Understanding their nature and purpose is what matters. The verse gathers the catalogue before moving to the distinctive role of knowledge, which makes clear how different offerings belong to a path of release.
+The many sacrifices are set forth in the Veda and all arise from action. Krishna tells Arjuna to know their origin in action and promises release through this knowledge. The catalogue establishes the range of sacrificial activity before knowledge is ranked above material sacrifice.
 
 ## 4.33
 
@@ -342,17 +342,17 @@ The sacrifice of knowledge is higher than sacrifice consisting of material goods
 
 ### Explanation
 
-Knowledge receives priority because the chapter has been examining the understanding that makes an offering liberating. Material giving remains within the catalogue, while insight clarifies the relationship among agent, act and aim. “Finds its fulfilment” suggests completion in understanding. This leads directly to the question of learning: the next verse describes how a seeker approaches those able to teach such knowledge.
+Krishna explicitly ranks the sacrifice of knowledge above sacrifice made with material goods. All action reaches completion in knowledge. The verse establishes a hierarchy among the sacrifices just listed and gives knowledge the highest place.
 
 ## 4.34
 
 ### Meaning
 
-Learn this through respectful approach, searching questions and service. Those who know and have seen the truth will teach you that knowledge.
+Learn this through prostration, searching questions and service. Those who know and have seen the truth will teach you that knowledge.
 
 ### Explanation
 
-Three elements shape the relationship between seeker and teacher: receptivity, genuine inquiry and practical service. Respect creates a setting for learning, while questions make understanding an active undertaking. The teachers are described as seeing the truth, connecting what they teach with realisation. Arjuna’s own conversation exemplifies this combination: he asks difficult questions while taking Krishna as the person from whom he seeks guidance.
+Arjuna is to approach those who know the truth with prostration, questions and service. These teachers will impart knowledge because they have seen the truth. Submission to the teacher and inquiry are both included among the required means of learning.
 
 ## 4.35
 
@@ -362,7 +362,7 @@ Knowing this, you will not again fall into such confusion, Pandava. Through it y
 
 ### Explanation
 
-The promised understanding changes the way beings are seen in relation to self and divine reality. Arjuna’s confusion began amid a field of relationships that seemed to make action impossible. Krishna now describes a wider vision in which those relationships are held together. The movement from “in the self” to “in me” also prepares later chapters, which develop the connections among self-knowledge, universal vision and devotion.
+The knowledge received from the teachers removes the delusion afflicting Arjuna. Through it he will see all beings in the self and then in Krishna. Krishna promises a vision of the relation among beings, self and himself, together with freedom from renewed confusion.
 
 ## 4.36
 
@@ -372,7 +372,7 @@ Even if you were the greatest wrongdoer among all wrongdoers, you would cross ov
 
 ### Explanation
 
-The image of a raft presents knowledge as a means of crossing a difficult expanse. Krishna’s assurance reaches a person who might otherwise regard past wrongdoing as an insurmountable barrier. Within this chapter, knowledge changes the ignorance and possessive agency through which actions bind. The emphasis is the possibility of transformation, giving urgency to the instruction on seeking and practising understanding.
+Knowledge is compared to a raft that carries a person across all sin. Krishna states that this applies even to the greatest sinner among sinners. The verse attributes this power to knowledge without placing the person’s accumulated wrongdoing beyond its reach.
 
 ## 4.37
 
@@ -392,7 +392,7 @@ There is no purifier in this world comparable to knowledge. One perfected throug
 
 ### Explanation
 
-The phrase “in time” gives the claim a practical rhythm. Knowledge is connected with the maturation of yoga, rather than treated as a fact instantly acquired through hearing a sentence. Its purifying power is realised inwardly as practice develops. The verse therefore joins the instruction to seek a teacher with the seeker’s own sustained work of preparation and clearer understanding.
+Krishna declares knowledge the greatest purifier in the world. A person perfected through yoga finds this knowledge in the self in due course. Yoga prepares the practitioner, and the knowledge attained within the self purifies.
 
 ## 4.39
 
@@ -402,17 +402,17 @@ A person with trust, devoted to the aim and governing the senses, attains knowle
 
 ### Explanation
 
-Trust, commitment and sensory discipline work together. *Śraddhā* makes sustained learning possible, while dedication and self-governance give that trust practical expression. The chapter has already included searching questions in the learning process, so the trust described here supports active understanding. Knowledge’s fruit is peace: the disturbances rooted in craving, possessive agency and uncertainty no longer govern the person in the same way.
+Faith, dedication and control of the senses are the conditions for obtaining knowledge. Once knowledge is attained, supreme peace follows quickly. Krishna links the promised peace to these disciplines and to the knowledge they make possible.
 
 ## 4.40
 
 ### Meaning
 
-The ignorant person without trust, whose self is consumed by doubt, loses the way. For such a doubting person there is neither this world nor the next, nor happiness.
+The ignorant person who lacks faith and is full of doubt perishes. For such a doubting person there is neither this world nor the next, nor happiness.
 
 ### Explanation
 
-Krishna describes a condition of doubt that prevents commitment and practice. Earlier, 4.34 made inquiry part of learning; here uncertainty has become a settled inability to proceed. Without either understanding or the trust needed to seek it, the person cannot inhabit the path being taught. The strong wording underscores the cost of remaining immobilised, leading into the final instruction to cut through doubt.
+The ignorant, faithless and doubting person perishes. Krishna denies this person happiness, this world and the next. The warning contrasts with the promise of knowledge and peace made to the faithful person in 4.39.
 
 ## 4.41
 
@@ -422,7 +422,7 @@ Actions do not bind the self-governed person who has relinquished actions throug
 
 ### Explanation
 
-The chapter’s two central strands meet: relinquishment through yoga and clarity through knowledge. Renouncing the appropriation of action removes the basis of bondage, while understanding resolves the doubts that obstruct the practice. *Ātmavant* describes a person established in self-governance. Krishna therefore ends his account of knowledge with a picture of someone able to act from a steadier and freer condition.
+Actions do not bind the person who has renounced them through yoga, cut through doubt with knowledge and mastered the self. Yoga and knowledge together remove the conditions of bondage. *Ātmavant* describes the person who possesses self-mastery.
 
 ## 4.42
 
@@ -432,7 +432,7 @@ Therefore cut down, with the sword of knowledge, this doubt in your heart that h
 
 ### Explanation
 
-The sword is a metaphor for discriminating understanding, directed toward the doubt lodged within Arjuna. The instruction brings the chapter back to the scene on the battlefield: after hearing why action can be free, he is asked to rise into disciplined engagement. Knowledge and action are joined in that movement. The next chapter will return to the relationship between renunciation and active practice.
+Krishna commands Arjuna to cut apart the doubt born of ignorance with the sword of knowledge. He is then to take his stand in yoga and rise. The command returns the teaching on knowledge and unbound action to Arjuna’s situation on the battlefield.
 
 ## Sources
 

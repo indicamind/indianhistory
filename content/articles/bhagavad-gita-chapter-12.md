@@ -10,9 +10,9 @@ tags:
 textSourceHash: ca7621bcd1196190e08586bcfcd3b02cb299d4f902d1c07eb4d303d6849922f2
 ---
 
-After the universal vision, Arjuna asks about worship directed toward Krishna and contemplation of the imperishable unmanifest. Krishna answers by considering the practitioner’s capacity, offering a sequence of ways to orient attention and action. The chapter then describes the person dear to him through friendship, compassion, equanimity and freedom from possessiveness. Devotion is presented through both a relation to the divine and the qualities of a life.
+Arjuna asks whether devotees of Krishna or worshippers of the imperishable unmanifest are the most accomplished in yoga. Krishna gives his judgement, describes the difficulty of the unmanifest path, and presents successive practices of concentration, repeated practice, dedicated action and relinquishment of fruits. He then lists the qualities of devotees who are dear to him.
 
-Each **Meaning** gives an original English rendering of the displayed Sanskrit. Each **Explanation** follows the verse’s wording, its place in the dialogue and its philosophical or devotional context. These are original reader explanations; named traditional interpretations are identified where they are compared. [1–3]
+Each **Meaning** renders the Sanskrit in English. Each **Explanation** follows the verse’s statements, terms and argument. Named traditional interpretations are distinguished where they differ. [1–3]
 
 ## 12.1
 
@@ -22,7 +22,7 @@ Arjuna said: Those devotees who remain constantly joined to you and worship you,
 
 ### Explanation
 
-The question follows the vision of Krishna’s universal form and the closing call for devotion in Chapter 11. Arjuna now asks how sustained worship of Krishna relates to a discipline directed toward the imperishable and unmanifest. The contrast concerns the orientation of worship and meditation. The Sanskrit leaves the second object in descriptive terms, making the relation between the unmanifest, the self and the supreme reality an important point in traditional interpretation.
+Arjuna asks which worshippers are the best knowers of yoga: those constantly devoted to Krishna or those who worship the imperishable and unmanifest. The question follows Chapter 11’s vision and command to be devoted to Krishna. The identity of the unmanifest object is explained differently by traditional commentators, as noted at 12.3.
 
 ## 12.2
 
@@ -32,7 +32,7 @@ The Blessed Lord said: Those who place their mind in me, worship me with constan
 
 ### Explanation
 
-Krishna answers from within the relationship of devotion: the mind is placed in him, the practice is sustained, and *śraddhā* gives it trust and seriousness. “In my judgement” makes the speaker’s evaluation explicit. The following verses will also affirm the attainment of practitioners oriented toward the unmanifest. The preference expressed here therefore needs to be read together with the account of difficulty and the alternative forms of practice that follow.
+Krishna names those who fix their minds on him, worship him continually and possess the highest faith as the most fully joined in yoga. He gives a definite answer to Arjuna’s comparison, placing these devotees first in his judgement. Their constant application and faith are the characteristics stated in this verse.
 
 ## 12.3
 
@@ -42,7 +42,7 @@ Those who worship the imperishable, indescribable, unmanifest, all-pervading, in
 
 ### Explanation
 
-This verse begins a description completed in 12.4. The series of terms removes familiar limits: the object of contemplation is not confined to a manifest form, a location or ordinary conceptual description. Shankara reads this passage in relation to unmanifest Brahman; Ramanuja understands this alternative discipline through contemplation of the self distinct from matter. These are different accounts of what the descriptions identify. The explanation that follows in the Gita sets out the conduct and attainment associated with the discipline. [3]
+The object worshipped is described as imperishable, indescribable, unmanifest, all-pervading, inconceivable, unchanging, unmoving and constant. Shankara identifies this with unmanifest Brahman; Ramanuja reads the passage as contemplation of the self distinct from matter. The sentence continues in 12.4 with the practitioners’ discipline and attainment. [3]
 
 ## 12.4
 
@@ -52,7 +52,7 @@ This verse begins a description completed in 12.4. The series of terms removes f
 
 ### Explanation
 
-The completion of the sentence joins an abstract description of the object of contemplation to concrete qualities of conduct. Sense-restraint and even understanding are accompanied by concern for every being’s welfare. Krishna also states the attainment in relation to himself: “they too reach me.” The juxtaposition matters because it connects the two orientations in Arjuna’s question without making their disciplines, difficulties or traditional philosophical explanations identical.
+Those worshipping the imperishable restrain all their senses, maintain equal understanding everywhere and delight in the welfare of all beings. Krishna says that they too attain him alone. This completes the sentence begun in 12.3, giving both the required conduct and the result of that practice.
 
 ## 12.5
 
@@ -62,7 +62,7 @@ The difficulty is greater for those whose minds are attached to the unmanifest. 
 
 ### Explanation
 
-The judgement concerns the demands of the path for someone living through a body and senses. Attention ordinarily moves through forms, relations and particular objects; contemplating what is described by the removal of such determinations asks for a demanding reorientation. Krishna’s answer takes that practical situation into account. The greater difficulty explains his emphasis on devotion directed toward himself, while preserving the preceding affirmation that the alternative practitioners also attain him.
+Krishna says that the unmanifest path involves greater difficulty for embodied people. The hardship is stated twice: their minds are attached to the unmanifest, and reaching that goal is difficult for those with bodies. The verse explains the contrast with the devotees praised as most fully joined in 12.2.
 
 ## 12.6
 
@@ -72,7 +72,7 @@ But those who relinquish all actions into me, take me as their highest aim, medi
 
 ### Explanation
 
-A second sentence begins and will be completed in 12.7. Its practice includes action as well as meditation: actions are entrusted to Krishna, who becomes the organising aim of the life. The word *ananya*, undivided or without another, describes the singleness of that orientation. This develops earlier teaching about dedicating action to the Lord, bringing the disciplines of work and attention into the devotional relation rather than treating them as disconnected activities.
+Krishna describes devotees who surrender all their actions to him, regard him as their highest aim, meditate on him and worship him with undivided yoga. *Ananya* indicates that no other aim divides their devotion. The promise made to these devotees is completed in 12.7.
 
 ## 12.7
 
@@ -82,7 +82,7 @@ A second sentence begins and will be completed in 12.7. Its practice includes ac
 
 ### Explanation
 
-The ocean image presents repeated birth and death as something difficult to cross. Here Krishna identifies himself as the one who brings the devoted practitioner through it. The verse therefore gives divine help a central place in the account of liberation. Joined with 12.6, it also preserves the description of the devotee’s own orientation: dedication of action, meditation and an undivided aim are the lived form of the relationship in which that help is promised.
+For the devotees described in 12.6, Krishna promises to become the deliverer from the ocean of death-bound existence. Their minds are absorbed in him, and he says that he rescues them soon. The ocean represents the cycle of birth and death from which this deliverance releases them.
 
 ## 12.8
 
@@ -92,7 +92,7 @@ Place your mind in me alone; establish your understanding in me. Thereafter you 
 
 ### Explanation
 
-Both mind and understanding are named. Attention, feeling and the movement of thought are to be gathered together with the faculty of discernment and decision. The promised dwelling in Krishna expresses the goal through the same relationship that guides the practice. The next verses acknowledge that maintaining such steadiness can be difficult, and respond by describing other points from which a person can begin to move toward it.
+Krishna commands Arjuna to place both mind and understanding in him alone. He promises that Arjuna will thereafter dwell in him, adding that there is no doubt about this. Fixing thought and discernment on Krishna is presented as the practice leading to that attainment.
 
 ## 12.9
 
@@ -102,7 +102,7 @@ If you cannot hold your attention steadily in me, Dhananjaya, then seek to attai
 
 ### Explanation
 
-Krishna provides a response to instability rather than assuming that the highest description is immediately attainable. *Abhyāsa* means returning and repeating: attention is trained through renewed effort when it moves away. The goal remains Krishna, while the practical starting point changes from abiding steadiness to its cultivation. This gives the passage a graduated character, recognising differences in capacity without abandoning the common direction of the teaching.
+If Arjuna cannot keep his mind steadily fixed on Krishna, he is to seek him through repeated practice. *Abhyāsa-yoga* names the discipline of repeatedly directing the mind toward its object. This is the first alternative given after the instruction to abide steadily in Krishna in 12.8.
 
 ## 12.10
 
@@ -112,7 +112,7 @@ If you are unable even to practise in this way, make action for me your highest 
 
 ### Explanation
 
-A devotional life can begin through what a person does. Working for Krishna gives activity an orientation beyond the pursuit of private reward and trains the relation between action and intention. This also connects the present chapter with the earlier teaching of karma-yoga. The verse belongs to a sequence of possible approaches, so the change of emphasis responds to the practitioner’s capacity while retaining a path toward the same fulfilment.
+If repeated practice is beyond Arjuna’s ability, Krishna tells him to devote himself to work done for Krishna’s sake. He says that such action will bring fulfilment. The sequence moves from steady concentration to repeated practice and then to dedicated action, offering a further means of attainment.
 
 ## 12.11
 
@@ -122,7 +122,7 @@ If you are unable to do even this, then, taking refuge in my yoga and governing 
 
 ### Explanation
 
-Renunciation of the fruits supplies another concrete point of entry. A person can begin examining the claim “this result must be mine” even when sustained devotional concentration or explicitly dedicated work remains difficult. Self-government is included, so relinquishment is an active discipline of one’s motives and claims. The next verse will explain its relation to understanding, meditation and peace, bringing the graduated instructions into a compact comparison.
+If Arjuna cannot carry out even the preceding instruction, he is to take refuge in Krishna’s yoga, govern himself and renounce the fruits of all actions. The act of relinquishment concerns the results of every action. Self-restraint accompanies it, as stated by the description of the person as governed in self.
 
 ## 12.12
 
@@ -132,7 +132,7 @@ Knowledge is better than repeated practice; meditation is higher than knowledge;
 
 ### Explanation
 
-The comparison should be read beside the practical alternatives in 12.8–11. Practice deepens through understanding; understanding is sustained through meditation; relinquishing appropriation of the result gives peace an immediate opening. Shankara reads the comparison as praise encouraging fruit-renunciation for a learner unable to sustain the earlier practices. Ramanuja emphasises action without attachment as a means of preparing knowledge and meditation that have not yet matured. [3] In the chapter’s sequence, the verse gives special force to a discipline accessible within action, before describing the qualities of a devotee whose life has been transformed by it.
+Krishna ranks knowledge above repeated practice, meditation above knowledge, and relinquishment of action’s fruits above meditation; peace immediately follows relinquishment. Shankara reads this as praise of fruit-renunciation for someone unable to sustain the preceding disciplines. Ramanuja explains detached action as preparation for knowledge and meditation not yet mastered. The stated ranking and these different explanations of its sequence are both retained. [3]
 
 ## 12.13
 
@@ -142,7 +142,7 @@ One who hates no being, who is friendly and compassionate, free from possessiven
 
 ### Explanation
 
-The chapter now turns from alternative practices to a portrait, completed in the next verse. The first characteristics concern the person’s relation to beings: absence of hatred, friendship and compassion. These are joined to freedom from possessiveness and the ego’s insistence on itself. Equanimity is therefore set beside concern for others from the beginning. The portrait connects a devotional orientation with the way a person meets other lives and responds to injury or change.
+Krishna begins listing the qualities of a devotee dear to him. Such a person hates no being, is friendly and compassionate, has no possessiveness or egoism, remains equal in pleasure and pain, and is forgiving. The description continues in 12.14, where dedication to Krishna is added to these qualities.
 
 ## 12.14
 
@@ -152,7 +152,7 @@ The chapter now turns from alternative practices to a portrait, completed in the
 
 ### Explanation
 
-The sentence completes the portrait by returning to Krishna. The ethical qualities of 12.13 and the dedication of mind and understanding belong to one description. Contentment and resolve also recall the account of steady wisdom in Chapter 2. The refrain “dear to me” expresses the value of these qualities through a personal devotional relation. It will organise the remaining verses, which examine the same transformed life from several directions.
+The devotee is always content, disciplined in yoga, self-controlled and firm in resolve. Mind and understanding are offered to Krishna. Krishna says that such a devotee is dear to him. This completes the description begun in 12.13 and establishes the refrain repeated through the rest of the chapter.
 
 ## 12.15
 
@@ -162,7 +162,7 @@ The one through whom the world is not distressed and who is not distressed by th
 
 ### Explanation
 
-Steadiness is described in both directions: what a person brings into the lives of others and how the person responds to the world. The named emotions concern ways in which the ego can be carried outward into triumph, intolerance and insecurity. In the surrounding portrait, freedom from those disturbances is joined to compassion and disciplined conduct. The verse makes the relation between inward stability and a less troubling presence among other beings especially clear.
+The devotee neither disturbs the world nor is disturbed by it. Such a person is free from elation, intolerance, fear and agitation. Krishna says that this person is dear to him. The verse describes freedom from disturbance in both directions: what one causes in others and what one experiences from them.
 
 ## 12.16
 
@@ -172,7 +172,7 @@ The devotee who is free from demands, pure, capable, impartial and untroubled, a
 
 ### Explanation
 
-Capability is included alongside freedom from personal demands. The person is able to act while relinquishing the projects through which possessive ambition seeks its own establishment. The phrase about all undertakings has been explained within the Gita’s wider teaching on renunciation, including the dedicated actions commended in 12.10. In this portrait, impartiality concerns freedom from self-interested partiality, while the preceding compassion gives the relationship to other beings its positive character.
+Krishna calls dear the devotee who is without expectation, pure, capable, impartial, free from distress and one who has renounced all undertakings. Each quality is stated as part of the same description. The renunciation of undertakings is included alongside purity, capability and freedom from personal demands.
 
 ## 12.17
 
@@ -182,7 +182,7 @@ The devoted person who neither exults nor hates, neither grieves nor longs, and 
 
 ### Explanation
 
-This verse gathers the paired responses through which attachment organises a life. “Good and bad” can include auspicious and inauspicious results and the merit and demerit around which acquisitive action is arranged. Relinquishing that appropriation belongs beside the friendship and compassion already named in 12.13. The portrait concerns a life whose orientation has ceased to depend on securing favourable conditions or defining itself through opposition to unfavourable ones.
+The devotee neither rejoices nor hates, neither grieves nor desires, and relinquishes good and bad. Krishna says that a person with these qualities and devotion is dear to him.
 
 ## 12.18
 
@@ -192,7 +192,7 @@ One who is even toward enemy and friend, in honour and dishonour, in cold and he
 
 ### Explanation
 
-The pairs extend the portrait across relationships, social judgement, bodily conditions and feeling. “Enemy and friend” does not erase the difference between their actions; the evenness concerns the person’s governing disposition toward them. The sentence continues in 12.19, linking that steadiness with contentment, a stable understanding and devotion. Its accumulating examples show how widely the discipline is meant to operate, rather than reserving it for a special period of meditation.
+The devotee is equal toward enemy and friend, honour and dishonour, cold and heat, pleasure and pain, and is free from attachment. Krishna lists these pairs as conditions in which the same evenness is maintained. The sentence continues in 12.19 with further qualities of the devotee.
 
 ## 12.19
 
@@ -202,7 +202,7 @@ The pairs extend the portrait across relationships, social judgement, bodily con
 
 ### Explanation
 
-Speech, livelihood and dwelling bring the portrait into ordinary conditions. *Maunī* carries the sense of silence or restraint in speech; *aniketa* points to freedom from a settled attachment to a home. These expressions have an obvious place in renunciant life and also raise the question of inward non-possession. The shared concern is an understanding that remains steady while praise, resources and place cease to supply the foundation of identity and contentment.
+The description adds equality toward blame and praise, silence, contentment with whatever comes, absence of a fixed abode, steady understanding and devotion. *Maunī* means silent, and *aniketa* describes one without a fixed dwelling. Krishna concludes that the devotee possessing these qualities is dear to him.
 
 ## 12.20
 
@@ -212,7 +212,7 @@ Those devotees who faithfully live by this life-giving dharma as it has been tau
 
 ### Explanation
 
-The final verse gathers both the described qualities and the commitment to cultivate them. The phrase *dharmyāmṛta*, a nectar-like or life-giving dharma, gives the teaching an affirmative character. Trust and the orientation toward Krishna join conduct and practice within one devotional life. Chapter 12 thus ends by valuing the people who take up the path, while the next chapter will examine the field of embodied experience and the one who knows it.
+Krishna calls those who follow this dharma, described as nectar-like, exceedingly dear to him. They are endowed with faith and regard him as the highest aim. The final verse gathers the preceding instructions and qualities into the practice of the devotees whom the chapter has described.
 
 ## Sources
 

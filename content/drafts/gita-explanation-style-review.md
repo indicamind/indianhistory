@@ -1,10 +1,10 @@
 # Gita: direct English explanation revision
 
-[Review Chapter 1, verse 41](http://localhost:4201/scriptures/bhagavad-gita/1?dev=true&lang=en#verse-1-41) · [Chapter 9, verse 32](http://localhost:4201/scriptures/bhagavad-gita/9?dev=true&lang=en#verse-9-32) · [Chapter 18, verse 17](http://localhost:4201/scriptures/bhagavad-gita/18?dev=true&lang=en#verse-18-17).
+[Review Chapter 1, verse 41](http://localhost:4201/scriptures/bhagavad-gita/1?lang=en#verse-1-41) · [Chapter 9, verse 32](http://localhost:4201/scriptures/bhagavad-gita/9?lang=en#verse-9-32) · [Chapter 18, verse 17](http://localhost:4201/scriptures/bhagavad-gita/18?lang=en#verse-18-17).
 
 All 701 explanations across 18 chapters were audited following the request to keep explanations close to their meanings without apologism or modern sensitivity. The revised English drafts change **574 explanations** and retain **127**. Chapter introductions now summarise the teachings directly. Five softened Meaning passages also have more direct renderings, listed below.
 
-The revised manuscripts are `content/drafts/articles/bhagavad-gita-chapter-01.md` through `bhagavad-gita-chapter-18.md`. Published English manuscripts and translations remain unchanged. Sanskrit, IAST, all verse identifiers, source hashes, frontmatter metadata, Sources sections and citation markers are preserved. Chapter 13 retains the edition’s numbered opening question and 35-verse count.
+The user approved this revision on 26 November 2026. The manuscripts were moved unchanged from their reviewed drafts into `content/articles/bhagavad-gita-chapter-01.md` through `bhagavad-gita-chapter-18.md`, replacing the earlier approved English. The user also requested removal of the other-language Gita translations; all 77 existing files were deleted. Sanskrit, IAST, all verse identifiers, Sanskrit-source hashes, frontmatter metadata, Sources sections and citation markers are preserved. Chapter 13 retains the edition’s numbered opening question and 35-verse count.
 
 ## Editorial approach
 
@@ -35,18 +35,22 @@ The Sanskrit forms behind these corrections were checked against the primary tex
 
 ## Approval and translations
 
-These are English review drafts. English dev mode shows them in the reader; normal English and offline views retain the currently approved text. Localized views do not use revised English as fallback. Concurrent translation work remains associated with the previously approved English until a replacement is approved.
+The revised English is approved and published in normal web and offline readers. There are no remaining Gita chapter review drafts for this revision. Existing non-English Gita commentary files were deleted at the user’s request; other site translations are unaffected. Localized Gita pages retain Sanskrit and IAST without an English explanation fallback.
 
-[AGENTS.md](../../AGENTS.md) requires: “Do not treat approval of an earlier version as approval of a rewritten draft.” The revised English needs explicit approval before replacing published sources or updating translations from it.
+Future Gita commentary translations should be started only when requested and must use the revised approved English source hashes. Approval is recorded here; no further approval is required for this version.
 
 ## Validation
 
 - The manuscript audit confirms 701 complete ordered pairs, 574 changed explanations, exactly five changed meanings, no duplicate explanations, unchanged protected metadata and identical Sources/citation markers.
 - All 292 unit tests pass. The translation checker passes for released content and records pending localized Gita commentary; the 583 interface strings remain complete.
 - The full production build and complete offline extension/ZIP build succeed. Existing non-fatal bundle and stylesheet warnings remain.
-- Generated draft assets match all 18 revised manuscripts. Generated public English and offline commentary match the currently approved originals for all 701 verses. The 34 article, blog and search editions retain their existing memberships and counts.
-- Chrome renders all 701 revised meaning/explanation pairs in English dev mode. Draft search reaches the revised text. Public English retains the approved text; translated views never receive the revised English. English, Telugu and Arabic layouts fit at 390px. The localhost:4201 review link was also checked and displays the revised 1.41 explanation.
-- The installed offline extension retains approved English, excludes the revised drafts and makes zero HTTP(S) requests with networking disabled. Sources retain their reference metadata without outbound navigation.
+- The review build’s draft assets matched all 18 revised manuscripts before approval, while public and offline versions retained the earlier source. After approval, the release build must publish the revised source for all 701 verses. The 34 article, blog and search editions retain their existing memberships and counts.
+- The pre-approval Chrome review checked all 701 revised pairs and draft search in English dev mode, while normal English retained the earlier source. Translated views received no English fallback. English, Telugu and Arabic layouts fit at 390px. The localhost:4201 review link was also checked and displays the revised 1.41 explanation.
+- Before approval, the installed offline extension retained the earlier approved English and excluded review drafts, with zero HTTP(S) requests while networking was disabled. Sources retain their reference metadata without outbound navigation.
+
+## Approved release checks
+
+The approved drafts were promoted byte-for-byte into the published source. All 292 tests and the released-content translation checker pass; the full website and offline-extension/ZIP builds succeed. Production Chrome checks every one of the 701 revised meaning/explanation pairs in normal English mode, with no draft labels. Public search reaches the corrected prostration rendering at 4.34. Mobile English and source-only Hindi, Telugu and Arabic views fit without overflow. The installed offline reader shows the approved revision, searches its text and makes zero HTTP(S) requests. No non-English Gita commentary files or generated localized commentary assets remain; all 77 deleted source files stayed absent through verification. Other site translations remain unchanged.
 
 ## Sources
 

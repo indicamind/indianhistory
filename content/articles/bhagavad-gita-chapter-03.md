@@ -10,9 +10,9 @@ tags:
 textSourceHash: eaa7667bcb4df68bcc31d2c66207f70d61eea8e596759e50061d1460aa8c715e
 ---
 
-Arjuna hears a difficulty in Krishna’s teaching: if understanding is so important, why enter a terrible battle? Chapter 3 answers by examining what action is, how people depend on one another and how attachment changes the character of what they do. Its movement runs from the inevitability of action to the discipline needed to act without being mastered by desire.
+Arjuna asks why Krishna urges him into terrible action if understanding is superior to action. Krishna explains the inevitability of action, sacrifice and the gods, the example set by leaders, and the performance of one’s own duty. The chapter ends by identifying desire and anger as enemies that obscure knowledge and must be overcome.
 
-Each **Meaning** gives an original English rendering of the displayed Sanskrit. Each **Explanation** follows the verse’s wording, its place in the dialogue and its philosophical or devotional context. These are original reader explanations; named traditional interpretations are identified where they are compared. [1–2]
+Each **Meaning** renders the Sanskrit in English. Each **Explanation** follows the verse’s statements, terms and argument. Named traditional interpretations are distinguished where they differ. [1–2]
 
 ## 3.1
 
@@ -22,7 +22,7 @@ Arjuna said: Janardana, if you consider understanding higher than action, why do
 
 ### Explanation
 
-Arjuna brings the previous chapter’s teaching back to the immediate battlefield. He has heard praise of steady understanding and freedom from the effects of action, yet Krishna still asks him to fight. His question distinguishes knowing what is true from doing something that appears destructive. The chapter develops through this difficulty: how can a path toward freedom include demanding, consequential activity?
+Arjuna asks why Krishna commands him to fight after praising understanding above action. The dreadful action is the battle against his relatives and teachers. He takes the praise of knowledge to imply that he should renounce action, and asks why Krishna directs him toward war instead.
 
 ## 3.2
 
@@ -52,7 +52,7 @@ A person does not attain freedom from action merely by leaving actions unbegun, 
 
 ### Explanation
 
-The important word is *naiṣkarmya*: freedom from the binding condition of action. Simply avoiding a task does not establish that freedom, because desire and identification may continue while the body appears inactive. Renunciation also requires the understanding appropriate to it. Krishna separates an achieved spiritual condition from an external change of behaviour, preparing his account of action that educates the person performing it.
+*Naiṣkarmya* is freedom from action and its binding effects. Leaving duties undone does not produce it, and taking up renunciation does not by itself produce perfection. Krishna rejects the assumption that ceasing outward activity is sufficient for liberation.
 
 ## 3.5
 
@@ -72,7 +72,7 @@ One who restrains the organs of action but keeps recalling sense objects in the 
 
 ### Explanation
 
-The contrast concerns a division between outward appearance and inward occupation. A person can stop acting visibly while continuing to rehearse desired pleasures mentally. The term *mithyācāra* exposes that mismatch. In Arjuna’s case, leaving the battlefield would not by itself settle his attachments, fears or understanding of duty. The verse makes inner orientation essential to any credible account of restraint.
+*Mithyācāra* means false conduct or hypocrisy. The person restrains the bodily organs while continuing to dwell mentally on the pleasures those organs could obtain. Krishna condemns this division between outward restraint and inward attachment.
 
 ## 3.7
 
@@ -82,7 +82,7 @@ But one who governs the senses with the mind and undertakes the discipline of ac
 
 ### Explanation
 
-Krishna now gives the positive counterpart to the previous verse. The mind participates in guiding the senses, and the person carries out activity without making its rewards the centre of identity. Such practice has coherence between intention and conduct. The comparison concerns the two people just described: disciplined engagement offers a sounder beginning than outward inactivity accompanied by inward preoccupation.
+Krishna ranks the person who controls the senses and performs action without attachment above the hypocritical renunciant of 3.6. The organs continue to act under the governance of the mind. Relinquishing attachment accompanies the performance of action rather than merely the appearance of restraint.
 
 ## 3.8
 
@@ -92,7 +92,7 @@ Perform the action that is yours to do. Action is better than inaction; even sus
 
 ### Explanation
 
-*Niyata karma* points to action that is prescribed or incumbent, rather than whatever happens to attract attention. Krishna first gives the practical reason that a body must be maintained, placing spiritual practice within ordinary dependence on food and work. He then develops a larger account of obligation. Arjuna’s search for freedom begins within embodied responsibilities that cannot simply be wished away.
+*Niyata karma* is prescribed or obligatory action. Krishna commands Arjuna to perform it and ranks action above inaction. Even maintaining the body requires action, so complete inactivity would prevent bodily subsistence itself.
 
 ## 3.9
 
@@ -102,17 +102,17 @@ Except for action undertaken for sacrifice, this world is bound by action. There
 
 ### Explanation
 
-*Yajña*, sacrifice or offering, supplies a different purpose for activity. Its ritual meaning remains important in the following verses, where offerings connect human beings and the gods. Krishna also connects offering with release from possessive attachment. The person acts as a participant in a wider sacred order, allowing the action’s purpose to reach beyond private enjoyment and self-advancement.
+*Yajña* means sacrifice. Action binds the world unless performed for sacrifice, so Krishna commands Arjuna to act for that purpose without attachment. The following verses describe offerings to the gods and the benefits they provide in return.
 
 ## 3.10
 
 ### Meaning
 
-In the beginning, the Lord of creatures created beings together with sacrifice and said: Through this you shall flourish; let it yield the things you rightly seek.
+In the beginning, the Lord of creatures created beings together with sacrifice and said: Through this you shall flourish; let it yield the things you desire.
 
 ### Explanation
 
-The chapter presents a sacred account of creation in which life and offering belong together from the outset. *Prajāpati*, the Lord of creatures, establishes a reciprocal arrangement rather than creating isolated consumers. The image of something that yields desired goods recalls a sustaining source of abundance. Within the argument, prosperity depends on participation in an order of giving and receiving.
+*Prajāpati*, the Lord of creatures, creates beings together with sacrifice. He appoints sacrifice as the means by which they are to flourish and obtain their desires. The comparison with a wish-yielding source of abundance presents sacrifice as part of the divinely established order of creation.
 
 ## 3.11
 
@@ -122,7 +122,7 @@ Nourish the gods through this, and let those gods nourish you. Nourishing one an
 
 ### Explanation
 
-The verse describes reciprocity between human ritual action and divine provision. The gods have an active place in this religious vision; their mention carries the Vedic setting of *yajña* forward. “One another” is the sentence’s organising idea. Human flourishing appears within relationships of contribution and dependence, expanding Arjuna’s concern from his private response to the conditions that sustain a shared world.
+Human beings are to nourish the gods through sacrifice, and the gods are to nourish human beings in return. Krishna says this mutual nourishment leads to the highest good. The relationship is specifically between worshippers and gods, sustained through sacrificial offerings and divine provision.
 
 ## 3.12
 
@@ -132,7 +132,7 @@ The gods, nourished by sacrifice, will give you desired enjoyments. Whoever enjo
 
 ### Explanation
 
-Calling the unreceptive consumer a thief is deliberately forceful. The goods one receives have sources and obligations attached to them within the sacrificial order. Enjoyment becomes ethically distorted when a person treats those goods as entirely self-produced or privately owed. Krishna uses the language of theft to make dependence visible: receiving sustenance also places the recipient within a relationship of return.
+The gods give desired enjoyments after being nourished through sacrifice. A person who consumes those gifts without offering anything back to the gods is called a thief. The charge concerns withholding the sacrificial return owed to the divine givers.
 
 ## 3.13
 
@@ -142,7 +142,7 @@ Good people who eat what remains after sacrifice are freed from faults. Those wh
 
 ### Explanation
 
-The shared meal becomes an example of orientation in action. Food remaining after an offering represents sustenance received within a wider act of giving. Cooking exclusively for oneself expresses the opposite movement, narrowing the purpose of activity to personal consumption. The verse’s strong religious language connects everyday nourishment with the chapter’s question of how an action binds or helps release its performer.
+Those who eat the food left after sacrifice are released from sins. Those who cook only for their own consumption eat sin itself. Krishna distinguishes sacrificial food from food prepared for private enjoyment, and attributes purification to eating the sacrificial remainder.
 
 ## 3.14
 
@@ -152,7 +152,7 @@ Beings arise and live through food; food comes through rain; rain comes through 
 
 ### Explanation
 
-Krishna traces a cycle linking living beings, food, rainfall, ritual offering and human activity. This is the chapter’s Vedic sacrificial cosmology: the natural and sacred orders form one sustaining circuit. Food gives the account immediate bodily importance. Arjuna’s proposed withdrawal is considered against that larger pattern, in which people receive life from processes to which their actions also contribute.
+The verse sets out a causal sequence: beings depend on food, food depends on rain, rain is produced through sacrifice, and sacrifice is performed through action. Sacrificial activity thus sustains rainfall and the food on which living beings depend.
 
 ## 3.15
 
@@ -172,7 +172,7 @@ One who does not follow the cycle thus set in motion, but lives wrongly and deli
 
 ### Explanation
 
-The “cycle” gathers the preceding links into a whole. A life organised solely around sensory enjoyment takes from the sustaining circuit while refusing its obligations. Krishna calls such a life fruitless because its purposes have contracted to immediate gratification. The argument strengthens his response to inaction: what matters is participation with an appropriate purpose, rather than the mere presence or absence of outward movement.
+The cycle is the sacrificial order described in 3.10–15. Krishna calls the person who does not follow it sinful, devoted to sensual enjoyment and living in vain. Refusal to participate in sacrifice is condemned together with a life directed toward the pleasures of the senses.
 
 ## 3.17
 
@@ -192,7 +192,7 @@ Such a person has no personal end to gain through action or through leaving acti
 
 ### Explanation
 
-The freedom described concerns what the fulfilled person needs to acquire. Neither performing an act nor abstaining from it supplies a missing completion. The verse also removes the need to use others as instruments for securing that completion. Krishna can therefore discuss activity from another standpoint in the following verses: action undertaken with regard for the world that other people still inhabit and depend upon.
+The person satisfied in the self has nothing to gain through either performing or omitting action. No other being is needed to obtain an end for that person. This describes the absence of any unfulfilled purpose that would make action necessary for personal attainment.
 
 ## 3.19
 
@@ -202,7 +202,7 @@ Therefore always perform the action that should be done, without attachment. By 
 
 ### Explanation
 
-“Therefore” returns the discussion to Arjuna’s practical position. Krishna joins required action with freedom from possessive investment in its fruits. The duty remains a real demand, while the way the person inhabits it changes. The verse gives a concise statement of *karma-yoga*: sustained engagement can become a path toward the highest when action is freed from the need to complete or glorify the ego.
+Krishna commands Arjuna to perform the action that ought to be done, always and without attachment. Such action leads to the highest attainment. The instruction joins the continued performance of duty with relinquishment of attachment to its results.
 
 ## 3.20
 
@@ -212,7 +212,7 @@ Janaka and others attained perfection through action itself. You should also act
 
 ### Explanation
 
-Janaka supplies an example of realised life associated with public responsibility. The term *loka-saṃgraha* means holding the world together: supporting the conditions under which people can live and practise responsibly. Krishna introduces this as a consideration even beyond personal spiritual attainment. Arjuna must consider how his conduct affects a network of obligations, institutions and people whose lives extend beyond his own inward dilemma.
+Janaka and other royal sages are cited as having attained perfection through action. Krishna also gives *loka-saṃgraha*, holding the world together, as a reason for Arjuna to act. The performance of prescribed duties sustains the order followed by other people.
 
 ## 3.21
 
@@ -232,7 +232,7 @@ Partha, there is nothing I must accomplish in the three worlds, nothing unattain
 
 ### Explanation
 
-Krishna presents his own activity as the clearest example of action without personal deficiency. The three worlds express the full scope of the cosmic setting. His continuing activity therefore cannot be explained as a search for something he lacks. The verse extends the chapter’s account of responsibility: sustaining activity can arise from fullness and care rather than acquisition.
+Krishna declares that he lacks nothing in any of the three worlds and has no duty to fulfil for his own attainment. Nevertheless, he acts. His activity supplies the divine example of action performed without a personal end yet to be gained.
 
 ## 3.23
 
@@ -252,7 +252,7 @@ If I did not act, these worlds would fall into ruin. I would cause disorder and 
 
 ### Explanation
 
-The consequences are described cosmically, as the breakdown of the order that sustains beings. *Saṅkara* conveys confusion or intermixture within that order, echoing language that concerned Arjuna in Chapter 1. Here the emphasis is the harm caused by abandoned sustaining activity. Krishna makes the protection of creatures central to his explanation of why fulfilled existence can remain actively engaged.
+Krishna says the worlds would perish if he ceased acting. He would become the cause of *saṅkara*, disorder or intermixture, and would destroy these creatures. The term echoes the breakdown of social and family order feared by Arjuna in Chapter 1. Krishna attributes the preservation of the worlds to his continued action.
 
 ## 3.25
 
@@ -262,7 +262,7 @@ As those without understanding act with attachment, Bharata, so the person of un
 
 ### Explanation
 
-The outward tasks may look similar, but their inward purposes differ. One performer seeks personal reward and identifies with the results; another carries out activity with the welfare of the shared world in view. Krishna makes understanding visible through the manner of participation. The knowledgeable person remains approachable within ordinary life, allowing action itself to become an example of disciplined freedom.
+Those without knowledge perform action out of attachment. The knower is to perform action without attachment, intending to maintain the world. Krishna prescribes continued action for both, while distinguishing the knower’s purpose from the attached person’s desire for results.
 
 ## 3.26
 
@@ -272,7 +272,7 @@ The wise person should not unsettle the understanding of people attached to acti
 
 ### Explanation
 
-Instruction must take account of the learner’s present condition. Abruptly discrediting meaningful duties could leave someone without either responsible action or the understanding needed for renunciation. Krishna therefore recommends patient example and guided participation. The teacher’s own disciplined conduct helps others move forward from where they are, making education part of the wider responsibility expressed by *loka-saṃgraha*.
+The wise person is told not to unsettle people who remain attached to action. Instead, the wise person should perform actions with discipline and encourage them to perform theirs. Krishna makes the preservation of their commitment to action part of the knower’s conduct.
 
 ## 3.27
 
@@ -282,7 +282,7 @@ All actions are performed by the qualities of nature. A person whose understandi
 
 ### Explanation
 
-Krishna analyses agency through the interaction of nature’s *guṇas*, which include embodied capacities and dispositions. *Ahaṃkāra*, the making of “I,” appropriates this complex process as a single self’s achievement. Recognising the wider process loosens that possessive identification. The chapter continues to ask Arjuna to act carefully, so this analysis develops a different understanding of agency within action.
+The *guṇas* of nature perform all actions. The person deluded by *ahaṃkāra*, the sense of “I,” attributes those actions to the self and thinks “I am the doer.” Krishna locates action in nature and identifies the ego’s claim of agency as a mistake.
 
 ## 3.28
 
@@ -292,7 +292,7 @@ But one who knows the truth about the distinctions of qualities and actions unde
 
 ### Explanation
 
-Sense capacities and their objects both belong to the field of nature in this account. The discerning person sees their interaction without collapsing the whole of identity into it. The phrase “qualities upon qualities” draws attention to processes that occur through embodied conditions. Knowledge changes the relation to those processes, allowing participation without the possessive fixation identified in the previous verse.
+The knower distinguishes the qualities of nature and their actions. Senses and their objects belong to this field, so their interaction is understood as qualities acting upon qualities. Knowing this, the person does not become attached to the activity as the self’s own doing.
 
 ## 3.29
 
@@ -302,7 +302,7 @@ Those confused by nature’s qualities become attached to the actions of those q
 
 ### Explanation
 
-The verse returns the discussion of nature to the responsibility of teaching. Someone who understands the larger account should recognise how partial understanding shapes another person’s attachments. Krishna’s advice favours careful guidance over abrupt disruption. Read with 3.26, it asks the knowledgeable person to communicate through practice and appropriate instruction, helping another person develop rather than merely announcing a superior standpoint.
+People deluded by nature’s qualities attach themselves to the actions those qualities produce. Krishna tells the complete knower not to disturb these people, whose knowledge is incomplete. This repeats the prohibition in 3.26 against unsettling those still committed to action.
 
 ## 3.30
 
@@ -312,7 +312,7 @@ Entrusting all actions to me, with the mind directed toward the self, free from 
 
 ### Explanation
 
-This verse joins the chapter’s strands in an instruction addressed directly to Arjuna. Action becomes an offering to Krishna; attention turns toward the self; craving and the sense of “mine” are loosened. *Vigata-jvara* pictures release from a consuming fever of disturbance. The requested battle remains the narrative’s immediate task, but Krishna specifies the understanding and inward orientation with which it is to be undertaken.
+Krishna commands Arjuna to surrender all actions to him and fight. The required disposition is freedom from expectation, possessiveness and agitation, with attention directed toward the self. Offering action to Krishna and knowing the self accompany the command to enter battle.
 
 ## 3.31
 
@@ -322,17 +322,17 @@ People who continually follow this teaching of mine, with trust and without rese
 
 ### Explanation
 
-The emphasis falls on sustained practice, not a momentary agreement with the argument. *Śraddhā* involves trusting engagement sufficiently serious to shape conduct. The absence of hostile fault-finding allows the teaching to be tested through that engagement. Krishna promises release through practising the understanding he has described, bringing disciplined activity and receptivity to instruction together.
+Krishna promises release from the bonds of action to those who continually follow his teaching with faith and without fault-finding. The promise is attached to the acceptance and practice of the teaching he has just given, including surrender of action to him.
 
 ## 3.32
 
 ### Meaning
 
-But those who resentfully reject this teaching and do not follow it are confused concerning knowledge; recognise them as lacking discernment and losing their way.
+But those who find fault with this teaching of mine and do not follow it—know them to be deluded in all knowledge, lacking discernment and ruined.
 
 ### Explanation
 
-Krishna states the negative counterpart to the preceding promise. The criticism concerns a rejection that prevents the teaching from shaping understanding or conduct. In the chapter’s terms, a person remains caught in attachment while imagining that resistance itself supplies freedom. The strong contrast marks the stakes of the argument before Krishna turns to the more specific difficulty of governing one’s inherited nature.
+Those who find fault with Krishna’s teaching and refuse to follow it are condemned as deluded concerning knowledge, lacking discernment and ruined. The verse states the consequence opposite to the release promised in 3.31 to faithful followers.
 
 ## 3.33
 
@@ -342,7 +342,7 @@ Even a knowledgeable person acts according to their own nature. Beings follow na
 
 ### Explanation
 
-*Prakṛti* here includes the dispositions through which embodied conduct takes shape. Krishna acknowledges the strength of these tendencies, including in someone who has acquired knowledge. The question challenges reliance on sheer suppression as the whole discipline. The next verse identifies a workable point of intervention: recognising attraction and aversion without allowing them to determine the course of action.
+Even a person with knowledge acts according to their own *prakṛti*, or nature. Beings follow their nature, and Krishna asks what restraint can accomplish against it. The following verse nevertheless commands resistance to attraction and aversion, distinguishing the power of nature from submission to those two impulses.
 
 ## 3.34
 
@@ -352,7 +352,7 @@ Attraction and aversion are established in each sense’s relation to its object
 
 ### Explanation
 
-The existence of a tendency and submission to it are distinguished. Pleasant and unpleasant contacts generate habitual movements toward and away from things, but the person can learn to recognise those movements. Calling them obstacles gives the discipline a practical focus. Arjuna is asked to direct action with discernment, rather than treating every impulse of his present nature as an authoritative command.
+Attraction and aversion belong to the senses in their relations with objects. Krishna commands the person not to submit to either, calling them enemies or obstacles on the path. Their presence in embodied life is distinguished from allowing them to govern action.
 
 ## 3.35
 
@@ -362,7 +362,7 @@ One’s own dharma, even imperfectly fulfilled, is better than another’s well 
 
 ### Explanation
 
-*Svadharma* refers to a responsibility understood as one’s own within the Gita’s moral and social setting. For Arjuna, the question concerns the obligations of a warrior facing a particular conflict. The verse gives priority to inhabiting that responsibility over adopting another person’s role because it appears easier or more attractive. Chapter 18 returns to this relationship between disposition, duty and spiritual fulfilment.
+*Svadharma* is one’s own prescribed duty. Krishna ranks its imperfect performance above the successful performance of another’s duty, and says even death in one’s own duty is better. For Arjuna, this concerns his duty as a Kshatriya to fight. Another’s duty is declared dangerous.
 
 ## 3.36
 
@@ -412,7 +412,7 @@ The senses, mind and understanding are said to be its dwelling places. Through t
 
 ### Explanation
 
-Krishna locates the problem across several capacities. Desire is active through sensory attraction, the mind’s preoccupation and the understanding’s ability to construct reasons for pursuing an object. Naming these dwelling places makes the account specific enough for practice. A person must examine the movement from contact to thought and judgment, rather than looking only for an external source of compulsion.
+The senses, mind and understanding are the dwelling places of desire. Operating through them, desire covers knowledge and deludes the embodied self. Krishna identifies the faculties through which this enemy acts before commanding restraint of the senses in 3.41.
 
 ## 3.41
 
@@ -422,7 +422,7 @@ Therefore, best of the Bharatas, first govern the senses and overcome this harmf
 
 ### Explanation
 
-“First” identifies an initial point of discipline in the account just given. Governing sensory engagement can interrupt the sequence before fixation takes over the mind and understanding. The distinction between *jñāna* and *vijñāna* brings together knowledge and its fuller apprehension or realisation. Both are endangered when desire becomes the organising authority of conduct.
+Krishna commands Arjuna first to restrain the senses and then destroy desire. It is called sinful and destructive of both *jñāna*, knowledge, and *vijñāna*, realised understanding. The senses were named among its dwelling places in 3.40 and are the starting point of the commanded restraint.
 
 ## 3.42
 
@@ -432,7 +432,7 @@ The senses are said to be higher; higher than the senses is the mind, higher tha
 
 ### Explanation
 
-The verse presents an ascending order of inward capacities. Senses receive and respond; mind organises their engagements; understanding can discriminate and judge. The final reference points beyond those changing activities to the self. This hierarchy supplies a way to understand self-mastery: one capacity can be guided from a less immediately reactive standpoint, while the deepest identity is not exhausted by an urgent impulse.
+The verse orders the faculties from the senses through mind and understanding to the self beyond understanding. Each successive term is higher than the preceding one. The self’s superiority provides the basis for the command in 3.43 to master desire.
 
 ## 3.43
 
@@ -442,7 +442,7 @@ Thus knowing the self as beyond understanding, steady the self through the self,
 
 ### Explanation
 
-The chapter ends by turning its analysis into an instruction. Knowledge of the self provides the standpoint from which desire can be met without surrendering direction to it. The repeated word *ātman* carries different shades of self, inner capacity and deepest identity in the sentence. Arjuna’s original problem of action is thus answered through an inward discipline that can accompany responsible outward conduct.
+Knowing the self to be beyond understanding, Arjuna is to steady the self through the self and kill desire, the difficult enemy. The repeated *ātman* refers both to the self that must be steadied and to that by which it is steadied. The chapter ends with a command to overcome desire through knowledge and self-mastery.
 
 ## Sources
 

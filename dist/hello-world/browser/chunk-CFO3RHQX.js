@@ -1,0 +1,1 @@
+import{a as e}from"./chunk-6U4JSWNE.js";import"./chunk-2D2U7N2D.js";import{d as n}from"./chunk-4CLCTAJ7.js";function c(){return n(this,null,function*(){let{functions:t,httpsCallable:s}=yield e(),i=s(t,"incrementViewCount");return r=>i({slug:r})})}export{c as createViewCounter};

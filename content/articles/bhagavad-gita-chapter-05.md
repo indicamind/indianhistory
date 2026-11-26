@@ -10,9 +10,9 @@ tags:
 textSourceHash: be91a622f3603e49e937763a545a66c30e327139597c525b33c0ffd7692f5296
 ---
 
-Arjuna again asks whether he should renounce action or practise yoga through action. Chapter 5 answers by examining the kind of relinquishment that can accompany an active life. It moves from agency and the senses to equal vision, inward contentment and peace, ending with Krishna’s declaration that he is the friend of all beings.
+Arjuna asks whether renunciation or the yoga of action is better. Krishna praises both but calls karma-yoga superior, then explains renunciation, non-doership and freedom from action’s fruits. The chapter describes equal vision, the abandonment of delight in sensory pleasures, and liberation in Brahman. It ends with Krishna identifying himself as the enjoyer of sacrifice and austerity, Lord of all worlds and friend of all beings.
 
-Each **Meaning** gives an original English rendering of the displayed Sanskrit. Each **Explanation** follows the verse’s wording, its place in the dialogue and its philosophical or devotional context. These are original reader explanations; named traditional interpretations are identified where they are compared. [1–2]
+Each **Meaning** renders the Sanskrit in English. Each **Explanation** follows the verse’s statements, terms and argument. Named traditional interpretations are distinguished where they differ. [1–2]
 
 ## 5.1
 
@@ -72,7 +72,7 @@ Renunciation is difficult to attain without yoga, mighty-armed one. The contempl
 
 ### Explanation
 
-The difficulty concerns attaining the reality of renunciation, including freedom from craving and possessive identification. Outward withdrawal can leave those habits untouched. Yoga supplies the preparation through which mind and action become more coherent. Krishna connects that disciplined preparation with approaching Brahman, explaining why active practice can be recommended to someone whose goal includes the freedom associated with renunciation.
+Renunciation is difficult to attain without yoga. The contemplative who is established in yoga reaches Brahman before long. This gives the reason for the preference stated in 5.2: the discipline of yoga is needed for the attainment sought through renunciation.
 
 ## 5.7
 
@@ -82,7 +82,7 @@ One joined to yoga, inwardly purified, self-governed and master of the senses, w
 
 ### Explanation
 
-The description gathers together practice, purification, restraint and a widened understanding of self. Its final clause makes the relation to action explicit: activity continues, but does not cling to the person as a stain. Seeing self in relation to all beings also prepares the equal vision of 5.18. Inward freedom and a less possessive relationship with others develop within the same account.
+The yogin is purified, self-controlled and master of the senses. The verse further describes this person’s self as the self of all beings. Even while acting, such a person is not stained by action. These qualities state the condition in which action continues without binding the performer.
 
 ## 5.8
 
@@ -92,7 +92,7 @@ A disciplined knower of reality should understand: I do nothing at all, even whi
 
 ### Explanation
 
-The examples cover ordinary embodied life, including activities that continue without deliberate effort. The knower distinguishes their occurrence from the ego’s claim to be the sole owner and author of everything happening. The sentence continues into 5.9, where Krishna explains this understanding through the relation between senses and their objects. It applies the earlier distinction of self and nature to familiar daily experience.
+The knower understands “I do nothing at all” while the bodily activities listed continue. Seeing, hearing, eating, walking, sleeping and breathing do not make the self their agent. The sentence continues in 5.9 with the explanation that the senses operate among their objects.
 
 ## 5.9
 
@@ -102,7 +102,7 @@ Even while speaking, releasing, taking, opening and closing the eyes, the knower
 
 ### Explanation
 
-This completes the extended sentence begun in 5.8. Bodily functions and outward engagements are understood through the capacities involved, instead of being appropriated without examination into “I am doing everything.” The verse carries the analysis of *guṇas* and action in 3.27–28 into the knower’s daily awareness. Its aim is a change in identification accompanying activity.
+Speaking, excretion, grasping and opening or closing the eyes complete the list begun in 5.8. The knower understands these functions as the operation of the senses among their objects. The claim concerns the self’s non-doership during continuing bodily activity.
 
 ## 5.10
 
@@ -132,7 +132,7 @@ The disciplined person relinquishes the fruit of action and attains settled peac
 
 ### Explanation
 
-The same central contrast is expressed through two different outcomes: established peace and bondage. Desire turns the result into something on which the person’s fulfilment depends. Relinquishment loosens that dependence while allowing the work to be done. The verse therefore describes the inner consequence of an orientation in action, building on the earlier distinction between action as purification and action as acquisition.
+Relinquishing the fruit of action brings settled peace to the disciplined person. Desire and attachment to the fruit bind the undisciplined person. Krishna attributes the different outcomes to the presence or absence of attachment to what action produces.
 
 ## 5.13
 
@@ -142,7 +142,7 @@ Mentally relinquishing all actions, the self-governed embodied one dwells happil
 
 ### Explanation
 
-The body is pictured as a city with openings through which embodied life communicates with its surroundings. The indwelling self is distinguished from the activities associated with those openings. The renunciation is expressly located in the mind, continuing the chapter’s concern with identification and agency. The city image makes it possible to describe ongoing bodily life together with the knower’s inward freedom.
+The city of nine gates is the body: two eyes, two ears, two nostrils, the mouth and the two lower openings. The self-governed embodied self dwells there happily after mentally renouncing all actions. It neither acts nor causes action.
 
 ## 5.14
 
@@ -152,7 +152,7 @@ The lord creates neither agency nor the actions of the world, nor the joining of
 
 ### Explanation
 
-The word *prabhu*, lord or sovereign, appears within the discussion of agency and the indwelling self. The sentence directs attention toward *svabhāva*, nature or the conditioning through which action unfolds. Its point is to question the attribution of the entire process to a sovereign self that stands apart from it. The following verse connects mistaken attribution with ignorance that covers knowledge.
+*Prabhu* means lord or sovereign. The verse denies that this lord creates agency, actions or the connection between actions and their fruits. *Svabhāva*, nature, is what operates. This distinction assigns the production of action to nature rather than to the sovereign self.
 
 ## 5.15
 
@@ -162,7 +162,7 @@ The all-pervading one takes on neither anyone’s wrongdoing nor their good acti
 
 ### Explanation
 
-The verse extends the preceding distinction between the sovereign principle and the workings of embodied nature. It names ignorance as the covering through which people misunderstand that relation. The image also recalls 3.38–39, where knowledge was obscured by desire. Krishna’s answer therefore moves toward illumination: freedom requires the removal of a mistaken understanding that makes appropriation and confusion seem natural.
+The all-pervading one takes neither the sin nor the merit of any person. Ignorance covers knowledge, and beings are deluded by this covering. The verse states the absence of appropriation of good and evil action, and identifies ignorance as the cause of the beings’ confusion.
 
 ## 5.16
 
@@ -172,7 +172,7 @@ But for those whose ignorance of the self has been destroyed by knowledge, that 
 
 ### Explanation
 
-Sunlight provides the counterpart to the covering described in 5.15. Knowledge makes clear what ignorance had concealed, bringing a change in vision rather than merely adding another desired possession. The object illuminated is called *tat param*, the supreme. The following verse develops what happens when understanding, commitment and the direction of a person’s life become established in that reality.
+When knowledge destroys ignorance concerning the self, it reveals the supreme as sunlight illuminates what was concealed. Knowledge is the agent of this illumination. The contrast is with 5.15, where ignorance covers knowledge and deludes beings.
 
 ## 5.17
 
@@ -192,7 +192,7 @@ The wise look with equal vision on a learned and humble brahmin, a cow, an eleph
 
 ### Explanation
 
-The list crosses distinctions of social standing, species and ritual valuation. The final term, literally a dog-cooker, names a stigmatised human position in the verse’s setting. Equal vision reaches across these contrasts by attending to the reality that bodily or social descriptions do not exhaust. The following verse identifies Brahman’s equality as the foundation for this way of seeing.
+The examples run from a learned, humble Brahmin to animals and a dog-cooker, *śvapāka*. The dog-cooker occupies a low and impure position in the social hierarchy presupposed by the list. The wise see equally across these distinctions because, as 5.19 states, Brahman is equal and faultless.
 
 ## 5.19
 
@@ -202,7 +202,7 @@ Those whose minds rest in equality have overcome the cycle of becoming here itse
 
 ### Explanation
 
-“Here itself” places the transformation within the present life. Equality of vision is grounded in how Brahman is understood, and the person’s mind becomes established in that sameness. The verse thus supplies a philosophical basis for the striking list in 5.18. Its focus is a way of seeing that frees a person from the divisions and reactive judgments through which attachment is continually renewed.
+Those established in equality overcome rebirth here, during their embodied life. Krishna gives Brahman’s faultlessness and sameness as the reason: their minds rest in equality, and they are established in that same Brahman. The equal vision of 5.18 is thus connected directly with liberation.
 
 ## 5.20
 
@@ -222,17 +222,17 @@ Unattached to external contacts, a person finds happiness in the self. With the 
 
 ### Explanation
 
-Krishna contrasts dependence on changing contacts with a happiness discovered inwardly. The verse’s movement reaches beyond a temporary pleasant experience to the stability associated with yoga in Brahman. This develops the theme of contentment that made renunciation intelligible at the chapter’s beginning. The following verse explains why enjoyment dependent on contact cannot provide the same settled basis for fulfilment.
+The person detached from external contacts finds happiness in the self. Union with Brahman through yoga brings imperishable happiness. Krishna contrasts this enduring happiness with pleasures dependent on the contact of senses and objects.
 
 ## 5.22
 
 ### Meaning
 
-Enjoyments born from contact are sources of suffering, for they have a beginning and an end, son of Kunti. The discerning person does not make their delight depend upon them.
+Enjoyments born from contact are sources of suffering, for they have a beginning and an end, son of Kunti. The discerning person does not delight in them.
 
 ### Explanation
 
-The reason given is the changing character of such enjoyments. An experience begins, alters and ends; attachment asks it to supply a lasting security that its form cannot sustain. Krishna connects that demand with suffering. The argument therefore concerns the place assigned to pleasure in a life, explaining the previous verse’s turn toward a happiness whose basis is less dependent on external conditions.
+Krishna calls pleasures born of contact sources of suffering because they begin and end. The wise person does not delight in them. The verse rejects these pleasures as the object of the discerning person’s enjoyment and continues the contrast with imperishable happiness in Brahman.
 
 ## 5.23
 
@@ -242,7 +242,7 @@ One who can withstand, here and before leaving the body, the surge arising from 
 
 ### Explanation
 
-The image is a surge or force that presses toward action. Desire and anger have already been linked in 3.37 as movements capable of covering knowledge. Here the capacity to bear their pressure is connected with happiness and yoga in this present life. The verse makes the practice concrete: freedom includes developing a steadier response while the impulses of embodied existence are still encountered.
+The force of desire and anger must be withstood here, before the body is left at death. The person who bears this force is called a yogin and a happy person. Krishna locates the required mastery within the present embodied life.
 
 ## 5.24
 
@@ -252,7 +252,7 @@ One whose happiness is inward, whose delight is inward and whose light is inward
 
 ### Explanation
 
-The repeated turn inward joins happiness, fulfilment and illumination. *Brahma-nirvāṇa* names the liberation or peace in Brahman that completes this movement. The verse gathers earlier images of inward contentment and the sun of knowledge into a portrait of realised life. Its neighbouring verses also connect this inward freedom with the welfare of other beings, keeping inner fulfilment within a wider ethical horizon.
+The yogin finds happiness, delight and light within. Becoming Brahman, that person attains *brahma-nirvāṇa*, liberation in Brahman. The repeated emphasis on what is inward identifies the source of this yogin’s happiness and illumination.
 
 ## 5.25
 
@@ -272,7 +272,7 @@ For striving renunciants who are free from desire and anger, whose minds are gov
 
 ### Explanation
 
-The surrounding nearness of liberation conveys the completeness of the orientation being described. Desire and anger no longer dominate, the mind has been trained, and knowledge of self has matured. The verse gathers these conditions around the renunciant’s practice. It also leads naturally into the following description of meditation, where the governance of senses, breath and attention is considered more specifically.
+Liberation in Brahman is near to the renunciants described here. They have cast off desire and anger, controlled the mind and known the self. Krishna associates their liberation with these forms of restraint and knowledge.
 
 ## 5.27
 
@@ -282,7 +282,7 @@ The practitioner keeps external contacts outside, directs the gaze between the e
 
 ### Explanation
 
-This begins a description completed in 5.28. External objects are set aside as the organising focus, and attention is gathered with the help of bodily and breathing discipline. *Prāṇa* and *apāna* are the traditional terms for the vital movements named here. The passage introduces a contemplative setting that Chapter 6 will develop through a fuller discussion of posture, steadiness and the training of mind.
+The practitioner excludes external sense contacts, fixes the gaze between the eyebrows and equalises *prāṇa* and *apāna*, the vital movements within the nostrils. This is the bodily and sensory discipline of the sage described in the completed sentence of 5.28.
 
 ## 5.28
 
@@ -292,7 +292,7 @@ The sage who governs senses, mind and understanding, who is intent on liberation
 
 ### Explanation
 
-The preceding bodily description receives its larger purpose: the sage’s orientation toward liberation. Governing the faculties is joined with freedom from the emotional pressures named repeatedly in the chapter. The passage therefore connects meditation with the same transformation of understanding and attachment that has characterised disciplined action. Its claim concerns a settled freedom expressed through the whole person’s way of being.
+The sage controls the senses, mind and understanding, seeks liberation and has cast off desire, fear and anger. Such a sage is declared always liberated. This completes the description begun in 5.27 by naming the goal and condition of its practitioner.
 
 ## 5.29
 

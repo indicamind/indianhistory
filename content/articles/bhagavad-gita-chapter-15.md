@@ -10,9 +10,9 @@ tags:
 textSourceHash: 0e743da59e6d29db13731de4b32728208fcacbf1bce3008101e5345c3efe2dc9
 ---
 
-Chapter 15 begins with an inverted tree whose branching growth represents worldly existence and its binding attachments. The teaching then turns toward the living self’s relation with Krishna and the divine presence sustaining the world. Its final distinction between the perishable, the imperishable and the supreme person brings these images and claims into a compact account of the chapter’s goal.
+Krishna describes worldly existence as an inverted ashvattha tree and commands it to be cut with the weapon of nonattachment. He explains the living self’s relation to him, its movement between bodies, and his presence in the sun, earth, food and memory. The chapter concludes by distinguishing the perishable, the imperishable and the supreme Person.
 
-Each **Meaning** gives an original English rendering of the displayed Sanskrit. Each **Explanation** follows the verse’s wording, its place in the dialogue and its philosophical or devotional context. These are original reader explanations; named traditional interpretations are identified where they are compared. [1–5]
+Each **Meaning** renders the Sanskrit in English. Each **Explanation** follows the verse’s statements, terms and argument. Named traditional interpretations are distinguished where they differ. [1–5]
 
 ## 15.1
 
@@ -22,7 +22,7 @@ The Lord said: They speak of an enduring ashvattha tree with roots above and bra
 
 ### Explanation
 
-The tree gives the chapter a comprehensive image of worldly existence. Its source is above the branching diversity encountered below, and the Vedic hymns are compared with sustaining leaves. Knowing the tree therefore means understanding both its growth and its dependence upon a deeper source. The image will become a guide to detachment: the listener must examine the system in which action, desire and renewed birth keep developing.
+The ashvattha tree represents worldly existence. Its root is above, its branches below, and its leaves are the Vedic hymns. The root is the source on which its spreading existence depends. Knowledge of this tree is called knowledge of the Vedas because the tree encompasses the world, action and the sacred teaching connected with them.
 
 ## 15.2
 
@@ -32,7 +32,7 @@ Its branches spread below and above, nourished by the qualities, with sense obje
 
 ### Explanation
 
-The tree’s growth is explained through the same qualities examined in Chapter 14. Sense objects supply attractive new growth, while actions establish further roots of involvement. The image combines what draws attention outward with what strengthens habitual attachment. Its reference to the human world brings the cosmic tree close to the practical choices through which people participate in it, showing how an apparently vast structure is continually sustained within lived experience.
+The three qualities nourish the branches, and sense objects are their new shoots. Further roots extend downward through the human world and bind through action. The tree therefore grows through the qualities, sensory enjoyment and karma. Its roots and branches describe the system of worldly existence that the following verse commands the seeker to cut.
 
 ## 15.3
 
@@ -42,7 +42,7 @@ Its form is not grasped here in this way, nor its end, its beginning or its firm
 
 ### Explanation
 
-The full extent of worldly existence cannot be surveyed as though the observer stood outside every one of its conditions. The response is expressed through a decisive image: cutting its deeply established roots with non-attachment. This continues the chapter’s analysis of binding involvement rather than requiring hostility toward living trees. The sentence runs into the next verse, where detachment opens toward a positive search for the source and the enduring goal.
+The tree’s full form, beginning, end and foundation cannot be grasped here. Nevertheless, its deeply established roots must be cut with the strong weapon of non-attachment. Cutting the tree means severing the attachment that sustains worldly existence and repeated birth. The next verse states what is to be sought after this severance.
 
 ## 15.4
 
@@ -52,7 +52,7 @@ One should then seek that state from which those who arrive do not return, takin
 
 ### Explanation
 
-The cutting image is followed by seeking and refuge. Freedom from binding involvement finds its direction in the source of the whole movement, called the primal person. The destination is characterised by release from return to the cycle. This joins the chapter with earlier promises of liberation, while making clear why the account of the tree matters: understanding its dependence and loosening its hold prepare a movement toward its divine origin.
+Having cut the tree, the seeker must find the state from which there is no return. The seeker takes refuge in the primal person from whom the ancient course of worldly existence issued. Detachment from the tree is thus followed by refuge in its source. Attainment of that source ends return to repeated birth.
 
 ## 15.5
 
@@ -62,7 +62,7 @@ Free from pride and delusion, having conquered the fault of attachment, constant
 
 ### Explanation
 
-The qualifications explain the human transformation corresponding to the tree’s cutting. Pride and delusion sustain a possessive position within the world; attachment and desire keep the roots active; pleasure and pain pull attention between opposing demands. The verse gathers freedom from those forces together with constancy in the self. The goal is therefore approached through a changed manner of understanding and living, continuous with the qualities of knowledge and steadiness described earlier.
+The imperishable state is reached by those free from pride and delusion, victorious over attachment, constant in the self and turned away from desires. Freedom from the opposites of pleasure and pain completes the description. These are the qualifications of those who cut worldly attachment and reach the destination announced in the preceding verse.
 
 ## 15.6
 
@@ -72,7 +72,7 @@ The sun does not illuminate it, nor the moon nor fire. Having reached it, one do
 
 ### Explanation
 
-The three familiar sources of light are set aside in describing Krishna’s supreme abode. The language suggests a reality whose disclosure is not dependent upon ordinary external illumination. Its defining promise is again freedom from return, which connects the verse with the search begun after the tree is cut. The chapter will soon identify the light of sun, moon and fire with Krishna, linking the transcendent goal with his presence within the world.
+Krishna’s supreme abode is illuminated by neither sun, moon nor fire. Those who reach it do not return. The verse distinguishes this abode from the world dependent on ordinary sources of light and identifies it as the destination beyond repeated birth. The chapter later attributes the radiance of those worldly lights to Krishna himself.
 
 ## 15.7
 
@@ -92,7 +92,7 @@ When the lord of the body acquires a body and when it departs, it takes these al
 
 ### Explanation
 
-The bodily lord in this sequence is the living self associated with the senses and mind described in 15.7. The scent analogy explains continuity through a change of bodily setting: capacities and impressions accompany the movement, as a fragrance can be carried from its source. This belongs to the Gita’s account of rebirth. The image makes the relation between a changing body and the continuing embodied experiencer more intelligible.
+The living self carries the senses and mind when it enters and leaves a body. Krishna compares this to wind carrying scents away from their sources. The same self passes between bodies while retaining these capacities. The comparison explains the continuity of the embodied experiencer through death and rebirth.
 
 ## 15.9
 
@@ -102,7 +102,7 @@ Taking its stand in hearing, sight, touch, taste and smell, and also in mind, th
 
 ### Explanation
 
-The gathered capacities are now named, showing how involvement in the world takes a structured form. Mind is included alongside the five senses because it participates in organising and responding to what they present. The verse develops the account of the living self’s embodiment rather than treating experience as an unexplained possession. It also prepares the question of why the conscious presence involved in those activities is not readily recognised by everyone.
+The living self experiences objects through hearing, sight, touch, taste and smell, with mind also serving as its instrument. These are the capacities it draws from nature and carries between bodies. Their functions account for embodied enjoyment and perception, while the self is the experiencer using them.
 
 ## 15.10
 
@@ -112,7 +112,7 @@ The deluded do not perceive it departing, remaining or experiencing in associati
 
 ### Explanation
 
-The same living self is considered across departure, continued embodiment and ordinary experience. Its association with the qualities can conceal the distinction between the conscious experiencer and the changing conditions through which experience occurs. The “eye of knowledge” recalls Chapter 13’s closing description of discernment. Seeing here requires an informed understanding of that relation, rather than merely watching the outward movements of a body.
+The deluded fail to perceive the self when it leaves a body, remains in it or experiences objects through the qualities. Those possessing the eye of knowledge perceive it in these states. The distinction concerns knowledge of the living self and its activities, including its departure at death and its association with embodied experience.
 
 ## 15.11
 
@@ -122,7 +122,7 @@ Striving yogis perceive it established within themselves. Those whose selves are
 
 ### Explanation
 
-Effort matters, but the verse also asks about the condition in which effort is made. Preparation of the self involves the discipline and clarity developed throughout the book. A person may exert energy while remaining caught in habits that obscure the object of inquiry. The verse links inward perception with sustained cultivation, keeping the search for the living self connected with the ethical, contemplative and devotional work already described.
+Striving yogis see the self established within themselves. Those whose selves are unprepared and whose understanding is deficient do not see it, even when they strive. Effort must therefore be accompanied by the preparation and discernment required for self-knowledge. Krishna distinguishes the realised perception of the yogin from unsuccessful effort without that preparation.
 
 ## 15.12
 
@@ -132,7 +132,7 @@ Know the radiance in the sun that lights the whole world, and the radiance in th
 
 ### Explanation
 
-The account turns from inward recognition to the sources of light through which the world is seen. Krishna identifies their radiance as his own, giving the reader a way to recognise dependence within familiar phenomena. This also answers the imagery of 15.6: the supreme abode is beyond the need for these lights, while their power within the world is itself traced to Krishna. Transcendence and sustaining presence are considered together.
+The light in the sun, moon and fire is Krishna’s radiance. The statement attributes the world’s illumination to him. It follows the account of the living self and begins a series identifying Krishna with the powers that sustain embodied existence: light, the earth’s support, the nourishment of plants and the digestion of food.
 
 ## 15.13
 
@@ -142,7 +142,7 @@ Entering the earth, I sustain beings through my power; becoming Soma, full of no
 
 ### Explanation
 
-The divine presence is described through support and nourishment. Earth sustains embodied beings, and Soma, understood here as the moon, is associated with the sustaining sap and life of vegetation. The verse speaks within the text’s cosmological and sacred vocabulary. Its place in the sequence is to extend the recognition of dependence from light to food and growth, preparing the following account of the digestive process within living bodies. [5]
+Krishna enters the earth and sustains beings through his power. As Soma, understood here as the moon, he nourishes all plants through their sap. The verse attributes both the earth’s support and vegetation’s nourishment to divine action. These are among the forms in which Krishna declares his presence within the world. [5]
 
 ## 15.14
 
@@ -152,7 +152,7 @@ Becoming the universal fire within the bodies of living beings, and joined with 
 
 ### Explanation
 
-Nourishment is followed into the body, where digestive fire transforms what has been received. The reference to four kinds of food belongs to the traditional classification by ways of consuming it, such as chewing, drinking, licking and sucking. The verse identifies this intimate sustaining process with Krishna. Its point within the chapter is the divine dependence of embodied life, expressed through the physiological and elemental vocabulary available to the text. [5]
+Krishna becomes the digestive fire within living bodies and digests food in conjunction with prana and apana. The four kinds of food are traditionally distinguished by their modes of consumption, such as chewing, drinking, licking and sucking. The verse identifies the body's digestive power with Krishna, continuing the account of his sustenance of living beings. [5]
 
 ## 15.15
 
@@ -162,7 +162,7 @@ I am seated in everyone’s heart. From me come memory, knowledge and their disa
 
 ### Explanation
 
-The sustaining account now includes the faculties through which understanding itself occurs. Memory, knowledge and their loss are placed in dependence upon the divine presence in the heart. The closing claims then connect that inward source with the purpose and understanding of the Vedas. The verse prepares the final teaching about the supreme person, presenting Krishna as both the ground of the reader’s capacity to know and the ultimate object of sacred knowledge.
+Krishna dwells in everyone’s heart and is the source of memory, knowledge and their loss. He also declares himself the object to be known through every Veda, the maker of Vedanta and the knower of the Vedas. The verse attributes both the faculty of knowing and the goal of sacred knowledge to him.
 
 ## 15.16
 
@@ -182,7 +182,7 @@ But the highest person is another, called the supreme Self: the imperishable Lor
 
 ### Explanation
 
-The supreme person is distinguished from the pair just named through the role of entering and sustaining the whole world. The verse joins transcendence with immanence: the Lord exceeds the preceding categories while remaining the support of the worlds. This gives a theological centre to the images of light, nourishment and inward knowing already developed. The chapter’s title, *Purushottama*, points toward precisely this account of the supreme person.
+The highest person is distinct from both the perishable and the imperishable. Krishna names him the supreme Self and the imperishable Lord, who enters and sustains the three worlds. The highest person is therefore the support of the world and exceeds the two categories distinguished in the preceding verse.
 
 ## 15.18
 
@@ -192,7 +192,7 @@ Because I transcend the perishable and am higher even than the imperishable, I a
 
 ### Explanation
 
-Krishna explicitly identifies himself with the supreme person of the previous verse. The title is explained through his relationship to the perishable and the imperishable, so it follows from the chapter’s argument rather than functioning as praise alone. The account also brings together knowledge of the world, the living self and the divine. Its next step is to describe how understanding this relation becomes a whole orientation of devotion.
+Krishna identifies himself as the supreme person, *Purushottama*, because he transcends the perishable and is higher even than the imperishable. He declares this title recognised in the world and the Veda. The verse completes the distinction among the perishable, the imperishable and the supreme person by naming Krishna as the highest of the three.
 
 ## 15.19
 
@@ -202,7 +202,7 @@ Whoever knows me in this way, free from delusion, as the supreme person, knows t
 
 ### Explanation
 
-The knowledge described is comprehensive because it concerns the relations developed throughout the chapter: worldly existence, the living self, sustaining divine presence and the supreme source. Its outcome is whole-hearted worship. Knowing and devotion therefore meet again, as they did at the end of Chapter 14. The emphasis on the whole of one’s being gives that understanding a practical and affective completeness beyond the acceptance of a title or proposition.
+The undeluded person who knows Krishna as the supreme person is said to know the whole and worships him with the whole of their being. Knowledge of Krishna’s supremacy leads directly to complete devotion. This is the result of understanding his relation to the perishable world, the imperishable principle and the living self.
 
 ## 15.20
 
@@ -212,7 +212,7 @@ Thus I have taught this most secret teaching, sinless one. Understanding it, a p
 
 ### Explanation
 
-The chapter closes by naming its teaching intimate and deeply significant. The fulfilment promised is expressed as wisdom and the accomplishment of life’s spiritual task. That conclusion looks back across the images and distinctions rather than isolating one sentence. The tree explains binding involvement; the living self explains the intimacy of the divine relation; and the supreme person gives the search its source, support and goal.
+Krishna calls this the most secret teaching. Understanding it makes a person wise and fulfils what is to be accomplished. The teaching includes the tree of worldly existence, release through detachment, the living self’s relation to Krishna and his supremacy over the perishable and imperishable. Knowledge of the supreme person completes the chapter’s instruction.
 
 ## Sources
 

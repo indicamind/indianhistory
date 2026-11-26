@@ -10,9 +10,9 @@ tags:
 textSourceHash: 5f68245b4179c44645a51c423213cd582b8399f2609008c546fe41f39c595da0
 ---
 
-The previous chapter distinguished the knower from nature’s operations. Chapter 14 examines those operations through three qualities: sattva, rajas and tamas. They help explain clarity, restless activity and obscuration, as well as attachment and rebirth. Krishna then describes the person who can recognise their movements without being governed by them, and joins that freedom with steadfast devotion.
+Krishna describes how sattva, rajas and tamas arise from nature and bind the imperishable embodied self. He distinguishes their effects in conduct, knowledge and rebirth, then explains release from the gunas. Arjuna asks how to recognise one who has gone beyond them. Krishna answers with that person’s qualities and with unwavering devotion to him.
 
-Each **Meaning** gives an original English rendering of the displayed Sanskrit. Each **Explanation** follows the verse’s wording, its place in the dialogue and its philosophical or devotional context. These are original reader explanations; named traditional interpretations are identified where they are compared. [1–3]
+Each **Meaning** renders the Sanskrit in English. Each **Explanation** follows the verse’s statements, terms and argument. Named traditional interpretations are distinguished where they differ. [1–3]
 
 ## 14.1
 
@@ -22,7 +22,7 @@ The Lord said: I shall again explain the highest knowledge, the best of forms of
 
 ### Explanation
 
-The promise introduces a teaching that develops the preceding account of nature and the self. Its excellence is measured by the perfection reached through it, rather than by novelty or complexity. The sages are presented as examples of knowledge fulfilled in liberation. Krishna will explain the qualities that shape embodied experience so that Arjuna can understand both their binding force and the possibility of passing beyond them.
+Krishna again promises the highest knowledge, through which the sages attained supreme perfection. The knowledge concerns nature’s three qualities, the ways they bind the embodied self and the means of passing beyond them. Its stated result is liberation, which the next verse describes as freedom from birth at creation and distress at cosmic dissolution.
 
 ## 14.2
 
@@ -32,7 +32,7 @@ Taking refuge in this knowledge and attaining likeness to my nature, they are no
 
 ### Explanation
 
-The goal is expressed through freedom from the recurring cosmic cycle of manifestation and dissolution. *Sadharmya* indicates sharing or attaining a likeness of nature, and traditions explain its relation to Krishna in different ways. The verse’s immediate emphasis is on liberation from what generates renewed embodiment. Knowledge changes the person’s relation to the cycle, giving spiritual meaning to the cosmic language that follows.
+Those who rely on this knowledge attain *sadharmya*, likeness to Krishna’s nature. They cease to undergo birth when the world is created and suffering when it dissolves. Knowledge therefore releases them from the recurring cosmic cycle. The verse connects attainment of the divine nature with freedom from the conditions governing embodied existence.
 
 ## 14.3
 
@@ -42,7 +42,7 @@ The great Brahman is my womb; in it I place the seed. From that comes the birth 
 
 ### Explanation
 
-The image of a womb and an implanted seed brings divine initiative and nature’s generative capacity into one account. “Great Brahman” here is approached through the productive matrix from which embodied forms emerge; its role in this verse differs from simply naming a visible material object. Krishna identifies the process of birth with dependence on himself and that matrix, preparing the explanation of nature’s three qualities.
+The “great Brahman” is the generative nature in which Krishna places the seed of beings. Nature is the womb, while Krishna initiates the generation of embodied life within it. All beings arise from this conjunction. The next verse extends the same account to every form produced in every kind of womb.
 
 ## 14.4
 
@@ -52,7 +52,7 @@ Whatever forms arise in all wombs, son of Kunti, the great Brahman is their womb
 
 ### Explanation
 
-The scope widens from an initial act of generation to every kind of embodied form. The paternal image presents Krishna as a common source, while the generative matrix supports diversity. This shared dependence is important for the chapter’s account of qualities: differences among living forms occur within a common structure of manifestation. The verse continues the book’s practice of connecting cosmic statements with the divine presence underlying ordinary life.
+Krishna calls himself the seed-giving father of all embodied forms, and great Brahman their common womb. The claim includes every kind of being, despite the differences among their forms of birth. Nature supplies the womb from which they emerge; Krishna supplies the seed. The three qualities subsequently described belong to that nature.
 
 ## 14.5
 
@@ -62,7 +62,7 @@ Sattva, rajas and tamas are the qualities born of nature. They bind the imperish
 
 ### Explanation
 
-The three *gunas* are introduced as qualities or strands of nature, and their central relevance is their capacity to bind. The conscious self is called imperishable even while embodiment places it among changing conditions. The following verses explain how different forms of attachment connect the self with those conditions. The gunas describe interacting tendencies within experience; the chapter will explicitly show their changing predominance rather than treating them as permanently exclusive labels.
+Sattva, rajas and tamas are the three qualities born of nature. They bind the imperishable self to bodily existence. The following verses distinguish their bonds: sattva binds through happiness and knowledge, rajas through action, and tamas through heedlessness, laziness and sleep. The self’s imperishability does not by itself free it from these attachments.
 
 ## 14.6
 
@@ -72,7 +72,7 @@ Among them, sattva, because of its purity, illuminates and is free from disorder
 
 ### Explanation
 
-Sattva is associated with clarity, well-being and understanding, yet the verse still includes it within bondage. Attachment can arise around pleasurable peace or the identity of being knowledgeable. This gives the account an exacting direction: even a valued condition can be held in a way that keeps one dependent on it. Later verses therefore distinguish the cultivation of clarity from the final freedom beyond all three qualities.
+Sattva is pure, illuminating and free from disorder. It binds through attachment to happiness and knowledge. Even these desirable conditions keep the embodied self attached to nature when it clings to them. Sattva is therefore included among the qualities to be transcended, although its clarity differs from the passion of rajas and ignorance of tamas.
 
 ## 14.7
 
@@ -82,7 +82,7 @@ Know rajas as the quality of passion, arising with craving and attachment. It bi
 
 ### Explanation
 
-Rajas sets experience in motion through wanting, striving and involvement. Its bond is especially visible in dependence on activity and its outcomes. The problem described is not simply the presence of work: earlier chapters have defended disciplined action. Here the emphasis falls on the attachment through which activity becomes a requirement for self-confirmation, possession or satisfaction. This explains why activity can continue while freedom from its binding motive remains a separate question.
+Rajas is passionate and arises with craving and attachment. It binds the embodied self through attachment to action. The person under its influence seeks activity and its desired results. This is the quality responsible for the greed, undertakings, restlessness and craving listed later as signs of its increase.
 
 ## 14.8
 
@@ -92,7 +92,7 @@ Know tamas as born of ignorance and as deluding all embodied beings. It binds th
 
 ### Explanation
 
-Tamas is approached through obscuration and the loss of attentive engagement. Heedlessness overlooks what calls for care; laziness avoids effort; sleep serves as an image and condition of withdrawal from awareness. Within this spiritual account, these tendencies hinder the recognition being sought. The description concerns the quality of attention and action in the chapter’s argument, rather than supplying a medical classification of fatigue or a fixed judgment on a person’s identity.
+Tamas arises from ignorance and deludes embodied beings. It binds through heedlessness, laziness and sleep. These are its stated effects, in contrast to sattva’s illumination and rajas’s passionate activity. Its obscuring force conceals knowledge and attaches the person to neglect, as Krishna states again in the following verse.
 
 ## 14.9
 
@@ -102,7 +102,7 @@ Sattva attaches one to happiness, rajas to action, Bharata; tamas, covering know
 
 ### Explanation
 
-This summary puts the three forms of binding next to one another. Each quality directs attention toward a characteristic condition: enjoyment of clarity, driven engagement, or inattention. By describing all three through attachment, Krishna keeps the analysis focused on relationship rather than merely on the outward appearance of an activity. A quiet experience can bind through possessiveness, just as energetic action can bind through craving and dullness through neglect.
+Each quality binds in its own way. Sattva attaches the person to happiness; rajas attaches the person to action. Tamas covers knowledge and attaches the person to heedlessness. Krishna thus includes happiness, activity and neglect within the account of bondage, distinguishing the object and manner of attachment in each case.
 
 ## 14.10
 
@@ -112,7 +112,7 @@ Sattva predominates by overcoming rajas and tamas; rajas overcomes sattva and ta
 
 ### Explanation
 
-The qualities operate through changing relationships of predominance. This movement helps explain why the same person may experience clarity, agitation and obscuration at different times and under different conditions. The verse also prevents the threefold vocabulary from becoming a simple division of humanity into sealed groups. Learning to recognise which quality has become strong is part of understanding nature’s activity, while the chapter’s further aim is freedom from identification with any of them.
+The qualities alternately predominate by overcoming one another. Sattva becomes dominant over rajas and tamas; rajas over sattva and tamas; tamas over sattva and rajas. The following verses describe the signs of each predominance. Their changing strength determines the conditions of knowledge, desire, activity and ignorance in embodied life.
 
 ## 14.11
 
@@ -122,7 +122,7 @@ When the light of knowledge arises through all the gates of this body, one shoul
 
 ### Explanation
 
-The body’s “gates” are its capacities of perception and engagement. The image suggests that experience becomes more lucid through them, and that understanding is readily available. Sattva is recognised by this illuminative quality. The verse gives an experiential sign rather than an abstract definition alone: the reader is asked to notice how knowing functions when attention, perception and judgment are relatively clear and harmonious.
+The “gates” of the body are the senses through which objects are perceived. When knowledge and illumination arise through them all, sattva has increased. Clarity in perception and understanding is thus its distinguishing sign. The next two verses contrast this with the restlessness of increased rajas and the obscuration of increased tamas.
 
 ## 14.12
 
@@ -132,7 +132,7 @@ Greed, outward activity, the undertaking of works, restlessness and craving aris
 
 ### Explanation
 
-The signs move from wanting more to the restless organisation of activity around that wanting. Beginning undertakings can be driven by a need for gain or continual stimulation, so the mere number of projects is not treated as evidence of spiritual progress. Read with the earlier account of action, the verse directs attention toward the motive and agitation accompanying work. Recognising these signs can make attachment visible before it becomes the unquestioned centre of life.
+Increased rajas produces greed, activity, the undertaking of works, restlessness and craving. These signs elaborate its connection with passion and attachment to action. Greed seeks acquisition, craving seeks desired objects, and restlessness prevents quiet. Krishna lists these together as marks of the quality’s growing predominance within the embodied person.
 
 ## 14.13
 
@@ -142,7 +142,7 @@ Lack of illumination, inactivity, heedlessness and delusion arise when tamas inc
 
 ### Explanation
 
-These signs describe an obscured relationship with what is happening. The person fails to see clearly, does not engage where engagement is called for, and loses discrimination about the situation. The sequence develops the account of ignorance in 14.8. It also supplies a practical comparison with rajas: both can obstruct understanding, though one does so through restless attachment and the other through dullness and neglect.
+Increased tamas produces lack of illumination, inactivity, heedlessness and delusion. These signs follow from its origin in ignorance and its power to obscure knowledge. They contrast with sattva’s light and rajas’s restless activity. Krishna names them as the visible effects through which tamas’s predominance can be recognised.
 
 ## 14.14
 
@@ -152,7 +152,7 @@ When the embodied one dies while sattva is predominant, that person reaches the 
 
 ### Explanation
 
-The account now considers death and the direction of rebirth. Predominant clarity is connected with a favourable spiritual destination, described as the worlds of elevated knowers. This belongs to the chapter’s religious account of continuity beyond bodily death. Its place in the argument also shows that a desirable result within the cycle remains distinct from the freedom beyond rebirth promised in the opening verses.
+If sattva predominates at death, the embodied self reaches the pure worlds of those who know the highest. The condition at death thus determines a destination after death. This is a favourable result of sattva, but the chapter’s ultimate promise is freedom from birth and death through passing beyond all three qualities.
 
 ## 14.15
 
@@ -162,7 +162,7 @@ Dying in rajas, one is born among those attached to action; dying in tamas, one 
 
 ### Explanation
 
-The condition predominant at death is linked with the character of a subsequent embodiment. Rajas continues through attachment to activity, while tamas continues through obscuration. The wording situates present habits within the Gita’s account of karma and rebirth. Krishna’s purpose is to explain why the qualities matter beyond a passing mood, and why the chapter’s ultimate aim reaches beyond obtaining a more agreeable condition within their cycle.
+Death under the predominance of rajas leads to birth among those attached to action. Death under tamas leads to birth among deluded beings. The qualities therefore determine successive embodiments as well as conduct in the present life. Krishna connects the prevailing quality at death with the kind of life that follows it.
 
 ## 14.16
 
@@ -172,7 +172,7 @@ The fruit of good action is said to be pure and sattvic; the fruit of rajas is s
 
 ### Explanation
 
-The qualities are now recognised through what they produce. Purity supports clarity; restless craving carries suffering; obscuration reproduces ignorance. The verse keeps action and consequence together, extending the analysis from immediate experience to the direction in which habits develop. It gives the reader a way to examine conduct through its characteristic fruits, while remembering that even a sattvic fruit belongs to the field of nature described in earlier verses.
+Good action produces a pure, sattvic fruit. Rajas produces suffering, and tamas produces ignorance. The verse distinguishes the qualities through their consequences, continuing the preceding account of their results after death. The favourable fruit of good action remains within this threefold classification; liberation requires passing beyond the qualities altogether.
 
 ## 14.17
 
@@ -182,7 +182,7 @@ From sattva comes knowledge; from rajas comes greed; and from tamas come heedles
 
 ### Explanation
 
-This verse names a pattern of reinforcement. Clarity enables knowledge, craving encourages further grasping, and obscuration deepens inattentiveness and confusion. Such tendencies help explain why the qualities can become self-sustaining within embodied experience. The account supports careful recognition of conditions and their effects: seeing what a tendency repeatedly produces makes it easier to understand the bond that the next part of the chapter seeks to transcend.
+Knowledge arises from sattva, greed from rajas, and heedlessness, delusion and ignorance from tamas. These effects identify the different qualities at work. Sattva illuminates, rajas drives acquisition, and tamas obscures knowledge. The next verse states the upward, middle and downward destinations associated with life under their respective influence.
 
 ## 14.18
 
@@ -192,7 +192,7 @@ Those established in sattva go upward; those in rajas remain in the middle; thos
 
 ### Explanation
 
-Upward, middle and downward express a hierarchy of spiritual direction within the chapter’s cosmology. The movement follows the consequences just described: clarity supports ascent, restless involvement sustains the cycle, and ignorance draws toward degradation. These are qualities of life and action in a teaching about rebirth. The verse’s directional imagery prepares the question of a freedom that is no longer limited to changing position within that hierarchy.
+Those established in sattva ascend; those governed by rajas remain in the middle; those living in the lowest operations of tamas descend. Krishna ranks the destinations produced by the three qualities. This follows the teaching about their different fruits and rebirths, before the account turns to release from their whole domain.
 
 ## 14.19
 
@@ -202,7 +202,7 @@ When the seer recognises no agent apart from the qualities, and knows what is be
 
 ### Explanation
 
-The analysis returns to the distinction between nature’s operations and the conscious knower. The seer recognises activities as movements of the gunas rather than claiming them through an isolated ego. At the same time, something beyond those movements is known. Both parts matter: merely observing changing tendencies is different from the liberating recognition of their limit and their relation to the reality Krishna calls his own state.
+The seer knows that the qualities perform actions and that the self is beyond them. This knowledge ends the attribution of nature’s activity to the self and leads to Krishna’s state. The verse joins the account of the qualities to the preceding chapter’s distinction between nature as agent and the self as non-agent.
 
 ## 14.20
 
@@ -212,7 +212,7 @@ Passing beyond these three qualities that give rise to the body, the embodied se
 
 ### Explanation
 
-The goal announced at the beginning is restated after the account of bondage. Transcending the qualities brings release from the cycle whose characteristic changes include birth, ageing and death. “Immortality” belongs to that liberating goal, approached through the imperishable self rather than the indefinite preservation of a particular body. The chapter now turns to Arjuna’s natural question: how can such transcendence be recognised in someone’s manner of living?
+The three qualities produce bodily existence. Passing beyond them frees the embodied self from the sufferings of birth, death and old age and brings immortality. Krishna states liberation as release from the entire cycle governed by nature’s qualities. Arjuna next asks about the signs, conduct and attainment of one who has crossed beyond them.
 
 ## 14.21
 
@@ -222,7 +222,7 @@ Arjuna said: By what signs is one known to have passed beyond these three qualit
 
 ### Explanation
 
-Arjuna asks about recognition, conduct and the means of attainment. These questions bring the cosmic and metaphysical teaching back into the visible circumstances of a human life. They resemble his earlier inquiry about the person of steady wisdom in Chapter 2. A spiritual claim becomes more intelligible when it is connected with responses to changing conditions, relationships and motives, and Krishna’s answer will address precisely those areas.
+Arjuna asks three questions about the person who has passed beyond the qualities: what signs distinguish that person, how that person lives, and how the transcendence is attained. These questions resemble his inquiry about settled wisdom in Chapter 2. Krishna’s answer begins with the person’s response to the qualities as they arise and cease.
 
 ## 14.22
 
@@ -232,7 +232,7 @@ The Lord said: One who does not hate illumination, activity or delusion when the
 
 ### Explanation
 
-The answer begins with freedom from reactive attachment to the changing conditions themselves. Clarity may be welcomed, activity engaged and obscuration recognised, while the person ceases to build identity around their arrival or departure. The verse describes a stable relation to nature’s movements. Its reference to delusion belongs with the capacity to observe and understand it, preparing the next verse’s account of remaining unshaken as the qualities operate.
+The person beyond the qualities neither hates their manifestations when they arise nor longs for them when they disappear. Illumination names sattva’s effect, activity names rajas’s, and delusion names tamas’s. Freedom from aversion and longing toward all three is the first sign Krishna gives of transcendence.
 
 ## 14.23
 
@@ -242,7 +242,7 @@ One who remains as an impartial observer, is not shaken by the qualities, and st
 
 ### Explanation
 
-The observer recognises a process without being carried entirely into its claims. “The qualities are operating” summarises the discrimination developed through the chapter. The comparison with an impartial witness concerns steadiness amid experience, while the surrounding teaching continues to include devotion, conduct and responsibility. The emphasis is on loosening the ego’s automatic appropriation of every movement as its own ultimate identity or command.
+The person remains like an impartial witness, unshaken by the qualities and firm in the knowledge that the qualities themselves are operating. Their movements are recognised as nature’s activity. The self is no longer identified with them. This steadiness continues the preceding verse’s absence of hatred or longing toward their appearance and disappearance.
 
 ## 14.24
 
@@ -252,7 +252,7 @@ One who is equal in pleasure and pain, established in the self, regarding a lump
 
 ### Explanation
 
-The examples show the range of conditions that ordinarily disturb a person’s sense of worth and security. Material value, comfort and social approval all carry strong attractions and threats. Equal regard describes freedom from their power to determine inner stability. Earth, stone and gold retain their practical differences within ordinary dealings; the verse examines the attachment through which those differences acquire authority over the self’s contentment and direction.
+The person is established in the self and remains equal in pleasure and pain. Earth, stone and gold receive equal regard, as do pleasant and unpleasant things, blame and praise. Krishna gives these as signs of freedom from the qualities: the usual differences in value and experience no longer disturb the person’s steadiness.
 
 ## 14.25
 
@@ -262,7 +262,7 @@ One who is equal in honour and dishonour, equal toward the sides of friend and e
 
 ### Explanation
 
-The description extends to social divisions and the projects through which ego seeks fulfilment. Friend and enemy are particularly charged words in this battlefield conversation: the equal vision being taught must be considered amid actual conflict and obligation. Relinquishing undertakings concerns the possessive, desire-bound initiative treated throughout the book. The verse gathers the signs into a way of living in which external position no longer determines spiritual identity.
+Honour and dishonour, friend and enemy, are regarded equally. The person has also relinquished all undertakings and is therefore said to have passed beyond the qualities. The relinquishment concerns the desire-driven initiatives that keep action bound to its fruits. The verse completes the description of conduct before Krishna states the means of transcendence through devotion.
 
 ## 14.26
 
@@ -272,7 +272,7 @@ Whoever serves me with unwavering devotion through bhakti-yoga passes beyond the
 
 ### Explanation
 
-The means of transcendence is stated in devotional language. Steadfast service to Krishna gives attention and action a centre beyond the shifting demands of the gunas. The verse brings devotion into direct relation with the knowledge of nature and the self developed in Chapters 13 and 14. Fitness for the state of Brahman is therefore expressed through a continuing relationship of devotion, joining insight and practice in one movement toward freedom.
+Unwavering service to Krishna through devotion carries the practitioner beyond the three qualities and makes that person fit for the state of Brahman. Krishna gives this as the means of transcendence. The devotion must be undeviating; its promised result is the same freedom from the qualities and mortal existence described in the preceding verses.
 
 ## 14.27
 

@@ -10,9 +10,9 @@ tags:
 textSourceHash: 88c1d60eb2a57190f11cdb4301c93f22cf9f2ae544607979b8cf48bc60eb8c68
 ---
 
-Krishna now describes two contrasting dispositions, called divine and asuric. The chapter begins with qualities such as truthfulness, self-restraint, generosity and non-injury, then examines a life organised around domination, insatiable desire and self-importance. Its account moves between conduct, inner speech, religious practice and the consequences of repeated action. These terms belong to the Gita’s moral and theological vocabulary; the chapter asks how a person’s orientation develops and where it leads.
+Krishna distinguishes divine from asuric qualities, saying that the divine lead to liberation and the asuric to bondage. He describes the beliefs, desires and actions of asuric people, their fall into hell and their repeated births in asuric wombs. The chapter ends by naming desire, anger and greed as gates of hell and making scripture the authority for what should and should not be done.
 
-Each **Meaning** gives an original English rendering of the displayed Sanskrit. Each **Explanation** follows the verse’s wording, its place in the dialogue and its philosophical or devotional context. These are original reader explanations; named traditional interpretations are identified where they are compared. [1–2]
+Each **Meaning** renders the Sanskrit in English. Each **Explanation** follows the verse’s statements, terms and argument. Named traditional interpretations are distinguished where they differ. [1–2]
 
 ## 16.1
 
@@ -22,7 +22,7 @@ The Lord said: Fearlessness, purity of inner disposition, steadfastness in the y
 
 ### Explanation
 
-The opening catalogue joins inward orientation with visible conduct. Fearlessness is placed beside purity, disciplined knowledge and generosity, so strength and clarity are considered together with responsibility toward others. Sacred study, sacrifice and austerity give that orientation forms of practice. These qualities will be named the divine endowment in the next verses. The list offers several connected ways in which spiritual aspiration takes shape in an ordinary human life.
+The first qualities of the divine endowment are fearlessness, purity of inner disposition and steadfastness in knowledge and yoga. Krishna then names giving, sense-restraint, sacrifice, sacred study, austerity and straightforwardness. These are the qualities of those born with the divine endowment, whose result is liberation. The list continues through the next two verses.
 
 ## 16.2
 
@@ -32,7 +32,7 @@ Non-injury, truthfulness, freedom from anger, relinquishment, peace, freedom fro
 
 ### Explanation
 
-The catalogue moves through speech, emotion, possessions and relationships. Compassion extends to beings generally, while truthfulness and freedom from malicious fault-finding concern how another person is represented. The sense of shame is an awareness that restrains unworthy conduct within this ethical vocabulary. These qualities give content to the chapter’s use of “divine”: the term is connected with a recognisable manner of living and treating others.
+The divine qualities include non-injury, truthfulness, absence of anger, relinquishment and peace. Krishna adds freedom from malicious fault-finding, compassion toward beings, absence of greed, gentleness, shame and freedom from restless frivolity. Shame here is the restraint against dishonourable conduct. The list describes both the dispositions and conduct belonging to the divine endowment.
 
 ## 16.3
 
@@ -42,7 +42,7 @@ Vigour, forgiveness, resolve, purity, absence of hostility and freedom from exce
 
 ### Explanation
 
-Vigour completes a list that has also included gentleness and forgiveness. Their conjunction makes the picture more substantial than either forcefulness or softness alone. Resolve sustains the qualities through difficulty, while freedom from inflated self-importance limits the ego’s demand to dominate. The description is now gathered under *daivi sampad*, a divine endowment or collection of qualities, whose liberating direction will be explained in 16.5.
+Vigour, forgiveness, resolve, purity, absence of hostility and freedom from excessive pride complete the divine list. The term *daivi sampad* means the divine endowment or collection of qualities. Krishna attributes these qualities to those born with that endowment and subsequently contrasts their liberating result with the bondage produced by the asuric endowment.
 
 ## 16.4
 
@@ -52,7 +52,7 @@ Pretence, arrogance, self-conceit, anger, harshness and ignorance belong to one 
 
 ### Explanation
 
-The contrasting list begins with an outward show that hides a different inward motive. Arrogance and conceit make the self an exaggerated centre, while anger and harshness carry that orientation into relationships. Ignorance concerns the failure of understanding that supports such conduct. The chapter will develop these terms through examples of desires, judgments and speech, allowing the reader to examine the disposition through its operations rather than through a name alone.
+Pretence, arrogance, conceit, anger, harshness and ignorance are the qualities of those born with the asuric endowment. Pretence is the false display of virtue or religious standing; arrogance and conceit exalt oneself. These qualities contrast with the sincerity, humility, gentleness and knowledge required of the divine disposition. Krishna develops the asuric character in the verses that follow.
 
 ## 16.5
 
@@ -62,7 +62,7 @@ The divine endowment leads to liberation, and the asuric is held to lead to bond
 
 ### Explanation
 
-Krishna identifies the direction of the two dispositions and then addresses Arjuna personally. The contrast concerns freedom and bondage, continuing the book’s central question about the consequences of action and attachment. The reassurance places Arjuna’s grief and uncertainty within a relationship of instruction. His crisis does not prevent Krishna from recognising a disposition capable of receiving the teaching and moving toward liberation through its practice.
+The divine endowment leads to liberation, and the asuric endowment leads to bondage. Krishna then assures Arjuna that he was born with the divine endowment and tells him not to grieve. The distinction concerns the spiritual consequences of the qualities already listed: one collection releases a person, while the other binds that person to continued existence.
 
 ## 16.6
 
@@ -72,7 +72,7 @@ In this world there are two kinds of created beings, the divine and the asuric. 
 
 ### Explanation
 
-The verse announces a shift of emphasis. After the catalogue of favourable qualities, Krishna will give a more extended account of the destructive disposition. The language draws on the contrast of devas and asuras within the text’s religious world. Its following examples concern human beliefs, motives and behaviour. This gives the account a practical focus: the listener can recognise how a particular orientation is formed and expressed.
+Krishna divides created beings in this world into two kinds, divine and asuric. Having described the divine qualities, he turns to the asuric kind. The distinction draws on devas and asuras and is applied here to the kinds of beings found in the world. The following verses describe the asuric beliefs, conduct and destinations.
 
 ## 16.7
 
@@ -82,7 +82,7 @@ Asuric people do not understand what should be undertaken and what should be avo
 
 ### Explanation
 
-The first difficulty is discernment about action and restraint. The paired terms *pravritti* and *nivritti* concern entering into conduct and turning away from it in the appropriate circumstances. Their failure is then connected with purity, conduct and truthfulness. The verse prepares the chapter’s final appeal to instruction about what is to be done, framing the destructive disposition as a loss of moral orientation as well as a collection of passions.
+Asuric people do not know *pravritti* and *nivritti*, what conduct should be undertaken and what should be avoided. Krishna also denies them purity, proper conduct and truthfulness. Their lack of discernment is therefore joined with failures of observance and character. The chapter ends by declaring scripture the authority for deciding what should and should not be done.
 
 ## 16.8
 
@@ -92,7 +92,7 @@ They say that the world is without truth, without foundation and without a Lord,
 
 ### Explanation
 
-Krishna now reports the outlook attributed to this disposition. The verse’s reduction of the world to desire belongs within a portrait of conduct that will become greedy and destructive. Its theological contrast concerns the rejection of grounding, truth and lordship together. The specific outlook described should be read with that sequence, whose next verses show how the speakers turn their account of reality into permission for their own uncontrolled desires.
+The asuric people say that the world lacks truth, foundation and a Lord. They attribute its origin to the sexual union of male and female and name desire as its cause. Krishna presents this account of a godless world as part of the asuric outlook, before describing the harmful conduct of those who hold it.
 
 ## 16.9
 
@@ -102,7 +102,7 @@ Holding to this view, with their selves lost and their understanding small, they
 
 ### Explanation
 
-The account connects a view of the world with the actions it encourages. The destructive result is expressed in strong language: fierce deeds become a danger beyond the actor’s immediate circle. The reference to a lost self describes the person’s spiritual disorientation within this argument. Krishna’s attention has moved from mistaken judgment about action to the wider harm that follows when desire and power proceed without an acknowledged moral ground.
+Those holding the preceding view are called lost in self and deficient in understanding. Krishna says they perform fierce deeds and arise as enemies of the world, working for its destruction. The verse directly connects the asuric view of existence with violent, harmful action and the destruction of the world.
 
 ## 16.10
 
@@ -112,7 +112,7 @@ Clinging to insatiable desire, filled with pretence, pride and intoxication, the
 
 ### Explanation
 
-Insatiability makes the disposition unstable even when it possesses much. Desire keeps generating new demands, while pride and pretence make those demands appear justified. The “false convictions” are commitments seized under delusion and then made the basis of conduct. This explains how the chapter’s destructive orientation can become organised and persistent: it supplies itself with reasons and practices that protect the desire driving it.
+The asuric people cling to desire that cannot be satisfied. Pretence, pride and intoxication accompany it. Delusion leads them to seize false convictions and pursue impure commitments. Krishna describes both their appetites and the beliefs and observances through which they carry them out, continuing the account of their lack of truth and proper conduct.
 
 ## 16.11
 
@@ -122,7 +122,7 @@ Giving themselves to immeasurable anxiety that lasts until death, taking the enj
 
 ### Explanation
 
-The verse shows the burden within the apparently confident pursuit of enjoyment. If satisfaction depends on the continual fulfilment of desire, anxiety extends as far as life itself. The conviction that enjoyment is the highest goal narrows what can count as success or value. This inward condition will soon appear as the speaker’s repeated calculations about acquisition, enemies and superiority, showing the relation between an outlook and a habit of thought.
+Their anxieties are immeasurable and last until death. They hold the enjoyment of desires to be the highest end and believe that nothing lies beyond it. The pursuit of enjoyment thus fills the whole course of their lives. The next verse describes the expectations, anger and unjust accumulation that accompany this pursuit.
 
 ## 16.12
 
@@ -132,7 +132,7 @@ Bound by hundreds of cords of expectation, intent on desire and anger, they seek
 
 ### Explanation
 
-Expectation becomes a binding cord: every desired result creates another demand upon attention. Anger accompanies the pursuit when those demands meet resistance. The verse then gives the moral consequence explicitly, naming unjust accumulation as a means to enjoyment. The criticism therefore concerns both motive and conduct. Wealth is being pursued through wrong means under the authority of desire, and that pattern becomes the subject of the next verses’ inner speech.
+Hundreds of expectations bind them like cords. Devoted to desire and anger, they accumulate wealth through unjust means so that they can satisfy their desires. Krishna explicitly names the wrongful means as well as the purpose of acquisition. The next verses quote their boasts about wealth, conquest, power and religious display.
 
 ## 16.13
 
@@ -142,7 +142,7 @@ Expectation becomes a binding cord: every desired result creates another demand 
 
 ### Explanation
 
-The narration enters the person’s own imagined voice. Possession and future acquisition fill the sentence, while its repeated first-person claims leave little space for dependence, gratitude or a limit to wanting. The succession of “this” and “that” shows how attainment feeds the next expectation. This is the mental texture of the cords described in 16.12: the future is continually recruited to secure and enlarge the self’s sense of ownership.
+The quoted speech expresses possession and planned acquisition: this has been gained, another desire will be obtained, and present wealth will grow. Krishna gives the asuric person’s own claims in the first person. These boasts illustrate the many expectations and the pursuit of wealth for enjoyment described in the preceding verse.
 
 ## 16.14
 
@@ -152,7 +152,7 @@ The narration enters the person’s own imagined voice. Possession and future ac
 
 ### Explanation
 
-The voice extends its claim from wealth to domination and self-sufficiency. Other people become enemies to remove, while lordship and enjoyment are appropriated as personal titles. This inward speech presents happiness as a proclamation of power, even as the surrounding account has described bondage and anxiety. The verse thus exposes the gap between a person’s declaration about himself and the orientation his conduct reveals within Krishna’s analysis.
+The speaker boasts of killing an enemy and intends to kill others. He then claims to be lord, enjoyer, successful, powerful and happy. Killing opponents and claiming lordship belong to the same declaration of superiority. Krishna quotes these words as further expressions of the pride and ignorance of the asuric person.
 
 ## 16.15
 
@@ -162,7 +162,7 @@ The voice extends its claim from wealth to domination and self-sufficiency. Othe
 
 ### Explanation
 
-Status, family standing and religious actions are drawn into the same self-exalting speech. Sacrifice and giving appear in the opening divine catalogue, yet their presence here is governed by a different motive. The speaker uses them to celebrate superiority. This prepares the chapter’s distinction between a practice’s outward name and the inward orientation that gives it character, a theme developed more fully through sacrifice, austerity and giving in Chapter 17.
+Wealth and noble birth become grounds for the claim that no one is equal to the speaker. He also boasts that he will sacrifice, give and rejoice. Krishna calls this ignorance and delusion. Sacrifice and giving are included in the boast because they too can be used to proclaim wealth and superiority.
 
 ## 16.16
 
@@ -172,7 +172,7 @@ Confused by many thoughts, enclosed in the net of delusion and attached to the e
 
 ### Explanation
 
-The result of the preceding inner speech is described through enclosure and fall. The many thoughts do not form a stable understanding; they multiply around the desire they serve. The net image suggests a condition that is difficult to see from within, while hell names its grave consequence in the text’s religious account. The sequence gathers anxiety, attachment and destructive action into a single downward movement.
+Confused by many thoughts, trapped in delusion and attached to the enjoyment of desires, these people fall into an impure hell. Krishna states hell as the consequence of the asuric life just described. The net of delusion, the multiplication of desires and the attachment to enjoyment culminate in this fall.
 
 ## 16.17
 
@@ -182,7 +182,7 @@ Self-glorifying, rigid, and intoxicated by wealth and honour, they perform sacri
 
 ### Explanation
 
-The focus returns to religious conduct. The verse names both an inward disorder and a failure in the form of sacrifice: the act is governed by show and lacks the observance that would make it genuine within this setting. The phrase “in name alone” follows the boast “I shall sacrifice” in 16.15. The problem is therefore visible in the relationship between declared piety, motive and the manner of performance.
+The asuric people glorify themselves, remain obstinate and are intoxicated by wealth and honour. Their sacrifices are sacrifices in name alone, performed for display and without the prescribed observances. Krishna distinguishes the claim to sacrifice from proper performance. Their religious acts are governed by the same pride and pretence described among their other qualities.
 
 ## 16.18
 
@@ -192,7 +192,7 @@ Relying on egoism, force, arrogance, desire and anger, these resentful people ha
 
 ### Explanation
 
-Krishna identifies hostility to the divine within the conduct already described. The Lord’s presence in both self and other bodies gives that hostility a wider scope than the rejection of a distant object of worship. Egoism and domination obscure a shared dependence and presence. Read beside the equal vision of Chapter 13, the verse connects spiritual ignorance with the treatment of embodied beings, while retaining its explicit theological language.
+Relying on egoism, force, arrogance, desire and anger, they hate Krishna present in their own bodies and in the bodies of others. Their hostility therefore reaches the indwelling Lord. Krishna identifies this hatred, together with resentment and cruelty, as grounds for the punishment and repeated asuric births declared in the following verses.
 
 ## 16.19
 
@@ -202,7 +202,7 @@ Those hateful, cruel, inauspicious people, the lowest among human beings, I cont
 
 ### Explanation
 
-The text now speaks directly of divine agency in the consequences of cruelty. Its severe language belongs to the chapter’s account of bondage and repeated birth, rather than being merely a figure for social disapproval. The relevant disposition has been specified through hatred, injustice, pretence and harm. Krishna presents its continuation as a spiritual descent within samsara, giving the moral analysis an explicitly theological and karmic dimension.
+Krishna declares that he repeatedly casts these hateful, cruel and inauspicious people into asuric wombs within samsara. He calls them the lowest among human beings. The verse explicitly attributes their punishment and repeated births to him. Their cruelty and hatred lead to continued embodiment among beings of the same asuric kind.
 
 ## 16.20
 
@@ -212,7 +212,7 @@ Entering asuric births, deluded birth after birth, they fail to reach me, son of
 
 ### Explanation
 
-The account describes the danger of repeated reinforcement: ignorance and destructive conduct carry forward into further conditions of the same kind. Failure to reach Krishna names the spiritual loss at the centre of that descent. The next verses turn from describing the course to identifying what can be relinquished. That shift matters to the chapter’s instruction, because it brings attention back to the desires and habits through which a person acts now.
+Having entered asuric wombs, they remain deluded birth after birth. They fail to reach Krishna and descend to an even lower condition. The verse continues the punishment announced in the preceding one: repeated asuric birth does not end their delusion but is followed by further degradation and continued failure to attain the Lord.
 
 ## 16.21
 
@@ -222,7 +222,7 @@ Three gates lead to this hell and destroy the self: desire, anger and greed. The
 
 ### Explanation
 
-The extended portrait is compressed into three closely related forces. Desire demands satisfaction, anger responds to obstruction, and greed keeps enlarging the demand for possession. Calling them gates shows how the destructive course can be entered through recognisable tendencies. Their abandonment is made the explicit instruction. The account therefore ends its severe description by directing the listener toward conditions of conduct that can be examined and changed.
+Desire, anger and greed are the three gates of hell, and Krishna calls them destructive of the self. He therefore commands their abandonment. These three qualities have appeared throughout the asuric portrait: insatiable enjoyment, hostility and unjust accumulation. The verse names them together as direct entrances to the punishment already described.
 
 ## 16.22
 
@@ -232,7 +232,7 @@ Freed from these three gates of darkness, son of Kunti, a person acts for the go
 
 ### Explanation
 
-The possibility of a different direction is now stated positively. Release from desire, anger and greed enables action for genuine well-being, and that action is connected with the highest spiritual goal. The word “acts” is important in a book that repeatedly joins freedom with transformed engagement. Turning away from the gates of darkness opens a different way of participating in life, rather than leaving the listener with the preceding portrait alone.
+A person freed from desire, anger and greed is freed from the three gates of darkness. Such a person acts for the good of the self and reaches the highest goal. Krishna states the opposite course to the asuric descent: abandoning the causes of hell permits beneficial conduct and leads toward liberation.
 
 ## 16.23
 
@@ -242,7 +242,7 @@ One who sets aside scriptural instruction and acts according to the impulses of 
 
 ### Explanation
 
-The concluding contrast concerns the basis upon which action is chosen. Desire acting as its own authority repeats the disorder examined throughout the chapter. Scripture provides a source of discipline and discrimination within this teaching’s religious setting. The three denied outcomes gather practical and spiritual aspirations together. The next verse tells Arjuna how that authority should be brought into the actual task of deciding what ought to be done.
+A person who abandons scriptural direction and acts according to desire attains neither perfection, happiness nor the highest goal. Scripture and desire are opposed here as guides to action. Krishna denies all three desired outcomes to conduct that sets aside the former and follows the latter. The next verse makes scriptural authority explicit.
 
 ## 16.24
 
@@ -252,7 +252,7 @@ Therefore let scripture be your authority in determining what should and should 
 
 ### Explanation
 
-The chapter closes with a direction for judgment and action. Scripture is presented as a means for distinguishing obligations and restraints, addressing the failure of discernment named at 16.7. The instruction includes knowing and then acting, so understanding must enter conduct. Arjuna will respond by asking about people whose sincere faith is not guided by those prescriptions, opening the more detailed examination of motive and practice in Chapter 17.
+Scripture is the authority for determining what should and should not be done. Krishna instructs Arjuna to know the action prescribed by scripture and perform it. The chapter therefore closes with a direct rule for conduct, answering the asuric failure to distinguish action from restraint. Arjuna’s next question concerns worship performed with faith but without following scriptural directions.
 
 ## Sources
 

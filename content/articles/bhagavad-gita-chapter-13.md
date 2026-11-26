@@ -10,11 +10,11 @@ tags:
 textSourceHash: 8f2c225ae03abaceddd1b6bdfb1f4a0241d6df6e458fd4f1981214944f291571
 ---
 
-Arjuna now asks how the body, awareness, nature and knowledge fit together. Krishna answers through the image of a field: the changing conditions in which experience and action occur, and the knower to whom that field appears. The inquiry includes habits of character, devotion and liberation, as well as metaphysical distinctions.
+Arjuna asks about nature, the person, the field, the knower of the field, knowledge and what is to be known. Krishna identifies the body as the field, explains its constituents and the qualities called knowledge, and describes Brahman, nature, the experiencer and liberation. The chapter distinguishes the activities of nature from the self that neither acts nor is stained.
 
 This reader numbers Arjuna’s opening question as **13.1**, making this a 35-verse chapter. Editions that omit or leave that question unnumbered begin Krishna’s reply at 13.1; their later verse references are therefore one lower than those used here.
 
-Each **Meaning** gives an original English rendering of the displayed Sanskrit. Each **Explanation** follows the verse’s wording, its place in the dialogue and its philosophical or devotional context. These are original reader explanations; named traditional interpretations are identified where they are compared. [1–3]
+Each **Meaning** renders the Sanskrit in English. Each **Explanation** follows the verse’s statements, terms and argument. Named traditional interpretations are distinguished where they differ. [1–3]
 
 ## 13.1
 
@@ -34,7 +34,7 @@ The Lord said: Son of Kunti, this body is called the field. Those who understand
 
 ### Explanation
 
-A field is a place where things develop and bear results. Calling the body a field draws attention to sensations, actions and changes that can be observed within embodied life. The knower is introduced through the capacity to know those changes. The distinction begins an inquiry into experience: bodily conditions appear and alter, while the question of who knows them requires another kind of attention.
+The body is the field, and the conscious self that knows the body is its knower. Bodily sensations, actions and changes belong to what is known. The distinction between the two supplies the chapter’s central terms: *kshetra*, the field, and *kshetrajna*, the knower of the field. Krishna will explain their nature and relationship.
 
 ## 13.3
 
@@ -44,7 +44,7 @@ Know me also as the knower in every field, Bharata. Knowledge of the field and i
 
 ### Explanation
 
-Krishna extends the distinction beyond one individual body by identifying himself with knowing in every field. The relation between divine and individual knowing becomes an important point of interpretation. Shankara understands the apparent plurality through bodily limitations upon the one Self; Ramanuja preserves individual selves within the Lord’s comprehensive knowledge and rule. Both readings take the verse’s divine claim seriously, while explaining the relationship differently. [3]
+Krishna declares himself the knower in every body and calls knowledge of field and knower true knowledge. Shankara explains the many knowers as the one Self appearing distinct through bodily limitations. Ramanuja distinguishes individual selves from the Lord, who knows and governs them all. The difference concerns the relation between the individual knower and the divine knower. [3]
 
 ## 13.4
 
@@ -54,7 +54,7 @@ Hear from me briefly what that field is, what it is like, how it changes, what a
 
 ### Explanation
 
-The promised explanation is organised rather than merely descriptive. Krishna will consider the field’s constitution, its transformations and its sources, and then the knower’s character and capacities. That order helps prevent the word “body” from suggesting only a visible physical outline. The chapter’s field includes the wider conditions of embodied experience, while its knower cannot simply be identified with one of those changing conditions.
+Krishna announces what he will explain: the field’s nature, its modifications and origins, and the identity and powers of its knower. The account of the field includes physical elements, senses and mental faculties. The account of its knower concerns the conscious principle distinguished from those constituents and changes.
 
 ## 13.5
 
@@ -64,7 +64,7 @@ Sages have sung of this in many ways, separately in various sacred hymns, and in
 
 ### Explanation
 
-Krishna places the inquiry within a longer tradition of reflection, sacred utterance and argument. The expression *brahma-sutra-pada* points to statements or formulations concerning Brahman; identifying it with a particular later arrangement of the Brahma Sutras involves further questions of interpretation and textual history. The verse itself stresses both inherited teaching and reasoning. Understanding the field and knower is presented as a subject that can be carefully investigated.
+Krishna says that sages have taught the field and its knower through sacred hymns and reasoned statements concerning Brahman. The expression *brahma-sutra-pada* can denote formulations about Brahman; its identification with the Brahma Sutras is a further interpretive question. The verse invokes both inherited sacred teaching and argument in support of the account that follows.
 
 ## 13.6
 
@@ -74,7 +74,7 @@ The great elements, ego, understanding and the unmanifest; the ten senses and th
 
 ### Explanation
 
-This list describes the field through categories of nature. The ten senses include capacities for perception and for action, while mind is counted alongside them. Sense objects are the kinds of things those capacities encounter. Ego and understanding also belong in the list. Their inclusion is important: the feeling “I do this” and the faculty that forms judgments are themselves examined as parts of embodied experience.
+The field includes the five great elements, ego, understanding, unmanifest nature, ten senses, mind and five sense objects. The ten senses comprise five capacities of perception and five of action. Mind, ego and understanding are included among nature’s constituents alongside the physical elements. They belong to the field that is known, rather than constituting the knower.
 
 ## 13.7
 
@@ -84,7 +84,7 @@ Desire and aversion, pleasure and pain, the bodily aggregate, awareness within i
 
 ### Explanation
 
-The list now includes lived states and functions, bringing the account close to ordinary experience. Desire and aversion alter how the field is encountered; pleasure and pain give it emotional weight; resolve holds activities together. “Awareness” here describes the functioning of the embodied aggregate within this list. The chapter will distinguish this changing presentation of experience from the knower, rather than ending its inquiry with mental activity alone.
+Desire, aversion, pleasure and pain are modifications of the field. The bodily aggregate, its conscious functioning and the resolve that sustains it also belong to this description. Krishna thus includes physical and mental life in the field. These changing conditions are distinguished from the knower whose nature the chapter is explaining.
 
 ## 13.8
 
@@ -94,7 +94,7 @@ Humility, freedom from pretence, non-injury, patience, straightforwardness, atte
 
 ### Explanation
 
-The account of knowledge begins with qualities of the person seeking it. Humility reduces the need to protect an impressive self-image; straightforwardness and patience support honest learning; non-injury concerns the treatment of other beings. Attendance upon a teacher gives inquiry a disciplined setting. These qualities prepare the understanding that the chapter calls knowledge. How one lives and how one knows are connected throughout this passage.
+Krishna begins the list he will call knowledge with humility, sincerity, non-injury, patience and straightforwardness. Service to a teacher, purity, steadiness and self-restraint complete this verse’s list. These are disciplines required for knowledge of the self. The passage treats the seeker’s conduct and restraint as part of the preparation for that knowledge.
 
 ## 13.9
 
@@ -104,7 +104,7 @@ Dispassion toward sense objects, freedom from egoism, and repeated consideration
 
 ### Explanation
 
-Reflection on vulnerability changes the scale of what a person seeks. Birth, ageing, illness and death expose the instability of bodily advantages and the limits of possessiveness. The verse links that reflection with dispassion and freedom from egoism. Its purpose within the chapter is to make enduring knowledge desirable and attachment more intelligible, while keeping the body’s changing circumstances distinct from the self’s ultimate nature.
+Dispassion means turning away from attachment to sense objects; freedom from egoism means relinquishing the claim of “I.” Repeated contemplation of birth, death, old age and disease recognises the suffering inherent in embodied existence. Krishna includes this recognition among the conditions of knowledge, alongside the disciplines listed before and after it.
 
 ## 13.10
 
@@ -114,7 +114,7 @@ Non-attachment, freedom from possessive clinging to children, spouse, home and t
 
 ### Explanation
 
-The examples bring the inquiry into intimate relationships and domestic life. *Anabhishvanga* concerns the intense clinging through which another person’s fortunes become inseparable from one’s own self-image. Even-mindedness accompanies a loosening of that possession. Read with the preceding ethical qualities, the passage connects care and responsibility with freedom from emotional domination by ownership, expectation and the demand that familiar arrangements remain unchanged.
+The required detachment extends to children, spouse, home and similar attachments. *Anabhishvanga* denotes freedom from intense clinging to them. Krishna also requires an even mind when either desired or undesired events occur. Together these qualities describe freedom from the family attachments and changes of fortune that otherwise bind the person to embodied life.
 
 ## 13.11
 
@@ -124,7 +124,7 @@ Unswerving devotion to me through undivided yoga, a liking for secluded places, 
 
 ### Explanation
 
-Devotion appears among the conditions of knowledge, continuing the connection developed in earlier chapters. Undivided attention gives the search a centre, and seclusion offers space in which it can deepen. The reference to social gatherings concerns the pull of dispersed, distracting involvement. The verse describes a contemplative orientation: attention becomes less dependent on public stimulation and more steadily directed toward Krishna and the understanding being sought.
+Unswerving devotion to Krishna is included in the account of knowledge. The devotion is undivided, directed to him without another object. Preference for secluded places and lack of delight in social gatherings accompany it. The verse places devotion, solitude and withdrawal from company among the disciplines of the seeker.
 
 ## 13.12
 
@@ -134,7 +134,7 @@ Constancy in knowledge of the self and insight into the purpose of knowledge of 
 
 ### Explanation
 
-This verse completes the extended list begun at 13.8. Krishna names these dispositions and practices “knowledge” because they lead toward, sustain or embody the understanding in question. Insight also includes attention to its purpose: liberation and the discernment of reality. The opposition to ignorance is therefore practical as well as intellectual. A person’s priorities, habits and forms of attention help shape whether such understanding can become steady.
+The list ends with constancy in knowledge of the self and discernment of the purpose of knowledge of reality. Krishna calls the entire list beginning at 13.8 “knowledge,” and calls what is contrary to it ignorance. These qualities and disciplines are named knowledge because they prepare and sustain the realisation of the self and its liberation.
 
 ## 13.13
 
@@ -144,7 +144,7 @@ I shall describe what is to be known, knowing which one reaches immortality: the
 
 ### Explanation
 
-The discussion turns from preparation for knowledge to its ultimate object. The paired terms “being” and “non-being” are set aside because Brahman is being approached beyond the ordinary contrast between a present object and its absence. “Beginningless” also removes it from the sequence of produced things. The phrase *anadimat param* has received different grammatical and theological readings; the central movement here is toward what grounds experience without becoming one more transient item within it.
+Knowledge of Brahman is said to bring immortality. Brahman is beginningless and is described as neither *sat* nor *asat*, being nor non-being. Those terms cannot define it as they define changing objects. The phrase *anadimat param* also admits different grammatical readings, concerning whether the passage calls Brahman supreme or describes its relation to Krishna.
 
 ## 13.14
 
@@ -154,7 +154,7 @@ With hands and feet everywhere, with eyes, heads and mouths everywhere, with ear
 
 ### Explanation
 
-The imagery expands bodily language beyond any single body. Every capacity to act and perceive becomes a way of speaking about the presence of the reality just described. The verse asks the reader to look through the many sites of embodied activity toward what encompasses them. Its universal scope also prepares the later demand to see the same divine presence in all beings, including those whose bodies and circumstances differ.
+The reality being described has hands, feet, eyes, heads, mouths and ears everywhere and encompasses the whole world. No single body confines its presence. The many bodily organs through which beings act and perceive are included within this universal description of Brahman, continuing the declaration that Krishna is the knower in every field.
 
 ## 13.15
 
@@ -164,7 +164,7 @@ It appears through the functions of every sense, yet is free of all senses; unat
 
 ### Explanation
 
-The paired descriptions keep the ultimate reality from being reduced to a bodily instrument or a passing condition. Sensory functions disclose it, while no particular sense organ defines it. It supports the world without being held by the attachments found within that world. The closing pair anticipates the chapter’s account of nature and experience: the qualities are encountered, while the deepest knower is understood as exceeding their changing configurations.
+Brahman is manifest through every sense’s functions while itself possessing no senses. It sustains all beings without attachment and experiences the qualities while remaining free of them. These paired claims distinguish the supporting, conscious reality from the bodily organs and qualities through which it is encountered. Its presence in nature does not subject it to nature’s limitations.
 
 ## 13.16
 
@@ -174,7 +174,7 @@ It is outside and inside all beings, moving and unmoving. Because of its subtlet
 
 ### Explanation
 
-Ordinary spatial categories are stretched in several directions at once. Calling the reality both near and far relates its presence in immediate experience to the difficulty of recognising it. Its subtlety explains why proximity alone does not produce understanding. The description also joins moving and unmoving forms of life within one account, continuing the chapter’s movement away from treating the divine as confined to a special bodily location.
+The knowable reality is within and outside all beings and includes both moving and unmoving existence. It is too subtle to be grasped through ordinary perception. It is called far because it is difficult to know, and near because it is present within beings themselves. Its presence is not limited to a particular place.
 
 ## 13.17
 
@@ -184,7 +184,7 @@ Undivided, it stands in beings as though divided. It is to be known as the susta
 
 ### Explanation
 
-The appearance of division comes from the many beings through which the reality is encountered. The same verse brings their arising, continuance and dissolution into relation with it. This language addresses both the unity of the ground and the diversity of the world. Different Vedantic traditions explain that relationship in their own ways, while the verse asks the reader to connect the many living forms with an encompassing and sustaining source.
+Brahman remains undivided although it appears divided among distinct beings. It sustains them, absorbs them at dissolution and produces them when they arise again. The verse attributes the world’s maintenance, destruction and renewed creation to the same reality. The divisions belong to the beings in which that undivided reality is present.
 
 ## 13.18
 
@@ -194,7 +194,7 @@ It is the light even of lights and is said to be beyond darkness. It is knowledg
 
 ### Explanation
 
-Light now becomes an image of disclosure: even visible lights are known through awareness. The reality described is connected with the whole movement of knowing, from understanding to its object and fulfilment. Its location in the heart gives that universal account an inward focus. The heart is the centre of lived and spiritual understanding in this vocabulary, bringing the vast descriptions of the preceding verses into the reader’s own experience.
+The reality described is the light of all lights, beyond darkness. Krishna names it as knowledge, the object of knowledge and the goal reached through knowledge. It is established in everyone’s heart. The verse unites the source of illumination, the means of knowing and the ultimate object to be realised in the same reality.
 
 ## 13.19
 
@@ -204,7 +204,7 @@ Thus the field, knowledge and what is to be known have been briefly explained. M
 
 ### Explanation
 
-Krishna pauses to gather the argument into three themes. The field is what has been examined; knowledge includes the qualities that enable understanding; the knowable is the divine reality described through expansive and paradoxical images. Devotion joins these themes to a goal of transformation. The promise concerns becoming fit for Krishna’s state, so the inquiry’s success is expressed through a changed relationship with the divine rather than accumulated terminology alone.
+Krishna gathers the preceding teaching under field, knowledge and the knowable. The field comprises bodily and mental conditions; knowledge includes the disciplines leading to realisation; the knowable is the reality described as Brahman. His devotee who understands these becomes fit to attain his state. Devotion and knowledge are therefore joined in the stated result.
 
 ## 13.20
 
@@ -214,7 +214,7 @@ Know nature and spirit to be beginningless; know also that changes and the quali
 
 ### Explanation
 
-The chapter now returns directly to Arjuna’s opening pair, *prakriti* and *purusha*. Nature supplies transformations and qualities, while spirit names the conscious principle whose relation to them requires explanation. Calling both beginningless places their conjunction within the Gita’s account of recurring embodied existence. This does not settle every question about their ultimate dependence on Krishna; that relation remains part of the wider teaching of the book.
+Nature and spirit, *prakriti* and *purusha*, are both declared beginningless. Nature is the source of modifications and of the qualities that determine embodied experience. Spirit is the conscious experiencer distinguished from those modifications. Their conjunction accounts for embodied existence, and the next verses explain their respective roles in action, experience and rebirth.
 
 ## 13.21
 
@@ -224,7 +224,7 @@ Nature is said to be the cause in the production of effects and instruments; spi
 
 ### Explanation
 
-The verse distinguishes the organised conditions of experience from the fact of experiencing. Bodies, capacities and their operations belong to nature’s productive side. Pleasure and pain are experienced through their relation to the conscious principle. The distinction explains why a description of bodily mechanisms alone is not the chapter’s complete account of a person. It also prepares the next verse’s explanation of attachment and repeated embodiment.
+Nature produces the effects and instruments of embodied life, including the body and its faculties. Spirit is the experiencer of pleasure and pain. Krishna assigns these different roles to nature and spirit: one supplies the conditions and operations, while the other experiences what occurs through them. The next verse explains how this experience becomes bondage.
 
 ## 13.22
 
@@ -234,7 +234,7 @@ Spirit, situated in nature, experiences the qualities born of nature. Attachment
 
 ### Explanation
 
-The central problem is the bond formed with nature’s qualities. Experience becomes binding through attachment, and the text connects that bond with renewed birth in differing conditions. The language of favourable and unfavourable births belongs to this karmic account. The verse does not invite the reader to infer an individual’s moral worth from visible circumstances; its argument follows the mechanism of identification that liberation is meant to undo.
+Spirit experiences nature’s qualities through its presence in nature. Attachment to those qualities causes birth in good and evil wombs. The verse gives a direct account of rebirth: association and attachment bind the conscious self to successive embodiments, whose conditions differ according to that attachment. Knowledge of spirit and nature is subsequently said to end further birth.
 
 ## 13.23
 
@@ -244,7 +244,7 @@ The supreme spirit in this body is also called the witness, the one who permits,
 
 ### Explanation
 
-Several names approach the conscious divine presence through different relationships with embodied life. Witnessing stresses awareness; permission and support stress the dependence of activity; lordship points to sovereignty. The verse identifies this presence as the supreme Self. Read with 13.3, it prompts the question of how individual experience relates to the Lord present in all bodies, a relationship that Vedantic traditions explain through differing accounts of unity and distinction. [3]
+The puruṣa present in the body is called witness, permitter, sustainer, experiencer, great Lord and supreme Self. Shankara explains these titles through the supreme Self. Ramanuja applies them to the individual self, superior to and governing its body, senses and mind. Their readings differ over whom the titles identify. [3]
 
 ## 13.24
 
@@ -254,7 +254,7 @@ Whoever knows spirit and nature together with the qualities in this way is not b
 
 ### Explanation
 
-The promise follows the explanation of bondage through attachment to the qualities. Knowledge concerns their relationship to the conscious self, so it changes the basis on which experience is appropriated as “I” and “mine.” The phrase about one’s manner of living places emphasis on this understanding’s liberating force. Within the chapter it accompanies the ethical and devotional preparation already described, rather than removing that preparation from the argument.
+Knowing spirit, nature and the qualities ends rebirth, whatever the knower’s manner of living. This is the promised result of understanding the distinction just explained. Spirit’s attachment to nature’s qualities causes repeated embodiment; knowledge releases it from that bond. Krishna presents this knowledge as sufficient to prevent another birth.
 
 ## 13.25
 
@@ -264,7 +264,7 @@ Some see the self within themselves through meditation, by the self; others thro
 
 ### Explanation
 
-The verse recognises several forms of practice within the same inquiry. Meditation gathers attention inward; discriminating knowledge examines the distinction between the self and nature; disciplined action works through engagement and relinquishment. The term *sankhya* here belongs to the book’s vocabulary of insight and discrimination. Each path is connected with seeing the self, so their differences are presented alongside a shared direction of spiritual understanding.
+Krishna names three approaches to seeing the self: meditation, discriminating knowledge and the discipline of action. Meditation sees the self inwardly; *sankhya-yoga* proceeds through knowledge of the distinction between self and nature; *karma-yoga* proceeds through disciplined action. The verse recognises these as different means through which the self is realised.
 
 ## 13.26
 
@@ -274,7 +274,7 @@ Others, without knowing in these ways, worship after hearing from others. They t
 
 ### Explanation
 
-Listening is given a place alongside the more explicitly analytical or meditative approaches. These learners rely on received teaching and live by it through worship. Their dependence on hearing does not exclude them from the promise of crossing death. The verse therefore broadens the chapter’s account of access to liberation, while retaining the importance of receptive attention, trust and sustained practice rather than mere second-hand information.
+Those unable to know the self through the preceding approaches can worship after hearing the teaching from others. Devotion to what they have heard is also said to carry them beyond death. Hearing and worship therefore receive a place alongside meditation, discriminating knowledge and action as means of release from repeated mortal existence.
 
 ## 13.27
 
@@ -284,7 +284,7 @@ Whatever being comes into existence, moving or unmoving, know that it arises fro
 
 ### Explanation
 
-The earlier distinction is now applied across living existence. A being appears through the relationship between a field of conditions and the conscious principle associated with it. Moving and unmoving forms are explicitly included, reflecting the text’s wider classification of embodied life. The verse summarises how diversity emerges without abandoning the analytical distinction that makes release from attachment intelligible in the first place.
+Every being, moving or unmoving, arises through the conjunction of field and knower. The field supplies the bodily and mental conditions; the knower is the conscious principle associated with them. Krishna applies the distinction universally, including beings classed as stationary as well as those that move. Their embodiment depends on this conjunction.
 
 ## 13.28
 
@@ -294,7 +294,7 @@ Whoever sees the supreme Lord abiding equally in all beings, undying within the 
 
 ### Explanation
 
-The account of knowledge reaches an equal vision of the divine in vulnerable lives. Bodily differences remain visible, and bodies still perish, yet the Lord’s presence is understood as undiminished by that variety and change. This is a demand upon perception with ethical consequences: another being’s visible condition does not exhaust what is present there. The following verse draws a connection between this recognition, non-harm and the highest destination.
+True seeing recognises the supreme Lord equally present in all beings. Their bodies perish, but the Lord abiding in them does not perish. The equality described concerns that undying divine presence within beings whose bodily forms and lives differ. This knowledge leads into the next verse’s account of freedom from injury to the self.
 
 ## 13.29
 
@@ -304,7 +304,7 @@ Seeing the Lord equally established everywhere, one does not injure the self thr
 
 ### Explanation
 
-Equal vision changes the manner in which a person acts from within embodied life. The phrase about harming the self has been explained in relation to ignorance, spiritual self-injury and the failure to recognise the divine presence in beings. In the sequence here, recognising the Lord equally interrupts the divisions that sustain harmful conduct and mistaken identification. The verse ties the metaphysical account to a movement toward liberation.
+Seeing the Lord equally present everywhere, the knower no longer injures the self through the self and reaches the highest goal. The self-injury concerns the ignorance through which the self is identified with perishing bodies and bound to mortal existence. Equal vision of the imperishable Lord removes that error and leads to liberation.
 
 ## 13.30
 
@@ -314,7 +314,7 @@ Whoever sees all actions being performed by nature alone, and sees the self as t
 
 ### Explanation
 
-The distinction between nature’s operations and the self’s awareness is brought to its sharpest expression. Bodies, senses and mental processes perform activities within the field; the self is approached as the conscious knower rather than one more operation. This understanding belongs with the chapter’s account of humility, restraint and non-injury. Its purpose is to release possessive identification with action, while clarifying the conditions through which action occurs.
+All action is performed by nature; the self is not an agent. Krishna calls recognition of these two facts true seeing. Bodily activity, sensory functions and mental processes belong to nature. The conscious self that knows them does not perform them. This distinction between nature’s activity and the self’s non-agency explains how knowledge releases the self from bondage.
 
 ## 13.31
 
@@ -324,7 +324,7 @@ When one sees the separate existence of beings resting in the one, and their exp
 
 ### Explanation
 
-The movement is from seeing many beings as isolated centres toward understanding their common ground. Their diversity is described as an expansion from the one, so unity and manifestation are considered together. Attainment of Brahman names the fulfilment of this insight. The verse continues the earlier image of an undivided reality appearing as divided and connects that vision with the liberating knowledge sought throughout the chapter.
+The knower sees the separate beings as resting in one reality and expanding from it. Seeing this unity and its manifestation is said to be attainment of Brahman. The verse repeats the account of an undivided reality present among divided beings, now stating the liberating result of knowing their common ground.
 
 ## 13.32
 
@@ -334,7 +334,7 @@ Because it is beginningless and without the qualities, this imperishable supreme
 
 ### Explanation
 
-The explanation for non-agency lies in the self’s character: it is beginningless and beyond the qualities that produce nature’s changes. Presence within a body therefore does not make it identical with bodily processes or their effects. “Staining” is an image for the binding effect of action and identification. The next two verses use space and sunlight to make this relation of presence without contamination easier to approach.
+The supreme Self is imperishable because it has no beginning and possesses none of nature’s qualities. Although present in a body, it neither acts nor receives the stain of action. The body’s activity therefore does not change or contaminate the self. Krishna next explains this relation through the comparisons with space and the sun.
 
 ## 13.33
 
@@ -344,7 +344,7 @@ Just as space, present everywhere, is not stained because of its subtlety, so th
 
 ### Explanation
 
-Space can accommodate many things without acquiring each thing’s particular condition. The analogy gives a familiar spatial image for the subtle distinction under discussion. In the same way, awareness can be understood as present through bodily experience without becoming identical with every change that appears there. The comparison serves the chapter’s explanation of freedom from contamination; it does not require the reader to treat the self as a physical substance.
+Space pervades things without being stained by them; its subtlety allows it to remain unaffected. The self likewise pervades the body without receiving the stain of its activities. The comparison explains how presence throughout the body is compatible with the self’s freedom from the changes and consequences belonging to bodily existence.
 
 ## 13.34
 
@@ -354,7 +354,7 @@ Just as one sun illuminates this entire world, Bharata, so the knower of the fie
 
 ### Explanation
 
-Sunlight supplies a second image, now emphasising disclosure rather than freedom from staining. The many parts of the field are known through the knower’s illuminating presence. The analogy also helps distinguish an object that appears within experience from the condition through which objects become manifest. Its point is carried by the relation between illumination and what is illuminated, continuing the chapter’s inquiry into the nature of knowing.
+One sun illuminates the whole world; one knower illuminates the whole field. The body, senses and mental faculties are known through the conscious self’s presence. The self is thus distinguished from the field it makes manifest, just as the illuminating sun is distinguished from the world that receives its light.
 
 ## 13.35
 
@@ -364,7 +364,7 @@ Those who know, through the eye of knowledge, the distinction between field and 
 
 ### Explanation
 
-The chapter closes by returning to discernment and liberation. An “eye of knowledge” means a way of seeing informed by the distinctions and qualities developed in the argument. Knowing the field and knower also concerns release from the binding relation with nature. The conclusion therefore joins analysis, transformed vision and spiritual freedom, preparing the next chapter’s closer account of the three qualities that organise nature’s activity.
+Those who discern the field from its knower and understand liberation from nature reach the supreme. The “eye of knowledge” is the discernment taught throughout the chapter. Its object is both the difference between body and self and release from the conjunction with nature that produces attachment and repeated birth.
 
 ## Sources
 

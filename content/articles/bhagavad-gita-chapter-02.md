@@ -10,9 +10,9 @@ tags:
 textSourceHash: f65370cd8b082e81b653778d9ba4bc558ff45dacec2de9dfb8a941a2216ac4fe
 ---
 
-Chapter 2 begins where Arjuna has stopped: he cannot make the coming battle compatible with a worthwhile life. Krishna first challenges his paralysis, then teaches the distinction between the changing body and the enduring self, examines the warrior’s duty, and develops action guided by steady understanding. Arjuna’s final question asks how such understanding appears in a life. The answer introduces sense-restraint, inward fulfilment and equanimity, themes that the following chapters will deepen.
+Krishna rebukes Arjuna’s refusal to fight and teaches that the self is eternal while bodies perish. He then appeals to Arjuna’s duty as a kshatriya and tells him to fight without attachment to gain, loss, victory or defeat. The chapter explains action without desire for its fruits and concludes with the characteristics of a person whose wisdom is steady.
 
-Each **Meaning** gives an original English rendering of the displayed Sanskrit. Each **Explanation** follows the verse’s wording, its place in the dialogue and its philosophical or devotional context. These are original reader explanations; named traditional interpretations are identified where they are compared. [1–3]
+Each **Meaning** renders the Sanskrit in English. Each **Explanation** follows the verse’s statements, terms and argument. Named traditional interpretations are distinguished where they differ. [1–3]
 
 ## 2.1
 
@@ -22,7 +22,7 @@ Sanjaya said: To Arjuna, overcome by compassion and distress, his troubled eyes 
 
 ### Explanation
 
-The narration carries the emotional condition at the end of Chapter 1 directly into Krishna’s response. Arjuna’s compassion, tears and despondency belong to one scene, yet Krishna will ask whether his conclusions follow from clear understanding. The name Madhusudana identifies Krishna as the slayer of Madhu; the contrast between that active identity and Arjuna’s paralysis prepares the exchange that follows. The teaching begins with an encounter between people, before developing an account of the self.
+Sanjaya describes Arjuna as overcome by compassion, with tear-filled eyes and a sorrowing mind. Krishna, called Madhusudana, then speaks to him. The verse carries the condition described at the end of Chapter 1 into the exchange between Krishna and Arjuna.
 
 ## 2.2
 
@@ -32,7 +32,7 @@ The Blessed Lord said: Arjuna, how has this confusion come upon you at such a cr
 
 ### Explanation
 
-Krishna first challenges the state from which Arjuna is judging. The three descriptions appeal to worthy conduct, religious consequence and public reputation, all matters already important to the warrior. The word *ārya* here marks an ideal of noble behaviour within that argument. Krishna has not yet explained the self or the discipline of action. This opening rebuke creates pressure for Arjuna to examine a refusal that presently feels morally compelling to him.
+Krishna rebukes Arjuna for falling into this dejection at a critical moment. He calls it unworthy of the noble, an obstacle to heaven and a cause of dishonour. These three descriptions condemn the state in which Arjuna has refused to fight. Krishna’s first response is a challenge to that refusal.
 
 ## 2.3
 
@@ -42,7 +42,7 @@ Do not yield to this unmanliness, Partha; it does not befit you. Cast off this p
 
 ### Explanation
 
-The address recalls Arjuna’s capacity to act, using the forceful, gendered language of an ancient warrior setting. *Klaibya* carries associations of impotence and lack of manly courage. Krishna’s immediate aim is to move Arjuna out of collapse and into inquiry. The instruction to stand up also anticipates the dialogue’s ending, when Arjuna will be able to act after hearing the teaching and considering it, rather than simply obeying this first command.
+Krishna tells Arjuna not to yield to *klaibya*, unmanliness or impotence, and says it does not befit him. He commands him to abandon weakness of heart and stand up. The address “scorcher of enemies” recalls Arjuna’s prowess as a warrior while rebuking his present collapse.
 
 ## 2.4
 
@@ -52,7 +52,7 @@ Arjuna said: Madhusudana, how can I fight Bhishma and Drona with arrows in battl
 
 ### Explanation
 
-Arjuna answers the challenge by naming the people whom a general appeal to courage leaves out. Bhishma and Drona are objects of gratitude and reverence. Calling Krishna a destroyer of enemies sharpens the question: Arjuna cannot readily place these particular elders in the category of enemies. His difficulty concerns the moral identity of the action and its recipients, as well as his emotional ability to perform it.
+Arjuna asks how he can shoot arrows at Bhishma and Drona, whom he considers worthy of worship. He addresses Krishna as Madhusudana and destroyer of enemies. The question concerns fighting these two revered men, who stand in the opposing army as his elder and teacher.
 
 ## 2.5
 
@@ -62,7 +62,7 @@ It would be better to live here by begging than to kill these great teachers. If
 
 ### Explanation
 
-Arjuna compares an outwardly humiliating life with a victory whose enjoyments he would experience as contaminated. The reference to teachers seeking gain does not dissolve the obligation of reverence in his argument. Even acknowledging a fault or worldly motive on their side, he doubts that killing them can become an acceptable foundation for his own good life. The verse makes the means of obtaining a benefit part of what that benefit means.
+Arjuna says that begging would be preferable to killing his revered teachers. Even if they seek worldly gain, he would experience the pleasures obtained by killing them as stained with their blood. He therefore rejects the enjoyment of a kingdom won through their deaths.
 
 ## 2.6
 
@@ -72,7 +72,7 @@ We do not know which is better for us: that we conquer them, or that they conque
 
 ### Explanation
 
-The alternatives that normally organise a battle have lost their power to guide Arjuna. Victory itself could destroy the relationships through which he understands a worthwhile life. The phrase “we do not know” is important: his position is becoming an admission of uncertainty rather than a settled alternative plan. This prepares the request for instruction in the next verse, where he asks about what is genuinely good instead of choosing between familiar outcomes.
+Arjuna cannot decide whether victory or defeat would be better. Dhritarashtra’s sons stand before him, and he says that after killing them he would not wish to live. Both possible outcomes of the battle therefore trouble him, leaving him unable to determine what should be done.
 
 ## 2.7
 
@@ -82,7 +82,7 @@ My nature is overpowered by the fault of faintheartedness, and my understanding 
 
 ### Explanation
 
-Arjuna changes the terms of the conversation. He names the failure of his own judgement, asks for *śreyas*, the deeper or lasting good, and accepts the position of a learner. “Taking refuge” here begins a relationship of instruction that will develop throughout the Gita. He has not yet agreed with a doctrine or resolved to fight. He has become willing to have his assumptions examined, making a sustained philosophical dialogue possible.
+Arjuna says that weakness has overwhelmed his nature and that his mind is confused about dharma. He asks Krishna to tell him decisively what is best. By declaring himself Krishna’s disciple and taking refuge in him, Arjuna asks to be taught how to resolve his uncertainty.
 
 ## 2.8
 
@@ -92,7 +92,7 @@ I can see nothing that would remove the sorrow drying up my senses, even if I ga
 
 ### Explanation
 
-The scale of the imagined reward increases, but its inability to answer the problem remains. Arjuna is saying that the grief has reached beneath the political ambitions usually attached to victory. The drying up of his senses recalls his bodily distress in Chapter 1. By including even divine sovereignty, he rules out the idea that a sufficiently large external prize will, by itself, settle his question about how to live and act.
+Arjuna says that neither an unrivalled kingdom on earth nor sovereignty over the gods would remove the grief drying up his senses. The greatest earthly and heavenly rewards are included in his refusal. His distress persists even when he imagines possessing everything that victory might bring.
 
 ## 2.9
 
@@ -102,7 +102,7 @@ Sanjaya said: After speaking in this way to Hrishikesha, Gudakesha, the scorcher
 
 ### Explanation
 
-The narrator records both the refusal and the silence that follows it. Arjuna’s martial epithets remain, reminding us that his present inability to fight does not come from a lack of training or a lifetime of avoiding difficulty. His request for teaching and his refusal now coexist. The silence gives Krishna room to answer at length, while allowing readers to recognise that asking for guidance does not instantly remove attachment to an existing conclusion.
+Sanjaya records Arjuna’s words, “I will not fight,” and the silence that follows. Gudakesha and scorcher of enemies name Arjuna; Hrishikesha and Govinda name Krishna. Having asked for instruction, Arjuna remains seated before Krishna with his refusal stated explicitly.
 
 ## 2.10
 
@@ -112,7 +112,7 @@ To that grieving Arjuna, between the two armies, Hrishikesha spoke as if smiling
 
 ### Explanation
 
-The position between the armies remains unchanged while the mode of attention changes. The military confrontation waits as Krishna addresses the person caught within it. The Sanskrit says “as if smiling,” a restrained description that does not specify ridicule or every motive behind the expression. In the narrative it marks a difference between Arjuna’s overwhelmed perspective and the assurance from which Krishna is about to speak.
+Krishna speaks to the sorrowing Arjuna while they remain between the two armies. The phrase “as if smiling” describes Krishna’s expression as he begins his answer. Sanjaya’s brief narration ends here, and the sustained teaching starts with Krishna’s rebuke in the next verse.
 
 ## 2.11
 
@@ -122,7 +122,7 @@ The Blessed Lord said: You grieve for those who should not be grieved for, yet s
 
 ### Explanation
 
-Krishna now begins the sustained teaching. He challenges the relationship between Arjuna’s reasoning and his understanding of the people for whom he grieves. The following verses explain this challenge through a distinction between the perishable body and the enduring self. The statement therefore introduces a particular account of life and death. Its place in the argument matters: the claim will be supported through that account, rather than left as a demand to suppress an emotion.
+Krishna says that Arjuna grieves for those who should not be grieved for while speaking words that sound wise. He states that the learned grieve neither for the living nor for the dead. The explanation that follows distinguishes the eternal self from the body that undergoes death.
 
 ## 2.12
 
@@ -142,7 +142,7 @@ Just as the embodied self passes through childhood, youth and old age in this bo
 
 ### Explanation
 
-Krishna uses changes already experienced within a life to make a further claim about embodiment intelligible. Childhood, youth and age are different conditions, yet they are understood as belonging to an enduring subject. The verse extends that pattern to the attainment of another body. This is the Gita’s account of rebirth, presented within its teaching about the self. The steadiness being praised rests on understanding that distinction between the subject and its changing bodily conditions.
+The embodied self remains through the body’s childhood, youth and old age, and likewise passes into another body. Krishna places rebirth alongside the changes of bodily condition within one life. The discerning person is not bewildered by these changes because the embodied self continues through them.
 
 ## 2.14
 
@@ -152,7 +152,7 @@ Contacts with objects of sense, son of Kunti, bring cold and heat, pleasure and 
 
 ### Explanation
 
-Attention turns from the enduring subject to experiences that arise through contact. Cold and heat provide familiar examples before the broader pair of pleasure and pain. Their coming and going supplies the reason for endurance: a passing condition need not become the final measure of what should be done. In the battlefield discussion, Arjuna must learn to examine a judgement even while powerful sensations and emotions are present.
+Contact between the senses and their objects produces cold and heat, pleasure and pain. Krishna says these experiences come and go and therefore lack permanence. His instruction is to endure them. Their transience is contrasted with the enduring self described in the preceding verses.
 
 ## 2.15
 
@@ -162,7 +162,7 @@ The steady person whom these experiences do not unsettle, who remains even in pa
 
 ### Explanation
 
-The verse connects endurance with the larger aim of liberation. Equanimity means that pleasure and pain cease to determine the person’s whole understanding and direction. “Fit for immortality” describes a qualification for realising the imperishable self discussed in this passage. It is not a promise that an ordinary body will never die. The chapter is developing a discipline of perception and judgement through which the self’s distinction from changing experience can be understood.
+Krishna describes the steadfast person who is not disturbed by sensory contacts and remains equal in pleasure and pain. Such a person becomes fit for immortality. Endurance and equanimity are thus connected with liberation, the attainment toward which the teaching about the imperishable self is directed.
 
 ## 2.16
 
@@ -172,7 +172,7 @@ What is unreal has no enduring being; what is real never ceases to be. Those who
 
 ### Explanation
 
-The terms *sat* and *asat* introduce an ontological distinction: what truly endures and what cannot sustain independent, lasting existence. Read with the surrounding verses, the contrast concerns the changing bodily conditions and the imperishable self. Traditions differ over how far to extend this account of reality and appearance. The immediate argument asks Arjuna to stop treating every kind of change as evidence that the enduring subject has itself been destroyed.
+Krishna distinguishes *sat*, what is real or existent, from *asat*, what is unreal or non-existent. The former does not cease to be, and the latter has no enduring existence. He says that the seers of truth have understood the distinction. The surrounding verses apply it to the imperishable self and perishable bodies.
 
 ## 2.17
 
@@ -182,7 +182,7 @@ Know as indestructible that by which all this is pervaded. No one can bring abou
 
 ### Explanation
 
-The self is described through pervasion and imperishability, rather than as one more fragile object inside the visible scene. The statement supplies a reason for the earlier distinction between bodily death and the end of the person’s deepest reality. It also widens attention beyond the single body with which Arjuna identifies each combatant. The precise relation between the individual self and the all-pervading reality becomes a continuing question across the Gita’s later chapters.
+What pervades all this is declared indestructible. No one can bring about the destruction of that imperishable reality. The statement continues the distinction of 2.16 and supplies the basis for the contrast between the eternal embodied self and bodies that come to an end in 2.18.
 
 ## 2.18
 
@@ -192,7 +192,7 @@ These bodies of the eternal, indestructible and immeasurable embodied self are s
 
 ### Explanation
 
-The philosophical distinction now returns directly to the battlefield decision. Bodies have an end, while the embodied self is described as eternal and beyond ordinary measurement. Krishna takes that distinction as one reason Arjuna should fulfil his role in this particular conflict. The “therefore” is part of the dialogue’s argument, joining an account of the self to action. Subsequent sections will add considerations of duty, attachment, intention and disciplined judgement.
+Krishna says that bodies perish, while the embodied self is eternal, indestructible and beyond measurement. He then commands Arjuna to fight. The reasoning connects the self’s imperishability directly with the battlefield: the deaths of the bodies before Arjuna do not destroy the self.
 
 ## 2.19
 
@@ -202,7 +202,7 @@ The one who thinks this self kills, and the one who thinks it is killed, both fa
 
 ### Explanation
 
-The verse challenges the identification of the self with the bodily roles of killer and victim. At the level of the imperishable self, the change described as killing does not destroy what that self is. The contrast follows from the distinction between body and embodied subject, rather than from an account of weapons or military strength. The dialogue will continue to examine embodied action through duty, intention and attachment, so the metaphysical claim remains part of a larger argument.
+Both the person who thinks the self kills and the person who thinks it is killed are said not to understand it. Krishna states that the self neither kills nor is killed. Killing and being killed are here denied of the imperishable self, whose distinction from the body was stated in 2.18.
 
 ## 2.20
 
@@ -222,7 +222,7 @@ Partha, when someone knows the self as indestructible, eternal, unborn and imper
 
 ### Explanation
 
-The question draws out the consequences of the previous description. It concerns what knowledge of the self does to the understanding “I am the killer.” Bodily events and the deepest identity of their participants are being considered at different levels. Krishna uses the question to unsettle Arjuna’s account of what will be lost through death. The argument will still have to address how an embodied person chooses and carries out a particular action.
+Krishna asks how someone who knows the self to be imperishable, eternal, unborn and unchanging could kill anyone or cause anyone to be killed. The question follows from the self’s nature described in 2.19–20: it is neither the agent of killing nor the being destroyed when a body dies.
 
 ## 2.22
 
@@ -232,7 +232,7 @@ As a person discards worn-out clothes and puts on other, new ones, so the embodi
 
 ### Explanation
 
-Clothing makes continuity through a change of embodiment imaginable. The wearer persists while a covering changes; the simile applies that relation to the self and its bodies. Like the reference to childhood and age in 2.13, it helps explain the teaching’s account of rebirth through an ordinary experience. The comparison concerns continuity of the embodied subject. Other verses in the dialogue will address the attachments and actions connected with its particular lives.
+The self’s change of bodies is compared to a person discarding worn clothes and putting on new ones. The wearer continues while the garments change; likewise, the embodied self leaves an old body and takes another. The simile states the continuity of the self through death and rebirth.
 
 ## 2.23
 
@@ -242,7 +242,7 @@ Weapons do not cut this self; fire does not burn it. Water does not wet it, and 
 
 ### Explanation
 
-Krishna names familiar ways in which physical things are damaged or altered. Each is denied of the self. The sequence gives concrete expression to “indestructible,” rather than leaving it as an abstract label. On a battlefield, the mention of weapons has an immediate force, but the examples reach beyond battle to ordinary material processes. Their shared point is that the self cannot be treated as an object subject to the same transformations as a body.
+Weapons cannot cut the self, fire cannot burn it, water cannot wet it and wind cannot dry it. Krishna denies that these means of altering or destroying material things can affect the self. The statement specifies the indestructibility asserted in the preceding verses.
 
 ## 2.24
 
@@ -252,7 +252,7 @@ The self cannot be cut, burned, wetted or dried. It is eternal, all-pervading, s
 
 ### Explanation
 
-The previous verse’s examples become a set of enduring characteristics. Stability here belongs to the nature of the self; the teaching has already acknowledged bodily movement, growth and death. “All-pervading” also invites a wider understanding of consciousness than identification with a single visible form. The accumulation of descriptions aims to give Arjuna a settled point of reference while the bodies, relations and outcomes in front of him appear threatened by change.
+Krishna repeats the self’s immunity to cutting, burning, wetting and drying, then calls it eternal, all-pervading, stable, unmoving and everlasting. These descriptions distinguish the self from bodies that change and perish. Its permanence is the basis of his instruction that Arjuna should not grieve for it.
 
 ## 2.25
 
@@ -262,7 +262,7 @@ The self is said to be unmanifest, beyond ordinary thought and unchanging. Knowi
 
 ### Explanation
 
-Krishna marks a limit of the forms through which people usually recognise an object. The self is not presented as something that can be displayed like a body or exhaustively pictured as a changing thing. Understanding therefore requires a different kind of discrimination. The instruction concerning grief follows the reasoning about that self’s nature. The chapter is asking Arjuna to transform the interpretation of loss through knowledge, and will next consider a different starting assumption.
+The self is described as unmanifest, inconceivable and unchanging. It cannot be grasped as a visible, changing object. Krishna says that knowing the self in this way removes the reason to grieve for it. The conclusion continues the argument that bodily death leaves the self undestroyed.
 
 ## 2.26
 
@@ -272,7 +272,7 @@ Even if you think the self is continually born and continually dies, mighty-arme
 
 ### Explanation
 
-The argument temporarily grants an alternative to the imperishable self just described. Krishna asks what follows even if Arjuna begins from recurring birth and death. This is a shift in argumentative strategy: the next verses will appeal to the inevitability of change. The conditional wording matters because the verse is not withdrawing the preceding teaching. It is examining whether a different assumption would actually support Arjuna’s present conclusion about what he must do.
+Krishna considers the alternative supposition that the self is continually born and continually dies. Even on that assumption, he tells Arjuna that he should not grieve. The following verses give the reason: birth and death would still be unavoidable consequences of one another.
 
 ## 2.27
 
@@ -282,7 +282,7 @@ For one who is born, death is certain; for one who has died, birth is certain. T
 
 ### Explanation
 
-The relation between birth and death now supplies the reason for steadiness. Within the teaching’s account of repeated embodiment, neither is an isolated event that can be permanently prevented for a particular body. Arjuna is asked to recognise what lies beyond his control before deciding what remains his responsibility. This prepares an important feature of the later discipline of action: acting carefully without treating the control of every outcome as a condition for acting at all.
+For one who has been born, death is certain; for one who has died, birth is certain. Krishna uses this inevitability as the reason Arjuna should not grieve. The verse continues the preceding argument about recurring birth and death and what cannot be prevented within that cycle.
 
 ## 2.28
 
@@ -292,7 +292,7 @@ Beings are unmanifest at their beginning, manifest in their middle, and unmanife
 
 ### Explanation
 
-The verse looks at the span of embodied appearance. What can be seen in the present is only a middle interval, bounded by beginnings and endings that are not similarly available to perception. That perspective places the battlefield within a wider movement of manifestation. Krishna’s question challenges the assumption that visible bodily form provides the complete measure of a being. It continues the preceding argument about change rather than introducing a new description of a particular afterlife.
+Beings are unmanifest before their appearance, manifest during the intervening span, and unmanifest again when that span ends. Krishna asks what cause for lamentation there is in this sequence. Visible bodily existence is presented as the middle stage between two unmanifest conditions.
 
 ## 2.29
 
@@ -302,7 +302,7 @@ One person sees the self as a wonder; another speaks of it as a wonder; another 
 
 ### Explanation
 
-The language of wonder acknowledges the distance between familiar ideas about identity and the self being described. Seeing, speaking and hearing are separate activities, and none is reduced to mere possession of the right words. The final clause distinguishes receiving a teaching from understanding it. This helps explain why the Gita continues at length: Arjuna’s transformation will require reflection and disciplined practice alongside hearing an account that he can repeat.
+The self is seen, described and heard of as a wonder. Yet hearing about it does not necessarily bring understanding. Krishna distinguishes the extraordinary character of the self from the different ways people encounter its teaching. The following verse concludes the argument by again declaring the embodied self indestructible.
 
 ## 2.30
 
@@ -312,7 +312,7 @@ The embodied self in everyone’s body is always beyond being killed, descendant
 
 ### Explanation
 
-This verse closes the first sustained account of the self by making its scope explicit: the imperishable subject is present in every embodied being. The teaching applies across the military division between Arjuna’s allies and opponents. Krishna then draws the conclusion concerning grief before changing the focus of his argument. From 2.31 onward, he considers Arjuna’s own position as a warrior and the responsibilities attached to that role.
+Krishna says that the embodied self in every body can never be killed. The statement includes the selves of all the warriors before Arjuna. He therefore tells Arjuna not to grieve for any being. This concludes the account of the self before the discussion turns to his duty as a kshatriya.
 
 ## 2.31
 
@@ -322,7 +322,7 @@ Considering your own dharma as well, you should not waver. For a kshatriya, ther
 
 ### Explanation
 
-The argument now includes *svadharma*, the responsibility proper to Arjuna’s particular situation and social role. “Righteous” qualifies the battle that Krishna is urging him to undertake. The verse belongs to the epic’s account of kingship and warrior obligation, which will be revisited in Chapters 3 and 18. It adds a role-based reason to the earlier account of the self, bringing metaphysical reflection back into the circumstances in which Arjuna must choose.
+Krishna now appeals to Arjuna’s *svadharma*, his own duty as a kshatriya. He says that nothing is higher for a kshatriya than a righteous battle and tells him not to waver. The argument adds warrior duty to the preceding teaching that bodily death does not destroy the self.
 
 ## 2.32
 
@@ -332,7 +332,7 @@ Happy are the kshatriyas who encounter a battle of this kind that comes to them 
 
 ### Explanation
 
-Krishna appeals to the religious horizon of the warrior’s duty. The battle is described as something encountered, and its value depends on the “battle of this kind” identified as righteous in the previous verse. Heaven is presented here as one possible consequence of fulfilling that duty. The chapter will later distinguish rewards within the cycle of rebirth from the deeper freedom sought through knowledge and unattached action.
+The righteous battle is compared to an open gate of heaven. Krishna calls those kshatriyas fortunate who encounter such a battle without seeking it. Heaven is named directly as the reward associated with this opportunity to fulfil the warrior’s duty described in 2.31.
 
 ## 2.33
 
@@ -342,7 +342,7 @@ But if you do not undertake this righteous battle, you will abandon your own dha
 
 ### Explanation
 
-Arjuna has treated withdrawal as a possible escape from the wrong involved in killing. Krishna asks him to consider the consequences of failing to act as well. In this argument, responsibility can arise through abandoning a duty, so abstention cannot be assessed solely by the immediate absence of a violent deed. The verse brings the dispute over *pāpa*, wrongdoing, into the open: Arjuna and Krishna are evaluating the same refusal through different understandings of obligation.
+Krishna says that refusing this righteous battle would mean abandoning Arjuna’s own duty and honour and would bring sin upon him. Arjuna had argued that fighting his relatives would be sinful. Krishna now states the opposing conclusion: in these circumstances, failure to fight would itself incur sin.
 
 ## 2.34
 
@@ -352,7 +352,7 @@ People will speak of your lasting dishonour. For someone who has been held in es
 
 ### Explanation
 
-The reasoning moves into the public world of reputation. Arjuna is someone whose life has been organised around recognised martial ability and responsibility; withdrawal will be interpreted within that world. Krishna is appealing to values that Arjuna already understands before developing a more radical account of action. This passage consequently preserves a tension in the chapter: the appeal to reputation will be followed by teaching about freedom from dependence on praise, reward and success.
+Krishna warns that people will speak of Arjuna’s dishonour for a long time. For a man who has been honoured, he says, disgrace is worse than death. The argument presses the consequences of abandoning battle through the loss of Arjuna’s reputation.
 
 ## 2.35
 
@@ -362,7 +362,7 @@ The great chariot-warriors will think you withdrew from battle through fear. Tho
 
 ### Explanation
 
-Krishna separates Arjuna’s inner reason for withdrawing from the meaning others may give to the act. His opponents and peers will not necessarily read it as compassion or principled renunciation. The contrast makes the social setting of an action visible: intentions are important, yet an action also enters a world of interpretation and consequence. Within the present appeal to warrior honour, Arjuna must consider that wider setting.
+The great chariot-warriors will interpret Arjuna’s withdrawal as fear. Those who once esteemed him will cease to do so. Krishna contrasts Arjuna’s reasons for refusing battle with the judgement the other warriors will make of that refusal.
 
 ## 2.36
 
@@ -372,7 +372,7 @@ Your enemies will speak many words that should not be spoken, belittling your ab
 
 ### Explanation
 
-The appeal to public honour reaches its most pointed form. Krishna asks Arjuna to imagine his retreat being made into a story of incompetence by hostile people. This belongs to the rhetorical movement of 2.31–37, which reasons from the warrior’s established commitments. The question’s reference to pain also anticipates the next shift: Krishna will soon tell Arjuna to hold pleasure and pain evenly, extending the inquiry beyond the desire to avoid humiliation.
+Krishna says that Arjuna’s enemies will insult him and belittle his fighting ability. He asks what could cause greater pain than hearing those words. This continues the appeal to honour and disgrace begun in 2.33–35.
 
 ## 2.37
 
@@ -382,7 +382,7 @@ If killed, you will attain heaven; if victorious, you will enjoy the earth. Ther
 
 ### Explanation
 
-The alternatives are now evaluated through the warrior’s duty rather than through Arjuna’s fear of losing. Within this part of the argument, both possible outcomes of the righteous battle can have value. The call for resolution responds to his inability to choose between victory and defeat in 2.6. Krishna will next deepen that resolution by asking him to act evenly in both outcomes, rather than resting his whole purpose on either reward.
+Krishna gives the two possible outcomes of fighting: if Arjuna is killed, he will attain heaven; if he wins, he will enjoy earthly kingship. He then tells him to stand up, resolved to fight. Both outcomes are presented as reasons to undertake the battle.
 
 ## 2.38
 
@@ -392,7 +392,7 @@ Hold pleasure and pain, gain and loss, victory and defeat alike; then commit you
 
 ### Explanation
 
-This verse joins the discussion of warrior responsibility to the discipline that follows. The pairs name the outcomes through which personal attachment usually governs a decision. Krishna asks Arjuna to carry out the action without making those changing outcomes the centre of his identity and motivation. The claim about wrongdoing belongs to action understood through that steadiness and the preceding qualification of righteous duty. The next section will explain the required orientation in greater detail.
+Krishna tells Arjuna to treat pleasure and pain, gain and loss, and victory and defeat alike, and then engage in battle. He says that fighting with this evenness will not bring sin upon him. Equanimity in action becomes the connection between the preceding command to fight and the account of yoga that follows.
 
 ## 2.39
 
@@ -402,7 +402,7 @@ This understanding has been explained to you in relation to Sankhya. Now hear it
 
 ### Explanation
 
-The verse announces a transition from discrimination about the self to the discipline through which a person acts. *Sāṃkhya* here names the understanding developed in the preceding argument; the dialogue does not require every statement to be identified with a later, fully systematised school. The common thread is *buddhi*, the faculty of understanding and judgement. Krishna now explains how an orientation of that faculty can transform the binding character of action.
+Krishna distinguishes the understanding of the self already explained as Sankhya from the discipline of yoga he will now teach. Joined to this understanding, Arjuna will cast off the bondage of action. The next section explains action performed with steady understanding and without attachment to its fruits.
 
 ## 2.40
 
@@ -412,7 +412,7 @@ In this discipline, no beginning is lost and no contrary setback arises. Even a 
 
 ### Explanation
 
-Krishna encourages a beginning by describing practice as meaningful even before it is complete. The fear is read in the Gita’s larger setting of bondage, repeated birth and loss of spiritual direction. The assurance concerns effort directed toward this discipline, rather than control of every external event. After Arjuna’s sense that all possible choices lead to ruin, the verse introduces a path on which a sincere beginning can itself have lasting significance.
+Krishna says that a beginning made in this discipline is not lost and does not produce a contrary result. Even a small measure of it protects against great fear. The assurance introduces buddhi-yoga, whose practice and freedom from the bondage of action are described in the following verses.
 
 ## 2.41
 
@@ -422,7 +422,7 @@ Here, descendant of Kuru, resolute understanding is single in its direction. The
 
 ### Explanation
 
-The image contrasts a coherent aim with desires that continually generate new aims. A person governed by each promised result is pulled toward a different action whenever another reward appears. Resolute understanding gathers those scattered impulses around the pursuit of freedom. Its singleness is therefore a quality of orientation. It can guide many different duties and decisions without requiring that every situation be reduced to the same outward act.
+Resolute understanding has one settled aim, while the thoughts of the irresolute branch endlessly. Krishna contrasts steadiness in the discipline he is teaching with the many pursuits generated by changing desires. The following verses identify promises of ritual reward as a cause of such divided attention.
 
 ## 2.42
 
@@ -432,7 +432,7 @@ Those without discernment, Partha, speak flowery words. They delight in Vedic pr
 
 ### Explanation
 
-This begins a sentence extending through 2.44. The criticism is directed at an exclusive attachment to promises associated with ritual results. “Flowery” suggests attractive speech that draws the listener toward its offerings. The context matters for understanding the reference to the Vedas: the passage is examining a particular use of religious authority to multiply desires. Later, 15.15 will speak affirmatively of the Vedas’ relation to the highest knowledge.
+Krishna criticises those who delight in Vedic pronouncements, speak flowery words and insist that there is nothing beyond them. Their words are attractive to those seeking rewards. The sentence continues through 2.43–44, identifying their desires, promised results and the obstruction they cause to resolute understanding.
 
 ## 2.43
 
@@ -442,7 +442,7 @@ Filled with desire and intent on heaven, they speak of many special rites that y
 
 ### Explanation
 
-The objects promised by the flowery speech are now named. Heaven, enjoyment and power can all remain within the pattern in which desire produces action and action produces further embodiment. The large variety of rites corresponds to the many-branched understanding described in 2.41. Krishna is asking whether multiplying desirable results can answer the deeper problem of bondage. The distinction between temporary attainment and liberation will recur throughout the Gita.
+The speakers described in 2.42 are filled with desire and regard heaven as their goal. They prescribe many special rites for enjoyment and power, but the fruits of those actions lead to further birth. Krishna connects their ritual promises with desire, action and renewed embodiment.
 
 ## 2.44
 
@@ -452,7 +452,7 @@ For those attached to enjoyment and power, whose minds are carried away by such 
 
 ### Explanation
 
-The sentence reaches its practical conclusion. Attention organised around acquiring pleasures and status cannot easily settle into the steadiness being taught. *Samādhi* here concerns gathered, stable understanding, developed through disciplined attention. The verse explains why the attractive religious promises of the previous lines can obstruct that aim: they keep giving the mind more things whose attainment must supposedly precede contentment. The obstacle lies in the relation of understanding to desire.
+Attachment to enjoyment and power prevents resolute understanding from becoming established in concentration. The minds of these people have been carried away by the flowery promises just described. The verse completes the sentence of 2.42–44 by stating how desire for ritual rewards obstructs the discipline Krishna is teaching.
 
 ## 2.45
 
@@ -462,7 +462,7 @@ The Vedas concern the three gunas; rise beyond the three gunas, Arjuna. Be free 
 
 ### Explanation
 
-The *gunas* are the qualities through which nature operates, examined in detail in Chapter 14. Here Krishna connects their sphere with the changing aims and experiences just discussed. Freedom from preoccupation with getting and keeping gives concrete expression to the instruction. Steadfast clarity supports that movement beyond dependence on changing conditions. The verse gathers several disciplines together, preparing the next teaching about action undertaken without possession of its fruits.
+Krishna says that the Vedas concern the three gunas and tells Arjuna to go beyond them. He adds the commands to be free from the pairs of opposites, remain steadfast in clarity, abandon concern for acquiring and preserving possessions, and be established in the self. These instructions turn from the pursuit of rewards to freedom from attachment.
 
 ## 2.46
 
@@ -472,7 +472,7 @@ For the brahmin who understands, all the Vedas have the usefulness of a well whe
 
 ### Explanation
 
-The water image compares a limited source with a more encompassing availability. A well serves particular needs; when water is plentiful all around, those needs are met within something larger. In the argument about knowledge, the simile concerns the fulfilment of what limited pursuits seek. “The one who understands” is essential to the comparison: the change in the value of particular means follows the attainment of understanding, rather than a merely verbal rejection of learning.
+A well supplies particular needs, but when water is abundant on every side its use is fulfilled within that abundance. Krishna compares this with the usefulness of all the Vedas for the brahmin who has understanding. The comparison places comprehensive knowledge above dependence on the separate benefits described in the preceding ritual promises.
 
 ## 2.47
 
@@ -482,7 +482,7 @@ Your sphere is action alone, never its fruits. Do not make the fruit of action y
 
 ### Explanation
 
-All four parts belong together. Arjuna has a responsibility to act, while the result cannot be possessed as something entirely his to command. He is asked to loosen motivation founded on that possession, and also to avoid converting detachment into refusal to act. This makes room for care, judgement and committed effort without claiming ownership over every consequence. The following verse describes the steadiness through which that orientation is practised.
+Krishna assigns Arjuna action as his sphere, while denying him a claim to its fruits. The result is not to be his motive, and he is also forbidden attachment to inaction. All four instructions belong together: perform the action, relinquish the fruit, and do not make relinquishment a reason to stop acting.
 
 ## 2.48
 
@@ -492,7 +492,7 @@ Established in yoga, perform your actions while relinquishing attachment, Dhanan
 
 ### Explanation
 
-Krishna now supplies a definition through practice. The yogic orientation is maintained while actions are performed and while their outcomes differ. Evenness concerns the relation of the person to success and failure; it does not erase the need to recognise what has happened or respond appropriately. In Arjuna’s case, the discipline would transform how he approaches an unavoidable decision whose result he cannot guarantee in advance.
+Arjuna is told to act while established in yoga and to relinquish attachment. The same evenness is to be maintained whether the action succeeds or fails. Krishna explicitly calls this equality yoga. It continues the instruction of 2.47 by identifying the disposition in which action is to be performed.
 
 ## 2.49
 
@@ -502,7 +502,7 @@ Action pursued for its fruits is far lower than the yoga of understanding, Dhana
 
 ### Explanation
 
-The comparison develops the preceding distinction between attachment to results and steadiness in action. Taken in this sequence, the criticism concerns action directed by grasping for its fruits. *Buddhi-yoga* gives understanding a governing role, allowing the action to be chosen and performed within a wider aim. The description of result-seekers as pitiable points to the narrowness of making changing rewards the entire measure of one’s effort and fulfilment.
+Krishna calls action pursued for its fruits inferior to buddhi-yoga and tells Arjuna to seek refuge in understanding. Those who make results their motive are described as pitiable. The comparison continues the contrast between fruit-seeking action and the even understanding defined in 2.48.
 
 ## 2.50
 
@@ -522,7 +522,7 @@ The wise who are joined to understanding relinquish the fruit born of action. Fr
 
 ### Explanation
 
-The aim of the discipline is now stated in terms of release. The action can produce a result, but the wise cease to build a binding claim of ownership around it. The “condition beyond affliction” belongs to the Gita’s horizon of liberation from repeated embodiment and its suffering. Read with the previous verses, this is a movement from the quality of judgement through the quality of action toward a different relation to existence itself.
+The wise relinquish the fruits born of action and are released from the bondage of birth. They attain the state beyond affliction. Krishna therefore gives liberation from repeated embodiment as the outcome of the discipline, continuing the claim in 2.50 that understanding frees one from both good and bad karmic consequences.
 
 ## 2.52
 
@@ -562,7 +562,7 @@ The Blessed Lord said: When a person gives up all desires that arise in the mind
 
 ### Explanation
 
-Krishna answers the question about conduct by beginning with the source of fulfilment. A person whose satisfaction depends wholly on obtaining particular objects is continually moved by their availability and loss. Here, contentment is rooted in the self, changing the authority that mental cravings exercise. The verse introduces the inner basis of the portrait. The following descriptions show how that basis appears amid pain, pleasure, contact with objects and ordinary movement in the world.
+Krishna begins his description of steady wisdom with the abandonment of all desires arising in the mind. Such a person is satisfied in the self through the self. Contentment is thus located in the self itself, and this freedom from desire supplies the first answer to Arjuna’s question in 2.54.
 
 ## 2.56
 
@@ -572,7 +572,7 @@ One whose mind is not shaken by suffering, who does not crave pleasure, and who 
 
 ### Explanation
 
-The portrait concerns both difficulty and enjoyment. Pain can provoke agitation; pleasure can produce a demand for repetition and the fear of losing it. Attachment, fear and anger are therefore related features of a life organised around possession and resistance. Steady understanding changes that organisation. This returns the teaching to the conditions visible in Arjuna’s crisis, while describing the maturity toward which disciplined understanding is directed.
+A sage of steady wisdom is not disturbed by suffering and does not crave pleasures. Attachment, fear and anger have departed. Krishna describes steadiness through the absence of these responses, extending the abandonment of desire stated in 2.55 to painful and pleasurable experiences alike.
 
 ## 2.57
 
@@ -582,7 +582,7 @@ One who clings nowhere, and who neither exults nor hates on meeting favourable a
 
 ### Explanation
 
-The description applies steadiness to encounters that continue to occur. Favourable and unfavourable conditions still differ, but they cease to pull the person into elation and hostility as controlling responses. “Clings nowhere” concerns the possessive attachment through which an encounter becomes a demand that things must remain a certain way. The verse broadens the preceding portrait from exceptional moments of suffering to the changing conditions of daily experience.
+The person of established wisdom is attached to nothing and neither welcomes what is favourable nor hates what is unfavourable. Encounters with good and bad fortune continue, but they no longer produce rejoicing and aversion. This applies the evenness of 2.56 to what a person meets.
 
 ## 2.58
 
@@ -612,7 +612,7 @@ Even for a discerning person who strives, son of Kunti, the turbulent senses can
 
 ### Explanation
 
-Knowledge of the teaching and sincere effort do not make distraction impossible. The senses are described as turbulent because their movement can disturb an understanding that has not become firmly established. This gives the portrait of steadiness a practical dimension: it requires cultivation and continued vigilance. Arjuna is not being asked merely to adopt an impressive description of himself. He is being directed toward a discipline that must hold amid actual encounters.
+Krishna warns that the turbulent senses can forcibly carry away even the mind of a discerning person who is making an effort. Understanding and effort do not by themselves place the senses under control. The warning leads directly to the command to restrain them and remain devoted to Krishna in 2.61.
 
 ## 2.61
 
@@ -642,7 +642,7 @@ From anger comes bewilderment; from bewilderment, the confusion of memory; from 
 
 ### Explanation
 
-The sequence now reaches the faculty by which conduct is guided. Memory includes the retained orientation of what one has learned and recognised as worthwhile. Anger can disorganise that orientation until judgement no longer governs the response. The final “is lost” describes the collapse of direction that follows. Read with 2.62, the verse explains how a seemingly small beginning in habitual attention can grow into a condition that overwhelms considered choice.
+Anger produces delusion; delusion disrupts memory; the loss of memory destroys understanding; and when understanding is destroyed, the person perishes. This completes the sequence begun in 2.62 with dwelling on sense objects. Krishna traces how attachment and desire lead, through anger, to the destruction of the faculty that guides conduct.
 
 ## 2.64
 
@@ -662,7 +662,7 @@ In that tranquillity, the ending of all this person’s suffering comes about, f
 
 ### Explanation
 
-Clarity and steadiness support one another. A mind continually pulled into attraction and aversion makes settled judgement difficult; tranquillity allows understanding to become established. The claim about suffering belongs to this account of release from the agitation sustained by attachment. The passage is describing the inner condition through which the earlier knowledge can take hold, connecting the portrait of a wise person with the discipline by which that wisdom becomes stable.
+Krishna says that serenity brings the destruction of all suffering. In a serene mind, understanding soon becomes firmly established. The verse states the result of the disciplined movement among sense objects described in 2.64: freedom from attraction and aversion leads to serenity and steadiness of understanding.
 
 ## 2.66
 
@@ -672,7 +672,7 @@ For one who is uncollected there is no settled understanding, and no sustained c
 
 ### Explanation
 
-The verse links several parts of the discipline in a chain of dependence. Collectedness supports understanding; sustained contemplation allows that understanding to mature; peace gives a different basis to happiness. The question at the end asks Arjuna to consider the quality of the happiness he seeks. This returns to the opening problem of a kingdom that could not remove his grief, while locating a more lasting source of fulfilment in the training of attention and understanding.
+Without collectedness there is neither understanding nor sustained contemplation; without contemplation there is no peace. Krishna then asks how there could be happiness for someone without peace. The verse gives a sequence of dependence linking disciplined concentration, understanding, contemplation, peace and happiness.
 
 ## 2.67
 
@@ -702,7 +702,7 @@ What is night for all beings is a time of wakefulness for the self-restrained pe
 
 ### Explanation
 
-Night and wakefulness describe a difference in awareness and value. What usually absorbs people’s attention can seem empty or obscure to someone oriented toward the self; what that person recognises may remain unnoticed by ordinary preoccupation. The image gathers the chapter’s account of transformed understanding into a contrast of perspectives. It concerns what is seen and valued, rather than a timetable of physical sleeping and waking.
+What is night for all beings is the time of wakefulness for the self-controlled sage. What occupies the wakefulness of other beings is night for the sage who sees. The reversed images distinguish the sage’s knowledge of the self from ordinary preoccupation with sense objects.
 
 ## 2.70
 
@@ -712,7 +712,7 @@ As waters enter the ocean, which is being filled yet remains firmly established,
 
 ### Explanation
 
-The ocean receives incoming waters without abandoning its abiding character. The simile describes a steadiness that persists while objects and experiences continue to appear. Craving makes each incoming possibility into a promise that must be fulfilled before peace can begin. The ocean image instead places peace in an established orientation. It complements the earlier image of a boat being driven off course, contrasting the loss of direction with a capacity to receive experience without being governed by it.
+The ocean remains full and unmoved while rivers enter it. Krishna compares it to the person into whom desires enter without disturbing peace. The person who desires their fulfilment does not attain that peace. The contrast continues the portrait of one whose wisdom remains steady amid the presence of sense objects.
 
 ## 2.71
 
@@ -722,7 +722,7 @@ The person who gives up all desires, moves without craving, and is free from pos
 
 ### Explanation
 
-The verbs return the portrait to living and moving. Freedom from “mine” and from the ego’s claim changes how action and experience are appropriated. This brings together the teaching about fruits of action and the description of inward contentment. A person can continue to act while the need to secure an identity through possession loses its governing role. The verse prepares the chapter’s final identification of this steadiness with the condition grounded in Brahman.
+Krishna describes one who abandons all desires and moves without longing, possessiveness or egoism. “Without mine” denies the claim of ownership; “without I” denies egoistic self-identification. Such a person attains peace. These traits complete the portrait that began in 2.55 with satisfaction in the self.
 
 ## 2.72
 
@@ -732,7 +732,7 @@ This is the state grounded in Brahman, Partha. On attaining it, one is no longer
 
 ### Explanation
 
-The chapter ends by naming the horizon toward which the portrait has been directed. *Brāhmī sthiti* is an established condition grounded in ultimate reality; *brahma-nirvāṇa* names liberation in relation to Brahman. The reference to death returns to the opening dispute about loss while connecting understanding, practice and final freedom. Later chapters will develop action, meditation and devotion within this horizon, rather than leaving the teaching as an isolated account of emotional steadiness.
+Krishna calls this the state grounded in Brahman. Having attained it, a person is no longer deluded; remaining established in it even at death, one reaches liberation in Brahman. The chapter closes by identifying the final attainment of the steady understanding and desirelessness described in the preceding verses.
 
 ## Sources
 

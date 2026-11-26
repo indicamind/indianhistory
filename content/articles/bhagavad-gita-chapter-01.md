@@ -12,9 +12,9 @@ tags:
 textSourceHash: d67655a74c1c16b86801ea639133fa5a21496da94c1561b3a96297433eb5795b
 ---
 
-The Gita begins with a question, not an answer. Two related families face one another in battle. Dhritarashtra asks what happened; Sanjaya describes the scene; Arjuna discovers that knowing how to fight does not settle whether he should fight. Chapter 1 lets that difficulty unfold before Krishna gives his sustained teaching.
+Dhritarashtra asks Sanjaya what happened when the armies assembled at Kurukshetra. Sanjaya describes their leaders, formations and conches. Arjuna asks Krishna to position his chariot between the armies, sees his relatives and teachers, and refuses to fight them. His speech names the sin of killing family members and the consequences for family duties, varna lineages and ancestors. The chapter ends with Arjuna laying down his bow in grief.
 
-Each **Meaning** is an original, plain-language rendering of the displayed Sanskrit. Each **Explanation** considers the verse’s wording, its place in the chapter and the questions it raises. The Sanskrit is the starting point; interpretations are distinguished where they differ. These explanations do not claim to replace a particular traditional commentary. [1–3]
+Each **Meaning** renders the Sanskrit in English. Each **Explanation** follows the verse’s statements, terms and argument. Named traditional interpretations are distinguished where they differ. [1–3]
 
 ## 1.1
 
@@ -24,9 +24,7 @@ Dhritarashtra said: Sanjaya, when my sons and the sons of Pandu gathered at Kuru
 
 ### Explanation
 
-The first voice belongs to the king who wants news of the battlefield. His words divide the family into “my sons” and “the sons of Pandu.” That distinction introduces attachment before the text discusses it philosophically. Both groups belong to the same extended family, yet the king speaks of them as opposing interests.
-
-Kurukshetra is also called a field of *dharma*: a place associated with sacred order and duty. The setting therefore carries a question larger than military victory. What happens when people arrive eager for battle in a place whose very name recalls right conduct?
+Dhritarashtra asks Sanjaya what happened when the two armies assembled to fight. He distinguishes “my sons” from “the sons of Pandu,” although both belong to the Kuru family. Kurukshetra is called *dharma-kṣetra*, the field of dharma. The king’s question opens Sanjaya’s account of the confrontation.
 
 ## 1.2
 
@@ -36,9 +34,7 @@ Sanjaya said: Seeing the Pandava army drawn up for battle, King Duryodhana appro
 
 ### Explanation
 
-Sanjaya answers by turning attention to Duryodhana, who studies the opposing formation and goes to Drona. The sequence matters: observation leads to speech and an attempt to organise a response. Before Arjuna’s later crisis, the chapter gives us another way of seeing a battlefield: measuring strength, identifying commanders and preparing for victory.
-
-Duryodhana’s approach can suggest concern as well as calculation. The verse itself does not tell us every motive in his mind. It shows a ruler seeking his teacher’s attention while facing an army that is visibly prepared.
+Sanjaya begins with Duryodhana’s response to the Pandava formation. After seeing the army drawn up, Duryodhana approaches his teacher Drona and speaks to him. The following verses contain his assessment of the opposing warriors and his own commanders.
 
 ## 1.3
 
@@ -48,9 +44,7 @@ Teacher, look at this great army of the sons of Pandu, arranged by the son of Dr
 
 ### Explanation
 
-Duryodhana points out not only the enemy’s size but the skill behind its arrangement. By calling its commander Drona’s own pupil, he makes the assessment personal. Knowledge that Drona helped transmit now stands across the battlefield from him.
-
-The verse introduces one of the chapter’s recurring difficulties: relationships do not fall neatly into the two military camps. A teacher may have trained people on both sides. What looks like an enemy formation also contains the consequences of earlier obligations, loyalties and shared education.
+Duryodhana tells Drona to look at the large Pandava army and points out that Drona’s pupil, Drupada’s son Dhrishtadyumna, has arranged it. His words emphasise that a warrior trained by the teacher now commands the opposing force. “Your intelligent pupil” identifies both Dhrishtadyumna’s training and his ability.
 
 ## 1.4
 
@@ -60,9 +54,7 @@ Here are heroes, great bowmen equal in battle to Bhima and Arjuna: Yuyudhana, Vi
 
 ### Explanation
 
-Duryodhana begins naming the opposing fighters rather than treating the army as an anonymous mass. Bhima and Arjuna serve as measures of martial ability. The description recognises that the other side contains serious, accomplished opponents.
-
-The names also slow the reader’s movement toward battle. Each stands for a person with a place in the larger epic. Later, Arjuna’s recognition of particular people will change the meaning of the same scene: military strength will become a gathering of individuals he cannot regard simply as targets.
+The opposing warriors are praised as heroes and great bowmen. Bhima and Arjuna provide the comparison for their strength in battle. Duryodhana names Yuyudhana, Virata and Drupada as examples; *mahāratha*, applied to Drupada, denotes a great chariot-warrior.
 
 ## 1.5
 
@@ -72,9 +64,7 @@ There are Dhrishtaketu, Chekitana, the powerful king of Kashi, Purujit, Kuntibho
 
 ### Explanation
 
-The catalogue continues through named warriors and a royal title. The Pandava force is a coalition of rulers and allies, not merely five brothers acting alone. A family dispute has drawn a wider political world into its consequences.
-
-The verse does not yet debate the rights of these participants. It establishes the scale and human variety of the confrontation. Read with the surrounding verses, the list helps explain why Arjuna’s later question reaches beyond his own immediate safety or the outcome of a single contest.
+Duryodhana continues naming the Pandava allies: Dhrishtaketu, Chekitana, the king of Kashi, Purujit, Kuntibhoja and Shaibya. The king of Kashi is described as powerful, and Shaibya as an outstanding man. These names continue the account of the opposing army’s prominent fighters.
 
 ## 1.6
 
@@ -84,9 +74,7 @@ There are the brave Yudhamanyu, the vigorous Uttamaujas, Subhadra’s son and th
 
 ### Explanation
 
-Here the language of military accomplishment stands beside language of family. Subhadra’s son is Abhimanyu, and Draupadi’s sons belong to the next generation of the Pandava household. These are not interchangeable descriptions: one identifies battlefield ability, the other tells us whose children are present.
-
-The connection becomes increasingly important as the chapter develops. A conflict fought for a family’s future can put that very future at risk. The text lets the reader encounter younger relatives first as fighters, before Arjuna begins questioning what victory would leave behind.
+The list adds Yudhamanyu, Uttamaujas, Abhimanyu, the son of Subhadra, and Draupadi’s sons. Yudhamanyu is called brave and Uttamaujas vigorous. All those named in the verse are described as great chariot-warriors. Subhadra’s and Draupadi’s sons bring the younger Pandava generation into the list.
 
 ## 1.7
 
@@ -96,9 +84,7 @@ Know also the distinguished men on our side, foremost among the twice-born. For 
 
 ### Explanation
 
-Duryodhana shifts from the opposing army to his own. His repeated possessive language keeps the speech centred on command, allegiance and comparative advantage. Naming leaders can reassure listeners as well as communicate information.
-
-“Twice-born” is an honorific drawn from the text’s social and ritual vocabulary; here it addresses the Brahmin teacher Drona. It refers to a status associated with initiation, not to a second physical birth. Understanding the expression helps readers recognise how military authority and inherited social position coexist in the epic’s world.
+Having named leading warriors on the Pandava side, Duryodhana turns to his own army. He tells Drona that he will identify its commanders. “Foremost among the twice-born” addresses Drona as a Brahmin; the second birth refers to religious initiation.
 
 ## 1.8
 
@@ -108,9 +94,7 @@ There are yourself, Bhishma, Karna, Kripa who is victorious in battle, Ashvattha
 
 ### Explanation
 
-The list begins with Drona himself and moves through other leading figures. It is an assurance that Duryodhana’s side has recognised strength and experience. The names should not be taken as a complete account of who performs every action at this moment; this is a speaker’s catalogue of his side’s notable men.
-
-The chapter will later show why these same names make Arjuna hesitate. Teachers and elders can appear in a commander’s inventory of strength while also carrying claims of affection, respect and obligation for the person asked to oppose them.
+Duryodhana names Drona, Bhishma, Karna, Kripa, Ashvatthama, Vikarna and Somadatta’s son. “Yourself” addresses Drona, the teacher listening to the speech. The epithet attached to Kripa praises his victory in battle. Together these names identify the leading strength of Duryodhana’s army.
 
 ## 1.9
 
@@ -120,9 +104,7 @@ Many other heroes are ready to give their lives for my sake. They carry differen
 
 ### Explanation
 
-The expression “for my sake” brings the costs of political allegiance into focus. Duryodhana presents others’ willingness to risk their lives as evidence of the strength supporting him. From his perspective, loyalty and expertise are resources for victory.
-
-The reader can also hear a question that his speech does not ask: what responsibility does a leader bear toward people prepared to die for him? The verse establishes this relationship without stopping to resolve it. Arjuna will soon measure the same impending deaths through a different set of concerns.
+Duryodhana says that many further heroes have committed their lives to his cause. Their readiness to die, variety of weapons and knowledge of warfare complete his description of the army’s strength. The phrase “for my sake” identifies him as the person for whom they are prepared to fight.
 
 ## 1.10
 
@@ -144,9 +126,7 @@ All of you, stationed in your assigned positions at the approaches, must protect
 
 ### Explanation
 
-Duryodhana’s assessment ends in a concrete instruction. Bhishma is presented as the person around whom the army’s protection should be organised. Even a celebrated commander depends on the coordinated action of others.
-
-The instruction also gives the preceding speech a practical destination. The names, comparisons and claims about strength are meant to secure a particular response from the assembled fighters. Whether one hears confidence or anxiety in verse 1.10, this verse makes clear that the army’s apparent power still requires deliberate organisation and mutual support.
+Duryodhana orders the warriors to remain at their assigned approaches and protect Bhishma in particular. The instruction follows his comparison of the two forces in 1.10. Bhishma’s protection is to be a shared task for the commanders stationed throughout the formation.
 
 ## 1.12
 
@@ -156,9 +136,7 @@ Then the valiant elder of the Kurus, the grandsire Bhishma, roared like a lion a
 
 ### Explanation
 
-Bhishma answers the moment with a sound rather than an argument. His conch reassures Duryodhana and publicly signals readiness. The image of a lion’s roar conveys authority and force, making the elder’s presence felt across the army.
-
-This begins a passage in which sound carries the narrative forward. The battlefield is not yet described only through wounds or blows. It is experienced through signals, responses and the emotions they produce. Collective confidence can be created by a gesture whose effect reaches far beyond the person performing it.
+Bhishma, the elder of the Kurus, responds by blowing his conch. His loud sound is compared to a lion’s roar, and Sanjaya states that it delights Duryodhana. The account now moves from the commander’s speech to the sounds signalling readiness for battle.
 
 ## 1.13
 
@@ -168,9 +146,7 @@ Conches, kettledrums, smaller drums and horns then sounded together, producing a
 
 ### Explanation
 
-A single conch becomes a mass of answering instruments. The movement from one commanding figure to a collective sound gives the preparations momentum. Individual intentions are being gathered into the public machinery of battle.
-
-The noise also helps the reader feel how difficult quiet reflection can be in such a setting. Expectations, loyalties and the actions of others surround every participant. Arjuna’s later request to pause and look will interrupt this growing movement toward combat rather than occur in a calm environment already set aside for philosophical discussion.
+After Bhishma’s conch, the instruments of the army sound together. The verse names conches, drums and horns, then describes the combined sound as a tremendous uproar. The single signal of the previous verse is followed by the army’s collective response.
 
 ## 1.14
 
@@ -180,9 +156,7 @@ Then Madhava and the son of Pandu, seated in a great chariot drawn by white hors
 
 ### Explanation
 
-Attention crosses to Krishna and Arjuna. They enter the scene together, sharing a chariot, before their later relationship as teacher and questioning student becomes explicit. Krishna is called Madhava; the son of Pandu here is Arjuna.
-
-The visual detail of the white horses and the sound of their conches distinguish this pair within the larger army. At this stage they participate in the preparations for battle. The dialogue will emerge from that active situation, rather than from a separate encounter detached from Arjuna’s responsibilities and relationships.
+Krishna and Arjuna answer from their great chariot drawn by white horses. “Madhava” names Krishna, and “the son of Pandu” identifies Arjuna. Their conches are called divine. This begins the account of the conches sounded on the Pandava side.
 
 ## 1.15
 
@@ -192,9 +166,7 @@ Hrishikesha blew Panchajanya, Dhananjaya blew Devadatta, and mighty Bhima, known
 
 ### Explanation
 
-The conches have names, and the characters are identified through different epithets. Hrishikesha is Krishna; Dhananjaya is Arjuna; Vrikodara is Bhima. Knowing this prevents the reader from mistaking the changing names for the arrival of additional people.
-
-These epithets also contribute to the poem’s texture. They carry associations of power, identity and relationship that an English name alone may not convey. Krishna’s title Hrishikesha, often understood as lord of the senses, will resonate with a dialogue that repeatedly examines perception, desire and self-command.
+The verse names each conch and its owner. Krishna, called Hrishikesha, blows Panchajanya; Arjuna, called Dhananjaya, blows Devadatta; Bhima, called Vrikodara, blows Paundra. Bhima’s great strength and the size of his conch are emphasised. The different epithets identify these same three warriors.
 
 ## 1.16
 
@@ -204,9 +176,7 @@ King Yudhishthira, the son of Kunti, blew Anantavijaya; Nakula and Sahadeva blew
 
 ### Explanation
 
-The remaining Pandava brothers are brought into the soundscape. Yudhishthira is identified both as king and as Kunti’s son, placing public office beside family identity. Nakula and Sahadeva receive their own named instruments rather than disappearing into the collective description.
-
-The passage has now made the five brothers present as distinct participants. That matters for the coming crisis: the people who might gain a kingdom are the same family members whose relationships give that kingdom value. Political purpose and personal attachment have not yet separated into neat categories.
+Yudhishthira blows Anantavijaya, Nakula blows Sughosha, and Sahadeva blows Manipushpaka. Yudhishthira is identified as king and son of Kunti. With Bhima and Arjuna named in the preceding verse, all five Pandava brothers now have their conches identified.
 
 ## 1.17
 
@@ -216,9 +186,7 @@ The great archer, the king of Kashi, the great chariot-warrior Shikhandi, Dhrish
 
 ### Explanation
 
-Sanjaya continues naming allies as the response spreads. The verse belongs to the larger picture of rulers and accomplished fighters assembled around the Pandavas. Praise of their abilities makes the confrontation feel consequential: these are people with reputations, not an unnamed crowd.
-
-The catalogue also creates an accumulating effect. Each new name adds another life and another set of relationships to the impending event. The text will shortly ask us to look again at this gathering through Arjuna’s eyes, when naming people no longer serves primarily to measure military strength.
+The king of Kashi, Shikhandi, Dhrishtadyumna, Virata and Satyaki join the sounding of conches. The descriptions praise their skill and strength: the king of Kashi is a great archer, Shikhandi a great chariot-warrior, and Satyaki undefeated. The list continues into the next verse.
 
 ## 1.18
 
@@ -228,9 +196,7 @@ Drupada, the sons of Draupadi and the mighty-armed son of Subhadra each blew the
 
 ### Explanation
 
-The account returns to people already named, now describing their participation in the answering sound. “Lord of the earth” addresses Dhritarashtra, the king listening to Sanjaya’s report. It does not introduce a new fighter.
-
-Such shifts in address remind us that the battlefield scene is being narrated to someone outside it. The Gita reaches the reader through several voices: the king’s question, Sanjaya’s description and the dialogue between Arjuna and Krishna. Keeping these layers distinct helps prevent confusion about who is speaking and whose judgement a particular statement expresses.
+Drupada, Draupadi’s sons and Abhimanyu, the son of Subhadra, each sound their conches. “Lord of the earth” is Sanjaya’s address to Dhritarashtra, who is hearing the account. The verse completes the list of the Pandava warriors taking part in this response.
 
 ## 1.19
 
@@ -240,9 +206,7 @@ That tremendous sound echoed through sky and earth and tore at the hearts of Dhr
 
 ### Explanation
 
-The sound is described through its effect on the opposing side. “Tore at the hearts” is forceful poetic language for the alarm it produces. The narrative presents battle as a struggle over confidence and resolve even before the principal dialogue begins.
-
-This is also a reminder that outward preparation and inward experience need not match. A well-equipped army can still be shaken. The chapter will make an even greater contrast when Arjuna, already recognised as a formidable warrior, finds that his own body and mind no longer support the action expected of him.
+The combined sound fills the earth and sky and strikes fear into Dhritarashtra’s people. “Tore at the hearts” describes its effect on their courage. The Pandava conches are thus presented as shaking the opposing army before the fighting develops.
 
 ## 1.20
 
@@ -252,9 +216,7 @@ Then the son of Pandu, whose banner bore the monkey emblem, saw Dhritarashtra’
 
 ### Explanation
 
-Arjuna first appears here as ready to act. The monkey-bannered warrior lifts his bow in the setting for which he has been trained. His later refusal therefore develops within the scene; it is not simply the initial position of someone who never intended to participate.
-
-The narrative now slows around his act of looking. A battlefield that has been presented through formations, leaders and signals becomes the object of his direct attention. The change will not be in the visible armies alone, but in what their presence comes to mean to him.
+Arjuna sees Dhritarashtra’s warriors standing in battle formation and raises his bow. His banner bears the monkey emblem. Sanjaya places this action at the beginning of the clash of weapons; Arjuna is still preparing to fight when he makes the request that follows.
 
 ## 1.21
 
@@ -264,9 +226,7 @@ O king, Arjuna then spoke to Hrishikesha: Achyuta, place my chariot between the 
 
 ### Explanation
 
-The verse contains a transition between voices: Sanjaya introduces Arjuna’s words, and Arjuna asks Krishna to move the chariot. The Sanskrit speaker label is placed at that transition so that the king’s address is not mistaken for part of Arjuna’s request.
-
-“Between the two armies” describes a physical position with important narrative consequences. Arjuna asks to see what he is about to do before doing it. The resulting pause gives room for a question that military skill by itself cannot answer. Achyuta is another name by which he addresses Krishna.
+Sanjaya addresses Dhritarashtra as “king,” then introduces Arjuna’s speech. Arjuna asks Krishna to place the chariot between the two armies. Hrishikesha and Achyuta are names of Krishna. The speaker transition separates Sanjaya’s address to the king from Arjuna’s request to his charioteer.
 
 ## 1.22
 
@@ -276,9 +236,7 @@ Let me look at those who stand here wanting to fight, and see with whom I must c
 
 ### Explanation
 
-Arjuna’s immediate purpose still sounds practical: he wants to identify the people he will face. He is not yet announcing a general refusal of war. The word “look” is important because the sight will change the terms of his decision.
-
-The verse can also be read as an instance of attention preceding judgement. Before an action becomes an accomplished fact, the people affected by it can be brought into view. The chapter does not suggest that observation automatically supplies the right answer. It shows how observation can make a previously straightforward intention difficult.
+Arjuna gives the purpose of his request: he wants to inspect the warriors who have come to fight and identify those he must oppose. The chariot’s position between the armies will let him see both formations before entering the battle. His request continues into 1.23.
 
 ## 1.23
 
@@ -288,9 +246,7 @@ I want to see those who have gathered here to fight, wishing to please the ill-m
 
 ### Explanation
 
-Arjuna has not arrived at an impartial description of the two sides. He speaks critically of Duryodhana and sees the assembled opponents as serving that ruler’s purposes. His later distress does not erase this earlier assessment of political wrongdoing.
-
-That tension makes the chapter more demanding than a simple contrast between justified anger and sudden sentiment. Arjuna can recognise faults in the opposing cause and still become unable to accept the means of defeating it. The question will concern what one ought to do when more than one moral consideration presses upon the same action.
+Arjuna describes the opposing warriors as men gathered to please Duryodhana, the son of Dhritarashtra. He calls Duryodhana ill-minded and asks to see those who support him. This is Arjuna’s assessment of the enemy at the point when he still intends to fight.
 
 ## 1.24
 
@@ -300,9 +256,7 @@ Sanjaya said: Addressed in this way by Gudakesha, Hrishikesha placed the excelle
 
 ### Explanation
 
-Krishna first responds by doing what Arjuna asks. He does not begin with a lecture that bypasses Arjuna’s experience. Gudakesha names Arjuna; Hrishikesha names Krishna; the address to the descendant of Bharata returns us to Sanjaya’s narration to Dhritarashtra.
-
-The movement of the chariot makes the next moment possible. Arjuna’s difficulty will emerge from a closer encounter with the situation, not from an abstract puzzle introduced at random. The reader is invited to remain with that encounter before expecting the text to resolve it through teaching.
+Krishna carries out Arjuna’s request and places the chariot between the armies. Sanjaya addresses Dhritarashtra as a descendant of Bharata while reporting the movement. The following verse identifies the warriors before whom Krishna brings the chariot to a halt.
 
 ## 1.25
 
@@ -312,9 +266,7 @@ In front of Bhishma, Drona and the other rulers, Krishna said: Partha, look at t
 
 ### Explanation
 
-Krishna identifies the assembled people as “Kurus,” the larger family to which both sides belong. The description differs from the language of separate camps that has dominated the military survey. Bhishma and Drona, especially, bring ties of respect and education directly into Arjuna’s field of vision.
-
-“Look” does not yet prescribe a conclusion. The text allows Arjuna’s response to develop after the people have become visible as relatives and elders. The placement of the chariot therefore connects the outward scene with the inward conflict that gives the chapter its name.
+Krishna stops before Bhishma, Drona and the other rulers, then tells Arjuna to look at the assembled Kurus. The name “Kurus” identifies the shared lineage of the opposing relatives. Bhishma and Drona, Arjuna’s elder and teacher, are directly before him as he surveys the armies.
 
 ## 1.26
 
@@ -324,9 +276,7 @@ There Partha saw fathers and grandfathers, teachers, maternal uncles, brothers, 
 
 ### Explanation
 
-The army is now perceived through relationships. The same gathering that Duryodhana described by fighting ability becomes a network of people connected to Arjuna’s life. “Fathers” and “grandfathers” include the parental and elder generations of the extended family; the verse should not be read as saying that Arjuna’s deceased father Pandu is physically present.
-
-The change of vocabulary is central. It does not alter the positions of the armies, but it alters the meaning of confronting them. A task framed as defeating an opponent becomes inseparable from the loss of people to whom one owes affection and respect.
+Arjuna sees relatives of several generations, along with teachers and friends. “Fathers” includes men of his father’s generation; Pandu, his own father, has already died. The list identifies those on the field through their relationships to Arjuna, beginning the change from inspecting enemies to recognising his own people.
 
 ## 1.27
 
@@ -336,9 +286,7 @@ He also saw fathers-in-law and well-wishers in both armies. The son of Kunti loo
 
 ### Explanation
 
-“In both armies” prevents the reader from reducing Arjuna’s concern to the safety of his own camp. The conflict runs through a shared social world. Affection, marriage, friendship and older obligations connect people across its military boundary.
-
-The verse also extends the act of looking. Arjuna’s attention stays with these people instead of immediately returning to tactics. What he sees makes it harder to imagine victory as a gain belonging entirely to one group. The lives and relationships on which any future happiness might depend are already entangled across the field.
+Arjuna also recognises fathers-in-law and well-wishers in both armies. His relatives and connections are present on both sides of the battle. The verse completes the survey begun in 1.26, after which Sanjaya describes Arjuna’s compassion and grief.
 
 ## 1.28
 
@@ -348,9 +296,7 @@ Overcome by deep compassion and sinking into sorrow, Arjuna said: Krishna, seein
 
 ### Explanation
 
-Sanjaya describes the emotional change before Arjuna speaks for himself. Compassion is present, but so is distress. The chapter does not require us to dismiss one in order to notice the other. Arjuna’s concern for the people before him and his inability to act develop together.
-
-His sentence continues into the next verses, where he describes what is happening in his body. Reading the verses as a connected speech is helpful: this is the beginning of an unfolding account of crisis, rather than a self-contained maxim about compassion.
+Sanjaya says that Arjuna is overcome by compassion and sorrow at the sight of his relatives. Arjuna then begins speaking to Krishna about seeing his own people eager for battle. His sentence continues in 1.29, where he describes the bodily effects of his distress.
 
 ## 1.29
 
@@ -360,9 +306,7 @@ My limbs are failing, my mouth is drying up, my body is trembling and my hair is
 
 ### Explanation
 
-Arjuna’s difficulty is no longer only a proposition about the rightness of battle. It has become a bodily experience. The catalogue of sensations makes the cost of the moment immediate, especially after the earlier descriptions of confident warriors and resounding instruments.
-
-These words are his report of what he feels. They need not be turned into a modern diagnosis to be taken seriously. The scene makes room for a person whose training and reputation do not prevent vulnerability, and whose body interrupts the action he had been prepared to undertake.
+Arjuna names four bodily symptoms: weakness in his limbs, dryness of the mouth, trembling and his hair standing on end. These follow from seeing his relatives assembled for battle. The next verse continues his account of the condition that prevents him from standing ready to fight.
 
 ## 1.30
 
@@ -372,9 +316,7 @@ Gandiva slips from my hand, my skin burns, I cannot stand steady, and my mind se
 
 ### Explanation
 
-Gandiva is Arjuna’s bow, an important emblem of his ability as a warrior. Its slipping from his hand gives physical form to the breakdown of a role he knows how to perform. The problem is not described as a simple absence of equipment or skill.
-
-The verse also joins body and mind: burning skin, unsteadiness and a reeling mind belong to the same experience. Arjuna is beginning to explain why an outwardly available action has become inwardly impossible. The dialogue will have to address more than a technical instruction to fight better.
+Arjuna says that Gandiva, his bow, slips from his hand. He feels burning in his skin, cannot remain steady and experiences his mind as reeling. His description combines loss of control over his weapon, bodily distress and mental confusion. It continues the symptoms listed in 1.29.
 
 ## 1.31
 
@@ -384,9 +326,7 @@ I see adverse signs, Keshava, and I see no good coming from killing my own peopl
 
 ### Explanation
 
-Arjuna moves from describing his condition to judging the action before him. “I see no good” concerns the purpose of victory, not merely the probability of achieving it. Even successful fighting may appear pointless if the result destroys what made success desirable.
-
-Arjuna’s alarm now joins a judgement about the future. He sees the approaching battle as working against the good he had hoped to obtain. What he sees, what he feels and what he believes he should do are becoming closely connected in his appeal to Krishna.
+Arjuna reports adverse signs and declares that killing his relatives will bring no good. Keshava is his address to Krishna. His speech now moves from bodily distress to reasons for refusing battle, beginning with his judgement about the consequences of killing his own people.
 
 ## 1.32
 
@@ -396,9 +336,7 @@ I do not desire victory, Krishna, nor kingship nor its pleasures. What use are a
 
 ### Explanation
 
-The goals normally associated with winning a royal war are being questioned one by one. Arjuna is not simply saying that the price is high. He is asking whether the expected rewards would still have value after the losses required to obtain them.
-
-The question turns attention from possession to relationship. A kingdom may be a public responsibility, a source of enjoyment or an object of ambition; these are not identical ways of valuing it. Arjuna’s speech is beginning to expose the reasons for which he had wanted the outcome in the first place.
+Arjuna rejects the usual rewards of victory: kingship, enjoyment and pleasure. He asks what use a kingdom, its enjoyments or even life would have. The following verses explain his reason: the relatives for whose sake these rewards were desired are themselves standing in the battle.
 
 ## 1.33
 
@@ -408,9 +346,7 @@ Those for whose sake we wanted a kingdom, enjoyments and pleasures are standing 
 
 ### Explanation
 
-Arjuna now supplies an answer to his question about the value of victory. Much of its appeal had depended on sharing it with particular people. If those people are among the ones threatened by the means of winning, the aim begins to undermine itself.
-
-The verse makes the conflict more concrete than a general statement that wealth cannot bring happiness. Arjuna points to the actual people present. The argument is about a particular action and its consequences, where the hoped-for beneficiaries can also become its victims.
+Arjuna says that the people for whom he and his brothers wanted kingship and enjoyment have put their lives and possessions at stake. Victory would require fighting these same people. This answers the question of 1.32 by connecting the value of the kingdom with the relatives present on the field.
 
 ## 1.34
 
@@ -420,9 +356,7 @@ Teachers, fathers, sons and grandfathers; maternal uncles, fathers-in-law, grand
 
 ### Explanation
 
-The list returns to the relationships already seen, now inside Arjuna’s own argument. Naming them is part of his attempt to make the moral difficulty intelligible. The people expected to count as enemies cannot easily be separated from the people through whom he understands family and obligation.
-
-The repetition is therefore purposeful. Earlier catalogues displayed an army’s strength. This one displays the reach of possible loss. The chapter changes what it asks the reader to notice while keeping many of the same people in view.
+Arjuna specifies the relatives and teachers whose presence troubles him. They include elders, descendants and relations by marriage. The list continues his explanation of why kingship and its pleasures no longer attract him: obtaining them would involve killing people with whom he expected to share them.
 
 ## 1.35
 
@@ -432,9 +366,7 @@ Madhusudana, I do not wish to kill these people, even if they kill me—not even
 
 ### Explanation
 
-Arjuna expands the imagined reward to its greatest scale and still rejects the exchange. “The three worlds” belongs to the poem’s cosmological language; the comparison means that even a vastly greater dominion would not make the act acceptable to him at this moment.
-
-His declaration is also personal: he does not wish to kill these people. Whether that refusal can settle his duties will remain a question for the dialogue. The chapter allows the strength of his conviction to be heard before Krishna subjects its grounds and consequences to examination.
+Arjuna says he will not kill these relatives and teachers, even if they kill him. He rejects even sovereignty over the three worlds as a reward for doing so, and therefore rejects the smaller reward of ruling the earth. The comparison expresses the extent of his refusal.
 
 ## 1.36
 
@@ -444,9 +376,7 @@ What joy could come to us from killing Dhritarashtra’s sons, Janardana? Sin wo
 
 ### Explanation
 
-Arjuna calls his opponents *ātatāyins*, aggressors. This is an important qualification: he is not claiming that the opposing side has done nothing wrong. He recognises a case for resistance while questioning whether killing these relatives would nevertheless implicate him in wrongdoing.
-
-The verse sharpens the conflict between different descriptions of the same people. They can be aggressors in one respect and kin in another. Arjuna’s difficulty concerns the relation between those claims, rather than a simple failure to notice either the injury suffered or the ties of family.
+Arjuna calls Dhritarashtra’s sons aggressors but says that killing them would bring sin upon his own side. He asks what pleasure could follow from their deaths. The verse holds both descriptions together: the men are aggressors, and they are relatives whose killing Arjuna regards as sinful.
 
 ## 1.37
 
@@ -456,9 +386,7 @@ Therefore we should not kill the sons of Dhritarashtra, our own relatives. How c
 
 ### Explanation
 
-“Therefore” marks an attempted conclusion. Arjuna gathers the considerations he has raised into a judgement about what ought to be done. The appeal to happiness is not merely a calculation of comfort; it asks what kind of life could follow an action that destroys people central to one’s moral world.
-
-This remains Arjuna’s conclusion at this stage of the conversation. The Gita has not yet presented it as the final resolution of the conflict. Keeping that distinction matters when reading a dialogue in which a serious questioner is about to become a student.
+Arjuna concludes that they should not kill Dhritarashtra’s sons because those sons are their own relatives. He again asks how killing one’s own people could produce happiness. The conclusion follows his claim in 1.36 that killing these aggressors would bring sin rather than joy.
 
 ## 1.38
 
@@ -468,9 +396,7 @@ Even if these people, their minds overcome by greed, do not see the wrong in des
 
 ### Explanation
 
-Arjuna attributes the other side’s failure of judgement to greed. This continues his criticism of their motives, even as he refuses to accept that their wrongdoing automatically settles his own conduct.
-
-His sentence is not complete here. The next verse asks why people who recognise an injury should choose to repeat or participate in it. The structure of the argument is important: another person’s blindness to a moral cost does not remove the responsibility of someone who believes he can see it.
+Arjuna says that greed has blinded the opposing side to the wrong of destroying a family and betraying friends. His sentence continues in the next verse. He distinguishes their failure to see these sins from his own side’s awareness of what destroying the family would entail.
 
 ## 1.39
 
@@ -480,9 +406,7 @@ Why should we not know to turn away from this sin, Janardana, when we clearly se
 
 ### Explanation
 
-Arjuna appeals to responsibility arising from awareness. If he understands a harmful consequence, he cannot simply point to an opponent’s greed as an excuse for ignoring it himself. The claim gives his refusal an ethical form beyond the earlier descriptions of distress.
-
-At the same time, his argument rests on his account of what the proposed action will destroy and what other duties are involved. Those assumptions remain open to examination in the larger dialogue. Recognising a consequence is important, but the conversation has not yet decided how every competing obligation should be understood.
+Arjuna asks why those who recognise the harm of destroying a family should fail to turn away from that sin. His argument rests on the difference stated in 1.38: the opponents are blinded by greed, while he and his companions can see the consequences. He then describes those consequences in 1.40–44.
 
 ## 1.40
 
@@ -492,9 +416,7 @@ When a family is destroyed, its longstanding family duties and traditions perish
 
 ### Explanation
 
-Arjuna broadens his concern from individual deaths to the institutions that survive through people. *Kula-dharma* refers here to the duties, practices and inherited order of a family or lineage. He fears that war will remove the people who sustain and pass on that order.
-
-The argument should be read in the social setting of the text, where household, lineage and ritual obligations are closely connected. Arjuna is not yet discussing every possible form of social change. He is imagining a violent destruction that leaves a community unable to continue the practices he regards as essential.
+Arjuna says that destroying a family destroys its longstanding *kula-dharma*: its inherited duties, rites and traditions. Once that dharma disappears, adharma overtakes the family. This begins his sequence of consequences connecting the deaths in battle with the corruption of the family, intermixture of varnas and punishment in hell.
 
 ## 1.41
 
@@ -504,9 +426,7 @@ When adharma prevails, Krishna, the women of the family become corrupted; and wh
 
 ### Explanation
 
-This verse expresses Arjuna’s fear in the patriarchal and status-conscious terms of his social world. He links the collapse of family protection and conduct with *varṇa-saṅkara*, the mixing of recognised social classes or orders. A faithful explanation needs to identify that hierarchy rather than replace it with a vague phrase such as “general confusion.”
-
-These are the concerns voiced by Arjuna in his argument against the battle. Identifying their place in the dialogue lets readers examine what the verse says without turning its assumptions about women or inherited rank into an unqualified instruction for contemporary life.
+Arjuna gives the next links in the sequence: when adharma prevails, the women of the family become corrupted; from their corruption comes *varṇa-saṅkara*, intermixture of varnas. His argument connects the preservation of family dharma with women’s conduct and the continuation of distinct varna lineages. The following verse states the consequences for the family and its ancestors.
 
 ## 1.42
 
@@ -516,9 +436,7 @@ Such intermixture brings hell to those who destroy a family and to the family it
 
 ### Explanation
 
-Arjuna’s concern now extends to ancestors. The offerings of food and water belong to practices through which descendants sustain obligations toward the dead. In the picture he presents, destroying a lineage interrupts a relationship reaching across generations.
-
-The verse is therefore about more than a fear of losing property or social reputation. It links violence among the living with the failure of ritual continuity. Within this religious framework, responsibility connects living households with the ancestors they remember. War could therefore appear to disrupt obligations between generations as well as the political order of the present.
+Arjuna says that intermixture of varnas brings hell upon the destroyers of the family and upon the family itself. The ancestors also fall because the offerings of rice-balls and water cease. The loss of descendants maintaining these rites therefore affects the dead as well as those living after the battle.
 
 ## 1.43
 
@@ -528,9 +446,7 @@ Through these faults of those who destroy families, faults that cause intermixtu
 
 ### Explanation
 
-The terms *jāti-dharma* and *kula-dharma* bring together social-group obligations and family traditions. Arjuna sees the destruction of households as a route to the collapse of the wider order. The reasoning develops from the preservation of particular relatives into a claim about the survival of institutions.
-
-The account also shows why his argument cannot be reduced to private affection alone. It involves a larger view of society, including inherited distinctions that readers may evaluate differently. The dialogue presents those assumptions as part of what Arjuna brings to the moment of decision.
+Arjuna says that the faults of those who destroy families produce intermixture of varnas and uproot enduring duties. *Jāti-dharma* refers to the duties of social groups, and *kula-dharma* to family duties. His argument links killing the family’s members with the destruction of the inherited social and ritual order.
 
 ## 1.44
 
@@ -540,9 +456,7 @@ Janardana, we have heard that people whose family duties have been destroyed fac
 
 ### Explanation
 
-“We have heard” identifies the authority Arjuna invokes: teaching received through tradition. He appeals to consequences he takes to be established by that inheritance. The appeal helps explain why violating family duties appears to him not merely unfortunate but gravely wrong.
-
-This edition reads *aniyatam*, rendered here as “indefinite.” The important distinction in the argument is between the observable destruction on the battlefield and the further religious consequences Arjuna believes it entails. The verse presents both as reasons for refusal, while the dialogue has yet to examine the full grounds of his understanding.
+Arjuna appeals to what he has heard through tradition: those whose family duties have been destroyed dwell in hell. This edition reads *aniyatam*, rendered here as “indefinite,” for the duration of that stay. The threatened punishment completes his account of the consequences of destroying the family.
 
 ## 1.45
 
@@ -552,9 +466,7 @@ Alas, we have resolved to commit a great sin: out of greed for the pleasures of 
 
 ### Explanation
 
-Arjuna turns his earlier accusation of greed back toward his own side. His language changes from “these people” to “we.” He is asking whether the desire he condemned in others may also be shaping the action he himself is ready to perform.
-
-That self-implication gives the speech moral seriousness. Yet naming his motive as greed does not, by itself, establish that it is the only motive or duty involved. The dialogue will need to distinguish possession, attachment, responsibility and action more carefully than the crisis has so far allowed him to do.
+Arjuna now calls his own side’s intended action a great sin. He says that greed for the pleasures of kingship has made them ready to kill their relatives. The accusation of greed that he applied to the opponents in 1.38 is here applied to “we,” including himself.
 
 ## 1.46
 
@@ -564,9 +476,7 @@ If Dhritarashtra’s armed sons were to kill me in battle while I remained unarm
 
 ### Explanation
 
-Arjuna reaches the strongest expression of his refusal. He imagines accepting defeat and death rather than carrying out the killing he has come to regard as wrong. The sentence belongs to this battlefield argument and shows how far he has moved from the readiness described in verse 1.20.
-
-The declaration does not resolve the different responsibilities that have accumulated around him. It makes the impasse visible. For the conversation to continue, the question must become more searching than whether he can bear the immediate experience of fighting these particular people.
+Arjuna says it would be better for him to be killed while unarmed and unresisting than to fight his relatives. Dhritarashtra’s sons would remain armed and would do the killing. This carries his refusal to its strongest statement: he prefers suffering death to carrying out the battle himself.
 
 ## 1.47
 
@@ -576,9 +486,7 @@ Sanjaya said: Having spoken in this way, Arjuna sat down in the chariot on the b
 
 ### Explanation
 
-The chapter ends with an action: the warrior sits down and puts aside the equipment through which he normally acts. The argument has reached a point where he cannot continue on its previous terms. Sanjaya’s return as narrator lets us see that change from outside Arjuna’s speech.
-
-The Gita does not begin its teaching by pretending the difficulty is small. Chapter 1 gives time to the people, emotions, inherited beliefs and conflicting obligations within it. Krishna’s sustained response in the following chapter arises from this impasse. The pause is the beginning of the inquiry, rather than its completed answer.
+Sanjaya resumes the narration after Arjuna’s speech. Arjuna sits down in the chariot and lets fall his bow and arrows, overwhelmed by sorrow. His refusal to fight is now expressed through his actions. Krishna’s reply begins in Chapter 2, with Arjuna still in this condition.
 
 ## Sources
 

@@ -640,5 +640,9 @@
   "Sanskrit text": "متن سانسکریت",
   "Text edition": "ویرایش متن",
   "This edition includes Arjuna’s opening question in Chapter 13 (701 numbered verses).": "این ویرایش پرسش آغازین آرجونا در فصل ۱۳ را در بر دارد (۷۰۱ بند شماره‌گذاری‌شده).",
-  "Scripture": "متن"
+  "Scripture": "متن",
+  "Previous verse": "بیت قبلی",
+  "Next verse": "بیت بعدی",
+  "Verse {number} of {count}": "بیت {number} از {count}",
+  "Swipe left or right to change verse": "برای رفتن به بیت دیگر، به چپ یا راست بکشید"
 }

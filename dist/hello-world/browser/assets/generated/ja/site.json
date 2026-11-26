@@ -632,5 +632,9 @@
   "Sanskrit text": "サンスクリット本文",
   "Text edition": "本文の版",
   "This edition includes Arjuna’s opening question in Chapter 13 (701 numbered verses).": "この版には第13章冒頭のアルジュナの質問が含まれています（番号付き701詩節）。",
-  "Scripture": "典籍"
+  "Scripture": "典籍",
+  "Previous verse": "前の詩節",
+  "Next verse": "次の詩節",
+  "Verse {number} of {count}": "全{count}詩節中の第{number}詩節",
+  "Swipe left or right to change verse": "左右にスワイプして詩節を切り替えます"
 }

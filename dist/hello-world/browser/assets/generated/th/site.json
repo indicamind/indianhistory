@@ -640,5 +640,9 @@
   "Sanskrit text": "ตัวบทสันสกฤต",
   "Text edition": "ฉบับตัวบท",
   "This edition includes Arjuna’s opening question in Chapter 13 (701 numbered verses).": "ฉบับนี้รวมคำถามเปิดบทของอรชุนในบทที่ 13 (โศลกที่มีหมายเลข 701 โศลก)",
-  "Scripture": "คัมภีร์"
+  "Scripture": "คัมภีร์",
+  "Previous verse": "โศลกก่อนหน้า",
+  "Next verse": "โศลกถัดไป",
+  "Verse {number} of {count}": "โศลกที่ {number} จาก {count}",
+  "Swipe left or right to change verse": "ปัดไปทางซ้ายหรือขวาเพื่อเปลี่ยนโศลก"
 }

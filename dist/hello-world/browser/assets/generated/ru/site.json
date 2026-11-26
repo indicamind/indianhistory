@@ -632,5 +632,9 @@
   "Sanskrit text": "Санскритский текст",
   "Text edition": "Редакция текста",
   "This edition includes Arjuna’s opening question in Chapter 13 (701 numbered verses).": "В этой редакции включён начальный вопрос Арджуны в главе 13 (701 пронумерованный стих).",
-  "Scripture": "Писание"
+  "Scripture": "Писание",
+  "Previous verse": "Предыдущий стих",
+  "Next verse": "Следующий стих",
+  "Verse {number} of {count}": "Стих {number} из {count}",
+  "Swipe left or right to change verse": "Проведите влево или вправо, чтобы перейти к другому стиху"
 }

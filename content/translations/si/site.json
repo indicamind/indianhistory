@@ -632,5 +632,9 @@
   "Sanskrit text": "සංස්කෘත පාඨය",
   "Text edition": "පාඨ සංස්කරණය",
   "This edition includes Arjuna’s opening question in Chapter 13 (701 numbered verses).": "මෙම සංස්කරණයට 13 වන පරිච්ඡේදයේ අර්ජුනගේ ආරම්භක ප්‍රශ්නය ඇතුළත් වේ (අංකිත ශ්ලෝක 701කි).",
-  "Scripture": "ග්‍රන්ථය"
+  "Scripture": "ග්‍රන්ථය",
+  "Previous verse": "පෙර ශ්ලෝකය",
+  "Next verse": "ඊළඟ ශ්ලෝකය",
+  "Verse {number} of {count}": "ශ්ලෝක {count}කින් {number} වැනි ශ්ලෝකය",
+  "Swipe left or right to change verse": "ශ්ලෝකය වෙනස් කිරීමට වමට හෝ දකුණට ස්වයිප් කරන්න"
 }

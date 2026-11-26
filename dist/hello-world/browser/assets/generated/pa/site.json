@@ -632,5 +632,9 @@
   "Sanskrit text": "ਸੰਸਕ੍ਰਿਤ ਪਾਠ",
   "Text edition": "ਪਾਠ ਦਾ ਸੰਸਕਰਣ",
   "This edition includes Arjuna’s opening question in Chapter 13 (701 numbered verses).": "ਇਸ ਸੰਸਕਰਣ ਵਿੱਚ ਅਧਿਆਇ 13 ਦਾ ਅਰਜੁਨ ਦਾ ਸ਼ੁਰੂਆਤੀ ਸਵਾਲ ਸ਼ਾਮਲ ਹੈ (701 ਨੰਬਰਬੱਧ ਸ਼ਲੋਕ)।",
-  "Scripture": "ਗ੍ਰੰਥ"
+  "Scripture": "ਗ੍ਰੰਥ",
+  "Previous verse": "ਪਿਛਲਾ ਸ਼ਲੋਕ",
+  "Next verse": "ਅਗਲਾ ਸ਼ਲੋਕ",
+  "Verse {number} of {count}": "ਕੁੱਲ {count} ਵਿੱਚੋਂ ਸ਼ਲੋਕ {number}",
+  "Swipe left or right to change verse": "ਸ਼ਲੋਕ ਬਦਲਣ ਲਈ ਖੱਬੇ ਜਾਂ ਸੱਜੇ ਸਵਾਈਪ ਕਰੋ"
 }

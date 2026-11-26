@@ -632,5 +632,9 @@
   "Sanskrit text": "سنسکرت متن",
   "Text edition": "متنُک ایڈیشن",
   "This edition includes Arjuna’s opening question in Chapter 13 (701 numbered verses).": "یمہِ ایڈیشنس منز چھُ باب ۱۳ ہُند ارجن سُنٛد ابتدایی سوال شامل (۷۰۱ نمبر وار شلوک)۔",
-  "Scripture": "گرنتھ"
+  "Scripture": "گرنتھ",
+  "Previous verse": "پٔتِم شلوک",
+  "Next verse": "بیاکھ شلوک",
+  "Verse {number} of {count}": "کُل {count} مَنٛز شلوک {number}",
+  "Swipe left or right to change verse": "شلوک بدلاونہٕ خٲطرٕ کھوورِ یا دَچھنِ کُن سوایِپ کٔرِو"
 }

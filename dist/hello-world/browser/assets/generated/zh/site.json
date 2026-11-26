@@ -632,5 +632,9 @@
   "Sanskrit text": "梵语原文",
   "Text edition": "文本版本",
   "This edition includes Arjuna’s opening question in Chapter 13 (701 numbered verses).": "本版收录了第13章开头阿周那的提问，共701个编号诗节。",
-  "Scripture": "典籍"
+  "Scripture": "典籍",
+  "Previous verse": "上一偈",
+  "Next verse": "下一偈",
+  "Verse {number} of {count}": "第 {number} 偈，共 {count} 偈",
+  "Swipe left or right to change verse": "向左或向右滑动以切换偈颂"
 }

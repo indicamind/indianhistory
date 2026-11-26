@@ -19,6 +19,7 @@ const DYNAMIC_COPY = [
   'Sanskrit', '{count} chapters', 'Start reading', 'Chapters', 'Chapter {number}', '{count} verses',
   'Read each verse in Devanagari and Roman transliteration, with meaning and explanation as they become available.',
   'Chapter', 'Verse', 'Go to verse', 'Chapter navigation', 'Meanings and explanations are being prepared.',
+  'Previous verse', 'Next verse', 'Verse {number} of {count}', 'Swipe left or right to change verse',
   'Roman transliteration (IAST)', 'Meaning', 'Explanation', 'Previous chapter', 'Next chapter',
   'Loading text…', 'The text could not be loaded. Please try again.', 'Text not found', 'Sanskrit text', 'Text edition',
   'This edition includes Arjuna’s opening question in Chapter 13 (701 numbered verses).',

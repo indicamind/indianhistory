@@ -632,5 +632,9 @@
   "Sanskrit text": "النص السنسكريتي",
   "Text edition": "طبعة النص",
   "This edition includes Arjuna’s opening question in Chapter 13 (701 numbered verses).": "تتضمن هذه الطبعة سؤال أرجونا الافتتاحي في الفصل 13 (701 بيت مرقّم).",
-  "Scripture": "نص"
+  "Scripture": "نص",
+  "Previous verse": "الآية السابقة",
+  "Next verse": "الآية التالية",
+  "Verse {number} of {count}": "الآية {number} من {count}",
+  "Swipe left or right to change verse": "اسحب إلى اليسار أو اليمين للانتقال بين الآيات"
 }

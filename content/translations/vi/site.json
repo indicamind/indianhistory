@@ -579,5 +579,9 @@
   "Sanskrit text": "Văn bản tiếng Phạn",
   "Text edition": "Ấn bản văn bản",
   "This edition includes Arjuna’s opening question in Chapter 13 (701 numbered verses).": "Ấn bản này có câu hỏi mở đầu của Arjuna ở Chương 13 (701 câu được đánh số).",
-  "Scripture": "Kinh điển"
+  "Scripture": "Kinh điển",
+  "Previous verse": "Câu kệ trước",
+  "Next verse": "Câu kệ tiếp theo",
+  "Verse {number} of {count}": "Câu kệ {number} trên {count}",
+  "Swipe left or right to change verse": "Vuốt sang trái hoặc phải để chuyển câu kệ"
 }

@@ -632,5 +632,9 @@
   "Sanskrit text": "సంస్కృత పాఠం",
   "Text edition": "పాఠ సంచిక",
   "This edition includes Arjuna’s opening question in Chapter 13 (701 numbered verses).": "ఈ సంచికలో 13వ అధ్యాయంలో అర్జునుడి ప్రారంభ ప్రశ్న ఉంది (వరుస సంఖ్యలతో 701 శ్లోకాలు).",
-  "Scripture": "గ్రంథం"
+  "Scripture": "గ్రంథం",
+  "Previous verse": "మునుపటి శ్లోకం",
+  "Next verse": "తదుపరి శ్లోకం",
+  "Verse {number} of {count}": "మొత్తం {count} శ్లోకాలలో {number}వ శ్లోకం",
+  "Swipe left or right to change verse": "శ్లోకాన్ని మార్చడానికి ఎడమ లేదా కుడి వైపు స్వైప్ చేయండి"
 }

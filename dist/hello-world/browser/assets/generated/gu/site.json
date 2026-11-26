@@ -632,5 +632,9 @@
   "Sanskrit text": "સંસ્કૃત પાઠ",
   "Text edition": "પાઠની આવૃત્તિ",
   "This edition includes Arjuna’s opening question in Chapter 13 (701 numbered verses).": "આ આવૃત્તિમાં અધ્યાય ૧૩માં અર્જુનનો આરંભિક પ્રશ્ન સામેલ છે (૭૦૧ ક્રમાંકિત શ્લોકો).",
-  "Scripture": "ગ્રંથ"
+  "Scripture": "ગ્રંથ",
+  "Previous verse": "પાછલો શ્લોક",
+  "Next verse": "આગલો શ્લોક",
+  "Verse {number} of {count}": "કુલ {count}માંથી શ્લોક {number}",
+  "Swipe left or right to change verse": "શ્લોક બદલવા ડાબે અથવા જમણે સ્વાઇપ કરો"
 }

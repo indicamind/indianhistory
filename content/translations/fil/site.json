@@ -579,5 +579,9 @@
   "Sanskrit text": "Tekstong Sanskrit",
   "Text edition": "Edisyon ng teksto",
   "This edition includes Arjuna’s opening question in Chapter 13 (701 numbered verses).": "Kasama sa edisyong ito ang pambungad na tanong ni Arjuna sa Kabanata 13 (701 na may bilang na taludtod).",
-  "Scripture": "Kasulatan"
+  "Scripture": "Kasulatan",
+  "Previous verse": "Nakaraang taludtod",
+  "Next verse": "Susunod na taludtod",
+  "Verse {number} of {count}": "Taludtod {number} sa {count}",
+  "Swipe left or right to change verse": "Mag-swipe pakaliwa o pakanan upang lumipat ng taludtod"
 }

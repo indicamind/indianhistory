@@ -632,5 +632,9 @@
   "Sanskrit text": "സംസ്കൃത പാഠം",
   "Text edition": "പാഠത്തിന്റെ പതിപ്പ്",
   "This edition includes Arjuna’s opening question in Chapter 13 (701 numbered verses).": "ഈ പതിപ്പിൽ അധ്യായം 13-ലെ അർജുനന്റെ ആദ്യ ചോദ്യം ഉൾപ്പെടുന്നു (നമ്പരിട്ട 701 ശ്ലോകങ്ങൾ).",
-  "Scripture": "ഗ്രന്ഥം"
+  "Scripture": "ഗ്രന്ഥം",
+  "Previous verse": "മുമ്പത്തെ ശ്ലോകം",
+  "Next verse": "അടുത്ത ശ്ലോകം",
+  "Verse {number} of {count}": "ആകെ {count} ശ്ലോകങ്ങളിൽ {number}ാമത്തേത്",
+  "Swipe left or right to change verse": "ശ്ലോകം മാറ്റാൻ ഇടത്തോട്ടോ വലത്തോട്ടോ സ്വൈപ്പ് ചെയ്യുക"
 }

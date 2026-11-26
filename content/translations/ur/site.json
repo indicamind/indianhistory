@@ -632,5 +632,9 @@
   "Sanskrit text": "سنسکرت متن",
   "Text edition": "متن کا ایڈیشن",
   "This edition includes Arjuna’s opening question in Chapter 13 (701 numbered verses).": "اس ایڈیشن میں باب ۱۳ میں ارجن کا ابتدائی سوال شامل ہے (۷۰۱ نمبر وار اشلوک)۔",
-  "Scripture": "متن"
+  "Scripture": "متن",
+  "Previous verse": "پچھلا شلوک",
+  "Next verse": "اگلا شلوک",
+  "Verse {number} of {count}": "کل {count} میں سے شلوک {number}",
+  "Swipe left or right to change verse": "شلوک بدلنے کے لیے بائیں یا دائیں سوائپ کریں"
 }

@@ -1,6 +1,6 @@
 import { Injector, runInInjectionContext, signal } from '@angular/core';
 import { ViewportScroller } from '@angular/common';
-import { Router } from '@angular/router';
+import { NavigationStart, Router } from '@angular/router';
 import { AppComponent } from './app.component';
 import { ArticleService } from './services/article.service';
 import { DevModeService } from './services/dev-mode.service';
@@ -61,6 +61,17 @@ describe('AppComponent', () => {
 
   it('should initialize with menu closed', () => {
     expect(component.menuOpen()).toBeFalsy();
+  });
+
+  it('uses smooth scrolling for verse navigation within the same chapter and resets it on other navigation',()=>{
+    const router=(component as any).router;
+    router.url='/te/scriptures/bhagavad-gita/1?dev=true';
+    (component as any).setSectionScrollBehavior(new NavigationStart(2,'/te/scriptures/bhagavad-gita/1?dev=true#verse-1-2'));
+    expect(document.documentElement.classList.contains('smooth-section-navigation')).toBeTruthy();
+    (component as any).setSectionScrollBehavior(new NavigationStart(3,'/te/scriptures/bhagavad-gita/2#verse-2-1'));
+    expect(document.documentElement.classList.contains('smooth-section-navigation')).toBeFalsy();
+    (component as any).setSectionScrollBehavior(new NavigationStart(4,'/te/scriptures/bhagavad-gita/1#verse-1-1','popstate'));
+    expect(document.documentElement.classList.contains('smooth-section-navigation')).toBeFalsy();
   });
 
   it('keeps scripture reading in the full-width reader without unrelated book placements', async () => {

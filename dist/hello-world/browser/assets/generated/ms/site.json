@@ -579,5 +579,9 @@
   "Sanskrit text": "Teks Sanskrit",
   "Text edition": "Edisi teks",
   "This edition includes Arjuna’s opening question in Chapter 13 (701 numbered verses).": "Edisi ini merangkumi soalan pembukaan Arjuna dalam Bab 13 (701 sloka bernombor).",
-  "Scripture": "Kitab"
+  "Scripture": "Kitab",
+  "Previous verse": "Rangkap sebelumnya",
+  "Next verse": "Rangkap seterusnya",
+  "Verse {number} of {count}": "Rangkap {number} daripada {count}",
+  "Swipe left or right to change verse": "Leret ke kiri atau kanan untuk menukar rangkap"
 }

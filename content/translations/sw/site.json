@@ -579,5 +579,9 @@
   "Sanskrit text": "Maandiko ya Kisanskriti",
   "Text edition": "Toleo la maandiko",
   "This edition includes Arjuna’s opening question in Chapter 13 (701 numbered verses).": "Toleo hili linajumuisha swali la mwanzo la Arjuna katika Sura ya 13 (beti 701 zilizohesabiwa).",
-  "Scripture": "Andiko"
+  "Scripture": "Andiko",
+  "Previous verse": "Ubeti uliotangulia",
+  "Next verse": "Ubeti unaofuata",
+  "Verse {number} of {count}": "Ubeti wa {number} kati ya {count}",
+  "Swipe left or right to change verse": "Telezesha kushoto au kulia ili kubadili ubeti"
 }

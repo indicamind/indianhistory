@@ -634,5 +634,9 @@
   "Sanskrit text": "संस्कृतपाठः",
   "Text edition": "पाठसंस्करणम्",
   "This edition includes Arjuna’s opening question in Chapter 13 (701 numbered verses).": "अस्मिन् संस्करणे त्रयोदशाध्यायस्य आदौ अर्जुनप्रश्नोऽपि विद्यते (७०१ क्रमाङ्किताः श्लोकाः)।",
-  "Scripture": "ग्रन्थः"
+  "Scripture": "ग्रन्थः",
+  "Previous verse": "पूर्वः श्लोकः",
+  "Next verse": "अग्रिमः श्लोकः",
+  "Verse {number} of {count}": "कुलश्लोकाः {count} · श्लोकः {number}",
+  "Swipe left or right to change verse": "श्लोकान्तरं गन्तुं वामतः दक्षिणतो वा अङ्गुल्या सारयतु"
 }

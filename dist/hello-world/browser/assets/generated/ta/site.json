@@ -632,5 +632,9 @@
   "Sanskrit text": "சமஸ்கிருத உரை",
   "Text edition": "உரைப் பதிப்பு",
   "This edition includes Arjuna’s opening question in Chapter 13 (701 numbered verses).": "இந்தப் பதிப்பில் அத்தியாயம் 13-இல் அர்ஜுனரின் தொடக்கக் கேள்வி சேர்க்கப்பட்டுள்ளது (எண்ணிடப்பட்ட 701 சுலோகங்கள்).",
-  "Scripture": "நூல்"
+  "Scripture": "நூல்",
+  "Previous verse": "முந்தைய சுலோகம்",
+  "Next verse": "அடுத்த சுலோகம்",
+  "Verse {number} of {count}": "{count} சுலோகங்களில் {number}வது",
+  "Swipe left or right to change verse": "சுலோகத்தை மாற்ற இடது அல்லது வலது பக்கம் ஸ்வைப் செய்யவும்"
 }

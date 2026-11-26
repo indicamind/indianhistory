@@ -632,5 +632,9 @@
   "Sanskrit text": "संस्कृत पाठ",
   "Text edition": "पाठको संस्करण",
   "This edition includes Arjuna’s opening question in Chapter 13 (701 numbered verses).": "यस संस्करणमा अध्याय १३ को सुरुमा अर्जुनको प्रश्न समावेश छ (७०१ क्रमाङ्कित श्लोक)।",
-  "Scripture": "ग्रन्थ"
+  "Scripture": "ग्रन्थ",
+  "Previous verse": "अघिल्लो श्लोक",
+  "Next verse": "अर्को श्लोक",
+  "Verse {number} of {count}": "जम्मा {count} मध्ये श्लोक {number}",
+  "Swipe left or right to change verse": "श्लोक बदल्न बायाँ वा दायाँ स्वाइप गर्नुहोस्"
 }

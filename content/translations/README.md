@@ -12,13 +12,13 @@ The user requested seven additional language editions on 2026-10-31. Completed e
 
 | Edition | Code | Required site strings translated | Articles translated | Blogs translated | Status |
 | --- | --- | ---: | ---: | ---: | --- |
-| Italian | `it` | 576 / 576 | 48 / 48 | 2 / 2 | Released |
-| Korean | `ko` | 576 / 576 | 48 / 48 | 2 / 2 | Released |
-| Vietnamese | `vi` | 576 / 576 | 48 / 48 | 2 / 2 | Released |
-| Turkish | `tr` | 576 / 576 | 48 / 48 | 2 / 2 | Released |
-| Malay | `ms` | 576 / 576 | 48 / 48 | 2 / 2 | Released |
-| Swahili | `sw` | 576 / 576 | 48 / 48 | 2 / 2 | Released |
-| Filipino | `fil` | 576 / 576 | 48 / 48 | 2 / 2 | Released |
+| Italian | `it` | 580 / 580 | 48 / 48 | 2 / 2 | Released |
+| Korean | `ko` | 580 / 580 | 48 / 48 | 2 / 2 | Released |
+| Vietnamese | `vi` | 580 / 580 | 48 / 48 | 2 / 2 | Released |
+| Turkish | `tr` | 580 / 580 | 48 / 48 | 2 / 2 | Released |
+| Malay | `ms` | 580 / 580 | 48 / 48 | 2 / 2 | Released |
+| Swahili | `sw` | 580 / 580 | 48 / 48 | 2 / 2 | Released |
+| Filipino | `fil` | 580 / 580 | 48 / 48 | 2 / 2 | Released |
 
 All seven requested editions have passed the full release gate with complete translations for interface strings, articles, blogs, image attributions, metadata, and search assets. Each translation includes the complete body, metadata, tags, image alt text and attribution, and a final Sources section with image credits. Original Prakrit, Greek, and Aramaic transliterations remain unchanged.
 
@@ -128,3 +128,5 @@ At the user’s request, only Chapter 1’s original English meanings and detail
 After explicit approval, the English manuscript moves into `content/articles` and full translations use the same filename under each language’s `articles` directory. These inline chapter manuscripts are excluded from ordinary article listings. Preserve `scriptureChapterFor`, `chapter` and `textSourceHash`, translate title, excerpt, tags and the complete body, and set `sourceHash` from the approved English title, excerpt and trimmed body. Keep the numbered verse headings and citations unchanged; translate the two third-level headings and all associated prose. Publication requires every verse’s meaning and explanation, matching source links and citations, matching Sanskrit-source metadata, and all 33 valid translations. The generator rejects identical English copies and withdraws public commentary assets when a required translation becomes stale.
 
 See [source and authoring notes](../scriptures/README.md) and [the Chapter 1 review](../drafts/gita-reader-review.md). No translation API or browser translation service was used.
+
+The Gita reading interface now uses flowing verse cards with previous/next arrows on their left and right edges, touch swipes, and a chapter/verse progress bar. Its four additional navigation strings are authored in all 33 translation editions (580 required site strings). Sanskrit, IAST and the unapproved English commentary remain unchanged.

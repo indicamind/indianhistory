@@ -579,5 +579,9 @@
   "Sanskrit text": "Sanskritçe metin",
   "Text edition": "Metnin baskısı",
   "This edition includes Arjuna’s opening question in Chapter 13 (701 numbered verses).": "Bu baskı, Arjuna’nın 13. bölümün başındaki sorusunu içerir (701 numaralı dize).",
-  "Scripture": "Metin"
+  "Scripture": "Metin",
+  "Previous verse": "Önceki dize",
+  "Next verse": "Sonraki dize",
+  "Verse {number} of {count}": "{count} dizeden {number}. dize",
+  "Swipe left or right to change verse": "Dize değiştirmek için sola veya sağa kaydırın"
 }

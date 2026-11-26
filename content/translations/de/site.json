@@ -640,5 +640,9 @@
   "Sanskrit text": "Sanskrittext",
   "Text edition": "Textausgabe",
   "This edition includes Arjuna’s opening question in Chapter 13 (701 numbered verses).": "Diese Ausgabe enthält Arjunas einleitende Frage in Kapitel 13 (701 nummerierte Verse).",
-  "Scripture": "Schrift"
+  "Scripture": "Schrift",
+  "Previous verse": "Vorheriger Vers",
+  "Next verse": "Nächster Vers",
+  "Verse {number} of {count}": "Vers {number} von {count}",
+  "Swipe left or right to change verse": "Nach links oder rechts wischen, um den Vers zu wechseln"
 }

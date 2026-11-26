@@ -632,5 +632,9 @@
   "Sanskrit text": "সংস্কৃত পাঠ",
   "Text edition": "পাঠের সংস্করণ",
   "This edition includes Arjuna’s opening question in Chapter 13 (701 numbered verses).": "এই সংস্করণে অধ্যায় ১৩-তে অর্জুনের প্রারম্ভিক প্রশ্নটি রয়েছে (৭০১টি ক্রমিক শ্লোক)।",
-  "Scripture": "গ্রন্থ"
+  "Scripture": "গ্রন্থ",
+  "Previous verse": "আগের শ্লোক",
+  "Next verse": "পরের শ্লোক",
+  "Verse {number} of {count}": "{count}টি শ্লোকের মধ্যে {number} নম্বর",
+  "Swipe left or right to change verse": "শ্লোক বদলাতে বাঁয়ে বা ডানে সোয়াইপ করুন"
 }

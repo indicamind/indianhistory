@@ -14,7 +14,7 @@ describe('Scripture verse navigation',()=>{
     const saved=new Map<string,string>();
     const positions:Record<string,number>={'verse-1-1':-400,'verse-1-2':200,'verse-1-3':800};
     const doc={documentElement:{dir:'ltr'},getSelection:()=>null,
-      querySelector:()=>({getBoundingClientRect:()=>({bottom:160})}),
+      querySelector:(selector:string)=>selector==='.reader-controls'?{getBoundingClientRect:()=>({bottom:160})}:null,
       getElementById:(id:string)=>id in positions?{focus:(options:any)=>focus.push([id,options]),scrollIntoView:(options:any)=>scrolls.push([id,options]),getBoundingClientRect:()=>({top:positions[id]})}:null,
       defaultView:{localStorage:{getItem:(key:string)=>saved.get(key)??null,setItem:(key:string,value:string)=>saved.set(key,value)},matchMedia:()=>({matches:reducedMotion}),requestAnimationFrame:(fn:()=>void)=>{frames.push(fn);return frames.length;},cancelAnimationFrame:()=>{}}
     };
@@ -75,5 +75,30 @@ describe('Scripture verse navigation',()=>{
     expect(frames.length).toBe(1);frames[0]();
     expect(component.activeVerse()).toBe(2);expect(navigations.length).toBe(0);
     expect(JSON.parse(saved.get('ih_scripture_progress:bhagavad-gita')!)).toEqual({chapter:1,verse:2});
+  });
+  it('uses left and right keys to move from the current reading position and save progress',()=>{
+    const{component,navigations,saved}=setup();let prevented=0;
+    const key=(key:string)=>({key,target:{closest:()=>null},preventDefault:()=>prevented++} as unknown as KeyboardEvent);
+    component.navigateByKeyboard(key('ArrowLeft'));
+    expect(navigations.length).toBe(0);
+    component.navigateByKeyboard(key('ArrowRight'));
+    expect(navigations[0].fragment).toBe('verse-1-2');
+    component.navigateByKeyboard(key('ArrowLeft'));
+    expect(navigations[1].fragment).toBe('verse-1-1');
+    expect(JSON.parse(saved.get('ih_scripture_progress:bhagavad-gita')!)).toEqual({chapter:1,verse:1});
+    component.activeVerse.set(3);component.navigateByKeyboard(key('ArrowRight'));
+    expect(navigations.length).toBe(2);expect(prevented).toBe(2);
+  });
+  it('leaves editing controls, shortcuts, key repeats and unrelated keys alone',()=>{
+    const{component,navigations,doc}=setup();
+    const key=(extra:any={})=>({key:'ArrowRight',target:{closest:()=>null},preventDefault:()=>{throw new Error('Must preserve native keyboard behavior');},...extra} as unknown as KeyboardEvent);
+    for(const modifier of ['altKey','ctrlKey','metaKey','shiftKey','isComposing','repeat','defaultPrevented'])component.navigateByKeyboard(key({[modifier]:true}));
+    component.navigateByKeyboard(key({key:'ArrowDown'}));
+    component.navigateByKeyboard(key({target:{closest:()=>({})}}));
+    component.navigateByKeyboard(key({target:{closest:(selector:string)=>selector.startsWith('a,button')?{}:null}}));
+    doc.querySelector=()=>({getBoundingClientRect:()=>({bottom:160})});
+    component.navigateByKeyboard(key());
+    component.loading.set(true);component.navigateByKeyboard(key());
+    expect(navigations.length).toBe(0);
   });
 });

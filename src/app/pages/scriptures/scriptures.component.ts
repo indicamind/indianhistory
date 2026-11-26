@@ -89,6 +89,20 @@ export class ScripturesComponent {
     if(this.fragment===anchor)this.scrollToFragment();
     else void this.router.navigate([],{relativeTo:this.route,fragment:anchor,queryParamsHandling:'preserve',replaceUrl:true});
   }
+  @HostListener('window:keydown', ['$event'])
+  navigateByKeyboard(event: KeyboardEvent): void {
+    if(this.loading() || !this.chapter() || event.defaultPrevented || event.isComposing || event.repeat
+      || event.altKey || event.ctrlKey || event.metaKey || event.shiftKey
+      || !['ArrowLeft','ArrowRight'].includes(event.key))return;
+    const target=event.target as HTMLElement|null;
+    if(target?.closest('input,textarea,select,[contenteditable]:not([contenteditable="false"]),[role="textbox"],[role="slider"],[role="combobox"]'))return;
+    if(target?.closest('a,button,summary,[role="button"]') && !target.closest('.verse'))return;
+    if(this.document.querySelector('dialog[open],[aria-modal="true"],[role="menu"]'))return;
+    const number=this.activeVerse()+(event.key==='ArrowRight'?1:-1);
+    if(!this.chapter()!.verses.some(verse=>verse.number===number))return;
+    event.preventDefault();
+    this.navigateVerse(number);
+  }
   startSwipe(event: PointerEvent,verse: number): void {
     this.swipe=null;
     if(!event.isPrimary || !['touch','pen'].includes(event.pointerType))return;

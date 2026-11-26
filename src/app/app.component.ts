@@ -75,12 +75,7 @@ export class AppComponent implements AfterViewInit {
       && currentPath === '/'
       && nextPath === '/'
       && this.homeSections.has(fragment);
-    const sameScriptureChapter = this.router.navigated
-      && event.navigationTrigger === 'imperative'
-      && currentPath === nextPath
-      && /^\/(?:[a-z]{2,3}\/)?scriptures\/[^/]+\/[1-9]\d*$/.test(nextPath)
-      && /^verse-\d+-\d+$/.test(fragment);
-    document.documentElement.classList.toggle('smooth-section-navigation', sameHomeSection || sameScriptureChapter);
+    document.documentElement.classList.toggle('smooth-section-navigation', sameHomeSection);
   }
 
   ngAfterViewInit(): void {

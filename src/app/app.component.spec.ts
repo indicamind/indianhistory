@@ -63,11 +63,14 @@ describe('AppComponent', () => {
     expect(component.menuOpen()).toBeFalsy();
   });
 
-  it('uses smooth scrolling for verse navigation within the same chapter and resets it on other navigation',()=>{
+  it('keeps scripture navigation instant, including after smooth home-section navigation',()=>{
     const router=(component as any).router;
+    router.url='/';
+    (component as any).setSectionScrollBehavior(new NavigationStart(1,'/#themes'));
+    expect(document.documentElement.classList.contains('smooth-section-navigation')).toBeTruthy();
     router.url='/te/scriptures/bhagavad-gita/1?dev=true';
     (component as any).setSectionScrollBehavior(new NavigationStart(2,'/te/scriptures/bhagavad-gita/1?dev=true#verse-1-2'));
-    expect(document.documentElement.classList.contains('smooth-section-navigation')).toBeTruthy();
+    expect(document.documentElement.classList.contains('smooth-section-navigation')).toBeFalsy();
     (component as any).setSectionScrollBehavior(new NavigationStart(3,'/te/scriptures/bhagavad-gita/2#verse-2-1'));
     expect(document.documentElement.classList.contains('smooth-section-navigation')).toBeFalsy();
     (component as any).setSectionScrollBehavior(new NavigationStart(4,'/te/scriptures/bhagavad-gita/1#verse-1-1','popstate'));

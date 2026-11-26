@@ -43,7 +43,7 @@ describe('Scripture verse navigation',()=>{
     expect(navigations[0].fragment).toBe('verse-1-2');
     expect(navigations[0].queryParamsHandling).toBe('preserve');
     expect(navigations[0].replaceUrl).toBeTruthy();
-    expect(scrolls[0]).toEqual(['verse-1-2',{behavior:'smooth',block:'start'}]);
+    expect(scrolls[0]).toEqual(['verse-1-2',{behavior:'instant',block:'start'}]);
     expect(focus[0]).toEqual(['verse-1-2',{preventScroll:true}]);
     expect(component.activeVerse()).toBe(2);
     expect(JSON.parse(saved.get('ih_scripture_progress:bhagavad-gita')!)).toEqual({chapter:1,verse:2});

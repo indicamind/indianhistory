@@ -40,7 +40,7 @@ export class ScripturesComponent {
   private fragment: string|null=null;
   private scrollFrame: number|null=null;
   private swipe: {id:number;x:number;y:number;time:number;verse:number}|null=null;
-  private smoothAnchor: string|null=null;
+  private focusAnchor: string|null=null;
   private initialLoad=true;
   private restoring=false;
   constructor() {
@@ -59,7 +59,7 @@ export class ScripturesComponent {
     const navigation=this.document.defaultView?.performance?.getEntriesByType('navigation')[0] as PerformanceNavigationTiming|undefined;
     const reloading=firstLoad && !this.router.navigated && navigation?.type==='reload';
     this.restoring=false;
-    this.loading.set(true);this.failed.set(false);this.notFound.set(false);this.chapter.set(null);this.book.set(null);this.activeVerse.set(1);this.swipe=null;this.smoothAnchor=null;this.setMatches(null);
+    this.loading.set(true);this.failed.set(false);this.notFound.set(false);this.chapter.set(null);this.book.set(null);this.activeVerse.set(1);this.swipe=null;this.focusAnchor=null;this.setMatches(null);
     try {
       const books=await this.service.getBooks();if(version!==this.generation)return;this.books.set(books);
       if(slug){const book=books.find(b=>b.slug===slug);if(!book){this.notFound.set(true);return;}this.book.set(book);
@@ -90,8 +90,8 @@ export class ScripturesComponent {
     this.setMatches(null);
     // The result's RouterLink owns navigation; keep focus and same-URL jumps working.
     if(hit.chapter===this.chapter()?.number){
-      this.smoothAnchor=this.anchor(hit.id);
-      if(this.fragment===this.smoothAnchor)this.scrollToFragment();
+      this.focusAnchor=this.anchor(hit.id);
+      if(this.fragment===this.focusAnchor)this.scrollToFragment();
     }
   }
   adjacentVerse(number: number,direction: number): number|undefined {
@@ -127,7 +127,7 @@ export class ScripturesComponent {
     const anchor=this.anchor(verse.id);
     this.activeVerse.set(number);
     this.rememberVerse(number);
-    this.smoothAnchor=anchor;
+    this.focusAnchor=anchor;
     if(this.fragment===anchor)this.scrollToFragment();
     else void this.router.navigate([],{relativeTo:this.route,fragment:anchor,queryParamsHandling:'preserve',replaceUrl:true});
   }
@@ -208,13 +208,13 @@ export class ScripturesComponent {
       this.activeVerse.set(verse.number);
       this.rememberVerse(verse.number);
       const card=this.document.getElementById(fragment);
-      if(card && restoring)card.scrollIntoView({behavior:'instant',block:'start'});
-      else if(card && this.smoothAnchor===fragment){
-        this.smoothAnchor=null;
-        card.focus({preventScroll:true});
-        card.scrollIntoView({behavior:this.document.defaultView?.matchMedia('(prefers-reduced-motion: reduce)').matches?'instant':'smooth',block:'start'});
-      }else if(card)card.scrollIntoView({block:'start'});
-      else this.viewport.scrollToAnchor(fragment);
+      if(card){
+        if(!restoring && this.focusAnchor===fragment){
+          this.focusAnchor=null;
+          card.focus({preventScroll:true});
+        }
+        card.scrollIntoView({behavior:'instant',block:'start'});
+      }else this.viewport.scrollToAnchor(fragment);
     },0);
   }
 }

@@ -105,7 +105,7 @@ for (const language of languages) {
   const blogs = await json(prefix + 'blogs.json');
   const profiles = await json(prefix + 'personality-profiles.json');
   const themes = await json(prefix + 'theme-stories.json');
-  for (const book of scriptureIndex) for (const chapter of book.commentaryChapters) {
+  for (const book of scriptureIndex) for (const chapter of (language==='en'?(book.englishCommentaryChapters??book.commentaryChapters):book.commentaryChapters)) {
     const file = prefix + `scripture-commentary/${book.slug}/${chapter}.json`;
     const commentary = await json(file);
     assert(!commentary.draft && !commentary.preview,'Unpublished scripture commentary');

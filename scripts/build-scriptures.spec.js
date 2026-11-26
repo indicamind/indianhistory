@@ -48,11 +48,26 @@ describe('Scripture text and commentary release',()=>{
  });
  it('publishes Sanskrit while keeping unapproved commentary in a separate review asset',()=>{
   const{output}=fixture();writeScriptures(root,output);const index=JSON.parse(fs.readFileSync(path.join(output,'scriptures.json')));
-  expect(index[0].commentaryChapters).toEqual([]);expect(JSON.parse(fs.readFileSync(path.join(output,'scripture-drafts/bhagavad-gita/1.json'))).draft).toBeTruthy();
+  expect(index[0].commentaryChapters).toEqual([]);expect(index[0].englishCommentaryChapters).toEqual([]);expect(JSON.parse(fs.readFileSync(path.join(output,'scripture-drafts/bhagavad-gita/1.json'))).draft).toBeTruthy();
   expect(fs.existsSync(path.join(output,'scripture-commentary'))).toBeFalsy();
  });
- it('requires approval and all 33 complete translations, then withdraws stale commentary in every language',()=>{
+ it('keeps unapproved revisions separate from the published English source',()=>{
+  const{source,chapter,output}=fixture();
+  write(path.join(root,'content/articles/chapter-one.md'),matter.stringify(source.content,source.data));
+  write(path.join(root,'content/drafts/articles/chapter-one.md'),matter.stringify(source.content.replace('A field of dharma.','Unapproved revision.'),source.data));
+  writeScriptures(root,output);
+  const released=JSON.parse(fs.readFileSync(path.join(output,'scripture-commentary/bhagavad-gita/1.json')));
+  const draft=JSON.parse(fs.readFileSync(path.join(output,'scripture-drafts/bhagavad-gita/1.json')));
+  expect(released).toEqual(compileCommentary(source,chapter));expect(released.draft).toBeUndefined();
+  expect(draft.draft).toBeTruthy();expect(draft.verses[0].meaningHtml).toContain('Unapproved revision');
+ });
+ it('publishes approved English independently, requires all 33 translations for localized release and withdraws stale localized commentary',()=>{
   const{source,output}=fixture();fs.mkdirSync(path.join(root,'content/articles'),{recursive:true});fs.renameSync(path.join(root,'content/drafts/articles/chapter-one.md'),path.join(root,'content/articles/chapter-one.md'));
+  writeScriptures(root,output);
+  const englishFile=path.join(output,'scripture-commentary/bhagavad-gita/1.json');
+  expect(JSON.parse(fs.readFileSync(path.join(output,'scriptures.json')))[0].englishCommentaryChapters).toEqual([1]);
+  expect(JSON.parse(fs.readFileSync(englishFile)).verses.length).toBe(1);
+  expect(JSON.parse(fs.readFileSync(path.join(output,'scripture-drafts.json')))).toEqual({});
   // Synthetic locale fixtures exercise the gate; they are not published translations.
   const local={data:{...source.data,title:'Un chapitre',excerpt:'Une explication',sourceHash:sourceHash(source)},content:source.content.replace('An introduction.','Une introduction.').replace('A field of dharma.','Un champ de dharma.')};
   for(const lang of LANGUAGES.slice(0,-1))write(path.join(root,'content/translations',lang,'articles/chapter-one.md'),matter.stringify(local.content,local.data));
@@ -60,6 +75,6 @@ describe('Scripture text and commentary release',()=>{
   const last=LANGUAGES[LANGUAGES.length-1];write(path.join(root,'content/translations',last,'articles/chapter-one.md'),matter.stringify(local.content,local.data));writeScriptures(root,output);
   expect(JSON.parse(fs.readFileSync(path.join(output,'scriptures.json')))[0].commentaryChapters).toEqual([1]);expect(fs.existsSync(path.join(output,'te/scripture-commentary/bhagavad-gita/1.json'))).toBeTruthy();
   write(path.join(root,'content/translations',last,'articles/chapter-one.md'),matter.stringify(local.content,{...local.data,sourceHash:'stale'}));writeScriptures(root,output);
-  expect(JSON.parse(fs.readFileSync(path.join(output,'scriptures.json')))[0].commentaryChapters).toEqual([]);expect(fs.existsSync(path.join(output,'scripture-commentary/bhagavad-gita/1.json'))).toBeFalsy();
+  expect(JSON.parse(fs.readFileSync(path.join(output,'scriptures.json')))[0].commentaryChapters).toEqual([]);expect(fs.existsSync(englishFile)).toBeTruthy();expect(fs.existsSync(path.join(output,'te/scripture-commentary/bhagavad-gita/1.json'))).toBeFalsy();
  });
 });

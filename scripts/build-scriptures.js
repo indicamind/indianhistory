@@ -79,7 +79,7 @@ function writeScriptures(root, output) {
   fs.rmSync(path.join(output,'scripture-drafts'),{recursive:true,force:true});
   for (const language of ['en',...LANGUAGES]) fs.rmSync(path.join(output,language==='en'?'':language,'scripture-commentary'),{recursive:true,force:true});
   const index = books.map(book => {
-    const commentaryChapters = [];
+    const commentaryChapters = [], englishCommentaryChapters = [];
     for (const chapter of book.chapters) {
       writeJson(path.join(base,book.slug,`${chapter.number}.json`),chapter);
       const sources = approved.filter(s => s.data.scriptureChapterFor===book.slug && s.data.chapter===chapter.number);
@@ -88,14 +88,16 @@ function writeScriptures(root, output) {
       let preview;
       if (source) {
         const english = compileCommentary(source,chapter);
+        englishCommentaryChapters.push(chapter.number);
+        writeJson(path.join(output,'scripture-commentary',book.slug,`${chapter.number}.json`),english);
         const translations = LANGUAGES.map(language => {
           const file = path.join(root,'content/translations',language,'articles',source.file);
           return fs.existsSync(file) ? matter.read(file) : undefined;
         });
         if (translations.every(local => !translationProblems(source,local,chapter).length)) {
           commentaryChapters.push(chapter.number);
-          for(const [i,language] of ['en',...LANGUAGES].entries()) writeJson(path.join(output,language==='en'?'':language,'scripture-commentary',book.slug,`${chapter.number}.json`),i===0?english:compileCommentary(translations[i-1],chapter));
-        } else preview={...english,preview:true};
+          for(const [i,language] of LANGUAGES.entries()) writeJson(path.join(output,language,'scripture-commentary',book.slug,`${chapter.number}.json`),compileCommentary(translations[i],chapter));
+        }
       }
       const draft = drafts.filter(s => s.data.scriptureChapterFor===book.slug && s.data.chapter===chapter.number);
       assert(draft.length<=1,'Duplicate scripture chapter draft');
@@ -106,7 +108,7 @@ function writeScriptures(root, output) {
         writeJson(path.join(output,'scripture-drafts',book.slug,`${chapter.number}.json`),preview);
       }
     }
-    return {slug:book.slug,originalTitle:book.originalTitle,editionNote:book.editionNote,sources:book.sources,commentaryChapters,
+    return {slug:book.slug,originalTitle:book.originalTitle,editionNote:book.editionNote,sources:book.sources,commentaryChapters,englishCommentaryChapters,
       verseCount:book.chapters.reduce((n,c)=>n+c.verses.length,0),chapters:book.chapters.map(({verses,...c})=>({...c,verseCount:verses.length}))};
   });
   for(const source of [...approved,...drafts]) assert(books.some(b=>b.slug===source.data.scriptureChapterFor&&b.chapters.some(c=>c.number===source.data.chapter)),'Commentary points to an unknown scripture chapter');

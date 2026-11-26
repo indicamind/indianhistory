@@ -9,7 +9,7 @@ export interface ScriptureVerse { id: string; number: number; sanskrit: string; 
 export interface ScriptureChapterSummary { book: string; number: number; title: string; transliteration: string; verseCount: number; }
 export interface ScriptureBook {
   slug: string; name: string; shortDescription: string; originalTitle: string;
-  editionNote: string; verseCount: number; chapters: ScriptureChapterSummary[]; commentaryChapters: number[];
+  editionNote: string; verseCount: number; chapters: ScriptureChapterSummary[]; commentaryChapters: number[]; englishCommentaryChapters?: number[];
   sources: {label: string; author: string; url: string; license: string; licenseUrl: string}[];
 }
 export interface ScriptureCommentary {
@@ -48,7 +48,8 @@ export class ScripturesService {
     }
     const chapter=await request;
     let commentary: ScriptureCommentary | undefined;
-    if (book.commentaryChapters.includes(number)) {
+    const available=this.locale.language==='en'?(book.englishCommentaryChapters??book.commentaryChapters):book.commentaryChapters;
+    if (available.includes(number)) {
       const prefix=this.locale.language==='en'?'':this.locale.language+'/';
       commentary=await firstValueFrom(this.http.get<ScriptureCommentary>(this.locale.generatedAssetsBase+prefix+'scripture-commentary/'+key+'.json'));
     }

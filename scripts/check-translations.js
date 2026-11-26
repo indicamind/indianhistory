@@ -204,7 +204,7 @@ if (require.main === module) {
       const translated = fs.existsSync(file) ? matter.read(file) : undefined;
       return scriptures.translationProblems(source,translated,chapter).map(p=>`scripture/${source.file}: ${p}`);
     });
-    if (scriptureProblems.some(p=>p.endsWith(': missing'))) console.log(`${language}: scripture commentary translations pending; commentary remains unpublished`);
+    if (scriptureProblems.some(p=>p.endsWith(': missing'))) console.log(`${language}: scripture commentary translations pending; localized commentary remains unpublished`);
     const contentProblems = [...checkContent('articles', language), ...checkContent('blogs', language),
       ...scriptureProblems.filter(p=>!p.endsWith(': missing')),
       ...(requirePersonalityStories ? personalityProblems : personalityProblems.filter(problem => !problem.endsWith(': missing')))];

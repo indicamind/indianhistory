@@ -10,7 +10,7 @@ import {DevModeService} from '../../services/dev-mode.service';
 
 describe('Scripture verse navigation',()=>{
   function setup(reducedMotion=false){
-    const fragment=new Subject<string|null>(),navigations:any[]=[],scrolls:any[]=[],focus:any[]=[],frames:(()=>void)[]=[];
+    const fragment=new Subject<string|null>(),navigations:any[]=[],destinations:any[]=[],scrolls:any[]=[],focus:any[]=[],frames:(()=>void)[]=[];
     const saved=new Map<string,string>();
     const positions:Record<string,number>={'verse-1-1':-400,'verse-1-2':200,'verse-1-3':800};
     const doc={documentElement:{dir:'ltr'},getSelection:()=>null,
@@ -26,13 +26,13 @@ describe('Scripture verse navigation',()=>{
       {provide:ScripturesService,useValue:{}},
       ScriptureProgressService,
       {provide:ActivatedRoute,useValue:{paramMap:EMPTY,fragment}},
-      {provide:Router,useValue:{events:EMPTY,navigate:(commands:any,options:any)=>{navigations.push(options);fragment.next(options.fragment);return Promise.resolve(true);}}}
+      {provide:Router,useValue:{events:EMPTY,navigate:(commands:any,options:any)=>{destinations.push(commands);navigations.push(options);fragment.next(options.fragment);return Promise.resolve(true);}}}
     ]});
     const component=runInInjectionContext(injector,()=>new ScripturesComponent());
     component.loading.set(false);
     component.chapter.set({book:'bhagavad-gita',number:1,title:'अध्याय',transliteration:'adhyāya',verses:[1,2,3].map(number=>({id:`1.${number}`,number,sanskrit:'धर्म',transliteration:'dharma'}))});
     const pointer=(x:number,y:number,timeStamp:number,extra:any={})=>({isPrimary:true,pointerType:'touch',pointerId:1,clientX:x,clientY:y,timeStamp,target:{closest:()=>null},...extra} as unknown as PointerEvent);
-    return{component,navigations,scrolls,focus,frames,positions,pointer,doc,saved};
+    return{component,navigations,destinations,scrolls,focus,frames,positions,pointer,doc,saved};
   }
   it('moves within the chapter, preserves URL parameters, and never navigates past either boundary',async()=>{
     const{component,navigations,scrolls,focus,saved}=setup();
@@ -114,5 +114,26 @@ describe('Scripture verse navigation',()=>{
     Object.assign(doc.defaultView,{scrollY:1000,innerHeight:800});Object.assign(doc.documentElement,{scrollHeight:1800});
     positions['verse-1-3']=500;component.trackReading();frames[0]();
     expect(component.activeVerse()).toBe(3);
+  });
+  it('continues through chapter boundaries and wraps the book in both directions',()=>{
+    const{component,navigations,destinations}=setup();
+    component.book.set({slug:'bhagavad-gita',chapters:[{number:1,verseCount:3},{number:2,verseCount:5},{number:3,verseCount:2}]} as any);
+    component.navigateAdjacent(3,1);
+    expect(destinations[0]).toEqual(['/scriptures','bhagavad-gita',2]);expect(navigations[0].fragment).toBe('verse-2-1');
+    component.navigateAdjacent(1,-1);
+    expect(destinations[1]).toEqual(['/scriptures','bhagavad-gita',3]);expect(navigations[1].fragment).toBe('verse-3-2');
+    component.chapter.set({...component.chapter()!,number:3,verses:component.chapter()!.verses.slice(0,2).map(verse=>({...verse,id:`3.${verse.number}`}))});
+    component.navigateAdjacent(2,1);
+    expect(destinations[2]).toEqual(['/scriptures','bhagavad-gita',1]);expect(navigations[2].fragment).toBe('verse-1-1');
+    expect(component.adjacentChapter(1)).toBe(1);expect(component.adjacentChapter(-1)).toBe(2);
+    expect(navigations.every(options=>options.queryParamsHandling==='preserve')).toBeTruthy();
+  });
+  it('loops filtered matches within their chapter without discarding the search',()=>{
+    const{component,navigations}=setup();
+    component.book.set({slug:'bhagavad-gita',chapters:[{number:1,verseCount:3},{number:2,verseCount:5}]} as any);
+    component.setMatches({query:'arjuna',hits:[{chapter:1,id:'1.1'},{chapter:1,id:'1.3'}] as any});
+    component.navigateAdjacent(3,1);expect(navigations[0].fragment).toBe('verse-1-1');
+    component.navigateAdjacent(1,-1);expect(navigations[1].fragment).toBe('verse-1-3');
+    expect(component.searchQuery()).toBe('arjuna');
   });
 });

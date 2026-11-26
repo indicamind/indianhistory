@@ -98,8 +98,28 @@ export class ScripturesComponent {
     const verses=this.visibleVerses(),index=verses.findIndex(verse=>verse.number===number);
     return verses[index+direction]?.number;
   }
+  adjacentChapter(direction: number): number|undefined {
+    const chapters=this.book()?.chapters??[],index=chapters.findIndex(chapter=>chapter.number===this.chapter()?.number);
+    return index<0?undefined:chapters[(index+direction+chapters.length)%chapters.length]?.number;
+  }
+  adjacentDestination(number: number,direction: number): {chapter:number;verse:number}|undefined {
+    const chapter=this.chapter();if(!chapter)return undefined;
+    const next=this.adjacentVerse(number,direction);
+    if(next!==undefined)return {chapter:chapter.number,verse:next};
+    const verses=this.visibleVerses();
+    if(this.verseFilter()){
+      if(verses.length<2)return undefined;
+      return {chapter:chapter.number,verse:(direction>0?verses[0]:verses.at(-1)!).number};
+    }
+    const nextChapter=this.book()?.chapters.find(item=>item.number===this.adjacentChapter(direction));
+    return nextChapter?{chapter:nextChapter.number,verse:direction>0?1:nextChapter.verseCount}:undefined;
+  }
   navigateAdjacent(number: number,direction: number): void {
-    const next=this.adjacentVerse(number,direction);if(next!==undefined)this.navigateVerse(next);
+    const next=this.adjacentDestination(number,direction);if(!next)return;
+    if(next.chapter===this.chapter()?.number)this.navigateVerse(next.verse);
+    else if(this.book())void this.router.navigate(['/scriptures',this.book()!.slug,next.chapter],{
+      fragment:this.anchor(`${next.chapter}.${next.verse}`),queryParamsHandling:'preserve',replaceUrl:true,
+    });
   }
   navigateVerse(number: number): void {
     const verse=this.chapter()?.verses.find(v=>v.number===number);
@@ -120,10 +140,10 @@ export class ScripturesComponent {
     if(target?.closest('input,textarea,select,[contenteditable]:not([contenteditable="false"]),[role="textbox"],[role="slider"],[role="combobox"]'))return;
     if(target?.closest('a,button,summary,[role="button"]') && !target.closest('.verse'))return;
     if(this.document.querySelector('dialog[open],[aria-modal="true"],[role="menu"]'))return;
-    const number=this.adjacentVerse(this.activeVerse(),event.key==='ArrowRight'?1:-1);
-    if(number===undefined)return;
+    const direction=event.key==='ArrowRight'?1:-1;
+    if(!this.adjacentDestination(this.activeVerse(),direction))return;
     event.preventDefault();
-    this.navigateVerse(number);
+    this.navigateAdjacent(this.activeVerse(),direction);
   }
   startSwipe(event: PointerEvent,verse: number): void {
     this.swipe=null;

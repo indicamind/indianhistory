@@ -6,7 +6,7 @@ import { LocaleService } from '../i18n/locale.service';
 import { DevModeService } from './dev-mode.service';
 
 export interface ScriptureVerse { id: string; number: number; sanskrit: string; transliteration: string; }
-export interface ScriptureChapterSummary { book: string; number: number; title: string; transliteration: string; verseCount: number; }
+export interface ScriptureChapterSummary { book: string; number: number; title: string; displayTitle?: string; displayTitleLanguage?: 'en'|'sa'; transliteration: string; verseCount: number; }
 export interface ScriptureBook {
   slug: string; name: string; shortDescription: string; originalTitle: string;
   editionNote: string; verseCount: number; chapters: ScriptureChapterSummary[]; commentaryChapters: number[]; englishCommentaryChapters?: number[];
@@ -33,12 +33,16 @@ export class ScripturesService {
     this.index ??= firstValueFrom(this.http.get<ScriptureBook[]>(this.locale.generatedAssetsBase+'scriptures.json'))
       .then(books => books.flatMap(book => {
         const metadata = scriptureBooks.find(item => item.slug===book.slug);
-        return metadata ? [{...book,name:this.locale.translate(metadata.name),shortDescription:this.locale.translate(metadata.shortDescription),editionNote:this.locale.translate(book.editionNote)}] : [];
+        return metadata ? [{...book,name:this.locale.translate(metadata.name),shortDescription:this.locale.translate(metadata.shortDescription),editionNote:this.locale.translate(book.editionNote),chapters:book.chapters.map(chapter=>{
+          const english=this.locale.language==='en' ? metadata.englishChapterTitles[chapter.number-1] : undefined;
+          return {...chapter,displayTitle:english||chapter.title,displayTitleLanguage:english?'en' as const:'sa' as const};
+        })}] : [];
       })).catch(error => {this.index=undefined;throw error;});
     return this.index;
   }
   async getChapter(book: ScriptureBook, number: number): Promise<ScriptureChapter | undefined> {
-    if (!book.chapters.some(c=>c.number===number)) return undefined;
+    const summary=book.chapters.find(c=>c.number===number);
+    if (!summary) return undefined;
     const key=book.slug+'/'+number;
     let request=this.chapters.get(key);
     if (!request) {
@@ -57,6 +61,6 @@ export class ScripturesService {
       this.drafts ??= firstValueFrom(this.http.get<Record<string,number[]>>(this.locale.generatedAssetsBase+'scripture-drafts.json')).catch(error=>{this.drafts=undefined;throw error;});
       if ((await this.drafts)[book.slug]?.includes(number)) commentary=await firstValueFrom(this.http.get<ScriptureCommentary>(this.locale.generatedAssetsBase+'scripture-drafts/'+key+'.json'));
     }
-    return {...chapter,commentary};
+    return {...chapter,displayTitle:summary.displayTitle,displayTitleLanguage:summary.displayTitleLanguage,commentary};
   }
 }

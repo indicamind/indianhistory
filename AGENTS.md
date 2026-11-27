@@ -10,6 +10,10 @@ Keep English drafts awaiting approval under `content/drafts/articles/` or `conte
 
 Blog drafts are generated separately by `npm run build-content` and can be reviewed at `/blogs/<slug>?dev=true&lang=en`. A draft with the same slug as a published blog replaces it in English dev mode for review. Published and translated blog assets remain independent of drafts.
 
+# Editorial tone and fidelity
+
+Write articles, blog posts, and other reader-facing content in a direct, non-apologetic tone. Convey what the source text or author says and intends, without softening, sanitizing, excusing, or reframing it to accommodate modern sensibilities. Preserve the historical and textual context, factual qualifiers, and distinctions between the source's claims and the site's analysis. Apply the same fidelity and tone in every translation.
+
 # Article and blog links
 
 Keep readers on the website while they read an article or blog post. Do not put external links in the narrative, headings, images, or image captions. Collect external references in a clearly labelled Sources section at the end of the article or post. Use plain numbered citation markers in the narrative when needed to connect claims to those sources. Internal website links may remain in the body.

@@ -1,6 +1,6 @@
 import { Component, DestroyRef, HostListener, computed, inject, signal, viewChild } from '@angular/core';
 import { DOCUMENT, ViewportScroller } from '@angular/common';
-import { ActivatedRoute, Router, RouterLink, Scroll } from '@angular/router';
+import { ActivatedRoute, NavigationStart, Router, RouterLink, Scroll } from '@angular/router';
 import { takeUntilDestroyed } from '@angular/core/rxjs-interop';
 import { LocaleService } from '../../i18n/locale.service';
 import { DevModeService } from '../../services/dev-mode.service';
@@ -46,10 +46,14 @@ export class ScripturesComponent {
   private focusAnchor: string|null=null;
   private initialLoad=true;
   private restoring=false;
+  private restoringHistory=false;
   constructor() {
     this.route.paramMap.pipe(takeUntilDestroyed(this.destroy)).subscribe(params=>void this.load(params.get('slug'),params.get('chapter')));
     this.route.fragment.pipe(takeUntilDestroyed(this.destroy)).subscribe(fragment=>{this.fragment=fragment;this.scrollToFragment();});
-    this.router.events.pipe(takeUntilDestroyed(this.destroy)).subscribe(event=>{if(event instanceof Scroll && event.anchor===this.fragment)this.scrollToFragment();});
+    this.router.events.pipe(takeUntilDestroyed(this.destroy)).subscribe(event=>{
+      if(event instanceof NavigationStart)this.restoringHistory=event.navigationTrigger!=='imperative';
+      else if(event instanceof Scroll && event.anchor===this.fragment)this.scrollToFragment();
+    });
     this.destroy.onDestroy(()=>{
       this.generation++;
       if(this.scrollFrame!==null)this.document.defaultView?.cancelAnimationFrame(this.scrollFrame);
@@ -83,7 +87,7 @@ export class ScripturesComponent {
     } catch {if(version===this.generation)this.failed.set(true);}
     finally {if(version===this.generation){this.loading.set(false);this.scrollToFragment();}}
   }
-  selectChapter(value: string): void { if(this.book())void this.router.navigate(['/scriptures',this.book()!.slug,value],{queryParams:{lang:this.locale.language},queryParamsHandling:'merge'}); }
+  selectChapter(value: string): void { if(this.book())void this.router.navigate(['/scriptures',this.book()!.slug,value],{fragment:'reading-controls',queryParams:{lang:this.locale.language},queryParamsHandling:'merge'}); }
   setMatches(result: {query:string;hits:ScriptureVerseHit[]}|null): void {
     this.searchQuery.set(result?.query??'');
     this.verseFilter.set(result?new Set(result.hits.filter(hit=>hit.chapter===this.chapter()?.number).map(hit=>hit.id)):null);
@@ -200,10 +204,14 @@ export class ScripturesComponent {
     this.lastSaved=key;
   }
   private scrollToFragment(): void {
-    if(this.loading()||!this.fragment||!/^verse-\d+-\d+$/.test(this.fragment))return;
+    if(this.loading()||!this.fragment||(!/^verse-\d+-\d+$/.test(this.fragment)&&this.fragment!=='reading-controls'))return;
     const fragment=this.fragment,version=this.generation;
     setTimeout(()=>{
       if(version!==this.generation || fragment!==this.fragment)return;
+      if(fragment==='reading-controls'){
+        if(this.chapter()&&!this.restoringHistory)this.viewport.scrollToAnchor(fragment);
+        return;
+      }
       const verse=this.chapter()?.verses.find(v=>this.anchor(v.id)===fragment);
       if(!verse)return;
       const restoring=this.restoring;

@@ -1,7 +1,7 @@
 import {DestroyRef,Injector,runInInjectionContext,signal} from '@angular/core';
 import {DOCUMENT,ViewportScroller} from '@angular/common';
-import {ActivatedRoute,Router} from '@angular/router';
-import {EMPTY,Subject} from 'rxjs';
+import {ActivatedRoute,NavigationStart,Router,convertToParamMap} from '@angular/router';
+import {Subject} from 'rxjs';
 import {ScripturesComponent} from './scriptures.component';
 import {ScripturesService} from '../../services/scriptures.service';
 import {ScriptureProgressService} from '../../services/scripture-progress.service';
@@ -11,6 +11,7 @@ import {DevModeService} from '../../services/dev-mode.service';
 describe('Scripture verse navigation',()=>{
   function setup(reducedMotion=false){
     const fragment=new Subject<string|null>(),navigations:any[]=[],destinations:any[]=[],scrolls:any[]=[],focus:any[]=[],frames:(()=>void)[]=[];
+    const params=new Subject<any>(),events=new Subject<any>(),anchors:string[]=[],dataService:any={};
     const saved=new Map<string,string>();
     const positions:Record<string,number>={'verse-1-1':-400,'verse-1-2':200,'verse-1-3':800};
     const doc={documentElement:{dir:'ltr'},getSelection:()=>null,
@@ -20,20 +21,57 @@ describe('Scripture verse navigation',()=>{
     };
     const injector=Injector.create({providers:[
       {provide:DOCUMENT,useValue:doc},{provide:DestroyRef,useValue:{onDestroy:()=>()=>{}}},
-      {provide:ViewportScroller,useValue:{scrollToAnchor:()=>{}}},
+      {provide:ViewportScroller,useValue:{scrollToAnchor:(id:string)=>anchors.push(id)}},
       {provide:LocaleService,useValue:{language:'en',offline:false}},
       {provide:DevModeService,useValue:{isDevMode:signal(false)}},
-      {provide:ScripturesService,useValue:{}},
+      {provide:ScripturesService,useValue:dataService},
       ScriptureProgressService,
-      {provide:ActivatedRoute,useValue:{paramMap:EMPTY,fragment}},
-      {provide:Router,useValue:{events:EMPTY,navigate:(commands:any,options:any)=>{destinations.push(commands);navigations.push(options);fragment.next(options.fragment);return Promise.resolve(true);}}}
+      {provide:ActivatedRoute,useValue:{paramMap:params,fragment}},
+      {provide:Router,useValue:{events,navigate:(commands:any,options:any)=>{destinations.push(commands);navigations.push(options);fragment.next(options.fragment);return Promise.resolve(true);}}}
     ]});
     const component=runInInjectionContext(injector,()=>new ScripturesComponent());
     component.loading.set(false);
     component.chapter.set({book:'bhagavad-gita',number:1,title:'अध्याय',transliteration:'adhyāya',verses:[1,2,3].map(number=>({id:`1.${number}`,number,sanskrit:'धर्म',transliteration:'dharma'}))});
     const pointer=(x:number,y:number,timeStamp:number,extra:any={})=>({isPrimary:true,pointerType:'touch',pointerId:1,clientX:x,clientY:y,timeStamp,target:{closest:()=>null},...extra} as unknown as PointerEvent);
-    return{component,navigations,destinations,scrolls,focus,frames,positions,pointer,doc,saved};
+    return{component,navigations,destinations,scrolls,focus,frames,positions,pointer,doc,saved,params,events,fragment,anchors,dataService};
   }
+  it('opens a selected chapter at the controls while preserving language and query parameters',()=>{
+    const{component,navigations,destinations}=setup();
+    component.book.set({slug:'bhagavad-gita'} as any);
+    component.selectChapter('5');
+    expect(destinations[0]).toEqual(['/scriptures','bhagavad-gita','5']);
+    expect(navigations[0].fragment).toBe('reading-controls');
+    expect(navigations[0].queryParams).toEqual({lang:'en'});
+    expect(navigations[0].queryParamsHandling).toBe('merge');
+  });
+  it('waits for the selected chapter to load before scrolling to its controls',async()=>{
+    const{component,params,fragment,anchors,dataService}=setup();
+    const chapter={...component.chapter()!,number:2,verses:component.chapter()!.verses.map(verse=>({...verse,id:`2.${verse.number}`}))};
+    const book={slug:'bhagavad-gita',chapters:[{number:1,verseCount:3},{number:2,verseCount:3}]} as any;
+    let finish!:(chapter:any)=>void;
+    dataService.getBooks=async()=>[book];
+    dataService.getChapter=()=>new Promise(resolve=>{finish=resolve;});
+    params.next(convertToParamMap({slug:'bhagavad-gita',chapter:'2'}));
+    fragment.next('reading-controls');
+    await new Promise(resolve=>setTimeout(resolve,5));
+    expect(component.loading()).toBeTruthy();expect(anchors).toEqual([]);
+    finish(chapter);
+    await new Promise(resolve=>setTimeout(resolve,5));
+    expect(component.chapter()?.number).toBe(2);
+    expect(component.loading()).toBeFalsy();
+    expect(anchors).toEqual(['reading-controls']);
+  });
+  it('leaves browser history scroll restoration in charge when returning to a controls link',async()=>{
+    const{events,fragment,anchors}=setup();
+    events.next(new NavigationStart(1,'/scriptures/bhagavad-gita/1#reading-controls','popstate'));
+    fragment.next('reading-controls');
+    await new Promise(resolve=>setTimeout(resolve,5));
+    expect(anchors).toEqual([]);
+    events.next(new NavigationStart(2,'/scriptures/bhagavad-gita/2#reading-controls'));
+    fragment.next('reading-controls');
+    await new Promise(resolve=>setTimeout(resolve,5));
+    expect(anchors).toEqual(['reading-controls']);
+  });
   it('moves within the chapter, preserves URL parameters, and never navigates past either boundary',async()=>{
     const{component,navigations,scrolls,focus,saved}=setup();
     component.navigateVerse(0);component.navigateVerse(4);component.navigateVerse(NaN);

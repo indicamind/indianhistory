@@ -15,6 +15,7 @@ const SOURCE_FILES = ['src/app/data/periods.ts', 'src/app/data/scriptures.ts'];
 const VISIBLE_FIELDS = new Set(['name', 'range', 'shortDescription', 'description', 'date', 'title', 'summary']);
 const DYNAMIC_COPY = [
   'Scriptures', 'Indian Scriptures', 'Read the texts', 'Scripture',
+  'Krishna teaching Arjuna on their chariot at Kurukshetra.', 'AI-generated illustration · OpenAI',
   'Scriptures, philosophy and other Indian classics, read on this website.',
   'Sanskrit', '{count} chapters', 'Start reading', 'Chapters', 'Chapter {number}', '{count} verses',
   'Read each verse in Devanagari and Roman transliteration, with meaning and explanation as they become available.',

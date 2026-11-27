@@ -9,8 +9,11 @@ import { ScriptureProgressService } from '../../services/scripture-progress.serv
 import { ScriptureControlsComponent } from '../../components/scripture-controls/scripture-controls.component';
 import { ScriptureSearchComponent } from '../../components/scripture-search/scripture-search.component';
 import { ScriptureVerseHit } from '../../services/scripture-search.service';
-@Component({selector:'app-scriptures',imports:[RouterLink,ScriptureControlsComponent,ScriptureSearchComponent],templateUrl:'./scriptures.component.html',styleUrl:'./scriptures.component.css'})
+import { AssociatedBooksComponent } from '../../components/associated-books/associated-books.component';
+import { gitaBooks } from '../../data/scripture-books';
+@Component({selector:'app-scriptures',imports:[RouterLink,ScriptureControlsComponent,ScriptureSearchComponent,AssociatedBooksComponent],templateUrl:'./scriptures.component.html',styleUrl:'./scriptures.component.css'})
 export class ScripturesComponent {
+  readonly gitaBooks=gitaBooks;
   readonly locale=inject(LocaleService);
   readonly devMode=inject(DevModeService);
   private readonly service=inject(ScripturesService);

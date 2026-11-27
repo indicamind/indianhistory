@@ -36,14 +36,17 @@ describe('Scripture verse navigation',()=>{
     const pointer=(x:number,y:number,timeStamp:number,extra:any={})=>({isPrimary:true,pointerType:'touch',pointerId:1,clientX:x,clientY:y,timeStamp,target:{closest:()=>null},...extra} as unknown as PointerEvent);
     return{component,navigations,destinations,scrolls,focus,frames,positions,pointer,doc,saved,params,events,fragment,anchors,dataService};
   }
-  it('opens a selected chapter at the controls while preserving language and query parameters',()=>{
+  it('opens chapter 1 from the top and remaining chapters at the controls while preserving language and query parameters',()=>{
     const{component,navigations,destinations}=setup();
     component.book.set({slug:'bhagavad-gita'} as any);
+    component.selectChapter('1');
+    expect(destinations[0]).toEqual(['/scriptures','bhagavad-gita','1']);
+    expect(navigations[0].fragment).toBeUndefined();
     component.selectChapter('5');
-    expect(destinations[0]).toEqual(['/scriptures','bhagavad-gita','5']);
-    expect(navigations[0].fragment).toBe('reading-controls');
-    expect(navigations[0].queryParams).toEqual({lang:'en'});
-    expect(navigations[0].queryParamsHandling).toBe('merge');
+    expect(destinations[1]).toEqual(['/scriptures','bhagavad-gita','5']);
+    expect(navigations[1].fragment).toBe('reading-controls');
+    expect(navigations[1].queryParams).toEqual({lang:'en'});
+    expect(navigations[1].queryParamsHandling).toBe('merge');
   });
   it('waits for the selected chapter to load before scrolling to its controls',async()=>{
     const{component,params,fragment,anchors,dataService}=setup();

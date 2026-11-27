@@ -89,7 +89,8 @@ export class ScripturesComponent {
     } catch {if(version===this.generation)this.failed.set(true);}
     finally {if(version===this.generation){this.loading.set(false);this.scrollToFragment();}}
   }
-  selectChapter(value: string): void { if(this.book())void this.router.navigate(['/scriptures',this.book()!.slug,value],{fragment:'reading-controls',queryParams:{lang:this.locale.language},queryParamsHandling:'merge'}); }
+  chapterFragment(number: number|undefined): string|undefined { return number===1?undefined:'reading-controls'; }
+  selectChapter(value: string): void { if(this.book())void this.router.navigate(['/scriptures',this.book()!.slug,value],{fragment:this.chapterFragment(Number(value)),queryParams:{lang:this.locale.language},queryParamsHandling:'merge'}); }
   setMatches(result: {query:string;hits:ScriptureVerseHit[]}|null): void {
     this.searchQuery.set(result?.query??'');
     this.verseFilter.set(result?new Set(result.hits.filter(hit=>hit.chapter===this.chapter()?.number).map(hit=>hit.id)):null);

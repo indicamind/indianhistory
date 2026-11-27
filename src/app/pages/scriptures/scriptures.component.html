@@ -39,7 +39,7 @@
       <aside class="chapter-sidebar"><h2>{{ locale.translate('Chapters') }}</h2><nav [attr.aria-label]="locale.translate('Chapter navigation')">@for (item of book()!.chapters; track item.number) {<a [routerLink]="['/scriptures',book()!.slug,item.number]" fragment="reading-controls" [queryParams]="{lang:locale.language}" queryParamsHandling="merge" [attr.aria-current]="item.number===chapter()!.number?'page':null" [attr.aria-label]="locale.format('Chapter {number}',{number:item.number})" [title]="locale.language==='en' ? (item.displayTitle || item.title) : item.transliteration">{{ item.number }}</a>}</nav><p class="sidebar-title notranslate" [attr.lang]="chapter()!.displayTitleLanguage || 'sa'" dir="ltr" translate="no">{{ chapter()!.displayTitle || chapter()!.title }}</p></aside>
       <div class="reader-content">
         @if (book()!.slug === 'bhagavad-gita') {
-          <app-associated-books class="scripture-recommendation chapter-book-recommendation" [books]="gitaBooks" headingId="gita-chapter-book-title" />
+          <app-associated-books class="scripture-recommendation chapter-book-recommendation" [books]="chapterBooks()" headingId="gita-chapter-book-title" />
         }
         <header class="chapter-heading"><p class="eyebrow">{{ locale.format('Chapter {number}',{number:chapter()!.number}) }}</p><h2 class="notranslate" [attr.lang]="chapter()!.displayTitleLanguage || 'sa'" dir="ltr" translate="no">{{ chapter()!.displayTitle || chapter()!.title }}</h2><p class="notranslate roman" lang="sa-Latn" dir="ltr" translate="no">{{ chapter()!.transliteration }}</p></header>
         @if (commentary(); as textCommentary) {
@@ -57,6 +57,9 @@
             <details class="transliteration" open><summary>{{ locale.translate('Roman transliteration (IAST)') }}</summary><p class="roman notranslate" lang="sa-Latn" dir="ltr" translate="no">{{ verse.transliteration }}</p></details>
             </div><div class="verse-rail rail-right" dir="ltr"><button type="button" class="verse-arrow next-verse" aria-keyshortcuts="ArrowRight" (click)="navigateAdjacent(verse.number,1)" [disabled]="!adjacentDestination(verse.number,1)" [attr.aria-label]="locale.translate('Next verse')" [title]="locale.translate('Next verse')"><span aria-hidden="true">›</span></button></div>
           </article>
+          @if (showBookAfterVerse(verse.number)) {
+            <app-associated-books class="scripture-recommendation inline-article-books" [books]="booksAfterVerse(verse.number)" [headingId]="'gita-chapter-book-title-' + verse.number" />
+          }
         }
         <nav class="chapter-pager" [attr.aria-label]="locale.translate('Chapter navigation')">
           <a class="btn btn-secondary" [routerLink]="['/scriptures',book()!.slug,adjacentChapter(-1)]" fragment="reading-controls" [queryParams]="{lang:locale.language}" queryParamsHandling="merge">← {{ locale.translate('Previous chapter') }}</a>

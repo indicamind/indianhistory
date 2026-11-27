@@ -7,6 +7,7 @@ import {ScripturesService} from '../../services/scriptures.service';
 import {ScriptureProgressService} from '../../services/scripture-progress.service';
 import {LocaleService} from '../../i18n/locale.service';
 import {DevModeService} from '../../services/dev-mode.service';
+import {gitaAffiliateUrls} from '../../data/scripture-books';
 
 describe('Scripture verse navigation',()=>{
   function setup(reducedMotion=false){
@@ -173,5 +174,21 @@ describe('Scripture verse navigation',()=>{
     component.navigateAdjacent(3,1);expect(navigations[0].fragment).toBe('verse-1-1');
     component.navigateAdjacent(1,-1);expect(navigations[1].fragment).toBe('verse-1-3');
     expect(component.searchQuery()).toBe('arjuna');
+  });
+  it('rotates Gita affiliate links across chapters and every 30 verses while reading',()=>{
+    const{component}=setup();
+    component.book.set({slug:'bhagavad-gita',chapters:[{number:1,verseCount:47},{number:2,verseCount:72}]} as any);
+    expect(component.chapterBooks()[0].affiliateUrl).toBe(gitaAffiliateUrls[0]);
+    expect(component.showBookAfterVerse(29)).toBeFalsy();
+    expect(component.showBookAfterVerse(30)).toBeTruthy();
+    expect(component.booksAfterVerse(30)[0].affiliateUrl).toBe(gitaAffiliateUrls[1]);
+    expect(component.booksAfterVerse(60)[0].affiliateUrl).toBe(gitaAffiliateUrls[2]);
+    component.chapter.set({...component.chapter()!,number:6});
+    expect(component.chapterBooks()[0].affiliateUrl).toBe(gitaAffiliateUrls[0]);
+    component.chapter.set({...component.chapter()!,number:2});
+    expect(component.chapterBooks()[0].affiliateUrl).toBe(gitaAffiliateUrls[1]);
+    expect(component.booksAfterVerse(30)[0].affiliateUrl).toBe(gitaAffiliateUrls[2]);
+    component.setMatches({query:'arjuna',hits:[{chapter:2,id:'2.30'}] as any});
+    expect(component.showBookAfterVerse(30)).toBeFalsy();
   });
 });

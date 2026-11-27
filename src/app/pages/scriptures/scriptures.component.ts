@@ -10,7 +10,8 @@ import { ScriptureControlsComponent } from '../../components/scripture-controls/
 import { ScriptureSearchComponent } from '../../components/scripture-search/scripture-search.component';
 import { ScriptureVerseHit } from '../../services/scripture-search.service';
 import { AssociatedBooksComponent } from '../../components/associated-books/associated-books.component';
-import { gitaBooks } from '../../data/scripture-books';
+import { RecommendedBook } from '../../models/book.model';
+import { GITA_BOOK_VERSE_INTERVAL, gitaBooks, gitaBooksForSlot } from '../../data/scripture-books';
 @Component({selector:'app-scriptures',imports:[RouterLink,ScriptureControlsComponent,ScriptureSearchComponent,AssociatedBooksComponent],templateUrl:'./scriptures.component.html',styleUrl:'./scriptures.component.css'})
 export class ScripturesComponent {
   readonly gitaBooks=gitaBooks;
@@ -27,6 +28,7 @@ export class ScripturesComponent {
   readonly books=signal<ScriptureBook[]>([]);
   readonly book=signal<ScriptureBook|null>(null);
   readonly chapter=signal<ScriptureChapter|null>(null);
+  readonly chapterBooks=computed(()=>gitaBooksForSlot((this.chapter()?.number??1)-1));
   readonly commentary=computed(()=>{
     const text=this.chapter()?.commentary;
     return text && (text.draft || text.preview) && (!this.devMode.isDevMode() || this.locale.offline || this.locale.language!=='en') ? undefined : text;
@@ -194,6 +196,12 @@ export class ScripturesComponent {
   }
   anchor(id: string): string { return 'verse-'+id.replace('.','-'); }
   explanation(id: string) { return this.commentary()?.verses.find(v=>v.id===id); }
+  showBookAfterVerse(verseNumber: number): boolean {
+    return this.book()?.slug==='bhagavad-gita' && !this.searchQuery() && verseNumber%GITA_BOOK_VERSE_INTERVAL===0;
+  }
+  booksAfterVerse(verseNumber: number): RecommendedBook[] {
+    return gitaBooksForSlot((this.chapter()?.number??1)-1+Math.floor(verseNumber/GITA_BOOK_VERSE_INTERVAL));
+  }
   private lastSaved: string|null=null;
   private rememberVerse(number: number): void {
     const chapter=this.chapter();

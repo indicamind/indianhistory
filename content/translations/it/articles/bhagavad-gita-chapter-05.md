@@ -1,0 +1,314 @@
+---
+title: 'Bhagavad Gita, capitolo 5: la rinuncia nell’azione'
+excerpt: >-
+  Una resa originale del significato e una spiegazione contestuale di tutti i 29
+  versi su rinuncia, visione equanime e libertà interiore.
+scriptureChapterFor: bhagavad-gita
+chapter: 5
+tags:
+  - Bhagavad Gita
+  - Sanscrito
+  - Filosofia
+textSourceHash: be91a622f3603e49e937763a545a66c30e327139597c525b33c0ffd7692f5296
+sourceHash: 5bcaedf80bfa9c3b6daf825d953ec321860aee3068dc166ef6a16bc12b303091
+---
+
+Arjuna chiede se sia migliore la rinuncia o lo yoga dell’azione. Krishna loda entrambi, ma definisce superiore il karma-yoga, poi spiega la rinuncia, il non essere agente e la libertà dai frutti dell’azione. Il capitolo descrive la visione equanime, l’abbandono del compiacimento nei piaceri sensoriali e la liberazione in Brahman. Si conclude con Krishna che si identifica come il fruitore del sacrificio e dell’ascesi, Signore di tutti i mondi e amico di tutti gli esseri.
+
+Ogni **Significato** rende il sanscrito in italiano. Ogni **Spiegazione** segue le affermazioni, i termini e l’argomentazione del verso. Le interpretazioni tradizionali nominate sono distinte quando divergono. [1–2]
+
+## 5.1
+
+### Significato
+
+Arjuna disse: Krishna, tu lodi la rinuncia alle azioni e anche lo yoga. Dimmi in modo decisivo quale dei due sia migliore.
+
+### Spiegazione
+
+La domanda ritorna in forma più mirata dopo il capitolo 4. Arjuna ha udito che la conoscenza brucia l’azione e che egli deve levarsi nello yoga, perciò chiede di nuovo come si accordino la rinuncia e l’attività disciplinata. Cerca una decisione pratica, non semplicemente l’accordo sul fatto che entrambi abbiano valore. La risposta del capitolo chiarirà che cosa viene abbandonato quando una persona agisce con comprensione.
+
+## 5.2
+
+### Significato
+
+Il Signore disse: La rinuncia e la disciplina dell’azione conducono entrambe al bene supremo. Tuttavia, tra le due, la disciplina dell’azione è superiore alla rinuncia all’azione.
+
+### Spiegazione
+
+Krishna riconosce il fine liberatorio di entrambi gli orientamenti dando al contempo ad Arjuna una preferenza netta. I versi successivi spiegano perché: la libertà interiore propria della rinuncia è difficile da stabilire senza disciplina, mentre l’azione può preparare ed esprimere tale libertà. Il confronto appartiene dunque a una conversazione sulla pratica spirituale effettiva, comprese le condizioni nelle quali una persona può intraprenderla bene.
+
+## 5.3
+
+### Significato
+
+Riconosci come rinunciante continuo la persona che né odia né brama. Libera dalle spinte opposte, tale persona è prontamente sciolta dal legame, o dalle forti braccia.
+
+### Spiegazione
+
+La rinuncia è ora identificata attraverso il rapporto della persona con l’attrazione e l’avversione. La descrizione rende possibile riconoscere il distacco all’interno di una vita attiva. Una persona non deve più organizzare la propria condotta attorno all’assicurarsi ciò che è piacevole e all’escludere ciò che è spiacevole. Questa libertà dalle spinte opposte fornisce la base interiore per l’affermazione che l’azione disciplinata può condurre verso lo stesso bene supremo.
+
+## 5.4
+
+### Significato
+
+Gli immaturi parlano della via della conoscenza e della via dell’azione come interamente separate; i saggi non lo fanno. Stabilendosi saldamente nell’una o nell’altra, una persona ottiene il frutto di entrambe.
+
+### Spiegazione
+
+Il verso considera le due vie attraverso il compimento cui conduce una pratica intrapresa correttamente. Krishna critica una divisione che perde di vista la loro relazione. «Stabilito» conta: l’affermazione riguarda una via effettivamente portata a termine, con la comprensione e la disciplina richieste. Essa amplia pertanto la precedente distinzione degli approcci, preservando al tempo stesso la necessità di praticare l’orientamento adeguato alla propria condizione.
+
+## 5.5
+
+### Significato
+
+Lo stato raggiunto dai seguaci della conoscenza è raggiunto anche dai seguaci dello yoga. Chi vede conoscenza e yoga come uniti nella loro meta vede veramente.
+
+### Spiegazione
+
+Krishna riafferma la convergenza attraverso la parola *sthāna*, lo stato o la destinazione raggiunta. L’azione disciplinata dallo yoga e la ricerca della conoscenza sono riunite attraverso quel compimento. Nel flusso del capitolo, ciò risolve la supposizione di Arjuna che lodare l’una debba semplicemente screditare l’altra. Il verso successivo torna alla preparazione che rende possibile la rinuncia autentica.
+
+## 5.6
+
+### Significato
+
+La rinuncia è difficile da raggiungere senza lo yoga, o dalle forti braccia. Il contemplativo unito allo yoga raggiunge Brahman in breve tempo.
+
+### Spiegazione
+
+La rinuncia è difficile da raggiungere senza lo yoga. Il contemplativo stabilito nello yoga raggiunge Brahman in breve tempo. Ciò fornisce la ragione della preferenza enunciata in 5.2: la disciplina dello yoga è necessaria per il conseguimento cercato attraverso la rinuncia.
+
+## 5.7
+
+### Significato
+
+Chi è unito allo yoga, purificato interiormente, padrone di sé e signore dei sensi, il cui sé è il sé di tutti gli esseri, rimane incontaminato anche mentre agisce.
+
+### Spiegazione
+
+Lo yogin è purificato, padrone di sé e signore dei sensi. Il verso descrive inoltre il sé di questa persona come il sé di tutti gli esseri. Anche mentre agisce, una tale persona non è contaminata dall’azione. Queste qualità enunciano la condizione nella quale l’azione continua senza legare chi la compie.
+
+## 5.8
+
+### Significato
+
+Un conoscitore disciplinato della realtà deve comprendere: «Io non faccio nulla affatto», anche mentre vede, ode, tocca, odora, mangia, cammina, dorme e respira.
+
+### Spiegazione
+
+Il conoscitore comprende «io non faccio nulla affatto» mentre le attività corporee elencate continuano. Vedere, udire, mangiare, camminare, dormire e respirare non rendono il sé il loro agente. La frase prosegue in 5.9 con la spiegazione che i sensi operano tra i loro oggetti.
+
+## 5.9
+
+### Significato
+
+Anche mentre parla, lascia andare, prende, apre e chiude gli occhi, il conoscitore comprende che i sensi stanno operando tra i loro oggetti.
+
+### Spiegazione
+
+Parlare, espellere, afferrare e aprire o chiudere gli occhi completano l’elenco iniziato in 5.8. Il conoscitore comprende queste funzioni come l’operare dei sensi tra i loro oggetti. L’affermazione riguarda il non essere agente del sé durante la continua attività corporea.
+
+## 5.10
+
+### Significato
+
+Chi ripone le azioni in Brahman e agisce dopo aver abbandonato l’attaccamento non è macchiato dal mal fare, proprio come una foglia di loto non è bagnata dall’acqua.
+
+### Spiegazione
+
+L’immagine del loto mostra il contatto senza adesione. La foglia rimane nel suo ambiente acquatico, mentre l’acqua non vi aderisce nel modo ordinario. Analogamente, il praticante agisce offrendo l’attività in Brahman e abbandonando il senso di possesso. La metafora dà una forma visibile all’argomento del capitolo secondo cui la libertà spirituale può essere vissuta attraverso un rapporto trasformato con l’azione.
+
+## 5.11
+
+### Significato
+
+Gli yogin agiscono attraverso il corpo, la mente, l’intelletto e gli stessi sensi, abbandonando l’attaccamento, per la purificazione del sé.
+
+### Spiegazione
+
+I diversi strumenti dell’attività sono tutti inclusi. La purificazione dà al loro uso una direzione coerente, sicché né il lavoro corporeo né lo sforzo intellettuale restano fuori dalla pratica. Krishna specifica di nuovo l’abbandono dell’attaccamento come essenziale. Il verso distingue anche uno scopo di preparazione spirituale dal perseguimento di ricompense private, contribuendo a spiegare perché l’azione disciplinata sia stata raccomandata ad Arjuna.
+
+## 5.12
+
+### Significato
+
+La persona disciplinata abbandona il frutto dell’azione e raggiunge una pace salda. La persona indisciplinata, spinta dal desiderio e attaccata al frutto, diventa legata.
+
+### Spiegazione
+
+Abbandonare il frutto dell’azione porta una pace salda alla persona disciplinata. Il desiderio e l’attaccamento al frutto legano la persona indisciplinata. Krishna attribuisce i diversi esiti alla presenza o all’assenza di attaccamento a ciò che l’azione produce.
+
+## 5.13
+
+### Significato
+
+Rinunciando mentalmente a tutte le azioni, l’essere incarnato padrone di sé dimora felicemente nella città dalle nove porte, senza agire né far agire.
+
+### Spiegazione
+
+La città dalle nove porte è il corpo: due occhi, due orecchie, due narici, la bocca e le due aperture inferiori. Il sé incarnato padrone di sé vi dimora felicemente dopo aver rinunciato mentalmente a tutte le azioni. Non agisce né fa agire.
+
+## 5.14
+
+### Significato
+
+Il signore non crea né l’essere agente né le azioni del mondo, né l’unione dell’azione con il suo frutto. Piuttosto, opera la propria natura condizionata.
+
+### Spiegazione
+
+*Prabhu* significa signore o sovrano. Il verso nega che questo signore crei l’essere agente, le azioni o il collegamento tra le azioni e i loro frutti. *Svabhāva*, la natura, è ciò che opera. Questa distinzione assegna la produzione dell’azione alla natura anziché al sé sovrano.
+
+## 5.15
+
+### Significato
+
+L’onnipervadente non assume né la cattiva azione di alcuno né la sua buona azione. La conoscenza è coperta dall’ignoranza; per questo, gli esseri sono confusi.
+
+### Spiegazione
+
+L’onnipervadente non prende né il peccato né il merito di alcuna persona. L’ignoranza copre la conoscenza e gli esseri sono ingannati da questa copertura. Il verso afferma l’assenza di appropriazione dell’azione buona e cattiva e identifica l’ignoranza come la causa della confusione degli esseri.
+
+## 5.16
+
+### Significato
+
+Ma per coloro la cui ignoranza del sé è stata distrutta dalla conoscenza, quella conoscenza illumina il supremo come fa il sole.
+
+### Spiegazione
+
+Quando la conoscenza distrugge l’ignoranza riguardante il sé, essa rivela il supremo come la luce del sole illumina ciò che era nascosto. La conoscenza è l’agente di questa illuminazione. Il contrasto è con 5.15, dove l’ignoranza copre la conoscenza e inganna gli esseri.
+
+## 5.17
+
+### Significato
+
+Con l’intelletto rivolto a quello, il sé stabilito in quello, saldi in quello e prendendo quello come proprio rifugio supremo, essi raggiungono lo stato di non ritorno, mondate le loro colpe dalla conoscenza.
+
+### Spiegazione
+
+Il ripetuto «quello» raccoglie insieme diverse dimensioni di una persona: discernimento, identità, saldezza e orientamento ultimo. Il promesso stato di non ritorno appartiene alla spiegazione della Gita sulla liberazione dalla nascita ripetuta. Il ruolo purificatore della conoscenza è di nuovo centrale. Il verso descrive un’intera vita organizzata attorno alla realtà illuminata in 5.16, preparando il resoconto di come una tale persona veda gli altri esseri.
+
+## 5.18
+
+### Significato
+
+I saggi guardano con visione equanime un brahmano dotto e umile, una mucca, un elefante, un cane e una persona che cuoce cani.
+
+### Spiegazione
+
+Gli esempi vanno da un brahmano dotto e umile agli animali e a un cuocitore di cani, *śvapāka*. Il cuocitore di cani occupa una posizione bassa e impura nella gerarchia sociale presupposta dall’elenco. I saggi vedono in modo uguale attraverso queste distinzioni perché, come afferma 5.19, Brahman è uguale e privo di difetti.
+
+## 5.19
+
+### Significato
+
+Coloro le cui menti riposano nell’uguaglianza hanno vinto il ciclo del divenire proprio qui. Brahman è privo di difetti e uguale; perciò essi sono stabiliti in Brahman.
+
+### Spiegazione
+
+Coloro che sono stabiliti nell’uguaglianza vincono la rinascita qui, durante la loro vita incarnata. Krishna indica l’assenza di difetti e l’uguaglianza di Brahman come ragione: le loro menti riposano nell’uguaglianza ed essi sono stabiliti in quello stesso Brahman. La visione equanime di 5.18 è così collegata direttamente alla liberazione.
+
+## 5.20
+
+### Significato
+
+Chi conosce Brahman ed è stabilito in Brahman non deve esultare nel ricevere ciò che è piacevole né essere scosso nell’incontrare ciò che è spiacevole, rimanendo lucido e saldo nell’intelletto.
+
+### Spiegazione
+
+La visione equanime dei versi precedenti appare ora nella risposta della persona agli eventi. Esperienze piacevoli e spiacevoli continuano a verificarsi, mentre l’intelletto rimane saldo al loro sopraggiungere. Ciò riprende la descrizione della saggezza stabile nel capitolo 2. Lo stabilirsi in Brahman si esprime nel modo di affrontare circostanze mutevoli, dando all’insegnamento metafisico un legame immediato con l’esperienza vissuta.
+
+## 5.21
+
+### Significato
+
+Distaccata dai contatti esterni, una persona trova felicità nel sé. Con il sé unito a Brahman attraverso lo yoga, quella persona sperimenta una felicità duratura.
+
+### Spiegazione
+
+La persona distaccata dai contatti esterni trova felicità nel sé. L’unione con Brahman attraverso lo yoga porta una felicità imperitura. Krishna contrappone questa felicità duratura ai piaceri dipendenti dal contatto dei sensi e degli oggetti.
+
+## 5.22
+
+### Significato
+
+I godimenti nati dal contatto sono fonti di sofferenza, poiché hanno un inizio e una fine, figlio di Kunti. La persona dotata di discernimento non si compiace in essi.
+
+### Spiegazione
+
+Krishna chiama i piaceri nati dal contatto fonti di sofferenza perché cominciano e finiscono. La persona saggia non si compiace in essi. Il verso respinge questi piaceri come oggetto di godimento della persona dotata di discernimento e prosegue il contrasto con la felicità imperitura in Brahman.
+
+## 5.23
+
+### Significato
+
+Chi sa resistere, qui e prima di lasciare il corpo, all’impeto che sorge dal desiderio e dall’ira è disciplinato ed è una persona felice.
+
+### Spiegazione
+
+La forza del desiderio e dell’ira deve essere sostenuta qui, prima che il corpo sia lasciato alla morte. La persona che regge questa forza è chiamata yogin e persona felice. Krishna colloca la padronanza richiesta entro la presente vita incarnata.
+
+## 5.24
+
+### Significato
+
+Chi ha la propria felicità all’interno, il proprio compiacimento all’interno e la propria luce all’interno è uno yogin che, stabilito in Brahman, raggiunge la liberazione in Brahman.
+
+### Spiegazione
+
+Lo yogin trova felicità, compiacimento e luce dentro di sé. Divenendo Brahman, quella persona consegue *brahma-nirvāṇa*, la liberazione in Brahman. L’accento ripetuto su ciò che è interiore identifica la fonte della felicità e dell’illuminazione di questo yogin.
+
+## 5.25
+
+### Significato
+
+I veggenti le cui colpe sono diminuite, i cui dubbi divisi sono recisi, i cui sé sono governati e che si compiacciono del bene di tutti gli esseri conseguono la liberazione in Brahman.
+
+### Spiegazione
+
+La sollecitudine per il bene di tutti gli esseri appartiene direttamente a questa descrizione del veggente. Purificazione, chiarezza e governo di sé si sviluppano insieme con tale sollecitudine. Il verso conferisce dunque alla visione equanime una dimensione etica attiva: la più ampia comprensione del sé è accompagnata dal compiacimento per il benessere altrui. Prosegue la sollecitudine per il sostegno del mondo introdotta attraverso *loka-saṃgraha* nel capitolo 3.
+
+## 5.26
+
+### Significato
+
+Per i rinuncianti solerti che sono liberi dal desiderio e dall’ira, le cui menti sono governate e che conoscono il sé, la liberazione in Brahman è vicina da ogni lato.
+
+### Spiegazione
+
+La liberazione in Brahman è vicina ai rinuncianti qui descritti. Essi hanno deposto desiderio e ira, controllato la mente e conosciuto il sé. Krishna associa la loro liberazione a queste forme di controllo e conoscenza.
+
+## 5.27
+
+### Significato
+
+Il praticante tiene i contatti esterni al di fuori, dirige lo sguardo tra le sopracciglia ed equilibra i movimenti di prana e apana dentro le narici.
+
+### Spiegazione
+
+Il praticante esclude i contatti sensoriali esterni, fissa lo sguardo tra le sopracciglia ed eguaglia *prāṇa* e *apāna*, i movimenti vitali dentro le narici. Questa è la disciplina corporea e sensoriale del saggio descritto nella frase completata in 5.28.
+
+## 5.28
+
+### Significato
+
+Il saggio che governa i sensi, la mente e l’intelletto, che è proteso alla liberazione e libero da desiderio, paura e ira, è sempre libero.
+
+### Spiegazione
+
+Il saggio controlla i sensi, la mente e l’intelletto, cerca la liberazione e ha deposto desiderio, paura e ira. Un tale saggio è dichiarato sempre liberato. Ciò completa la descrizione iniziata in 5.27 nominando la meta e la condizione del suo praticante.
+
+## 5.29
+
+### Significato
+
+Conoscendomi come il destinatario e il fruitore dei sacrifici e delle ascesi, il grande Signore di tutti i mondi e l’amico di tutti gli esseri, una persona raggiunge la pace.
+
+### Spiegazione
+
+Il capitolo si conclude identificando personalmente Krishna entro l’ordine sacro che ha descritto. Egli è colui verso il quale sono rivolte le offerte, il Signore dei mondi e l’amico degli esseri. Questi ruoli riuniscono culto, sovranità cosmica e cura. La promessa finale di pace unisce dunque conoscenza e rinuncia a una relazione con Krishna, preparando l’orientamento devozionale nell’insegnamento sulla meditazione del capitolo successivo.
+
+## Fonti
+
+1. **Bhagavad Gita, capitolo 5, fonte sanscrita.** Il devanagari visualizzato e il relativo IAST generato seguono la trascrizione del sanscrito classico nella raccolta `gita/gita`, fissata alla revisione `c6fce39595445768876ddbb8d1268a9c935e1d2b`, con le correzioni locali di trascrizione registrate da questo lettore. Traduzioni e commenti moderni della fonte originaria non vengono importati. [Fonte sanscrita alla revisione fissata](https://github.com/gita/gita/blob/c6fce39595445768876ddbb8d1268a9c935e1d2b/data/verse.json); [Unlicense](https://github.com/gita/gita/blob/c6fce39595445768876ddbb8d1268a9c935e1d2b/LICENSE).
+
+2. **Kashinath Trimbak Telang, *The Bhagavadgîtâ*, Sacred Books of the East, volume VIII (1882), capitolo V.** Confronto di pubblico dominio per la sequenza e la terminologia del capitolo. I significati e le spiegazioni sopra riportati sono stesura originale basata sul sanscrito visualizzato, anziché una riproduzione della traduzione di Telang. [Capitolo V](https://sacred-texts.com/book/the-bhagavadgita/chapter-v).

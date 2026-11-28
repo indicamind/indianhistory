@@ -1,0 +1,744 @@
+---
+title: 'Bhagavad Gita, capítulo 2: compreender o eu e aprender a agir'
+excerpt: 'Um significado original e uma explicação contextual detalhada de todos os 72 versos do segundo capítulo do Gita.'
+scriptureChapterFor: bhagavad-gita
+chapter: 2
+tags:
+  - Bhagavad Gita
+  - Sânscrito
+  - Filosofia
+textSourceHash: f65370cd8b082e81b653778d9ba4bc558ff45dacec2de9dfb8a941a2216ac4fe
+sourceHash: 44c0bf357f44fedc48be5e86f20c9c8c71f5508477f72a1fb4a571bd5d81bc89
+---
+
+Krishna repreende Arjuna por se recusar a combater e ensina que o eu é eterno, enquanto os corpos perecem. Em seguida, apela ao dever de Arjuna como kshatriya e lhe diz que combata sem apego a ganho, perda, vitória ou derrota. O capítulo explica a ação sem desejo por seus frutos e termina com as características de uma pessoa cuja sabedoria é firme.
+
+Cada **Significado** apresenta em português a tradução inglesa do sânscrito. Cada **Explicação** segue as afirmações, os termos e a argumentação do verso. As interpretações tradicionais atribuídas a comentaristas identificados são distinguidas quando divergem. [1–3]
+
+## 2.1
+
+### Significado
+
+Sanjaya disse: A Arjuna, dominado pela compaixão e pela aflição, com os olhos perturbados cheios de lágrimas, Madhusudana dirigiu estas palavras.
+
+### Explicação
+
+Sanjaya descreve Arjuna como dominado pela compaixão, com os olhos cheios de lágrimas e a mente entristecida. Krishna, chamado Madhusudana, fala então com ele. O verso leva a condição descrita no fim do capítulo 1 para o diálogo entre Krishna e Arjuna.
+
+## 2.2
+
+### Significado
+
+O Senhor bem-aventurado disse: Arjuna, como esta confusão se apoderou de ti em tal crise? Ela é indigna dos nobres, afasta do céu e traz desonra.
+
+### Explicação
+
+Krishna repreende Arjuna por cair nesse abatimento em um momento decisivo. Chama-o de indigno dos nobres, de obstáculo ao céu e de causa de desonra. Essas três descrições condenam o estado em que Arjuna se recusou a combater. A primeira resposta de Krishna é um desafio a essa recusa.
+
+## 2.3
+
+### Significado
+
+Não cedas a esta falta de virilidade, Partha; ela não te convém. Abandona esta mesquinha fraqueza de coração e levanta-te, abrasador de inimigos.
+
+### Explicação
+
+Krishna diz a Arjuna que não ceda ao *klaibya*, falta de virilidade ou impotência, e afirma que isso não lhe convém. Ordena-lhe que abandone a fraqueza de coração e se levante. O tratamento «abrasador de inimigos» recorda a destreza de Arjuna como guerreiro ao mesmo tempo que repreende seu colapso presente.
+
+## 2.4
+
+### Significado
+
+Arjuna disse: Madhusudana, como posso combater Bhishma e Drona com flechas na batalha? Eles merecem minha reverência, destruidor de inimigos.
+
+### Explicação
+
+Arjuna pergunta como pode disparar flechas contra Bhishma e Drona, a quem considera dignos de veneração. Dirige-se a Krishna como Madhusudana e destruidor de inimigos. A pergunta diz respeito ao combate contra esses dois homens venerados, seu parente mais velho e seu mestre, que estão no exército adversário.
+
+## 2.5
+
+### Significado
+
+Seria melhor viver aqui de esmolas do que matar estes grandes mestres. Se eu matasse estes mestres, embora busquem ganhos materiais, os prazeres que desfrutasse estariam manchados com seu sangue.
+
+### Explicação
+
+Arjuna diz que mendigar seria preferível a matar seus mestres venerados. Mesmo que busquem ganhos mundanos, ele sentiria os prazeres obtidos ao matá-los como manchados com seu sangue. Por isso rejeita o desfrute de um reino conquistado mediante suas mortes.
+
+## 2.6
+
+### Significado
+
+Não sabemos o que é melhor para nós: vencê-los ou sermos vencidos por eles. Aqueles filhos de Dhritarashtra estão diante de nós; depois de matá-los, não desejaríamos viver.
+
+### Explicação
+
+Arjuna não consegue decidir se a vitória ou a derrota seria melhor. Os filhos de Dhritarashtra estão diante dele, e ele diz que, depois de matá-los, não desejaria viver. Ambos os resultados possíveis da batalha, portanto, o perturbam, deixando-o incapaz de determinar o que deve ser feito.
+
+## 2.7
+
+### Significado
+
+Minha natureza está dominada pelo defeito da pusilanimidade, e meu entendimento está confuso acerca do dharma. Eu te pergunto: dize-me com certeza o que seria verdadeiramente bom. Sou teu discípulo; instrui-me, que busquei refúgio em ti.
+
+### Explicação
+
+Arjuna diz que a fraqueza dominou sua natureza e que sua mente está confusa acerca do dharma. Pede a Krishna que lhe diga com certeza o que é melhor. Ao se declarar discípulo de Krishna e buscar refúgio nele, Arjuna pede que lhe ensinem a resolver sua incerteza.
+
+## 2.8
+
+### Significado
+
+Não vejo nada que possa remover a dor que resseca meus sentidos, mesmo que eu obtivesse na terra um reino próspero e sem rival ou o domínio sobre os deuses.
+
+### Explicação
+
+Arjuna diz que nem um reino sem rival na terra nem a soberania sobre os deuses removeriam a dor que resseca seus sentidos. As maiores recompensas terrenas e celestiais estão incluídas em sua recusa. Sua aflição persiste mesmo quando imagina possuir tudo o que a vitória poderia trazer.
+
+## 2.9
+
+### Significado
+
+Sanjaya disse: Depois de falar assim a Hrishikesha, Gudakesha, o abrasador de inimigos, disse a Govinda: «Não combaterei», e ficou em silêncio.
+
+### Explicação
+
+Sanjaya registra as palavras de Arjuna, «Não combaterei», e o silêncio que se segue. Gudakesha e abrasador de inimigos designam Arjuna; Hrishikesha e Govinda designam Krishna. Tendo pedido instrução, Arjuna permanece sentado diante de Krishna com sua recusa explicitamente declarada.
+
+## 2.10
+
+### Significado
+
+Àquele Arjuna entristecido, entre os dois exércitos, Hrishikesha falou como se sorrisse, descendente de Bharata.
+
+### Explicação
+
+Krishna fala a Arjuna entristecido enquanto permanecem entre os dois exércitos. A expressão «como se sorrisse» descreve o rosto de Krishna ao começar sua resposta. A breve narração de Sanjaya termina aqui, e o ensinamento contínuo começa com a repreensão de Krishna no verso seguinte.
+
+## 2.11
+
+### Significado
+
+O Senhor bem-aventurado disse: Tu te afliges por aqueles por quem não se deve lamentar, mas pronuncias palavras de sabedoria. Os sábios não lamentam nem aqueles cuja vida partiu nem aqueles que ainda vivem.
+
+### Explicação
+
+Krishna diz que Arjuna se aflige por aqueles por quem não se deve lamentar enquanto pronuncia palavras que parecem sábias. Afirma que os doutos não lamentam nem os vivos nem os mortos. A explicação que se segue distingue o eu eterno do corpo que sofre a morte.
+
+## 2.12
+
+### Significado
+
+Nunca houve um tempo em que eu não existisse, nem tu, nem estes governantes; tampouco qualquer um de nós deixará de existir daqui em diante.
+
+### Explicação
+
+A afirmação de continuidade inclui Krishna, Arjuna e os governantes de ambos os lados. Nesse ensinamento, suas próximas mortes corporais não equivalem à aniquilação de seus eus. A linguagem plural tem sido lida de maneiras diferentes: Shankara a explica pelos corpos distintos, afirmando ao mesmo tempo a unidade do eu; Ramanuja considera real a distinção entre o Senhor e os eus individuais. Ambas as leituras preservam a afirmação do verso sobre a existência duradoura. [3]
+
+## 2.13
+
+### Significado
+
+Assim como o eu encarnado passa pela infância, juventude e velhice neste corpo, também chega a outro corpo. Uma pessoa firme não se deixa confundir por essa passagem.
+
+### Explicação
+
+O eu encarnado permanece durante a infância, juventude e velhice do corpo e, do mesmo modo, passa a outro corpo. Krishna coloca o renascimento ao lado das mudanças de condição corporal dentro de uma vida. A pessoa dotada de discernimento não se confunde com essas mudanças porque o eu encarnado continua através delas.
+
+## 2.14
+
+### Significado
+
+Os contatos com os objetos dos sentidos, filho de Kunti, trazem frio e calor, prazer e dor. Eles vêm e vão e são impermanentes; suporta-os, descendente de Bharata.
+
+### Explicação
+
+O contato entre os sentidos e seus objetos produz frio e calor, prazer e dor. Krishna diz que essas experiências vêm e vão e, portanto, não têm permanência. Sua instrução é suportá-las. Sua transitoriedade é contraposta ao eu duradouro descrito nos versos anteriores.
+
+## 2.15
+
+### Significado
+
+A pessoa firme que não é perturbada por essas experiências e permanece igual na dor e no prazer é apta para a imortalidade, primeiro entre os homens.
+
+### Explicação
+
+Krishna descreve a pessoa constante que não é perturbada pelos contatos sensoriais e permanece igual no prazer e na dor. Tal pessoa se torna apta para a imortalidade. Resistência e equanimidade são assim ligadas à libertação, a realização para a qual se dirige o ensinamento sobre o eu imperecível.
+
+## 2.16
+
+### Significado
+
+O que é irreal não tem existência duradoura; o que é real nunca deixa de ser. Aqueles que veem a verdade discerniram o limite entre ambos.
+
+### Explicação
+
+Krishna distingue *sat*, o que é real ou existente, de *asat*, o que é irreal ou inexistente. O primeiro não deixa de ser, e o segundo não tem existência duradoura. Diz que os videntes da verdade compreenderam a distinção. Os versos ao redor a aplicam ao eu imperecível e aos corpos perecíveis.
+
+## 2.17
+
+### Significado
+
+Reconhece como indestrutível aquilo por que tudo isto é permeado. Ninguém pode causar a destruição dessa realidade imperecível.
+
+### Explicação
+
+O que permeia tudo isto é declarado indestrutível. Ninguém pode causar a destruição dessa realidade imperecível. A afirmação continua a distinção de 2.16 e fornece a base para o contraste entre o eu encarnado eterno e os corpos que chegam ao fim em 2.18.
+
+## 2.18
+
+### Significado
+
+Diz-se que estes corpos do eu encarnado eterno, indestrutível e incomensurável têm um fim. Portanto, combate, descendente de Bharata.
+
+### Explicação
+
+Krishna diz que os corpos perecem, enquanto o eu encarnado é eterno, indestrutível e está além de toda medida. Em seguida, ordena a Arjuna que combata. O raciocínio liga diretamente a condição imperecível do eu ao campo de batalha: as mortes dos corpos diante de Arjuna não destroem o eu.
+
+## 2.19
+
+### Significado
+
+Aquele que pensa que este eu mata e aquele que pensa que ele é morto, ambos não o compreendem. Ele nem mata nem é morto.
+
+### Explicação
+
+Tanto a pessoa que pensa que o eu mata quanto a que pensa que ele é morto são descritas como incapazes de compreendê-lo. Krishna afirma que o eu nem mata nem é morto. Matar e ser morto são aqui negados do eu imperecível, cuja distinção em relação ao corpo foi afirmada em 2.18.
+
+## 2.20
+
+### Significado
+
+O eu nunca nasce e nunca morre. Tendo existido, não deixa posteriormente de existir. Não nascido, eterno, duradouro e antigo, não é morto quando o corpo é morto.
+
+### Explicação
+
+Várias descrições reforçam um mesmo ponto por diferentes direções. Nascimento e morte pertencem a uma sequência de mudanças; Krishna descreve o eu como situado fora dessa sequência. «Antigo» não o torna um objeto corporal excepcionalmente velho: os termos «não nascido» e «eterno» que o acompanham definem o sentido pretendido. A última linha volta ao temor imediato suscitado pela batalha, distinguindo a destruição do corpo da destruição de seu sujeito duradouro.
+
+## 2.21
+
+### Significado
+
+Partha, quando alguém conhece o eu como indestrutível, eterno, não nascido e imperecível, como poderia matar alguém ou fazer com que alguém fosse morto?
+
+### Explicação
+
+Krishna pergunta como alguém que conhece o eu como imperecível, eterno, não nascido e imutável poderia matar alguém ou fazer com que alguém fosse morto. A pergunta decorre da natureza do eu descrita em 2.19–20: ele não é nem o agente que mata nem o ser destruído quando um corpo morre.
+
+## 2.22
+
+### Significado
+
+Assim como uma pessoa descarta roupas gastas e veste outras novas, o eu encarnado descarta corpos gastos e entra em outros novos.
+
+### Explicação
+
+A mudança de corpos do eu é comparada a uma pessoa que descarta roupas gastas e veste novas. Quem as veste continua enquanto as roupas mudam; do mesmo modo, o eu encarnado deixa um corpo velho e assume outro. A comparação afirma a continuidade do eu através da morte e do renascimento.
+
+## 2.23
+
+### Significado
+
+As armas não cortam este eu; o fogo não o queima. A água não o molha, e o vento não o seca.
+
+### Explicação
+
+As armas não podem cortar o eu, o fogo não pode queimá-lo, a água não pode molhá-lo e o vento não pode secá-lo. Krishna nega que esses meios de alterar ou destruir coisas materiais possam afetar o eu. A afirmação especifica a indestrutibilidade declarada nos versos anteriores.
+
+## 2.24
+
+### Significado
+
+O eu não pode ser cortado, queimado, molhado ou seco. É eterno, onipresente, estável, imóvel e perpétuo.
+
+### Explicação
+
+Krishna repete que o eu é imune a ser cortado, queimado, molhado e seco, e então o chama de eterno, onipresente, estável, imóvel e perpétuo. Essas descrições distinguem o eu dos corpos que mudam e perecem. Sua permanência é a base de sua instrução de que Arjuna não deve lamentar por ele.
+
+## 2.25
+
+### Significado
+
+Diz-se que o eu é não manifesto, está além do pensamento comum e é imutável. Conhecendo-o assim, não deves te afligir.
+
+### Explicação
+
+O eu é descrito como não manifesto, inconcebível e imutável. Não pode ser apreendido como um objeto visível e mutável. Krishna diz que conhecer o eu dessa maneira remove o motivo para lamentar por ele. A conclusão continua o argumento de que a morte corporal deixa o eu sem destruição.
+
+## 2.26
+
+### Significado
+
+Mesmo que penses que o eu nasce continuamente e morre continuamente, homem de braços poderosos, ainda assim não deves te afligir desta maneira.
+
+### Explicação
+
+Krishna considera a suposição alternativa de que o eu nasce continuamente e morre continuamente. Mesmo nessa suposição, diz a Arjuna que não deve se afligir. Os versos seguintes dão a razão: nascimento e morte continuariam a ser consequências inevitáveis um do outro.
+
+## 2.27
+
+### Significado
+
+Para quem nasceu, a morte é certa; para quem morreu, o nascimento é certo. Por isso, não deves te afligir pelo que não pode ser evitado.
+
+### Explicação
+
+Para quem nasceu, a morte é certa; para quem morreu, o nascimento é certo. Krishna usa essa inevitabilidade como razão para que Arjuna não se aflija. O verso continua o argumento anterior sobre nascimento e morte recorrentes e o que não pode ser impedido dentro desse ciclo.
+
+## 2.28
+
+### Significado
+
+Os seres são não manifestos no início, manifestos no meio e novamente não manifestos no fim, descendente de Bharata. Que motivo de lamentação existe nisso?
+
+### Explicação
+
+Os seres são não manifestos antes de aparecerem, manifestos durante o intervalo e novamente não manifestos quando esse intervalo termina. Krishna pergunta que motivo de lamentação existe nessa sequência. A existência corporal visível é apresentada como o estágio intermediário entre duas condições não manifestas.
+
+## 2.29
+
+### Significado
+
+Uma pessoa vê o eu como uma maravilha; outra fala dele como de uma maravilha; outra ouve falar dele como de uma maravilha. Alguém pode ouvir falar dele e ainda assim não o conhecer verdadeiramente.
+
+### Explicação
+
+O eu é visto, descrito e ouvido como uma maravilha. Contudo, ouvir a seu respeito não traz necessariamente compreensão. Krishna distingue o caráter extraordinário do eu das diferentes maneiras pelas quais as pessoas encontram seu ensinamento. O verso seguinte conclui o argumento ao declarar novamente indestrutível o eu encarnado.
+
+## 2.30
+
+### Significado
+
+O eu encarnado no corpo de cada um nunca pode ser morto, descendente de Bharata. Por isso, não deves lamentar por nenhum ser.
+
+### Explicação
+
+Krishna diz que o eu encarnado em cada corpo nunca pode ser morto. A afirmação inclui os eus de todos os guerreiros diante de Arjuna. Por isso, diz a Arjuna que não lamente por nenhum ser. Isso conclui a exposição sobre o eu antes de a discussão se voltar para seu dever como kshatriya.
+
+## 2.31
+
+### Significado
+
+Considerando também teu próprio dharma, não deves vacilar. Para um kshatriya, não há nada mais elevado que uma batalha justa.
+
+### Explicação
+
+Krishna apela agora ao *svadharma* de Arjuna, seu próprio dever como kshatriya. Diz que nada é mais elevado para um kshatriya do que uma batalha justa e lhe pede que não vacile. O argumento acrescenta o dever do guerreiro ao ensinamento anterior de que a morte corporal não destrói o eu.
+
+## 2.32
+
+### Significado
+
+Felizes os kshatriyas que encontram uma batalha desse tipo sem procurá-la, Partha: uma porta aberta para o céu.
+
+### Explicação
+
+A batalha justa é comparada a uma porta aberta para o céu. Krishna chama de afortunados os kshatriyas que encontram tal batalha sem procurá-la. O céu é nomeado diretamente como recompensa associada a essa oportunidade de cumprir o dever do guerreiro descrito em 2.31.
+
+## 2.33
+
+### Significado
+
+Mas, se não empreenderes esta batalha justa, abandonarás teu próprio dharma e tua honra e incorrerás em falta.
+
+### Explicação
+
+Krishna diz que recusar essa batalha justa significaria abandonar o próprio dever e a honra de Arjuna e lhe traria pecado. Arjuna havia argumentado que combater seus parentes seria pecaminoso. Krishna agora apresenta a conclusão oposta: nessas circunstâncias, deixar de combater acarretaria por si mesmo pecado.
+
+## 2.34
+
+### Significado
+
+As pessoas falarão de tua desonra duradoura. Para alguém que foi estimado, a desonra é pior do que a morte.
+
+### Explicação
+
+Krishna adverte que as pessoas falarão por muito tempo da desonra de Arjuna. Para um homem que foi honrado, diz ele, a desonra é pior do que a morte. O argumento insiste nas consequências de abandonar a batalha por meio da perda da reputação de Arjuna.
+
+## 2.35
+
+### Significado
+
+Os grandes guerreiros de carro pensarão que te retiraste da batalha por medo. Aqueles que antes te tinham em alta estima passarão a te considerar insignificante.
+
+### Explicação
+
+Os grandes guerreiros de carro interpretarão a retirada de Arjuna como medo. Aqueles que antes o estimavam deixarão de fazê-lo. Krishna contrapõe os motivos de Arjuna para recusar a batalha ao julgamento que os outros guerreiros farão dessa recusa.
+
+## 2.36
+
+### Significado
+
+Teus inimigos dirão muitas palavras que não deveriam ser ditas, depreciando tua capacidade. O que poderia ser mais doloroso do que isso?
+
+### Explicação
+
+Krishna diz que os inimigos de Arjuna o insultarão e depreciarão sua capacidade de combate. Pergunta o que poderia causar mais dor do que ouvir essas palavras. Isso continua o apelo à honra e à desonra iniciado em 2.33–35.
+
+## 2.37
+
+### Significado
+
+Se fores morto, alcançarás o céu; se fores vitorioso, desfrutarás da terra. Por isso, levanta-te, filho de Kunti, decidido a combater.
+
+### Explicação
+
+Krishna apresenta os dois resultados possíveis do combate: se Arjuna for morto, alcançará o céu; se vencer, desfrutará da realeza terrena. Em seguida, diz a ele que se levante, resolvido a combater. Ambos os resultados são apresentados como razões para empreender a batalha.
+
+## 2.38
+
+### Significado
+
+Considera iguais prazer e dor, ganho e perda, vitória e derrota; depois, entrega-te à batalha. Agindo assim, não incorrerás em falta.
+
+### Explicação
+
+Krishna diz a Arjuna que trate por igual prazer e dor, ganho e perda, vitória e derrota, e então entre na batalha. Afirma que combater com essa equanimidade não lhe trará pecado. A equanimidade na ação se torna a ligação entre a ordem anterior de combater e a exposição do yoga que se segue.
+
+## 2.39
+
+### Significado
+
+Este entendimento te foi explicado em relação ao Sankhya. Agora ouve-o em relação ao yoga: unido a este entendimento, Partha, abandonarás a escravidão da ação.
+
+### Explicação
+
+Krishna distingue o entendimento do eu já explicado como Sankhya da disciplina do yoga que agora ensinará. Unido a esse entendimento, Arjuna abandonará a escravidão da ação. A próxima seção explica a ação realizada com entendimento firme e sem apego a seus frutos.
+
+## 2.40
+
+### Significado
+
+Nesta disciplina, nenhum começo se perde e nenhum revés contrário surge. Mesmo um pouco deste dharma protege de um grande temor.
+
+### Explicação
+
+Krishna diz que um começo feito nessa disciplina não se perde nem produz um resultado contrário. Mesmo uma pequena medida dela protege contra um grande temor. A garantia introduz o buddhi-yoga, cuja prática e liberdade em relação à escravidão da ação são descritas nos versos seguintes.
+
+## 2.41
+
+### Significado
+
+Aqui, descendente de Kuru, o entendimento resoluto tem uma só direção. Os pensamentos dos irresolutos têm muitos ramos e não têm fim.
+
+### Explicação
+
+O entendimento resoluto tem um objetivo definido, enquanto os pensamentos dos irresolutos se ramificam sem fim. Krishna contrapõe a firmeza na disciplina que ensina às muitas buscas geradas por desejos mutáveis. Os versos seguintes identificam as promessas de recompensa ritual como causa dessa atenção dividida.
+
+## 2.42
+
+### Significado
+
+Aqueles sem discernimento, Partha, pronunciam palavras floridas. Deleitam-se nos pronunciamentos védicos e insistem que não há nada além deles.
+
+### Explicação
+
+Krishna critica aqueles que se deleitam nos pronunciamentos védicos, falam palavras floridas e insistem que não existe nada além deles. Suas palavras atraem quem busca recompensas. A frase continua em 2.43–44, identificando seus desejos, os resultados prometidos e o obstáculo que causam ao entendimento resoluto.
+
+## 2.43
+
+### Significado
+
+Cheios de desejo e voltados para o céu, falam de muitos ritos especiais que dão o renascimento como fruto da ação e conduzem ao desfrute e ao poder.
+
+### Explicação
+
+Os oradores descritos em 2.42 estão cheios de desejo e consideram o céu seu objetivo. Prescrevem muitos ritos especiais para o desfrute e o poder, mas os frutos dessas ações conduzem a outro nascimento. Krishna liga suas promessas rituais ao desejo, à ação e a uma nova encarnação.
+
+## 2.44
+
+### Significado
+
+Naqueles apegados ao desfrute e ao poder, cujas mentes são arrebatadas por tais palavras, o entendimento resoluto não se estabelece na concentração.
+
+### Explicação
+
+O apego ao desfrute e ao poder impede que o entendimento resoluto se estabeleça na concentração. As mentes dessas pessoas foram arrebatadas pelas promessas floridas que acabam de ser descritas. O verso completa a frase de 2.42–44 ao afirmar como o desejo por recompensas rituais obstrui a disciplina que Krishna ensina.
+
+## 2.45
+
+### Significado
+
+Os Vedas dizem respeito aos três gunas; eleva-te além dos três gunas, Arjuna. Sê livre dos pares de opostos, firme na clareza, sem ansiedade por adquirir e preservar, e estabelecido no eu.
+
+### Explicação
+
+Krishna diz que os Vedas dizem respeito aos três gunas e pede a Arjuna que vá além deles. Acrescenta as ordens de estar livre dos pares de opostos, permanecer firme na clareza, abandonar a preocupação com adquirir e preservar posses e estar estabelecido no eu. Essas instruções passam da busca de recompensas à liberdade em relação ao apego.
+
+## 2.46
+
+### Significado
+
+Para o brâmane que compreende, todos os Vedas têm a utilidade de um poço quando há água disponível por todos os lados.
+
+### Explicação
+
+Um poço atende a necessidades particulares, mas, quando a água é abundante por todos os lados, sua utilidade é satisfeita dentro dessa abundância. Krishna compara isso à utilidade de todos os Vedas para o brâmane que possui entendimento. A comparação coloca o conhecimento abrangente acima da dependência dos benefícios separados descritos nas promessas rituais anteriores.
+
+## 2.47
+
+### Significado
+
+Teu âmbito é apenas a ação, nunca seus frutos. Não faças do fruto da ação teu motivo e não te apegues à inação.
+
+### Explicação
+
+Krishna atribui a Arjuna a ação como seu âmbito, negando-lhe uma pretensão aos frutos dela. O resultado não deve ser seu motivo, e também lhe é proibido o apego à inação. As quatro instruções pertencem ao mesmo conjunto: realizar a ação, renunciar ao fruto e não transformar a renúncia em razão para deixar de agir.
+
+## 2.48
+
+### Significado
+
+Estabelecido no yoga, realiza tuas ações renunciando ao apego, Dhananjaya. Permanece igual no sucesso e no fracasso: essa igualdade é chamada yoga.
+
+### Explicação
+
+Arjuna é instruído a agir estabelecido no yoga e a renunciar ao apego. A mesma equanimidade deve ser mantida quer a ação tenha sucesso, quer fracasse. Krishna chama explicitamente essa igualdade de yoga. Isso continua a instrução de 2.47 ao identificar a disposição na qual a ação deve ser realizada.
+
+## 2.49
+
+### Significado
+
+A ação buscada por seus frutos é muito inferior ao yoga do entendimento, Dhananjaya. Busca refúgio no entendimento; aqueles que fazem dos resultados seu motivo são dignos de pena.
+
+### Explicação
+
+Krishna chama a ação buscada por seus frutos de inferior ao buddhi-yoga e diz a Arjuna que busque refúgio no entendimento. Aqueles que fazem dos resultados seu motivo são descritos como dignos de pena. A comparação continua o contraste entre a ação que busca frutos e o entendimento equânime definido em 2.48.
+
+## 2.50
+
+### Significado
+
+Quem está unido ao entendimento deixa para trás, aqui, os resultados kármicos bons e maus. Portanto, dedica-te ao yoga: yoga é habilidade nas ações.
+
+### Explicação
+
+A «habilidade» é definida pela exposição anterior sobre entendimento, apego e liberdade em relação à escravidão. É a capacidade de se empenhar na ação sem ficar preso pela apropriação de seus resultados. A referência a resultados bons e maus inclui o mérito, além da falta, pois até recompensas kármicas desejáveis podem continuar o ciclo do nascimento. O verso dá à ação um lugar na libertação ao explicar como sua relação com o agente pode ser transformada.
+
+## 2.51
+
+### Significado
+
+Os sábios unidos ao entendimento renunciam ao fruto nascido da ação. Livres da escravidão do nascimento, alcançam a condição além da aflição.
+
+### Explicação
+
+Os sábios renunciam aos frutos nascidos da ação e são libertados da escravidão do nascimento. Alcançam o estado além da aflição. Krishna, portanto, apresenta a libertação da encarnação repetida como resultado da disciplina, continuando a afirmação de 2.50 de que o entendimento liberta das consequências kármicas tanto boas quanto más.
+
+## 2.52
+
+### Significado
+
+Quando teu entendimento tiver atravessado o matagal emaranhado da ilusão, ficarás desapegado do que foi ouvido e do que ainda resta ouvir.
+
+### Explicação
+
+A imagem do matagal transmite enredamento: as direções se multiplicam até que a pessoa não consiga enxergar um caminho para atravessá-lo. Cruzá-lo muda a força de promessas e prescrições concorrentes. No contexto de 2.42–46, o que foi ouvido inclui ensinamentos abordados como meios de obter resultados desejados. O desapego se desenvolve quando surge um entendimento mais claro do objetivo. O verso prepara a distinção entre ser arrastado pelo que se ouve e se estabelecer firmemente na compreensão profunda.
+
+## 2.53
+
+### Significado
+
+Quando teu entendimento, confundido pelo que ouviu, permanecer imóvel e firme na concentração, então alcançarás o yoga.
+
+### Explicação
+
+A passagem da escuta dispersa ao entendimento estável se completa aqui. Formulações diferentes e resultados prometidos têm puxado a atenção em direções distintas. O yoga é alcançado quando essa agitação dá lugar a uma orientação definida. Arjuna responde perguntando como é tal pessoa na conduta comum. Assim, o diálogo passa da descrição de uma disciplina interior à pergunta sobre como sua maturidade aparece no falar, sentar e mover-se.
+
+## 2.54
+
+### Significado
+
+Arjuna disse: Keshava, como se descreve alguém de sabedoria firme, estabelecido na concentração? Como fala, se senta e se move tal pessoa de mente constante?
+
+### Explicação
+
+Arjuna pede características reconhecíveis, trazendo a exposição do entendimento para o mundo da conduta. Suas perguntas combinam a descrição de uma pessoa com as atividades pelas quais uma vida costuma ser observada. A resposta irá além das posturas exteriores para abordar desejo, firmeza emocional, contenção dos sentidos e relação com as posses. Isso faz do restante do capítulo um retrato do entendimento disciplinado expresso na vida.
+
+## 2.55
+
+### Significado
+
+O Senhor bem-aventurado disse: Quando uma pessoa abandona todos os desejos que surgem na mente, Partha, e se contenta no eu por meio do eu, é chamada de pessoa de sabedoria firme.
+
+### Explicação
+
+Krishna começa sua descrição da sabedoria firme com o abandono de todos os desejos que surgem na mente. Tal pessoa está satisfeita no eu por meio do eu. O contentamento se localiza, assim, no próprio eu, e essa liberdade em relação ao desejo fornece a primeira resposta à pergunta de Arjuna em 2.54.
+
+## 2.56
+
+### Significado
+
+Aquele cuja mente não é abalada pelo sofrimento, que não anseia por prazer e está livre de apego, medo e raiva é chamado sábio de entendimento firme.
+
+### Explicação
+
+Um sábio de sabedoria firme não é perturbado pelo sofrimento e não anseia por prazeres. Apego, medo e raiva se foram. Krishna descreve a firmeza pela ausência dessas respostas, estendendo o abandono do desejo afirmado em 2.55 às experiências dolorosas e prazerosas igualmente.
+
+## 2.57
+
+### Significado
+
+Quem não se apega a nada e não se exalta nem odeia ao encontrar condições favoráveis e desfavoráveis tem a sabedoria firmemente estabelecida.
+
+### Explicação
+
+A pessoa de sabedoria estabelecida não se apega a nada e não acolhe com júbilo o favorável nem odeia o desfavorável. Os encontros com a boa e a má fortuna continuam, mas já não produzem regozijo e aversão. Isso aplica a equanimidade de 2.56 ao que uma pessoa encontra.
+
+## 2.58
+
+### Significado
+
+Quando uma pessoa retira os sentidos de seus objetos por todos os lados, como uma tartaruga recolhe seus membros, sua sabedoria está firmemente estabelecida.
+
+### Explicação
+
+A tartaruga oferece uma imagem da capacidade de se recolher. Os sentidos não precisam ser sempre levados para fora por tudo o que aparece diante deles. Essa capacidade sustenta a firmeza do entendimento ao dar à atenção certa independência da estimulação imediata. A comparação descreve um movimento possível de contenção. Versos posteriores também descrevem mover-se entre os objetos dos sentidos com sentidos disciplinados, de modo que o retrato do capítulo inclui tanto o recolhimento quanto o envolvimento bem governado.
+
+## 2.59
+
+### Significado
+
+Os objetos dos sentidos se afastam de uma pessoa encarnada que se abstém, embora o gosto por eles permaneça. Até esse gosto cessa quando se vê a realidade superior.
+
+### Explicação
+
+O verso distingue uma mudança no contato exterior de uma mudança na atração. A abstinência pode retirar um objeto da experiência imediata e deixar intacto o gosto interior por ele. A palavra *rasa*, gosto, torna vívida essa atração restante. No ensinamento, uma apreensão mais profunda da realidade superior muda o que o objeto promete proporcionar. Isso explica por que contenção e conhecimento atuam juntos na exposição anterior do entendimento firme.
+
+## 2.60
+
+### Significado
+
+Mesmo em uma pessoa dotada de discernimento que se esforça, filho de Kunti, os sentidos turbulentos podem arrastar a mente à força.
+
+### Explicação
+
+Krishna adverte que os sentidos turbulentos podem arrastar à força até a mente de uma pessoa dotada de discernimento que está se esforçando. Entendimento e esforço não colocam por si sós os sentidos sob controle. A advertência leva diretamente à ordem de contê-los e permanecer devotado a Krishna em 2.61.
+
+## 2.61
+
+### Significado
+
+Tendo contido todos eles, a pessoa deve permanecer recolhida, tendo-me como objetivo supremo. A sabedoria está firmemente estabelecida em quem tem os sentidos sob controle.
+
+### Explicação
+
+O verso dá à contenção uma orientação positiva: o próprio Krishna deve ser considerado o objetivo supremo. A devoção, portanto, já está presente nessa exposição inicial do entendimento disciplinado. Os sentidos se reúnem em torno de uma direção que dá propósito à sua contenção. No diálogo, isso ajuda a ligar o conhecimento do eu, o controle da atenção e a relação entre Arjuna e seu mestre. Esses temas se tornarão cada vez mais explícitos nos capítulos posteriores.
+
+## 2.62
+
+### Significado
+
+Quando uma pessoa se demora pensando nos objetos dos sentidos, surge o apego a eles. Do apego vem o desejo, e do desejo vem a raiva.
+
+### Explicação
+
+Krishna traça uma sequência que começa com a atenção repetida. Demorar-se em um objeto o torna cada vez mais importante para a realização que a pessoa imagina; o apego se torna então uma exigência de obtê-lo ou conservá-lo. A raiva surge nesse movimento quando a exigência encontra um obstáculo. O verso descreve um padrão pelo qual a atenção pode se tornar escravidão. Mostra também por que os versos anteriores deram lugar à contenção dos sentidos e ao entendimento antes do momento da ação manifesta.
+
+## 2.63
+
+### Significado
+
+Da raiva vem a perplexidade; da perplexidade, a confusão da memória; da memória confusa, a ruína do entendimento. Com o entendimento arruinado, a pessoa se perde.
+
+### Explicação
+
+A raiva produz ilusão; a ilusão perturba a memória; a perda da memória destrói o entendimento; e, quando o entendimento é destruído, a pessoa perece. Isso completa a sequência iniciada em 2.62 com a atenção persistente aos objetos dos sentidos. Krishna traça como apego e desejo levam, por meio da raiva, à destruição da faculdade que orienta a conduta.
+
+## 2.64
+
+### Significado
+
+Mas uma pessoa disciplinada que se move entre os objetos dos sentidos, com os sentidos governados pelo eu e livres de atração e aversão, alcança tranquilidade.
+
+### Explicação
+
+O retrato inclui agora o movimento entre os objetos, e não apenas o recolhimento. A mudança decisiva é que atração e aversão já não governam o encontro. Os sentidos funcionam dentro de uma orientação disciplinada, permitindo uma condição de *prasāda*: clareza, calma ou serenidade. Isso complementa a imagem da tartaruga em 2.58. O capítulo descreve capacidades necessárias para uma vida que às vezes deve retirar a atenção e às vezes se envolver com o que o mundo apresenta.
+
+## 2.65
+
+### Significado
+
+Nessa tranquilidade, chega o fim de todo o sofrimento dessa pessoa, pois o entendimento de quem tem a mente clara logo fica firmemente estabelecido.
+
+### Explicação
+
+Krishna diz que a serenidade traz a destruição de todo sofrimento. Em uma mente serena, o entendimento logo fica firmemente estabelecido. O verso afirma o resultado do movimento disciplinado entre os objetos dos sentidos descrito em 2.64: a liberdade em relação à atração e à aversão conduz à serenidade e à firmeza do entendimento.
+
+## 2.66
+
+### Significado
+
+Para quem não está recolhido, não há entendimento estável nem contemplação sustentada. Sem contemplação não há paz; sem paz, onde pode haver felicidade?
+
+### Explicação
+
+Sem recolhimento não há entendimento nem contemplação sustentada; sem contemplação não há paz. Krishna pergunta então como poderia haver felicidade para alguém sem paz. O verso apresenta uma sequência de dependência que liga concentração disciplinada, entendimento, contemplação, paz e felicidade.
+
+## 2.67
+
+### Significado
+
+Quando a mente segue os sentidos errantes, leva embora a sabedoria de uma pessoa como o vento leva um barco sobre a água.
+
+### Explicação
+
+A imagem do barco torna concreta a perda de direção. Os sentidos podem encontrar muitos objetos, mas uma mente que simplesmente segue seu movimento perde a capacidade de dirigir. O perigo, portanto, é descrito pela relação entre movimento e orientação. Isso dá outra explicação da sequência de 2.62–63. O objetivo da contenção é preservar o lugar orientador do entendimento enquanto a pessoa continua a encontrar um mundo mutável.
+
+## 2.68
+
+### Significado
+
+Portanto, homem de braços poderosos, a pessoa cujos sentidos são contidos por todos os lados em relação a seus objetos tem a sabedoria firmemente estabelecida.
+
+### Explicação
+
+Krishna reúne os exemplos de turbulência, recolhimento e direção. «Por todos os lados» responde às muitas direções em que a atenção pode ser capturada. A frase repetida sobre a sabedoria estabelecida volta à pergunta de Arjuna em 2.54, dando à contenção dos sentidos um lugar claro na resposta. O título «de braços poderosos» também recorda a força conhecida de Arjuna, enquanto a disciplina agora discutida exige uma firmeza correspondente no governo da atenção.
+
+## 2.69
+
+### Significado
+
+O que é noite para todos os seres é tempo de vigília para a pessoa que se domina. O que é vigília para os seres é noite para o sábio que vê.
+
+### Explicação
+
+O que é noite para todos os seres é o tempo de vigília do sábio que se domina. O que ocupa a vigília dos outros seres é noite para o sábio que vê. As imagens invertidas distinguem o conhecimento do eu do sábio da preocupação comum com os objetos dos sentidos.
+
+## 2.70
+
+### Significado
+
+Assim como as águas entram no oceano, que se enche e ainda assim permanece firmemente estabelecido, todos os desejos entram em tal pessoa. Essa pessoa alcança a paz; aquela que anseia por desejos não a alcança.
+
+### Explicação
+
+O oceano permanece cheio e imóvel enquanto os rios entram nele. Krishna o compara à pessoa em quem os desejos entram sem perturbar a paz. A pessoa que deseja sua satisfação não alcança essa paz. O contraste continua o retrato de quem mantém a sabedoria firme na presença dos objetos dos sentidos.
+
+## 2.71
+
+### Significado
+
+A pessoa que abandona todos os desejos, se move sem ânsia e está livre de possessividade e de pretensões egocêntricas alcança a paz.
+
+### Explicação
+
+Krishna descreve quem abandona todos os desejos e se move sem anseio, possessividade ou egoísmo. «Sem meu» nega a pretensão de propriedade; «sem eu» nega a identificação egoísta. Tal pessoa alcança a paz. Esses traços completam o retrato que começou em 2.55 com a satisfação no eu.
+
+## 2.72
+
+### Significado
+
+Este é o estado fundado em Brahman, Partha. Ao alcançá-lo, a pessoa já não fica iludida. Permanecendo nele mesmo no momento da morte, alcança a libertação em Brahman.
+
+### Explicação
+
+Krishna chama isso de estado fundado em Brahman. Tendo-o alcançado, a pessoa já não fica iludida; permanecendo estabelecida nele mesmo na morte, alcança a libertação em Brahman. O capítulo termina identificando a realização final do entendimento firme e da ausência de desejo descritos nos versos anteriores.
+
+## Fontes
+
+1. **Bhagavad Gita, capítulo 2, fonte sânscrita.** O devanágari exibido e o IAST gerado a partir dele seguem a transcrição sânscrita clássica da coleção `gita/gita`, fixada na revisão `c6fce39595445768876ddbb8d1268a9c935e1d2b`, com as correções locais de transcrição registradas por este leitor. As traduções e comentários modernos da coleção de origem não são importados. [Fonte sânscrita na revisão fixada](https://github.com/gita/gita/blob/c6fce39595445768876ddbb8d1268a9c935e1d2b/data/verse.json); [Unlicense](https://github.com/gita/gita/blob/c6fce39595445768876ddbb8d1268a9c935e1d2b/LICENSE).
+
+2. **Kashinath Trimbak Telang, *The Bhagavadgîtâ*, Sacred Books of the East, volume VIII (1882), capítulo II.** Comparação de domínio público para a sequência e a terminologia do capítulo. Os significados e as explicações aqui são textos originais baseados no sânscrito exibido, e não uma reprodução da tradução de Telang. [Capítulo II](https://sacred-texts.com/book/the-bhagavadgita/chapter-ii).
+
+3. **Shankara e Ramanuja sobre Bhagavad Gita 2.12, comentários originais em sânscrito.** Suas diferentes leituras da linguagem plural do verso são identificadas na explicação de 2.12. O projeto de pesquisa também fornece informações gramaticais, consultadas apenas para verificar formas sânscritas específicas. [Comentários sânscritos sobre 2.12](https://www.bhagavadgita.eu/en/?p=702).

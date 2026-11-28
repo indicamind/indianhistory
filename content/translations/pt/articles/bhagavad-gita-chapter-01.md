@@ -1,0 +1,498 @@
+---
+title: 'Bhagavad Gita, capítulo 1: quando o guerreiro para'
+excerpt: >-
+  Um significado original e uma explicação contextual de cada verso do capítulo
+  inicial do Gita.
+scriptureChapterFor: bhagavad-gita
+chapter: 1
+tags:
+  - Bhagavad Gita
+  - Sânscrito
+  - Filosofia
+textSourceHash: d67655a74c1c16b86801ea639133fa5a21496da94c1561b3a96297433eb5795b
+sourceHash: 7d5ae614ccff6d09e88a0c963d5aad98c2db44dfe841805cdbec7badc5c8cfbb
+---
+
+Dhritarashtra pergunta a Sanjaya o que aconteceu quando os exércitos se reuniram em Kurukshetra. Sanjaya descreve seus líderes, formações e búzios. Arjuna pede a Krishna que posicione seu carro entre os exércitos, vê seus parentes e mestres e se recusa a combatê-los. Seu discurso menciona o pecado de matar membros da família e as consequências para os deveres familiares, as linhagens dos varnas e os antepassados. O capítulo termina com Arjuna baixando o arco, tomado pela dor.
+
+Cada **Significado** apresenta em português a tradução inglesa do sânscrito. Cada **Explicação** segue as afirmações, os termos e a argumentação do verso. As interpretações tradicionais atribuídas a comentaristas identificados são distinguidas quando divergem. [1–3]
+
+## 1.1
+
+### Significado
+
+Dhritarashtra disse: Sanjaya, quando meus filhos e os filhos de Pandu se reuniram em Kurukshetra, o campo do dharma, desejosos de lutar, o que fizeram?
+
+### Explicação
+
+Dhritarashtra pergunta a Sanjaya o que aconteceu quando os dois exércitos se reuniram para lutar. Ele distingue “meus filhos” dos “filhos de Pandu”, embora ambos pertençam à família dos Kurus. Kurukshetra é chamado de *dharma-kṣetra*, o campo do dharma. A pergunta do rei abre o relato de Sanjaya sobre o confronto.
+
+## 1.2
+
+### Significado
+
+Sanjaya disse: Ao ver o exército dos Pandavas disposto para a batalha, o rei Duryodhana aproximou-se de seu mestre e pronunciou estas palavras.
+
+### Explicação
+
+Sanjaya começa com a reação de Duryodhana à formação dos Pandavas. Depois de ver o exército disposto, Duryodhana aproxima-se de seu mestre Drona e fala com ele. Os versos seguintes contêm sua avaliação dos guerreiros adversários e de seus próprios comandantes.
+
+## 1.3
+
+### Significado
+
+Mestre, veja este grande exército dos filhos de Pandu, disposto pelo filho de Drupada, seu inteligente discípulo.
+
+### Explicação
+
+Duryodhana pede a Drona que olhe para o grande exército dos Pandavas e ressalta que o discípulo de Drona, Dhrishtadyumna, filho de Drupada, o dispôs. Suas palavras enfatizam que um guerreiro formado pelo mestre agora comanda as forças adversárias. “Seu inteligente discípulo” identifica tanto a formação de Dhrishtadyumna quanto sua capacidade.
+
+## 1.4
+
+### Significado
+
+Aqui estão heróis, grandes arqueiros iguais em combate a Bhima e Arjuna: Yuyudhana, Virata e o grande guerreiro de carro Drupada.
+
+### Explicação
+
+Os guerreiros adversários são elogiados como heróis e grandes arqueiros. Bhima e Arjuna servem de comparação para sua força em combate. Duryodhana cita Yuyudhana, Virata e Drupada como exemplos; *mahāratha*, aplicado a Drupada, designa um grande guerreiro de carro.
+
+## 1.5
+
+### Significado
+
+Há Dhrishtaketu, Chekitana, o poderoso rei de Kashi, Purujit, Kuntibhoja e Shaibya, um homem notável.
+
+### Explicação
+
+Duryodhana continua nomeando os aliados dos Pandavas: Dhrishtaketu, Chekitana, o rei de Kashi, Purujit, Kuntibhoja e Shaibya. O rei de Kashi é descrito como poderoso, e Shaibya como um homem notável. Esses nomes dão continuidade ao relato dos principais combatentes do exército adversário.
+
+## 1.6
+
+### Significado
+
+Há o valente Yudhamanyu, o vigoroso Uttamaujas, o filho de Subhadra e os filhos de Draupadi; todos são grandes guerreiros de carro.
+
+### Explicação
+
+A lista acrescenta Yudhamanyu, Uttamaujas, Abhimanyu, o filho de Subhadra, e os filhos de Draupadi. Yudhamanyu é chamado de valente e Uttamaujas de vigoroso. Todos os nomeados no verso são descritos como grandes guerreiros de carro. Os filhos de Subhadra e de Draupadi trazem a geração mais jovem dos Pandavas para a lista.
+
+## 1.7
+
+### Significado
+
+Conheça também os homens ilustres do nosso lado, ó primeiro entre os nascidos duas vezes. Para sua informação, nomearei os líderes do meu exército.
+
+### Explicação
+
+Depois de nomear os principais guerreiros do lado dos Pandavas, Duryodhana volta-se para seu próprio exército. Ele diz a Drona que identificará seus comandantes. “Primeiro entre os nascidos duas vezes” dirige-se a Drona como brâmane; o segundo nascimento refere-se à iniciação religiosa.
+
+## 1.8
+
+### Significado
+
+Há o senhor mesmo, Bhishma, Karna, Kripa, vitorioso em combate, Ashvatthama, Vikarna e o filho de Somadatta.
+
+### Explicação
+
+Duryodhana nomeia Drona, Bhishma, Karna, Kripa, Ashvatthama, Vikarna e o filho de Somadatta. “O senhor mesmo” dirige-se a Drona, o mestre que ouve o discurso. O epíteto ligado a Kripa elogia sua vitória em combate. Juntos, esses nomes identificam a principal força do exército de Duryodhana.
+
+## 1.9
+
+### Significado
+
+Muitos outros heróis estão prontos para dar a vida por mim. Portam armas diversas e todos são hábeis na batalha.
+
+### Explicação
+
+Duryodhana diz que muitos outros heróis comprometeram a vida com sua causa. Sua disposição para morrer, a variedade de suas armas e seu conhecimento da guerra completam a descrição da força do exército. A expressão “por mim” identifica Duryodhana como aquele por quem estão preparados para lutar.
+
+## 1.10
+
+### Significado
+
+Nossa força, protegida por Bhishma, é insuficiente; a força deles, protegida por Bhima, é suficiente.
+
+### Explicação
+
+A palavra *aparyāptam* permite uma importante diferença de interpretação. Lida como “insuficiente”, a afirmação de Duryodhana revela ansiedade apesar de sua impressionante lista de aliados. Lida como “ilimitada”, torna-se uma vanglória de que a força de seu lado supera as forças adversárias, mais limitadas.
+
+Os comentaristas tradicionais preservam essa divergência: Shridhara interpreta a força como incapaz de enfrentar o oponente, enquanto Baladeva a interpreta como imensurável. O significado acima segue a primeira leitura. Ambas mantêm o mesmo sânscrito diante do leitor; a diferença diz respeito ao que Duryodhana está comunicando neste momento. Sua instrução seguinte — proteger Bhishma — pode ser considerada juntamente com qualquer uma das interpretações. [2, 3]
+
+## 1.11
+
+### Significado
+
+Todos vocês, posicionados nos postos que lhes foram atribuídos nos acessos, devem proteger Bhishma em especial.
+
+### Explicação
+
+Duryodhana ordena aos guerreiros que permaneçam nos acessos que lhes foram atribuídos e protejam Bhishma em especial. A instrução segue sua comparação das duas forças em 1.10. A proteção de Bhishma deve ser uma tarefa compartilhada pelos comandantes posicionados por toda a formação.
+
+## 1.12
+
+### Significado
+
+Então o valente ancião dos Kurus, o avô Bhishma, rugiu como um leão e soprou seu búzio, trazendo alegria a Duryodhana.
+
+### Explicação
+
+Bhishma, o ancião dos Kurus, responde soprando seu búzio. Seu som forte é comparado ao rugido de um leão, e Sanjaya afirma que ele alegra Duryodhana. O relato passa agora do discurso do comandante aos sons que sinalizam prontidão para a batalha.
+
+## 1.13
+
+### Significado
+
+Búzios, tímpanos, tambores menores e cornetas soaram então juntos, produzindo um tremendo estrondo.
+
+### Explicação
+
+Depois do búzio de Bhishma, os instrumentos do exército soam juntos. O verso nomeia búzios, tambores e cornetas e depois descreve o som combinado como um tremendo estrondo. O sinal individual do verso anterior é seguido pela resposta coletiva do exército.
+
+## 1.14
+
+### Significado
+
+Então Madhava e o filho de Pandu, sentados em um grande carro puxado por cavalos brancos, sopraram seus búzios divinos.
+
+### Explicação
+
+Krishna e Arjuna respondem de seu grande carro puxado por cavalos brancos. “Madhava” nomeia Krishna, e “o filho de Pandu” identifica Arjuna. Seus búzios são chamados de divinos. Assim começa o relato dos búzios soados do lado dos Pandavas.
+
+## 1.15
+
+### Significado
+
+Hrishikesha soprou Panchajanya, Dhananjaya soprou Devadatta, e o poderoso Bhima, conhecido como Vrikodara, soprou o grande búzio Paundra.
+
+### Explicação
+
+O verso nomeia cada búzio e seu dono. Krishna, chamado Hrishikesha, sopra Panchajanya; Arjuna, chamado Dhananjaya, sopra Devadatta; Bhima, chamado Vrikodara, sopra Paundra. A grande força de Bhima e o tamanho de seu búzio são enfatizados. Os diferentes epítetos identificam esses mesmos três guerreiros.
+
+## 1.16
+
+### Significado
+
+O rei Yudhishthira, filho de Kunti, soprou Anantavijaya; Nakula e Sahadeva sopraram Sughosha e Manipushpaka.
+
+### Explicação
+
+Yudhishthira sopra Anantavijaya, Nakula sopra Sughosha e Sahadeva sopra Manipushpaka. Yudhishthira é identificado como rei e filho de Kunti. Com Bhima e Arjuna nomeados no verso anterior, os búzios dos cinco irmãos Pandavas estão agora todos identificados.
+
+## 1.17
+
+### Significado
+
+O grande arqueiro, rei de Kashi, o grande guerreiro de carro Shikhandi, Dhrishtadyumna, Virata e o invicto Satyaki também fizeram soar seus búzios.
+
+### Explicação
+
+O rei de Kashi, Shikhandi, Dhrishtadyumna, Virata e Satyaki juntam-se ao toque dos búzios. As descrições elogiam sua habilidade e força: o rei de Kashi é um grande arqueiro, Shikhandi um grande guerreiro de carro e Satyaki é invicto. A lista continua no verso seguinte.
+
+## 1.18
+
+### Significado
+
+Drupada, os filhos de Draupadi e o filho de Subhadra de braços poderosos sopraram cada um seu búzio, ó senhor da terra.
+
+### Explicação
+
+Drupada, os filhos de Draupadi e Abhimanyu, o filho de Subhadra, fazem soar cada um seu búzio. “Senhor da terra” é a forma como Sanjaya se dirige a Dhritarashtra, que está ouvindo o relato. O verso completa a lista dos guerreiros Pandavas que participam dessa resposta.
+
+## 1.19
+
+### Significado
+
+Aquele tremendo som ecoou pelo céu e pela terra e dilacerou os corações dos homens de Dhritarashtra.
+
+### Explicação
+
+O som combinado enche a terra e o céu e infunde medo nos homens de Dhritarashtra. “Dilacerou os corações” descreve seu efeito sobre a coragem deles. Os búzios dos Pandavas são assim apresentados como capazes de abalar o exército adversário antes que a luta se desenvolva.
+
+## 1.20
+
+### Significado
+
+Então o filho de Pandu, cujo estandarte trazia o emblema do macaco, viu os homens de Dhritarashtra dispostos em formação e ergueu seu arco quando começava o choque das armas.
+
+### Explicação
+
+Arjuna vê os guerreiros de Dhritarashtra em formação de batalha e ergue seu arco. Seu estandarte traz o emblema do macaco. Sanjaya situa essa ação no início do choque das armas; Arjuna ainda está se preparando para lutar quando faz o pedido que segue.
+
+## 1.21
+
+### Significado
+
+Ó rei, Arjuna falou então a Hrishikesha: Achyuta, coloque meu carro entre os dois exércitos.
+
+### Explicação
+
+Sanjaya dirige-se a Dhritarashtra como “rei” e depois introduz a fala de Arjuna. Arjuna pede a Krishna que coloque o carro entre os dois exércitos. Hrishikesha e Achyuta são nomes de Krishna. A mudança de falante separa a fala de Sanjaya ao rei do pedido de Arjuna ao seu condutor de carro.
+
+## 1.22
+
+### Significado
+
+Deixe-me olhar aqueles que estão aqui desejosos de lutar e ver com quem devo contender nesta empresa de guerra.
+
+### Explicação
+
+Arjuna dá o propósito de seu pedido: quer examinar os guerreiros que vieram lutar e identificar aqueles que deve enfrentar. A posição do carro entre os exércitos permitirá que veja as duas formações antes de entrar na batalha. Seu pedido continua em 1.23.
+
+## 1.23
+
+### Significado
+
+Quero ver aqueles que se reuniram aqui para lutar, desejosos de agradar nesta batalha ao filho mal-intencionado de Dhritarashtra.
+
+### Explicação
+
+Arjuna descreve os guerreiros adversários como homens reunidos para agradar a Duryodhana, filho de Dhritarashtra. Chama Duryodhana de mal-intencionado e pede para ver aqueles que o apoiam. Essa é a avaliação de Arjuna sobre o inimigo no momento em que ainda pretende lutar.
+
+## 1.24
+
+### Significado
+
+Sanjaya disse: Assim interpelado por Gudakesha, Hrishikesha colocou o excelente carro entre os dois exércitos, ó descendente de Bharata.
+
+### Explicação
+
+Krishna cumpre o pedido de Arjuna e coloca o carro entre os exércitos. Sanjaya dirige-se a Dhritarashtra como descendente de Bharata ao relatar o movimento. O verso seguinte identifica os guerreiros diante dos quais Krishna detém o carro.
+
+## 1.25
+
+### Significado
+
+Diante de Bhishma, Drona e dos outros governantes, Krishna disse: Partha, veja estes Kurus reunidos aqui.
+
+### Explicação
+
+Krishna para diante de Bhishma, Drona e dos outros governantes e então diz a Arjuna que olhe os Kurus reunidos. O nome “Kurus” identifica a linhagem compartilhada dos parentes que se enfrentam. Bhishma e Drona, o parente mais velho de Arjuna e seu mestre, estão diretamente diante dele enquanto observa os exércitos.
+
+## 1.26
+
+### Significado
+
+Ali Partha viu pais e avôs, mestres, tios maternos, irmãos, filhos, netos e amigos diante de si.
+
+### Explicação
+
+Arjuna vê parentes de várias gerações, além de mestres e amigos. “Pais” inclui homens da geração de seu pai; Pandu, seu próprio pai, já morreu. A lista identifica aqueles no campo por suas relações com Arjuna, iniciando a mudança de examinar inimigos para reconhecer os seus.
+
+## 1.27
+
+### Significado
+
+Ele também viu sogros e pessoas que lhe queriam bem em ambos os exércitos. O filho de Kunti percorreu com o olhar todos aqueles parentes reunidos ali.
+
+### Explicação
+
+Arjuna também reconhece sogros e pessoas que lhe querem bem em ambos os exércitos. Seus parentes e pessoas próximas estão presentes dos dois lados da batalha. O verso completa a observação iniciada em 1.26, após a qual Sanjaya descreve a compaixão e a dor de Arjuna.
+
+## 1.28
+
+### Significado
+
+Tomado por profunda compaixão e mergulhando na tristeza, Arjuna disse: Krishna, ao ver os meus aqui, desejosos de lutar —
+
+### Explicação
+
+Sanjaya diz que Arjuna é tomado por compaixão e dor ao ver seus parentes. Arjuna então começa a falar a Krishna sobre ver os seus ansiosos pela batalha. Sua frase continua em 1.29, onde descreve os efeitos corporais de sua aflição.
+
+## 1.29
+
+### Significado
+
+Meus membros fraquejam, minha boca está secando, meu corpo treme e meus pelos se arrepiam.
+
+### Explicação
+
+Arjuna nomeia quatro sintomas corporais: fraqueza nos membros, secura na boca, tremor e os pelos arrepiados. Eles decorrem de ver seus parentes reunidos para a batalha. O verso seguinte continua seu relato da condição que o impede de permanecer pronto para lutar.
+
+## 1.30
+
+### Significado
+
+Gandiva escorrega da minha mão, minha pele queima, não consigo me manter firme e minha mente parece girar.
+
+### Explicação
+
+Arjuna diz que Gandiva, seu arco, escorrega da mão. Sente ardor na pele, não consegue se manter firme e percebe sua mente como se estivesse girando. Sua descrição combina a perda de controle da arma, a aflição corporal e a confusão mental. Ela dá continuidade aos sintomas enumerados em 1.29.
+
+## 1.31
+
+### Significado
+
+Vejo sinais adversos, Keshava, e não vejo nenhum bem que possa resultar de matar os meus na batalha.
+
+### Explicação
+
+Arjuna relata sinais adversos e declara que matar seus parentes não trará bem algum. Keshava é o nome com que se dirige a Krishna. Seu discurso passa agora da aflição corporal às razões para recusar a batalha, começando com seu julgamento sobre as consequências de matar os seus.
+
+## 1.32
+
+### Significado
+
+Não desejo a vitória, Krishna, nem a realeza nem seus prazeres. De que nos servem um reino, os desfrutes ou até mesmo a vida, Govinda?
+
+### Explicação
+
+Arjuna rejeita as recompensas habituais da vitória: realeza, desfrute e prazer. Pergunta de que serviriam um reino, seus desfrutes ou até mesmo a vida. Os versos seguintes explicam sua razão: os parentes por quem essas recompensas eram desejadas estão eles próprios na batalha.
+
+## 1.33
+
+### Significado
+
+Aqueles por quem queríamos um reino, desfrutes e prazeres estão aqui na batalha, tendo posto suas vidas e posses em risco.
+
+### Explicação
+
+Arjuna diz que as pessoas por quem ele e seus irmãos queriam realeza e desfrute colocaram suas vidas e posses em jogo. A vitória exigiria lutar contra essas mesmas pessoas. Isso responde à pergunta de 1.32 ao ligar o valor do reino aos parentes presentes no campo.
+
+## 1.34
+
+### Significado
+
+Mestres, pais, filhos e avôs; tios maternos, sogros, netos, cunhados e outros parentes estão aqui.
+
+### Explicação
+
+Arjuna especifica os parentes e mestres cuja presença o perturba. Incluem os mais velhos, descendentes e parentes por casamento. A lista continua sua explicação de por que a realeza e seus prazeres já não o atraem: obtê-los envolveria matar pessoas com quem esperava compartilhá-los.
+
+## 1.35
+
+### Significado
+
+Madhusudana, não desejo matar essas pessoas, mesmo que elas me matem — nem pela soberania sobre os três mundos, muito menos por esta terra.
+
+### Explicação
+
+Arjuna diz que não matará esses parentes e mestres, mesmo que eles o matem. Rejeita até mesmo a soberania sobre os três mundos como recompensa por fazê-lo e, portanto, rejeita a recompensa menor de governar a terra. A comparação expressa a extensão de sua recusa.
+
+## 1.36
+
+### Significado
+
+Que alegria poderia vir para nós de matar os filhos de Dhritarashtra, Janardana? O pecado recairia sobre nós se matássemos esses agressores.
+
+### Explicação
+
+Arjuna chama os filhos de Dhritarashtra de agressores, mas diz que matá-los traria pecado sobre seu próprio lado. Pergunta que prazer poderia resultar de suas mortes. O verso mantém juntas as duas descrições: os homens são agressores e são parentes que Arjuna considera pecado matar.
+
+## 1.37
+
+### Significado
+
+Portanto, não devemos matar os filhos de Dhritarashtra, nossos próprios parentes. Como poderíamos ser felizes depois de matar os nossos, Madhava?
+
+### Explicação
+
+Arjuna conclui que não devem matar os filhos de Dhritarashtra porque esses filhos são seus próprios parentes. Pergunta novamente como matar os seus poderia produzir felicidade. A conclusão segue sua afirmação em 1.36 de que matar esses agressores traria pecado em vez de alegria.
+
+## 1.38
+
+### Significado
+
+Mesmo que essas pessoas, com a mente dominada pela cobiça, não vejam o mal de destruir uma família nem o pecado de trair amigos —
+
+### Explicação
+
+Arjuna diz que a cobiça cegou o lado adversário para o mal de destruir uma família e trair amigos. Sua frase continua no verso seguinte. Distingue a incapacidade deles de ver esses pecados da consciência que seu próprio lado tem do que a destruição da família acarretaria.
+
+## 1.39
+
+### Significado
+
+Por que não saberíamos nos afastar desse pecado, Janardana, quando vemos claramente o dano causado pela destruição de uma família?
+
+### Explicação
+
+Arjuna pergunta por que aqueles que reconhecem o dano de destruir uma família deixariam de se afastar desse pecado. Seu argumento se apoia na diferença apresentada em 1.38: os oponentes estão cegos pela cobiça, enquanto ele e seus companheiros podem ver as consequências. Em seguida, descreve essas consequências em 1.40–44.
+
+## 1.40
+
+### Significado
+
+Quando uma família é destruída, seus antigos deveres e tradições familiares perecem. Quando esse dharma se perde, o adharma toma conta de toda a família.
+
+### Explicação
+
+Arjuna diz que destruir uma família destrói seu antigo *kula-dharma*: seus deveres, ritos e tradições herdados. Quando esse dharma desaparece, o adharma toma conta da família. Isso inicia sua sequência de consequências que liga as mortes na batalha à corrupção da família, à mistura dos varnas e ao castigo no inferno.
+
+## 1.41
+
+### Significado
+
+Quando o adharma prevalece, Krishna, as mulheres da família se corrompem; e quando isso acontece, descendente de Vrishni, surge a mistura dos varnas.
+
+### Explicação
+
+Arjuna apresenta os próximos elos da sequência: quando o adharma prevalece, as mulheres da família se corrompem; dessa corrupção vem o *varṇa-saṅkara*, a mistura dos varnas. Seu argumento liga a preservação do dharma familiar à conduta das mulheres e à continuidade de linhagens distintas dos varnas. O verso seguinte apresenta as consequências para a família e seus antepassados.
+
+## 1.42
+
+### Significado
+
+Tal mistura leva ao inferno aqueles que destroem uma família e a própria família. Seus antepassados também caem, privados das oferendas de bolinhos de arroz e água.
+
+### Explicação
+
+Arjuna diz que a mistura dos varnas leva ao inferno os destruidores da família e a própria família. Os antepassados também caem porque cessam as oferendas de bolinhos de arroz e água. A perda de descendentes que mantêm esses ritos afeta, portanto, os mortos e também aqueles que vivem depois da batalha.
+
+## 1.43
+
+### Significado
+
+Por essas faltas daqueles que destroem famílias, faltas que causam a mistura dos varnas, os antigos deveres dos grupos sociais e das famílias são arrancados pela raiz.
+
+### Explicação
+
+Arjuna diz que as faltas daqueles que destroem famílias produzem a mistura dos varnas e arrancam pela raiz deveres duradouros. *Jāti-dharma* refere-se aos deveres dos grupos sociais, e *kula-dharma* aos deveres familiares. Seu argumento liga o ato de matar os membros da família à destruição da ordem social e ritual herdada.
+
+## 1.44
+
+### Significado
+
+Janardana, ouvimos dizer que as pessoas cujos deveres familiares foram destruídos enfrentam uma permanência indefinida no inferno.
+
+### Explicação
+
+Arjuna recorre ao que ouviu por meio da tradição: aqueles cujos deveres familiares foram destruídos habitam o inferno. Esta edição lê *aniyatam*, traduzido aqui como “indefinida”, para a duração dessa permanência. A ameaça do castigo completa seu relato das consequências de destruir a família.
+
+## 1.45
+
+### Significado
+
+Ai de nós, resolvemos cometer um grande pecado: por cobiça dos prazeres da realeza, estamos preparados para matar os nossos.
+
+### Explicação
+
+Arjuna agora chama de grande pecado a ação pretendida por seu próprio lado. Diz que a cobiça dos prazeres da realeza os tornou prontos para matar seus parentes. A acusação de cobiça que aplicou aos oponentes em 1.38 é aqui aplicada a “nós”, incluindo ele próprio.
+
+## 1.46
+
+### Significado
+
+Se os filhos armados de Dhritarashtra me matassem na batalha enquanto eu permanecesse desarmado e sem oferecer resistência, isso seria melhor para mim.
+
+### Explicação
+
+Arjuna diz que seria melhor para ele ser morto desarmado e sem resistência do que lutar contra seus parentes. Os filhos de Dhritarashtra permaneceriam armados e seriam os que matariam. Isso leva sua recusa à formulação mais forte: prefere sofrer a morte a travar ele próprio a batalha.
+
+## 1.47
+
+### Significado
+
+Sanjaya disse: Tendo falado assim, Arjuna sentou-se no carro no campo de batalha. Deixou cair seu arco e suas flechas, com a mente tomada pela dor.
+
+### Explicação
+
+Sanjaya retoma a narração depois do discurso de Arjuna. Arjuna senta-se no carro e deixa cair o arco e as flechas, tomado pela dor. Sua recusa em lutar agora se expressa por meio de suas ações. A resposta de Krishna começa no capítulo 2, com Arjuna ainda nessa condição.
+
+## Fontes
+
+1. **O Bhagavad Gita, capítulo 1, texto sânscrito.** O leitor usa a transcrição do sânscrito clássico da coleção `gita/gita`, revisão `c6fce39595445768876ddbb8d1268a9c935e1d2b`, publicada sob a Unlicense. A fonte local registra correções de erros de transcrição e de ordenação Unicode. A transliteração para o alfabeto latino é gerada diretamente do devanágari exibido, em vez de ser copiada de outra edição. As traduções modernas, os significados de palavras e os comentários da coleção original não são importados. [Fonte sânscrita na revisão fixada](https://github.com/gita/gita/blob/c6fce39595445768876ddbb8d1268a9c935e1d2b/data/verse.json); [licença da fonte](https://github.com/gita/gita/blob/c6fce39595445768876ddbb8d1268a9c935e1d2b/LICENSE).
+
+2. **Kashinath Trimbak Telang, *The Bhagavadgîtâ*, Sacred Books of the East, volume VIII (1882), capítulo I.** Tradução em domínio público consultada para comparação com a narrativa e o vocabulário do capítulo. Os significados e as explicações acima foram escritos de novo; não reproduzem a formulação de Telang. [Capítulo I](https://sacred-texts.com/hin/sbe08/sbe0803.htm).
+
+3. **Shridhara e Baladeva, comentários sânscritos sobre Bhagavad Gita 1.10, reproduzidos com análise gramatical pelo projeto de pesquisa Bhagavadgita.** Suas leituras divergem quanto a *aparyāptam* descrever insuficiência ou extensão ilimitada. Essa diferença é identificada na explicação do verso 1.10; a análise moderna do projeto é consultada apenas para essa comparação. [Texto, gramática e comentários tradicionais](https://www.bhagavadgita.eu/en/?p=310).

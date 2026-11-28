@@ -1,0 +1,498 @@
+---
+title: 'Bhagavad Gita, capitolo 1: quando il guerriero si ferma'
+excerpt: >-
+  Una resa originale del significato e una spiegazione contestuale di ogni verso
+  del capitolo iniziale della Gita.
+scriptureChapterFor: bhagavad-gita
+chapter: 1
+tags:
+  - Bhagavad Gita
+  - Sanscrito
+  - Filosofia
+textSourceHash: d67655a74c1c16b86801ea639133fa5a21496da94c1561b3a96297433eb5795b
+sourceHash: 7d5ae614ccff6d09e88a0c963d5aad98c2db44dfe841805cdbec7badc5c8cfbb
+---
+
+Dhritarashtra chiede a Sanjaya che cosa sia accaduto quando gli eserciti si sono radunati a Kurukshetra. Sanjaya descrive i loro capi, le formazioni e le conchiglie da guerra. Arjuna chiede a Krishna di collocare il suo carro fra gli eserciti, vede i propri parenti e maestri e si rifiuta di combatterli. Il suo discorso menziona il peccato di uccidere i membri della famiglia e le conseguenze per i doveri familiari, le stirpi dei varna e gli antenati. Il capitolo termina con Arjuna che depone l’arco, sopraffatto dal dolore.
+
+Ogni **Significato** presenta in italiano la traduzione inglese del sanscrito. Ogni **Spiegazione** segue le affermazioni, i termini e l’argomentazione del verso. Le interpretazioni tradizionali attribuite a commentatori identificati per nome vengono distinte quando divergono. [1–3]
+
+## 1.1
+
+### Significato
+
+Dhritarashtra disse: Sanjaya, quando i miei figli e i figli di Pandu si radunarono a Kurukshetra, il campo del dharma, desiderosi di combattere, che cosa fecero?
+
+### Spiegazione
+
+Dhritarashtra chiede a Sanjaya che cosa sia accaduto quando i due eserciti si sono radunati per combattere. Distingue «i miei figli» dai «figli di Pandu», sebbene entrambi appartengano alla famiglia dei Kuru. Kurukshetra è chiamato *dharma-kṣetra*, il campo del dharma. La domanda del re apre il racconto dello scontro da parte di Sanjaya.
+
+## 1.2
+
+### Significato
+
+Sanjaya disse: Vedendo l’esercito dei Pandava schierato per la battaglia, il re Duryodhana si avvicinò al suo maestro e pronunciò queste parole.
+
+### Spiegazione
+
+Sanjaya comincia dalla reazione di Duryodhana alla formazione dei Pandava. Dopo aver visto l’esercito schierato, Duryodhana si avvicina al suo maestro Drona e gli parla. I versi seguenti contengono la sua valutazione dei guerrieri avversari e dei propri comandanti.
+
+## 1.3
+
+### Significato
+
+Maestro, guarda questo grande esercito dei figli di Pandu, disposto dal figlio di Drupada, il tuo intelligente allievo.
+
+### Spiegazione
+
+Duryodhana invita Drona a guardare il grande esercito dei Pandava e sottolinea che a disporlo è stato Dhrishtadyumna, figlio di Drupada e allievo di Drona. Le sue parole evidenziano che un guerriero formato dal maestro ora comanda le forze avversarie. «Il tuo intelligente allievo» identifica sia la formazione di Dhrishtadyumna sia la sua capacità.
+
+## 1.4
+
+### Significato
+
+Qui vi sono eroi, grandi arcieri pari in battaglia a Bhima e Arjuna: Yuyudhana, Virata e il grande guerriero su carro Drupada.
+
+### Spiegazione
+
+I guerrieri avversari vengono lodati come eroi e grandi arcieri. Bhima e Arjuna offrono il termine di paragone per la loro forza in battaglia. Duryodhana nomina Yuyudhana, Virata e Drupada come esempi; *mahāratha*, riferito a Drupada, indica un grande guerriero su carro.
+
+## 1.5
+
+### Significato
+
+Vi sono Dhrishtaketu, Chekitana, il potente re di Kashi, Purujit, Kuntibhoja e Shaibya, uomo eminente.
+
+### Spiegazione
+
+Duryodhana continua a nominare gli alleati dei Pandava: Dhrishtaketu, Chekitana, il re di Kashi, Purujit, Kuntibhoja e Shaibya. Il re di Kashi è descritto come potente e Shaibya come uomo eminente. Questi nomi proseguono la presentazione dei principali combattenti dell’esercito avversario.
+
+## 1.6
+
+### Significato
+
+Vi sono il valoroso Yudhamanyu, il vigoroso Uttamaujas, il figlio di Subhadra e i figli di Draupadi; tutti sono grandi guerrieri su carro.
+
+### Spiegazione
+
+L’elenco aggiunge Yudhamanyu, Uttamaujas, Abhimanyu, figlio di Subhadra, e i figli di Draupadi. Yudhamanyu viene definito valoroso e Uttamaujas vigoroso. Tutti i personaggi nominati nel verso sono descritti come grandi guerrieri su carro. I figli di Subhadra e di Draupadi introducono nell’elenco la generazione più giovane dei Pandava.
+
+## 1.7
+
+### Significato
+
+Conosci anche gli uomini illustri della nostra parte, o primo fra i nati due volte. Per tua informazione, nominerò i capi del mio esercito.
+
+### Spiegazione
+
+Dopo aver nominato i principali guerrieri della parte dei Pandava, Duryodhana si volge al proprio esercito. Dice a Drona che ne indicherà i comandanti. «Primo fra i nati due volte» si rivolge a Drona in quanto brahmano; la seconda nascita si riferisce all’iniziazione religiosa.
+
+## 1.8
+
+### Significato
+
+Vi sono tu stesso, Bhishma, Karna, Kripa, vittorioso in battaglia, Ashvatthama, Vikarna e il figlio di Somadatta.
+
+### Spiegazione
+
+Duryodhana nomina Drona, Bhishma, Karna, Kripa, Ashvatthama, Vikarna e il figlio di Somadatta. «Tu stesso» si rivolge a Drona, il maestro che ascolta il discorso. L’epiteto associato a Kripa loda la sua vittoria in battaglia. Insieme questi nomi identificano le forze principali dell’esercito di Duryodhana.
+
+## 1.9
+
+### Significato
+
+Molti altri eroi sono pronti a dare la vita per me. Portano armi diverse e sono tutti esperti in battaglia.
+
+### Spiegazione
+
+Duryodhana afferma che molti altri eroi hanno impegnato la propria vita per la sua causa. La loro disponibilità a morire, la varietà delle armi e la conoscenza della guerra completano la sua descrizione della forza dell’esercito. L’espressione «per me» lo identifica come la persona per la quale sono pronti a combattere.
+
+## 1.10
+
+### Significato
+
+La nostra forza, protetta da Bhishma, è insufficiente; la loro forza, protetta da Bhima, è sufficiente.
+
+### Spiegazione
+
+La parola *aparyāptam* ammette un’importante divergenza interpretativa. Letta come «insufficiente», l’affermazione di Duryodhana rivela ansia nonostante il suo impressionante elenco di alleati. Letta come «illimitata», diventa un vanto secondo cui la forza della sua parte supera quella avversaria, più limitata.
+
+I commentatori tradizionali conservano questo disaccordo: Shridhara interpreta la forza come incapace di affrontare l’avversario, mentre Baladeva la interpreta come incommensurabile. Il significato riportato sopra segue la prima lettura. Entrambe mantengono davanti al lettore lo stesso sanscrito; la differenza riguarda ciò che Duryodhana sta comunicando in questo momento. La sua istruzione successiva — proteggere Bhishma — può essere considerata alla luce dell’una o dell’altra interpretazione. [2, 3]
+
+## 1.11
+
+### Significato
+
+Tutti voi, appostati nelle posizioni assegnate presso gli accessi, dovete proteggere in particolare Bhishma.
+
+### Spiegazione
+
+Duryodhana ordina ai guerrieri di restare presso gli accessi loro assegnati e di proteggere in particolare Bhishma. L’istruzione segue il confronto fra le due forze in 1.10. La protezione di Bhishma deve essere un compito condiviso dai comandanti disposti in tutta la formazione.
+
+## 1.12
+
+### Significato
+
+Allora il valoroso anziano dei Kuru, il nonno Bhishma, ruggì come un leone e soffiò nella sua conchiglia, rallegrando Duryodhana.
+
+### Spiegazione
+
+Bhishma, l’anziano dei Kuru, risponde soffiando nella sua conchiglia. Il suo suono possente viene paragonato al ruggito di un leone, e Sanjaya afferma che rallegra Duryodhana. Il racconto passa ora dal discorso del comandante ai suoni che segnalano la prontezza alla battaglia.
+
+## 1.13
+
+### Significato
+
+Conchiglie, timpani, tamburi più piccoli e corni risuonarono allora insieme, producendo un enorme frastuono.
+
+### Spiegazione
+
+Dopo la conchiglia di Bhishma, gli strumenti dell’esercito risuonano insieme. Il verso nomina conchiglie, tamburi e corni, quindi descrive il loro suono congiunto come un enorme frastuono. Al singolo segnale del verso precedente segue la risposta collettiva dell’esercito.
+
+## 1.14
+
+### Significato
+
+Allora Madhava e il figlio di Pandu, seduti su un grande carro trainato da cavalli bianchi, soffiarono nelle loro conchiglie divine.
+
+### Spiegazione
+
+Krishna e Arjuna rispondono dal loro grande carro trainato da cavalli bianchi. «Madhava» nomina Krishna e «il figlio di Pandu» identifica Arjuna. Le loro conchiglie vengono definite divine. Qui comincia il racconto delle conchiglie suonate dalla parte dei Pandava.
+
+## 1.15
+
+### Significato
+
+Hrishikesha soffiò in Panchajanya, Dhananjaya in Devadatta, e il possente Bhima, noto come Vrikodara, nella grande conchiglia Paundra.
+
+### Spiegazione
+
+Il verso nomina ogni conchiglia e il suo proprietario. Krishna, chiamato Hrishikesha, soffia in Panchajanya; Arjuna, chiamato Dhananjaya, soffia in Devadatta; Bhima, chiamato Vrikodara, soffia in Paundra. Vengono sottolineate la grande forza di Bhima e la dimensione della sua conchiglia. I diversi epiteti identificano questi stessi tre guerrieri.
+
+## 1.16
+
+### Significato
+
+Il re Yudhishthira, figlio di Kunti, soffiò in Anantavijaya; Nakula e Sahadeva soffiarono in Sughosha e Manipushpaka.
+
+### Spiegazione
+
+Yudhishthira soffia in Anantavijaya, Nakula in Sughosha e Sahadeva in Manipushpaka. Yudhishthira viene identificato come re e figlio di Kunti. Con Bhima e Arjuna nominati nel verso precedente, sono ora identificate le conchiglie di tutti e cinque i fratelli Pandava.
+
+## 1.17
+
+### Significato
+
+Il grande arciere, re di Kashi, il grande guerriero su carro Shikhandi, Dhrishtadyumna, Virata e l’invitto Satyaki fecero anch’essi risuonare le loro conchiglie.
+
+### Spiegazione
+
+Il re di Kashi, Shikhandi, Dhrishtadyumna, Virata e Satyaki si uniscono al suono delle conchiglie. Le descrizioni lodano la loro abilità e forza: il re di Kashi è un grande arciere, Shikhandi un grande guerriero su carro e Satyaki è invitto. L’elenco prosegue nel verso successivo.
+
+## 1.18
+
+### Significato
+
+Drupada, i figli di Draupadi e il figlio di Subhadra dalle forti braccia soffiarono ciascuno nella propria conchiglia, o signore della terra.
+
+### Spiegazione
+
+Drupada, i figli di Draupadi e Abhimanyu, figlio di Subhadra, fanno risuonare ciascuno la propria conchiglia. «Signore della terra» è l’appellativo con cui Sanjaya si rivolge a Dhritarashtra, che ascolta il racconto. Il verso completa l’elenco dei guerrieri Pandava che partecipano a questa risposta.
+
+## 1.19
+
+### Significato
+
+Quel suono immenso riecheggiò nel cielo e sulla terra e lacerò i cuori degli uomini di Dhritarashtra.
+
+### Spiegazione
+
+Il suono congiunto riempie la terra e il cielo e incute paura negli uomini di Dhritarashtra. «Lacerò i cuori» descrive il suo effetto sul loro coraggio. Le conchiglie dei Pandava vengono così presentate come capaci di scuotere l’esercito avversario prima che i combattimenti si sviluppino.
+
+## 1.20
+
+### Significato
+
+Allora il figlio di Pandu, sul cui stendardo figurava l’emblema della scimmia, vide gli uomini di Dhritarashtra schierati e alzò l’arco mentre cominciava lo scontro delle armi.
+
+### Spiegazione
+
+Arjuna vede i guerrieri di Dhritarashtra in formazione di battaglia e alza l’arco. Il suo stendardo reca l’emblema della scimmia. Sanjaya colloca questa azione all’inizio dello scontro delle armi; Arjuna si sta ancora preparando a combattere quando formula la richiesta che segue.
+
+## 1.21
+
+### Significato
+
+O re, Arjuna si rivolse allora a Hrishikesha: Achyuta, colloca il mio carro fra i due eserciti.
+
+### Spiegazione
+
+Sanjaya si rivolge a Dhritarashtra chiamandolo «re», poi introduce le parole di Arjuna. Arjuna chiede a Krishna di collocare il carro fra i due eserciti. Hrishikesha e Achyuta sono nomi di Krishna. Il cambio di parlante separa l’appello di Sanjaya al re dalla richiesta di Arjuna al suo auriga.
+
+## 1.22
+
+### Significato
+
+Lascia che guardi coloro che stanno qui desiderosi di combattere e veda con chi devo scontrarmi in questa impresa di guerra.
+
+### Spiegazione
+
+Arjuna spiega lo scopo della sua richiesta: vuole osservare i guerrieri venuti a combattere e identificare quelli che deve affrontare. La posizione del carro fra gli eserciti gli permetterà di vedere entrambe le formazioni prima di entrare in battaglia. La sua richiesta prosegue in 1.23.
+
+## 1.23
+
+### Significato
+
+Voglio vedere coloro che si sono radunati qui per combattere, desiderosi di compiacere in questa battaglia il malintenzionato figlio di Dhritarashtra.
+
+### Spiegazione
+
+Arjuna descrive i guerrieri avversari come uomini radunati per compiacere Duryodhana, figlio di Dhritarashtra. Definisce Duryodhana malintenzionato e chiede di vedere coloro che lo sostengono. Questa è la valutazione del nemico da parte di Arjuna nel momento in cui intende ancora combattere.
+
+## 1.24
+
+### Significato
+
+Sanjaya disse: Così interpellato da Gudakesha, Hrishikesha collocò l’eccellente carro fra i due eserciti, o discendente di Bharata.
+
+### Spiegazione
+
+Krishna esegue la richiesta di Arjuna e colloca il carro fra gli eserciti. Sanjaya si rivolge a Dhritarashtra come discendente di Bharata mentre riferisce lo spostamento. Il verso successivo identifica i guerrieri davanti ai quali Krishna arresta il carro.
+
+## 1.25
+
+### Significato
+
+Davanti a Bhishma, Drona e agli altri sovrani, Krishna disse: Partha, guarda questi Kuru radunati qui.
+
+### Spiegazione
+
+Krishna si ferma davanti a Bhishma, Drona e agli altri sovrani, poi invita Arjuna a guardare i Kuru riuniti. Il nome «Kuru» identifica la stirpe comune dei parenti che si fronteggiano. Bhishma e Drona, il parente anziano di Arjuna e il suo maestro, si trovano direttamente davanti a lui mentre osserva gli eserciti.
+
+## 1.26
+
+### Significato
+
+Lì Partha vide davanti a sé padri e nonni, maestri, zii materni, fratelli, figli, nipoti e amici.
+
+### Spiegazione
+
+Arjuna vede parenti di più generazioni, insieme a maestri e amici. «Padri» comprende uomini della generazione di suo padre; Pandu, il suo stesso padre, è già morto. L’elenco identifica le persone sul campo attraverso i loro legami con Arjuna, avviando il passaggio dall’osservare nemici al riconoscere i propri cari.
+
+## 1.27
+
+### Significato
+
+Vide anche suoceri e persone che gli volevano bene in entrambi gli eserciti. Il figlio di Kunti passò in rassegna con lo sguardo tutti quei parenti radunati lì.
+
+### Spiegazione
+
+Arjuna riconosce anche suoceri e persone che gli vogliono bene in entrambi gli eserciti. I suoi parenti e le persone a lui legate sono presenti da entrambe le parti della battaglia. Il verso completa l’osservazione iniziata in 1.26, dopo la quale Sanjaya descrive la compassione e il dolore di Arjuna.
+
+## 1.28
+
+### Significato
+
+Sopraffatto da una profonda compassione e sprofondando nel dolore, Arjuna disse: Krishna, vedendo i miei qui, desiderosi di combattere —
+
+### Spiegazione
+
+Sanjaya dice che Arjuna è sopraffatto dalla compassione e dal dolore alla vista dei propri parenti. Arjuna comincia allora a parlare a Krishna del vedere i suoi cari desiderosi di battaglia. La sua frase prosegue in 1.29, dove descrive gli effetti corporei della sua afflizione.
+
+## 1.29
+
+### Significato
+
+Le mie membra cedono, la bocca si inaridisce, il corpo trema e i peli si rizzano.
+
+### Spiegazione
+
+Arjuna nomina quattro sintomi corporei: debolezza delle membra, secchezza della bocca, tremore e peli che si rizzano. Derivano dal vedere i parenti radunati per la battaglia. Il verso successivo continua il racconto della condizione che gli impedisce di restare pronto a combattere.
+
+## 1.30
+
+### Significato
+
+Gandiva mi scivola dalla mano, la pelle brucia, non riesco a stare saldo e la mente sembra vacillare.
+
+### Spiegazione
+
+Arjuna dice che Gandiva, il suo arco, gli scivola dalla mano. Avverte bruciore alla pelle, non riesce a restare saldo e sente la mente vacillare. La sua descrizione combina la perdita di controllo dell’arma, la sofferenza corporea e la confusione mentale. Prosegue i sintomi elencati in 1.29.
+
+## 1.31
+
+### Significato
+
+Vedo segni sfavorevoli, Keshava, e non vedo alcun bene derivare dall’uccidere i miei cari in battaglia.
+
+### Spiegazione
+
+Arjuna riferisce segni sfavorevoli e dichiara che uccidere i propri parenti non porterà alcun bene. Keshava è l’appellativo con cui si rivolge a Krishna. Il suo discorso passa ora dalla sofferenza corporea alle ragioni per rifiutare la battaglia, cominciando dal suo giudizio sulle conseguenze dell’uccisione dei suoi cari.
+
+## 1.32
+
+### Significato
+
+Non desidero la vittoria, Krishna, né il potere regale né i suoi piaceri. A che ci servono un regno, i godimenti o persino la vita, Govinda?
+
+### Spiegazione
+
+Arjuna rifiuta le consuete ricompense della vittoria: il potere regale, il godimento e il piacere. Chiede a che servirebbero un regno, i suoi godimenti o persino la vita. I versi seguenti spiegano la ragione: i parenti per i quali si desideravano queste ricompense si trovano essi stessi in battaglia.
+
+## 1.33
+
+### Significato
+
+Coloro per i quali volevamo un regno, godimenti e piaceri sono qui in battaglia, dopo aver messo a rischio la vita e i beni.
+
+### Spiegazione
+
+Arjuna dice che le persone per le quali lui e i suoi fratelli desideravano il potere regale e il godimento hanno messo in gioco la vita e i beni. La vittoria richiederebbe di combattere quelle stesse persone. Questo risponde alla domanda di 1.32 collegando il valore del regno ai parenti presenti sul campo.
+
+## 1.34
+
+### Significato
+
+Maestri, padri, figli e nonni; zii materni, suoceri, nipoti, cognati e altri parenti sono qui.
+
+### Spiegazione
+
+Arjuna specifica i parenti e i maestri la cui presenza lo turba. Comprendono anziani, discendenti e parenti acquisiti tramite matrimonio. L’elenco continua la sua spiegazione del perché il potere regale e i suoi piaceri non lo attraggano più: ottenerli comporterebbe uccidere persone con cui pensava di condividerli.
+
+## 1.35
+
+### Significato
+
+Madhusudana, non voglio uccidere queste persone, anche se esse uccidessero me — neppure per la sovranità sui tre mondi, tanto meno per questa terra.
+
+### Spiegazione
+
+Arjuna dice che non ucciderà questi parenti e maestri, anche se essi lo uccidessero. Rifiuta persino la sovranità sui tre mondi come ricompensa per farlo e rifiuta dunque la ricompensa minore di governare la terra. Il confronto esprime la portata del suo rifiuto.
+
+## 1.36
+
+### Significato
+
+Quale gioia potrebbe venirci dall’uccidere i figli di Dhritarashtra, Janardana? Il peccato ricadrebbe su di noi se uccidessimo questi aggressori.
+
+### Spiegazione
+
+Arjuna definisce i figli di Dhritarashtra aggressori, ma dice che ucciderli porterebbe il peccato sulla propria parte. Chiede quale piacere potrebbe seguire alla loro morte. Il verso mantiene insieme entrambe le descrizioni: gli uomini sono aggressori e sono parenti la cui uccisione Arjuna ritiene peccaminosa.
+
+## 1.37
+
+### Significato
+
+Perciò non dovremmo uccidere i figli di Dhritarashtra, i nostri stessi parenti. Come potremmo essere felici dopo aver ucciso i nostri cari, Madhava?
+
+### Spiegazione
+
+Arjuna conclude che non dovrebbero uccidere i figli di Dhritarashtra perché essi sono i loro stessi parenti. Chiede di nuovo come uccidere i propri cari possa produrre felicità. La conclusione segue la sua affermazione in 1.36 secondo cui uccidere questi aggressori porterebbe peccato anziché gioia.
+
+## 1.38
+
+### Significato
+
+Anche se costoro, con la mente sopraffatta dall’avidità, non vedono il male di distruggere una famiglia né il peccato di tradire gli amici —
+
+### Spiegazione
+
+Arjuna dice che l’avidità ha reso la parte avversaria cieca al male di distruggere una famiglia e tradire gli amici. La sua frase continua nel verso successivo. Distingue la loro incapacità di vedere questi peccati dalla consapevolezza della propria parte riguardo a ciò che la distruzione della famiglia comporterebbe.
+
+## 1.39
+
+### Significato
+
+Perché non dovremmo saperci allontanare da questo peccato, Janardana, quando vediamo chiaramente il danno causato dalla distruzione di una famiglia?
+
+### Spiegazione
+
+Arjuna chiede perché coloro che riconoscono il danno di distruggere una famiglia non debbano allontanarsi da quel peccato. La sua argomentazione si fonda sulla differenza enunciata in 1.38: gli avversari sono accecati dall’avidità, mentre lui e i suoi compagni possono vedere le conseguenze. Descrive poi tali conseguenze in 1.40–44.
+
+## 1.40
+
+### Significato
+
+Quando una famiglia viene distrutta, periscono i suoi antichi doveri e le sue tradizioni familiari. Quando quel dharma viene meno, l’adharma invade l’intera famiglia.
+
+### Spiegazione
+
+Arjuna dice che distruggere una famiglia distrugge il suo antico *kula-dharma*: i doveri, i riti e le tradizioni ereditati. Una volta scomparso quel dharma, l’adharma invade la famiglia. Inizia così la sua sequenza di conseguenze che collega le morti in battaglia alla corruzione della famiglia, alla mescolanza dei varna e alla punizione nell’inferno.
+
+## 1.41
+
+### Significato
+
+Quando prevale l’adharma, Krishna, le donne della famiglia si corrompono; e quando ciò accade, discendente di Vrishni, sorge la mescolanza dei varna.
+
+### Spiegazione
+
+Arjuna presenta gli anelli successivi della sequenza: quando prevale l’adharma, le donne della famiglia si corrompono; dalla loro corruzione nasce il *varṇa-saṅkara*, la mescolanza dei varna. La sua argomentazione collega la conservazione del dharma familiare alla condotta delle donne e alla continuazione di stirpi distinte dei varna. Il verso successivo espone le conseguenze per la famiglia e i suoi antenati.
+
+## 1.42
+
+### Significato
+
+Una simile mescolanza porta all’inferno coloro che distruggono una famiglia e la famiglia stessa. Anche i loro antenati cadono, privati delle offerte di palline di riso e acqua.
+
+### Spiegazione
+
+Arjuna dice che la mescolanza dei varna porta all’inferno i distruttori della famiglia e la famiglia stessa. Anche gli antenati cadono perché cessano le offerte di palline di riso e acqua. La perdita dei discendenti che mantengono questi riti colpisce dunque i morti oltre a coloro che vivono dopo la battaglia.
+
+## 1.43
+
+### Significato
+
+A causa di queste colpe di coloro che distruggono le famiglie, colpe che provocano la mescolanza dei varna, vengono sradicati gli antichi doveri dei gruppi sociali e delle famiglie.
+
+### Spiegazione
+
+Arjuna dice che le colpe di coloro che distruggono le famiglie producono la mescolanza dei varna e sradicano doveri duraturi. *Jāti-dharma* si riferisce ai doveri dei gruppi sociali, e *kula-dharma* ai doveri familiari. La sua argomentazione collega l’uccisione dei membri della famiglia alla distruzione dell’ordine sociale e rituale ereditato.
+
+## 1.44
+
+### Significato
+
+Janardana, abbiamo sentito dire che le persone i cui doveri familiari sono stati distrutti devono affrontare una permanenza indefinita nell’inferno.
+
+### Spiegazione
+
+Arjuna si richiama a ciò che ha udito attraverso la tradizione: coloro i cui doveri familiari sono stati distrutti dimorano nell’inferno. Questa edizione legge *aniyatam*, reso qui con «indefinita», per la durata di tale permanenza. La minaccia della punizione completa il suo racconto delle conseguenze della distruzione della famiglia.
+
+## 1.45
+
+### Significato
+
+Ahimè, abbiamo deciso di commettere un grande peccato: per avidità dei piaceri del potere regale, siamo pronti a uccidere i nostri cari.
+
+### Spiegazione
+
+Arjuna definisce ora un grande peccato l’azione che la sua stessa parte intende compiere. Dice che l’avidità dei piaceri del potere regale li ha resi pronti a uccidere i propri parenti. L’accusa di avidità che rivolgeva agli avversari in 1.38 viene qui applicata a «noi», includendo sé stesso.
+
+## 1.46
+
+### Significato
+
+Se i figli armati di Dhritarashtra mi uccidessero in battaglia mentre rimanessi disarmato e non opponessi resistenza, sarebbe meglio per me.
+
+### Spiegazione
+
+Arjuna dice che per lui sarebbe meglio essere ucciso disarmato e senza resistere che combattere contro i propri parenti. I figli di Dhritarashtra resterebbero armati e sarebbero loro a uccidere. Il suo rifiuto raggiunge qui l’espressione più forte: preferisce subire la morte anziché condurre egli stesso la battaglia.
+
+## 1.47
+
+### Significato
+
+Sanjaya disse: Dopo aver parlato così, Arjuna si sedette nel carro sul campo di battaglia. Lasciò cadere arco e frecce, con la mente sopraffatta dal dolore.
+
+### Spiegazione
+
+Sanjaya riprende la narrazione dopo il discorso di Arjuna. Arjuna si siede nel carro e lascia cadere arco e frecce, sopraffatto dal dolore. Il suo rifiuto di combattere si esprime ora attraverso le azioni. La risposta di Krishna comincia nel capitolo 2, con Arjuna ancora in questa condizione.
+
+## Fonti
+
+1. **La Bhagavad Gita, capitolo 1, testo sanscrito.** Il lettore usa la trascrizione del sanscrito classico nella raccolta `gita/gita`, revisione `c6fce39595445768876ddbb8d1268a9c935e1d2b`, pubblicata sotto Unlicense. La fonte locale registra le correzioni agli errori di trascrizione e di ordinamento Unicode. La traslitterazione latina viene generata direttamente dal devanagari visualizzato, anziché copiata da un’altra edizione. Le traduzioni moderne, i significati delle parole e i commenti della raccolta originaria non vengono importati. [Fonte sanscrita nella revisione fissata](https://github.com/gita/gita/blob/c6fce39595445768876ddbb8d1268a9c935e1d2b/data/verse.json); [licenza della fonte](https://github.com/gita/gita/blob/c6fce39595445768876ddbb8d1268a9c935e1d2b/LICENSE).
+
+2. **Kashinath Trimbak Telang, *The Bhagavadgîtâ*, Sacred Books of the East, volume VIII (1882), capitolo I.** Traduzione di pubblico dominio consultata per il confronto con la narrazione e il lessico del capitolo. I significati e le spiegazioni sopra riportati sono di nuova stesura; non riproducono le formulazioni di Telang. [Capitolo I](https://sacred-texts.com/hin/sbe08/sbe0803.htm).
+
+3. **Shridhara e Baladeva, commenti sanscriti a Bhagavad Gita 1.10, riprodotti con analisi grammaticale dal progetto di ricerca Bhagavadgita.** Le loro letture divergono sul fatto che *aparyāptam* indichi insufficienza o estensione illimitata. Questa differenza è segnalata nella spiegazione del verso 1.10; l’analisi moderna del progetto viene consultata soltanto per questo confronto. [Testo, grammatica e commenti tradizionali](https://www.bhagavadgita.eu/en/?p=310).

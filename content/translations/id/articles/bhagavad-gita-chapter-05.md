@@ -1,0 +1,314 @@
+---
+title: 'Bhagavad Gita, Bab 5: pelepasan di dalam tindakan'
+excerpt: >-
+  Makna orisinal dan penjelasan kontekstual atas seluruh 29 ayat tentang pelepasan,
+  pandangan yang setara, dan kebebasan batin.
+scriptureChapterFor: bhagavad-gita
+chapter: 5
+tags:
+  - Bhagavad Gita
+  - Sanskerta
+  - Filsafat
+textSourceHash: be91a622f3603e49e937763a545a66c30e327139597c525b33c0ffd7692f5296
+sourceHash: 5bcaedf80bfa9c3b6daf825d953ec321860aee3068dc166ef6a16bc12b303091
+---
+
+Arjuna bertanya apakah pelepasan atau yoga tindakan yang lebih baik. Krishna memuji keduanya tetapi menyebut karma-yoga lebih unggul, lalu menjelaskan pelepasan, ketiadaan rasa sebagai pelaku, dan kebebasan dari buah tindakan. Bab ini menguraikan pandangan yang setara, penolakan atas kesenangan dalam kenikmatan indrawi, dan pembebasan di dalam Brahman. Bab ini berakhir dengan Krishna menyatakan dirinya sebagai penikmat kurban dan pertapaan, Tuhan seluruh dunia, dan sahabat semua makhluk.
+
+Setiap **Makna** menyajikan terjemahan teks Sanskerta dalam bahasa Indonesia. Setiap **Penjelasan** mengikuti pernyataan, istilah, dan alur argumen ayat. Tafsir tradisional yang dikaitkan dengan penafsir tertentu dibedakan ketika terdapat perbedaan pandangan. [1–2]
+
+## 5.1
+
+### Makna
+
+Arjuna berkata: Krishna, engkau memuji pelepasan tindakan dan juga yoga. Katakan kepadaku secara pasti manakah di antara keduanya yang lebih baik.
+
+### Penjelasan
+
+Pertanyaan ini kembali muncul dalam bentuk yang lebih terarah setelah Bab 4. Arjuna telah mendengar bahwa pengetahuan membakar tindakan dan bahwa ia harus bangkit ke dalam yoga, sehingga ia kembali bertanya bagaimana pelepasan dan aktivitas yang berdisiplin saling berkaitan. Ia mencari keputusan praktis, bukan sekadar persetujuan bahwa keduanya bernilai. Jawaban bab ini akan memperjelas apa yang dilepaskan ketika seseorang bertindak dengan pemahaman.
+
+## 5.2
+
+### Makna
+
+Tuhan berkata: Pelepasan dan disiplin tindakan keduanya mengantarkan pada kebaikan tertinggi. Namun di antara keduanya, disiplin tindakan lebih unggul daripada pelepasan tindakan.
+
+### Penjelasan
+
+Krishna mengakui tujuan pembebasan dari kedua orientasi tersebut sambil memberi Arjuna pilihan yang tegas. Ayat-ayat berikutnya menjelaskan alasannya: kebebasan batin yang sesuai dengan pelepasan sulit ditegakkan tanpa disiplin, sedangkan tindakan dapat mempersiapkan dan mengungkapkan kebebasan itu. Oleh karena itu, perbandingan ini berada dalam percakapan tentang praktik spiritual yang nyata, termasuk syarat-syarat agar seseorang dapat menjalaninya dengan baik.
+
+## 5.3
+
+### Makna
+
+Kenalilah sebagai seorang pelepas yang terus-menerus orang yang tidak membenci dan tidak pula mendambakan. Bebas dari tarikan yang berlawanan, orang itu mudah terlepas dari ikatan, wahai yang berlengan perkasa.
+
+### Penjelasan
+
+Pelepasan kini dikenali melalui hubungan seseorang dengan ketertarikan dan penolakan. Uraian ini memungkinkan pelepasan dikenali di tengah kehidupan yang aktif. Seseorang tidak lagi harus mengatur perilakunya untuk memperoleh hal yang menyenangkan dan menyingkirkan hal yang tidak menyenangkan. Kebebasan dari tarikan yang berlawanan ini menjadi dasar batin bagi pernyataan bahwa tindakan yang berdisiplin dapat mengantarkan menuju kebaikan tertinggi yang sama.
+
+## 5.4
+
+### Makna
+
+Orang yang belum matang membicarakan jalan pengetahuan dan jalan tindakan sebagai sesuatu yang sepenuhnya terpisah; orang bijak tidak demikian. Dengan menjadi teguh mantap pada salah satunya, seseorang memperoleh buah dari keduanya.
+
+### Penjelasan
+
+Ayat ini memandang kedua jalan tersebut melalui penggenapan yang dihasilkan oleh praktik yang dijalankan dengan semestinya. Krishna mengkritik pemisahan yang mengabaikan hubungan di antara keduanya. Kata “mantap” sangat penting: pernyataan ini menyangkut jalan yang benar-benar dijalani hingga tuntas, dengan pemahaman dan disiplin yang dituntutnya. Dengan demikian, ayat ini memperluas pembedaan pendekatan sebelumnya sambil tetap menjaga keharusan mempraktikkan orientasi yang sesuai dengan keadaan seseorang.
+
+## 5.5
+
+### Makna
+
+Keadaan yang dicapai oleh para pengikut pengetahuan juga dicapai oleh para pengikut yoga. Orang yang melihat pengetahuan dan yoga sebagai menyatu dalam tujuannya sungguh-sungguh melihat.
+
+### Penjelasan
+
+Krishna menegaskan kembali titik temu itu melalui kata *sthāna*, keadaan atau tujuan yang dicapai. Tindakan yang didisiplinkan oleh yoga dan pengejaran pengetahuan dipertemukan melalui penggenapan tersebut. Dalam alur bab ini, hal itu meluruskan anggapan Arjuna bahwa memuji salah satunya berarti harus merendahkan yang lain. Ayat berikutnya kembali membahas persiapan yang membuat pelepasan sejati mungkin terwujud.
+
+## 5.6
+
+### Makna
+
+Pelepasan sulit dicapai tanpa yoga, wahai yang berlengan perkasa. Orang yang kontemplatif dan terhubung dengan yoga mencapai Brahman dalam waktu yang tidak lama.
+
+### Penjelasan
+
+Pelepasan sulit dicapai tanpa yoga. Orang kontemplatif yang mantap dalam yoga mencapai Brahman dalam waktu yang tidak lama. Hal ini memberikan alasan bagi pilihan yang dinyatakan dalam 5.2: disiplin yoga diperlukan untuk mencapai apa yang dicari melalui pelepasan.
+
+## 5.7
+
+### Makna
+
+Orang yang terhubung dengan yoga, disucikan batinnya, mengendalikan diri dan menguasai indra-indranya, yang dirinya adalah diri semua makhluk, tetap tidak ternoda bahkan saat bertindak.
+
+### Penjelasan
+
+Seorang yogin disucikan, mengendalikan diri, dan menguasai indra-indranya. Ayat ini selanjutnya menggambarkan diri orang tersebut sebagai diri semua makhluk. Bahkan saat bertindak, orang seperti itu tidak ternoda oleh tindakan. Kualitas-kualitas ini menyatakan kondisi ketika tindakan terus berlangsung tanpa mengikat pelakunya.
+
+## 5.8
+
+### Makna
+
+Seorang pengetahui realitas yang berdisiplin harus memahami: aku sama sekali tidak melakukan apa pun, bahkan ketika melihat, mendengar, menyentuh, mencium, makan, berjalan, tidur, dan bernapas.
+
+### Penjelasan
+
+Sang pengetahui memahami “aku sama sekali tidak melakukan apa pun” sementara aktivitas tubuh yang disebutkan itu terus berlangsung. Melihat, mendengar, makan, berjalan, tidur, dan bernapas tidak menjadikan diri sebagai pelakunya. Kalimat ini berlanjut pada 5.9 dengan penjelasan bahwa indra-indra bekerja di antara objek-objeknya.
+
+## 5.9
+
+### Makna
+
+Bahkan ketika berbicara, melepaskan, mengambil, membuka dan menutup mata, sang pengetahui memahami bahwa indra-indra sedang bekerja di antara objek-objeknya.
+
+### Penjelasan
+
+Berbicara, mengeluarkan, menggenggam, serta membuka atau menutup mata melengkapi daftar yang dimulai pada 5.8. Sang pengetahui memahami fungsi-fungsi ini sebagai bekerjanya indra-indra di antara objek-objeknya. Pernyataan ini menyangkut ketiadaan rasa sebagai pelaku pada diri selama aktivitas tubuh terus berlangsung.
+
+## 5.10
+
+### Makna
+
+Orang yang menempatkan tindakan di dalam Brahman dan bertindak setelah melepaskan keterikatan tidak ternoda oleh kesalahan, sebagaimana daun teratai tidak dibasahi oleh air.
+
+### Penjelasan
+
+Citra teratai menunjukkan persentuhan tanpa melekat. Daun itu tetap berada di lingkungan berairnya, sementara air tidak menempel padanya seperti biasa. Demikian pula, pelaku praktik bertindak sambil mempersembahkan aktivitas ke dalam Brahman dan melepaskan rasa memiliki. Metafora ini memberi bentuk yang tampak bagi argumen bab ini bahwa kebebasan spiritual dapat dijalani melalui hubungan yang terubah terhadap tindakan.
+
+## 5.11
+
+### Makna
+
+Para yogin bertindak melalui tubuh, pikiran, pemahaman, dan indra-indra itu sendiri, dengan melepaskan keterikatan, demi penyucian diri.
+
+### Penjelasan
+
+Berbagai instrumen aktivitas semuanya tercakup. Penyucian memberi arah yang padu bagi penggunaannya, sehingga baik kerja tubuh maupun upaya intelektual tidak berada di luar praktik. Krishna kembali menegaskan pelepasan keterikatan sebagai hal yang esensial. Ayat ini juga membedakan tujuan persiapan spiritual dari pengejaran imbalan pribadi, yang membantu menjelaskan mengapa tindakan berdisiplin dianjurkan kepada Arjuna.
+
+## 5.12
+
+### Makna
+
+Orang yang berdisiplin melepaskan buah tindakan dan mencapai kedamaian yang mantap. Orang yang tidak berdisiplin, digerakkan oleh keinginan dan terikat pada buahnya, menjadi terbelenggu.
+
+### Penjelasan
+
+Melepaskan buah tindakan mendatangkan kedamaian yang mantap bagi orang yang berdisiplin. Keinginan dan keterikatan pada buah tindakan membelenggu orang yang tidak berdisiplin. Krishna mengaitkan hasil yang berbeda itu dengan ada atau tidaknya keterikatan pada apa yang dihasilkan tindakan.
+
+## 5.13
+
+### Makna
+
+Dengan melepaskan semua tindakan secara batiniah, sang penghuni bertubuh yang mengendalikan diri berdiam dengan bahagia di kota bersembilan gerbang, tidak bertindak dan tidak pula menyebabkan tindakan.
+
+### Penjelasan
+
+Kota bersembilan gerbang adalah tubuh: dua mata, dua telinga, dua lubang hidung, mulut, dan dua lubang bagian bawah. Diri bertubuh yang mengendalikan diri berdiam di sana dengan bahagia setelah melepaskan semua tindakan secara mental. Ia tidak bertindak dan tidak menyebabkan tindakan.
+
+## 5.14
+
+### Makna
+
+Sang tuan tidak menciptakan keagenan maupun tindakan-tindakan dunia, tidak pula penyatuan tindakan dengan buahnya. Sebaliknya, kodrat bawaan seseoranglah yang bekerja.
+
+### Penjelasan
+
+*Prabhu* berarti tuan atau penguasa. Ayat ini menyangkal bahwa tuan tersebut menciptakan keagenan, tindakan, atau hubungan antara tindakan dan buahnya. *Svabhāva*, kodrat, itulah yang bekerja. Pembedaan ini menisbatkan penghasilan tindakan kepada kodrat, bukan kepada diri yang berdaulat.
+
+## 5.15
+
+### Makna
+
+Yang meliputi segala sesuatu tidak mengambil kesalahan siapa pun maupun perbuatan baiknya. Pengetahuan ditutupi oleh ketidaktahuan; melalui itulah makhluk-makhluk menjadi bingung.
+
+### Penjelasan
+
+Yang meliputi segala sesuatu tidak mengambil dosa maupun pahala siapa pun. Ketidaktahuan menutupi pengetahuan, dan makhluk-makhluk tersesat oleh selubung ini. Ayat ini menyatakan ketiadaan pengambilan atas perbuatan baik dan jahat, serta mengidentifikasi ketidaktahuan sebagai penyebab kebingungan makhluk-makhluk.
+
+## 5.16
+
+### Makna
+
+Namun bagi mereka yang ketidaktahuannya tentang diri telah dihancurkan oleh pengetahuan, pengetahuan itu menerangi yang tertinggi sebagaimana matahari melakukannya.
+
+### Penjelasan
+
+Ketika pengetahuan menghancurkan ketidaktahuan mengenai diri, ia menyingkapkan yang tertinggi sebagaimana cahaya matahari menerangi apa yang tersembunyi. Pengetahuan adalah agen penerangan ini. Pertentangannya adalah dengan 5.15, tempat ketidaktahuan menutupi pengetahuan dan menyesatkan makhluk-makhluk.
+
+## 5.17
+
+### Makna
+
+Dengan pemahaman yang diarahkan kepada itu, diri yang mantap di dalam itu, teguh di dalam itu, dan menjadikan itu sebagai tempat berlindung tertinggi, mereka mencapai keadaan tidak kembali lagi, kesalahan-kesalahan mereka dibersihkan oleh pengetahuan.
+
+### Penjelasan
+
+Kata “itu” yang diulang-ulang menyatukan beberapa dimensi seseorang: daya pembeda, jati diri, keteguhan, dan orientasi tertinggi. Keadaan tidak kembali lagi yang dijanjikan termasuk dalam uraian Gita tentang pembebasan dari kelahiran yang berulang. Peran pengetahuan yang menyucikan kembali menjadi pusat. Ayat ini menggambarkan keseluruhan hidup yang ditata di sekitar realitas yang diterangi dalam 5.16, mempersiapkan uraian tentang bagaimana orang seperti itu memandang makhluk lain.
+
+## 5.18
+
+### Makna
+
+Orang bijak memandang dengan pandangan yang setara seorang brahmana yang terpelajar dan rendah hati, seekor sapi, seekor gajah, seekor anjing, dan orang yang memasak anjing.
+
+### Penjelasan
+
+Contoh-contohnya berurutan dari seorang Brahmana yang terpelajar dan rendah hati hingga hewan-hewan dan pemakan atau pemasak anjing, *śvapāka*. Pemasak anjing menempati kedudukan yang rendah dan tidak suci dalam hierarki sosial yang diandaikan oleh daftar tersebut. Orang bijak memandang secara setara melampaui perbedaan-perbedaan ini karena, sebagaimana dinyatakan dalam 5.19, Brahman adalah setara dan tanpa cacat.
+
+## 5.19
+
+### Makna
+
+Mereka yang pikirannya beristirahat dalam kesetaraan telah mengatasi siklus kelahiran di sini juga. Brahman tanpa cacat dan setara; karena itu mereka mantap di dalam Brahman.
+
+### Penjelasan
+
+Mereka yang mantap dalam kesetaraan mengatasi kelahiran kembali di sini, selama kehidupan bertubuh mereka. Krishna menyebutkan ketanpacacatan dan kesamaan Brahman sebagai alasannya: pikiran mereka beristirahat dalam kesetaraan, dan mereka mantap di dalam Brahman yang sama itu. Pandangan yang setara dalam 5.18 dengan demikian terhubung langsung dengan pembebasan.
+
+## 5.20
+
+### Makna
+
+Orang yang mengenal Brahman dan mantap di dalam Brahman hendaknya tidak bersorak ketika menerima apa yang menyenangkan dan tidak pula terguncang ketika menemui apa yang tidak menyenangkan, tetap jernih dan teguh dalam pemahaman.
+
+### Penjelasan
+
+Pandangan yang setara dari ayat-ayat sebelumnya kini tampak dalam tanggapan seseorang terhadap peristiwa. Pengalaman yang menyenangkan dan tidak menyenangkan tetap terjadi, sementara pemahaman tetap teguh sepanjang kedatangannya. Ini kembali pada uraian tentang kebijaksanaan yang stabil dalam Bab 2. Kemantapan di dalam Brahman terungkap dalam cara menghadapi keadaan yang berubah-ubah, sehingga ajaran metafisik tersebut terhubung langsung dengan pengalaman hidup.
+
+## 5.21
+
+### Makna
+
+Tidak terikat pada persentuhan luar, seseorang menemukan kebahagiaan di dalam diri. Dengan diri yang terhubung kepada Brahman melalui yoga, orang itu mengalami kebahagiaan yang abadi.
+
+### Penjelasan
+
+Orang yang terlepas dari persentuhan luar menemukan kebahagiaan di dalam diri. Penyatuan dengan Brahman melalui yoga membawa kebahagiaan yang tidak binasa. Krishna mempertentangkan kebahagiaan abadi ini dengan kesenangan yang bergantung pada persentuhan indra dan objek.
+
+## 5.22
+
+### Makna
+
+Kenikmatan yang lahir dari persentuhan adalah sumber penderitaan, sebab ia memiliki awal dan akhir, wahai putra Kunti. Orang yang berdaya pembeda tidak bersenang-senang di dalamnya.
+
+### Penjelasan
+
+Krishna menyebut kesenangan yang lahir dari persentuhan sebagai sumber penderitaan karena ia bermula dan berakhir. Orang bijak tidak bersenang-senang di dalamnya. Ayat ini menolak kesenangan-kesenangan tersebut sebagai objek kenikmatan bagi orang yang berdaya pembeda dan melanjutkan pertentangannya dengan kebahagiaan abadi di dalam Brahman.
+
+## 5.23
+
+### Makna
+
+Orang yang mampu menahan, di sini dan sebelum meninggalkan tubuh, gejolak yang muncul dari keinginan dan kemarahan adalah orang yang berdisiplin dan merupakan orang yang bahagia.
+
+### Penjelasan
+
+Dorongan keinginan dan kemarahan harus ditahan di sini, sebelum tubuh ditinggalkan saat kematian. Orang yang mampu menanggung dorongan ini disebut seorang yogin dan orang yang bahagia. Krishna menempatkan penguasaan yang dituntut itu di dalam kehidupan bertubuh saat ini.
+
+## 5.24
+
+### Makna
+
+Orang yang kebahagiaannya berada di dalam, kesenangannya berada di dalam, dan cahayanya berada di dalam adalah seorang yogin yang, mantap di dalam Brahman, mencapai pembebasan di dalam Brahman.
+
+### Penjelasan
+
+Seorang yogin menemukan kebahagiaan, kesenangan, dan cahaya di dalam dirinya. Dengan menjadi Brahman, orang itu mencapai *brahma-nirvāṇa*, pembebasan di dalam Brahman. Penekanan berulang pada apa yang berada di dalam mengidentifikasi sumber kebahagiaan dan pencerahan yogin tersebut.
+
+## 5.25
+
+### Makna
+
+Para resi yang kesalahannya telah berkurang, yang keraguannya yang terbelah telah terpotong, yang dirinya terkendali, dan yang bersukacita dalam kesejahteraan semua makhluk mencapai pembebasan di dalam Brahman.
+
+### Penjelasan
+
+Kepedulian terhadap kebaikan semua makhluk termasuk langsung dalam uraian tentang sang resi ini. Penyucian, kejernihan, dan pengendalian diri berkembang bersama kepedulian tersebut. Dengan demikian, ayat ini memberi pandangan yang setara dimensi etis yang aktif: pemahaman yang lebih luas tentang diri disertai oleh sukacita atas kesejahteraan pihak lain. Ini melanjutkan perhatian terhadap pemeliharaan dunia yang diperkenalkan melalui *loka-saṃgraha* dalam Bab 3.
+
+## 5.26
+
+### Makna
+
+Bagi para pelepas yang berjuang dan bebas dari keinginan serta kemarahan, yang pikirannya terkendali dan yang mengenal diri, pembebasan di dalam Brahman sudah dekat di segala sisi.
+
+### Penjelasan
+
+Pembebasan di dalam Brahman dekat bagi para pelepas yang digambarkan di sini. Mereka telah membuang keinginan dan kemarahan, mengendalikan pikiran, dan mengenal diri. Krishna mengaitkan pembebasan mereka dengan bentuk-bentuk pengendalian dan pengetahuan ini.
+
+## 5.27
+
+### Makna
+
+Pelaku praktik menjaga persentuhan luar tetap di luar, mengarahkan pandangan di antara kedua alis, dan menyeimbangkan gerak prana dan apana di dalam lubang hidung.
+
+### Penjelasan
+
+Pelaku praktik menyingkirkan persentuhan indra dari luar, memusatkan pandangan di antara kedua alis, dan menyamakan *prāṇa* dan *apāna*, gerak vital di dalam lubang hidung. Ini adalah disiplin tubuh dan indra dari orang bijak yang dijelaskan dalam kalimat lengkap pada 5.28.
+
+## 5.28
+
+### Makna
+
+Orang bijak yang mengendalikan indra, pikiran, dan pemahaman, yang bertekad pada pembebasan serta bebas dari keinginan, rasa takut, dan kemarahan, senantiasa bebas.
+
+### Penjelasan
+
+Orang bijak mengendalikan indra, pikiran, dan pemahaman, mencari pembebasan, serta telah membuang keinginan, rasa takut, dan kemarahan. Orang bijak demikian dinyatakan senantiasa terbebaskan. Ini melengkapi uraian yang dimulai pada 5.27 dengan menyebutkan tujuan dan kondisi pelakunya.
+
+## 5.29
+
+### Makna
+
+Dengan mengenaliku sebagai penerima dan penikmat kurban serta pertapaan, Tuhan Yang Mahaagung atas seluruh dunia, dan sahabat semua makhluk, seseorang mencapai kedamaian.
+
+### Penjelasan
+
+Bab ini berakhir dengan mengidentifikasi Krishna secara pribadi di dalam tatanan suci yang telah diuraikannya. Ia adalah pribadi yang kepadanya persembahan diarahkan, Tuhan atas dunia-dunia, dan sahabat semua makhluk. Peran-peran ini mempertemukan pemujaan, kedaulatan kosmis, dan kepedulian. Janji terakhir tentang kedamaian dengan demikian menyatukan pengetahuan dan pelepasan dengan hubungan kepada Krishna, mempersiapkan orientasi bhakti dalam ajaran meditasi pada bab berikutnya.
+
+## Sumber
+
+1. **Bhagavad Gita, Bab 5, sumber Sanskerta.** Aksara Dewanagari yang ditampilkan dan IAST yang dihasilkan mengikuti transkripsi Sanskerta klasik dalam koleksi `gita/gita`, yang ditetapkan pada revisi `c6fce39595445768876ddbb8d1268a9c935e1d2b`, dengan koreksi transkripsi lokal yang dicatat oleh pembaca ini. Terjemahan dan komentar modern dari sumber asal tidak diimpor. [Sumber Sanskerta pada revisi yang ditetapkan](https://github.com/gita/gita/blob/c6fce39595445768876ddbb8d1268a9c935e1d2b/data/verse.json); [Unlicense](https://github.com/gita/gita/blob/c6fce39595445768876ddbb8d1268a9c935e1d2b/LICENSE).
+
+2. **Kashinath Trimbak Telang, *The Bhagavadgîtâ*, Sacred Books of the East, jilid VIII (1882), Bab V.** Pembanding domain publik untuk urutan dan peristilahan bab ini. Makna dan penjelasan di sini adalah tulisan orisinal berdasarkan teks Sanskerta yang ditampilkan, bukan reproduksi terjemahan Telang. [Bab V](https://sacred-texts.com/book/the-bhagavadgita/chapter-v).

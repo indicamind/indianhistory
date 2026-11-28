@@ -1,0 +1,445 @@
+---
+title: 'Bhagavad Gita, Chương 4: tri thức chuyển hóa hành động'
+excerpt: >-
+  Phần chuyển nghĩa và giải thích theo bối cảnh được biên soạn mới cho toàn bộ 42 câu về sự hiển lộ thiêng liêng, lễ hiến tế và tri thức giải thoát.
+scriptureChapterFor: bhagavad-gita
+chapter: 4
+tags:
+  - Bhagavad Gita
+  - Tiếng Phạn
+  - Triết học
+textSourceHash: 3ba571de74be9bd1a569bfe64eb1924bed1cdadedfcdbda3d1b2719ea92b80a5
+sourceHash: 91a158c0d2cd6862bc85b9fb1b3c494eaa505485e585979d65089d845bac8c34
+---
+
+Krishna trình bày về sự truyền thừa cổ xưa của yoga và việc Ngài lặp đi lặp lại sự hiển lộ để bảo vệ người thiện, tiêu diệt kẻ làm điều sai trái và thiết lập dharma. Ngài giải thích hành động và không hành động, nhiều hình thức hiến tế khác nhau, cùng tri thức thiêu rụi karma. Arjuna được chỉ dẫn phải nhận tri thức từ những người đã thấy chân lý và chặt đứt mối nghi ngờ của mình.
+
+Mỗi mục **Nghĩa** trình bày bằng tiếng Việt bản dịch tiếng Anh của nguyên văn tiếng Phạn. Mỗi phần **Giải thích** đi theo những điều câu thơ nói, các thuật ngữ và lập luận của nó. Những cách giải thích truyền thống được gắn với các nhà chú giải nêu đích danh được phân biệt khi có bất đồng. [1–3]
+
+## 4.1
+
+### Nghĩa
+
+Đức Thế Tôn nói: Ta đã truyền dạy yoga trường tồn này cho Vivasvan; Vivasvan truyền dạy cho Manu, và Manu nói lại cho Ikshvaku.
+
+### Giải thích
+
+Krishna nói Ngài đã truyền dạy yoga bất hoại này cho Vivasvan, thần mặt trời. Vivasvan truyền lại cho Manu, và Manu truyền cho Ikshvaku. Giáo lý nhờ vậy được lần ngược qua các tổ tiên thần linh và vương giả trước khi được giảng lại cho Arjuna.
+
+## 4.2
+
+### Nghĩa
+
+Được tiếp nhận qua sự truyền nối như vậy, các vương hiền biết đến yoga này. Qua một khoảng thời gian dài, yoga ấy đã thất truyền ở đây, hỡi người thiêu đốt kẻ thù.
+
+### Giải thích
+
+Các *rājarṣis*, những bậc trị vì đồng thời là hiền giả, gắn kết sự thông hiểu với trách nhiệm đối với cộng đồng. Sự truyền thừa phụ thuộc vào nhiều điều hơn là sự tồn tại tiếp tục của một tập hợp ngôn từ: giáo lý phải luôn được biết đến và thực hành. Sự thất truyền của nó giải thích vì sao cần có lời chỉ dạy mới. Lời kể của Krishna do đó đưa tính liên tục và sự gián đoạn vào lịch sử của sự thông hiểu tâm linh trong cuộc đối thoại.
+
+## 4.3
+
+### Nghĩa
+
+Chính yoga cổ xưa ấy hôm nay đã được Ta truyền dạy cho ngươi, vì ngươi là người sùng kính và là bạn của Ta; đây là một bí mật tối thượng.
+
+### Giải thích
+
+Krishna truyền dạy chính yoga cổ xưa ấy cho Arjuna vì Arjuna vừa là người sùng kính vừa là bạn của Ngài. Ngài gọi đó là bí mật cao nhất. Câu thơ xác định mối quan hệ của họ là lý do Arjuna nhận được giáo lý từng bị thất truyền khỏi dòng truyền thừa.
+
+## 4.4
+
+### Nghĩa
+
+Arjuna nói: Sự ra đời của Ngài là sau, còn sự ra đời của Vivasvan là trước. Làm sao con có thể hiểu rằng Ngài đã truyền dạy điều này từ thuở ban đầu?
+
+### Giải thích
+
+Arjuna đặt một câu hỏi trực tiếp về trình tự thời gian mà Krishna vừa nêu ra. Trải nghiệm của ông về Krishna như một người cùng thời khó khớp với tuyên bố đã truyền dạy một nhân vật nguyên thủy. Câu hỏi tạo ra mục đích cho đoạn tiếp theo: Krishna phải giải thích sự khác biệt giữa đời sống con người biểu lộ bên ngoài của Ngài và căn tính thần linh mà Ngài sắp bộc lộ đầy đủ hơn.
+
+## 4.5
+
+### Nghĩa
+
+Đức Thế Tôn nói: Nhiều kiếp sinh của Ta và của ngươi đã trôi qua, Arjuna. Ta biết tất cả chúng; còn ngươi thì không biết, hỡi người thiêu đốt kẻ thù.
+
+### Giải thích
+
+Krishna trả lời trong khuôn khổ trình bày của chương về sự tái sinh lặp lại, đồng thời chỉ ra sự bất đối xứng về tri thức. Cả người nói lẫn người nghe đều có một lịch sử trải dài vượt ra ngoài kiếp sống hiện tại, nhưng Krishna nhớ toàn bộ lịch sử đó. Câu trả lời bắt đầu phân biệt sự hiển lộ thiêng liêng với sự tồn tại hữu hình thông thường. Câu tiếp theo giải thích cách Krishna có thể nói về sự ra đời trong khi cũng tự nhận mình không sinh và bất hoại.
+
+## 4.6
+
+### Nghĩa
+
+Dù không sinh, có bản thể bất hoại và là Chúa tể của muôn loài, Ta vẫn hiển lộ qua quyền năng của chính mình, làm chủ bản tính của chính Ta.
+
+### Giải thích
+
+Câu thơ đặt tự do thiêng liêng bên cạnh sự hiển lộ trong thế gian. *Ātma-māyā* gọi tên quyền năng riêng của Krishna trong hành động này. Các cách đọc truyền thống mô tả bản chất của nó khác nhau: Shankara nhấn mạnh sự hiển lộ như thể mang thân xác thông qua māyā thiêng liêng, trong khi Ramanuja nhấn mạnh sự hiển lộ do Chúa tể tự do lựa chọn mà không mất đi các phẩm tính thần linh. Cả hai đều phân biệt sự xuất hiện này với sự sinh ra thông thường dưới sức ép của karma. [3]
+
+## 4.7
+
+### Nghĩa
+
+Bất cứ khi nào dharma suy vi và adharma trỗi dậy, hỡi hậu duệ của Bharata, khi ấy Ta tự đưa mình ra hiển lộ.
+
+### Giải thích
+
+Krishna tuyên bố rằng Ngài tự đưa mình ra hiển lộ bất cứ khi nào dharma suy vi và adharma trỗi dậy. Sự hiển lộ của Ngài đáp lại sự suy đồi của chính nghĩa và trật tự đã định. Lời khẳng định giải thích khi nào sự hiển lộ thiêng liêng được mô tả ở 4.6 xảy ra.
+
+## 4.8
+
+### Nghĩa
+
+Để bảo vệ người thiện, tiêu diệt kẻ làm điều sai trái và tái lập dharma, Ta hiển lộ từ thời đại này sang thời đại khác.
+
+### Giải thích
+
+Krishna nêu ba mục đích của sự hiển lộ lặp lại của Ngài: bảo vệ người thiện, tiêu diệt kẻ làm điều sai trái và khôi phục dharma. “Từ thời đại này sang thời đại khác” nói rõ những lần hiển lộ thiêng liêng này diễn ra lặp lại.
+
+## 4.9
+
+### Nghĩa
+
+Ai thật sự biết sự ra đời và hành động thiêng liêng của Ta thì sau khi rời bỏ thân xác sẽ không trải qua một lần sinh nữa, mà đi đến với Ta, Arjuna.
+
+### Giải thích
+
+Hiểu sự ra đời của Krishna đòi hỏi nắm bắt sự tự do và mục đích được mô tả trong các câu trước. Tri thức ấy liên quan đến tính chất hành động của Ngài cũng như sự kiện hiển lộ của Ngài. Kết quả được hứa hẹn là giải thoát khỏi sự tái sinh và đạt tới Krishna. Câu thơ nhờ vậy nối kết sự thông hiểu thần học với câu hỏi tiếp diễn của chương về việc làm sao hành động có thể thoát khỏi các hệ quả trói buộc.
+
+## 4.10
+
+### Nghĩa
+
+Thoát khỏi bám chấp, sợ hãi và giận dữ, đắm mình nơi Ta và nương tựa nơi Ta, nhiều người đã được thanh lọc nhờ kỷ luật của tri thức và đạt tới trạng thái của Ta.
+
+### Giải thích
+
+Giáo lý kết hợp sự thông hiểu, thanh lọc và lòng sùng kính. Bám chấp, sợ hãi và giận dữ là những xáo trộn đã được xem xét ở các chương trước; ở đây chúng được vượt qua trong một đời sống hướng về Krishna. *Jñāna-tapas* mang lại cho tri thức tính chất của một kỷ luật thanh lọc. “Nhiều người” trình bày khả năng này như điều đã được các người tầm đạo trước kia thực hiện, gắn kết lời chỉ dạy hiện tại cho Arjuna với một con đường chuyển hóa đã được xác lập.
+
+## 4.11
+
+### Nghĩa
+
+Người ta tiếp cận Ta theo cách nào, Ta đáp lại họ tương ứng như vậy. Trên mọi nẻo đường, Partha, con người đều đi theo con đường của Ta.
+
+### Giải thích
+
+Krishna đáp lại con người tùy theo cách họ tiếp cận Ngài. Ngài cũng tuyên bố rằng con người đi theo con đường của Ngài trên mọi phương diện. Những cách tiếp cận khác nhau nhận được kết quả tương ứng; câu tiếp theo xác định thành công nhanh chóng trong hành động là một mục đích như vậy.
+
+## 4.12
+
+### Nghĩa
+
+Những ai khao khát thành công trong hành động của mình thì thờ phụng chư thần ở đây, vì thành công sinh ra từ hành động đến nhanh chóng trong thế giới loài người.
+
+### Giải thích
+
+Những người muốn thành công trong hành động thờ phụng chư thần vì hành động tạo ra thành công nhanh chóng trong thế giới loài người. Krishna nêu rõ hiệu lực của việc thờ phụng này và xác định mục đích của nó là thành công, tương phản với sự giải thoát được bàn trong các câu xung quanh.
+
+## 4.13
+
+### Nghĩa
+
+Trật tự varna bốn phần đã được Ta tạo ra theo sự phân chia của các phẩm tính và hành động. Dù là đấng tạo ra nó, hãy biết Ta là đấng không hành động bất biến.
+
+### Giải thích
+
+Câu thơ quy trật tự xã hội bốn phần cho Krishna và nêu *guṇa* cùng *karma*, tức phẩm tính và hành động, làm các nguyên tắc phân biệt của nó. Chương 18 về sau trình bày bốn nhóm và bổn phận của họ. Ở đây lời khẳng định cũng phục vụ cho lập luận về tác nhân hành động: Krishna nhận vai trò sáng tạo trong khi vẫn bất biến và không bị hành động trói buộc. Trật tự xã hội và vấn đề tính không hành động thiêng liêng gặp nhau trong cùng một câu.
+
+## 4.14
+
+### Nghĩa
+
+Hành động không làm vấy bẩn Ta, và Ta không có lòng khao khát đối với hoa trái của chúng. Ai hiểu Ta theo cách này cũng không bị hành động trói buộc.
+
+### Giải thích
+
+Krishna nói hành động không làm Ngài vấy bẩn vì Ngài không có ham muốn đối với hoa trái của chúng. Người biết Ngài theo cách này cũng tương tự không bị hành động trói buộc. Tri thức về sự tự do của Krishna khỏi hệ quả của hành động vì thế được nói là giải phóng người biết khỏi những xiềng xích đó.
+
+## 4.15
+
+### Nghĩa
+
+Biết điều này, những người tìm kiếm giải thoát thuở trước cũng đã thực hiện hành động. Vì vậy ngươi cũng hãy hành động, như những người thời trước đã hành động.
+
+### Giải thích
+
+Những người tìm kiếm giải thoát thuở trước biết sự tự do khỏi trói buộc này nhưng vẫn thực hiện hành động. Krishna truyền lệnh cho Arjuna hành động như họ đã làm. Tấm gương của họ ủng hộ việc tiếp tục thực hiện hành động bởi người tìm kiếm giải thoát.
+
+## 4.16
+
+### Nghĩa
+
+Ngay cả những người sáng suốt cũng bối rối về thế nào là hành động và thế nào là không hành động. Ta sẽ giải thích hành động cho ngươi; biết được nó, ngươi sẽ thoát khỏi điều gây hại.
+
+### Giải thích
+
+Krishna thừa nhận rằng chỉ quan sát bên ngoài thôi không giải quyết được vấn đề. Chuyển động thân thể, sự kiềm chế và bám chấp bên trong có thể kết hợp theo những cách khác nhau. Điều này khiến tính chất đạo đức và tâm linh của một hành vi khó đánh giá hơn vẻ bề ngoài của nó gợi ý. Lời giải thích được hứa hẹn liên quan đến sự thông hiểu mà qua đó hành động ngừng trói buộc, chứ không chỉ là một danh sách những việc cần làm hay cần tránh.
+
+## 4.17
+
+### Nghĩa
+
+Hành động phải được hiểu, và hành động sai trái cùng sự không hành động cũng vậy. Tiến trình của hành động thật khó thấu suốt.
+
+### Giải thích
+
+Ba thuật ngữ mở rộng cuộc tìm hiểu. Hành động được quy định hay thích hợp, *vikarma* tức hành động trái với điều nên làm, và *akarma* tức sự không hành động không thể được phân loại chỉ bằng nỗ lực hữu hình. Tiến trình của chúng bao gồm mục đích, sự thông hiểu và các hệ quả. Krishna chuẩn bị cho Arjuna đón nhận nghịch lý ở câu tiếp theo, nơi cùng một hành vi bên ngoài có thể được nhìn nhận khác nhau từ lập trường của trói buộc và tự do.
+
+## 4.18
+
+### Nghĩa
+
+Ai thấy sự không hành động trong hành động và thấy hành động trong sự không hành động là người khôn ngoan giữa loài người; người ấy có kỷ luật và đã hoàn thành mọi hành động.
+
+### Giải thích
+
+Người khôn ngoan thấy sự không hành động bên trong hành động và thấy hành động bên trong sự không hành động. Sự phân biệt liên quan đến tính chất đích thực của tác nhân hành động hơn là sự hiện diện hay vắng mặt đơn thuần của chuyển động thân thể. Các câu tiếp theo mô tả người biết vẫn tiếp tục hành động trong khi tự do khỏi ham muốn, bám chấp và các hệ quả trói buộc của hành động.
+
+## 4.19
+
+### Nghĩa
+
+Những ai có mọi việc khởi sự đều thoát khỏi các ý định bị ham muốn thúc đẩy, và có các hành động đã bị ngọn lửa tri thức thiêu rụi, thì được những người sáng suốt gọi là bậc trí.
+
+### Giải thích
+
+Mọi việc khởi sự của bậc trí đều thoát khỏi các ham muốn và những ý định hình thành quanh chúng. Tri thức thiêu rụi hành động của họ như lửa thiêu nhiên liệu, hủy diệt khả năng trói buộc của chúng. Đây là những điều kiện qua đó Krishna xác định người được những người sáng suốt gọi là bậc trí.
+
+## 4.20
+
+### Nghĩa
+
+Đã từ bỏ sự bám chấp vào hoa trái của hành động, luôn mãn nguyện và không nương tựa vào bất kỳ chỗ dựa bên ngoài nào để viên mãn, người ấy hoàn toàn chẳng làm gì cả ngay cả khi đang dấn thân trọn vẹn vào hành động.
+
+### Giải thích
+
+Người ấy đã buông bỏ sự bám chấp vào hoa trái của hành động, luôn mãn nguyện và không nương tựa vào điều gì. Krishna nói rằng ngay cả khi đang dấn thân trọn vẹn vào hành động, người này hoàn toàn chẳng làm gì cả. Câu thơ nêu tính không hành động song hành với hoạt động bên ngoài tiếp diễn, mở rộng sự phân biệt giữa hành động và không hành động được giới thiệu ở 4.18.
+
+## 4.21
+
+### Nghĩa
+
+Thoát khỏi kỳ vọng, với tâm trí và bản ngã được chế ngự và mọi tính chiếm hữu đã buông bỏ, người ấy không mắc lỗi nào khi chỉ làm điều duy trì sự sống thân xác.
+
+### Giải thích
+
+Người ấy đã buông bỏ kỳ vọng cùng tài sản chiếm hữu và đưa tâm trí cùng bản ngã vào sự kiểm soát. Hoạt động chỉ tiếp tục để duy trì thân xác. Krishna tuyên bố rằng người này không mắc tội lỗi gì qua hành động như vậy, tiếp tục trình bày về hành động không trói buộc.
+
+## 4.22
+
+### Nghĩa
+
+Mãn nguyện với những gì tự đến, vượt lên trên các trải nghiệm đối lập và thoát khỏi đố kỵ, tâm bình thản trong thành công và thất bại, người ấy không bị trói buộc dù đang hành động.
+
+### Giải thích
+
+Một số nguồn gốc quen thuộc của sự xao động được đặt cạnh nhau: sự thu nhận, những tương phản khổ và vui, sự so sánh với người khác, và đòi hỏi phải thành công. Sự mãn nguyện làm thay đổi mối quan hệ của con người với từng điều ấy. Câu văn một lần nữa giữ lại hành động trong khi mô tả sự tự do khỏi các xiềng xích của nó. Sự kết hợp lặp lại này mang lại thực chất cho giáo lý của Krishna: giải thoát liên quan đến cách hành động được hiểu và đảm nhận trong những hoàn cảnh đổi thay.
+
+## 4.23
+
+### Nghĩa
+
+Đối với người mà sự bám chấp đã tan biến, người đã tự do, người có tâm trí an trú trong tri thức và hành động như một lễ hiến tế, hành động tan rã hoàn toàn.
+
+### Giải thích
+
+Ngôn ngữ của *yajña*, được giới thiệu trong Chương 3, nay gặp gỡ ngôn ngữ của tri thức. Hành động được trao đi như một lễ vật dâng hiến thay vì bị chiếm giữ như một thành tựu riêng tư. Sự tan rã của nó liên quan đến sự tích tụ trói buộc được mô tả xuyên suốt đoạn văn. Câu thơ này cũng mở ra chuyển động tiếp theo của chương, trong đó cấu trúc của lễ hiến tế trở thành cách để hiểu nhiều loại kỷ luật tâm linh.
+
+## 4.24
+
+### Nghĩa
+
+Dụng cụ dâng hiến là Brahman; lễ vật là Brahman; nó được dâng bởi Brahman vào ngọn lửa của Brahman. Brahman là đích đến của người mà sự chú tâm an trụ nơi hành động như là Brahman.
+
+### Giải thích
+
+Mọi yếu tố của lễ hiến tế đều được đồng nhất với Brahman: dụng cụ dâng hiến, vật chất được dâng, người thực hiện, ngọn lửa và hành động. Người đắm mình trong hành động như là Brahman sẽ đạt tới Brahman. Đây là cái nhìn về lễ hiến tế được diễn đạt qua tri thức.
+
+## 4.25
+
+### Nghĩa
+
+Một số yogin chuyên tâm vào lễ hiến tế dâng lên chư thần; những người khác dâng chính lễ hiến tế qua lễ hiến tế vào ngọn lửa của Brahman.
+
+### Giải thích
+
+Một số yogin dâng lễ hiến tế lên chư thần. Những người khác dâng lễ hiến tế vào ngọn lửa của Brahman, tiếp nối sự đồng nhất các yếu tố hiến tế với Brahman ở 4.24. Krishna bắt đầu liệt kê các hình thức hiến tế bao gồm lễ vật nghi thức, sự kiềm chế, học tập và kiểm soát các sinh khí.
+
+## 4.26
+
+### Nghĩa
+
+Một số người dâng các giác quan, bắt đầu từ thính giác, vào các ngọn lửa của sự kiềm chế; những người khác dâng các đối tượng, bắt đầu từ âm thanh, vào các ngọn lửa của các giác quan.
+
+### Giải thích
+
+Chính các giác quan được dâng vào các ngọn lửa của sự kiềm chế trong một lễ hiến tế. Trong một lễ khác, âm thanh và các đối tượng giác quan khác được dâng vào các ngọn lửa của các giác quan. Câu thơ dùng cấu trúc của lễ hiến tế để mô tả sự kiềm chế hoạt động giác quan và việc tiếp nhận đối tượng của các giác quan.
+
+## 4.27
+
+### Nghĩa
+
+Những người khác dâng toàn bộ hoạt động của các giác quan và các sinh khí vào ngọn lửa tự chế ngự qua yoga, được thắp lên bởi tri thức.
+
+### Giải thích
+
+Toàn bộ hoạt động của các giác quan và các sinh khí được dâng vào ngọn lửa tự chế ngự theo yoga. Tri thức thắp lên ngọn lửa này. Lễ hiến tế bao trùm các vận hành giác quan và sinh lực cùng nhau, thay vì chỉ một giác quan hay một đối tượng đơn lẻ.
+
+## 4.28
+
+### Nghĩa
+
+Những người khác dâng tài vật, khổ hạnh hoặc yoga; vẫn có những người khác, tinh tấn với những lời thề vững chắc, dâng việc học tập và tri thức.
+
+### Giải thích
+
+Các lễ hiến tế được nêu ở đây gồm tài vật, khổ hạnh, yoga, học tập thánh điển và tri thức. Những người thực hành là các nhà khổ hạnh tinh tấn và giữ vững lời thề. Các hình thức này thuộc danh mục các lễ hiến tế mà hiệu quả thanh lọc được Krishna nêu ở 4.30.
+
+## 4.29
+
+### Nghĩa
+
+Một số người tận tụy với việc điều hòa hơi thở dâng prana vào apana, và những người khác dâng apana vào prana, giữ các chuyển động của prana và apana trong sự kiềm chế.
+
+### Giải thích
+
+Các tên truyền thống *prāṇa* và *apāna* chỉ những chuyển động sinh khí được dùng trong trình bày về điều hòa hơi thở. Câu thơ trình bày mối quan hệ của chúng như một lễ dâng hiến, đưa kỷ luật thân thể vào trong ngôn ngữ rộng hơn về lễ hiến tế của chương. Hơi thở trở thành một phần của những gì được làm chủ một cách có ý thức và trao dâng. Điều này tiếp nối danh mục các thực hành mà ý nghĩa của chúng sẽ được gom lại trong phần bàn về tri thức.
+
+## 4.30
+
+### Nghĩa
+
+Những người khác, có kỷ luật trong ăn uống, dâng các sinh khí vào các sinh khí. Tất cả những người này đều hiểu lễ hiến tế và có các bất tịnh của mình được mài mòn hết qua lễ hiến tế.
+
+### Giải thích
+
+Một số người điều độ việc ăn uống và dâng các sinh khí vào các sinh khí. Sau đó Krishna mô tả tất cả những người thực hành trong danh mục là những người hiểu biết lễ hiến tế mà tội lỗi hay bất tịnh của họ được hủy diệt qua lễ hiến tế. Sự thanh lọc được quy cho các lễ hiến tế mà họ thực hiện.
+
+## 4.31
+
+### Nghĩa
+
+Những ai thụ hưởng cam lồ còn lại từ lễ hiến tế sẽ đạt tới Brahman vĩnh cửu. Với người không dâng lễ hiến tế, ngay cả thế giới này cũng không trọn vẹn; huống chi thế giới khác, hỡi bậc tối thắng của dòng Kuru?
+
+### Giải thích
+
+Những người ăn cam lồ còn lại sau lễ hiến tế đạt tới Brahman vĩnh cửu. Krishna phủ nhận ngay cả thế giới này đối với người không thực hiện lễ hiến tế và hỏi làm sao một người như vậy có thể đạt tới thế giới khác. Lễ hiến tế được trình bày như điều tất yếu cho thành tựu ở thế giới này và thế giới khác.
+
+## 4.32
+
+### Nghĩa
+
+Như vậy nhiều hình thức hiến tế được trải rộng trong mặc khải thiêng liêng. Hãy biết tất cả chúng đều khởi sinh qua hành động; hiểu chúng theo cách này, ngươi sẽ được giải thoát.
+
+### Giải thích
+
+Nhiều lễ hiến tế được trình bày trong Veda và tất cả đều khởi sinh từ hành động. Krishna bảo Arjuna hãy biết nguồn gốc của chúng trong hành động và hứa hẹn sự giải thoát thông qua tri thức này. Danh mục xác lập phạm vi của hoạt động hiến tế trước khi tri thức được xếp cao hơn lễ hiến tế vật chất.
+
+## 4.33
+
+### Nghĩa
+
+Lễ hiến tế của tri thức cao hơn lễ hiến tế gồm tài vật, hỡi người thiêu đốt kẻ thù. Mọi hành động, không ngoại lệ, đều tìm thấy sự viên mãn của mình trong tri thức, Partha.
+
+### Giải thích
+
+Krishna xếp rõ ràng lễ hiến tế của tri thức cao hơn lễ hiến tế làm bằng tài vật. Mọi hành động đạt tới sự hoàn tất trong tri thức. Câu thơ thiết lập một thứ bậc giữa các lễ hiến tế vừa liệt kê và dành cho tri thức vị trí cao nhất.
+
+## 4.34
+
+### Nghĩa
+
+Hãy học điều này qua sự đảnh lễ, những câu hỏi tìm tòi và sự phụng sự. Những người biết và đã thấy chân lý sẽ dạy cho ngươi tri thức ấy.
+
+### Giải thích
+
+Arjuna phải tiếp cận những người biết chân lý bằng sự đảnh lễ, các câu hỏi và sự phụng sự. Những vị thầy này sẽ truyền trao tri thức vì họ đã thấy chân lý. Sự quy thuận vị thầy và việc tìm hỏi đều được gộp vào trong các phương tiện học tập cần thiết.
+
+## 4.35
+
+### Nghĩa
+
+Biết điều này, ngươi sẽ không rơi vào sự bối rối như thế nữa, Pandava. Qua nó ngươi sẽ thấy tất cả chúng sinh không ngoại lệ ở trong tự ngã, và rồi ở trong Ta.
+
+### Giải thích
+
+Tri thức nhận được từ các vị thầy xóa bỏ nỗi mê lầm đang làm Arjuna khổ sở. Qua nó ông sẽ thấy tất cả chúng sinh ở trong tự ngã và rồi ở trong Krishna. Krishna hứa hẹn một cái nhìn về mối quan hệ giữa chúng sinh, tự ngã và chính Ngài, cùng với sự tự do khỏi nỗi bối rối tái diễn.
+
+## 4.36
+
+### Nghĩa
+
+Ngay cả nếu ngươi là kẻ làm điều sai trái lớn nhất trong mọi kẻ làm điều sai trái, ngươi cũng sẽ vượt qua mọi điều sai trái bằng chiếc bè tri thức.
+
+### Giải thích
+
+Tri thức được ví như một chiếc bè đưa con người vượt qua mọi tội lỗi. Krishna nói điều này áp dụng ngay cả với tội nhân lớn nhất trong các tội nhân. Câu thơ quy quyền năng này cho tri thức mà không đặt những điều sai trái tích lũy của con người ra ngoài tầm với của nó.
+
+## 4.37
+
+### Nghĩa
+
+Như ngọn lửa bừng cháy biến củi thành tro, Arjuna, ngọn lửa tri thức cũng biến mọi hành động thành tro.
+
+### Giải thích
+
+Hình ảnh ngọn lửa trở lại từ 4.19 với sức mạnh chuyển hóa được nói rõ. Củi ngừng hoạt động như nhiên liệu một khi đã bị thiêu rụi; tương tự, tri thức hủy diệt hiệu lực trói buộc được gán cho hành động trong lập luận. Câu thơ liên quan đến sự chứng ngộ được phát triển qua chương, bao gồm việc buông bỏ quyền sở hữu mang tính bản ngã. Ngôn ngữ của nó giải thích vì sao Krishna dành cho tri thức một vị trí trung tâm như vậy giữa nhiều hình thức hiến tế.
+
+## 4.38
+
+### Nghĩa
+
+Không có vật thanh lọc nào trên thế gian này sánh được với tri thức. Người được hoàn thiện qua yoga sẽ tìm thấy nó bên trong tự ngã theo thời gian.
+
+### Giải thích
+
+Krishna tuyên bố tri thức là vật thanh lọc vĩ đại nhất trên thế gian. Một người được hoàn thiện qua yoga tìm thấy tri thức này trong tự ngã vào đúng lúc. Yoga chuẩn bị cho người thực hành, và tri thức đạt được bên trong tự ngã làm thanh sạch.
+
+## 4.39
+
+### Nghĩa
+
+Người có lòng tin, tận tụy với mục đích và chế ngự các giác quan sẽ đạt được tri thức. Đã đạt được nó, người ấy sớm đạt tới sự bình an cao nhất.
+
+### Giải thích
+
+Lòng tin, sự tận tụy và việc kiểm soát các giác quan là những điều kiện để có được tri thức. Một khi tri thức đã đạt được, sự bình an tối thượng nhanh chóng theo sau. Krishna gắn kết sự bình an được hứa hẹn với các kỷ luật này và với tri thức mà chúng giúp có thể đạt tới.
+
+## 4.40
+
+### Nghĩa
+
+Kẻ ngu dốt thiếu lòng tin và đầy nghi ngờ sẽ diệt vong. Đối với kẻ hay nghi ngờ như vậy không có thế giới này cũng chẳng có thế giới sau, cũng không có hạnh phúc.
+
+### Giải thích
+
+Kẻ ngu dốt, thiếu lòng tin và nghi ngờ sẽ diệt vong. Krishna phủ nhận hạnh phúc, thế giới này và thế giới sau đối với người này. Lời cảnh báo tương phản với lời hứa về tri thức và bình an dành cho người có lòng tin ở 4.39.
+
+## 4.41
+
+### Nghĩa
+
+Hành động không trói buộc người tự chủ đã buông bỏ hành động qua yoga và có những nghi ngờ đã bị tri thức cắt đứt, Dhananjaya.
+
+### Giải thích
+
+Hành động không trói buộc người đã từ bỏ chúng qua yoga, cắt đứt nghi ngờ bằng tri thức và làm chủ tự ngã. Yoga và tri thức cùng nhau gỡ bỏ các điều kiện của sự trói buộc. *Ātmavant* mô tả người có khả năng tự làm chủ.
+
+## 4.42
+
+### Nghĩa
+
+Vì vậy hãy chém đứt, bằng thanh gươm tri thức, mối nghi ngờ này trong lòng ngươi vốn khởi sinh từ vô minh. Hãy đứng trong yoga và đứng dậy, hỡi hậu duệ của Bharata.
+
+### Giải thích
+
+Krishna truyền lệnh cho Arjuna chém đứt mối nghi ngờ sinh ra từ vô minh bằng thanh gươm tri thức. Sau đó ông phải đứng vững trong yoga và đứng dậy. Mệnh lệnh đưa giáo lý về tri thức và hành động không trói buộc trở lại hoàn cảnh của Arjuna trên chiến trường.
+
+## Nguồn
+
+1. **Bhagavad Gita, Chương 4, nguyên văn tiếng Phạn.** Chữ Devanagari hiển thị và bản IAST được tạo từ đó tuân theo bản chép tiếng Phạn cổ điển trong bộ `gita/gita`, bản sửa đổi `c6fce39595445768876ddbb8d1268a9c935e1d2b`, cùng các chỉnh sửa phiên chép cục bộ được trình đọc này ghi lại. Không nhập các bản dịch hiện đại và chú giải từ bộ nguồn ban đầu. [Nguồn tiếng Phạn cố định theo bản sửa đổi](https://github.com/gita/gita/blob/c6fce39595445768876ddbb8d1268a9c935e1d2b/data/verse.json); [Unlicense](https://github.com/gita/gita/blob/c6fce39595445768876ddbb8d1268a9c935e1d2b/LICENSE).
+
+2. **Kashinath Trimbak Telang, *The Bhagavadgîtâ*, Sacred Books of the East, tập VIII (1882), Chương IV.** Bản dịch thuộc phạm vi công cộng để đối chiếu trình tự và thuật ngữ của chương. Các phần nghĩa và giải thích ở đây là bài viết mới dựa trên nguyên văn tiếng Phạn đang hiển thị, không phải sự tái tạo bản dịch của Telang. [Chương IV](https://sacred-texts.com/book/the-bhagavadgita/chapter-iv).
+
+3. **Shankara và Ramanuja, chú giải tiếng Phạn về Bhagavad Gita 4.6.** Các trình bày của hai vị phân biệt sự hiển lộ thiêng liêng với sự ra đời thông thường chịu sự chi phối của karma trong khi khác nhau về bản chất chính xác của nó. Sự so sánh ở 4.6 dựa trên chú giải tiếng Phạn của hai vị, không phải bản chú giải hiện đại được chép lại. [Các chú giải truyền thống](https://www.bhagavadgita.eu/en/?p=3033).
